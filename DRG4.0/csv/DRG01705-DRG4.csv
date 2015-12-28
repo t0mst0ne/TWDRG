@@ -1,13 +1,13 @@
-,DRG,CM-PCS,en
-47903,DRG01705,G9340,"Encephalopathy, unspecified"
-47904,DRG01705,G9341,Metabolic encephalopathy
-47905,DRG01705,G9349,Other encephalopathy
-47906,DRG01705,G9381,Temporal sclerosis
-47907,DRG01705,G9382,Brain death
-47908,DRG01705,G9389,Other specified disorders of brain
-47909,DRG01705,G939,"Disorder of brain, unspecified"
-47910,DRG01705,G968,Other specified disorders of central nervous system
-47911,DRG01705,G969,"Disorder of central nervous system, unspecified"
-47912,DRG01705,G980,"Neurogenic arthritis, not elsewhere classified"
-47913,DRG01705,G988,Other disorders of nervous system
-47914,DRG01705,I6783,Posterior reversible encephalopathy syndrome
+DRG,CM-PCS,en
+DRG01705,G9340,"Encephalopathy, unspecified"
+DRG01705,G9341,Metabolic encephalopathy
+DRG01705,G9349,Other encephalopathy
+DRG01705,G9381,Temporal sclerosis
+DRG01705,G9382,Brain death
+DRG01705,G9389,Other specified disorders of brain
+DRG01705,G939,"Disorder of brain, unspecified"
+DRG01705,G968,Other specified disorders of central nervous system
+DRG01705,G969,"Disorder of central nervous system, unspecified"
+DRG01705,G980,"Neurogenic arthritis, not elsewhere classified"
+DRG01705,G988,Other disorders of nervous system
+DRG01705,I6783,Posterior reversible encephalopathy syndrome

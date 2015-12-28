@@ -1,11 +1,11 @@
-,DRG,CM-PCS,en
-38566,DRG13402,I10,Essential (primary) hypertension
-38567,DRG13402,I119,Hypertensive heart disease without heart failure
-38568,DRG13402,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
-38569,DRG13402,I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
-38570,DRG13402,I150,Renovascular hypertension
-38571,DRG13402,I151,Hypertension secondary to other renal disorders
-38572,DRG13402,I152,Hypertension secondary to endocrine disorders
-38573,DRG13402,I158,Other secondary hypertension
-38574,DRG13402,I159,"Secondary hypertension, unspecified"
-38575,DRG13402,N262,Page kidney
+DRG,CM-PCS,en
+DRG13402,I10,Essential (primary) hypertension
+DRG13402,I119,Hypertensive heart disease without heart failure
+DRG13402,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+DRG13402,I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+DRG13402,I150,Renovascular hypertension
+DRG13402,I151,Hypertension secondary to other renal disorders
+DRG13402,I152,Hypertension secondary to endocrine disorders
+DRG13402,I158,Other secondary hypertension
+DRG13402,I159,"Secondary hypertension, unspecified"
+DRG13402,N262,Page kidney

@@ -1,19 +1,19 @@
-,DRG,CM-PCS,en
-6571,DRG09907,R05,Cough
-6572,DRG09907,R0600,"Dyspnea, unspecified"
-6573,DRG09907,R0601,Orthopnea
-6574,DRG09907,R0602,Shortness of breath
-6575,DRG09907,R0609,Other forms of dyspnea
-6576,DRG09907,R061,Stridor
-6577,DRG09907,R062,Wheezing
-6578,DRG09907,R063,Periodic breathing
-6579,DRG09907,R066,Hiccough
-6580,DRG09907,R0682,"Tachypnea, not elsewhere classified"
-6581,DRG09907,R0683,Snoring
-6582,DRG09907,R0689,Other abnormalities of breathing
-6583,DRG09907,R069,Unspecified abnormalities of breathing
-6584,DRG09907,R071,Chest pain on breathing
-6585,DRG09907,R0781,Pleurodynia
-6586,DRG09907,R093,Abnormal sputum
-6587,DRG09907,R222,"Localized swelling, mass and lump, trunk"
-6588,DRG09907,R918,Other nonspecific abnormal finding of lung field
+DRG,CM-PCS,en
+DRG09907,R05,Cough
+DRG09907,R0600,"Dyspnea, unspecified"
+DRG09907,R0601,Orthopnea
+DRG09907,R0602,Shortness of breath
+DRG09907,R0609,Other forms of dyspnea
+DRG09907,R061,Stridor
+DRG09907,R062,Wheezing
+DRG09907,R063,Periodic breathing
+DRG09907,R066,Hiccough
+DRG09907,R0682,"Tachypnea, not elsewhere classified"
+DRG09907,R0683,Snoring
+DRG09907,R0689,Other abnormalities of breathing
+DRG09907,R069,Unspecified abnormalities of breathing
+DRG09907,R071,Chest pain on breathing
+DRG09907,R0781,Pleurodynia
+DRG09907,R093,Abnormal sputum
+DRG09907,R222,"Localized swelling, mass and lump, trunk"
+DRG09907,R918,Other nonspecific abnormal finding of lung field

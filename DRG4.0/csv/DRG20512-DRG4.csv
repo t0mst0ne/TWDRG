@@ -1,3 +1,3 @@
-,DRG,CM-PCS,en
-7309,DRG20512,I81,Portal vein thrombosis
-7310,DRG20512,I820,Budd-Chiari syndrome
+DRG,CM-PCS,en
+DRG20512,I81,Portal vein thrombosis
+DRG20512,I820,Budd-Chiari syndrome

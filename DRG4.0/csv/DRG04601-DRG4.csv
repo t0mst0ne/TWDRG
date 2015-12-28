@@ -1,16 +1,16 @@
-,DRG,CM-PCS,en
-3865,DRG04601,B0050,"Herpesviral ocular disease, unspecified"
-3866,DRG04601,B0051,Herpesviral iridocyclitis
-3867,DRG04601,B0052,Herpesviral keratitis
-3868,DRG04601,B0053,Herpesviral conjunctivitis
-3869,DRG04601,B0059,Other herpesviral disease of eye
-3870,DRG04601,B0230,"Zoster ocular disease, unspecified"
-3871,DRG04601,B0231,Zoster conjunctivitis
-3872,DRG04601,B0232,Zoster iridocyclitis
-3873,DRG04601,B0233,Zoster keratitis
-3874,DRG04601,B0234,Zoster scleritis
-3875,DRG04601,B0239,Other herpes zoster eye disease
-3876,DRG04601,H30811,"Harada's disease, right eye"
-3877,DRG04601,H30812,"Harada's disease, left eye"
-3878,DRG04601,H30813,"Harada's disease, bilateral"
-3879,DRG04601,H30819,"Harada's disease, unspecified eye"
+DRG,CM-PCS,en
+DRG04601,B0050,"Herpesviral ocular disease, unspecified"
+DRG04601,B0051,Herpesviral iridocyclitis
+DRG04601,B0052,Herpesviral keratitis
+DRG04601,B0053,Herpesviral conjunctivitis
+DRG04601,B0059,Other herpesviral disease of eye
+DRG04601,B0230,"Zoster ocular disease, unspecified"
+DRG04601,B0231,Zoster conjunctivitis
+DRG04601,B0232,Zoster iridocyclitis
+DRG04601,B0233,Zoster keratitis
+DRG04601,B0234,Zoster scleritis
+DRG04601,B0239,Other herpes zoster eye disease
+DRG04601,H30811,"Harada's disease, right eye"
+DRG04601,H30812,"Harada's disease, left eye"
+DRG04601,H30813,"Harada's disease, bilateral"
+DRG04601,H30819,"Harada's disease, unspecified eye"

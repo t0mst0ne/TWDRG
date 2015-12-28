@@ -1,13 +1,13 @@
-,DRG,CM-PCS,en
-45205,DRG00919,G041,Tropical spastic paraplegia
-45206,DRG00919,G800,Spastic quadriplegic cerebral palsy
-45207,DRG00919,G801,Spastic diplegic cerebral palsy
-45208,DRG00919,G802,Spastic hemiplegic cerebral palsy
-45209,DRG00919,G8220,"Paraplegia, unspecified"
-45210,DRG00919,G8221,"Paraplegia, complete"
-45211,DRG00919,G8222,"Paraplegia, incomplete"
-45212,DRG00919,G8250,"Quadriplegia, unspecified"
-45213,DRG00919,G830,Diplegia of upper limbs
-45216,DRG00919,F000001,Physical Therapy
-45217,DRG00919,F000002,Occupational Therapy
-45218,DRG00919,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG00919,G041,Tropical spastic paraplegia
+DRG00919,G800,Spastic quadriplegic cerebral palsy
+DRG00919,G801,Spastic diplegic cerebral palsy
+DRG00919,G802,Spastic hemiplegic cerebral palsy
+DRG00919,G8220,"Paraplegia, unspecified"
+DRG00919,G8221,"Paraplegia, complete"
+DRG00919,G8222,"Paraplegia, incomplete"
+DRG00919,G8250,"Quadriplegia, unspecified"
+DRG00919,G830,Diplegia of upper limbs
+DRG00919,F000001,Physical Therapy
+DRG00919,F000002,Occupational Therapy
+DRG00919,F000003,Communication Therapy

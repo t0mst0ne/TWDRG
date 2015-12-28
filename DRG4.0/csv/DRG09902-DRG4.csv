@@ -1,37 +1,37 @@
-,DRG,CM-PCS,en
-6527,DRG09902,R05,Cough
-6528,DRG09902,R0600,"Dyspnea, unspecified"
-6529,DRG09902,R0601,Orthopnea
-6530,DRG09902,R0602,Shortness of breath
-6531,DRG09902,R0609,Other forms of dyspnea
-6532,DRG09902,R061,Stridor
-6533,DRG09902,R062,Wheezing
-6534,DRG09902,R063,Periodic breathing
-6535,DRG09902,R066,Hiccough
-6536,DRG09902,R0682,"Tachypnea, not elsewhere classified"
-6537,DRG09902,R0683,Snoring
-6538,DRG09902,R0689,Other abnormalities of breathing
-6539,DRG09902,R069,Unspecified abnormalities of breathing
-6540,DRG09902,R071,Chest pain on breathing
-6541,DRG09902,R0781,Pleurodynia
-6542,DRG09902,R093,Abnormal sputum
-6543,DRG09902,R222,"Localized swelling, mass and lump, trunk"
-6544,DRG09902,R918,Other nonspecific abnormal finding of lung field
-6547,DRG09902,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
-6548,DRG09902,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
-6549,DRG09902,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
-6550,DRG09902,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
-6551,DRG09902,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
-6552,DRG09902,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
-6553,DRG09902,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
-6554,DRG09902,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
-6555,DRG09902,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
-6556,DRG09902,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
-6557,DRG09902,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
-6558,DRG09902,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
-6559,DRG09902,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
-6560,DRG09902,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
-6561,DRG09902,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
-6562,DRG09902,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-6563,DRG09902,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-6564,DRG09902,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG,CM-PCS,en
+DRG09902,R05,Cough
+DRG09902,R0600,"Dyspnea, unspecified"
+DRG09902,R0601,Orthopnea
+DRG09902,R0602,Shortness of breath
+DRG09902,R0609,Other forms of dyspnea
+DRG09902,R061,Stridor
+DRG09902,R062,Wheezing
+DRG09902,R063,Periodic breathing
+DRG09902,R066,Hiccough
+DRG09902,R0682,"Tachypnea, not elsewhere classified"
+DRG09902,R0683,Snoring
+DRG09902,R0689,Other abnormalities of breathing
+DRG09902,R069,Unspecified abnormalities of breathing
+DRG09902,R071,Chest pain on breathing
+DRG09902,R0781,Pleurodynia
+DRG09902,R093,Abnormal sputum
+DRG09902,R222,"Localized swelling, mass and lump, trunk"
+DRG09902,R918,Other nonspecific abnormal finding of lung field
+DRG09902,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG09902,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG09902,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG09902,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG09902,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG09902,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG09902,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG09902,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG09902,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG09902,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG09902,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG09902,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG09902,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG09902,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG09902,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG09902,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG09902,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG09902,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

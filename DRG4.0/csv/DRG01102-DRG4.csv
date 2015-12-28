@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-45254,DRG01102,D354,Benign neoplasm of pineal gland
-45255,DRG01102,D355,Benign neoplasm of carotid body
-45256,DRG01102,D356,Benign neoplasm of aortic body and other paraganglia
-45257,DRG01102,D496,Neoplasm of unspecified behavior of brain
+DRG,CM-PCS,en
+DRG01102,D354,Benign neoplasm of pineal gland
+DRG01102,D355,Benign neoplasm of carotid body
+DRG01102,D356,Benign neoplasm of aortic body and other paraganglia
+DRG01102,D496,Neoplasm of unspecified behavior of brain

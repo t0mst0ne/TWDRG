@@ -1,42 +1,42 @@
-,DRG,CM-PCS,en
-47434,DRG01402,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
-47435,DRG01402,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
-47436,DRG01402,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
-47437,DRG01402,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
-47438,DRG01402,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
-47439,DRG01402,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
-47440,DRG01402,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
-47441,DRG01402,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
-47442,DRG01402,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
-47443,DRG01402,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
-47444,DRG01402,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
-47445,DRG01402,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
-47446,DRG01402,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
-47447,DRG01402,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
-47448,DRG01402,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
-47449,DRG01402,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
-47450,DRG01402,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
-47451,DRG01402,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
-47452,DRG01402,I608,Other nontraumatic subarachnoid hemorrhage
-47453,DRG01402,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
-47454,DRG01402,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
-47455,DRG01402,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
-47456,DRG01402,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
-47457,DRG01402,I613,Nontraumatic intracerebral hemorrhage in brain stem
-47458,DRG01402,I614,Nontraumatic intracerebral hemorrhage in cerebellum
-47459,DRG01402,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
-47460,DRG01402,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
-47461,DRG01402,I618,Other nontraumatic intracerebral hemorrhage
-47462,DRG01402,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
-47463,DRG01402,I6200,"Nontraumatic subdural hemorrhage, unspecified"
-47464,DRG01402,I6201,Nontraumatic acute subdural hemorrhage
-47465,DRG01402,I6202,Nontraumatic subacute subdural hemorrhage
-47466,DRG01402,I6203,Nontraumatic chronic subdural hemorrhage
-47467,DRG01402,I621,Nontraumatic extradural hemorrhage
-47468,DRG01402,I629,"Nontraumatic intracranial hemorrhage, unspecified"
-47471,DRG01402,I600000,Modified ranking scale 0
-47472,DRG01402,I600001,Modified ranking scale 1
-47473,DRG01402,I600002,Modified ranking scale 2
-47474,DRG01402,I600003,Modified ranking scale 3
-47475,DRG01402,I600004,Modified ranking scale 4
-47476,DRG01402,I600005,Modified ranking scale 5
+DRG,CM-PCS,en
+DRG01402,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
+DRG01402,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
+DRG01402,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
+DRG01402,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
+DRG01402,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
+DRG01402,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
+DRG01402,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
+DRG01402,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
+DRG01402,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
+DRG01402,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
+DRG01402,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
+DRG01402,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
+DRG01402,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
+DRG01402,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
+DRG01402,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
+DRG01402,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
+DRG01402,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
+DRG01402,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
+DRG01402,I608,Other nontraumatic subarachnoid hemorrhage
+DRG01402,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
+DRG01402,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+DRG01402,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+DRG01402,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
+DRG01402,I613,Nontraumatic intracerebral hemorrhage in brain stem
+DRG01402,I614,Nontraumatic intracerebral hemorrhage in cerebellum
+DRG01402,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
+DRG01402,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
+DRG01402,I618,Other nontraumatic intracerebral hemorrhage
+DRG01402,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
+DRG01402,I6200,"Nontraumatic subdural hemorrhage, unspecified"
+DRG01402,I6201,Nontraumatic acute subdural hemorrhage
+DRG01402,I6202,Nontraumatic subacute subdural hemorrhage
+DRG01402,I6203,Nontraumatic chronic subdural hemorrhage
+DRG01402,I621,Nontraumatic extradural hemorrhage
+DRG01402,I629,"Nontraumatic intracranial hemorrhage, unspecified"
+DRG01402,I600000,Modified ranking scale 0
+DRG01402,I600001,Modified ranking scale 1
+DRG01402,I600002,Modified ranking scale 2
+DRG01402,I600003,Modified ranking scale 3
+DRG01402,I600004,Modified ranking scale 4
+DRG01402,I600005,Modified ranking scale 5

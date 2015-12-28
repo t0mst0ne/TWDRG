@@ -1,19 +1,19 @@
-,DRG,CM-PCS,en
-5895,DRG07803,I2692,Saddle embolus of pulmonary artery without acute cor pulmonale
-5896,DRG07803,I2699,Other pulmonary embolism without acute cor pulmonale
-5897,DRG07803,I2782,Chronic pulmonary embolism
-5898,DRG07803,T790XXA,"Air embolism (traumatic), initial encounter"
-5899,DRG07803,T791XXA,"Fat embolism (traumatic), initial encounter"
-5900,DRG07803,T800XXA,"Air embolism following infusion, transfusion and therapeutic injection, initial encounter"
-5903,DRG07803,I950,Idiopathic hypotension
-5904,DRG07803,I951,Orthostatic hypotension
-5905,DRG07803,I952,Hypotension due to drugs
-5906,DRG07803,I953,Hypotension of hemodialysis
-5907,DRG07803,I9581,Postprocedural hypotension
-5908,DRG07803,I9589,Other hypotension
-5909,DRG07803,I9589,Other hypotension
-5910,DRG07803,I9589,Other hypotension
-5911,DRG07803,I959,"Hypotension, unspecified"
-5912,DRG07803,R579,"Shock, unspecified"
-5915,DRG07803,3E00003,Anticoagulant  drug therapy
-5916,DRG07803,3E00004,Interventional thrombolytic therapy
+DRG,CM-PCS,en
+DRG07803,I2692,Saddle embolus of pulmonary artery without acute cor pulmonale
+DRG07803,I2699,Other pulmonary embolism without acute cor pulmonale
+DRG07803,I2782,Chronic pulmonary embolism
+DRG07803,T790XXA,"Air embolism (traumatic), initial encounter"
+DRG07803,T791XXA,"Fat embolism (traumatic), initial encounter"
+DRG07803,T800XXA,"Air embolism following infusion, transfusion and therapeutic injection, initial encounter"
+DRG07803,I950,Idiopathic hypotension
+DRG07803,I951,Orthostatic hypotension
+DRG07803,I952,Hypotension due to drugs
+DRG07803,I953,Hypotension of hemodialysis
+DRG07803,I9581,Postprocedural hypotension
+DRG07803,I9589,Other hypotension
+DRG07803,I9589,Other hypotension
+DRG07803,I9589,Other hypotension
+DRG07803,I959,"Hypotension, unspecified"
+DRG07803,R579,"Shock, unspecified"
+DRG07803,3E00003,Anticoagulant  drug therapy
+DRG07803,3E00004,Interventional thrombolytic therapy

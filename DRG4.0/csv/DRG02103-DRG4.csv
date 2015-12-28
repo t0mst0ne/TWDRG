@@ -1,8 +1,8 @@
-,DRG,CM-PCS,en
-49708,DRG02103,A870,Enteroviral meningitis
-49709,DRG02103,A878,Other viral meningitis
-49710,DRG02103,A879,"Viral meningitis, unspecified"
-49711,DRG02103,G032,Benign recurrent meningitis [Mollaret]
-49714,DRG02103,F000001,Physical Therapy
-49715,DRG02103,F000002,Occupational Therapy
-49716,DRG02103,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG02103,A870,Enteroviral meningitis
+DRG02103,A878,Other viral meningitis
+DRG02103,A879,"Viral meningitis, unspecified"
+DRG02103,G032,Benign recurrent meningitis [Mollaret]
+DRG02103,F000001,Physical Therapy
+DRG02103,F000002,Occupational Therapy
+DRG02103,F000003,Communication Therapy

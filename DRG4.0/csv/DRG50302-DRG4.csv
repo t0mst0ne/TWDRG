@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-74564,DRG50302,0MQN0ZZ,"Repair Right Knee Bursa and Ligament, Open Approach"
-74565,DRG50302,0MQN3ZZ,"Repair Right Knee Bursa and Ligament, Percutaneous Approach"
-74566,DRG50302,0MQN4ZZ,"Repair Right Knee Bursa and Ligament, Percutaneous Endoscopic Approach"
-74567,DRG50302,0MQP0ZZ,"Repair Left Knee Bursa and Ligament, Open Approach"
-74568,DRG50302,0MQP3ZZ,"Repair Left Knee Bursa and Ligament, Percutaneous Approach"
-74569,DRG50302,0MQP4ZZ,"Repair Left Knee Bursa and Ligament, Percutaneous Endoscopic Approach"
+DRG,CM-PCS,en
+DRG50302,0MQN0ZZ,"Repair Right Knee Bursa and Ligament, Open Approach"
+DRG50302,0MQN3ZZ,"Repair Right Knee Bursa and Ligament, Percutaneous Approach"
+DRG50302,0MQN4ZZ,"Repair Right Knee Bursa and Ligament, Percutaneous Endoscopic Approach"
+DRG50302,0MQP0ZZ,"Repair Left Knee Bursa and Ligament, Open Approach"
+DRG50302,0MQP3ZZ,"Repair Left Knee Bursa and Ligament, Percutaneous Approach"
+DRG50302,0MQP4ZZ,"Repair Left Knee Bursa and Ligament, Percutaneous Endoscopic Approach"

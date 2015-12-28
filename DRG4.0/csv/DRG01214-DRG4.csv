@@ -1,4 +1,4 @@
-,DRG,CM-PCS,en
-45278,DRG01214,A8100,"Creutzfeldt-Jakob disease, unspecified"
-45279,DRG01214,A8101,Variant Creutzfeldt-Jakob disease
-45280,DRG01214,A8109,Other Creutzfeldt-Jakob disease
+DRG,CM-PCS,en
+DRG01214,A8100,"Creutzfeldt-Jakob disease, unspecified"
+DRG01214,A8101,Variant Creutzfeldt-Jakob disease
+DRG01214,A8109,Other Creutzfeldt-Jakob disease

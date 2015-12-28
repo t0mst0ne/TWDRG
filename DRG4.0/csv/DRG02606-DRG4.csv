@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-50154,DRG02606,R5600,Simple febrile convulsions
-50155,DRG02606,R5601,Complex febrile convulsions
-50156,DRG02606,R561,Post traumatic seizures
-50157,DRG02606,R569,Unspecified convulsions
+DRG,CM-PCS,en
+DRG02606,R5600,Simple febrile convulsions
+DRG02606,R5601,Complex febrile convulsions
+DRG02606,R561,Post traumatic seizures
+DRG02606,R569,Unspecified convulsions

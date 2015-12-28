@@ -1,43 +1,43 @@
-,DRG,CM-PCS,en
-9910,DRG17939,K5100,Ulcerative (chronic) pancolitis without complications
-9911,DRG17939,K51011,Ulcerative (chronic) pancolitis with rectal bleeding
-9912,DRG17939,K51012,Ulcerative (chronic) pancolitis with intestinal obstruction
-9913,DRG17939,K51013,Ulcerative (chronic) pancolitis with fistula
-9914,DRG17939,K51014,Ulcerative (chronic) pancolitis with abscess
-9915,DRG17939,K51018,Ulcerative (chronic) pancolitis with other complication
-9916,DRG17939,K51019,Ulcerative (chronic) pancolitis with unspecified complications
-9917,DRG17939,K5120,Ulcerative (chronic) proctitis without complications
-9918,DRG17939,K51211,Ulcerative (chronic) proctitis with rectal bleeding
-9919,DRG17939,K51212,Ulcerative (chronic) proctitis with intestinal obstruction
-9920,DRG17939,K51213,Ulcerative (chronic) proctitis with fistula
-9921,DRG17939,K51214,Ulcerative (chronic) proctitis with abscess
-9922,DRG17939,K51218,Ulcerative (chronic) proctitis with other complication
-9923,DRG17939,K51219,Ulcerative (chronic) proctitis with unspecified complications
-9924,DRG17939,K5130,Ulcerative (chronic) rectosigmoiditis without complications
-9925,DRG17939,K51311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding
-9926,DRG17939,K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction
-9927,DRG17939,K51313,Ulcerative (chronic) rectosigmoiditis with fistula
-9928,DRG17939,K51314,Ulcerative (chronic) rectosigmoiditis with abscess
-9929,DRG17939,K51318,Ulcerative (chronic) rectosigmoiditis with other complication
-9930,DRG17939,K51319,Ulcerative (chronic) rectosigmoiditis with unspecified complications
-9931,DRG17939,K5140,Inflammatory polyps of colon without complications
-9932,DRG17939,K51411,Inflammatory polyps of colon with rectal bleeding
-9933,DRG17939,K51412,Inflammatory polyps of colon with intestinal obstruction
-9934,DRG17939,K51413,Inflammatory polyps of colon with fistula
-9935,DRG17939,K51414,Inflammatory polyps of colon with abscess
-9936,DRG17939,K51418,Inflammatory polyps of colon with other complication
-9937,DRG17939,K51419,Inflammatory polyps of colon with unspecified complications
-9938,DRG17939,K5150,Left sided colitis without complications
-9939,DRG17939,K51511,Left sided colitis with rectal bleeding
-9940,DRG17939,K51512,Left sided colitis with intestinal obstruction
-9941,DRG17939,K51513,Left sided colitis with fistula
-9942,DRG17939,K51514,Left sided colitis with abscess
-9943,DRG17939,K51518,Left sided colitis with other complication
-9944,DRG17939,K51519,Left sided colitis with unspecified complications
-9945,DRG17939,K5180,Other ulcerative colitis without complications
-9946,DRG17939,K51811,Other ulcerative colitis with rectal bleeding
-9947,DRG17939,K51812,Other ulcerative colitis with intestinal obstruction
-9948,DRG17939,K51813,Other ulcerative colitis with fistula
-9949,DRG17939,K51814,Other ulcerative colitis with abscess
-9950,DRG17939,K51818,Other ulcerative colitis with other complication
-9951,DRG17939,K51819,Other ulcerative colitis with unspecified complications
+DRG,CM-PCS,en
+DRG17939,K5100,Ulcerative (chronic) pancolitis without complications
+DRG17939,K51011,Ulcerative (chronic) pancolitis with rectal bleeding
+DRG17939,K51012,Ulcerative (chronic) pancolitis with intestinal obstruction
+DRG17939,K51013,Ulcerative (chronic) pancolitis with fistula
+DRG17939,K51014,Ulcerative (chronic) pancolitis with abscess
+DRG17939,K51018,Ulcerative (chronic) pancolitis with other complication
+DRG17939,K51019,Ulcerative (chronic) pancolitis with unspecified complications
+DRG17939,K5120,Ulcerative (chronic) proctitis without complications
+DRG17939,K51211,Ulcerative (chronic) proctitis with rectal bleeding
+DRG17939,K51212,Ulcerative (chronic) proctitis with intestinal obstruction
+DRG17939,K51213,Ulcerative (chronic) proctitis with fistula
+DRG17939,K51214,Ulcerative (chronic) proctitis with abscess
+DRG17939,K51218,Ulcerative (chronic) proctitis with other complication
+DRG17939,K51219,Ulcerative (chronic) proctitis with unspecified complications
+DRG17939,K5130,Ulcerative (chronic) rectosigmoiditis without complications
+DRG17939,K51311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding
+DRG17939,K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction
+DRG17939,K51313,Ulcerative (chronic) rectosigmoiditis with fistula
+DRG17939,K51314,Ulcerative (chronic) rectosigmoiditis with abscess
+DRG17939,K51318,Ulcerative (chronic) rectosigmoiditis with other complication
+DRG17939,K51319,Ulcerative (chronic) rectosigmoiditis with unspecified complications
+DRG17939,K5140,Inflammatory polyps of colon without complications
+DRG17939,K51411,Inflammatory polyps of colon with rectal bleeding
+DRG17939,K51412,Inflammatory polyps of colon with intestinal obstruction
+DRG17939,K51413,Inflammatory polyps of colon with fistula
+DRG17939,K51414,Inflammatory polyps of colon with abscess
+DRG17939,K51418,Inflammatory polyps of colon with other complication
+DRG17939,K51419,Inflammatory polyps of colon with unspecified complications
+DRG17939,K5150,Left sided colitis without complications
+DRG17939,K51511,Left sided colitis with rectal bleeding
+DRG17939,K51512,Left sided colitis with intestinal obstruction
+DRG17939,K51513,Left sided colitis with fistula
+DRG17939,K51514,Left sided colitis with abscess
+DRG17939,K51518,Left sided colitis with other complication
+DRG17939,K51519,Left sided colitis with unspecified complications
+DRG17939,K5180,Other ulcerative colitis without complications
+DRG17939,K51811,Other ulcerative colitis with rectal bleeding
+DRG17939,K51812,Other ulcerative colitis with intestinal obstruction
+DRG17939,K51813,Other ulcerative colitis with fistula
+DRG17939,K51814,Other ulcerative colitis with abscess
+DRG17939,K51818,Other ulcerative colitis with other complication
+DRG17939,K51819,Other ulcerative colitis with unspecified complications

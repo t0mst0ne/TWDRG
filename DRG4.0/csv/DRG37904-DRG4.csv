@@ -1,4 +1,4 @@
-,DRG,CM-PCS,en
-3052,DRG37904,O6000,"Preterm labor without delivery, unspecified trimester"
-3053,DRG37904,O6002,"Preterm labor without delivery, second trimester"
-3054,DRG37904,O6003,"Preterm labor without delivery, third trimester"
+DRG,CM-PCS,en
+DRG37904,O6000,"Preterm labor without delivery, unspecified trimester"
+DRG37904,O6002,"Preterm labor without delivery, second trimester"
+DRG37904,O6003,"Preterm labor without delivery, third trimester"

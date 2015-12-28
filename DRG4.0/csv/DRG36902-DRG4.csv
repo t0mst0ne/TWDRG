@@ -1,370 +1,370 @@
-,DRG,CM-PCS,en
-7782,DRG36902,D250,Submucous leiomyoma of uterus
-7783,DRG36902,D251,Intramural leiomyoma of uterus
-7784,DRG36902,D252,Subserosal leiomyoma of uterus
-7785,DRG36902,D259,"Leiomyoma of uterus, unspecified"
-7786,DRG36902,D260,Other benign neoplasm of cervix uteri
-7787,DRG36902,D261,Other benign neoplasm of corpus uteri
-7788,DRG36902,D267,Other benign neoplasm of other parts of uterus
-7789,DRG36902,D269,"Other benign neoplasm of uterus, unspecified"
-7790,DRG36902,D270,Benign neoplasm of right ovary
-7791,DRG36902,D271,Benign neoplasm of left ovary
-7792,DRG36902,D279,Benign neoplasm of unspecified ovary
-7793,DRG36902,D280,Benign neoplasm of vulva
-7794,DRG36902,D281,Benign neoplasm of vagina
-7795,DRG36902,D282,Benign neoplasm of uterine tubes and ligaments
-7796,DRG36902,D287,Benign neoplasm of other specified female genital organs
-7797,DRG36902,D289,"Benign neoplasm of female genital organ, unspecified"
-7798,DRG36902,E280,Estrogen excess
-7799,DRG36902,E281,Androgen excess
-7800,DRG36902,E282,Polycystic ovarian syndrome
-7801,DRG36902,E28310,Symptomatic premature menopause
-7802,DRG36902,E28319,Asymptomatic premature menopause
-7803,DRG36902,E2839,Other primary ovarian failure
-7804,DRG36902,E288,Other ovarian dysfunction
-7805,DRG36902,E289,"Ovarian dysfunction, unspecified"
-7806,DRG36902,E8940,Asymptomatic postprocedural ovarian failure
-7807,DRG36902,E8941,Symptomatic postprocedural ovarian failure
-7808,DRG36902,F525,Vaginismus not due to a substance or known physiological condition
-7809,DRG36902,G43821,"Menstrual migraine, not intractable, with status migrainosus"
-7810,DRG36902,G43829,"Menstrual migraine, not intractable, without status migrainosus"
-7811,DRG36902,G43831,"Menstrual migraine, intractable, with status migrainosus"
-7812,DRG36902,G43839,"Menstrual migraine, intractable, without status migrainosus"
-7813,DRG36902,I862,Pelvic varices
-7814,DRG36902,I863,Vulval varices
-7815,DRG36902,N393,Stress incontinence (female) (male)
-7816,DRG36902,N736,Female pelvic peritoneal adhesions (postinfective)
-7817,DRG36902,N750,Cyst of Bartholin's gland
-7818,DRG36902,N758,Other diseases of Bartholin's gland
-7819,DRG36902,N766,Ulceration of vulva
-7820,DRG36902,N800,Endometriosis of uterus
-7821,DRG36902,N801,Endometriosis of ovary
-7822,DRG36902,N802,Endometriosis of fallopian tube
-7823,DRG36902,N803,Endometriosis of pelvic peritoneum
-7824,DRG36902,N804,Endometriosis of rectovaginal septum and vagina
-7825,DRG36902,N808,Other endometriosis
-7826,DRG36902,N809,"Endometriosis, unspecified"
-7827,DRG36902,N810,Urethrocele
-7828,DRG36902,N8110,"Cystocele, unspecified"
-7829,DRG36902,N8111,"Cystocele, midline"
-7830,DRG36902,N8112,"Cystocele, lateral"
-7831,DRG36902,N812,Incomplete uterovaginal prolapse
-7832,DRG36902,N813,Complete uterovaginal prolapse
-7833,DRG36902,N814,"Uterovaginal prolapse, unspecified"
-7834,DRG36902,N815,Vaginal enterocele
-7835,DRG36902,N816,Rectocele
-7836,DRG36902,N8181,Perineocele
-7837,DRG36902,N8182,Incompetence or weakening of pubocervical tissue
-7838,DRG36902,N8183,Incompetence or weakening of rectovaginal tissue
-7839,DRG36902,N8184,Pelvic muscle wasting
-7840,DRG36902,N8185,Cervical stump prolapse
-7841,DRG36902,N8189,Other female genital prolapse
-7842,DRG36902,N819,"Female genital prolapse, unspecified"
-7843,DRG36902,N820,Vesicovaginal fistula
-7844,DRG36902,N821,Other female urinary-genital tract fistulae
-7845,DRG36902,N825,Female genital tract-skin fistulae
-7846,DRG36902,N828,Other female genital tract fistulae
-7847,DRG36902,N829,"Female genital tract fistula, unspecified"
-7848,DRG36902,N830,Follicular cyst of ovary
-7849,DRG36902,N831,Corpus luteum cyst
-7850,DRG36902,N8320,Unspecified ovarian cysts
-7851,DRG36902,N8329,Other ovarian cysts
-7852,DRG36902,N8331,Acquired atrophy of ovary
-7853,DRG36902,N8332,Acquired atrophy of fallopian tube
-7854,DRG36902,N8333,Acquired atrophy of ovary and fallopian tube
-7855,DRG36902,N834,Prolapse and hernia of ovary and fallopian tube
-7856,DRG36902,N8351,Torsion of ovary and ovarian pedicle
-7857,DRG36902,N8352,Torsion of fallopian tube
-7858,DRG36902,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube"
-7859,DRG36902,N836,Hematosalpinx
-7860,DRG36902,N837,Hematoma of broad ligament
-7861,DRG36902,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
-7862,DRG36902,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
-7863,DRG36902,N840,Polyp of corpus uteri
-7864,DRG36902,N841,Polyp of cervix uteri
-7865,DRG36902,N842,Polyp of vagina
-7866,DRG36902,N843,Polyp of vulva
-7867,DRG36902,N848,Polyp of other parts of female genital tract
-7868,DRG36902,N849,"Polyp of female genital tract, unspecified"
-7869,DRG36902,N8500,"Endometrial hyperplasia, unspecified"
-7870,DRG36902,N8501,Benign endometrial hyperplasia
-7871,DRG36902,N8502,Endometrial intraepithelial neoplasia [EIN]
-7872,DRG36902,N852,Hypertrophy of uterus
-7873,DRG36902,N853,Subinvolution of uterus
-7874,DRG36902,N854,Malposition of uterus
-7875,DRG36902,N855,Inversion of uterus
-7876,DRG36902,N856,Intrauterine synechiae
-7877,DRG36902,N857,Hematometra
-7878,DRG36902,N858,Other specified noninflammatory disorders of uterus
-7879,DRG36902,N859,"Noninflammatory disorder of uterus, unspecified"
-7880,DRG36902,N86,Erosion and ectropion of cervix uteri
-7881,DRG36902,N870,Mild cervical dysplasia
-7882,DRG36902,N871,Moderate cervical dysplasia
-7883,DRG36902,N879,"Dysplasia of cervix uteri, unspecified"
-7884,DRG36902,N880,Leukoplakia of cervix uteri
-7885,DRG36902,N881,Old laceration of cervix uteri
-7886,DRG36902,N882,Stricture and stenosis of cervix uteri
-7887,DRG36902,N883,Incompetence of cervix uteri
-7888,DRG36902,N884,Hypertrophic elongation of cervix uteri
-7889,DRG36902,N888,Other specified noninflammatory disorders of cervix uteri
-7890,DRG36902,N889,"Noninflammatory disorder of cervix uteri, unspecified"
-7891,DRG36902,N890,Mild vaginal dysplasia
-7892,DRG36902,N891,Moderate vaginal dysplasia
-7893,DRG36902,N893,"Dysplasia of vagina, unspecified"
-7894,DRG36902,N894,Leukoplakia of vagina
-7895,DRG36902,N895,Stricture and atresia of vagina
-7896,DRG36902,N896,Tight hymenal ring
-7897,DRG36902,N897,Hematocolpos
-7898,DRG36902,N898,Other specified noninflammatory disorders of vagina
-7899,DRG36902,N899,"Noninflammatory disorder of vagina, unspecified"
-7900,DRG36902,N900,Mild vulvar dysplasia
-7901,DRG36902,N901,Moderate vulvar dysplasia
-7902,DRG36902,N903,"Dysplasia of vulva, unspecified"
-7903,DRG36902,N904,Leukoplakia of vulva
-7904,DRG36902,N905,Atrophy of vulva
-7905,DRG36902,N906,Hypertrophy of vulva
-7906,DRG36902,N907,Vulvar cyst
-7907,DRG36902,N90810,"Female genital mutilation status, unspecified"
-7908,DRG36902,N90811,Female genital mutilation Type I status
-7909,DRG36902,N90812,Female genital mutilation Type II status
-7910,DRG36902,N90813,Female genital mutilation Type III status
-7911,DRG36902,N90818,Other female genital mutilation status
-7912,DRG36902,N9089,Other specified noninflammatory disorders of vulva and perineum
-7913,DRG36902,N909,"Noninflammatory disorder of vulva and perineum, unspecified"
-7914,DRG36902,N910,Primary amenorrhea
-7915,DRG36902,N911,Secondary amenorrhea
-7916,DRG36902,N912,"Amenorrhea, unspecified"
-7917,DRG36902,N913,Primary oligomenorrhea
-7918,DRG36902,N914,Secondary oligomenorrhea
-7919,DRG36902,N915,"Oligomenorrhea, unspecified"
-7920,DRG36902,N920,Excessive and frequent menstruation with regular cycle
-7921,DRG36902,N921,Excessive and frequent menstruation with irregular cycle
-7922,DRG36902,N922,Excessive menstruation at puberty
-7923,DRG36902,N923,Ovulation bleeding
-7924,DRG36902,N924,Excessive bleeding in the premenopausal period
-7925,DRG36902,N925,Other specified irregular menstruation
-7926,DRG36902,N926,"Irregular menstruation, unspecified"
-7927,DRG36902,N930,Postcoital and contact bleeding
-7928,DRG36902,N938,Other specified abnormal uterine and vaginal bleeding
-7929,DRG36902,N939,"Abnormal uterine and vaginal bleeding, unspecified"
-7930,DRG36902,N940,Mittelschmerz
-7931,DRG36902,N941,Dyspareunia
-7932,DRG36902,N942,Vaginismus
-7933,DRG36902,N943,Premenstrual tension syndrome
-7934,DRG36902,N944,Primary dysmenorrhea
-7935,DRG36902,N945,Secondary dysmenorrhea
-7936,DRG36902,N946,"Dysmenorrhea, unspecified"
-7937,DRG36902,N94818,Other vulvodynia
-7938,DRG36902,N94819,"Vulvodynia, unspecified"
-7939,DRG36902,N9489,Other specified conditions associated with female genital organs and menstrual cycle
-7940,DRG36902,N949,Unspecified condition associated with female genital organs and menstrual cycle
-7941,DRG36902,N950,Postmenopausal bleeding
-7942,DRG36902,N951,Menopausal and female climacteric states
-7943,DRG36902,N952,Postmenopausal atrophic vaginitis
-7944,DRG36902,N958,Other specified menopausal and perimenopausal disorders
-7945,DRG36902,N959,Unspecified menopausal and perimenopausal disorder
-7946,DRG36902,N96,Recurrent pregnancy loss
-7947,DRG36902,N970,Female infertility associated with anovulation
-7948,DRG36902,N971,Female infertility of tubal origin
-7949,DRG36902,N972,Female infertility of uterine origin
-7950,DRG36902,N978,Female infertility of other origin
-7951,DRG36902,N979,"Female infertility, unspecified"
-7952,DRG36902,N992,Postprocedural adhesions of vagina
-7953,DRG36902,N993,Prolapse of vaginal vault after hysterectomy
-7954,DRG36902,N9983,Residual ovary syndrome
-7955,DRG36902,Q5001,"Congenital absence of ovary, unilateral"
-7956,DRG36902,Q5002,"Congenital absence of ovary, bilateral"
-7957,DRG36902,Q501,Developmental ovarian cyst
-7958,DRG36902,Q502,Congenital torsion of ovary
-7959,DRG36902,Q5031,Accessory ovary
-7960,DRG36902,Q5032,Ovarian streak
-7961,DRG36902,Q5039,Other congenital malformation of ovary
-7962,DRG36902,Q504,Embryonic cyst of fallopian tube
-7963,DRG36902,Q505,Embryonic cyst of broad ligament
-7964,DRG36902,Q506,Other congenital malformations of fallopian tube and broad ligament
-7965,DRG36902,Q510,Agenesis and aplasia of uterus
-7966,DRG36902,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction
-7967,DRG36902,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction
-7968,DRG36902,Q512,Other doubling of uterus
-7969,DRG36902,Q513,Bicornate uterus
-7970,DRG36902,Q514,Unicornate uterus
-7971,DRG36902,Q515,Agenesis and aplasia of cervix
-7972,DRG36902,Q516,Embryonic cyst of cervix
-7973,DRG36902,Q517,Congenital fistulae between uterus and digestive and urinary tracts
-7974,DRG36902,Q51810,Arcuate uterus
-7975,DRG36902,Q51811,Hypoplasia of uterus
-7976,DRG36902,Q51818,Other congenital malformations of uterus
-7977,DRG36902,Q51820,Cervical duplication
-7978,DRG36902,Q51821,Hypoplasia of cervix
-7979,DRG36902,Q51828,Other congenital malformations of cervix
-7980,DRG36902,Q519,"Congenital malformation of uterus and cervix, unspecified"
-7981,DRG36902,Q520,Congenital absence of vagina
-7982,DRG36902,Q5210,"Doubling of vagina, unspecified"
-7983,DRG36902,Q5211,Transverse vaginal septum
-7984,DRG36902,Q5212,Longitudinal vaginal septum
-7985,DRG36902,Q522,Congenital rectovaginal fistula
-7986,DRG36902,Q523,Imperforate hymen
-7987,DRG36902,Q524,Other congenital malformations of vagina
-7988,DRG36902,Q525,Fusion of labia
-7989,DRG36902,Q526,Congenital malformation of clitoris
-7990,DRG36902,Q5270,Unspecified congenital malformations of vulva
-7991,DRG36902,Q5271,Congenital absence of vulva
-7992,DRG36902,Q5279,Other congenital malformations of vulva
-7993,DRG36902,Q528,Other specified congenital malformations of female genitalia
-7994,DRG36902,Q529,"Congenital malformation of female genitalia, unspecified"
-7995,DRG36902,Q560,"Hermaphroditism, not elsewhere classified"
-7996,DRG36902,Q562,"Female pseudohermaphroditism, not elsewhere classified"
-7997,DRG36902,Q563,"Pseudohermaphroditism, unspecified"
-7998,DRG36902,Q564,"Indeterminate sex, unspecified"
-7999,DRG36902,Q960,"Karyotype 45, X"
-8000,DRG36902,Q961,"Karyotype 46, X iso (Xq)"
-8001,DRG36902,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
-8002,DRG36902,Q963,"Mosaicism, 45, X/46, XX or XY"
-8003,DRG36902,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome"
-8004,DRG36902,Q968,Other variants of Turner's syndrome
-8005,DRG36902,Q969,"Turner's syndrome, unspecified"
-8006,DRG36902,Q970,"Karyotype 47, XXX"
-8007,DRG36902,Q971,Female with more than three X chromosomes
-8008,DRG36902,Q972,"Mosaicism, lines with various numbers of X chromosomes"
-8009,DRG36902,Q973,"Female with 46, XY karyotype"
-8010,DRG36902,Q978,"Other specified sex chromosome abnormalities, female phenotype"
-8011,DRG36902,Q979,"Sex chromosome abnormality, female phenotype, unspecified"
-8012,DRG36902,Q985,"Karyotype 47, XYY"
-8013,DRG36902,Q990,"Chimera 46, XX/46, XY"
-8014,DRG36902,Q991,"46, XX true hermaphrodite"
-8015,DRG36902,Q998,Other specified chromosome abnormalities
-8016,DRG36902,R87610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
-8017,DRG36902,R87611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
-8018,DRG36902,R87612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
-8019,DRG36902,R87613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
-8020,DRG36902,R87614,Cytologic evidence of malignancy on smear of cervix
-8021,DRG36902,R87615,Unsatisfactory cytologic smear of cervix
-8022,DRG36902,R87616,Satisfactory cervical smear but lacking transformation zone
-8023,DRG36902,R87810,Cervical high risk human papillomavirus (HPV) DNA test positive
-8024,DRG36902,R87820,Cervical low risk human papillomavirus (HPV) DNA test positive
-8025,DRG36902,S30202A,"Contusion of unspecified external genital organ, female, initial encounter"
-8026,DRG36902,S3023XA,"Contusion of vagina and vulva, initial encounter"
-8027,DRG36902,S3140XA,"Unspecified open wound of vagina and vulva, initial encounter"
-8028,DRG36902,S3141XA,"Laceration without foreign body of vagina and vulva, initial encounter"
-8029,DRG36902,S3142XA,"Laceration with foreign body of vagina and vulva, initial encounter"
-8030,DRG36902,S3143XA,"Puncture wound without foreign body of vagina and vulva, initial encounter"
-8031,DRG36902,S3144XA,"Puncture wound with foreign body of vagina and vulva, initial encounter"
-8032,DRG36902,S3145XA,"Open bite of vagina and vulva, initial encounter"
-8033,DRG36902,S31502A,"Unspecified open wound of unspecified external genital organs, female, initial encounter"
-8034,DRG36902,S31502S,"Unspecified open wound of unspecified external genital organs, female, sequela"
-8035,DRG36902,S31512A,"Laceration without foreign body of unspecified external genital organs, female, initial encounter"
-8036,DRG36902,S31512S,"Laceration without foreign body of unspecified external genital organs, female, sequela"
-8037,DRG36902,S31522A,"Laceration with foreign body of unspecified external genital organs, female, initial encounter"
-8038,DRG36902,S31522S,"Laceration with foreign body of unspecified external genital organs, female, sequela"
-8039,DRG36902,S31532A,"Puncture wound without foreign body of unspecified external genital organs, female, initial encounter"
-8040,DRG36902,S31532S,"Puncture wound without foreign body of unspecified external genital organs, female, sequela"
-8041,DRG36902,S31542A,"Puncture wound with foreign body of unspecified external genital organs, female, initial encounter"
-8042,DRG36902,S31542S,"Puncture wound with foreign body of unspecified external genital organs, female, sequela"
-8043,DRG36902,S31552A,"Open bite of unspecified external genital organs, female, initial encounter"
-8044,DRG36902,S31552S,"Open bite of unspecified external genital organs, female, sequela"
-8045,DRG36902,S3710XS,"Unspecified injury of ureter, sequela"
-8046,DRG36902,S3712XS,"Contusion of ureter, sequela"
-8047,DRG36902,S3713XS,"Laceration of ureter, sequela"
-8048,DRG36902,S3719XS,"Other injury of ureter, sequela"
-8049,DRG36902,S3720XS,"Unspecified injury of bladder, sequela"
-8050,DRG36902,S3722XS,"Contusion of bladder, sequela"
-8051,DRG36902,S3723XS,"Laceration of bladder, sequela"
-8052,DRG36902,S3729XS,"Other injury of bladder, sequela"
-8053,DRG36902,S3730XS,"Unspecified injury of urethra, sequela"
-8054,DRG36902,S3732XS,"Contusion of urethra, sequela"
-8055,DRG36902,S3733XS,"Laceration of urethra, sequela"
-8056,DRG36902,S3739XS,"Other injury of urethra, sequela"
-8057,DRG36902,S37401A,"Unspecified injury of ovary, unilateral, initial encounter"
-8058,DRG36902,S37401S,"Unspecified injury of ovary, unilateral, sequela"
-8059,DRG36902,S37402A,"Unspecified injury of ovary, bilateral, initial encounter"
-8060,DRG36902,S37402S,"Unspecified injury of ovary, bilateral, sequela"
-8061,DRG36902,S37409A,"Unspecified injury of ovary, unspecified, initial encounter"
-8062,DRG36902,S37409S,"Unspecified injury of ovary, unspecified, sequela"
-8063,DRG36902,S37421A,"Contusion of ovary, unilateral, initial encounter"
-8064,DRG36902,S37421S,"Contusion of ovary, unilateral, sequela"
-8065,DRG36902,S37422A,"Contusion of ovary, bilateral, initial encounter"
-8066,DRG36902,S37422S,"Contusion of ovary, bilateral, sequela"
-8067,DRG36902,S37429A,"Contusion of ovary, unspecified, initial encounter"
-8068,DRG36902,S37429S,"Contusion of ovary, unspecified, sequela"
-8069,DRG36902,S37431A,"Laceration of ovary, unilateral, initial encounter"
-8070,DRG36902,S37431S,"Laceration of ovary, unilateral, sequela"
-8071,DRG36902,S37432A,"Laceration of ovary, bilateral, initial encounter"
-8072,DRG36902,S37432S,"Laceration of ovary, bilateral, sequela"
-8073,DRG36902,S37439A,"Laceration of ovary, unspecified, initial encounter"
-8074,DRG36902,S37439S,"Laceration of ovary, unspecified, sequela"
-8075,DRG36902,S37491A,"Other injury of ovary, unilateral, initial encounter"
-8076,DRG36902,S37491S,"Other injury of ovary, unilateral, sequela"
-8077,DRG36902,S37492A,"Other injury of ovary, bilateral, initial encounter"
-8078,DRG36902,S37492S,"Other injury of ovary, bilateral, sequela"
-8079,DRG36902,S37499A,"Other injury of ovary, unspecified, initial encounter"
-8080,DRG36902,S37499S,"Other injury of ovary, unspecified, sequela"
-8081,DRG36902,S37501A,"Unspecified injury of fallopian tube, unilateral, initial encounter"
-8082,DRG36902,S37501S,"Unspecified injury of fallopian tube, unilateral, sequela"
-8083,DRG36902,S37502A,"Unspecified injury of fallopian tube, bilateral, initial encounter"
-8084,DRG36902,S37502S,"Unspecified injury of fallopian tube, bilateral, sequela"
-8085,DRG36902,S37509A,"Unspecified injury of fallopian tube, unspecified, initial encounter"
-8086,DRG36902,S37509S,"Unspecified injury of fallopian tube, unspecified, sequela"
-8087,DRG36902,S37511A,"Primary blast injury of fallopian tube, unilateral, initial encounter"
-8088,DRG36902,S37511S,"Primary blast injury of fallopian tube, unilateral, sequela"
-8089,DRG36902,S37512A,"Primary blast injury of fallopian tube, bilateral, initial encounter"
-8090,DRG36902,S37512S,"Primary blast injury of fallopian tube, bilateral, sequela"
-8091,DRG36902,S37519A,"Primary blast injury of fallopian tube, unspecified, initial encounter"
-8092,DRG36902,S37519S,"Primary blast injury of fallopian tube, unspecified, sequela"
-8093,DRG36902,S37521A,"Contusion of fallopian tube, unilateral, initial encounter"
-8094,DRG36902,S37521S,"Contusion of fallopian tube, unilateral, sequela"
-8095,DRG36902,S37522A,"Contusion of fallopian tube, bilateral, initial encounter"
-8096,DRG36902,S37522S,"Contusion of fallopian tube, bilateral, sequela"
-8097,DRG36902,S37529A,"Contusion of fallopian tube, unspecified, initial encounter"
-8098,DRG36902,S37529S,"Contusion of fallopian tube, unspecified, sequela"
-8099,DRG36902,S37531A,"Laceration of fallopian tube, unilateral, initial encounter"
-8100,DRG36902,S37531S,"Laceration of fallopian tube, unilateral, sequela"
-8101,DRG36902,S37532A,"Laceration of fallopian tube, bilateral, initial encounter"
-8102,DRG36902,S37532S,"Laceration of fallopian tube, bilateral, sequela"
-8103,DRG36902,S37539A,"Laceration of fallopian tube, unspecified, initial encounter"
-8104,DRG36902,S37539S,"Laceration of fallopian tube, unspecified, sequela"
-8105,DRG36902,S37591A,"Other injury of fallopian tube, unilateral, initial encounter"
-8106,DRG36902,S37591S,"Other injury of fallopian tube, unilateral, sequela"
-8107,DRG36902,S37592A,"Other injury of fallopian tube, bilateral, initial encounter"
-8108,DRG36902,S37592S,"Other injury of fallopian tube, bilateral, sequela"
-8109,DRG36902,S37599A,"Other injury of fallopian tube, unspecified, initial encounter"
-8110,DRG36902,S37599S,"Other injury of fallopian tube, unspecified, sequela"
-8111,DRG36902,S3760XA,"Unspecified injury of uterus, initial encounter"
-8112,DRG36902,S3760XS,"Unspecified injury of uterus, sequela"
-8113,DRG36902,S3762XA,"Contusion of uterus, initial encounter"
-8114,DRG36902,S3762XS,"Contusion of uterus, sequela"
-8115,DRG36902,S3763XA,"Laceration of uterus, initial encounter"
-8116,DRG36902,S3763XS,"Laceration of uterus, sequela"
-8117,DRG36902,S3769XA,"Other injury of uterus, initial encounter"
-8118,DRG36902,S3769XS,"Other injury of uterus, sequela"
-8119,DRG36902,S37812S,"Contusion of adrenal gland, sequela"
-8120,DRG36902,S37813S,"Laceration of adrenal gland, sequela"
-8121,DRG36902,S37818S,"Other injury of adrenal gland, sequela"
-8122,DRG36902,S37819S,"Unspecified injury of adrenal gland, sequela"
-8123,DRG36902,S37892A,"Contusion of other urinary and pelvic organ, initial encounter"
-8124,DRG36902,S37892S,"Contusion of other urinary and pelvic organ, sequela"
-8125,DRG36902,S37893A,"Laceration of other urinary and pelvic organ, initial encounter"
-8126,DRG36902,S37893S,"Laceration of other urinary and pelvic organ, sequela"
-8127,DRG36902,S37898A,"Other injury of other urinary and pelvic organ, initial encounter"
-8128,DRG36902,S37898S,"Other injury of other urinary and pelvic organ, sequela"
-8129,DRG36902,S37899A,"Unspecified injury of other urinary and pelvic organ, initial encounter"
-8130,DRG36902,S37899S,"Unspecified injury of other urinary and pelvic organ, sequela"
-8131,DRG36902,S3790XA,"Unspecified injury of unspecified urinary and pelvic organ, initial encounter"
-8132,DRG36902,S3790XS,"Unspecified injury of unspecified urinary and pelvic organ, sequela"
-8133,DRG36902,S3792XA,"Contusion of unspecified urinary and pelvic organ, initial encounter"
-8134,DRG36902,S3792XS,"Contusion of unspecified urinary and pelvic organ, sequela"
-8135,DRG36902,S3793XA,"Laceration of unspecified urinary and pelvic organ, initial encounter"
-8136,DRG36902,S3793XS,"Laceration of unspecified urinary and pelvic organ, sequela"
-8137,DRG36902,S3799XA,"Other injury of unspecified urinary and pelvic organ, initial encounter"
-8138,DRG36902,S3799XS,"Other injury of unspecified urinary and pelvic organ, sequela"
-8139,DRG36902,S38002A,"Crushing injury of unspecified external genital organs, female, initial encounter"
-8140,DRG36902,S3803XA,"Crushing injury of vulva, initial encounter"
-8141,DRG36902,S38211A,"Complete traumatic amputation of female external genital organs, initial encounter"
-8142,DRG36902,S38212A,"Partial traumatic amputation of female external genital organs, initial encounter"
-8143,DRG36902,T192XXA,"Foreign body in vulva and vagina, initial encounter"
-8144,DRG36902,T193XXA,"Foreign body in uterus, initial encounter"
-8145,DRG36902,T8331XA,"Breakdown (mechanical) of intrauterine contraceptive device, initial encounter"
-8146,DRG36902,T8332XA,"Displacement of intrauterine contraceptive device, initial encounter"
-8147,DRG36902,T8339XA,"Other mechanical complication of intrauterine contraceptive device, initial encounter"
-8148,DRG36902,Z310,Encounter for reversal of previous sterilization
-8149,DRG36902,Z4002,Encounter for prophylactic removal of ovary
-8150,DRG36902,Z437,Encounter for attention to artificial vagina
+DRG,CM-PCS,en
+DRG36902,D250,Submucous leiomyoma of uterus
+DRG36902,D251,Intramural leiomyoma of uterus
+DRG36902,D252,Subserosal leiomyoma of uterus
+DRG36902,D259,"Leiomyoma of uterus, unspecified"
+DRG36902,D260,Other benign neoplasm of cervix uteri
+DRG36902,D261,Other benign neoplasm of corpus uteri
+DRG36902,D267,Other benign neoplasm of other parts of uterus
+DRG36902,D269,"Other benign neoplasm of uterus, unspecified"
+DRG36902,D270,Benign neoplasm of right ovary
+DRG36902,D271,Benign neoplasm of left ovary
+DRG36902,D279,Benign neoplasm of unspecified ovary
+DRG36902,D280,Benign neoplasm of vulva
+DRG36902,D281,Benign neoplasm of vagina
+DRG36902,D282,Benign neoplasm of uterine tubes and ligaments
+DRG36902,D287,Benign neoplasm of other specified female genital organs
+DRG36902,D289,"Benign neoplasm of female genital organ, unspecified"
+DRG36902,E280,Estrogen excess
+DRG36902,E281,Androgen excess
+DRG36902,E282,Polycystic ovarian syndrome
+DRG36902,E28310,Symptomatic premature menopause
+DRG36902,E28319,Asymptomatic premature menopause
+DRG36902,E2839,Other primary ovarian failure
+DRG36902,E288,Other ovarian dysfunction
+DRG36902,E289,"Ovarian dysfunction, unspecified"
+DRG36902,E8940,Asymptomatic postprocedural ovarian failure
+DRG36902,E8941,Symptomatic postprocedural ovarian failure
+DRG36902,F525,Vaginismus not due to a substance or known physiological condition
+DRG36902,G43821,"Menstrual migraine, not intractable, with status migrainosus"
+DRG36902,G43829,"Menstrual migraine, not intractable, without status migrainosus"
+DRG36902,G43831,"Menstrual migraine, intractable, with status migrainosus"
+DRG36902,G43839,"Menstrual migraine, intractable, without status migrainosus"
+DRG36902,I862,Pelvic varices
+DRG36902,I863,Vulval varices
+DRG36902,N393,Stress incontinence (female) (male)
+DRG36902,N736,Female pelvic peritoneal adhesions (postinfective)
+DRG36902,N750,Cyst of Bartholin's gland
+DRG36902,N758,Other diseases of Bartholin's gland
+DRG36902,N766,Ulceration of vulva
+DRG36902,N800,Endometriosis of uterus
+DRG36902,N801,Endometriosis of ovary
+DRG36902,N802,Endometriosis of fallopian tube
+DRG36902,N803,Endometriosis of pelvic peritoneum
+DRG36902,N804,Endometriosis of rectovaginal septum and vagina
+DRG36902,N808,Other endometriosis
+DRG36902,N809,"Endometriosis, unspecified"
+DRG36902,N810,Urethrocele
+DRG36902,N8110,"Cystocele, unspecified"
+DRG36902,N8111,"Cystocele, midline"
+DRG36902,N8112,"Cystocele, lateral"
+DRG36902,N812,Incomplete uterovaginal prolapse
+DRG36902,N813,Complete uterovaginal prolapse
+DRG36902,N814,"Uterovaginal prolapse, unspecified"
+DRG36902,N815,Vaginal enterocele
+DRG36902,N816,Rectocele
+DRG36902,N8181,Perineocele
+DRG36902,N8182,Incompetence or weakening of pubocervical tissue
+DRG36902,N8183,Incompetence or weakening of rectovaginal tissue
+DRG36902,N8184,Pelvic muscle wasting
+DRG36902,N8185,Cervical stump prolapse
+DRG36902,N8189,Other female genital prolapse
+DRG36902,N819,"Female genital prolapse, unspecified"
+DRG36902,N820,Vesicovaginal fistula
+DRG36902,N821,Other female urinary-genital tract fistulae
+DRG36902,N825,Female genital tract-skin fistulae
+DRG36902,N828,Other female genital tract fistulae
+DRG36902,N829,"Female genital tract fistula, unspecified"
+DRG36902,N830,Follicular cyst of ovary
+DRG36902,N831,Corpus luteum cyst
+DRG36902,N8320,Unspecified ovarian cysts
+DRG36902,N8329,Other ovarian cysts
+DRG36902,N8331,Acquired atrophy of ovary
+DRG36902,N8332,Acquired atrophy of fallopian tube
+DRG36902,N8333,Acquired atrophy of ovary and fallopian tube
+DRG36902,N834,Prolapse and hernia of ovary and fallopian tube
+DRG36902,N8351,Torsion of ovary and ovarian pedicle
+DRG36902,N8352,Torsion of fallopian tube
+DRG36902,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube"
+DRG36902,N836,Hematosalpinx
+DRG36902,N837,Hematoma of broad ligament
+DRG36902,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
+DRG36902,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
+DRG36902,N840,Polyp of corpus uteri
+DRG36902,N841,Polyp of cervix uteri
+DRG36902,N842,Polyp of vagina
+DRG36902,N843,Polyp of vulva
+DRG36902,N848,Polyp of other parts of female genital tract
+DRG36902,N849,"Polyp of female genital tract, unspecified"
+DRG36902,N8500,"Endometrial hyperplasia, unspecified"
+DRG36902,N8501,Benign endometrial hyperplasia
+DRG36902,N8502,Endometrial intraepithelial neoplasia [EIN]
+DRG36902,N852,Hypertrophy of uterus
+DRG36902,N853,Subinvolution of uterus
+DRG36902,N854,Malposition of uterus
+DRG36902,N855,Inversion of uterus
+DRG36902,N856,Intrauterine synechiae
+DRG36902,N857,Hematometra
+DRG36902,N858,Other specified noninflammatory disorders of uterus
+DRG36902,N859,"Noninflammatory disorder of uterus, unspecified"
+DRG36902,N86,Erosion and ectropion of cervix uteri
+DRG36902,N870,Mild cervical dysplasia
+DRG36902,N871,Moderate cervical dysplasia
+DRG36902,N879,"Dysplasia of cervix uteri, unspecified"
+DRG36902,N880,Leukoplakia of cervix uteri
+DRG36902,N881,Old laceration of cervix uteri
+DRG36902,N882,Stricture and stenosis of cervix uteri
+DRG36902,N883,Incompetence of cervix uteri
+DRG36902,N884,Hypertrophic elongation of cervix uteri
+DRG36902,N888,Other specified noninflammatory disorders of cervix uteri
+DRG36902,N889,"Noninflammatory disorder of cervix uteri, unspecified"
+DRG36902,N890,Mild vaginal dysplasia
+DRG36902,N891,Moderate vaginal dysplasia
+DRG36902,N893,"Dysplasia of vagina, unspecified"
+DRG36902,N894,Leukoplakia of vagina
+DRG36902,N895,Stricture and atresia of vagina
+DRG36902,N896,Tight hymenal ring
+DRG36902,N897,Hematocolpos
+DRG36902,N898,Other specified noninflammatory disorders of vagina
+DRG36902,N899,"Noninflammatory disorder of vagina, unspecified"
+DRG36902,N900,Mild vulvar dysplasia
+DRG36902,N901,Moderate vulvar dysplasia
+DRG36902,N903,"Dysplasia of vulva, unspecified"
+DRG36902,N904,Leukoplakia of vulva
+DRG36902,N905,Atrophy of vulva
+DRG36902,N906,Hypertrophy of vulva
+DRG36902,N907,Vulvar cyst
+DRG36902,N90810,"Female genital mutilation status, unspecified"
+DRG36902,N90811,Female genital mutilation Type I status
+DRG36902,N90812,Female genital mutilation Type II status
+DRG36902,N90813,Female genital mutilation Type III status
+DRG36902,N90818,Other female genital mutilation status
+DRG36902,N9089,Other specified noninflammatory disorders of vulva and perineum
+DRG36902,N909,"Noninflammatory disorder of vulva and perineum, unspecified"
+DRG36902,N910,Primary amenorrhea
+DRG36902,N911,Secondary amenorrhea
+DRG36902,N912,"Amenorrhea, unspecified"
+DRG36902,N913,Primary oligomenorrhea
+DRG36902,N914,Secondary oligomenorrhea
+DRG36902,N915,"Oligomenorrhea, unspecified"
+DRG36902,N920,Excessive and frequent menstruation with regular cycle
+DRG36902,N921,Excessive and frequent menstruation with irregular cycle
+DRG36902,N922,Excessive menstruation at puberty
+DRG36902,N923,Ovulation bleeding
+DRG36902,N924,Excessive bleeding in the premenopausal period
+DRG36902,N925,Other specified irregular menstruation
+DRG36902,N926,"Irregular menstruation, unspecified"
+DRG36902,N930,Postcoital and contact bleeding
+DRG36902,N938,Other specified abnormal uterine and vaginal bleeding
+DRG36902,N939,"Abnormal uterine and vaginal bleeding, unspecified"
+DRG36902,N940,Mittelschmerz
+DRG36902,N941,Dyspareunia
+DRG36902,N942,Vaginismus
+DRG36902,N943,Premenstrual tension syndrome
+DRG36902,N944,Primary dysmenorrhea
+DRG36902,N945,Secondary dysmenorrhea
+DRG36902,N946,"Dysmenorrhea, unspecified"
+DRG36902,N94818,Other vulvodynia
+DRG36902,N94819,"Vulvodynia, unspecified"
+DRG36902,N9489,Other specified conditions associated with female genital organs and menstrual cycle
+DRG36902,N949,Unspecified condition associated with female genital organs and menstrual cycle
+DRG36902,N950,Postmenopausal bleeding
+DRG36902,N951,Menopausal and female climacteric states
+DRG36902,N952,Postmenopausal atrophic vaginitis
+DRG36902,N958,Other specified menopausal and perimenopausal disorders
+DRG36902,N959,Unspecified menopausal and perimenopausal disorder
+DRG36902,N96,Recurrent pregnancy loss
+DRG36902,N970,Female infertility associated with anovulation
+DRG36902,N971,Female infertility of tubal origin
+DRG36902,N972,Female infertility of uterine origin
+DRG36902,N978,Female infertility of other origin
+DRG36902,N979,"Female infertility, unspecified"
+DRG36902,N992,Postprocedural adhesions of vagina
+DRG36902,N993,Prolapse of vaginal vault after hysterectomy
+DRG36902,N9983,Residual ovary syndrome
+DRG36902,Q5001,"Congenital absence of ovary, unilateral"
+DRG36902,Q5002,"Congenital absence of ovary, bilateral"
+DRG36902,Q501,Developmental ovarian cyst
+DRG36902,Q502,Congenital torsion of ovary
+DRG36902,Q5031,Accessory ovary
+DRG36902,Q5032,Ovarian streak
+DRG36902,Q5039,Other congenital malformation of ovary
+DRG36902,Q504,Embryonic cyst of fallopian tube
+DRG36902,Q505,Embryonic cyst of broad ligament
+DRG36902,Q506,Other congenital malformations of fallopian tube and broad ligament
+DRG36902,Q510,Agenesis and aplasia of uterus
+DRG36902,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction
+DRG36902,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction
+DRG36902,Q512,Other doubling of uterus
+DRG36902,Q513,Bicornate uterus
+DRG36902,Q514,Unicornate uterus
+DRG36902,Q515,Agenesis and aplasia of cervix
+DRG36902,Q516,Embryonic cyst of cervix
+DRG36902,Q517,Congenital fistulae between uterus and digestive and urinary tracts
+DRG36902,Q51810,Arcuate uterus
+DRG36902,Q51811,Hypoplasia of uterus
+DRG36902,Q51818,Other congenital malformations of uterus
+DRG36902,Q51820,Cervical duplication
+DRG36902,Q51821,Hypoplasia of cervix
+DRG36902,Q51828,Other congenital malformations of cervix
+DRG36902,Q519,"Congenital malformation of uterus and cervix, unspecified"
+DRG36902,Q520,Congenital absence of vagina
+DRG36902,Q5210,"Doubling of vagina, unspecified"
+DRG36902,Q5211,Transverse vaginal septum
+DRG36902,Q5212,Longitudinal vaginal septum
+DRG36902,Q522,Congenital rectovaginal fistula
+DRG36902,Q523,Imperforate hymen
+DRG36902,Q524,Other congenital malformations of vagina
+DRG36902,Q525,Fusion of labia
+DRG36902,Q526,Congenital malformation of clitoris
+DRG36902,Q5270,Unspecified congenital malformations of vulva
+DRG36902,Q5271,Congenital absence of vulva
+DRG36902,Q5279,Other congenital malformations of vulva
+DRG36902,Q528,Other specified congenital malformations of female genitalia
+DRG36902,Q529,"Congenital malformation of female genitalia, unspecified"
+DRG36902,Q560,"Hermaphroditism, not elsewhere classified"
+DRG36902,Q562,"Female pseudohermaphroditism, not elsewhere classified"
+DRG36902,Q563,"Pseudohermaphroditism, unspecified"
+DRG36902,Q564,"Indeterminate sex, unspecified"
+DRG36902,Q960,"Karyotype 45, X"
+DRG36902,Q961,"Karyotype 46, X iso (Xq)"
+DRG36902,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
+DRG36902,Q963,"Mosaicism, 45, X/46, XX or XY"
+DRG36902,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome"
+DRG36902,Q968,Other variants of Turner's syndrome
+DRG36902,Q969,"Turner's syndrome, unspecified"
+DRG36902,Q970,"Karyotype 47, XXX"
+DRG36902,Q971,Female with more than three X chromosomes
+DRG36902,Q972,"Mosaicism, lines with various numbers of X chromosomes"
+DRG36902,Q973,"Female with 46, XY karyotype"
+DRG36902,Q978,"Other specified sex chromosome abnormalities, female phenotype"
+DRG36902,Q979,"Sex chromosome abnormality, female phenotype, unspecified"
+DRG36902,Q985,"Karyotype 47, XYY"
+DRG36902,Q990,"Chimera 46, XX/46, XY"
+DRG36902,Q991,"46, XX true hermaphrodite"
+DRG36902,Q998,Other specified chromosome abnormalities
+DRG36902,R87610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
+DRG36902,R87611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
+DRG36902,R87612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
+DRG36902,R87613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
+DRG36902,R87614,Cytologic evidence of malignancy on smear of cervix
+DRG36902,R87615,Unsatisfactory cytologic smear of cervix
+DRG36902,R87616,Satisfactory cervical smear but lacking transformation zone
+DRG36902,R87810,Cervical high risk human papillomavirus (HPV) DNA test positive
+DRG36902,R87820,Cervical low risk human papillomavirus (HPV) DNA test positive
+DRG36902,S30202A,"Contusion of unspecified external genital organ, female, initial encounter"
+DRG36902,S3023XA,"Contusion of vagina and vulva, initial encounter"
+DRG36902,S3140XA,"Unspecified open wound of vagina and vulva, initial encounter"
+DRG36902,S3141XA,"Laceration without foreign body of vagina and vulva, initial encounter"
+DRG36902,S3142XA,"Laceration with foreign body of vagina and vulva, initial encounter"
+DRG36902,S3143XA,"Puncture wound without foreign body of vagina and vulva, initial encounter"
+DRG36902,S3144XA,"Puncture wound with foreign body of vagina and vulva, initial encounter"
+DRG36902,S3145XA,"Open bite of vagina and vulva, initial encounter"
+DRG36902,S31502A,"Unspecified open wound of unspecified external genital organs, female, initial encounter"
+DRG36902,S31502S,"Unspecified open wound of unspecified external genital organs, female, sequela"
+DRG36902,S31512A,"Laceration without foreign body of unspecified external genital organs, female, initial encounter"
+DRG36902,S31512S,"Laceration without foreign body of unspecified external genital organs, female, sequela"
+DRG36902,S31522A,"Laceration with foreign body of unspecified external genital organs, female, initial encounter"
+DRG36902,S31522S,"Laceration with foreign body of unspecified external genital organs, female, sequela"
+DRG36902,S31532A,"Puncture wound without foreign body of unspecified external genital organs, female, initial encounter"
+DRG36902,S31532S,"Puncture wound without foreign body of unspecified external genital organs, female, sequela"
+DRG36902,S31542A,"Puncture wound with foreign body of unspecified external genital organs, female, initial encounter"
+DRG36902,S31542S,"Puncture wound with foreign body of unspecified external genital organs, female, sequela"
+DRG36902,S31552A,"Open bite of unspecified external genital organs, female, initial encounter"
+DRG36902,S31552S,"Open bite of unspecified external genital organs, female, sequela"
+DRG36902,S3710XS,"Unspecified injury of ureter, sequela"
+DRG36902,S3712XS,"Contusion of ureter, sequela"
+DRG36902,S3713XS,"Laceration of ureter, sequela"
+DRG36902,S3719XS,"Other injury of ureter, sequela"
+DRG36902,S3720XS,"Unspecified injury of bladder, sequela"
+DRG36902,S3722XS,"Contusion of bladder, sequela"
+DRG36902,S3723XS,"Laceration of bladder, sequela"
+DRG36902,S3729XS,"Other injury of bladder, sequela"
+DRG36902,S3730XS,"Unspecified injury of urethra, sequela"
+DRG36902,S3732XS,"Contusion of urethra, sequela"
+DRG36902,S3733XS,"Laceration of urethra, sequela"
+DRG36902,S3739XS,"Other injury of urethra, sequela"
+DRG36902,S37401A,"Unspecified injury of ovary, unilateral, initial encounter"
+DRG36902,S37401S,"Unspecified injury of ovary, unilateral, sequela"
+DRG36902,S37402A,"Unspecified injury of ovary, bilateral, initial encounter"
+DRG36902,S37402S,"Unspecified injury of ovary, bilateral, sequela"
+DRG36902,S37409A,"Unspecified injury of ovary, unspecified, initial encounter"
+DRG36902,S37409S,"Unspecified injury of ovary, unspecified, sequela"
+DRG36902,S37421A,"Contusion of ovary, unilateral, initial encounter"
+DRG36902,S37421S,"Contusion of ovary, unilateral, sequela"
+DRG36902,S37422A,"Contusion of ovary, bilateral, initial encounter"
+DRG36902,S37422S,"Contusion of ovary, bilateral, sequela"
+DRG36902,S37429A,"Contusion of ovary, unspecified, initial encounter"
+DRG36902,S37429S,"Contusion of ovary, unspecified, sequela"
+DRG36902,S37431A,"Laceration of ovary, unilateral, initial encounter"
+DRG36902,S37431S,"Laceration of ovary, unilateral, sequela"
+DRG36902,S37432A,"Laceration of ovary, bilateral, initial encounter"
+DRG36902,S37432S,"Laceration of ovary, bilateral, sequela"
+DRG36902,S37439A,"Laceration of ovary, unspecified, initial encounter"
+DRG36902,S37439S,"Laceration of ovary, unspecified, sequela"
+DRG36902,S37491A,"Other injury of ovary, unilateral, initial encounter"
+DRG36902,S37491S,"Other injury of ovary, unilateral, sequela"
+DRG36902,S37492A,"Other injury of ovary, bilateral, initial encounter"
+DRG36902,S37492S,"Other injury of ovary, bilateral, sequela"
+DRG36902,S37499A,"Other injury of ovary, unspecified, initial encounter"
+DRG36902,S37499S,"Other injury of ovary, unspecified, sequela"
+DRG36902,S37501A,"Unspecified injury of fallopian tube, unilateral, initial encounter"
+DRG36902,S37501S,"Unspecified injury of fallopian tube, unilateral, sequela"
+DRG36902,S37502A,"Unspecified injury of fallopian tube, bilateral, initial encounter"
+DRG36902,S37502S,"Unspecified injury of fallopian tube, bilateral, sequela"
+DRG36902,S37509A,"Unspecified injury of fallopian tube, unspecified, initial encounter"
+DRG36902,S37509S,"Unspecified injury of fallopian tube, unspecified, sequela"
+DRG36902,S37511A,"Primary blast injury of fallopian tube, unilateral, initial encounter"
+DRG36902,S37511S,"Primary blast injury of fallopian tube, unilateral, sequela"
+DRG36902,S37512A,"Primary blast injury of fallopian tube, bilateral, initial encounter"
+DRG36902,S37512S,"Primary blast injury of fallopian tube, bilateral, sequela"
+DRG36902,S37519A,"Primary blast injury of fallopian tube, unspecified, initial encounter"
+DRG36902,S37519S,"Primary blast injury of fallopian tube, unspecified, sequela"
+DRG36902,S37521A,"Contusion of fallopian tube, unilateral, initial encounter"
+DRG36902,S37521S,"Contusion of fallopian tube, unilateral, sequela"
+DRG36902,S37522A,"Contusion of fallopian tube, bilateral, initial encounter"
+DRG36902,S37522S,"Contusion of fallopian tube, bilateral, sequela"
+DRG36902,S37529A,"Contusion of fallopian tube, unspecified, initial encounter"
+DRG36902,S37529S,"Contusion of fallopian tube, unspecified, sequela"
+DRG36902,S37531A,"Laceration of fallopian tube, unilateral, initial encounter"
+DRG36902,S37531S,"Laceration of fallopian tube, unilateral, sequela"
+DRG36902,S37532A,"Laceration of fallopian tube, bilateral, initial encounter"
+DRG36902,S37532S,"Laceration of fallopian tube, bilateral, sequela"
+DRG36902,S37539A,"Laceration of fallopian tube, unspecified, initial encounter"
+DRG36902,S37539S,"Laceration of fallopian tube, unspecified, sequela"
+DRG36902,S37591A,"Other injury of fallopian tube, unilateral, initial encounter"
+DRG36902,S37591S,"Other injury of fallopian tube, unilateral, sequela"
+DRG36902,S37592A,"Other injury of fallopian tube, bilateral, initial encounter"
+DRG36902,S37592S,"Other injury of fallopian tube, bilateral, sequela"
+DRG36902,S37599A,"Other injury of fallopian tube, unspecified, initial encounter"
+DRG36902,S37599S,"Other injury of fallopian tube, unspecified, sequela"
+DRG36902,S3760XA,"Unspecified injury of uterus, initial encounter"
+DRG36902,S3760XS,"Unspecified injury of uterus, sequela"
+DRG36902,S3762XA,"Contusion of uterus, initial encounter"
+DRG36902,S3762XS,"Contusion of uterus, sequela"
+DRG36902,S3763XA,"Laceration of uterus, initial encounter"
+DRG36902,S3763XS,"Laceration of uterus, sequela"
+DRG36902,S3769XA,"Other injury of uterus, initial encounter"
+DRG36902,S3769XS,"Other injury of uterus, sequela"
+DRG36902,S37812S,"Contusion of adrenal gland, sequela"
+DRG36902,S37813S,"Laceration of adrenal gland, sequela"
+DRG36902,S37818S,"Other injury of adrenal gland, sequela"
+DRG36902,S37819S,"Unspecified injury of adrenal gland, sequela"
+DRG36902,S37892A,"Contusion of other urinary and pelvic organ, initial encounter"
+DRG36902,S37892S,"Contusion of other urinary and pelvic organ, sequela"
+DRG36902,S37893A,"Laceration of other urinary and pelvic organ, initial encounter"
+DRG36902,S37893S,"Laceration of other urinary and pelvic organ, sequela"
+DRG36902,S37898A,"Other injury of other urinary and pelvic organ, initial encounter"
+DRG36902,S37898S,"Other injury of other urinary and pelvic organ, sequela"
+DRG36902,S37899A,"Unspecified injury of other urinary and pelvic organ, initial encounter"
+DRG36902,S37899S,"Unspecified injury of other urinary and pelvic organ, sequela"
+DRG36902,S3790XA,"Unspecified injury of unspecified urinary and pelvic organ, initial encounter"
+DRG36902,S3790XS,"Unspecified injury of unspecified urinary and pelvic organ, sequela"
+DRG36902,S3792XA,"Contusion of unspecified urinary and pelvic organ, initial encounter"
+DRG36902,S3792XS,"Contusion of unspecified urinary and pelvic organ, sequela"
+DRG36902,S3793XA,"Laceration of unspecified urinary and pelvic organ, initial encounter"
+DRG36902,S3793XS,"Laceration of unspecified urinary and pelvic organ, sequela"
+DRG36902,S3799XA,"Other injury of unspecified urinary and pelvic organ, initial encounter"
+DRG36902,S3799XS,"Other injury of unspecified urinary and pelvic organ, sequela"
+DRG36902,S38002A,"Crushing injury of unspecified external genital organs, female, initial encounter"
+DRG36902,S3803XA,"Crushing injury of vulva, initial encounter"
+DRG36902,S38211A,"Complete traumatic amputation of female external genital organs, initial encounter"
+DRG36902,S38212A,"Partial traumatic amputation of female external genital organs, initial encounter"
+DRG36902,T192XXA,"Foreign body in vulva and vagina, initial encounter"
+DRG36902,T193XXA,"Foreign body in uterus, initial encounter"
+DRG36902,T8331XA,"Breakdown (mechanical) of intrauterine contraceptive device, initial encounter"
+DRG36902,T8332XA,"Displacement of intrauterine contraceptive device, initial encounter"
+DRG36902,T8339XA,"Other mechanical complication of intrauterine contraceptive device, initial encounter"
+DRG36902,Z310,Encounter for reversal of previous sterilization
+DRG36902,Z4002,Encounter for prophylactic removal of ovary
+DRG36902,Z437,Encounter for attention to artificial vagina

@@ -1,971 +1,971 @@
-,DRG,CM-PCS,en
-3637,DRG35806,A1816,Tuberculosis of cervix
-3638,DRG35806,A1817,Tuberculous female pelvic inflammatory disease
-3639,DRG35806,A1818,Tuberculosis of other female genital organs
-3640,DRG35806,A510,Primary genital syphilis
-3641,DRG35806,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
-3642,DRG35806,A5402,"Gonococcal vulvovaginitis, unspecified"
-3643,DRG35806,A5403,"Gonococcal cervicitis, unspecified"
-3644,DRG35806,A5409,Other gonococcal infection of lower genitourinary tract
-3645,DRG35806,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
-3646,DRG35806,A5421,Gonococcal infection of kidney and ureter
-3647,DRG35806,A5424,Gonococcal female pelvic inflammatory disease
-3648,DRG35806,A5429,Other gonococcal genitourinary infections
-3649,DRG35806,A55,Chlamydial lymphogranuloma (venereum)
-3650,DRG35806,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
-3651,DRG35806,A5601,Chlamydial cystitis and urethritis
-3652,DRG35806,A5602,Chlamydial vulvovaginitis
-3653,DRG35806,A5609,Other chlamydial infection of lower genitourinary tract
-3654,DRG35806,A562,"Chlamydial infection of genitourinary tract, unspecified"
-3655,DRG35806,A568,Sexually transmitted chlamydial infection of other sites
-3656,DRG35806,A57,Chancroid
-3657,DRG35806,A58,Granuloma inguinale
-3658,DRG35806,A5900,"Urogenital trichomoniasis, unspecified"
-3659,DRG35806,A5901,Trichomonal vulvovaginitis
-3660,DRG35806,A5903,Trichomonal cystitis and urethritis
-3661,DRG35806,A5909,Other urogenital trichomoniasis
-3662,DRG35806,A6000,"Herpesviral infection of urogenital system, unspecified"
-3663,DRG35806,A6003,Herpesviral cervicitis
-3664,DRG35806,A6004,Herpesviral vulvovaginitis
-3665,DRG35806,A6009,Herpesviral infection of other urogenital tract
-3666,DRG35806,A601,Herpesviral infection of perianal skin and rectum
-3667,DRG35806,A609,"Anogenital herpesviral infection, unspecified"
-3668,DRG35806,A638,Other specified predominantly sexually transmitted diseases
-3669,DRG35806,A64,Unspecified sexually transmitted disease
-3670,DRG35806,B373,Candidiasis of vulva and vagina
-3671,DRG35806,B3741,Candidal cystitis and urethritis
-3672,DRG35806,B3749,Other urogenital candidiasis
-3673,DRG35806,D060,Carcinoma in situ of endocervix
-3674,DRG35806,D061,Carcinoma in situ of exocervix
-3675,DRG35806,D067,Carcinoma in situ of other parts of cervix
-3676,DRG35806,D069,"Carcinoma in situ of cervix, unspecified"
-3677,DRG35806,D070,Carcinoma in situ of endometrium
-3678,DRG35806,D071,Carcinoma in situ of vulva
-3679,DRG35806,D072,Carcinoma in situ of vagina
-3680,DRG35806,D0730,Carcinoma in situ of unspecified female genital organs
-3681,DRG35806,D0739,Carcinoma in situ of other female genital organs
-3682,DRG35806,D250,Submucous leiomyoma of uterus
-3683,DRG35806,D251,Intramural leiomyoma of uterus
-3684,DRG35806,D252,Subserosal leiomyoma of uterus
-3685,DRG35806,D259,"Leiomyoma of uterus, unspecified"
-3686,DRG35806,D260,Other benign neoplasm of cervix uteri
-3687,DRG35806,D261,Other benign neoplasm of corpus uteri
-3688,DRG35806,D267,Other benign neoplasm of other parts of uterus
-3689,DRG35806,D269,"Other benign neoplasm of uterus, unspecified"
-3690,DRG35806,D270,Benign neoplasm of right ovary
-3691,DRG35806,D271,Benign neoplasm of left ovary
-3692,DRG35806,D279,Benign neoplasm of unspecified ovary
-3693,DRG35806,D280,Benign neoplasm of vulva
-3694,DRG35806,D281,Benign neoplasm of vagina
-3695,DRG35806,D282,Benign neoplasm of uterine tubes and ligaments
-3696,DRG35806,D287,Benign neoplasm of other specified female genital organs
-3697,DRG35806,D289,"Benign neoplasm of female genital organ, unspecified"
-3698,DRG35806,E280,Estrogen excess
-3699,DRG35806,E281,Androgen excess
-3700,DRG35806,E282,Polycystic ovarian syndrome
-3701,DRG35806,E28310,Symptomatic premature menopause
-3702,DRG35806,E28319,Asymptomatic premature menopause
-3703,DRG35806,E2839,Other primary ovarian failure
-3704,DRG35806,E288,Other ovarian dysfunction
-3705,DRG35806,E289,"Ovarian dysfunction, unspecified"
-3706,DRG35806,E8940,Asymptomatic postprocedural ovarian failure
-3707,DRG35806,E8941,Symptomatic postprocedural ovarian failure
-3708,DRG35806,F525,Vaginismus not due to a substance or known physiological condition
-3709,DRG35806,G43821,"Menstrual migraine, not intractable, with status migrainosus"
-3710,DRG35806,G43829,"Menstrual migraine, not intractable, without status migrainosus"
-3711,DRG35806,G43831,"Menstrual migraine, intractable, with status migrainosus"
-3712,DRG35806,G43839,"Menstrual migraine, intractable, without status migrainosus"
-3713,DRG35806,I862,Pelvic varices
-3714,DRG35806,I863,Vulval varices
-3715,DRG35806,L292,Pruritus vulvae
-3716,DRG35806,L293,"Anogenital pruritus, unspecified"
-3717,DRG35806,N341,Nonspecific urethritis
-3718,DRG35806,N393,Stress incontinence (female) (male)
-3719,DRG35806,N7001,Acute salpingitis
-3720,DRG35806,N7002,Acute oophoritis
-3721,DRG35806,N7003,Acute salpingitis and oophoritis
-3722,DRG35806,N7011,Chronic salpingitis
-3723,DRG35806,N7012,Chronic oophoritis
-3724,DRG35806,N7013,Chronic salpingitis and oophoritis
-3725,DRG35806,N7091,"Salpingitis, unspecified"
-3726,DRG35806,N7092,"Oophoritis, unspecified"
-3727,DRG35806,N7093,"Salpingitis and oophoritis, unspecified"
-3728,DRG35806,N710,Acute inflammatory disease of uterus
-3729,DRG35806,N711,Chronic inflammatory disease of uterus
-3730,DRG35806,N719,"Inflammatory disease of uterus, unspecified"
-3731,DRG35806,N72,Inflammatory disease of cervix uteri
-3732,DRG35806,N730,Acute parametritis and pelvic cellulitis
-3733,DRG35806,N731,Chronic parametritis and pelvic cellulitis
-3734,DRG35806,N732,Unspecified parametritis and pelvic cellulitis
-3735,DRG35806,N733,Female acute pelvic peritonitis
-3736,DRG35806,N734,Female chronic pelvic peritonitis
-3737,DRG35806,N735,"Female pelvic peritonitis, unspecified"
-3738,DRG35806,N736,Female pelvic peritoneal adhesions (postinfective)
-3739,DRG35806,N738,Other specified female pelvic inflammatory diseases
-3740,DRG35806,N739,"Female pelvic inflammatory disease, unspecified"
-3741,DRG35806,N750,Cyst of Bartholin's gland
-3742,DRG35806,N751,Abscess of Bartholin's gland
-3743,DRG35806,N758,Other diseases of Bartholin's gland
-3744,DRG35806,N759,"Disease of Bartholin's gland, unspecified"
-3745,DRG35806,N760,Acute vaginitis
-3746,DRG35806,N761,Subacute and chronic vaginitis
-3747,DRG35806,N762,Acute vulvitis
-3748,DRG35806,N763,Subacute and chronic vulvitis
-3749,DRG35806,N764,Abscess of vulva
-3750,DRG35806,N765,Ulceration of vagina
-3751,DRG35806,N766,Ulceration of vulva
-3752,DRG35806,N7681,Mucositis (ulcerative) of vagina and vulva
-3753,DRG35806,N7689,Other specified inflammation of vagina and vulva
-3754,DRG35806,N800,Endometriosis of uterus
-3755,DRG35806,N801,Endometriosis of ovary
-3756,DRG35806,N802,Endometriosis of fallopian tube
-3757,DRG35806,N803,Endometriosis of pelvic peritoneum
-3758,DRG35806,N804,Endometriosis of rectovaginal septum and vagina
-3759,DRG35806,N808,Other endometriosis
-3760,DRG35806,N809,"Endometriosis, unspecified"
-3761,DRG35806,N810,Urethrocele
-3762,DRG35806,N8110,"Cystocele, unspecified"
-3763,DRG35806,N8111,"Cystocele, midline"
-3764,DRG35806,N8112,"Cystocele, lateral"
-3765,DRG35806,N812,Incomplete uterovaginal prolapse
-3766,DRG35806,N813,Complete uterovaginal prolapse
-3767,DRG35806,N814,"Uterovaginal prolapse, unspecified"
-3768,DRG35806,N815,Vaginal enterocele
-3769,DRG35806,N816,Rectocele
-3770,DRG35806,N8181,Perineocele
-3771,DRG35806,N8182,Incompetence or weakening of pubocervical tissue
-3772,DRG35806,N8183,Incompetence or weakening of rectovaginal tissue
-3773,DRG35806,N8184,Pelvic muscle wasting
-3774,DRG35806,N8185,Cervical stump prolapse
-3775,DRG35806,N8189,Other female genital prolapse
-3776,DRG35806,N819,"Female genital prolapse, unspecified"
-3777,DRG35806,N820,Vesicovaginal fistula
-3778,DRG35806,N821,Other female urinary-genital tract fistulae
-3779,DRG35806,N825,Female genital tract-skin fistulae
-3780,DRG35806,N828,Other female genital tract fistulae
-3781,DRG35806,N829,"Female genital tract fistula, unspecified"
-3782,DRG35806,N830,Follicular cyst of ovary
-3783,DRG35806,N831,Corpus luteum cyst
-3784,DRG35806,N8320,Unspecified ovarian cysts
-3785,DRG35806,N8329,Other ovarian cysts
-3786,DRG35806,N8331,Acquired atrophy of ovary
-3787,DRG35806,N8332,Acquired atrophy of fallopian tube
-3788,DRG35806,N8333,Acquired atrophy of ovary and fallopian tube
-3789,DRG35806,N834,Prolapse and hernia of ovary and fallopian tube
-3790,DRG35806,N8351,Torsion of ovary and ovarian pedicle
-3791,DRG35806,N8352,Torsion of fallopian tube
-3792,DRG35806,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube"
-3793,DRG35806,N836,Hematosalpinx
-3794,DRG35806,N837,Hematoma of broad ligament
-3795,DRG35806,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
-3796,DRG35806,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
-3797,DRG35806,N840,Polyp of corpus uteri
-3798,DRG35806,N841,Polyp of cervix uteri
-3799,DRG35806,N842,Polyp of vagina
-3800,DRG35806,N843,Polyp of vulva
-3801,DRG35806,N848,Polyp of other parts of female genital tract
-3802,DRG35806,N849,"Polyp of female genital tract, unspecified"
-3803,DRG35806,N8500,"Endometrial hyperplasia, unspecified"
-3804,DRG35806,N8501,Benign endometrial hyperplasia
-3805,DRG35806,N8502,Endometrial intraepithelial neoplasia [EIN]
-3806,DRG35806,N852,Hypertrophy of uterus
-3807,DRG35806,N853,Subinvolution of uterus
-3808,DRG35806,N854,Malposition of uterus
-3809,DRG35806,N855,Inversion of uterus
-3810,DRG35806,N856,Intrauterine synechiae
-3811,DRG35806,N857,Hematometra
-3812,DRG35806,N858,Other specified noninflammatory disorders of uterus
-3813,DRG35806,N859,"Noninflammatory disorder of uterus, unspecified"
-3814,DRG35806,N86,Erosion and ectropion of cervix uteri
-3815,DRG35806,N870,Mild cervical dysplasia
-3816,DRG35806,N871,Moderate cervical dysplasia
-3817,DRG35806,N879,"Dysplasia of cervix uteri, unspecified"
-3818,DRG35806,N880,Leukoplakia of cervix uteri
-3819,DRG35806,N881,Old laceration of cervix uteri
-3820,DRG35806,N882,Stricture and stenosis of cervix uteri
-3821,DRG35806,N883,Incompetence of cervix uteri
-3822,DRG35806,N884,Hypertrophic elongation of cervix uteri
-3823,DRG35806,N888,Other specified noninflammatory disorders of cervix uteri
-3824,DRG35806,N889,"Noninflammatory disorder of cervix uteri, unspecified"
-3825,DRG35806,N890,Mild vaginal dysplasia
-3826,DRG35806,N891,Moderate vaginal dysplasia
-3827,DRG35806,N893,"Dysplasia of vagina, unspecified"
-3828,DRG35806,N894,Leukoplakia of vagina
-3829,DRG35806,N895,Stricture and atresia of vagina
-3830,DRG35806,N896,Tight hymenal ring
-3831,DRG35806,N897,Hematocolpos
-3832,DRG35806,N898,Other specified noninflammatory disorders of vagina
-3833,DRG35806,N899,"Noninflammatory disorder of vagina, unspecified"
-3834,DRG35806,N900,Mild vulvar dysplasia
-3835,DRG35806,N901,Moderate vulvar dysplasia
-3836,DRG35806,N903,"Dysplasia of vulva, unspecified"
-3837,DRG35806,N904,Leukoplakia of vulva
-3838,DRG35806,N905,Atrophy of vulva
-3839,DRG35806,N906,Hypertrophy of vulva
-3840,DRG35806,N907,Vulvar cyst
-3841,DRG35806,N90810,"Female genital mutilation status, unspecified"
-3842,DRG35806,N90811,Female genital mutilation Type I status
-3843,DRG35806,N90812,Female genital mutilation Type II status
-3844,DRG35806,N90813,Female genital mutilation Type III status
-3845,DRG35806,N90818,Other female genital mutilation status
-3846,DRG35806,N9089,Other specified noninflammatory disorders of vulva and perineum
-3847,DRG35806,N909,"Noninflammatory disorder of vulva and perineum, unspecified"
-3848,DRG35806,N910,Primary amenorrhea
-3849,DRG35806,N911,Secondary amenorrhea
-3850,DRG35806,N912,"Amenorrhea, unspecified"
-3851,DRG35806,N913,Primary oligomenorrhea
-3852,DRG35806,N914,Secondary oligomenorrhea
-3853,DRG35806,N915,"Oligomenorrhea, unspecified"
-3854,DRG35806,N920,Excessive and frequent menstruation with regular cycle
-3855,DRG35806,N921,Excessive and frequent menstruation with irregular cycle
-3856,DRG35806,N922,Excessive menstruation at puberty
-3857,DRG35806,N923,Ovulation bleeding
-3858,DRG35806,N924,Excessive bleeding in the premenopausal period
-3859,DRG35806,N925,Other specified irregular menstruation
-3860,DRG35806,N926,"Irregular menstruation, unspecified"
-3861,DRG35806,N930,Postcoital and contact bleeding
-3862,DRG35806,N938,Other specified abnormal uterine and vaginal bleeding
-3863,DRG35806,N939,"Abnormal uterine and vaginal bleeding, unspecified"
-3864,DRG35806,N940,Mittelschmerz
-3865,DRG35806,N941,Dyspareunia
-3866,DRG35806,N942,Vaginismus
-3867,DRG35806,N943,Premenstrual tension syndrome
-3868,DRG35806,N944,Primary dysmenorrhea
-3869,DRG35806,N945,Secondary dysmenorrhea
-3870,DRG35806,N946,"Dysmenorrhea, unspecified"
-3871,DRG35806,N94810,Vulvar vestibulitis
-3872,DRG35806,N94818,Other vulvodynia
-3873,DRG35806,N94819,"Vulvodynia, unspecified"
-3874,DRG35806,N9489,Other specified conditions associated with female genital organs and menstrual cycle
-3875,DRG35806,N949,Unspecified condition associated with female genital organs and menstrual cycle
-3876,DRG35806,N950,Postmenopausal bleeding
-3877,DRG35806,N951,Menopausal and female climacteric states
-3878,DRG35806,N952,Postmenopausal atrophic vaginitis
-3879,DRG35806,N958,Other specified menopausal and perimenopausal disorders
-3880,DRG35806,N959,Unspecified menopausal and perimenopausal disorder
-3881,DRG35806,N96,Recurrent pregnancy loss
-3882,DRG35806,N970,Female infertility associated with anovulation
-3883,DRG35806,N971,Female infertility of tubal origin
-3884,DRG35806,N972,Female infertility of uterine origin
-3885,DRG35806,N978,Female infertility of other origin
-3886,DRG35806,N979,"Female infertility, unspecified"
-3887,DRG35806,N992,Postprocedural adhesions of vagina
-3888,DRG35806,N993,Prolapse of vaginal vault after hysterectomy
-3889,DRG35806,N9983,Residual ovary syndrome
-3890,DRG35806,Q5001,"Congenital absence of ovary, unilateral"
-3891,DRG35806,Q5002,"Congenital absence of ovary, bilateral"
-3892,DRG35806,Q501,Developmental ovarian cyst
-3893,DRG35806,Q502,Congenital torsion of ovary
-3894,DRG35806,Q5031,Accessory ovary
-3895,DRG35806,Q5032,Ovarian streak
-3896,DRG35806,Q5039,Other congenital malformation of ovary
-3897,DRG35806,Q504,Embryonic cyst of fallopian tube
-3898,DRG35806,Q505,Embryonic cyst of broad ligament
-3899,DRG35806,Q506,Other congenital malformations of fallopian tube and broad ligament
-3900,DRG35806,Q510,Agenesis and aplasia of uterus
-3901,DRG35806,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction
-3902,DRG35806,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction
-3903,DRG35806,Q512,Other doubling of uterus
-3904,DRG35806,Q513,Bicornate uterus
-3905,DRG35806,Q514,Unicornate uterus
-3906,DRG35806,Q515,Agenesis and aplasia of cervix
-3907,DRG35806,Q516,Embryonic cyst of cervix
-3908,DRG35806,Q517,Congenital fistulae between uterus and digestive and urinary tracts
-3909,DRG35806,Q51810,Arcuate uterus
-3910,DRG35806,Q51811,Hypoplasia of uterus
-3911,DRG35806,Q51818,Other congenital malformations of uterus
-3912,DRG35806,Q51820,Cervical duplication
-3913,DRG35806,Q51821,Hypoplasia of cervix
-3914,DRG35806,Q51828,Other congenital malformations of cervix
-3915,DRG35806,Q519,"Congenital malformation of uterus and cervix, unspecified"
-3916,DRG35806,Q520,Congenital absence of vagina
-3917,DRG35806,Q5210,"Doubling of vagina, unspecified"
-3918,DRG35806,Q5211,Transverse vaginal septum
-3919,DRG35806,Q5212,Longitudinal vaginal septum
-3920,DRG35806,Q522,Congenital rectovaginal fistula
-3921,DRG35806,Q523,Imperforate hymen
-3922,DRG35806,Q524,Other congenital malformations of vagina
-3923,DRG35806,Q525,Fusion of labia
-3924,DRG35806,Q526,Congenital malformation of clitoris
-3925,DRG35806,Q5270,Unspecified congenital malformations of vulva
-3926,DRG35806,Q5271,Congenital absence of vulva
-3927,DRG35806,Q5279,Other congenital malformations of vulva
-3928,DRG35806,Q528,Other specified congenital malformations of female genitalia
-3929,DRG35806,Q529,"Congenital malformation of female genitalia, unspecified"
-3930,DRG35806,Q560,"Hermaphroditism, not elsewhere classified"
-3931,DRG35806,Q562,"Female pseudohermaphroditism, not elsewhere classified"
-3932,DRG35806,Q563,"Pseudohermaphroditism, unspecified"
-3933,DRG35806,Q564,"Indeterminate sex, unspecified"
-3934,DRG35806,Q960,"Karyotype 45, X"
-3935,DRG35806,Q961,"Karyotype 46, X iso (Xq)"
-3936,DRG35806,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
-3937,DRG35806,Q963,"Mosaicism, 45, X/46, XX or XY"
-3938,DRG35806,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome"
-3939,DRG35806,Q968,Other variants of Turner's syndrome
-3940,DRG35806,Q969,"Turner's syndrome, unspecified"
-3941,DRG35806,Q970,"Karyotype 47, XXX"
-3942,DRG35806,Q971,Female with more than three X chromosomes
-3943,DRG35806,Q972,"Mosaicism, lines with various numbers of X chromosomes"
-3944,DRG35806,Q973,"Female with 46, XY karyotype"
-3945,DRG35806,Q978,"Other specified sex chromosome abnormalities, female phenotype"
-3946,DRG35806,Q979,"Sex chromosome abnormality, female phenotype, unspecified"
-3947,DRG35806,Q985,"Karyotype 47, XYY"
-3948,DRG35806,Q990,"Chimera 46, XX/46, XY"
-3949,DRG35806,Q991,"46, XX true hermaphrodite"
-3950,DRG35806,Q998,Other specified chromosome abnormalities
-3951,DRG35806,R87610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
-3952,DRG35806,R87611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
-3953,DRG35806,R87612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
-3954,DRG35806,R87613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
-3955,DRG35806,R87614,Cytologic evidence of malignancy on smear of cervix
-3956,DRG35806,R87615,Unsatisfactory cytologic smear of cervix
-3957,DRG35806,R87616,Satisfactory cervical smear but lacking transformation zone
-3958,DRG35806,R87810,Cervical high risk human papillomavirus (HPV) DNA test positive
-3959,DRG35806,R87820,Cervical low risk human papillomavirus (HPV) DNA test positive
-3960,DRG35806,S30202A,"Contusion of unspecified external genital organ, female, initial encounter"
-3961,DRG35806,S3023XA,"Contusion of vagina and vulva, initial encounter"
-3962,DRG35806,S3140XA,"Unspecified open wound of vagina and vulva, initial encounter"
-3963,DRG35806,S3141XA,"Laceration without foreign body of vagina and vulva, initial encounter"
-3964,DRG35806,S3142XA,"Laceration with foreign body of vagina and vulva, initial encounter"
-3965,DRG35806,S3143XA,"Puncture wound without foreign body of vagina and vulva, initial encounter"
-3966,DRG35806,S3144XA,"Puncture wound with foreign body of vagina and vulva, initial encounter"
-3967,DRG35806,S3145XA,"Open bite of vagina and vulva, initial encounter"
-3968,DRG35806,S31502A,"Unspecified open wound of unspecified external genital organs, female, initial encounter"
-3969,DRG35806,S31502S,"Unspecified open wound of unspecified external genital organs, female, sequela"
-3970,DRG35806,S31512A,"Laceration without foreign body of unspecified external genital organs, female, initial encounter"
-3971,DRG35806,S31512S,"Laceration without foreign body of unspecified external genital organs, female, sequela"
-3972,DRG35806,S31522A,"Laceration with foreign body of unspecified external genital organs, female, initial encounter"
-3973,DRG35806,S31522S,"Laceration with foreign body of unspecified external genital organs, female, sequela"
-3974,DRG35806,S31532A,"Puncture wound without foreign body of unspecified external genital organs, female, initial encounter"
-3975,DRG35806,S31532S,"Puncture wound without foreign body of unspecified external genital organs, female, sequela"
-3976,DRG35806,S31542A,"Puncture wound with foreign body of unspecified external genital organs, female, initial encounter"
-3977,DRG35806,S31542S,"Puncture wound with foreign body of unspecified external genital organs, female, sequela"
-3978,DRG35806,S31552A,"Open bite of unspecified external genital organs, female, initial encounter"
-3979,DRG35806,S31552S,"Open bite of unspecified external genital organs, female, sequela"
-3980,DRG35806,S3710XS,"Unspecified injury of ureter, sequela"
-3981,DRG35806,S3712XS,"Contusion of ureter, sequela"
-3982,DRG35806,S3713XS,"Laceration of ureter, sequela"
-3983,DRG35806,S3719XS,"Other injury of ureter, sequela"
-3984,DRG35806,S3720XS,"Unspecified injury of bladder, sequela"
-3985,DRG35806,S3722XS,"Contusion of bladder, sequela"
-3986,DRG35806,S3723XS,"Laceration of bladder, sequela"
-3987,DRG35806,S3729XS,"Other injury of bladder, sequela"
-3988,DRG35806,S3730XS,"Unspecified injury of urethra, sequela"
-3989,DRG35806,S3732XS,"Contusion of urethra, sequela"
-3990,DRG35806,S3733XS,"Laceration of urethra, sequela"
-3991,DRG35806,S3739XS,"Other injury of urethra, sequela"
-3992,DRG35806,S37401A,"Unspecified injury of ovary, unilateral, initial encounter"
-3993,DRG35806,S37401S,"Unspecified injury of ovary, unilateral, sequela"
-3994,DRG35806,S37402A,"Unspecified injury of ovary, bilateral, initial encounter"
-3995,DRG35806,S37402S,"Unspecified injury of ovary, bilateral, sequela"
-3996,DRG35806,S37409A,"Unspecified injury of ovary, unspecified, initial encounter"
-3997,DRG35806,S37409S,"Unspecified injury of ovary, unspecified, sequela"
-3998,DRG35806,S37421A,"Contusion of ovary, unilateral, initial encounter"
-3999,DRG35806,S37421S,"Contusion of ovary, unilateral, sequela"
-4000,DRG35806,S37422A,"Contusion of ovary, bilateral, initial encounter"
-4001,DRG35806,S37422S,"Contusion of ovary, bilateral, sequela"
-4002,DRG35806,S37429A,"Contusion of ovary, unspecified, initial encounter"
-4003,DRG35806,S37429S,"Contusion of ovary, unspecified, sequela"
-4004,DRG35806,S37431A,"Laceration of ovary, unilateral, initial encounter"
-4005,DRG35806,S37431S,"Laceration of ovary, unilateral, sequela"
-4006,DRG35806,S37432A,"Laceration of ovary, bilateral, initial encounter"
-4007,DRG35806,S37432S,"Laceration of ovary, bilateral, sequela"
-4008,DRG35806,S37439A,"Laceration of ovary, unspecified, initial encounter"
-4009,DRG35806,S37439S,"Laceration of ovary, unspecified, sequela"
-4010,DRG35806,S37491A,"Other injury of ovary, unilateral, initial encounter"
-4011,DRG35806,S37491S,"Other injury of ovary, unilateral, sequela"
-4012,DRG35806,S37492A,"Other injury of ovary, bilateral, initial encounter"
-4013,DRG35806,S37492S,"Other injury of ovary, bilateral, sequela"
-4014,DRG35806,S37499A,"Other injury of ovary, unspecified, initial encounter"
-4015,DRG35806,S37499S,"Other injury of ovary, unspecified, sequela"
-4016,DRG35806,S37501A,"Unspecified injury of fallopian tube, unilateral, initial encounter"
-4017,DRG35806,S37501S,"Unspecified injury of fallopian tube, unilateral, sequela"
-4018,DRG35806,S37502A,"Unspecified injury of fallopian tube, bilateral, initial encounter"
-4019,DRG35806,S37502S,"Unspecified injury of fallopian tube, bilateral, sequela"
-4020,DRG35806,S37509A,"Unspecified injury of fallopian tube, unspecified, initial encounter"
-4021,DRG35806,S37509S,"Unspecified injury of fallopian tube, unspecified, sequela"
-4022,DRG35806,S37511A,"Primary blast injury of fallopian tube, unilateral, initial encounter"
-4023,DRG35806,S37511S,"Primary blast injury of fallopian tube, unilateral, sequela"
-4024,DRG35806,S37512A,"Primary blast injury of fallopian tube, bilateral, initial encounter"
-4025,DRG35806,S37512S,"Primary blast injury of fallopian tube, bilateral, sequela"
-4026,DRG35806,S37519A,"Primary blast injury of fallopian tube, unspecified, initial encounter"
-4027,DRG35806,S37519S,"Primary blast injury of fallopian tube, unspecified, sequela"
-4028,DRG35806,S37521A,"Contusion of fallopian tube, unilateral, initial encounter"
-4029,DRG35806,S37521S,"Contusion of fallopian tube, unilateral, sequela"
-4030,DRG35806,S37522A,"Contusion of fallopian tube, bilateral, initial encounter"
-4031,DRG35806,S37522S,"Contusion of fallopian tube, bilateral, sequela"
-4032,DRG35806,S37529A,"Contusion of fallopian tube, unspecified, initial encounter"
-4033,DRG35806,S37529S,"Contusion of fallopian tube, unspecified, sequela"
-4034,DRG35806,S37531A,"Laceration of fallopian tube, unilateral, initial encounter"
-4035,DRG35806,S37531S,"Laceration of fallopian tube, unilateral, sequela"
-4036,DRG35806,S37532A,"Laceration of fallopian tube, bilateral, initial encounter"
-4037,DRG35806,S37532S,"Laceration of fallopian tube, bilateral, sequela"
-4038,DRG35806,S37539A,"Laceration of fallopian tube, unspecified, initial encounter"
-4039,DRG35806,S37539S,"Laceration of fallopian tube, unspecified, sequela"
-4040,DRG35806,S37591A,"Other injury of fallopian tube, unilateral, initial encounter"
-4041,DRG35806,S37591S,"Other injury of fallopian tube, unilateral, sequela"
-4042,DRG35806,S37592A,"Other injury of fallopian tube, bilateral, initial encounter"
-4043,DRG35806,S37592S,"Other injury of fallopian tube, bilateral, sequela"
-4044,DRG35806,S37599A,"Other injury of fallopian tube, unspecified, initial encounter"
-4045,DRG35806,S37599S,"Other injury of fallopian tube, unspecified, sequela"
-4046,DRG35806,S3760XA,"Unspecified injury of uterus, initial encounter"
-4047,DRG35806,S3760XS,"Unspecified injury of uterus, sequela"
-4048,DRG35806,S3762XA,"Contusion of uterus, initial encounter"
-4049,DRG35806,S3762XS,"Contusion of uterus, sequela"
-4050,DRG35806,S3763XA,"Laceration of uterus, initial encounter"
-4051,DRG35806,S3763XS,"Laceration of uterus, sequela"
-4052,DRG35806,S3769XA,"Other injury of uterus, initial encounter"
-4053,DRG35806,S3769XS,"Other injury of uterus, sequela"
-4054,DRG35806,S37812S,"Contusion of adrenal gland, sequela"
-4055,DRG35806,S37813S,"Laceration of adrenal gland, sequela"
-4056,DRG35806,S37818S,"Other injury of adrenal gland, sequela"
-4057,DRG35806,S37819S,"Unspecified injury of adrenal gland, sequela"
-4058,DRG35806,S37892A,"Contusion of other urinary and pelvic organ, initial encounter"
-4059,DRG35806,S37892S,"Contusion of other urinary and pelvic organ, sequela"
-4060,DRG35806,S37893A,"Laceration of other urinary and pelvic organ, initial encounter"
-4061,DRG35806,S37893S,"Laceration of other urinary and pelvic organ, sequela"
-4062,DRG35806,S37898A,"Other injury of other urinary and pelvic organ, initial encounter"
-4063,DRG35806,S37898S,"Other injury of other urinary and pelvic organ, sequela"
-4064,DRG35806,S37899A,"Unspecified injury of other urinary and pelvic organ, initial encounter"
-4065,DRG35806,S37899S,"Unspecified injury of other urinary and pelvic organ, sequela"
-4066,DRG35806,S3790XA,"Unspecified injury of unspecified urinary and pelvic organ, initial encounter"
-4067,DRG35806,S3790XS,"Unspecified injury of unspecified urinary and pelvic organ, sequela"
-4068,DRG35806,S3792XA,"Contusion of unspecified urinary and pelvic organ, initial encounter"
-4069,DRG35806,S3792XS,"Contusion of unspecified urinary and pelvic organ, sequela"
-4070,DRG35806,S3793XA,"Laceration of unspecified urinary and pelvic organ, initial encounter"
-4071,DRG35806,S3793XS,"Laceration of unspecified urinary and pelvic organ, sequela"
-4072,DRG35806,S3799XA,"Other injury of unspecified urinary and pelvic organ, initial encounter"
-4073,DRG35806,S3799XS,"Other injury of unspecified urinary and pelvic organ, sequela"
-4074,DRG35806,S38002A,"Crushing injury of unspecified external genital organs, female, initial encounter"
-4075,DRG35806,S3803XA,"Crushing injury of vulva, initial encounter"
-4076,DRG35806,S38211A,"Complete traumatic amputation of female external genital organs, initial encounter"
-4077,DRG35806,S38212A,"Partial traumatic amputation of female external genital organs, initial encounter"
-4078,DRG35806,T192XXA,"Foreign body in vulva and vagina, initial encounter"
-4079,DRG35806,T193XXA,"Foreign body in uterus, initial encounter"
-4080,DRG35806,T8331XA,"Breakdown (mechanical) of intrauterine contraceptive device, initial encounter"
-4081,DRG35806,T8332XA,"Displacement of intrauterine contraceptive device, initial encounter"
-4082,DRG35806,T8339XA,"Other mechanical complication of intrauterine contraceptive device, initial encounter"
-4083,DRG35806,Z4002,Encounter for prophylactic removal of ovary
-4084,DRG35806,Z437,Encounter for attention to artificial vagina
-4087,DRG35806,0U520ZZ,"Destruction of Bilateral Ovaries, Open Approach"
-4088,DRG35806,0U523ZZ,"Destruction of Bilateral Ovaries, Percutaneous Approach"
-4089,DRG35806,0U570ZZ,"Destruction of Bilateral Fallopian Tubes, Open Approach"
-4090,DRG35806,0U573ZZ,"Destruction of Bilateral Fallopian Tubes, Percutaneous Approach"
-4091,DRG35806,0U577ZZ,"Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4092,DRG35806,0U578ZZ,"Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4093,DRG35806,0U770DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Open Approach"
-4094,DRG35806,0U770ZZ,"Dilation of Bilateral Fallopian Tubes, Open Approach"
-4095,DRG35806,0U773DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Percutaneous Approach"
-4096,DRG35806,0U773ZZ,"Dilation of Bilateral Fallopian Tubes, Percutaneous Approach"
-4097,DRG35806,0U777DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Via Natural or Artificial Opening"
-4098,DRG35806,0U777ZZ,"Dilation of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4099,DRG35806,0U778DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-4100,DRG35806,0U778ZZ,"Dilation of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4101,DRG35806,0U820ZZ,"Division of Bilateral Ovaries, Open Approach"
-4102,DRG35806,0U823ZZ,"Division of Bilateral Ovaries, Percutaneous Approach"
-4103,DRG35806,0U9200Z,"Drainage of Bilateral Ovaries with Drainage Device, Open Approach"
-4104,DRG35806,0U920ZX,"Drainage of Bilateral Ovaries, Open Approach, Diagnostic"
-4105,DRG35806,0U920ZZ,"Drainage of Bilateral Ovaries, Open Approach"
-4106,DRG35806,0U9230Z,"Drainage of Bilateral Ovaries with Drainage Device, Percutaneous Approach"
-4107,DRG35806,0U923ZX,"Drainage of Bilateral Ovaries, Percutaneous Approach, Diagnostic"
-4108,DRG35806,0U923ZZ,"Drainage of Bilateral Ovaries, Percutaneous Approach"
-4109,DRG35806,0U92XZZ,"Drainage of Bilateral Ovaries, External Approach"
-4110,DRG35806,0U9700Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Open Approach"
-4111,DRG35806,0U970ZX,"Drainage of Bilateral Fallopian Tubes, Open Approach, Diagnostic"
-4112,DRG35806,0U970ZZ,"Drainage of Bilateral Fallopian Tubes, Open Approach"
-4113,DRG35806,0U9730Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Percutaneous Approach"
-4114,DRG35806,0U973ZX,"Drainage of Bilateral Fallopian Tubes, Percutaneous Approach, Diagnostic"
-4115,DRG35806,0U9770Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Via Natural or Artificial Opening"
-4116,DRG35806,0U977ZX,"Drainage of Bilateral Fallopian Tubes, Via Natural or Artificial Opening, Diagnostic"
-4117,DRG35806,0U9780Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Via Natural or Artificial Opening Endoscopic"
-4118,DRG35806,0U978ZX,"Drainage of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4119,DRG35806,0UB20ZX,"Excision of Bilateral Ovaries, Open Approach, Diagnostic"
-4120,DRG35806,0UB20ZZ,"Excision of Bilateral Ovaries, Open Approach"
-4121,DRG35806,0UB23ZX,"Excision of Bilateral Ovaries, Percutaneous Approach, Diagnostic"
-4122,DRG35806,0UB23ZZ,"Excision of Bilateral Ovaries, Percutaneous Approach"
-4123,DRG35806,0UB27ZX,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening, Diagnostic"
-4124,DRG35806,0UB27ZZ,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening"
-4125,DRG35806,0UB28ZX,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4126,DRG35806,0UB28ZZ,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
-4127,DRG35806,0UB70ZX,"Excision of Bilateral Fallopian Tubes, Open Approach, Diagnostic"
-4128,DRG35806,0UB73ZX,"Excision of Bilateral Fallopian Tubes, Percutaneous Approach, Diagnostic"
-4129,DRG35806,0UB77ZX,"Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening, Diagnostic"
-4130,DRG35806,0UB78ZX,"Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4131,DRG35806,0UC20ZZ,"Extirpation of Matter from Bilateral Ovaries, Open Approach"
-4132,DRG35806,0UC23ZZ,"Extirpation of Matter from Bilateral Ovaries, Percutaneous Approach"
-4133,DRG35806,0UC70ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Open Approach"
-4134,DRG35806,0UC73ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Percutaneous Approach"
-4135,DRG35806,0UC77ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4136,DRG35806,0UC78ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4137,DRG35806,0UF70ZZ,"Fragmentation in Bilateral Fallopian Tubes, Open Approach"
-4138,DRG35806,0UF73ZZ,"Fragmentation in Bilateral Fallopian Tubes, Percutaneous Approach"
-4139,DRG35806,0UF77ZZ,"Fragmentation in Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4140,DRG35806,0UF78ZZ,"Fragmentation in Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4141,DRG35806,0UL70ZZ,"Occlusion of Bilateral Fallopian Tubes, Open Approach"
-4142,DRG35806,0UL73ZZ,"Occlusion of Bilateral Fallopian Tubes, Percutaneous Approach"
-4143,DRG35806,0UM20ZZ,"Reattachment of Bilateral Ovaries, Open Approach"
-4144,DRG35806,0UM70ZZ,"Reattachment of Bilateral Fallopian Tubes, Open Approach"
-4145,DRG35806,0UN20ZZ,"Release Bilateral Ovaries, Open Approach"
-4146,DRG35806,0UN23ZZ,"Release Bilateral Ovaries, Percutaneous Approach"
-4147,DRG35806,0UN70ZZ,"Release Bilateral Fallopian Tubes, Open Approach"
-4148,DRG35806,0UN73ZZ,"Release Bilateral Fallopian Tubes, Percutaneous Approach"
-4149,DRG35806,0UN77ZZ,"Release Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4150,DRG35806,0UN78ZZ,"Release Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4151,DRG35806,0UQ20ZZ,"Repair Bilateral Ovaries, Open Approach"
-4152,DRG35806,0UQ23ZZ,"Repair Bilateral Ovaries, Percutaneous Approach"
-4153,DRG35806,0UQ70ZZ,"Repair Bilateral Fallopian Tubes, Open Approach"
-4154,DRG35806,0UQ73ZZ,"Repair Bilateral Fallopian Tubes, Percutaneous Approach"
-4155,DRG35806,0UQ77ZZ,"Repair Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4156,DRG35806,0UQ78ZZ,"Repair Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4157,DRG35806,0US20ZZ,"Reposition Bilateral Ovaries, Open Approach"
-4158,DRG35806,0US70ZZ,"Reposition Bilateral Fallopian Tubes, Open Approach"
-4159,DRG35806,0UT20ZZ,"Resection of Bilateral Ovaries, Open Approach"
-4160,DRG35806,0UT27ZZ,"Resection of Bilateral Ovaries, Via Natural or Artificial Opening"
-4161,DRG35806,0UT28ZZ,"Resection of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
-4162,DRG35806,0UT70ZZ,"Resection of Bilateral Fallopian Tubes, Open Approach"
-4163,DRG35806,0UT77ZZ,"Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
-4164,DRG35806,0UT78ZZ,"Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
-4165,DRG35806,0UU707Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Open Approach"
-4166,DRG35806,0UU70JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Open Approach"
-4167,DRG35806,0UU70KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Open Approach"
-4168,DRG35806,0UU777Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Via Natural or Artificial Opening"
-4169,DRG35806,0UU77JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Via Natural or Artificial Opening"
-4170,DRG35806,0UU77KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Via Natural or Artificial Opening"
-4171,DRG35806,0UU787Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
-4172,DRG35806,0UU78JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
-4173,DRG35806,0UU78KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
-4176,DRG35806,015P0ZZ,"Destruction of Sacral Sympathetic Nerve, Open Approach"
-4177,DRG35806,015P3ZZ,"Destruction of Sacral Sympathetic Nerve, Percutaneous Approach"
-4178,DRG35806,0DQ80ZZ,"Repair Small Intestine, Open Approach"
-4179,DRG35806,0DQ83ZZ,"Repair Small Intestine, Percutaneous Approach"
-4180,DRG35806,0DQ87ZZ,"Repair Small Intestine, Via Natural or Artificial Opening"
-4181,DRG35806,0DQ88ZZ,"Repair Small Intestine, Via Natural or Artificial Opening Endoscopic"
-4182,DRG35806,0DQE0ZZ,"Repair Large Intestine, Open Approach"
-4183,DRG35806,0DQE3ZZ,"Repair Large Intestine, Percutaneous Approach"
-4184,DRG35806,0DQE7ZZ,"Repair Large Intestine, Via Natural or Artificial Opening"
-4185,DRG35806,0DQE8ZZ,"Repair Large Intestine, Via Natural or Artificial Opening Endoscopic"
-4186,DRG35806,0DQN0ZZ,"Repair Sigmoid Colon, Open Approach"
-4187,DRG35806,0DQN3ZZ,"Repair Sigmoid Colon, Percutaneous Approach"
-4188,DRG35806,0DQN7ZZ,"Repair Sigmoid Colon, Via Natural or Artificial Opening"
-4189,DRG35806,0DQN8ZZ,"Repair Sigmoid Colon, Via Natural or Artificial Opening Endoscopic"
-4190,DRG35806,0U15075,"Bypass Right Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Open Approach"
-4191,DRG35806,0U15076,"Bypass Right Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Open Approach"
-4192,DRG35806,0U15079,"Bypass Right Fallopian Tube to Uterus with Autologous Tissue Substitute, Open Approach"
-4193,DRG35806,0U150J5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Open Approach"
-4194,DRG35806,0U150J6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Open Approach"
-4195,DRG35806,0U150J9,"Bypass Right Fallopian Tube to Uterus with Synthetic Substitute, Open Approach"
-4196,DRG35806,0U150K5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
-4197,DRG35806,0U150K6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
-4198,DRG35806,0U150K9,"Bypass Right Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Open Approach"
-4199,DRG35806,0U150Z5,"Bypass Right Fallopian Tube to Right Fallopian Tube, Open Approach"
-4200,DRG35806,0U150Z6,"Bypass Right Fallopian Tube to Left Fallopian Tube, Open Approach"
-4201,DRG35806,0U150Z9,"Bypass Right Fallopian Tube to Uterus, Open Approach"
-4202,DRG35806,0U16075,"Bypass Left Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Open Approach"
-4203,DRG35806,0U16076,"Bypass Left Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Open Approach"
-4204,DRG35806,0U16079,"Bypass Left Fallopian Tube to Uterus with Autologous Tissue Substitute, Open Approach"
-4205,DRG35806,0U160J5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Open Approach"
-4206,DRG35806,0U160J6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Open Approach"
-4207,DRG35806,0U160J9,"Bypass Left Fallopian Tube to Uterus with Synthetic Substitute, Open Approach"
-4208,DRG35806,0U160K5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
-4209,DRG35806,0U160K6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
-4210,DRG35806,0U160K9,"Bypass Left Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Open Approach"
-4211,DRG35806,0U160Z5,"Bypass Left Fallopian Tube to Right Fallopian Tube, Open Approach"
-4212,DRG35806,0U160Z6,"Bypass Left Fallopian Tube to Left Fallopian Tube, Open Approach"
-4213,DRG35806,0U160Z9,"Bypass Left Fallopian Tube to Uterus, Open Approach"
-4214,DRG35806,0U500ZZ,"Destruction of Right Ovary, Open Approach"
-4215,DRG35806,0U503ZZ,"Destruction of Right Ovary, Percutaneous Approach"
-4216,DRG35806,0U510ZZ,"Destruction of Left Ovary, Open Approach"
-4217,DRG35806,0U513ZZ,"Destruction of Left Ovary, Percutaneous Approach"
-4218,DRG35806,0U540ZZ,"Destruction of Uterine Supporting Structure, Open Approach"
-4219,DRG35806,0U543ZZ,"Destruction of Uterine Supporting Structure, Percutaneous Approach"
-4220,DRG35806,0U550ZZ,"Destruction of Right Fallopian Tube, Open Approach"
-4221,DRG35806,0U553ZZ,"Destruction of Right Fallopian Tube, Percutaneous Approach"
-4222,DRG35806,0U557ZZ,"Destruction of Right Fallopian Tube, Via Natural or Artificial Opening"
-4223,DRG35806,0U558ZZ,"Destruction of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4224,DRG35806,0U560ZZ,"Destruction of Left Fallopian Tube, Open Approach"
-4225,DRG35806,0U563ZZ,"Destruction of Left Fallopian Tube, Percutaneous Approach"
-4226,DRG35806,0U567ZZ,"Destruction of Left Fallopian Tube, Via Natural or Artificial Opening"
-4227,DRG35806,0U568ZZ,"Destruction of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4228,DRG35806,0U590ZZ,"Destruction of Uterus, Open Approach"
-4229,DRG35806,0U593ZZ,"Destruction of Uterus, Percutaneous Approach"
-4230,DRG35806,0U597ZZ,"Destruction of Uterus, Via Natural or Artificial Opening"
-4231,DRG35806,0U598ZZ,"Destruction of Uterus, Via Natural or Artificial Opening Endoscopic"
-4232,DRG35806,0U5B0ZZ,"Destruction of Endometrium, Open Approach"
-4233,DRG35806,0U5B3ZZ,"Destruction of Endometrium, Percutaneous Approach"
-4234,DRG35806,0U5B7ZZ,"Destruction of Endometrium, Via Natural or Artificial Opening"
-4235,DRG35806,0U5B8ZZ,"Destruction of Endometrium, Via Natural or Artificial Opening Endoscopic"
-4236,DRG35806,0U750DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Open Approach"
-4237,DRG35806,0U750ZZ,"Dilation of Right Fallopian Tube, Open Approach"
-4238,DRG35806,0U753DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Percutaneous Approach"
-4239,DRG35806,0U753ZZ,"Dilation of Right Fallopian Tube, Percutaneous Approach"
-4240,DRG35806,0U757DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
-4241,DRG35806,0U757ZZ,"Dilation of Right Fallopian Tube, Via Natural or Artificial Opening"
-4242,DRG35806,0U758DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-4243,DRG35806,0U758ZZ,"Dilation of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4244,DRG35806,0U760DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Open Approach"
-4245,DRG35806,0U760ZZ,"Dilation of Left Fallopian Tube, Open Approach"
-4246,DRG35806,0U763DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Percutaneous Approach"
-4247,DRG35806,0U763ZZ,"Dilation of Left Fallopian Tube, Percutaneous Approach"
-4248,DRG35806,0U767DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
-4249,DRG35806,0U767ZZ,"Dilation of Left Fallopian Tube, Via Natural or Artificial Opening"
-4250,DRG35806,0U768DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-4251,DRG35806,0U768ZZ,"Dilation of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4252,DRG35806,0U790DZ,"Dilation of Uterus with Intraluminal Device, Open Approach"
-4253,DRG35806,0U790ZZ,"Dilation of Uterus, Open Approach"
-4254,DRG35806,0U793DZ,"Dilation of Uterus with Intraluminal Device, Percutaneous Approach"
-4255,DRG35806,0U793ZZ,"Dilation of Uterus, Percutaneous Approach"
-4256,DRG35806,0U797DZ,"Dilation of Uterus with Intraluminal Device, Via Natural or Artificial Opening"
-4257,DRG35806,0U797ZZ,"Dilation of Uterus, Via Natural or Artificial Opening"
-4258,DRG35806,0U798DZ,"Dilation of Uterus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-4259,DRG35806,0U798ZZ,"Dilation of Uterus, Via Natural or Artificial Opening Endoscopic"
-4260,DRG35806,0U800ZZ,"Division of Right Ovary, Open Approach"
-4261,DRG35806,0U803ZZ,"Division of Right Ovary, Percutaneous Approach"
-4262,DRG35806,0U810ZZ,"Division of Left Ovary, Open Approach"
-4263,DRG35806,0U813ZZ,"Division of Left Ovary, Percutaneous Approach"
-4264,DRG35806,0U9000Z,"Drainage of Right Ovary with Drainage Device, Open Approach"
-4265,DRG35806,0U900ZX,"Drainage of Right Ovary, Open Approach, Diagnostic"
-4266,DRG35806,0U900ZZ,"Drainage of Right Ovary, Open Approach"
-4267,DRG35806,0U9030Z,"Drainage of Right Ovary with Drainage Device, Percutaneous Approach"
-4268,DRG35806,0U903ZX,"Drainage of Right Ovary, Percutaneous Approach, Diagnostic"
-4269,DRG35806,0U903ZZ,"Drainage of Right Ovary, Percutaneous Approach"
-4270,DRG35806,0U90XZZ,"Drainage of Right Ovary, External Approach"
-4271,DRG35806,0U9100Z,"Drainage of Left Ovary with Drainage Device, Open Approach"
-4272,DRG35806,0U910ZX,"Drainage of Left Ovary, Open Approach, Diagnostic"
-4273,DRG35806,0U910ZZ,"Drainage of Left Ovary, Open Approach"
-4274,DRG35806,0U9130Z,"Drainage of Left Ovary with Drainage Device, Percutaneous Approach"
-4275,DRG35806,0U913ZX,"Drainage of Left Ovary, Percutaneous Approach, Diagnostic"
-4276,DRG35806,0U913ZZ,"Drainage of Left Ovary, Percutaneous Approach"
-4277,DRG35806,0U91XZZ,"Drainage of Left Ovary, External Approach"
-4278,DRG35806,0U940ZX,"Drainage of Uterine Supporting Structure, Open Approach, Diagnostic"
-4279,DRG35806,0U9500Z,"Drainage of Right Fallopian Tube with Drainage Device, Open Approach"
-4280,DRG35806,0U950ZX,"Drainage of Right Fallopian Tube, Open Approach, Diagnostic"
-4281,DRG35806,0U950ZZ,"Drainage of Right Fallopian Tube, Open Approach"
-4282,DRG35806,0U9530Z,"Drainage of Right Fallopian Tube with Drainage Device, Percutaneous Approach"
-4283,DRG35806,0U953ZX,"Drainage of Right Fallopian Tube, Percutaneous Approach, Diagnostic"
-4284,DRG35806,0U9570Z,"Drainage of Right Fallopian Tube with Drainage Device, Via Natural or Artificial Opening"
-4285,DRG35806,0U957ZX,"Drainage of Right Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
-4286,DRG35806,0U9580Z,"Drainage of Right Fallopian Tube with Drainage Device, Via Natural or Artificial Opening Endoscopic"
-4287,DRG35806,0U958ZX,"Drainage of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4288,DRG35806,0U9600Z,"Drainage of Left Fallopian Tube with Drainage Device, Open Approach"
-4289,DRG35806,0U960ZX,"Drainage of Left Fallopian Tube, Open Approach, Diagnostic"
-4290,DRG35806,0U960ZZ,"Drainage of Left Fallopian Tube, Open Approach"
-4291,DRG35806,0U9630Z,"Drainage of Left Fallopian Tube with Drainage Device, Percutaneous Approach"
-4292,DRG35806,0U963ZX,"Drainage of Left Fallopian Tube, Percutaneous Approach, Diagnostic"
-4293,DRG35806,0U9670Z,"Drainage of Left Fallopian Tube with Drainage Device, Via Natural or Artificial Opening"
-4294,DRG35806,0U967ZX,"Drainage of Left Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
-4295,DRG35806,0U9680Z,"Drainage of Left Fallopian Tube with Drainage Device, Via Natural or Artificial Opening Endoscopic"
-4296,DRG35806,0U968ZX,"Drainage of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4297,DRG35806,0U9900Z,"Drainage of Uterus with Drainage Device, Open Approach"
-4298,DRG35806,0U990ZX,"Drainage of Uterus, Open Approach, Diagnostic"
-4299,DRG35806,0U990ZZ,"Drainage of Uterus, Open Approach"
-4300,DRG35806,0U9930Z,"Drainage of Uterus with Drainage Device, Percutaneous Approach"
-4301,DRG35806,0U993ZZ,"Drainage of Uterus, Percutaneous Approach"
-4302,DRG35806,0U9970Z,"Drainage of Uterus with Drainage Device, Via Natural or Artificial Opening"
-4303,DRG35806,0U997ZZ,"Drainage of Uterus, Via Natural or Artificial Opening"
-4304,DRG35806,0U9980Z,"Drainage of Uterus with Drainage Device, Via Natural or Artificial Opening Endoscopic"
-4305,DRG35806,0U998ZZ,"Drainage of Uterus, Via Natural or Artificial Opening Endoscopic"
-4306,DRG35806,0UB00ZX,"Excision of Right Ovary, Open Approach, Diagnostic"
-4307,DRG35806,0UB00ZZ,"Excision of Right Ovary, Open Approach"
-4308,DRG35806,0UB03ZX,"Excision of Right Ovary, Percutaneous Approach, Diagnostic"
-4309,DRG35806,0UB03ZZ,"Excision of Right Ovary, Percutaneous Approach"
-4310,DRG35806,0UB07ZX,"Excision of Right Ovary, Via Natural or Artificial Opening, Diagnostic"
-4311,DRG35806,0UB07ZZ,"Excision of Right Ovary, Via Natural or Artificial Opening"
-4312,DRG35806,0UB08ZX,"Excision of Right Ovary, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4313,DRG35806,0UB08ZZ,"Excision of Right Ovary, Via Natural or Artificial Opening Endoscopic"
-4314,DRG35806,0UB10ZX,"Excision of Left Ovary, Open Approach, Diagnostic"
-4315,DRG35806,0UB10ZZ,"Excision of Left Ovary, Open Approach"
-4316,DRG35806,0UB13ZX,"Excision of Left Ovary, Percutaneous Approach, Diagnostic"
-4317,DRG35806,0UB13ZZ,"Excision of Left Ovary, Percutaneous Approach"
-4318,DRG35806,0UB17ZX,"Excision of Left Ovary, Via Natural or Artificial Opening, Diagnostic"
-4319,DRG35806,0UB17ZZ,"Excision of Left Ovary, Via Natural or Artificial Opening"
-4320,DRG35806,0UB18ZX,"Excision of Left Ovary, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4321,DRG35806,0UB18ZZ,"Excision of Left Ovary, Via Natural or Artificial Opening Endoscopic"
-4322,DRG35806,0UB40ZX,"Excision of Uterine Supporting Structure, Open Approach, Diagnostic"
-4323,DRG35806,0UB40ZZ,"Excision of Uterine Supporting Structure, Open Approach"
-4324,DRG35806,0UB43ZZ,"Excision of Uterine Supporting Structure, Percutaneous Approach"
-4325,DRG35806,0UB47ZZ,"Excision of Uterine Supporting Structure, Via Natural or Artificial Opening"
-4326,DRG35806,0UB48ZZ,"Excision of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic"
-4327,DRG35806,0UB50ZX,"Excision of Right Fallopian Tube, Open Approach, Diagnostic"
-4328,DRG35806,0UB50ZZ,"Excision of Right Fallopian Tube, Open Approach"
-4329,DRG35806,0UB53ZX,"Excision of Right Fallopian Tube, Percutaneous Approach, Diagnostic"
-4330,DRG35806,0UB53ZZ,"Excision of Right Fallopian Tube, Percutaneous Approach"
-4331,DRG35806,0UB57ZX,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
-4332,DRG35806,0UB57ZZ,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening"
-4333,DRG35806,0UB58ZX,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4334,DRG35806,0UB58ZZ,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4335,DRG35806,0UB60ZX,"Excision of Left Fallopian Tube, Open Approach, Diagnostic"
-4336,DRG35806,0UB60ZZ,"Excision of Left Fallopian Tube, Open Approach"
-4337,DRG35806,0UB63ZX,"Excision of Left Fallopian Tube, Percutaneous Approach, Diagnostic"
-4338,DRG35806,0UB63ZZ,"Excision of Left Fallopian Tube, Percutaneous Approach"
-4339,DRG35806,0UB67ZX,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
-4340,DRG35806,0UB67ZZ,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening"
-4341,DRG35806,0UB68ZX,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
-4342,DRG35806,0UB68ZZ,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4343,DRG35806,0UB90ZX,"Excision of Uterus, Open Approach, Diagnostic"
-4344,DRG35806,0UB90ZZ,"Excision of Uterus, Open Approach"
-4345,DRG35806,0UB93ZZ,"Excision of Uterus, Percutaneous Approach"
-4346,DRG35806,0UB97ZZ,"Excision of Uterus, Via Natural or Artificial Opening"
-4347,DRG35806,0UB98ZZ,"Excision of Uterus, Via Natural or Artificial Opening Endoscopic"
-4348,DRG35806,0UC00ZZ,"Extirpation of Matter from Right Ovary, Open Approach"
-4349,DRG35806,0UC03ZZ,"Extirpation of Matter from Right Ovary, Percutaneous Approach"
-4350,DRG35806,0UC10ZZ,"Extirpation of Matter from Left Ovary, Open Approach"
-4351,DRG35806,0UC13ZZ,"Extirpation of Matter from Left Ovary, Percutaneous Approach"
-4352,DRG35806,0UC50ZZ,"Extirpation of Matter from Right Fallopian Tube, Open Approach"
-4353,DRG35806,0UC53ZZ,"Extirpation of Matter from Right Fallopian Tube, Percutaneous Approach"
-4354,DRG35806,0UC57ZZ,"Extirpation of Matter from Right Fallopian Tube, Via Natural or Artificial Opening"
-4355,DRG35806,0UC58ZZ,"Extirpation of Matter from Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4356,DRG35806,0UC60ZZ,"Extirpation of Matter from Left Fallopian Tube, Open Approach"
-4357,DRG35806,0UC63ZZ,"Extirpation of Matter from Left Fallopian Tube, Percutaneous Approach"
-4358,DRG35806,0UC67ZZ,"Extirpation of Matter from Left Fallopian Tube, Via Natural or Artificial Opening"
-4359,DRG35806,0UC68ZZ,"Extirpation of Matter from Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4360,DRG35806,0UC90ZZ,"Extirpation of Matter from Uterus, Open Approach"
-4361,DRG35806,0UC93ZZ,"Extirpation of Matter from Uterus, Percutaneous Approach"
-4362,DRG35806,0UDB7ZZ,"Extraction of Endometrium, Via Natural or Artificial Opening"
-4363,DRG35806,0UDB8ZZ,"Extraction of Endometrium, Via Natural or Artificial Opening Endoscopic"
-4364,DRG35806,0UDN0ZZ,"Extraction of Ova, Open"
-4365,DRG35806,0UDN3ZZ,"Extraction of Ova, Percutaneous"
-4366,DRG35806,0UF50ZZ,"Fragmentation in Right Fallopian Tube, Open Approach"
-4367,DRG35806,0UF53ZZ,"Fragmentation in Right Fallopian Tube, Percutaneous Approach"
-4368,DRG35806,0UF57ZZ,"Fragmentation in Right Fallopian Tube, Via Natural or Artificial Opening"
-4369,DRG35806,0UF58ZZ,"Fragmentation in Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4370,DRG35806,0UF60ZZ,"Fragmentation in Left Fallopian Tube, Open Approach"
-4371,DRG35806,0UF63ZZ,"Fragmentation in Left Fallopian Tube, Percutaneous Approach"
-4372,DRG35806,0UF67ZZ,"Fragmentation in Left Fallopian Tube, Via Natural or Artificial Opening"
-4373,DRG35806,0UF68ZZ,"Fragmentation in Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4374,DRG35806,0UJ30ZZ,"Inspection of Ovary, Open Approach"
-4375,DRG35806,0UJ33ZZ,"Inspection of Ovary, Percutaneous Approach"
-4376,DRG35806,0UJ80ZZ,"Inspection of Fallopian Tube, Open Approach"
-4377,DRG35806,0UJ83ZZ,"Inspection of Fallopian Tube, Percutaneous Approach"
-4378,DRG35806,0UJ87ZZ,"Inspection of Fallopian Tube, Via Natural or Artificial Opening"
-4379,DRG35806,0UJ88ZZ,"Inspection of Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4380,DRG35806,0UJD0ZZ,"Inspection of Uterus and Cervix, Open Approach"
-4381,DRG35806,0UJD3ZZ,"Inspection of Uterus and Cervix, Percutaneous Approach"
-4382,DRG35806,0UL50CZ,"Occlusion of Right Fallopian Tube with Extraluminal Device, Open Approach"
-4383,DRG35806,0UL50DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Open Approach"
-4384,DRG35806,0UL50ZZ,"Occlusion of Right Fallopian Tube, Open Approach"
-4385,DRG35806,0UL53CZ,"Occlusion of Right Fallopian Tube with Extraluminal Device, Percutaneous Approach"
-4386,DRG35806,0UL53DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Percutaneous Approach"
-4387,DRG35806,0UL53ZZ,"Occlusion of Right Fallopian Tube, Percutaneous Approach"
-4388,DRG35806,0UL57DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
-4389,DRG35806,0UL57ZZ,"Occlusion of Right Fallopian Tube, Via Natural or Artificial Opening"
-4390,DRG35806,0UL58DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-4391,DRG35806,0UL58ZZ,"Occlusion of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4392,DRG35806,0UL60CZ,"Occlusion of Left Fallopian Tube with Extraluminal Device, Open Approach"
-4393,DRG35806,0UL60DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Open Approach"
-4394,DRG35806,0UL60ZZ,"Occlusion of Left Fallopian Tube, Open Approach"
-4395,DRG35806,0UL63CZ,"Occlusion of Left Fallopian Tube with Extraluminal Device, Percutaneous Approach"
-4396,DRG35806,0UL63DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Percutaneous Approach"
-4397,DRG35806,0UL63ZZ,"Occlusion of Left Fallopian Tube, Percutaneous Approach"
-4398,DRG35806,0UL67DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
-4399,DRG35806,0UL67ZZ,"Occlusion of Left Fallopian Tube, Via Natural or Artificial Opening"
-4400,DRG35806,0UL68DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-4401,DRG35806,0UL68ZZ,"Occlusion of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4402,DRG35806,0UM00ZZ,"Reattachment of Right Ovary, Open Approach"
-4403,DRG35806,0UM10ZZ,"Reattachment of Left Ovary, Open Approach"
-4404,DRG35806,0UM50ZZ,"Reattachment of Right Fallopian Tube, Open Approach"
-4405,DRG35806,0UM60ZZ,"Reattachment of Left Fallopian Tube, Open Approach"
-4406,DRG35806,0UN00ZZ,"Release Right Ovary, Open Approach"
-4407,DRG35806,0UN03ZZ,"Release Right Ovary, Percutaneous Approach"
-4408,DRG35806,0UN10ZZ,"Release Left Ovary, Open Approach"
-4409,DRG35806,0UN13ZZ,"Release Left Ovary, Percutaneous Approach"
-4410,DRG35806,0UN50ZZ,"Release Right Fallopian Tube, Open Approach"
-4411,DRG35806,0UN53ZZ,"Release Right Fallopian Tube, Percutaneous Approach"
-4412,DRG35806,0UN57ZZ,"Release Right Fallopian Tube, Via Natural or Artificial Opening"
-4413,DRG35806,0UN58ZZ,"Release Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4414,DRG35806,0UN60ZZ,"Release Left Fallopian Tube, Open Approach"
-4415,DRG35806,0UN63ZZ,"Release Left Fallopian Tube, Percutaneous Approach"
-4416,DRG35806,0UN67ZZ,"Release Left Fallopian Tube, Via Natural or Artificial Opening"
-4417,DRG35806,0UN68ZZ,"Release Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4418,DRG35806,0UP300Z,"Removal of Drainage Device from Ovary, Open Approach"
-4419,DRG35806,0UP303Z,"Removal of Infusion Device from Ovary, Open Approach"
-4420,DRG35806,0UP330Z,"Removal of Drainage Device from Ovary, Percutaneous Approach"
-4421,DRG35806,0UP333Z,"Removal of Infusion Device from Ovary, Percutaneous Approach"
-4422,DRG35806,0UP800Z,"Removal of Drainage Device from Fallopian Tube, Open Approach"
-4423,DRG35806,0UP803Z,"Removal of Infusion Device from Fallopian Tube, Open Approach"
-4424,DRG35806,0UP807Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Open Approach"
-4425,DRG35806,0UP80CZ,"Removal of Extraluminal Device from Fallopian Tube, Open Approach"
-4426,DRG35806,0UP80DZ,"Removal of Intraluminal Device from Fallopian Tube, Open Approach"
-4427,DRG35806,0UP80JZ,"Removal of Synthetic Substitute from Fallopian Tube, Open Approach"
-4428,DRG35806,0UP80KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Open Approach"
-4429,DRG35806,0UP830Z,"Removal of Drainage Device from Fallopian Tube, Percutaneous Approach"
-4430,DRG35806,0UP833Z,"Removal of Infusion Device from Fallopian Tube, Percutaneous Approach"
-4431,DRG35806,0UP837Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Percutaneous Approach"
-4432,DRG35806,0UP83CZ,"Removal of Extraluminal Device from Fallopian Tube, Percutaneous Approach"
-4433,DRG35806,0UP83DZ,"Removal of Intraluminal Device from Fallopian Tube, Percutaneous Approach"
-4434,DRG35806,0UP83JZ,"Removal of Synthetic Substitute from Fallopian Tube, Percutaneous Approach"
-4435,DRG35806,0UP83KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Percutaneous Approach"
-4436,DRG35806,0UP870Z,"Removal of Drainage Device from Fallopian Tube, Via Natural or Artificial Opening"
-4437,DRG35806,0UP873Z,"Removal of Infusion Device from Fallopian Tube, Via Natural or Artificial Opening"
-4438,DRG35806,0UP877Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening"
-4439,DRG35806,0UP87CZ,"Removal of Extraluminal Device from Fallopian Tube, Via Natural or Artificial Opening"
-4440,DRG35806,0UP87DZ,"Removal of Intraluminal Device from Fallopian Tube, Via Natural or Artificial Opening"
-4441,DRG35806,0UP87JZ,"Removal of Synthetic Substitute from Fallopian Tube, Via Natural or Artificial Opening"
-4442,DRG35806,0UP87KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening"
-4443,DRG35806,0UP880Z,"Removal of Drainage Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4444,DRG35806,0UP883Z,"Removal of Infusion Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4445,DRG35806,0UP887Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4446,DRG35806,0UP88CZ,"Removal of Extraluminal Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4447,DRG35806,0UP88DZ,"Removal of Intraluminal Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4448,DRG35806,0UP88JZ,"Removal of Synthetic Substitute from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4449,DRG35806,0UP88KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4450,DRG35806,0UPD00Z,"Removal of Drainage Device from Uterus and Cervix, Open Approach"
-4451,DRG35806,0UPD01Z,"Removal of Radioactive Element from Uterus and Cervix, Open Approach"
-4452,DRG35806,0UPD03Z,"Removal of Infusion Device from Uterus and Cervix, Open Approach"
-4453,DRG35806,0UPD07Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Open Approach"
-4454,DRG35806,0UPD0DZ,"Removal of Intraluminal Device from Uterus and Cervix, Open Approach"
-4455,DRG35806,0UPD0HZ,"Removal of Contraceptive Device from Uterus and Cervix, Open Approach"
-4456,DRG35806,0UPD0JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Open Approach"
-4457,DRG35806,0UPD0KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Open Approach"
-4458,DRG35806,0UPD30Z,"Removal of Drainage Device from Uterus and Cervix, Percutaneous Approach"
-4459,DRG35806,0UPD31Z,"Removal of Radioactive Element from Uterus and Cervix, Percutaneous Approach"
-4460,DRG35806,0UPD33Z,"Removal of Infusion Device from Uterus and Cervix, Percutaneous Approach"
-4461,DRG35806,0UPD37Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Percutaneous Approach"
-4462,DRG35806,0UPD3DZ,"Removal of Intraluminal Device from Uterus and Cervix, Percutaneous Approach"
-4463,DRG35806,0UPD3HZ,"Removal of Contraceptive Device from Uterus and Cervix, Percutaneous Approach"
-4464,DRG35806,0UPD3JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Percutaneous Approach"
-4465,DRG35806,0UPD3KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Percutaneous Approach"
-4466,DRG35806,0UPD70Z,"Removal of Drainage Device from Uterus and Cervix, Via Natural or Artificial Opening"
-4467,DRG35806,0UPD71Z,"Removal of Radioactive Element from Uterus and Cervix, Via Natural or Artificial Opening"
-4468,DRG35806,0UPD73Z,"Removal of Infusion Device from Uterus and Cervix, Via Natural or Artificial Opening"
-4469,DRG35806,0UPD77Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening"
-4470,DRG35806,0UPD7DZ,"Removal of Intraluminal Device from Uterus and Cervix, Via Natural or Artificial Opening"
-4471,DRG35806,0UPD7JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Via Natural or Artificial Opening"
-4472,DRG35806,0UPD7KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening"
-4473,DRG35806,0UPD80Z,"Removal of Drainage Device from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4474,DRG35806,0UPD81Z,"Removal of Radioactive Element from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4475,DRG35806,0UPD83Z,"Removal of Infusion Device from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4476,DRG35806,0UPD87Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4477,DRG35806,0UPD8DZ,"Removal of Intraluminal Device from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4478,DRG35806,0UPD8JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4479,DRG35806,0UPD8KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4480,DRG35806,0UQ00ZZ,"Repair Right Ovary, Open Approach"
-4481,DRG35806,0UQ03ZZ,"Repair Right Ovary, Percutaneous Approach"
-4482,DRG35806,0UQ10ZZ,"Repair Left Ovary, Open Approach"
-4483,DRG35806,0UQ13ZZ,"Repair Left Ovary, Percutaneous Approach"
-4484,DRG35806,0UQ50ZZ,"Repair Right Fallopian Tube, Open Approach"
-4485,DRG35806,0UQ53ZZ,"Repair Right Fallopian Tube, Percutaneous Approach"
-4486,DRG35806,0UQ57ZZ,"Repair Right Fallopian Tube, Via Natural or Artificial Opening"
-4487,DRG35806,0UQ58ZZ,"Repair Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4488,DRG35806,0UQ60ZZ,"Repair Left Fallopian Tube, Open Approach"
-4489,DRG35806,0UQ63ZZ,"Repair Left Fallopian Tube, Percutaneous Approach"
-4490,DRG35806,0UQ67ZZ,"Repair Left Fallopian Tube, Via Natural or Artificial Opening"
-4491,DRG35806,0UQ68ZZ,"Repair Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4492,DRG35806,0UQ90ZZ,"Repair Uterus, Open Approach"
-4493,DRG35806,0UQ93ZZ,"Repair Uterus, Percutaneous Approach"
-4494,DRG35806,0UQ97ZZ,"Repair Uterus, Via Natural or Artificial Opening"
-4495,DRG35806,0UQ98ZZ,"Repair Uterus, Via Natural or Artificial Opening Endoscopic"
-4496,DRG35806,0UQG0ZZ,"Repair Vagina, Open Approach"
-4497,DRG35806,0UQG3ZZ,"Repair Vagina, Percutaneous Approach"
-4498,DRG35806,0UQG7ZZ,"Repair Vagina, Via Natural or Artificial Opening"
-4499,DRG35806,0UQG8ZZ,"Repair Vagina, Via Natural or Artificial Opening Endoscopic"
-4500,DRG35806,0US00ZZ,"Reposition Right Ovary, Open Approach"
-4501,DRG35806,0US10ZZ,"Reposition Left Ovary, Open Approach"
-4502,DRG35806,0US50ZZ,"Reposition Right Fallopian Tube, Open Approach"
-4503,DRG35806,0US60ZZ,"Reposition Left Fallopian Tube, Open Approach"
-4504,DRG35806,0USC0ZZ,"Reposition Cervix, Open Approach"
-4505,DRG35806,0UT00ZZ,"Resection of Right Ovary, Open Approach"
-4506,DRG35806,0UT07ZZ,"Resection of Right Ovary, Via Natural or Artificial Opening"
-4507,DRG35806,0UT08ZZ,"Resection of Right Ovary, Via Natural or Artificial Opening Endoscopic"
-4508,DRG35806,0UT10ZZ,"Resection of Left Ovary, Open Approach"
-4509,DRG35806,0UT17ZZ,"Resection of Left Ovary, Via Natural or Artificial Opening"
-4510,DRG35806,0UT18ZZ,"Resection of Left Ovary, Via Natural or Artificial Opening Endoscopic"
-4511,DRG35806,0UT50ZZ,"Resection of Right Fallopian Tube, Open Approach"
-4512,DRG35806,0UT57ZZ,"Resection of Right Fallopian Tube, Via Natural or Artificial Opening"
-4513,DRG35806,0UT58ZZ,"Resection of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4514,DRG35806,0UT60ZZ,"Resection of Left Fallopian Tube, Open Approach"
-4515,DRG35806,0UT67ZZ,"Resection of Left Fallopian Tube, Via Natural or Artificial Opening"
-4516,DRG35806,0UT68ZZ,"Resection of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4517,DRG35806,0UU507Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Open Approach"
-4518,DRG35806,0UU50JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Open Approach"
-4519,DRG35806,0UU50KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
-4520,DRG35806,0UU577Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening"
-4521,DRG35806,0UU57JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening"
-4522,DRG35806,0UU57KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening"
-4523,DRG35806,0UU587Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
-4524,DRG35806,0UU58JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
-4525,DRG35806,0UU58KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
-4526,DRG35806,0UU607Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Open Approach"
-4527,DRG35806,0UU60JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Open Approach"
-4528,DRG35806,0UU60KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
-4529,DRG35806,0UU677Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening"
-4530,DRG35806,0UU67JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening"
-4531,DRG35806,0UU67KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening"
-4532,DRG35806,0UU687Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
-4533,DRG35806,0UU68JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
-4534,DRG35806,0UU68KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
-4535,DRG35806,0UW300Z,"Revision of Drainage Device in Ovary, Open Approach"
-4536,DRG35806,0UW303Z,"Revision of Infusion Device in Ovary, Open Approach"
-4537,DRG35806,0UW330Z,"Revision of Drainage Device in Ovary, Percutaneous Approach"
-4538,DRG35806,0UW333Z,"Revision of Infusion Device in Ovary, Percutaneous Approach"
-4539,DRG35806,0UW800Z,"Revision of Drainage Device in Fallopian Tube, Open Approach"
-4540,DRG35806,0UW803Z,"Revision of Infusion Device in Fallopian Tube, Open Approach"
-4541,DRG35806,0UW807Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Open Approach"
-4542,DRG35806,0UW80CZ,"Revision of Extraluminal Device in Fallopian Tube, Open Approach"
-4543,DRG35806,0UW80DZ,"Revision of Intraluminal Device in Fallopian Tube, Open Approach"
-4544,DRG35806,0UW80JZ,"Revision of Synthetic Substitute in Fallopian Tube, Open Approach"
-4545,DRG35806,0UW80KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Open Approach"
-4546,DRG35806,0UW830Z,"Revision of Drainage Device in Fallopian Tube, Percutaneous Approach"
-4547,DRG35806,0UW833Z,"Revision of Infusion Device in Fallopian Tube, Percutaneous Approach"
-4548,DRG35806,0UW837Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Percutaneous Approach"
-4549,DRG35806,0UW83CZ,"Revision of Extraluminal Device in Fallopian Tube, Percutaneous Approach"
-4550,DRG35806,0UW83DZ,"Revision of Intraluminal Device in Fallopian Tube, Percutaneous Approach"
-4551,DRG35806,0UW83JZ,"Revision of Synthetic Substitute in Fallopian Tube, Percutaneous Approach"
-4552,DRG35806,0UW83KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Percutaneous Approach"
-4553,DRG35806,0UW870Z,"Revision of Drainage Device in Fallopian Tube, Via Natural or Artificial Opening"
-4554,DRG35806,0UW873Z,"Revision of Infusion Device in Fallopian Tube, Via Natural or Artificial Opening"
-4555,DRG35806,0UW877Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening"
-4556,DRG35806,0UW87CZ,"Revision of Extraluminal Device in Fallopian Tube, Via Natural or Artificial Opening"
-4557,DRG35806,0UW87DZ,"Revision of Intraluminal Device in Fallopian Tube, Via Natural or Artificial Opening"
-4558,DRG35806,0UW87JZ,"Revision of Synthetic Substitute in Fallopian Tube, Via Natural or Artificial Opening"
-4559,DRG35806,0UW87KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening"
-4560,DRG35806,0UW880Z,"Revision of Drainage Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4561,DRG35806,0UW883Z,"Revision of Infusion Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4562,DRG35806,0UW887Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4563,DRG35806,0UW88CZ,"Revision of Extraluminal Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4564,DRG35806,0UW88DZ,"Revision of Intraluminal Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4565,DRG35806,0UW88JZ,"Revision of Synthetic Substitute in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4566,DRG35806,0UW88KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
-4567,DRG35806,0UWD00Z,"Revision of Drainage Device in Uterus and Cervix, Open Approach"
-4568,DRG35806,0UWD01Z,"Revision of Radioactive Element in Uterus and Cervix, Open Approach"
-4569,DRG35806,0UWD03Z,"Revision of Infusion Device in Uterus and Cervix, Open Approach"
-4570,DRG35806,0UWD07Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Open Approach"
-4571,DRG35806,0UWD0DZ,"Revision of Intraluminal Device in Uterus and Cervix, Open Approach"
-4572,DRG35806,0UWD0HZ,"Revision of Contraceptive Device in Uterus and Cervix, Open Approach"
-4573,DRG35806,0UWD0JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Open Approach"
-4574,DRG35806,0UWD0KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Open Approach"
-4575,DRG35806,0UWD30Z,"Revision of Drainage Device in Uterus and Cervix, Percutaneous Approach"
-4576,DRG35806,0UWD31Z,"Revision of Radioactive Element in Uterus and Cervix, Percutaneous Approach"
-4577,DRG35806,0UWD33Z,"Revision of Infusion Device in Uterus and Cervix, Percutaneous Approach"
-4578,DRG35806,0UWD37Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Percutaneous Approach"
-4579,DRG35806,0UWD3DZ,"Revision of Intraluminal Device in Uterus and Cervix, Percutaneous Approach"
-4580,DRG35806,0UWD3HZ,"Revision of Contraceptive Device in Uterus and Cervix, Percutaneous Approach"
-4581,DRG35806,0UWD3JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Percutaneous Approach"
-4582,DRG35806,0UWD3KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Percutaneous Approach"
-4583,DRG35806,0UWD70Z,"Revision of Drainage Device in Uterus and Cervix, Via Natural or Artificial Opening"
-4584,DRG35806,0UWD71Z,"Revision of Radioactive Element in Uterus and Cervix, Via Natural or Artificial Opening"
-4585,DRG35806,0UWD73Z,"Revision of Infusion Device in Uterus and Cervix, Via Natural or Artificial Opening"
-4586,DRG35806,0UWD77Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening"
-4587,DRG35806,0UWD7DZ,"Revision of Intraluminal Device in Uterus and Cervix, Via Natural or Artificial Opening"
-4588,DRG35806,0UWD7HZ,"Revision of Contraceptive Device in Uterus and Cervix, Via Natural or Artificial Opening"
-4589,DRG35806,0UWD7JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Via Natural or Artificial Opening"
-4590,DRG35806,0UWD7KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening"
-4591,DRG35806,0UWD80Z,"Revision of Drainage Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4592,DRG35806,0UWD81Z,"Revision of Radioactive Element in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4593,DRG35806,0UWD83Z,"Revision of Infusion Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4594,DRG35806,0UWD87Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4595,DRG35806,0UWD8DZ,"Revision of Intraluminal Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4596,DRG35806,0UWD8HZ,"Revision of Contraceptive Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4597,DRG35806,0UWD8JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4598,DRG35806,0UWD8KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
-4599,DRG35806,0UY00Z0,"Transplantation of Right Ovary, Allogeneic, Open Approach"
-4600,DRG35806,0UY00Z1,"Transplantation of Right Ovary, Syngeneic, Open Approach"
-4601,DRG35806,0UY00Z2,"Transplantation of Right Ovary, Zooplastic, Open Approach"
-4602,DRG35806,0UY10Z0,"Transplantation of Left Ovary, Allogeneic, Open Approach"
-4603,DRG35806,0UY10Z1,"Transplantation of Left Ovary, Syngeneic, Open Approach"
-4604,DRG35806,0UY10Z2,"Transplantation of Left Ovary, Zooplastic, Open Approach"
-4605,DRG35806,10D27ZZ,"Extraction of Products of Conception, Ectopic, Via Natural or Artificial Opening"
-4606,DRG35806,10D28ZZ,"Extraction of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic"
-4607,DRG35806,10T20ZZ,"Resection of Products of Conception, Ectopic, Open Approach"
-4608,DRG35806,10T23ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Approach"
-4609,DRG35806,10T27ZZ,"Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening"
-4610,DRG35806,10T28ZZ,"Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic"
+DRG,CM-PCS,en
+DRG35806,A1816,Tuberculosis of cervix
+DRG35806,A1817,Tuberculous female pelvic inflammatory disease
+DRG35806,A1818,Tuberculosis of other female genital organs
+DRG35806,A510,Primary genital syphilis
+DRG35806,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
+DRG35806,A5402,"Gonococcal vulvovaginitis, unspecified"
+DRG35806,A5403,"Gonococcal cervicitis, unspecified"
+DRG35806,A5409,Other gonococcal infection of lower genitourinary tract
+DRG35806,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+DRG35806,A5421,Gonococcal infection of kidney and ureter
+DRG35806,A5424,Gonococcal female pelvic inflammatory disease
+DRG35806,A5429,Other gonococcal genitourinary infections
+DRG35806,A55,Chlamydial lymphogranuloma (venereum)
+DRG35806,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
+DRG35806,A5601,Chlamydial cystitis and urethritis
+DRG35806,A5602,Chlamydial vulvovaginitis
+DRG35806,A5609,Other chlamydial infection of lower genitourinary tract
+DRG35806,A562,"Chlamydial infection of genitourinary tract, unspecified"
+DRG35806,A568,Sexually transmitted chlamydial infection of other sites
+DRG35806,A57,Chancroid
+DRG35806,A58,Granuloma inguinale
+DRG35806,A5900,"Urogenital trichomoniasis, unspecified"
+DRG35806,A5901,Trichomonal vulvovaginitis
+DRG35806,A5903,Trichomonal cystitis and urethritis
+DRG35806,A5909,Other urogenital trichomoniasis
+DRG35806,A6000,"Herpesviral infection of urogenital system, unspecified"
+DRG35806,A6003,Herpesviral cervicitis
+DRG35806,A6004,Herpesviral vulvovaginitis
+DRG35806,A6009,Herpesviral infection of other urogenital tract
+DRG35806,A601,Herpesviral infection of perianal skin and rectum
+DRG35806,A609,"Anogenital herpesviral infection, unspecified"
+DRG35806,A638,Other specified predominantly sexually transmitted diseases
+DRG35806,A64,Unspecified sexually transmitted disease
+DRG35806,B373,Candidiasis of vulva and vagina
+DRG35806,B3741,Candidal cystitis and urethritis
+DRG35806,B3749,Other urogenital candidiasis
+DRG35806,D060,Carcinoma in situ of endocervix
+DRG35806,D061,Carcinoma in situ of exocervix
+DRG35806,D067,Carcinoma in situ of other parts of cervix
+DRG35806,D069,"Carcinoma in situ of cervix, unspecified"
+DRG35806,D070,Carcinoma in situ of endometrium
+DRG35806,D071,Carcinoma in situ of vulva
+DRG35806,D072,Carcinoma in situ of vagina
+DRG35806,D0730,Carcinoma in situ of unspecified female genital organs
+DRG35806,D0739,Carcinoma in situ of other female genital organs
+DRG35806,D250,Submucous leiomyoma of uterus
+DRG35806,D251,Intramural leiomyoma of uterus
+DRG35806,D252,Subserosal leiomyoma of uterus
+DRG35806,D259,"Leiomyoma of uterus, unspecified"
+DRG35806,D260,Other benign neoplasm of cervix uteri
+DRG35806,D261,Other benign neoplasm of corpus uteri
+DRG35806,D267,Other benign neoplasm of other parts of uterus
+DRG35806,D269,"Other benign neoplasm of uterus, unspecified"
+DRG35806,D270,Benign neoplasm of right ovary
+DRG35806,D271,Benign neoplasm of left ovary
+DRG35806,D279,Benign neoplasm of unspecified ovary
+DRG35806,D280,Benign neoplasm of vulva
+DRG35806,D281,Benign neoplasm of vagina
+DRG35806,D282,Benign neoplasm of uterine tubes and ligaments
+DRG35806,D287,Benign neoplasm of other specified female genital organs
+DRG35806,D289,"Benign neoplasm of female genital organ, unspecified"
+DRG35806,E280,Estrogen excess
+DRG35806,E281,Androgen excess
+DRG35806,E282,Polycystic ovarian syndrome
+DRG35806,E28310,Symptomatic premature menopause
+DRG35806,E28319,Asymptomatic premature menopause
+DRG35806,E2839,Other primary ovarian failure
+DRG35806,E288,Other ovarian dysfunction
+DRG35806,E289,"Ovarian dysfunction, unspecified"
+DRG35806,E8940,Asymptomatic postprocedural ovarian failure
+DRG35806,E8941,Symptomatic postprocedural ovarian failure
+DRG35806,F525,Vaginismus not due to a substance or known physiological condition
+DRG35806,G43821,"Menstrual migraine, not intractable, with status migrainosus"
+DRG35806,G43829,"Menstrual migraine, not intractable, without status migrainosus"
+DRG35806,G43831,"Menstrual migraine, intractable, with status migrainosus"
+DRG35806,G43839,"Menstrual migraine, intractable, without status migrainosus"
+DRG35806,I862,Pelvic varices
+DRG35806,I863,Vulval varices
+DRG35806,L292,Pruritus vulvae
+DRG35806,L293,"Anogenital pruritus, unspecified"
+DRG35806,N341,Nonspecific urethritis
+DRG35806,N393,Stress incontinence (female) (male)
+DRG35806,N7001,Acute salpingitis
+DRG35806,N7002,Acute oophoritis
+DRG35806,N7003,Acute salpingitis and oophoritis
+DRG35806,N7011,Chronic salpingitis
+DRG35806,N7012,Chronic oophoritis
+DRG35806,N7013,Chronic salpingitis and oophoritis
+DRG35806,N7091,"Salpingitis, unspecified"
+DRG35806,N7092,"Oophoritis, unspecified"
+DRG35806,N7093,"Salpingitis and oophoritis, unspecified"
+DRG35806,N710,Acute inflammatory disease of uterus
+DRG35806,N711,Chronic inflammatory disease of uterus
+DRG35806,N719,"Inflammatory disease of uterus, unspecified"
+DRG35806,N72,Inflammatory disease of cervix uteri
+DRG35806,N730,Acute parametritis and pelvic cellulitis
+DRG35806,N731,Chronic parametritis and pelvic cellulitis
+DRG35806,N732,Unspecified parametritis and pelvic cellulitis
+DRG35806,N733,Female acute pelvic peritonitis
+DRG35806,N734,Female chronic pelvic peritonitis
+DRG35806,N735,"Female pelvic peritonitis, unspecified"
+DRG35806,N736,Female pelvic peritoneal adhesions (postinfective)
+DRG35806,N738,Other specified female pelvic inflammatory diseases
+DRG35806,N739,"Female pelvic inflammatory disease, unspecified"
+DRG35806,N750,Cyst of Bartholin's gland
+DRG35806,N751,Abscess of Bartholin's gland
+DRG35806,N758,Other diseases of Bartholin's gland
+DRG35806,N759,"Disease of Bartholin's gland, unspecified"
+DRG35806,N760,Acute vaginitis
+DRG35806,N761,Subacute and chronic vaginitis
+DRG35806,N762,Acute vulvitis
+DRG35806,N763,Subacute and chronic vulvitis
+DRG35806,N764,Abscess of vulva
+DRG35806,N765,Ulceration of vagina
+DRG35806,N766,Ulceration of vulva
+DRG35806,N7681,Mucositis (ulcerative) of vagina and vulva
+DRG35806,N7689,Other specified inflammation of vagina and vulva
+DRG35806,N800,Endometriosis of uterus
+DRG35806,N801,Endometriosis of ovary
+DRG35806,N802,Endometriosis of fallopian tube
+DRG35806,N803,Endometriosis of pelvic peritoneum
+DRG35806,N804,Endometriosis of rectovaginal septum and vagina
+DRG35806,N808,Other endometriosis
+DRG35806,N809,"Endometriosis, unspecified"
+DRG35806,N810,Urethrocele
+DRG35806,N8110,"Cystocele, unspecified"
+DRG35806,N8111,"Cystocele, midline"
+DRG35806,N8112,"Cystocele, lateral"
+DRG35806,N812,Incomplete uterovaginal prolapse
+DRG35806,N813,Complete uterovaginal prolapse
+DRG35806,N814,"Uterovaginal prolapse, unspecified"
+DRG35806,N815,Vaginal enterocele
+DRG35806,N816,Rectocele
+DRG35806,N8181,Perineocele
+DRG35806,N8182,Incompetence or weakening of pubocervical tissue
+DRG35806,N8183,Incompetence or weakening of rectovaginal tissue
+DRG35806,N8184,Pelvic muscle wasting
+DRG35806,N8185,Cervical stump prolapse
+DRG35806,N8189,Other female genital prolapse
+DRG35806,N819,"Female genital prolapse, unspecified"
+DRG35806,N820,Vesicovaginal fistula
+DRG35806,N821,Other female urinary-genital tract fistulae
+DRG35806,N825,Female genital tract-skin fistulae
+DRG35806,N828,Other female genital tract fistulae
+DRG35806,N829,"Female genital tract fistula, unspecified"
+DRG35806,N830,Follicular cyst of ovary
+DRG35806,N831,Corpus luteum cyst
+DRG35806,N8320,Unspecified ovarian cysts
+DRG35806,N8329,Other ovarian cysts
+DRG35806,N8331,Acquired atrophy of ovary
+DRG35806,N8332,Acquired atrophy of fallopian tube
+DRG35806,N8333,Acquired atrophy of ovary and fallopian tube
+DRG35806,N834,Prolapse and hernia of ovary and fallopian tube
+DRG35806,N8351,Torsion of ovary and ovarian pedicle
+DRG35806,N8352,Torsion of fallopian tube
+DRG35806,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube"
+DRG35806,N836,Hematosalpinx
+DRG35806,N837,Hematoma of broad ligament
+DRG35806,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
+DRG35806,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
+DRG35806,N840,Polyp of corpus uteri
+DRG35806,N841,Polyp of cervix uteri
+DRG35806,N842,Polyp of vagina
+DRG35806,N843,Polyp of vulva
+DRG35806,N848,Polyp of other parts of female genital tract
+DRG35806,N849,"Polyp of female genital tract, unspecified"
+DRG35806,N8500,"Endometrial hyperplasia, unspecified"
+DRG35806,N8501,Benign endometrial hyperplasia
+DRG35806,N8502,Endometrial intraepithelial neoplasia [EIN]
+DRG35806,N852,Hypertrophy of uterus
+DRG35806,N853,Subinvolution of uterus
+DRG35806,N854,Malposition of uterus
+DRG35806,N855,Inversion of uterus
+DRG35806,N856,Intrauterine synechiae
+DRG35806,N857,Hematometra
+DRG35806,N858,Other specified noninflammatory disorders of uterus
+DRG35806,N859,"Noninflammatory disorder of uterus, unspecified"
+DRG35806,N86,Erosion and ectropion of cervix uteri
+DRG35806,N870,Mild cervical dysplasia
+DRG35806,N871,Moderate cervical dysplasia
+DRG35806,N879,"Dysplasia of cervix uteri, unspecified"
+DRG35806,N880,Leukoplakia of cervix uteri
+DRG35806,N881,Old laceration of cervix uteri
+DRG35806,N882,Stricture and stenosis of cervix uteri
+DRG35806,N883,Incompetence of cervix uteri
+DRG35806,N884,Hypertrophic elongation of cervix uteri
+DRG35806,N888,Other specified noninflammatory disorders of cervix uteri
+DRG35806,N889,"Noninflammatory disorder of cervix uteri, unspecified"
+DRG35806,N890,Mild vaginal dysplasia
+DRG35806,N891,Moderate vaginal dysplasia
+DRG35806,N893,"Dysplasia of vagina, unspecified"
+DRG35806,N894,Leukoplakia of vagina
+DRG35806,N895,Stricture and atresia of vagina
+DRG35806,N896,Tight hymenal ring
+DRG35806,N897,Hematocolpos
+DRG35806,N898,Other specified noninflammatory disorders of vagina
+DRG35806,N899,"Noninflammatory disorder of vagina, unspecified"
+DRG35806,N900,Mild vulvar dysplasia
+DRG35806,N901,Moderate vulvar dysplasia
+DRG35806,N903,"Dysplasia of vulva, unspecified"
+DRG35806,N904,Leukoplakia of vulva
+DRG35806,N905,Atrophy of vulva
+DRG35806,N906,Hypertrophy of vulva
+DRG35806,N907,Vulvar cyst
+DRG35806,N90810,"Female genital mutilation status, unspecified"
+DRG35806,N90811,Female genital mutilation Type I status
+DRG35806,N90812,Female genital mutilation Type II status
+DRG35806,N90813,Female genital mutilation Type III status
+DRG35806,N90818,Other female genital mutilation status
+DRG35806,N9089,Other specified noninflammatory disorders of vulva and perineum
+DRG35806,N909,"Noninflammatory disorder of vulva and perineum, unspecified"
+DRG35806,N910,Primary amenorrhea
+DRG35806,N911,Secondary amenorrhea
+DRG35806,N912,"Amenorrhea, unspecified"
+DRG35806,N913,Primary oligomenorrhea
+DRG35806,N914,Secondary oligomenorrhea
+DRG35806,N915,"Oligomenorrhea, unspecified"
+DRG35806,N920,Excessive and frequent menstruation with regular cycle
+DRG35806,N921,Excessive and frequent menstruation with irregular cycle
+DRG35806,N922,Excessive menstruation at puberty
+DRG35806,N923,Ovulation bleeding
+DRG35806,N924,Excessive bleeding in the premenopausal period
+DRG35806,N925,Other specified irregular menstruation
+DRG35806,N926,"Irregular menstruation, unspecified"
+DRG35806,N930,Postcoital and contact bleeding
+DRG35806,N938,Other specified abnormal uterine and vaginal bleeding
+DRG35806,N939,"Abnormal uterine and vaginal bleeding, unspecified"
+DRG35806,N940,Mittelschmerz
+DRG35806,N941,Dyspareunia
+DRG35806,N942,Vaginismus
+DRG35806,N943,Premenstrual tension syndrome
+DRG35806,N944,Primary dysmenorrhea
+DRG35806,N945,Secondary dysmenorrhea
+DRG35806,N946,"Dysmenorrhea, unspecified"
+DRG35806,N94810,Vulvar vestibulitis
+DRG35806,N94818,Other vulvodynia
+DRG35806,N94819,"Vulvodynia, unspecified"
+DRG35806,N9489,Other specified conditions associated with female genital organs and menstrual cycle
+DRG35806,N949,Unspecified condition associated with female genital organs and menstrual cycle
+DRG35806,N950,Postmenopausal bleeding
+DRG35806,N951,Menopausal and female climacteric states
+DRG35806,N952,Postmenopausal atrophic vaginitis
+DRG35806,N958,Other specified menopausal and perimenopausal disorders
+DRG35806,N959,Unspecified menopausal and perimenopausal disorder
+DRG35806,N96,Recurrent pregnancy loss
+DRG35806,N970,Female infertility associated with anovulation
+DRG35806,N971,Female infertility of tubal origin
+DRG35806,N972,Female infertility of uterine origin
+DRG35806,N978,Female infertility of other origin
+DRG35806,N979,"Female infertility, unspecified"
+DRG35806,N992,Postprocedural adhesions of vagina
+DRG35806,N993,Prolapse of vaginal vault after hysterectomy
+DRG35806,N9983,Residual ovary syndrome
+DRG35806,Q5001,"Congenital absence of ovary, unilateral"
+DRG35806,Q5002,"Congenital absence of ovary, bilateral"
+DRG35806,Q501,Developmental ovarian cyst
+DRG35806,Q502,Congenital torsion of ovary
+DRG35806,Q5031,Accessory ovary
+DRG35806,Q5032,Ovarian streak
+DRG35806,Q5039,Other congenital malformation of ovary
+DRG35806,Q504,Embryonic cyst of fallopian tube
+DRG35806,Q505,Embryonic cyst of broad ligament
+DRG35806,Q506,Other congenital malformations of fallopian tube and broad ligament
+DRG35806,Q510,Agenesis and aplasia of uterus
+DRG35806,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction
+DRG35806,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction
+DRG35806,Q512,Other doubling of uterus
+DRG35806,Q513,Bicornate uterus
+DRG35806,Q514,Unicornate uterus
+DRG35806,Q515,Agenesis and aplasia of cervix
+DRG35806,Q516,Embryonic cyst of cervix
+DRG35806,Q517,Congenital fistulae between uterus and digestive and urinary tracts
+DRG35806,Q51810,Arcuate uterus
+DRG35806,Q51811,Hypoplasia of uterus
+DRG35806,Q51818,Other congenital malformations of uterus
+DRG35806,Q51820,Cervical duplication
+DRG35806,Q51821,Hypoplasia of cervix
+DRG35806,Q51828,Other congenital malformations of cervix
+DRG35806,Q519,"Congenital malformation of uterus and cervix, unspecified"
+DRG35806,Q520,Congenital absence of vagina
+DRG35806,Q5210,"Doubling of vagina, unspecified"
+DRG35806,Q5211,Transverse vaginal septum
+DRG35806,Q5212,Longitudinal vaginal septum
+DRG35806,Q522,Congenital rectovaginal fistula
+DRG35806,Q523,Imperforate hymen
+DRG35806,Q524,Other congenital malformations of vagina
+DRG35806,Q525,Fusion of labia
+DRG35806,Q526,Congenital malformation of clitoris
+DRG35806,Q5270,Unspecified congenital malformations of vulva
+DRG35806,Q5271,Congenital absence of vulva
+DRG35806,Q5279,Other congenital malformations of vulva
+DRG35806,Q528,Other specified congenital malformations of female genitalia
+DRG35806,Q529,"Congenital malformation of female genitalia, unspecified"
+DRG35806,Q560,"Hermaphroditism, not elsewhere classified"
+DRG35806,Q562,"Female pseudohermaphroditism, not elsewhere classified"
+DRG35806,Q563,"Pseudohermaphroditism, unspecified"
+DRG35806,Q564,"Indeterminate sex, unspecified"
+DRG35806,Q960,"Karyotype 45, X"
+DRG35806,Q961,"Karyotype 46, X iso (Xq)"
+DRG35806,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
+DRG35806,Q963,"Mosaicism, 45, X/46, XX or XY"
+DRG35806,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome"
+DRG35806,Q968,Other variants of Turner's syndrome
+DRG35806,Q969,"Turner's syndrome, unspecified"
+DRG35806,Q970,"Karyotype 47, XXX"
+DRG35806,Q971,Female with more than three X chromosomes
+DRG35806,Q972,"Mosaicism, lines with various numbers of X chromosomes"
+DRG35806,Q973,"Female with 46, XY karyotype"
+DRG35806,Q978,"Other specified sex chromosome abnormalities, female phenotype"
+DRG35806,Q979,"Sex chromosome abnormality, female phenotype, unspecified"
+DRG35806,Q985,"Karyotype 47, XYY"
+DRG35806,Q990,"Chimera 46, XX/46, XY"
+DRG35806,Q991,"46, XX true hermaphrodite"
+DRG35806,Q998,Other specified chromosome abnormalities
+DRG35806,R87610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
+DRG35806,R87611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
+DRG35806,R87612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
+DRG35806,R87613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
+DRG35806,R87614,Cytologic evidence of malignancy on smear of cervix
+DRG35806,R87615,Unsatisfactory cytologic smear of cervix
+DRG35806,R87616,Satisfactory cervical smear but lacking transformation zone
+DRG35806,R87810,Cervical high risk human papillomavirus (HPV) DNA test positive
+DRG35806,R87820,Cervical low risk human papillomavirus (HPV) DNA test positive
+DRG35806,S30202A,"Contusion of unspecified external genital organ, female, initial encounter"
+DRG35806,S3023XA,"Contusion of vagina and vulva, initial encounter"
+DRG35806,S3140XA,"Unspecified open wound of vagina and vulva, initial encounter"
+DRG35806,S3141XA,"Laceration without foreign body of vagina and vulva, initial encounter"
+DRG35806,S3142XA,"Laceration with foreign body of vagina and vulva, initial encounter"
+DRG35806,S3143XA,"Puncture wound without foreign body of vagina and vulva, initial encounter"
+DRG35806,S3144XA,"Puncture wound with foreign body of vagina and vulva, initial encounter"
+DRG35806,S3145XA,"Open bite of vagina and vulva, initial encounter"
+DRG35806,S31502A,"Unspecified open wound of unspecified external genital organs, female, initial encounter"
+DRG35806,S31502S,"Unspecified open wound of unspecified external genital organs, female, sequela"
+DRG35806,S31512A,"Laceration without foreign body of unspecified external genital organs, female, initial encounter"
+DRG35806,S31512S,"Laceration without foreign body of unspecified external genital organs, female, sequela"
+DRG35806,S31522A,"Laceration with foreign body of unspecified external genital organs, female, initial encounter"
+DRG35806,S31522S,"Laceration with foreign body of unspecified external genital organs, female, sequela"
+DRG35806,S31532A,"Puncture wound without foreign body of unspecified external genital organs, female, initial encounter"
+DRG35806,S31532S,"Puncture wound without foreign body of unspecified external genital organs, female, sequela"
+DRG35806,S31542A,"Puncture wound with foreign body of unspecified external genital organs, female, initial encounter"
+DRG35806,S31542S,"Puncture wound with foreign body of unspecified external genital organs, female, sequela"
+DRG35806,S31552A,"Open bite of unspecified external genital organs, female, initial encounter"
+DRG35806,S31552S,"Open bite of unspecified external genital organs, female, sequela"
+DRG35806,S3710XS,"Unspecified injury of ureter, sequela"
+DRG35806,S3712XS,"Contusion of ureter, sequela"
+DRG35806,S3713XS,"Laceration of ureter, sequela"
+DRG35806,S3719XS,"Other injury of ureter, sequela"
+DRG35806,S3720XS,"Unspecified injury of bladder, sequela"
+DRG35806,S3722XS,"Contusion of bladder, sequela"
+DRG35806,S3723XS,"Laceration of bladder, sequela"
+DRG35806,S3729XS,"Other injury of bladder, sequela"
+DRG35806,S3730XS,"Unspecified injury of urethra, sequela"
+DRG35806,S3732XS,"Contusion of urethra, sequela"
+DRG35806,S3733XS,"Laceration of urethra, sequela"
+DRG35806,S3739XS,"Other injury of urethra, sequela"
+DRG35806,S37401A,"Unspecified injury of ovary, unilateral, initial encounter"
+DRG35806,S37401S,"Unspecified injury of ovary, unilateral, sequela"
+DRG35806,S37402A,"Unspecified injury of ovary, bilateral, initial encounter"
+DRG35806,S37402S,"Unspecified injury of ovary, bilateral, sequela"
+DRG35806,S37409A,"Unspecified injury of ovary, unspecified, initial encounter"
+DRG35806,S37409S,"Unspecified injury of ovary, unspecified, sequela"
+DRG35806,S37421A,"Contusion of ovary, unilateral, initial encounter"
+DRG35806,S37421S,"Contusion of ovary, unilateral, sequela"
+DRG35806,S37422A,"Contusion of ovary, bilateral, initial encounter"
+DRG35806,S37422S,"Contusion of ovary, bilateral, sequela"
+DRG35806,S37429A,"Contusion of ovary, unspecified, initial encounter"
+DRG35806,S37429S,"Contusion of ovary, unspecified, sequela"
+DRG35806,S37431A,"Laceration of ovary, unilateral, initial encounter"
+DRG35806,S37431S,"Laceration of ovary, unilateral, sequela"
+DRG35806,S37432A,"Laceration of ovary, bilateral, initial encounter"
+DRG35806,S37432S,"Laceration of ovary, bilateral, sequela"
+DRG35806,S37439A,"Laceration of ovary, unspecified, initial encounter"
+DRG35806,S37439S,"Laceration of ovary, unspecified, sequela"
+DRG35806,S37491A,"Other injury of ovary, unilateral, initial encounter"
+DRG35806,S37491S,"Other injury of ovary, unilateral, sequela"
+DRG35806,S37492A,"Other injury of ovary, bilateral, initial encounter"
+DRG35806,S37492S,"Other injury of ovary, bilateral, sequela"
+DRG35806,S37499A,"Other injury of ovary, unspecified, initial encounter"
+DRG35806,S37499S,"Other injury of ovary, unspecified, sequela"
+DRG35806,S37501A,"Unspecified injury of fallopian tube, unilateral, initial encounter"
+DRG35806,S37501S,"Unspecified injury of fallopian tube, unilateral, sequela"
+DRG35806,S37502A,"Unspecified injury of fallopian tube, bilateral, initial encounter"
+DRG35806,S37502S,"Unspecified injury of fallopian tube, bilateral, sequela"
+DRG35806,S37509A,"Unspecified injury of fallopian tube, unspecified, initial encounter"
+DRG35806,S37509S,"Unspecified injury of fallopian tube, unspecified, sequela"
+DRG35806,S37511A,"Primary blast injury of fallopian tube, unilateral, initial encounter"
+DRG35806,S37511S,"Primary blast injury of fallopian tube, unilateral, sequela"
+DRG35806,S37512A,"Primary blast injury of fallopian tube, bilateral, initial encounter"
+DRG35806,S37512S,"Primary blast injury of fallopian tube, bilateral, sequela"
+DRG35806,S37519A,"Primary blast injury of fallopian tube, unspecified, initial encounter"
+DRG35806,S37519S,"Primary blast injury of fallopian tube, unspecified, sequela"
+DRG35806,S37521A,"Contusion of fallopian tube, unilateral, initial encounter"
+DRG35806,S37521S,"Contusion of fallopian tube, unilateral, sequela"
+DRG35806,S37522A,"Contusion of fallopian tube, bilateral, initial encounter"
+DRG35806,S37522S,"Contusion of fallopian tube, bilateral, sequela"
+DRG35806,S37529A,"Contusion of fallopian tube, unspecified, initial encounter"
+DRG35806,S37529S,"Contusion of fallopian tube, unspecified, sequela"
+DRG35806,S37531A,"Laceration of fallopian tube, unilateral, initial encounter"
+DRG35806,S37531S,"Laceration of fallopian tube, unilateral, sequela"
+DRG35806,S37532A,"Laceration of fallopian tube, bilateral, initial encounter"
+DRG35806,S37532S,"Laceration of fallopian tube, bilateral, sequela"
+DRG35806,S37539A,"Laceration of fallopian tube, unspecified, initial encounter"
+DRG35806,S37539S,"Laceration of fallopian tube, unspecified, sequela"
+DRG35806,S37591A,"Other injury of fallopian tube, unilateral, initial encounter"
+DRG35806,S37591S,"Other injury of fallopian tube, unilateral, sequela"
+DRG35806,S37592A,"Other injury of fallopian tube, bilateral, initial encounter"
+DRG35806,S37592S,"Other injury of fallopian tube, bilateral, sequela"
+DRG35806,S37599A,"Other injury of fallopian tube, unspecified, initial encounter"
+DRG35806,S37599S,"Other injury of fallopian tube, unspecified, sequela"
+DRG35806,S3760XA,"Unspecified injury of uterus, initial encounter"
+DRG35806,S3760XS,"Unspecified injury of uterus, sequela"
+DRG35806,S3762XA,"Contusion of uterus, initial encounter"
+DRG35806,S3762XS,"Contusion of uterus, sequela"
+DRG35806,S3763XA,"Laceration of uterus, initial encounter"
+DRG35806,S3763XS,"Laceration of uterus, sequela"
+DRG35806,S3769XA,"Other injury of uterus, initial encounter"
+DRG35806,S3769XS,"Other injury of uterus, sequela"
+DRG35806,S37812S,"Contusion of adrenal gland, sequela"
+DRG35806,S37813S,"Laceration of adrenal gland, sequela"
+DRG35806,S37818S,"Other injury of adrenal gland, sequela"
+DRG35806,S37819S,"Unspecified injury of adrenal gland, sequela"
+DRG35806,S37892A,"Contusion of other urinary and pelvic organ, initial encounter"
+DRG35806,S37892S,"Contusion of other urinary and pelvic organ, sequela"
+DRG35806,S37893A,"Laceration of other urinary and pelvic organ, initial encounter"
+DRG35806,S37893S,"Laceration of other urinary and pelvic organ, sequela"
+DRG35806,S37898A,"Other injury of other urinary and pelvic organ, initial encounter"
+DRG35806,S37898S,"Other injury of other urinary and pelvic organ, sequela"
+DRG35806,S37899A,"Unspecified injury of other urinary and pelvic organ, initial encounter"
+DRG35806,S37899S,"Unspecified injury of other urinary and pelvic organ, sequela"
+DRG35806,S3790XA,"Unspecified injury of unspecified urinary and pelvic organ, initial encounter"
+DRG35806,S3790XS,"Unspecified injury of unspecified urinary and pelvic organ, sequela"
+DRG35806,S3792XA,"Contusion of unspecified urinary and pelvic organ, initial encounter"
+DRG35806,S3792XS,"Contusion of unspecified urinary and pelvic organ, sequela"
+DRG35806,S3793XA,"Laceration of unspecified urinary and pelvic organ, initial encounter"
+DRG35806,S3793XS,"Laceration of unspecified urinary and pelvic organ, sequela"
+DRG35806,S3799XA,"Other injury of unspecified urinary and pelvic organ, initial encounter"
+DRG35806,S3799XS,"Other injury of unspecified urinary and pelvic organ, sequela"
+DRG35806,S38002A,"Crushing injury of unspecified external genital organs, female, initial encounter"
+DRG35806,S3803XA,"Crushing injury of vulva, initial encounter"
+DRG35806,S38211A,"Complete traumatic amputation of female external genital organs, initial encounter"
+DRG35806,S38212A,"Partial traumatic amputation of female external genital organs, initial encounter"
+DRG35806,T192XXA,"Foreign body in vulva and vagina, initial encounter"
+DRG35806,T193XXA,"Foreign body in uterus, initial encounter"
+DRG35806,T8331XA,"Breakdown (mechanical) of intrauterine contraceptive device, initial encounter"
+DRG35806,T8332XA,"Displacement of intrauterine contraceptive device, initial encounter"
+DRG35806,T8339XA,"Other mechanical complication of intrauterine contraceptive device, initial encounter"
+DRG35806,Z4002,Encounter for prophylactic removal of ovary
+DRG35806,Z437,Encounter for attention to artificial vagina
+DRG35806,0U520ZZ,"Destruction of Bilateral Ovaries, Open Approach"
+DRG35806,0U523ZZ,"Destruction of Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0U570ZZ,"Destruction of Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0U573ZZ,"Destruction of Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0U577ZZ,"Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0U578ZZ,"Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U770DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Open Approach"
+DRG35806,0U770ZZ,"Dilation of Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0U773DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Percutaneous Approach"
+DRG35806,0U773ZZ,"Dilation of Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0U777DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Via Natural or Artificial Opening"
+DRG35806,0U777ZZ,"Dilation of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0U778DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U778ZZ,"Dilation of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U820ZZ,"Division of Bilateral Ovaries, Open Approach"
+DRG35806,0U823ZZ,"Division of Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0U9200Z,"Drainage of Bilateral Ovaries with Drainage Device, Open Approach"
+DRG35806,0U920ZX,"Drainage of Bilateral Ovaries, Open Approach, Diagnostic"
+DRG35806,0U920ZZ,"Drainage of Bilateral Ovaries, Open Approach"
+DRG35806,0U9230Z,"Drainage of Bilateral Ovaries with Drainage Device, Percutaneous Approach"
+DRG35806,0U923ZX,"Drainage of Bilateral Ovaries, Percutaneous Approach, Diagnostic"
+DRG35806,0U923ZZ,"Drainage of Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0U92XZZ,"Drainage of Bilateral Ovaries, External Approach"
+DRG35806,0U9700Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Open Approach"
+DRG35806,0U970ZX,"Drainage of Bilateral Fallopian Tubes, Open Approach, Diagnostic"
+DRG35806,0U970ZZ,"Drainage of Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0U9730Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Percutaneous Approach"
+DRG35806,0U973ZX,"Drainage of Bilateral Fallopian Tubes, Percutaneous Approach, Diagnostic"
+DRG35806,0U9770Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Via Natural or Artificial Opening"
+DRG35806,0U977ZX,"Drainage of Bilateral Fallopian Tubes, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0U9780Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U978ZX,"Drainage of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UB20ZX,"Excision of Bilateral Ovaries, Open Approach, Diagnostic"
+DRG35806,0UB20ZZ,"Excision of Bilateral Ovaries, Open Approach"
+DRG35806,0UB23ZX,"Excision of Bilateral Ovaries, Percutaneous Approach, Diagnostic"
+DRG35806,0UB23ZZ,"Excision of Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0UB27ZX,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0UB27ZZ,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening"
+DRG35806,0UB28ZX,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UB28ZZ,"Excision of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB70ZX,"Excision of Bilateral Fallopian Tubes, Open Approach, Diagnostic"
+DRG35806,0UB73ZX,"Excision of Bilateral Fallopian Tubes, Percutaneous Approach, Diagnostic"
+DRG35806,0UB77ZX,"Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0UB78ZX,"Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UC20ZZ,"Extirpation of Matter from Bilateral Ovaries, Open Approach"
+DRG35806,0UC23ZZ,"Extirpation of Matter from Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0UC70ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UC73ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0UC77ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0UC78ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UF70ZZ,"Fragmentation in Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UF73ZZ,"Fragmentation in Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0UF77ZZ,"Fragmentation in Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0UF78ZZ,"Fragmentation in Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UL70ZZ,"Occlusion of Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UL73ZZ,"Occlusion of Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0UM20ZZ,"Reattachment of Bilateral Ovaries, Open Approach"
+DRG35806,0UM70ZZ,"Reattachment of Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UN20ZZ,"Release Bilateral Ovaries, Open Approach"
+DRG35806,0UN23ZZ,"Release Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0UN70ZZ,"Release Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UN73ZZ,"Release Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0UN77ZZ,"Release Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0UN78ZZ,"Release Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UQ20ZZ,"Repair Bilateral Ovaries, Open Approach"
+DRG35806,0UQ23ZZ,"Repair Bilateral Ovaries, Percutaneous Approach"
+DRG35806,0UQ70ZZ,"Repair Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UQ73ZZ,"Repair Bilateral Fallopian Tubes, Percutaneous Approach"
+DRG35806,0UQ77ZZ,"Repair Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0UQ78ZZ,"Repair Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0US20ZZ,"Reposition Bilateral Ovaries, Open Approach"
+DRG35806,0US70ZZ,"Reposition Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UT20ZZ,"Resection of Bilateral Ovaries, Open Approach"
+DRG35806,0UT27ZZ,"Resection of Bilateral Ovaries, Via Natural or Artificial Opening"
+DRG35806,0UT28ZZ,"Resection of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UT70ZZ,"Resection of Bilateral Fallopian Tubes, Open Approach"
+DRG35806,0UT77ZZ,"Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+DRG35806,0UT78ZZ,"Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU707Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Open Approach"
+DRG35806,0UU70JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Open Approach"
+DRG35806,0UU70KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0UU777Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU77JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU77KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU787Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU78JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU78KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,015P0ZZ,"Destruction of Sacral Sympathetic Nerve, Open Approach"
+DRG35806,015P3ZZ,"Destruction of Sacral Sympathetic Nerve, Percutaneous Approach"
+DRG35806,0DQ80ZZ,"Repair Small Intestine, Open Approach"
+DRG35806,0DQ83ZZ,"Repair Small Intestine, Percutaneous Approach"
+DRG35806,0DQ87ZZ,"Repair Small Intestine, Via Natural or Artificial Opening"
+DRG35806,0DQ88ZZ,"Repair Small Intestine, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0DQE0ZZ,"Repair Large Intestine, Open Approach"
+DRG35806,0DQE3ZZ,"Repair Large Intestine, Percutaneous Approach"
+DRG35806,0DQE7ZZ,"Repair Large Intestine, Via Natural or Artificial Opening"
+DRG35806,0DQE8ZZ,"Repair Large Intestine, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0DQN0ZZ,"Repair Sigmoid Colon, Open Approach"
+DRG35806,0DQN3ZZ,"Repair Sigmoid Colon, Percutaneous Approach"
+DRG35806,0DQN7ZZ,"Repair Sigmoid Colon, Via Natural or Artificial Opening"
+DRG35806,0DQN8ZZ,"Repair Sigmoid Colon, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U15075,"Bypass Right Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+DRG35806,0U15076,"Bypass Right Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+DRG35806,0U15079,"Bypass Right Fallopian Tube to Uterus with Autologous Tissue Substitute, Open Approach"
+DRG35806,0U150J5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Open Approach"
+DRG35806,0U150J6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Open Approach"
+DRG35806,0U150J9,"Bypass Right Fallopian Tube to Uterus with Synthetic Substitute, Open Approach"
+DRG35806,0U150K5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0U150K6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0U150K9,"Bypass Right Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0U150Z5,"Bypass Right Fallopian Tube to Right Fallopian Tube, Open Approach"
+DRG35806,0U150Z6,"Bypass Right Fallopian Tube to Left Fallopian Tube, Open Approach"
+DRG35806,0U150Z9,"Bypass Right Fallopian Tube to Uterus, Open Approach"
+DRG35806,0U16075,"Bypass Left Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+DRG35806,0U16076,"Bypass Left Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+DRG35806,0U16079,"Bypass Left Fallopian Tube to Uterus with Autologous Tissue Substitute, Open Approach"
+DRG35806,0U160J5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Open Approach"
+DRG35806,0U160J6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Open Approach"
+DRG35806,0U160J9,"Bypass Left Fallopian Tube to Uterus with Synthetic Substitute, Open Approach"
+DRG35806,0U160K5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0U160K6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0U160K9,"Bypass Left Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0U160Z5,"Bypass Left Fallopian Tube to Right Fallopian Tube, Open Approach"
+DRG35806,0U160Z6,"Bypass Left Fallopian Tube to Left Fallopian Tube, Open Approach"
+DRG35806,0U160Z9,"Bypass Left Fallopian Tube to Uterus, Open Approach"
+DRG35806,0U500ZZ,"Destruction of Right Ovary, Open Approach"
+DRG35806,0U503ZZ,"Destruction of Right Ovary, Percutaneous Approach"
+DRG35806,0U510ZZ,"Destruction of Left Ovary, Open Approach"
+DRG35806,0U513ZZ,"Destruction of Left Ovary, Percutaneous Approach"
+DRG35806,0U540ZZ,"Destruction of Uterine Supporting Structure, Open Approach"
+DRG35806,0U543ZZ,"Destruction of Uterine Supporting Structure, Percutaneous Approach"
+DRG35806,0U550ZZ,"Destruction of Right Fallopian Tube, Open Approach"
+DRG35806,0U553ZZ,"Destruction of Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0U557ZZ,"Destruction of Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0U558ZZ,"Destruction of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U560ZZ,"Destruction of Left Fallopian Tube, Open Approach"
+DRG35806,0U563ZZ,"Destruction of Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0U567ZZ,"Destruction of Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0U568ZZ,"Destruction of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U590ZZ,"Destruction of Uterus, Open Approach"
+DRG35806,0U593ZZ,"Destruction of Uterus, Percutaneous Approach"
+DRG35806,0U597ZZ,"Destruction of Uterus, Via Natural or Artificial Opening"
+DRG35806,0U598ZZ,"Destruction of Uterus, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U5B0ZZ,"Destruction of Endometrium, Open Approach"
+DRG35806,0U5B3ZZ,"Destruction of Endometrium, Percutaneous Approach"
+DRG35806,0U5B7ZZ,"Destruction of Endometrium, Via Natural or Artificial Opening"
+DRG35806,0U5B8ZZ,"Destruction of Endometrium, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U750DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Open Approach"
+DRG35806,0U750ZZ,"Dilation of Right Fallopian Tube, Open Approach"
+DRG35806,0U753DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Percutaneous Approach"
+DRG35806,0U753ZZ,"Dilation of Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0U757DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
+DRG35806,0U757ZZ,"Dilation of Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0U758DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U758ZZ,"Dilation of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U760DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Open Approach"
+DRG35806,0U760ZZ,"Dilation of Left Fallopian Tube, Open Approach"
+DRG35806,0U763DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Percutaneous Approach"
+DRG35806,0U763ZZ,"Dilation of Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0U767DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
+DRG35806,0U767ZZ,"Dilation of Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0U768DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U768ZZ,"Dilation of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U790DZ,"Dilation of Uterus with Intraluminal Device, Open Approach"
+DRG35806,0U790ZZ,"Dilation of Uterus, Open Approach"
+DRG35806,0U793DZ,"Dilation of Uterus with Intraluminal Device, Percutaneous Approach"
+DRG35806,0U793ZZ,"Dilation of Uterus, Percutaneous Approach"
+DRG35806,0U797DZ,"Dilation of Uterus with Intraluminal Device, Via Natural or Artificial Opening"
+DRG35806,0U797ZZ,"Dilation of Uterus, Via Natural or Artificial Opening"
+DRG35806,0U798DZ,"Dilation of Uterus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U798ZZ,"Dilation of Uterus, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U800ZZ,"Division of Right Ovary, Open Approach"
+DRG35806,0U803ZZ,"Division of Right Ovary, Percutaneous Approach"
+DRG35806,0U810ZZ,"Division of Left Ovary, Open Approach"
+DRG35806,0U813ZZ,"Division of Left Ovary, Percutaneous Approach"
+DRG35806,0U9000Z,"Drainage of Right Ovary with Drainage Device, Open Approach"
+DRG35806,0U900ZX,"Drainage of Right Ovary, Open Approach, Diagnostic"
+DRG35806,0U900ZZ,"Drainage of Right Ovary, Open Approach"
+DRG35806,0U9030Z,"Drainage of Right Ovary with Drainage Device, Percutaneous Approach"
+DRG35806,0U903ZX,"Drainage of Right Ovary, Percutaneous Approach, Diagnostic"
+DRG35806,0U903ZZ,"Drainage of Right Ovary, Percutaneous Approach"
+DRG35806,0U90XZZ,"Drainage of Right Ovary, External Approach"
+DRG35806,0U9100Z,"Drainage of Left Ovary with Drainage Device, Open Approach"
+DRG35806,0U910ZX,"Drainage of Left Ovary, Open Approach, Diagnostic"
+DRG35806,0U910ZZ,"Drainage of Left Ovary, Open Approach"
+DRG35806,0U9130Z,"Drainage of Left Ovary with Drainage Device, Percutaneous Approach"
+DRG35806,0U913ZX,"Drainage of Left Ovary, Percutaneous Approach, Diagnostic"
+DRG35806,0U913ZZ,"Drainage of Left Ovary, Percutaneous Approach"
+DRG35806,0U91XZZ,"Drainage of Left Ovary, External Approach"
+DRG35806,0U940ZX,"Drainage of Uterine Supporting Structure, Open Approach, Diagnostic"
+DRG35806,0U9500Z,"Drainage of Right Fallopian Tube with Drainage Device, Open Approach"
+DRG35806,0U950ZX,"Drainage of Right Fallopian Tube, Open Approach, Diagnostic"
+DRG35806,0U950ZZ,"Drainage of Right Fallopian Tube, Open Approach"
+DRG35806,0U9530Z,"Drainage of Right Fallopian Tube with Drainage Device, Percutaneous Approach"
+DRG35806,0U953ZX,"Drainage of Right Fallopian Tube, Percutaneous Approach, Diagnostic"
+DRG35806,0U9570Z,"Drainage of Right Fallopian Tube with Drainage Device, Via Natural or Artificial Opening"
+DRG35806,0U957ZX,"Drainage of Right Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0U9580Z,"Drainage of Right Fallopian Tube with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U958ZX,"Drainage of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0U9600Z,"Drainage of Left Fallopian Tube with Drainage Device, Open Approach"
+DRG35806,0U960ZX,"Drainage of Left Fallopian Tube, Open Approach, Diagnostic"
+DRG35806,0U960ZZ,"Drainage of Left Fallopian Tube, Open Approach"
+DRG35806,0U9630Z,"Drainage of Left Fallopian Tube with Drainage Device, Percutaneous Approach"
+DRG35806,0U963ZX,"Drainage of Left Fallopian Tube, Percutaneous Approach, Diagnostic"
+DRG35806,0U9670Z,"Drainage of Left Fallopian Tube with Drainage Device, Via Natural or Artificial Opening"
+DRG35806,0U967ZX,"Drainage of Left Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0U9680Z,"Drainage of Left Fallopian Tube with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U968ZX,"Drainage of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0U9900Z,"Drainage of Uterus with Drainage Device, Open Approach"
+DRG35806,0U990ZX,"Drainage of Uterus, Open Approach, Diagnostic"
+DRG35806,0U990ZZ,"Drainage of Uterus, Open Approach"
+DRG35806,0U9930Z,"Drainage of Uterus with Drainage Device, Percutaneous Approach"
+DRG35806,0U993ZZ,"Drainage of Uterus, Percutaneous Approach"
+DRG35806,0U9970Z,"Drainage of Uterus with Drainage Device, Via Natural or Artificial Opening"
+DRG35806,0U997ZZ,"Drainage of Uterus, Via Natural or Artificial Opening"
+DRG35806,0U9980Z,"Drainage of Uterus with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0U998ZZ,"Drainage of Uterus, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB00ZX,"Excision of Right Ovary, Open Approach, Diagnostic"
+DRG35806,0UB00ZZ,"Excision of Right Ovary, Open Approach"
+DRG35806,0UB03ZX,"Excision of Right Ovary, Percutaneous Approach, Diagnostic"
+DRG35806,0UB03ZZ,"Excision of Right Ovary, Percutaneous Approach"
+DRG35806,0UB07ZX,"Excision of Right Ovary, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0UB07ZZ,"Excision of Right Ovary, Via Natural or Artificial Opening"
+DRG35806,0UB08ZX,"Excision of Right Ovary, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UB08ZZ,"Excision of Right Ovary, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB10ZX,"Excision of Left Ovary, Open Approach, Diagnostic"
+DRG35806,0UB10ZZ,"Excision of Left Ovary, Open Approach"
+DRG35806,0UB13ZX,"Excision of Left Ovary, Percutaneous Approach, Diagnostic"
+DRG35806,0UB13ZZ,"Excision of Left Ovary, Percutaneous Approach"
+DRG35806,0UB17ZX,"Excision of Left Ovary, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0UB17ZZ,"Excision of Left Ovary, Via Natural or Artificial Opening"
+DRG35806,0UB18ZX,"Excision of Left Ovary, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UB18ZZ,"Excision of Left Ovary, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB40ZX,"Excision of Uterine Supporting Structure, Open Approach, Diagnostic"
+DRG35806,0UB40ZZ,"Excision of Uterine Supporting Structure, Open Approach"
+DRG35806,0UB43ZZ,"Excision of Uterine Supporting Structure, Percutaneous Approach"
+DRG35806,0UB47ZZ,"Excision of Uterine Supporting Structure, Via Natural or Artificial Opening"
+DRG35806,0UB48ZZ,"Excision of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB50ZX,"Excision of Right Fallopian Tube, Open Approach, Diagnostic"
+DRG35806,0UB50ZZ,"Excision of Right Fallopian Tube, Open Approach"
+DRG35806,0UB53ZX,"Excision of Right Fallopian Tube, Percutaneous Approach, Diagnostic"
+DRG35806,0UB53ZZ,"Excision of Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0UB57ZX,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0UB57ZZ,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UB58ZX,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UB58ZZ,"Excision of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB60ZX,"Excision of Left Fallopian Tube, Open Approach, Diagnostic"
+DRG35806,0UB60ZZ,"Excision of Left Fallopian Tube, Open Approach"
+DRG35806,0UB63ZX,"Excision of Left Fallopian Tube, Percutaneous Approach, Diagnostic"
+DRG35806,0UB63ZZ,"Excision of Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0UB67ZX,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening, Diagnostic"
+DRG35806,0UB67ZZ,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UB68ZX,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+DRG35806,0UB68ZZ,"Excision of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UB90ZX,"Excision of Uterus, Open Approach, Diagnostic"
+DRG35806,0UB90ZZ,"Excision of Uterus, Open Approach"
+DRG35806,0UB93ZZ,"Excision of Uterus, Percutaneous Approach"
+DRG35806,0UB97ZZ,"Excision of Uterus, Via Natural or Artificial Opening"
+DRG35806,0UB98ZZ,"Excision of Uterus, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UC00ZZ,"Extirpation of Matter from Right Ovary, Open Approach"
+DRG35806,0UC03ZZ,"Extirpation of Matter from Right Ovary, Percutaneous Approach"
+DRG35806,0UC10ZZ,"Extirpation of Matter from Left Ovary, Open Approach"
+DRG35806,0UC13ZZ,"Extirpation of Matter from Left Ovary, Percutaneous Approach"
+DRG35806,0UC50ZZ,"Extirpation of Matter from Right Fallopian Tube, Open Approach"
+DRG35806,0UC53ZZ,"Extirpation of Matter from Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0UC57ZZ,"Extirpation of Matter from Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UC58ZZ,"Extirpation of Matter from Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UC60ZZ,"Extirpation of Matter from Left Fallopian Tube, Open Approach"
+DRG35806,0UC63ZZ,"Extirpation of Matter from Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0UC67ZZ,"Extirpation of Matter from Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UC68ZZ,"Extirpation of Matter from Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UC90ZZ,"Extirpation of Matter from Uterus, Open Approach"
+DRG35806,0UC93ZZ,"Extirpation of Matter from Uterus, Percutaneous Approach"
+DRG35806,0UDB7ZZ,"Extraction of Endometrium, Via Natural or Artificial Opening"
+DRG35806,0UDB8ZZ,"Extraction of Endometrium, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UDN0ZZ,"Extraction of Ova, Open"
+DRG35806,0UDN3ZZ,"Extraction of Ova, Percutaneous"
+DRG35806,0UF50ZZ,"Fragmentation in Right Fallopian Tube, Open Approach"
+DRG35806,0UF53ZZ,"Fragmentation in Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0UF57ZZ,"Fragmentation in Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UF58ZZ,"Fragmentation in Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UF60ZZ,"Fragmentation in Left Fallopian Tube, Open Approach"
+DRG35806,0UF63ZZ,"Fragmentation in Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0UF67ZZ,"Fragmentation in Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UF68ZZ,"Fragmentation in Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UJ30ZZ,"Inspection of Ovary, Open Approach"
+DRG35806,0UJ33ZZ,"Inspection of Ovary, Percutaneous Approach"
+DRG35806,0UJ80ZZ,"Inspection of Fallopian Tube, Open Approach"
+DRG35806,0UJ83ZZ,"Inspection of Fallopian Tube, Percutaneous Approach"
+DRG35806,0UJ87ZZ,"Inspection of Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UJ88ZZ,"Inspection of Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UJD0ZZ,"Inspection of Uterus and Cervix, Open Approach"
+DRG35806,0UJD3ZZ,"Inspection of Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UL50CZ,"Occlusion of Right Fallopian Tube with Extraluminal Device, Open Approach"
+DRG35806,0UL50DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Open Approach"
+DRG35806,0UL50ZZ,"Occlusion of Right Fallopian Tube, Open Approach"
+DRG35806,0UL53CZ,"Occlusion of Right Fallopian Tube with Extraluminal Device, Percutaneous Approach"
+DRG35806,0UL53DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Percutaneous Approach"
+DRG35806,0UL53ZZ,"Occlusion of Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0UL57DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
+DRG35806,0UL57ZZ,"Occlusion of Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UL58DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UL58ZZ,"Occlusion of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UL60CZ,"Occlusion of Left Fallopian Tube with Extraluminal Device, Open Approach"
+DRG35806,0UL60DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Open Approach"
+DRG35806,0UL60ZZ,"Occlusion of Left Fallopian Tube, Open Approach"
+DRG35806,0UL63CZ,"Occlusion of Left Fallopian Tube with Extraluminal Device, Percutaneous Approach"
+DRG35806,0UL63DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Percutaneous Approach"
+DRG35806,0UL63ZZ,"Occlusion of Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0UL67DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening"
+DRG35806,0UL67ZZ,"Occlusion of Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UL68DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UL68ZZ,"Occlusion of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UM00ZZ,"Reattachment of Right Ovary, Open Approach"
+DRG35806,0UM10ZZ,"Reattachment of Left Ovary, Open Approach"
+DRG35806,0UM50ZZ,"Reattachment of Right Fallopian Tube, Open Approach"
+DRG35806,0UM60ZZ,"Reattachment of Left Fallopian Tube, Open Approach"
+DRG35806,0UN00ZZ,"Release Right Ovary, Open Approach"
+DRG35806,0UN03ZZ,"Release Right Ovary, Percutaneous Approach"
+DRG35806,0UN10ZZ,"Release Left Ovary, Open Approach"
+DRG35806,0UN13ZZ,"Release Left Ovary, Percutaneous Approach"
+DRG35806,0UN50ZZ,"Release Right Fallopian Tube, Open Approach"
+DRG35806,0UN53ZZ,"Release Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0UN57ZZ,"Release Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UN58ZZ,"Release Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UN60ZZ,"Release Left Fallopian Tube, Open Approach"
+DRG35806,0UN63ZZ,"Release Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0UN67ZZ,"Release Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UN68ZZ,"Release Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP300Z,"Removal of Drainage Device from Ovary, Open Approach"
+DRG35806,0UP303Z,"Removal of Infusion Device from Ovary, Open Approach"
+DRG35806,0UP330Z,"Removal of Drainage Device from Ovary, Percutaneous Approach"
+DRG35806,0UP333Z,"Removal of Infusion Device from Ovary, Percutaneous Approach"
+DRG35806,0UP800Z,"Removal of Drainage Device from Fallopian Tube, Open Approach"
+DRG35806,0UP803Z,"Removal of Infusion Device from Fallopian Tube, Open Approach"
+DRG35806,0UP807Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Open Approach"
+DRG35806,0UP80CZ,"Removal of Extraluminal Device from Fallopian Tube, Open Approach"
+DRG35806,0UP80DZ,"Removal of Intraluminal Device from Fallopian Tube, Open Approach"
+DRG35806,0UP80JZ,"Removal of Synthetic Substitute from Fallopian Tube, Open Approach"
+DRG35806,0UP80KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Open Approach"
+DRG35806,0UP830Z,"Removal of Drainage Device from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP833Z,"Removal of Infusion Device from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP837Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP83CZ,"Removal of Extraluminal Device from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP83DZ,"Removal of Intraluminal Device from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP83JZ,"Removal of Synthetic Substitute from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP83KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Percutaneous Approach"
+DRG35806,0UP870Z,"Removal of Drainage Device from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP873Z,"Removal of Infusion Device from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP877Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP87CZ,"Removal of Extraluminal Device from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP87DZ,"Removal of Intraluminal Device from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP87JZ,"Removal of Synthetic Substitute from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP87KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UP880Z,"Removal of Drainage Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP883Z,"Removal of Infusion Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP887Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP88CZ,"Removal of Extraluminal Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP88DZ,"Removal of Intraluminal Device from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP88JZ,"Removal of Synthetic Substitute from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UP88KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD00Z,"Removal of Drainage Device from Uterus and Cervix, Open Approach"
+DRG35806,0UPD01Z,"Removal of Radioactive Element from Uterus and Cervix, Open Approach"
+DRG35806,0UPD03Z,"Removal of Infusion Device from Uterus and Cervix, Open Approach"
+DRG35806,0UPD07Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Open Approach"
+DRG35806,0UPD0DZ,"Removal of Intraluminal Device from Uterus and Cervix, Open Approach"
+DRG35806,0UPD0HZ,"Removal of Contraceptive Device from Uterus and Cervix, Open Approach"
+DRG35806,0UPD0JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Open Approach"
+DRG35806,0UPD0KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Open Approach"
+DRG35806,0UPD30Z,"Removal of Drainage Device from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD31Z,"Removal of Radioactive Element from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD33Z,"Removal of Infusion Device from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD37Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD3DZ,"Removal of Intraluminal Device from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD3HZ,"Removal of Contraceptive Device from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD3JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD3KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UPD70Z,"Removal of Drainage Device from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD71Z,"Removal of Radioactive Element from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD73Z,"Removal of Infusion Device from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD77Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD7DZ,"Removal of Intraluminal Device from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD7JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD7KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UPD80Z,"Removal of Drainage Device from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD81Z,"Removal of Radioactive Element from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD83Z,"Removal of Infusion Device from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD87Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD8DZ,"Removal of Intraluminal Device from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD8JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UPD8KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UQ00ZZ,"Repair Right Ovary, Open Approach"
+DRG35806,0UQ03ZZ,"Repair Right Ovary, Percutaneous Approach"
+DRG35806,0UQ10ZZ,"Repair Left Ovary, Open Approach"
+DRG35806,0UQ13ZZ,"Repair Left Ovary, Percutaneous Approach"
+DRG35806,0UQ50ZZ,"Repair Right Fallopian Tube, Open Approach"
+DRG35806,0UQ53ZZ,"Repair Right Fallopian Tube, Percutaneous Approach"
+DRG35806,0UQ57ZZ,"Repair Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UQ58ZZ,"Repair Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UQ60ZZ,"Repair Left Fallopian Tube, Open Approach"
+DRG35806,0UQ63ZZ,"Repair Left Fallopian Tube, Percutaneous Approach"
+DRG35806,0UQ67ZZ,"Repair Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UQ68ZZ,"Repair Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UQ90ZZ,"Repair Uterus, Open Approach"
+DRG35806,0UQ93ZZ,"Repair Uterus, Percutaneous Approach"
+DRG35806,0UQ97ZZ,"Repair Uterus, Via Natural or Artificial Opening"
+DRG35806,0UQ98ZZ,"Repair Uterus, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UQG0ZZ,"Repair Vagina, Open Approach"
+DRG35806,0UQG3ZZ,"Repair Vagina, Percutaneous Approach"
+DRG35806,0UQG7ZZ,"Repair Vagina, Via Natural or Artificial Opening"
+DRG35806,0UQG8ZZ,"Repair Vagina, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0US00ZZ,"Reposition Right Ovary, Open Approach"
+DRG35806,0US10ZZ,"Reposition Left Ovary, Open Approach"
+DRG35806,0US50ZZ,"Reposition Right Fallopian Tube, Open Approach"
+DRG35806,0US60ZZ,"Reposition Left Fallopian Tube, Open Approach"
+DRG35806,0USC0ZZ,"Reposition Cervix, Open Approach"
+DRG35806,0UT00ZZ,"Resection of Right Ovary, Open Approach"
+DRG35806,0UT07ZZ,"Resection of Right Ovary, Via Natural or Artificial Opening"
+DRG35806,0UT08ZZ,"Resection of Right Ovary, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UT10ZZ,"Resection of Left Ovary, Open Approach"
+DRG35806,0UT17ZZ,"Resection of Left Ovary, Via Natural or Artificial Opening"
+DRG35806,0UT18ZZ,"Resection of Left Ovary, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UT50ZZ,"Resection of Right Fallopian Tube, Open Approach"
+DRG35806,0UT57ZZ,"Resection of Right Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UT58ZZ,"Resection of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UT60ZZ,"Resection of Left Fallopian Tube, Open Approach"
+DRG35806,0UT67ZZ,"Resection of Left Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UT68ZZ,"Resection of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU507Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+DRG35806,0UU50JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Open Approach"
+DRG35806,0UU50KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0UU577Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU57JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU57KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU587Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU58JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU58KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU607Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+DRG35806,0UU60JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Open Approach"
+DRG35806,0UU60KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+DRG35806,0UU677Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU67JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU67KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening"
+DRG35806,0UU687Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU68JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UU68KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW300Z,"Revision of Drainage Device in Ovary, Open Approach"
+DRG35806,0UW303Z,"Revision of Infusion Device in Ovary, Open Approach"
+DRG35806,0UW330Z,"Revision of Drainage Device in Ovary, Percutaneous Approach"
+DRG35806,0UW333Z,"Revision of Infusion Device in Ovary, Percutaneous Approach"
+DRG35806,0UW800Z,"Revision of Drainage Device in Fallopian Tube, Open Approach"
+DRG35806,0UW803Z,"Revision of Infusion Device in Fallopian Tube, Open Approach"
+DRG35806,0UW807Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Open Approach"
+DRG35806,0UW80CZ,"Revision of Extraluminal Device in Fallopian Tube, Open Approach"
+DRG35806,0UW80DZ,"Revision of Intraluminal Device in Fallopian Tube, Open Approach"
+DRG35806,0UW80JZ,"Revision of Synthetic Substitute in Fallopian Tube, Open Approach"
+DRG35806,0UW80KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Open Approach"
+DRG35806,0UW830Z,"Revision of Drainage Device in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW833Z,"Revision of Infusion Device in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW837Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW83CZ,"Revision of Extraluminal Device in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW83DZ,"Revision of Intraluminal Device in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW83JZ,"Revision of Synthetic Substitute in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW83KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Percutaneous Approach"
+DRG35806,0UW870Z,"Revision of Drainage Device in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW873Z,"Revision of Infusion Device in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW877Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW87CZ,"Revision of Extraluminal Device in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW87DZ,"Revision of Intraluminal Device in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW87JZ,"Revision of Synthetic Substitute in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW87KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening"
+DRG35806,0UW880Z,"Revision of Drainage Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW883Z,"Revision of Infusion Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW887Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW88CZ,"Revision of Extraluminal Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW88DZ,"Revision of Intraluminal Device in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW88JZ,"Revision of Synthetic Substitute in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UW88KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD00Z,"Revision of Drainage Device in Uterus and Cervix, Open Approach"
+DRG35806,0UWD01Z,"Revision of Radioactive Element in Uterus and Cervix, Open Approach"
+DRG35806,0UWD03Z,"Revision of Infusion Device in Uterus and Cervix, Open Approach"
+DRG35806,0UWD07Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Open Approach"
+DRG35806,0UWD0DZ,"Revision of Intraluminal Device in Uterus and Cervix, Open Approach"
+DRG35806,0UWD0HZ,"Revision of Contraceptive Device in Uterus and Cervix, Open Approach"
+DRG35806,0UWD0JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Open Approach"
+DRG35806,0UWD0KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Open Approach"
+DRG35806,0UWD30Z,"Revision of Drainage Device in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD31Z,"Revision of Radioactive Element in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD33Z,"Revision of Infusion Device in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD37Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD3DZ,"Revision of Intraluminal Device in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD3HZ,"Revision of Contraceptive Device in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD3JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD3KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Percutaneous Approach"
+DRG35806,0UWD70Z,"Revision of Drainage Device in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD71Z,"Revision of Radioactive Element in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD73Z,"Revision of Infusion Device in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD77Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD7DZ,"Revision of Intraluminal Device in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD7HZ,"Revision of Contraceptive Device in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD7JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD7KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening"
+DRG35806,0UWD80Z,"Revision of Drainage Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD81Z,"Revision of Radioactive Element in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD83Z,"Revision of Infusion Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD87Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD8DZ,"Revision of Intraluminal Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD8HZ,"Revision of Contraceptive Device in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD8JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UWD8KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Via Natural or Artificial Opening Endoscopic"
+DRG35806,0UY00Z0,"Transplantation of Right Ovary, Allogeneic, Open Approach"
+DRG35806,0UY00Z1,"Transplantation of Right Ovary, Syngeneic, Open Approach"
+DRG35806,0UY00Z2,"Transplantation of Right Ovary, Zooplastic, Open Approach"
+DRG35806,0UY10Z0,"Transplantation of Left Ovary, Allogeneic, Open Approach"
+DRG35806,0UY10Z1,"Transplantation of Left Ovary, Syngeneic, Open Approach"
+DRG35806,0UY10Z2,"Transplantation of Left Ovary, Zooplastic, Open Approach"
+DRG35806,10D27ZZ,"Extraction of Products of Conception, Ectopic, Via Natural or Artificial Opening"
+DRG35806,10D28ZZ,"Extraction of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic"
+DRG35806,10T20ZZ,"Resection of Products of Conception, Ectopic, Open Approach"
+DRG35806,10T23ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Approach"
+DRG35806,10T27ZZ,"Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening"
+DRG35806,10T28ZZ,"Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic"

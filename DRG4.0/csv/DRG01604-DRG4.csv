@@ -1,16 +1,16 @@
-,DRG,CM-PCS,en
-47880,DRG01604,G9340,"Encephalopathy, unspecified"
-47881,DRG01604,G9341,Metabolic encephalopathy
-47882,DRG01604,G9349,Other encephalopathy
-47883,DRG01604,G9381,Temporal sclerosis
-47884,DRG01604,G9382,Brain death
-47885,DRG01604,G9389,Other specified disorders of brain
-47886,DRG01604,G939,"Disorder of brain, unspecified"
-47887,DRG01604,G968,Other specified disorders of central nervous system
-47888,DRG01604,G969,"Disorder of central nervous system, unspecified"
-47889,DRG01604,G980,"Neurogenic arthritis, not elsewhere classified"
-47890,DRG01604,G988,Other disorders of nervous system
-47891,DRG01604,I6783,Posterior reversible encephalopathy syndrome
-47894,DRG01604,F000001,Physical Therapy
-47895,DRG01604,F000002,Occupational Therapy
-47896,DRG01604,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG01604,G9340,"Encephalopathy, unspecified"
+DRG01604,G9341,Metabolic encephalopathy
+DRG01604,G9349,Other encephalopathy
+DRG01604,G9381,Temporal sclerosis
+DRG01604,G9382,Brain death
+DRG01604,G9389,Other specified disorders of brain
+DRG01604,G939,"Disorder of brain, unspecified"
+DRG01604,G968,Other specified disorders of central nervous system
+DRG01604,G969,"Disorder of central nervous system, unspecified"
+DRG01604,G980,"Neurogenic arthritis, not elsewhere classified"
+DRG01604,G988,Other disorders of nervous system
+DRG01604,I6783,Posterior reversible encephalopathy syndrome
+DRG01604,F000001,Physical Therapy
+DRG01604,F000002,Occupational Therapy
+DRG01604,F000003,Communication Therapy

@@ -1,59 +1,59 @@
-,DRG,CM-PCS,en
-5633,DRG20203,K7010,Alcoholic hepatitis without ascites
-5634,DRG20203,K7011,Alcoholic hepatitis with ascites
-5635,DRG20203,K702,Alcoholic fibrosis and sclerosis of liver
-5636,DRG20203,K7030,Alcoholic cirrhosis of liver without ascites
-5637,DRG20203,K7031,Alcoholic cirrhosis of liver with ascites
-5638,DRG20203,K7040,Alcoholic hepatic failure without coma
-5639,DRG20203,K7041,Alcoholic hepatic failure with coma
-5640,DRG20203,K709,"Alcoholic liver disease, unspecified"
-5641,DRG20203,K740,Hepatic fibrosis
-5642,DRG20203,K741,Hepatic sclerosis
-5643,DRG20203,K742,Hepatic fibrosis with hepatic sclerosis
-5644,DRG20203,K743,Primary biliary cirrhosis
-5645,DRG20203,K744,Secondary biliary cirrhosis
-5646,DRG20203,K745,"Biliary cirrhosis, unspecified"
-5647,DRG20203,K7460,Unspecified cirrhosis of liver
-5648,DRG20203,K7469,Other cirrhosis of liver
-5651,DRG20203,I8511,Secondary esophageal varices with bleeding
-5652,DRG20203,K922,"Gastrointestinal hemorrhage, unspecified"
-5655,DRG20203,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-5656,DRG20203,J9601,Acute respiratory failure with hypoxia
-5657,DRG20203,J9602,Acute respiratory failure with hypercapnia
-5658,DRG20203,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-5659,DRG20203,J9691,"Respiratory failure, unspecified with hypoxia"
-5660,DRG20203,J9692,"Respiratory failure, unspecified with hypercapnia"
-5663,DRG20203,A400,"Sepsis due to streptococcus, group A"
-5664,DRG20203,A401,"Sepsis due to streptococcus, group B"
-5665,DRG20203,A403,Sepsis due to Streptococcus pneumoniae
-5666,DRG20203,A408,Other streptococcal sepsis
-5667,DRG20203,A409,"Streptococcal sepsis, unspecified"
-5668,DRG20203,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
-5669,DRG20203,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
-5670,DRG20203,A411,Sepsis due to other specified staphylococcus
-5671,DRG20203,A412,Sepsis due to unspecified staphylococcus
-5672,DRG20203,A413,Sepsis due to Hemophilus influenzae
-5673,DRG20203,A414,Sepsis due to anaerobes
-5674,DRG20203,A4150,"Gram-negative sepsis, unspecified"
-5675,DRG20203,A4151,Sepsis due to Escherichia coli [E. coli]
-5676,DRG20203,A4152,Sepsis due to Pseudomonas
-5677,DRG20203,A4153,Sepsis due to Serratia
-5678,DRG20203,A4159,Other Gram-negative sepsis
-5679,DRG20203,A4181,Sepsis due to Enterococcus
-5680,DRG20203,A4189,Other specified sepsis
-5681,DRG20203,A419,"Sepsis, unspecified organism"
-5682,DRG20203,B377,Candidal sepsis
-5683,DRG20203,K650,Generalized (acute) peritonitis
-5684,DRG20203,K651,Peritoneal abscess
-5685,DRG20203,K652,Spontaneous bacterial peritonitis
-5686,DRG20203,K653,Choleperitonitis
-5687,DRG20203,K654,Sclerosing mesenteritis
-5688,DRG20203,K658,Other peritonitis
-5689,DRG20203,K659,"Peritonitis, unspecified"
-5690,DRG20203,K67,Disorders of peritoneum in infectious diseases classified elsewhere
-5691,DRG20203,K6811,Postprocedural retroperitoneal abscess
-5692,DRG20203,K6819,Other retroperitoneal abscess
-5693,DRG20203,K689,Other disorders of retroperitoneum
-5694,DRG20203,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
-5695,DRG20203,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
-5696,DRG20203,R6520,Severe sepsis without septic shock
+DRG,CM-PCS,en
+DRG20203,K7010,Alcoholic hepatitis without ascites
+DRG20203,K7011,Alcoholic hepatitis with ascites
+DRG20203,K702,Alcoholic fibrosis and sclerosis of liver
+DRG20203,K7030,Alcoholic cirrhosis of liver without ascites
+DRG20203,K7031,Alcoholic cirrhosis of liver with ascites
+DRG20203,K7040,Alcoholic hepatic failure without coma
+DRG20203,K7041,Alcoholic hepatic failure with coma
+DRG20203,K709,"Alcoholic liver disease, unspecified"
+DRG20203,K740,Hepatic fibrosis
+DRG20203,K741,Hepatic sclerosis
+DRG20203,K742,Hepatic fibrosis with hepatic sclerosis
+DRG20203,K743,Primary biliary cirrhosis
+DRG20203,K744,Secondary biliary cirrhosis
+DRG20203,K745,"Biliary cirrhosis, unspecified"
+DRG20203,K7460,Unspecified cirrhosis of liver
+DRG20203,K7469,Other cirrhosis of liver
+DRG20203,I8511,Secondary esophageal varices with bleeding
+DRG20203,K922,"Gastrointestinal hemorrhage, unspecified"
+DRG20203,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG20203,J9601,Acute respiratory failure with hypoxia
+DRG20203,J9602,Acute respiratory failure with hypercapnia
+DRG20203,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG20203,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG20203,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG20203,A400,"Sepsis due to streptococcus, group A"
+DRG20203,A401,"Sepsis due to streptococcus, group B"
+DRG20203,A403,Sepsis due to Streptococcus pneumoniae
+DRG20203,A408,Other streptococcal sepsis
+DRG20203,A409,"Streptococcal sepsis, unspecified"
+DRG20203,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG20203,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG20203,A411,Sepsis due to other specified staphylococcus
+DRG20203,A412,Sepsis due to unspecified staphylococcus
+DRG20203,A413,Sepsis due to Hemophilus influenzae
+DRG20203,A414,Sepsis due to anaerobes
+DRG20203,A4150,"Gram-negative sepsis, unspecified"
+DRG20203,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG20203,A4152,Sepsis due to Pseudomonas
+DRG20203,A4153,Sepsis due to Serratia
+DRG20203,A4159,Other Gram-negative sepsis
+DRG20203,A4181,Sepsis due to Enterococcus
+DRG20203,A4189,Other specified sepsis
+DRG20203,A419,"Sepsis, unspecified organism"
+DRG20203,B377,Candidal sepsis
+DRG20203,K650,Generalized (acute) peritonitis
+DRG20203,K651,Peritoneal abscess
+DRG20203,K652,Spontaneous bacterial peritonitis
+DRG20203,K653,Choleperitonitis
+DRG20203,K654,Sclerosing mesenteritis
+DRG20203,K658,Other peritonitis
+DRG20203,K659,"Peritonitis, unspecified"
+DRG20203,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+DRG20203,K6811,Postprocedural retroperitoneal abscess
+DRG20203,K6819,Other retroperitoneal abscess
+DRG20203,K689,Other disorders of retroperitoneum
+DRG20203,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG20203,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG20203,R6520,Severe sepsis without septic shock

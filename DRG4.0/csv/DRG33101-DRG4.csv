@@ -1,21 +1,21 @@
-,DRG,CM-PCS,en
-11174,DRG33101,N000,Acute nephritic syndrome with minor glomerular abnormality
-11175,DRG33101,N001,Acute nephritic syndrome with focal and segmental glomerular lesions
-11176,DRG33101,N002,Acute nephritic syndrome with diffuse membranous glomerulonephritis
-11177,DRG33101,N003,Acute nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
-11178,DRG33101,N004,Acute nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
-11179,DRG33101,N005,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
-11180,DRG33101,N006,Acute nephritic syndrome with dense deposit disease
-11181,DRG33101,N007,Acute nephritic syndrome with diffuse crescentic glomerulonephritis
-11182,DRG33101,N010,Rapidly progressive nephritic syndrome with minor glomerular abnormality
-11183,DRG33101,N011,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions
-11184,DRG33101,N012,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis
-11185,DRG33101,N013,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
-11186,DRG33101,N014,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
-11187,DRG33101,N015,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
-11188,DRG33101,N016,Rapidly progressive nephritic syndrome with dense deposit disease
-11189,DRG33101,N017,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis
-11190,DRG33101,N018,Rapidly progressive nephritic syndrome with other morphologic changes
-11191,DRG33101,N019,Rapidly progressive nephritic syndrome with unspecified morphologic changes
-11192,DRG33101,N008,Acute nephritic syndrome with other morphologic changes
-11193,DRG33101,N009,Acute nephritic syndrome with unspecified morphologic changes
+DRG,CM-PCS,en
+DRG33101,N000,Acute nephritic syndrome with minor glomerular abnormality
+DRG33101,N001,Acute nephritic syndrome with focal and segmental glomerular lesions
+DRG33101,N002,Acute nephritic syndrome with diffuse membranous glomerulonephritis
+DRG33101,N003,Acute nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
+DRG33101,N004,Acute nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
+DRG33101,N005,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+DRG33101,N006,Acute nephritic syndrome with dense deposit disease
+DRG33101,N007,Acute nephritic syndrome with diffuse crescentic glomerulonephritis
+DRG33101,N010,Rapidly progressive nephritic syndrome with minor glomerular abnormality
+DRG33101,N011,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions
+DRG33101,N012,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis
+DRG33101,N013,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
+DRG33101,N014,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
+DRG33101,N015,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+DRG33101,N016,Rapidly progressive nephritic syndrome with dense deposit disease
+DRG33101,N017,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis
+DRG33101,N018,Rapidly progressive nephritic syndrome with other morphologic changes
+DRG33101,N019,Rapidly progressive nephritic syndrome with unspecified morphologic changes
+DRG33101,N008,Acute nephritic syndrome with other morphologic changes
+DRG33101,N009,Acute nephritic syndrome with unspecified morphologic changes

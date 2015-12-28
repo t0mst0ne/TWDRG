@@ -1,22 +1,22 @@
-,DRG,CM-PCS,en
-11143,DRG00328,N35010,"Post-traumatic urethral stricture, male, meatal"
-11144,DRG00328,N35011,Post-traumatic bulbous urethral stricture
-11145,DRG00328,N35012,Post-traumatic membranous urethral stricture
-11146,DRG00328,N35013,Post-traumatic anterior urethral stricture
-11147,DRG00328,N35014,"Post-traumatic urethral stricture, male, unspecified"
-11148,DRG00328,N35021,Urethral stricture due to childbirth
-11149,DRG00328,N35028,"Other post-traumatic urethral stricture, female"
-11150,DRG00328,N35111,"Postinfective urethral stricture, not elsewhere classified, male, meatal"
-11151,DRG00328,N35112,"Postinfective bulbous urethral stricture, not elsewhere classified"
-11152,DRG00328,N35113,"Postinfective membranous urethral stricture, not elsewhere classified"
-11153,DRG00328,N35114,"Postinfective anterior urethral stricture, not elsewhere classified"
-11154,DRG00328,N35119,"Postinfective urethral stricture, not elsewhere classified, male, unspecified"
-11155,DRG00328,N3512,"Postinfective urethral stricture, not elsewhere classified, female"
-11156,DRG00328,N358,Other urethral stricture
-11157,DRG00328,N359,"Urethral stricture, unspecified"
-11158,DRG00328,N99110,"Postprocedural urethral stricture, male, meatal"
-11159,DRG00328,N99111,Postprocedural bulbous urethral stricture
-11160,DRG00328,N99112,Postprocedural membranous urethral stricture
-11161,DRG00328,N99113,Postprocedural anterior urethral stricture
-11162,DRG00328,N99114,"Postprocedural urethral stricture, male, unspecified"
-11163,DRG00328,N9912,"Postprocedural urethral stricture, female"
+DRG,CM-PCS,en
+DRG00328,N35010,"Post-traumatic urethral stricture, male, meatal"
+DRG00328,N35011,Post-traumatic bulbous urethral stricture
+DRG00328,N35012,Post-traumatic membranous urethral stricture
+DRG00328,N35013,Post-traumatic anterior urethral stricture
+DRG00328,N35014,"Post-traumatic urethral stricture, male, unspecified"
+DRG00328,N35021,Urethral stricture due to childbirth
+DRG00328,N35028,"Other post-traumatic urethral stricture, female"
+DRG00328,N35111,"Postinfective urethral stricture, not elsewhere classified, male, meatal"
+DRG00328,N35112,"Postinfective bulbous urethral stricture, not elsewhere classified"
+DRG00328,N35113,"Postinfective membranous urethral stricture, not elsewhere classified"
+DRG00328,N35114,"Postinfective anterior urethral stricture, not elsewhere classified"
+DRG00328,N35119,"Postinfective urethral stricture, not elsewhere classified, male, unspecified"
+DRG00328,N3512,"Postinfective urethral stricture, not elsewhere classified, female"
+DRG00328,N358,Other urethral stricture
+DRG00328,N359,"Urethral stricture, unspecified"
+DRG00328,N99110,"Postprocedural urethral stricture, male, meatal"
+DRG00328,N99111,Postprocedural bulbous urethral stricture
+DRG00328,N99112,Postprocedural membranous urethral stricture
+DRG00328,N99113,Postprocedural anterior urethral stricture
+DRG00328,N99114,"Postprocedural urethral stricture, male, unspecified"
+DRG00328,N9912,"Postprocedural urethral stricture, female"

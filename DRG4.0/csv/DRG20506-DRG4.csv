@@ -1,22 +1,22 @@
-,DRG,CM-PCS,en
-7059,DRG20506,B150,Hepatitis A with hepatic coma
-7060,DRG20506,B160,Acute hepatitis B with delta-agent with hepatic coma
-7061,DRG20506,B1711,Acute hepatitis C with hepatic coma
-7062,DRG20506,B172,Acute hepatitis E
-7063,DRG20506,B178,Other specified acute viral hepatitis
-7064,DRG20506,B180,Chronic viral hepatitis B with delta-agent
-7065,DRG20506,B181,Chronic viral hepatitis B without delta-agent
-7066,DRG20506,B182,Chronic viral hepatitis C
-7067,DRG20506,B190,Unspecified viral hepatitis with hepatic coma
-7068,DRG20506,B1921,Unspecified viral hepatitis C with hepatic coma
-7069,DRG20506,K7200,Acute and subacute hepatic failure without coma
-7070,DRG20506,K7201,Acute and subacute hepatic failure with coma
-7071,DRG20506,K7290,"Hepatic failure, unspecified without coma"
-7072,DRG20506,K7291,"Hepatic failure, unspecified with coma"
-7073,DRG20506,K762,Central hemorrhagic necrosis of liver
-7076,DRG20506,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-7077,DRG20506,J9601,Acute respiratory failure with hypoxia
-7078,DRG20506,J9602,Acute respiratory failure with hypercapnia
-7079,DRG20506,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-7080,DRG20506,J9691,"Respiratory failure, unspecified with hypoxia"
-7081,DRG20506,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG,CM-PCS,en
+DRG20506,B150,Hepatitis A with hepatic coma
+DRG20506,B160,Acute hepatitis B with delta-agent with hepatic coma
+DRG20506,B1711,Acute hepatitis C with hepatic coma
+DRG20506,B172,Acute hepatitis E
+DRG20506,B178,Other specified acute viral hepatitis
+DRG20506,B180,Chronic viral hepatitis B with delta-agent
+DRG20506,B181,Chronic viral hepatitis B without delta-agent
+DRG20506,B182,Chronic viral hepatitis C
+DRG20506,B190,Unspecified viral hepatitis with hepatic coma
+DRG20506,B1921,Unspecified viral hepatitis C with hepatic coma
+DRG20506,K7200,Acute and subacute hepatic failure without coma
+DRG20506,K7201,Acute and subacute hepatic failure with coma
+DRG20506,K7290,"Hepatic failure, unspecified without coma"
+DRG20506,K7291,"Hepatic failure, unspecified with coma"
+DRG20506,K762,Central hemorrhagic necrosis of liver
+DRG20506,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG20506,J9601,Acute respiratory failure with hypoxia
+DRG20506,J9602,Acute respiratory failure with hypercapnia
+DRG20506,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG20506,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG20506,J9692,"Respiratory failure, unspecified with hypercapnia"

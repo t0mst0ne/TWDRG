@@ -1,8 +1,8 @@
-,DRG,CM-PCS,en
-9779,DRG17934,K5190,"Ulcerative colitis, unspecified, without complications"
-9780,DRG17934,K51911,"Ulcerative colitis, unspecified with rectal bleeding"
-9781,DRG17934,K51912,"Ulcerative colitis, unspecified with intestinal obstruction"
-9782,DRG17934,K51913,"Ulcerative colitis, unspecified with fistula"
-9783,DRG17934,K51914,"Ulcerative colitis, unspecified with abscess"
-9784,DRG17934,K51918,"Ulcerative colitis, unspecified with other complication"
-9785,DRG17934,K51919,"Ulcerative colitis, unspecified with unspecified complications"
+DRG,CM-PCS,en
+DRG17934,K5190,"Ulcerative colitis, unspecified, without complications"
+DRG17934,K51911,"Ulcerative colitis, unspecified with rectal bleeding"
+DRG17934,K51912,"Ulcerative colitis, unspecified with intestinal obstruction"
+DRG17934,K51913,"Ulcerative colitis, unspecified with fistula"
+DRG17934,K51914,"Ulcerative colitis, unspecified with abscess"
+DRG17934,K51918,"Ulcerative colitis, unspecified with other complication"
+DRG17934,K51919,"Ulcerative colitis, unspecified with unspecified complications"

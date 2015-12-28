@@ -1,508 +1,508 @@
-,DRG,CM-PCS,en
-17712,DRG28302,A630,Anogenital (venereal) warts
-17713,DRG28302,A660,Initial lesions of yaws
-17714,DRG28302,A661,Multiple papillomata and wet crab yaws
-17715,DRG28302,A662,Other early skin lesions of yaws
-17716,DRG28302,A663,Hyperkeratosis of yaws
-17717,DRG28302,A664,Gummata and ulcers of yaws
-17718,DRG28302,A670,Primary lesions of pinta
-17719,DRG28302,A671,Intermediate lesions of pinta
-17720,DRG28302,A673,Mixed lesions of pinta
-17721,DRG28302,B000,Eczema herpeticum
-17722,DRG28302,B009,"Herpesviral infection, unspecified"
-17723,DRG28302,B070,Plantar wart
-17724,DRG28302,B078,Other viral warts
-17725,DRG28302,B079,"Viral wart, unspecified"
-17726,DRG28302,B0802,Orf virus disease
-17727,DRG28302,B0803,Pseudocowpox [milker's node]
-17728,DRG28302,B081,Molluscum contagiosum
-17729,DRG28302,B1081,Human herpesvirus 6 infection
-17730,DRG28302,B1082,Human herpesvirus 7 infection
-17731,DRG28302,B1089,Other human herpesvirus infection
-17732,DRG28302,B350,Tinea barbae and tinea capitis
-17733,DRG28302,B351,Tinea unguium
-17734,DRG28302,B352,Tinea manuum
-17735,DRG28302,B353,Tinea pedis
-17736,DRG28302,B354,Tinea corporis
-17737,DRG28302,B355,Tinea imbricata
-17738,DRG28302,B356,Tinea cruris
-17739,DRG28302,B358,Other dermatophytoses
-17740,DRG28302,B359,"Dermatophytosis, unspecified"
-17741,DRG28302,B360,Pityriasis versicolor
-17742,DRG28302,B361,Tinea nigra
-17743,DRG28302,B362,White piedra
-17744,DRG28302,B363,Black piedra
-17745,DRG28302,B368,Other specified superficial mycoses
-17746,DRG28302,B369,"Superficial mycosis, unspecified"
-17747,DRG28302,B372,Candidiasis of skin and nail
-17748,DRG28302,B551,Cutaneous leishmaniasis
-17749,DRG28302,B552,Mucocutaneous leishmaniasis
-17750,DRG28302,B653,Cercarial dermatitis
-17751,DRG28302,B834,Internal hirudiniasis
-17752,DRG28302,B850,Pediculosis due to Pediculus humanus capitis
-17753,DRG28302,B851,Pediculosis due to Pediculus humanus corporis
-17754,DRG28302,B852,"Pediculosis, unspecified"
-17755,DRG28302,B853,Phthiriasis
-17756,DRG28302,B854,Mixed pediculosis and phthiriasis
-17757,DRG28302,B881,Tungiasis [sandflea infestation]
-17758,DRG28302,B882,Other arthropod infestations
-17759,DRG28302,B883,External hirudiniasis
-17760,DRG28302,B888,Other specified infestations
-17761,DRG28302,B889,"Infestation, unspecified"
-17762,DRG28302,I781,"Nevus, non-neoplastic"
-17763,DRG28302,I890,"Lymphedema, not elsewhere classified"
-17764,DRG28302,L081,Erythrasma
-17765,DRG28302,L0889,Other specified local infections of the skin and subcutaneous tissue
-17766,DRG28302,L110,Acquired keratosis follicularis
-17767,DRG28302,L111,Transient acantholytic dermatosis [Grover]
-17768,DRG28302,L118,Other specified acantholytic disorders
-17769,DRG28302,L119,"Acantholytic disorder, unspecified"
-17770,DRG28302,L122,Chronic bullous disease of childhood
-17771,DRG28302,L200,Besnier's prurigo
-17772,DRG28302,L2081,Atopic neurodermatitis
-17773,DRG28302,L2082,Flexural eczema
-17774,DRG28302,L2083,Infantile (acute) (chronic) eczema
-17775,DRG28302,L2084,Intrinsic (allergic) eczema
-17776,DRG28302,L2089,Other atopic dermatitis
-17777,DRG28302,L209,"Atopic dermatitis, unspecified"
-17778,DRG28302,L210,Seborrhea capitis
-17779,DRG28302,L211,Seborrheic infantile dermatitis
-17780,DRG28302,L218,Other seborrheic dermatitis
-17781,DRG28302,L219,"Seborrheic dermatitis, unspecified"
-17782,DRG28302,L22,Diaper dermatitis
-17783,DRG28302,L230,Allergic contact dermatitis due to metals
-17784,DRG28302,L231,Allergic contact dermatitis due to adhesives
-17785,DRG28302,L232,Allergic contact dermatitis due to cosmetics
-17786,DRG28302,L233,Allergic contact dermatitis due to drugs in contact with skin
-17787,DRG28302,L234,Allergic contact dermatitis due to dyes
-17788,DRG28302,L235,Allergic contact dermatitis due to other chemical products
-17789,DRG28302,L236,Allergic contact dermatitis due to food in contact with the skin
-17790,DRG28302,L237,"Allergic contact dermatitis due to plants, except food"
-17791,DRG28302,L2381,Allergic contact dermatitis due to animal (cat) (dog) dander
-17792,DRG28302,L2389,Allergic contact dermatitis due to other agents
-17793,DRG28302,L240,Irritant contact dermatitis due to detergents
-17794,DRG28302,L241,Irritant contact dermatitis due to oils and greases
-17795,DRG28302,L242,Irritant contact dermatitis due to solvents
-17796,DRG28302,L243,Irritant contact dermatitis due to cosmetics
-17797,DRG28302,L244,Irritant contact dermatitis due to drugs in contact with skin
-17798,DRG28302,L245,Irritant contact dermatitis due to other chemical products
-17799,DRG28302,L246,Irritant contact dermatitis due to food in contact with skin
-17800,DRG28302,L247,"Irritant contact dermatitis due to plants, except food"
-17801,DRG28302,L2481,Irritant contact dermatitis due to metals
-17802,DRG28302,L2489,Irritant contact dermatitis due to other agents
-17803,DRG28302,L250,Unspecified contact dermatitis due to cosmetics
-17804,DRG28302,L251,Unspecified contact dermatitis due to drugs in contact with skin
-17805,DRG28302,L252,Unspecified contact dermatitis due to dyes
-17806,DRG28302,L253,Unspecified contact dermatitis due to other chemical products
-17807,DRG28302,L254,Unspecified contact dermatitis due to food in contact with skin
-17808,DRG28302,L255,"Unspecified contact dermatitis due to plants, except food"
-17809,DRG28302,L258,Unspecified contact dermatitis due to other agents
-17810,DRG28302,L26,Exfoliative dermatitis
-17811,DRG28302,L270,Generalized skin eruption due to drugs and medicaments taken internally
-17812,DRG28302,L271,Localized skin eruption due to drugs and medicaments taken internally
-17813,DRG28302,L272,Dermatitis due to ingested food
-17814,DRG28302,L278,Dermatitis due to other substances taken internally
-17815,DRG28302,L279,Dermatitis due to unspecified substance taken internally
-17816,DRG28302,L280,Lichen simplex chronicus
-17817,DRG28302,L281,Prurigo nodularis
-17818,DRG28302,L282,Other prurigo
-17819,DRG28302,L290,Pruritus ani
-17820,DRG28302,L298,Other pruritus
-17821,DRG28302,L299,"Pruritus, unspecified"
-17822,DRG28302,L301,Dyshidrosis [pompholyx]
-17823,DRG28302,L303,Infective dermatitis
-17824,DRG28302,L304,Erythema intertrigo
-17825,DRG28302,L305,Pityriasis alba
-17826,DRG28302,L42,Pityriasis rosea
-17827,DRG28302,L430,Hypertrophic lichen planus
-17828,DRG28302,L431,Bullous lichen planus
-17829,DRG28302,L432,Lichenoid drug reaction
-17830,DRG28302,L433,Subacute (active) lichen planus
-17831,DRG28302,L438,Other lichen planus
-17832,DRG28302,L439,"Lichen planus, unspecified"
-17833,DRG28302,L441,Lichen nitidus
-17834,DRG28302,L442,Lichen striatus
-17835,DRG28302,L443,Lichen ruber moniliformis
-17836,DRG28302,L449,"Papulosquamous disorder, unspecified"
-17837,DRG28302,L538,Other specified erythematous conditions
-17838,DRG28302,L539,"Erythematous condition, unspecified"
-17839,DRG28302,L550,Sunburn of first degree
-17840,DRG28302,L551,Sunburn of second degree
-17841,DRG28302,L552,Sunburn of third degree
-17842,DRG28302,L559,"Sunburn, unspecified"
-17843,DRG28302,L560,Drug phototoxic response
-17844,DRG28302,L561,Drug photoallergic response
-17845,DRG28302,L562,Photocontact dermatitis [berloque dermatitis]
-17846,DRG28302,L563,Solar urticaria
-17847,DRG28302,L564,Polymorphous light eruption
-17848,DRG28302,L565,Disseminated superficial actinic porokeratosis (DSAP)
-17849,DRG28302,L568,Other specified acute skin changes due to ultraviolet radiation
-17850,DRG28302,L569,"Acute skin change due to ultraviolet radiation, unspecified"
-17851,DRG28302,L570,Actinic keratosis
-17852,DRG28302,L571,Actinic reticuloid
-17853,DRG28302,L572,Cutis rhomboidalis nuchae
-17854,DRG28302,L573,Poikiloderma of Civatte
-17855,DRG28302,L574,Cutis laxa senilis
-17856,DRG28302,L575,Actinic granuloma
-17857,DRG28302,L578,Other skin changes due to chronic exposure to nonionizing radiation
-17858,DRG28302,L579,"Skin changes due to chronic exposure to nonionizing radiation, unspecified"
-17859,DRG28302,L580,Acute radiodermatitis
-17860,DRG28302,L581,Chronic radiodermatitis
-17861,DRG28302,L589,"Radiodermatitis, unspecified"
-17862,DRG28302,L590,Erythema ab igne [dermatitis ab igne]
-17863,DRG28302,L598,Other specified disorders of the skin and subcutaneous tissue related to radiation
-17864,DRG28302,L599,"Disorder of the skin and subcutaneous tissue related to radiation, unspecified"
-17865,DRG28302,L600,Ingrowing nail
-17866,DRG28302,L601,Onycholysis
-17867,DRG28302,L602,Onychogryphosis
-17868,DRG28302,L603,Nail dystrophy
-17869,DRG28302,L604,Beau's lines
-17870,DRG28302,L605,Yellow nail syndrome
-17871,DRG28302,L608,Other nail disorders
-17872,DRG28302,L609,"Nail disorder, unspecified"
-17873,DRG28302,L630,Alopecia (capitis) totalis
-17874,DRG28302,L631,Alopecia universalis
-17875,DRG28302,L632,Ophiasis
-17876,DRG28302,L638,Other alopecia areata
-17877,DRG28302,L639,"Alopecia areata, unspecified"
-17878,DRG28302,L640,Drug-induced androgenic alopecia
-17879,DRG28302,L648,Other androgenic alopecia
-17880,DRG28302,L649,"Androgenic alopecia, unspecified"
-17881,DRG28302,L650,Telogen effluvium
-17882,DRG28302,L651,Anagen effluvium
-17883,DRG28302,L652,Alopecia mucinosa
-17884,DRG28302,L658,Other specified nonscarring hair loss
-17885,DRG28302,L659,"Nonscarring hair loss, unspecified"
-17886,DRG28302,L660,Pseudopelade
-17887,DRG28302,L661,Lichen planopilaris
-17888,DRG28302,L662,Folliculitis decalvans
-17889,DRG28302,L663,Perifolliculitis capitis abscedens
-17890,DRG28302,L664,Folliculitis ulerythematosa reticulata
-17891,DRG28302,L668,Other cicatricial alopecia
-17892,DRG28302,L669,"Cicatricial alopecia, unspecified"
-17893,DRG28302,L670,Trichorrhexis nodosa
-17894,DRG28302,L671,Variations in hair color
-17895,DRG28302,L678,Other hair color and hair shaft abnormalities
-17896,DRG28302,L679,"Hair color and hair shaft abnormality, unspecified"
-17897,DRG28302,L680,Hirsutism
-17898,DRG28302,L681,Acquired hypertrichosis lanuginosa
-17899,DRG28302,L682,Localized hypertrichosis
-17900,DRG28302,L683,Polytrichia
-17901,DRG28302,L688,Other hypertrichosis
-17902,DRG28302,L689,"Hypertrichosis, unspecified"
-17903,DRG28302,L700,Acne vulgaris
-17904,DRG28302,L701,Acne conglobata
-17905,DRG28302,L702,Acne varioliformis
-17906,DRG28302,L703,Acne tropica
-17907,DRG28302,L704,Infantile acne
-17908,DRG28302,L705,Acne excoriee des jeunes filles
-17909,DRG28302,L708,Other acne
-17910,DRG28302,L709,"Acne, unspecified"
-17911,DRG28302,L710,Perioral dermatitis
-17912,DRG28302,L711,Rhinophyma
-17913,DRG28302,L718,Other rosacea
-17914,DRG28302,L719,"Rosacea, unspecified"
-17915,DRG28302,L720,Epidermal cyst
-17916,DRG28302,L7211,Pilar cyst
-17917,DRG28302,L7212,Trichodermal cyst
-17918,DRG28302,L722,Steatocystoma multiplex
-17919,DRG28302,L723,Sebaceous cyst
-17920,DRG28302,L728,Other follicular cysts of the skin and subcutaneous tissue
-17921,DRG28302,L729,"Follicular cyst of the skin and subcutaneous tissue, unspecified"
-17922,DRG28302,L730,Acne keloid
-17923,DRG28302,L731,Pseudofolliculitis barbae
-17924,DRG28302,L732,Hidradenitis suppurativa
-17925,DRG28302,L738,Other specified follicular disorders
-17926,DRG28302,L739,"Follicular disorder, unspecified"
-17927,DRG28302,L740,Miliaria rubra
-17928,DRG28302,L741,Miliaria crystallina
-17929,DRG28302,L742,Miliaria profunda
-17930,DRG28302,L743,"Miliaria, unspecified"
-17931,DRG28302,L744,Anhidrosis
-17932,DRG28302,L74510,"Primary focal hyperhidrosis, axilla"
-17933,DRG28302,L74511,"Primary focal hyperhidrosis, face"
-17934,DRG28302,L74512,"Primary focal hyperhidrosis, palms"
-17935,DRG28302,L74513,"Primary focal hyperhidrosis, soles"
-17936,DRG28302,L74519,"Primary focal hyperhidrosis, unspecified"
-17937,DRG28302,L7452,Secondary focal hyperhidrosis
-17938,DRG28302,L748,Other eccrine sweat disorders
-17939,DRG28302,L749,"Eccrine sweat disorder, unspecified"
-17940,DRG28302,L750,Bromhidrosis
-17941,DRG28302,L751,Chromhidrosis
-17942,DRG28302,L752,Apocrine miliaria
-17943,DRG28302,L758,Other apocrine sweat disorders
-17944,DRG28302,L759,"Apocrine sweat disorder, unspecified"
-17945,DRG28302,L80,Vitiligo
-17946,DRG28302,L810,Postinflammatory hyperpigmentation
-17947,DRG28302,L811,Chloasma
-17948,DRG28302,L812,Freckles
-17949,DRG28302,L813,Cafe au lait spots
-17950,DRG28302,L814,Other melanin hyperpigmentation
-17951,DRG28302,L815,"Leukoderma, not elsewhere classified"
-17952,DRG28302,L816,Other disorders of diminished melanin formation
-17953,DRG28302,L817,Pigmented purpuric dermatosis
-17954,DRG28302,L818,Other specified disorders of pigmentation
-17955,DRG28302,L819,"Disorder of pigmentation, unspecified"
-17956,DRG28302,L820,Inflamed seborrheic keratosis
-17957,DRG28302,L821,Other seborrheic keratosis
-17958,DRG28302,L83,Acanthosis nigricans
-17959,DRG28302,L84,Corns and callosities
-17960,DRG28302,L850,Acquired ichthyosis
-17961,DRG28302,L851,Acquired keratosis [keratoderma] palmaris et plantaris
-17962,DRG28302,L852,Keratosis punctata (palmaris et plantaris)
-17963,DRG28302,L853,Xerosis cutis
-17964,DRG28302,L858,Other specified epidermal thickening
-17965,DRG28302,L859,"Epidermal thickening, unspecified"
-17966,DRG28302,L870,Keratosis follicularis et parafollicularis in cutem penetrans
-17967,DRG28302,L871,Reactive perforating collagenosis
-17968,DRG28302,L872,Elastosis perforans serpiginosa
-17969,DRG28302,L878,Other transepidermal elimination disorders
-17970,DRG28302,L879,"Transepidermal elimination disorder, unspecified"
-17971,DRG28302,L900,Lichen sclerosus et atrophicus
-17972,DRG28302,L901,Anetoderma of Schweninger-Buzzi
-17973,DRG28302,L902,Anetoderma of Jadassohn-Pellizzari
-17974,DRG28302,L903,Atrophoderma of Pasini and Pierini
-17975,DRG28302,L904,Acrodermatitis chronica atrophicans
-17976,DRG28302,L905,Scar conditions and fibrosis of skin
-17977,DRG28302,L906,Striae atrophicae
-17978,DRG28302,L908,Other atrophic disorders of skin
-17979,DRG28302,L909,"Atrophic disorder of skin, unspecified"
-17980,DRG28302,L910,Hypertrophic scar
-17981,DRG28302,L918,Other hypertrophic disorders of the skin
-17982,DRG28302,L919,"Hypertrophic disorder of the skin, unspecified"
-17983,DRG28302,L920,Granuloma annulare
-17984,DRG28302,L921,"Necrobiosis lipoidica, not elsewhere classified"
-17985,DRG28302,L922,Granuloma faciale [eosinophilic granuloma of skin]
-17986,DRG28302,L923,Foreign body granuloma of the skin and subcutaneous tissue
-17987,DRG28302,L929,"Granulomatous disorder of the skin and subcutaneous tissue, unspecified"
-17988,DRG28302,L940,Localized scleroderma [morphea]
-17989,DRG28302,L941,Linear scleroderma
-17990,DRG28302,L942,Calcinosis cutis
-17991,DRG28302,L943,Sclerodactyly
-17992,DRG28302,L944,Gottron's papules
-17993,DRG28302,L948,Other specified localized connective tissue disorders
-17994,DRG28302,L949,"Localized connective tissue disorder, unspecified"
-17995,DRG28302,L951,Erythema elevatum diutinum
-17996,DRG28302,L981,Factitial dermatitis
-17997,DRG28302,L982,Febrile neutrophilic dermatosis [Sweet]
-17998,DRG28302,L985,Mucinosis of the skin
-17999,DRG28302,L986,Other infiltrative disorders of the skin and subcutaneous tissue
-18000,DRG28302,L988,Other specified disorders of the skin and subcutaneous tissue
-18001,DRG28302,L989,"Disorder of the skin and subcutaneous tissue, unspecified"
-18002,DRG28302,M794,Hypertrophy of (infrapatellar) fat pad
-18003,DRG28302,N806,Endometriosis in cutaneous scar
-18004,DRG28302,Q183,Webbing of neck
-18005,DRG28302,Q189,"Congenital malformation of face and neck, unspecified"
-18006,DRG28302,Q800,Ichthyosis vulgaris
-18007,DRG28302,Q801,X-linked ichthyosis
-18008,DRG28302,Q802,Lamellar ichthyosis
-18009,DRG28302,Q803,Congenital bullous ichthyosiform erythroderma
-18010,DRG28302,Q804,Harlequin fetus
-18011,DRG28302,Q808,Other congenital ichthyosis
-18012,DRG28302,Q809,"Congenital ichthyosis, unspecified"
-18013,DRG28302,Q810,Epidermolysis bullosa simplex
-18014,DRG28302,Q811,Epidermolysis bullosa letalis
-18015,DRG28302,Q812,Epidermolysis bullosa dystrophica
-18016,DRG28302,Q818,Other epidermolysis bullosa
-18017,DRG28302,Q819,"Epidermolysis bullosa, unspecified"
-18018,DRG28302,Q820,Hereditary lymphedema
-18019,DRG28302,Q821,Xeroderma pigmentosum
-18020,DRG28302,Q822,Mastocytosis
-18021,DRG28302,Q823,Incontinentia pigmenti
-18022,DRG28302,Q824,Ectodermal dysplasia (anhidrotic)
-18023,DRG28302,Q825,Congenital non-neoplastic nevus
-18024,DRG28302,Q828,Other specified congenital malformations of skin
-18025,DRG28302,Q829,"Congenital malformation of skin, unspecified"
-18026,DRG28302,Q840,Congenital alopecia
-18027,DRG28302,Q841,"Congenital morphological disturbances of hair, not elsewhere classified"
-18028,DRG28302,Q842,Other congenital malformations of hair
-18029,DRG28302,Q843,Anonychia
-18030,DRG28302,Q844,Congenital leukonychia
-18031,DRG28302,Q845,Enlarged and hypertrophic nails
-18032,DRG28302,Q846,Other congenital malformations of nails
-18033,DRG28302,Q848,Other specified congenital malformations of integument
-18034,DRG28302,Q849,"Congenital malformation of integument, unspecified"
-18035,DRG28302,R21,Rash and other nonspecific skin eruption
-18036,DRG28302,R220,"Localized swelling, mass and lump, head"
-18037,DRG28302,R221,"Localized swelling, mass and lump, neck"
-18038,DRG28302,R2230,"Localized swelling, mass and lump, unspecified upper limb"
-18039,DRG28302,R2231,"Localized swelling, mass and lump, right upper limb"
-18040,DRG28302,R2232,"Localized swelling, mass and lump, left upper limb"
-18041,DRG28302,R2233,"Localized swelling, mass and lump, upper limb, bilateral"
-18042,DRG28302,R2240,"Localized swelling, mass and lump, unspecified lower limb"
-18043,DRG28302,R2241,"Localized swelling, mass and lump, right lower limb"
-18044,DRG28302,R2242,"Localized swelling, mass and lump, left lower limb"
-18045,DRG28302,R2243,"Localized swelling, mass and lump, lower limb, bilateral"
-18046,DRG28302,R229,"Localized swelling, mass and lump, unspecified"
-18047,DRG28302,R234,Changes in skin texture
-18048,DRG28302,R238,Other skin changes
-18049,DRG28302,R239,Unspecified skin changes
-18050,DRG28302,R61,Generalized hyperhidrosis
-18051,DRG28302,S0002XA,"Blister (nonthermal) of scalp, initial encounter"
-18052,DRG28302,S0006XA,"Insect bite (nonvenomous) of scalp, initial encounter"
-18053,DRG28302,S0032XA,"Blister (nonthermal) of nose, initial encounter"
-18054,DRG28302,S0036XA,"Insect bite (nonvenomous) of nose, initial encounter"
-18055,DRG28302,S00421A,"Blister (nonthermal) of right ear, initial encounter"
-18056,DRG28302,S00422A,"Blister (nonthermal) of left ear, initial encounter"
-18057,DRG28302,S00429A,"Blister (nonthermal) of unspecified ear, initial encounter"
-18058,DRG28302,S00461A,"Insect bite (nonvenomous) of right ear, initial encounter"
-18059,DRG28302,S00462A,"Insect bite (nonvenomous) of left ear, initial encounter"
-18060,DRG28302,S00469A,"Insect bite (nonvenomous) of unspecified ear, initial encounter"
-18061,DRG28302,S00521A,"Blister (nonthermal) of lip, initial encounter"
-18062,DRG28302,S00522A,"Blister (nonthermal) of oral cavity, initial encounter"
-18063,DRG28302,S00561A,"Insect bite (nonvenomous) of lip, initial encounter"
-18064,DRG28302,S00562A,"Insect bite (nonvenomous) of oral cavity, initial encounter"
-18065,DRG28302,S0082XA,"Blister (nonthermal) of other part of head, initial encounter"
-18066,DRG28302,S0086XA,"Insect bite (nonvenomous) of other part of head, initial encounter"
-18067,DRG28302,S0092XA,"Blister (nonthermal) of unspecified part of head, initial encounter"
-18068,DRG28302,S0096XA,"Insect bite (nonvenomous) of unspecified part of head, initial encounter"
-18069,DRG28302,S1012XA,"Blister (nonthermal) of throat, initial encounter"
-18070,DRG28302,S1016XA,"Insect bite (nonvenomous) of throat, initial encounter"
-18071,DRG28302,S1082XA,"Blister (nonthermal) of other specified part of neck, initial encounter"
-18072,DRG28302,S1086XA,"Insect bite of other specified part of neck, initial encounter"
-18073,DRG28302,S1092XA,"Blister (nonthermal) of unspecified part of neck, initial encounter"
-18074,DRG28302,S1096XA,"Insect bite of unspecified part of neck, initial encounter"
-18075,DRG28302,S20121A,"Blister (nonthermal) of breast, right breast, initial encounter"
-18076,DRG28302,S20122A,"Blister (nonthermal) of breast, left breast, initial encounter"
-18077,DRG28302,S20129A,"Blister (nonthermal) of breast, unspecified breast, initial encounter"
-18078,DRG28302,S20161A,"Insect bite (nonvenomous) of breast, right breast, initial encounter"
-18079,DRG28302,S20162A,"Insect bite (nonvenomous) of breast, left breast, initial encounter"
-18080,DRG28302,S20169A,"Insect bite (nonvenomous) of breast, unspecified breast, initial encounter"
-18081,DRG28302,S20321A,"Blister (nonthermal) of right front wall of thorax, initial encounter"
-18082,DRG28302,S20322A,"Blister (nonthermal) of left front wall of thorax, initial encounter"
-18083,DRG28302,S20329A,"Blister (nonthermal) of unspecified front wall of thorax, initial encounter"
-18084,DRG28302,S20361A,"Insect bite (nonvenomous) of right front wall of thorax, initial encounter"
-18085,DRG28302,S20362A,"Insect bite (nonvenomous) of left front wall of thorax, initial encounter"
-18086,DRG28302,S20369A,"Insect bite (nonvenomous) of unspecified front wall of thorax, initial encounter"
-18087,DRG28302,S20421A,"Blister (nonthermal) of right back wall of thorax, initial encounter"
-18088,DRG28302,S20422A,"Blister (nonthermal) of left back wall of thorax, initial encounter"
-18089,DRG28302,S20429A,"Blister (nonthermal) of unspecified back wall of thorax, initial encounter"
-18090,DRG28302,S20461A,"Insect bite (nonvenomous) of right back wall of thorax, initial encounter"
-18091,DRG28302,S20462A,"Insect bite (nonvenomous) of left back wall of thorax, initial encounter"
-18092,DRG28302,S20469A,"Insect bite (nonvenomous) of unspecified back wall of thorax, initial encounter"
-18093,DRG28302,S2092XA,"Blister (nonthermal) of unspecified parts of thorax, initial encounter"
-18094,DRG28302,S2096XA,"Insect bite (nonvenomous) of unspecified parts of thorax, initial encounter"
-18095,DRG28302,S30820A,"Blister (nonthermal) of lower back and pelvis, initial encounter"
-18096,DRG28302,S30821A,"Blister (nonthermal) of abdominal wall, initial encounter"
-18097,DRG28302,S30822A,"Blister (nonthermal) of penis, initial encounter"
-18098,DRG28302,S30823A,"Blister (nonthermal) of scrotum and testes, initial encounter"
-18099,DRG28302,S30824A,"Blister (nonthermal) of vagina and vulva, initial encounter"
-18100,DRG28302,S30825A,"Blister (nonthermal) of unspecified external genital organs, male, initial encounter"
-18101,DRG28302,S30826A,"Blister (nonthermal) of unspecified external genital organs, female, initial encounter"
-18102,DRG28302,S30827A,"Blister (nonthermal) of anus, initial encounter"
-18103,DRG28302,S30860A,"Insect bite (nonvenomous) of lower back and pelvis, initial encounter"
-18104,DRG28302,S30861A,"Insect bite (nonvenomous) of abdominal wall, initial encounter"
-18105,DRG28302,S30862A,"Insect bite (nonvenomous) of penis, initial encounter"
-18106,DRG28302,S30863A,"Insect bite (nonvenomous) of scrotum and testes, initial encounter"
-18107,DRG28302,S30864A,"Insect bite (nonvenomous) of vagina and vulva, initial encounter"
-18108,DRG28302,S30865A,"Insect bite (nonvenomous) of unspecified external genital organs, male, initial encounter"
-18109,DRG28302,S30866A,"Insect bite (nonvenomous) of unspecified external genital organs, female, initial encounter"
-18110,DRG28302,S30867A,"Insect bite (nonvenomous) of anus, initial encounter"
-18111,DRG28302,S40261A,"Insect bite (nonvenomous) of right shoulder, initial encounter"
-18112,DRG28302,S40262A,"Insect bite (nonvenomous) of left shoulder, initial encounter"
-18113,DRG28302,S40269A,"Insect bite (nonvenomous) of unspecified shoulder, initial encounter"
-18114,DRG28302,S40861A,"Insect bite (nonvenomous) of right upper arm, initial encounter"
-18115,DRG28302,S40862A,"Insect bite (nonvenomous) of left upper arm, initial encounter"
-18116,DRG28302,S40869A,"Insect bite (nonvenomous) of unspecified upper arm, initial encounter"
-18117,DRG28302,S50321A,"Blister (nonthermal) of right elbow, initial encounter"
-18118,DRG28302,S50322A,"Blister (nonthermal) of left elbow, initial encounter"
-18119,DRG28302,S50329A,"Blister (nonthermal) of unspecified elbow, initial encounter"
-18120,DRG28302,S50361A,"Insect bite (nonvenomous) of right elbow, initial encounter"
-18121,DRG28302,S50362A,"Insect bite (nonvenomous) of left elbow, initial encounter"
-18122,DRG28302,S50369A,"Insect bite (nonvenomous) of unspecified elbow, initial encounter"
-18123,DRG28302,S50821A,"Blister (nonthermal) of right forearm, initial encounter"
-18124,DRG28302,S50822A,"Blister (nonthermal) of left forearm, initial encounter"
-18125,DRG28302,S50829A,"Blister (nonthermal) of unspecified forearm, initial encounter"
-18126,DRG28302,S50861A,"Insect bite (nonvenomous) of right forearm, initial encounter"
-18127,DRG28302,S50862A,"Insect bite (nonvenomous) of left forearm, initial encounter"
-18128,DRG28302,S50869A,"Insect bite (nonvenomous) of unspecified forearm, initial encounter"
-18129,DRG28302,S60321A,"Blister (nonthermal) of right thumb, initial encounter"
-18130,DRG28302,S60322A,"Blister (nonthermal) of left thumb, initial encounter"
-18131,DRG28302,S60329A,"Blister (nonthermal) of unspecified thumb, initial encounter"
-18132,DRG28302,S60361A,"Insect bite (nonvenomous) of right thumb, initial encounter"
-18133,DRG28302,S60362A,"Insect bite (nonvenomous) of left thumb, initial encounter"
-18134,DRG28302,S60369A,"Insect bite (nonvenomous) of unspecified thumb, initial encounter"
-18135,DRG28302,S60420A,"Blister (nonthermal) of right index finger, initial encounter"
-18136,DRG28302,S60421A,"Blister (nonthermal) of left index finger, initial encounter"
-18137,DRG28302,S60422A,"Blister (nonthermal) of right middle finger, initial encounter"
-18138,DRG28302,S60423A,"Blister (nonthermal) of left middle finger, initial encounter"
-18139,DRG28302,S60424A,"Blister (nonthermal) of right ring finger, initial encounter"
-18140,DRG28302,S60425A,"Blister (nonthermal) of left ring finger, initial encounter"
-18141,DRG28302,S60426A,"Blister (nonthermal) of right little finger, initial encounter"
-18142,DRG28302,S60427A,"Blister (nonthermal) of left little finger, initial encounter"
-18143,DRG28302,S60428A,"Blister (nonthermal) of other finger, initial encounter"
-18144,DRG28302,S60429A,"Blister (nonthermal) of unspecified finger, initial encounter"
-18145,DRG28302,S60460A,"Insect bite (nonvenomous) of right index finger, initial encounter"
-18146,DRG28302,S60461A,"Insect bite (nonvenomous) of left index finger, initial encounter"
-18147,DRG28302,S60462A,"Insect bite (nonvenomous) of right middle finger, initial encounter"
-18148,DRG28302,S60463A,"Insect bite (nonvenomous) of left middle finger, initial encounter"
-18149,DRG28302,S60464A,"Insect bite (nonvenomous) of right ring finger, initial encounter"
-18150,DRG28302,S60465A,"Insect bite (nonvenomous) of left ring finger, initial encounter"
-18151,DRG28302,S60466A,"Insect bite (nonvenomous) of right little finger, initial encounter"
-18152,DRG28302,S60467A,"Insect bite (nonvenomous) of left little finger, initial encounter"
-18153,DRG28302,S60468A,"Insect bite (nonvenomous) of other finger, initial encounter"
-18154,DRG28302,S60469A,"Insect bite (nonvenomous) of unspecified finger, initial encounter"
-18155,DRG28302,S60521A,"Blister (nonthermal) of right hand, initial encounter"
-18156,DRG28302,S60522A,"Blister (nonthermal) of left hand, initial encounter"
-18157,DRG28302,S60529A,"Blister (nonthermal) of unspecified hand, initial encounter"
-18158,DRG28302,S60561A,"Insect bite (nonvenomous) of right hand, initial encounter"
-18159,DRG28302,S60562A,"Insect bite (nonvenomous) of left hand, initial encounter"
-18160,DRG28302,S60569A,"Insect bite (nonvenomous) of unspecified hand, initial encounter"
-18161,DRG28302,S60821A,"Blister (nonthermal) of right wrist, initial encounter"
-18162,DRG28302,S60822A,"Blister (nonthermal) of left wrist, initial encounter"
-18163,DRG28302,S60829A,"Blister (nonthermal) of unspecified wrist, initial encounter"
-18164,DRG28302,S60861A,"Insect bite (nonvenomous) of right wrist, initial encounter"
-18165,DRG28302,S60862A,"Insect bite (nonvenomous) of left wrist, initial encounter"
-18166,DRG28302,S60869A,"Insect bite (nonvenomous) of unspecified wrist, initial encounter"
-18167,DRG28302,S70221A,"Blister (nonthermal), right hip, initial encounter"
-18168,DRG28302,S70222A,"Blister (nonthermal), left hip, initial encounter"
-18169,DRG28302,S70229A,"Blister (nonthermal), unspecified hip, initial encounter"
-18170,DRG28302,S70261A,"Insect bite (nonvenomous), right hip, initial encounter"
-18171,DRG28302,S70262A,"Insect bite (nonvenomous), left hip, initial encounter"
-18172,DRG28302,S70269A,"Insect bite (nonvenomous), unspecified hip, initial encounter"
-18173,DRG28302,S70321A,"Blister (nonthermal), right thigh, initial encounter"
-18174,DRG28302,S70322A,"Blister (nonthermal), left thigh, initial encounter"
-18175,DRG28302,S70329A,"Blister (nonthermal), unspecified thigh, initial encounter"
-18176,DRG28302,S70361A,"Insect bite (nonvenomous), right thigh, initial encounter"
-18177,DRG28302,S70362A,"Insect bite (nonvenomous), left thigh, initial encounter"
-18178,DRG28302,S70369A,"Insect bite (nonvenomous), unspecified thigh, initial encounter"
-18179,DRG28302,S80221A,"Blister (nonthermal), right knee, initial encounter"
-18180,DRG28302,S80222A,"Blister (nonthermal), left knee, initial encounter"
-18181,DRG28302,S80229A,"Blister (nonthermal), unspecified knee, initial encounter"
-18182,DRG28302,S80261A,"Insect bite (nonvenomous), right knee, initial encounter"
-18183,DRG28302,S80262A,"Insect bite (nonvenomous), left knee, initial encounter"
-18184,DRG28302,S80269A,"Insect bite (nonvenomous), unspecified knee, initial encounter"
-18185,DRG28302,S80821A,"Blister (nonthermal), right lower leg, initial encounter"
-18186,DRG28302,S80822A,"Blister (nonthermal), left lower leg, initial encounter"
-18187,DRG28302,S80829A,"Blister (nonthermal), unspecified lower leg, initial encounter"
-18188,DRG28302,S80861A,"Insect bite (nonvenomous), right lower leg, initial encounter"
-18189,DRG28302,S80862A,"Insect bite (nonvenomous), left lower leg, initial encounter"
-18190,DRG28302,S80869A,"Insect bite (nonvenomous), unspecified lower leg, initial encounter"
-18191,DRG28302,S90421A,"Blister (nonthermal), right great toe, initial encounter"
-18192,DRG28302,S90422A,"Blister (nonthermal), left great toe, initial encounter"
-18193,DRG28302,S90423A,"Blister (nonthermal), unspecified great toe, initial encounter"
-18194,DRG28302,S90424A,"Blister (nonthermal), right lesser toe(s), initial encounter"
-18195,DRG28302,S90425A,"Blister (nonthermal), left lesser toe(s), initial encounter"
-18196,DRG28302,S90426A,"Blister (nonthermal), unspecified lesser toe(s), initial encounter"
-18197,DRG28302,S90461A,"Insect bite (nonvenomous), right great toe, initial encounter"
-18198,DRG28302,S90462A,"Insect bite (nonvenomous), left great toe, initial encounter"
-18199,DRG28302,S90463A,"Insect bite (nonvenomous), unspecified great toe, initial encounter"
-18200,DRG28302,S90464A,"Insect bite (nonvenomous), right lesser toe(s), initial encounter"
-18201,DRG28302,S90465A,"Insect bite (nonvenomous), left lesser toe(s), initial encounter"
-18202,DRG28302,S90466A,"Insect bite (nonvenomous), unspecified lesser toe(s), initial encounter"
-18203,DRG28302,S90521A,"Blister (nonthermal), right ankle, initial encounter"
-18204,DRG28302,S90522A,"Blister (nonthermal), left ankle, initial encounter"
-18205,DRG28302,S90529A,"Blister (nonthermal), unspecified ankle, initial encounter"
-18206,DRG28302,S90561A,"Insect bite (nonvenomous), right ankle, initial encounter"
-18207,DRG28302,S90562A,"Insect bite (nonvenomous), left ankle, initial encounter"
-18208,DRG28302,S90569A,"Insect bite (nonvenomous), unspecified ankle, initial encounter"
-18209,DRG28302,S90821A,"Blister (nonthermal), right foot, initial encounter"
-18210,DRG28302,S90822A,"Blister (nonthermal), left foot, initial encounter"
-18211,DRG28302,S90829A,"Blister (nonthermal), unspecified foot, initial encounter"
-18212,DRG28302,S90861A,"Insect bite (nonvenomous), right foot, initial encounter"
-18213,DRG28302,S90862A,"Insect bite (nonvenomous), left foot, initial encounter"
-18214,DRG28302,S90869A,"Insect bite (nonvenomous), unspecified foot, initial encounter"
-18215,DRG28302,Z411,Encounter for cosmetic surgery
-18216,DRG28302,Z5210,"Skin donor, unspecified"
-18217,DRG28302,Z5211,"Skin donor, autologous"
-18218,DRG28302,Z5219,"Skin donor, other"
+DRG,CM-PCS,en
+DRG28302,A630,Anogenital (venereal) warts
+DRG28302,A660,Initial lesions of yaws
+DRG28302,A661,Multiple papillomata and wet crab yaws
+DRG28302,A662,Other early skin lesions of yaws
+DRG28302,A663,Hyperkeratosis of yaws
+DRG28302,A664,Gummata and ulcers of yaws
+DRG28302,A670,Primary lesions of pinta
+DRG28302,A671,Intermediate lesions of pinta
+DRG28302,A673,Mixed lesions of pinta
+DRG28302,B000,Eczema herpeticum
+DRG28302,B009,"Herpesviral infection, unspecified"
+DRG28302,B070,Plantar wart
+DRG28302,B078,Other viral warts
+DRG28302,B079,"Viral wart, unspecified"
+DRG28302,B0802,Orf virus disease
+DRG28302,B0803,Pseudocowpox [milker's node]
+DRG28302,B081,Molluscum contagiosum
+DRG28302,B1081,Human herpesvirus 6 infection
+DRG28302,B1082,Human herpesvirus 7 infection
+DRG28302,B1089,Other human herpesvirus infection
+DRG28302,B350,Tinea barbae and tinea capitis
+DRG28302,B351,Tinea unguium
+DRG28302,B352,Tinea manuum
+DRG28302,B353,Tinea pedis
+DRG28302,B354,Tinea corporis
+DRG28302,B355,Tinea imbricata
+DRG28302,B356,Tinea cruris
+DRG28302,B358,Other dermatophytoses
+DRG28302,B359,"Dermatophytosis, unspecified"
+DRG28302,B360,Pityriasis versicolor
+DRG28302,B361,Tinea nigra
+DRG28302,B362,White piedra
+DRG28302,B363,Black piedra
+DRG28302,B368,Other specified superficial mycoses
+DRG28302,B369,"Superficial mycosis, unspecified"
+DRG28302,B372,Candidiasis of skin and nail
+DRG28302,B551,Cutaneous leishmaniasis
+DRG28302,B552,Mucocutaneous leishmaniasis
+DRG28302,B653,Cercarial dermatitis
+DRG28302,B834,Internal hirudiniasis
+DRG28302,B850,Pediculosis due to Pediculus humanus capitis
+DRG28302,B851,Pediculosis due to Pediculus humanus corporis
+DRG28302,B852,"Pediculosis, unspecified"
+DRG28302,B853,Phthiriasis
+DRG28302,B854,Mixed pediculosis and phthiriasis
+DRG28302,B881,Tungiasis [sandflea infestation]
+DRG28302,B882,Other arthropod infestations
+DRG28302,B883,External hirudiniasis
+DRG28302,B888,Other specified infestations
+DRG28302,B889,"Infestation, unspecified"
+DRG28302,I781,"Nevus, non-neoplastic"
+DRG28302,I890,"Lymphedema, not elsewhere classified"
+DRG28302,L081,Erythrasma
+DRG28302,L0889,Other specified local infections of the skin and subcutaneous tissue
+DRG28302,L110,Acquired keratosis follicularis
+DRG28302,L111,Transient acantholytic dermatosis [Grover]
+DRG28302,L118,Other specified acantholytic disorders
+DRG28302,L119,"Acantholytic disorder, unspecified"
+DRG28302,L122,Chronic bullous disease of childhood
+DRG28302,L200,Besnier's prurigo
+DRG28302,L2081,Atopic neurodermatitis
+DRG28302,L2082,Flexural eczema
+DRG28302,L2083,Infantile (acute) (chronic) eczema
+DRG28302,L2084,Intrinsic (allergic) eczema
+DRG28302,L2089,Other atopic dermatitis
+DRG28302,L209,"Atopic dermatitis, unspecified"
+DRG28302,L210,Seborrhea capitis
+DRG28302,L211,Seborrheic infantile dermatitis
+DRG28302,L218,Other seborrheic dermatitis
+DRG28302,L219,"Seborrheic dermatitis, unspecified"
+DRG28302,L22,Diaper dermatitis
+DRG28302,L230,Allergic contact dermatitis due to metals
+DRG28302,L231,Allergic contact dermatitis due to adhesives
+DRG28302,L232,Allergic contact dermatitis due to cosmetics
+DRG28302,L233,Allergic contact dermatitis due to drugs in contact with skin
+DRG28302,L234,Allergic contact dermatitis due to dyes
+DRG28302,L235,Allergic contact dermatitis due to other chemical products
+DRG28302,L236,Allergic contact dermatitis due to food in contact with the skin
+DRG28302,L237,"Allergic contact dermatitis due to plants, except food"
+DRG28302,L2381,Allergic contact dermatitis due to animal (cat) (dog) dander
+DRG28302,L2389,Allergic contact dermatitis due to other agents
+DRG28302,L240,Irritant contact dermatitis due to detergents
+DRG28302,L241,Irritant contact dermatitis due to oils and greases
+DRG28302,L242,Irritant contact dermatitis due to solvents
+DRG28302,L243,Irritant contact dermatitis due to cosmetics
+DRG28302,L244,Irritant contact dermatitis due to drugs in contact with skin
+DRG28302,L245,Irritant contact dermatitis due to other chemical products
+DRG28302,L246,Irritant contact dermatitis due to food in contact with skin
+DRG28302,L247,"Irritant contact dermatitis due to plants, except food"
+DRG28302,L2481,Irritant contact dermatitis due to metals
+DRG28302,L2489,Irritant contact dermatitis due to other agents
+DRG28302,L250,Unspecified contact dermatitis due to cosmetics
+DRG28302,L251,Unspecified contact dermatitis due to drugs in contact with skin
+DRG28302,L252,Unspecified contact dermatitis due to dyes
+DRG28302,L253,Unspecified contact dermatitis due to other chemical products
+DRG28302,L254,Unspecified contact dermatitis due to food in contact with skin
+DRG28302,L255,"Unspecified contact dermatitis due to plants, except food"
+DRG28302,L258,Unspecified contact dermatitis due to other agents
+DRG28302,L26,Exfoliative dermatitis
+DRG28302,L270,Generalized skin eruption due to drugs and medicaments taken internally
+DRG28302,L271,Localized skin eruption due to drugs and medicaments taken internally
+DRG28302,L272,Dermatitis due to ingested food
+DRG28302,L278,Dermatitis due to other substances taken internally
+DRG28302,L279,Dermatitis due to unspecified substance taken internally
+DRG28302,L280,Lichen simplex chronicus
+DRG28302,L281,Prurigo nodularis
+DRG28302,L282,Other prurigo
+DRG28302,L290,Pruritus ani
+DRG28302,L298,Other pruritus
+DRG28302,L299,"Pruritus, unspecified"
+DRG28302,L301,Dyshidrosis [pompholyx]
+DRG28302,L303,Infective dermatitis
+DRG28302,L304,Erythema intertrigo
+DRG28302,L305,Pityriasis alba
+DRG28302,L42,Pityriasis rosea
+DRG28302,L430,Hypertrophic lichen planus
+DRG28302,L431,Bullous lichen planus
+DRG28302,L432,Lichenoid drug reaction
+DRG28302,L433,Subacute (active) lichen planus
+DRG28302,L438,Other lichen planus
+DRG28302,L439,"Lichen planus, unspecified"
+DRG28302,L441,Lichen nitidus
+DRG28302,L442,Lichen striatus
+DRG28302,L443,Lichen ruber moniliformis
+DRG28302,L449,"Papulosquamous disorder, unspecified"
+DRG28302,L538,Other specified erythematous conditions
+DRG28302,L539,"Erythematous condition, unspecified"
+DRG28302,L550,Sunburn of first degree
+DRG28302,L551,Sunburn of second degree
+DRG28302,L552,Sunburn of third degree
+DRG28302,L559,"Sunburn, unspecified"
+DRG28302,L560,Drug phototoxic response
+DRG28302,L561,Drug photoallergic response
+DRG28302,L562,Photocontact dermatitis [berloque dermatitis]
+DRG28302,L563,Solar urticaria
+DRG28302,L564,Polymorphous light eruption
+DRG28302,L565,Disseminated superficial actinic porokeratosis (DSAP)
+DRG28302,L568,Other specified acute skin changes due to ultraviolet radiation
+DRG28302,L569,"Acute skin change due to ultraviolet radiation, unspecified"
+DRG28302,L570,Actinic keratosis
+DRG28302,L571,Actinic reticuloid
+DRG28302,L572,Cutis rhomboidalis nuchae
+DRG28302,L573,Poikiloderma of Civatte
+DRG28302,L574,Cutis laxa senilis
+DRG28302,L575,Actinic granuloma
+DRG28302,L578,Other skin changes due to chronic exposure to nonionizing radiation
+DRG28302,L579,"Skin changes due to chronic exposure to nonionizing radiation, unspecified"
+DRG28302,L580,Acute radiodermatitis
+DRG28302,L581,Chronic radiodermatitis
+DRG28302,L589,"Radiodermatitis, unspecified"
+DRG28302,L590,Erythema ab igne [dermatitis ab igne]
+DRG28302,L598,Other specified disorders of the skin and subcutaneous tissue related to radiation
+DRG28302,L599,"Disorder of the skin and subcutaneous tissue related to radiation, unspecified"
+DRG28302,L600,Ingrowing nail
+DRG28302,L601,Onycholysis
+DRG28302,L602,Onychogryphosis
+DRG28302,L603,Nail dystrophy
+DRG28302,L604,Beau's lines
+DRG28302,L605,Yellow nail syndrome
+DRG28302,L608,Other nail disorders
+DRG28302,L609,"Nail disorder, unspecified"
+DRG28302,L630,Alopecia (capitis) totalis
+DRG28302,L631,Alopecia universalis
+DRG28302,L632,Ophiasis
+DRG28302,L638,Other alopecia areata
+DRG28302,L639,"Alopecia areata, unspecified"
+DRG28302,L640,Drug-induced androgenic alopecia
+DRG28302,L648,Other androgenic alopecia
+DRG28302,L649,"Androgenic alopecia, unspecified"
+DRG28302,L650,Telogen effluvium
+DRG28302,L651,Anagen effluvium
+DRG28302,L652,Alopecia mucinosa
+DRG28302,L658,Other specified nonscarring hair loss
+DRG28302,L659,"Nonscarring hair loss, unspecified"
+DRG28302,L660,Pseudopelade
+DRG28302,L661,Lichen planopilaris
+DRG28302,L662,Folliculitis decalvans
+DRG28302,L663,Perifolliculitis capitis abscedens
+DRG28302,L664,Folliculitis ulerythematosa reticulata
+DRG28302,L668,Other cicatricial alopecia
+DRG28302,L669,"Cicatricial alopecia, unspecified"
+DRG28302,L670,Trichorrhexis nodosa
+DRG28302,L671,Variations in hair color
+DRG28302,L678,Other hair color and hair shaft abnormalities
+DRG28302,L679,"Hair color and hair shaft abnormality, unspecified"
+DRG28302,L680,Hirsutism
+DRG28302,L681,Acquired hypertrichosis lanuginosa
+DRG28302,L682,Localized hypertrichosis
+DRG28302,L683,Polytrichia
+DRG28302,L688,Other hypertrichosis
+DRG28302,L689,"Hypertrichosis, unspecified"
+DRG28302,L700,Acne vulgaris
+DRG28302,L701,Acne conglobata
+DRG28302,L702,Acne varioliformis
+DRG28302,L703,Acne tropica
+DRG28302,L704,Infantile acne
+DRG28302,L705,Acne excoriee des jeunes filles
+DRG28302,L708,Other acne
+DRG28302,L709,"Acne, unspecified"
+DRG28302,L710,Perioral dermatitis
+DRG28302,L711,Rhinophyma
+DRG28302,L718,Other rosacea
+DRG28302,L719,"Rosacea, unspecified"
+DRG28302,L720,Epidermal cyst
+DRG28302,L7211,Pilar cyst
+DRG28302,L7212,Trichodermal cyst
+DRG28302,L722,Steatocystoma multiplex
+DRG28302,L723,Sebaceous cyst
+DRG28302,L728,Other follicular cysts of the skin and subcutaneous tissue
+DRG28302,L729,"Follicular cyst of the skin and subcutaneous tissue, unspecified"
+DRG28302,L730,Acne keloid
+DRG28302,L731,Pseudofolliculitis barbae
+DRG28302,L732,Hidradenitis suppurativa
+DRG28302,L738,Other specified follicular disorders
+DRG28302,L739,"Follicular disorder, unspecified"
+DRG28302,L740,Miliaria rubra
+DRG28302,L741,Miliaria crystallina
+DRG28302,L742,Miliaria profunda
+DRG28302,L743,"Miliaria, unspecified"
+DRG28302,L744,Anhidrosis
+DRG28302,L74510,"Primary focal hyperhidrosis, axilla"
+DRG28302,L74511,"Primary focal hyperhidrosis, face"
+DRG28302,L74512,"Primary focal hyperhidrosis, palms"
+DRG28302,L74513,"Primary focal hyperhidrosis, soles"
+DRG28302,L74519,"Primary focal hyperhidrosis, unspecified"
+DRG28302,L7452,Secondary focal hyperhidrosis
+DRG28302,L748,Other eccrine sweat disorders
+DRG28302,L749,"Eccrine sweat disorder, unspecified"
+DRG28302,L750,Bromhidrosis
+DRG28302,L751,Chromhidrosis
+DRG28302,L752,Apocrine miliaria
+DRG28302,L758,Other apocrine sweat disorders
+DRG28302,L759,"Apocrine sweat disorder, unspecified"
+DRG28302,L80,Vitiligo
+DRG28302,L810,Postinflammatory hyperpigmentation
+DRG28302,L811,Chloasma
+DRG28302,L812,Freckles
+DRG28302,L813,Cafe au lait spots
+DRG28302,L814,Other melanin hyperpigmentation
+DRG28302,L815,"Leukoderma, not elsewhere classified"
+DRG28302,L816,Other disorders of diminished melanin formation
+DRG28302,L817,Pigmented purpuric dermatosis
+DRG28302,L818,Other specified disorders of pigmentation
+DRG28302,L819,"Disorder of pigmentation, unspecified"
+DRG28302,L820,Inflamed seborrheic keratosis
+DRG28302,L821,Other seborrheic keratosis
+DRG28302,L83,Acanthosis nigricans
+DRG28302,L84,Corns and callosities
+DRG28302,L850,Acquired ichthyosis
+DRG28302,L851,Acquired keratosis [keratoderma] palmaris et plantaris
+DRG28302,L852,Keratosis punctata (palmaris et plantaris)
+DRG28302,L853,Xerosis cutis
+DRG28302,L858,Other specified epidermal thickening
+DRG28302,L859,"Epidermal thickening, unspecified"
+DRG28302,L870,Keratosis follicularis et parafollicularis in cutem penetrans
+DRG28302,L871,Reactive perforating collagenosis
+DRG28302,L872,Elastosis perforans serpiginosa
+DRG28302,L878,Other transepidermal elimination disorders
+DRG28302,L879,"Transepidermal elimination disorder, unspecified"
+DRG28302,L900,Lichen sclerosus et atrophicus
+DRG28302,L901,Anetoderma of Schweninger-Buzzi
+DRG28302,L902,Anetoderma of Jadassohn-Pellizzari
+DRG28302,L903,Atrophoderma of Pasini and Pierini
+DRG28302,L904,Acrodermatitis chronica atrophicans
+DRG28302,L905,Scar conditions and fibrosis of skin
+DRG28302,L906,Striae atrophicae
+DRG28302,L908,Other atrophic disorders of skin
+DRG28302,L909,"Atrophic disorder of skin, unspecified"
+DRG28302,L910,Hypertrophic scar
+DRG28302,L918,Other hypertrophic disorders of the skin
+DRG28302,L919,"Hypertrophic disorder of the skin, unspecified"
+DRG28302,L920,Granuloma annulare
+DRG28302,L921,"Necrobiosis lipoidica, not elsewhere classified"
+DRG28302,L922,Granuloma faciale [eosinophilic granuloma of skin]
+DRG28302,L923,Foreign body granuloma of the skin and subcutaneous tissue
+DRG28302,L929,"Granulomatous disorder of the skin and subcutaneous tissue, unspecified"
+DRG28302,L940,Localized scleroderma [morphea]
+DRG28302,L941,Linear scleroderma
+DRG28302,L942,Calcinosis cutis
+DRG28302,L943,Sclerodactyly
+DRG28302,L944,Gottron's papules
+DRG28302,L948,Other specified localized connective tissue disorders
+DRG28302,L949,"Localized connective tissue disorder, unspecified"
+DRG28302,L951,Erythema elevatum diutinum
+DRG28302,L981,Factitial dermatitis
+DRG28302,L982,Febrile neutrophilic dermatosis [Sweet]
+DRG28302,L985,Mucinosis of the skin
+DRG28302,L986,Other infiltrative disorders of the skin and subcutaneous tissue
+DRG28302,L988,Other specified disorders of the skin and subcutaneous tissue
+DRG28302,L989,"Disorder of the skin and subcutaneous tissue, unspecified"
+DRG28302,M794,Hypertrophy of (infrapatellar) fat pad
+DRG28302,N806,Endometriosis in cutaneous scar
+DRG28302,Q183,Webbing of neck
+DRG28302,Q189,"Congenital malformation of face and neck, unspecified"
+DRG28302,Q800,Ichthyosis vulgaris
+DRG28302,Q801,X-linked ichthyosis
+DRG28302,Q802,Lamellar ichthyosis
+DRG28302,Q803,Congenital bullous ichthyosiform erythroderma
+DRG28302,Q804,Harlequin fetus
+DRG28302,Q808,Other congenital ichthyosis
+DRG28302,Q809,"Congenital ichthyosis, unspecified"
+DRG28302,Q810,Epidermolysis bullosa simplex
+DRG28302,Q811,Epidermolysis bullosa letalis
+DRG28302,Q812,Epidermolysis bullosa dystrophica
+DRG28302,Q818,Other epidermolysis bullosa
+DRG28302,Q819,"Epidermolysis bullosa, unspecified"
+DRG28302,Q820,Hereditary lymphedema
+DRG28302,Q821,Xeroderma pigmentosum
+DRG28302,Q822,Mastocytosis
+DRG28302,Q823,Incontinentia pigmenti
+DRG28302,Q824,Ectodermal dysplasia (anhidrotic)
+DRG28302,Q825,Congenital non-neoplastic nevus
+DRG28302,Q828,Other specified congenital malformations of skin
+DRG28302,Q829,"Congenital malformation of skin, unspecified"
+DRG28302,Q840,Congenital alopecia
+DRG28302,Q841,"Congenital morphological disturbances of hair, not elsewhere classified"
+DRG28302,Q842,Other congenital malformations of hair
+DRG28302,Q843,Anonychia
+DRG28302,Q844,Congenital leukonychia
+DRG28302,Q845,Enlarged and hypertrophic nails
+DRG28302,Q846,Other congenital malformations of nails
+DRG28302,Q848,Other specified congenital malformations of integument
+DRG28302,Q849,"Congenital malformation of integument, unspecified"
+DRG28302,R21,Rash and other nonspecific skin eruption
+DRG28302,R220,"Localized swelling, mass and lump, head"
+DRG28302,R221,"Localized swelling, mass and lump, neck"
+DRG28302,R2230,"Localized swelling, mass and lump, unspecified upper limb"
+DRG28302,R2231,"Localized swelling, mass and lump, right upper limb"
+DRG28302,R2232,"Localized swelling, mass and lump, left upper limb"
+DRG28302,R2233,"Localized swelling, mass and lump, upper limb, bilateral"
+DRG28302,R2240,"Localized swelling, mass and lump, unspecified lower limb"
+DRG28302,R2241,"Localized swelling, mass and lump, right lower limb"
+DRG28302,R2242,"Localized swelling, mass and lump, left lower limb"
+DRG28302,R2243,"Localized swelling, mass and lump, lower limb, bilateral"
+DRG28302,R229,"Localized swelling, mass and lump, unspecified"
+DRG28302,R234,Changes in skin texture
+DRG28302,R238,Other skin changes
+DRG28302,R239,Unspecified skin changes
+DRG28302,R61,Generalized hyperhidrosis
+DRG28302,S0002XA,"Blister (nonthermal) of scalp, initial encounter"
+DRG28302,S0006XA,"Insect bite (nonvenomous) of scalp, initial encounter"
+DRG28302,S0032XA,"Blister (nonthermal) of nose, initial encounter"
+DRG28302,S0036XA,"Insect bite (nonvenomous) of nose, initial encounter"
+DRG28302,S00421A,"Blister (nonthermal) of right ear, initial encounter"
+DRG28302,S00422A,"Blister (nonthermal) of left ear, initial encounter"
+DRG28302,S00429A,"Blister (nonthermal) of unspecified ear, initial encounter"
+DRG28302,S00461A,"Insect bite (nonvenomous) of right ear, initial encounter"
+DRG28302,S00462A,"Insect bite (nonvenomous) of left ear, initial encounter"
+DRG28302,S00469A,"Insect bite (nonvenomous) of unspecified ear, initial encounter"
+DRG28302,S00521A,"Blister (nonthermal) of lip, initial encounter"
+DRG28302,S00522A,"Blister (nonthermal) of oral cavity, initial encounter"
+DRG28302,S00561A,"Insect bite (nonvenomous) of lip, initial encounter"
+DRG28302,S00562A,"Insect bite (nonvenomous) of oral cavity, initial encounter"
+DRG28302,S0082XA,"Blister (nonthermal) of other part of head, initial encounter"
+DRG28302,S0086XA,"Insect bite (nonvenomous) of other part of head, initial encounter"
+DRG28302,S0092XA,"Blister (nonthermal) of unspecified part of head, initial encounter"
+DRG28302,S0096XA,"Insect bite (nonvenomous) of unspecified part of head, initial encounter"
+DRG28302,S1012XA,"Blister (nonthermal) of throat, initial encounter"
+DRG28302,S1016XA,"Insect bite (nonvenomous) of throat, initial encounter"
+DRG28302,S1082XA,"Blister (nonthermal) of other specified part of neck, initial encounter"
+DRG28302,S1086XA,"Insect bite of other specified part of neck, initial encounter"
+DRG28302,S1092XA,"Blister (nonthermal) of unspecified part of neck, initial encounter"
+DRG28302,S1096XA,"Insect bite of unspecified part of neck, initial encounter"
+DRG28302,S20121A,"Blister (nonthermal) of breast, right breast, initial encounter"
+DRG28302,S20122A,"Blister (nonthermal) of breast, left breast, initial encounter"
+DRG28302,S20129A,"Blister (nonthermal) of breast, unspecified breast, initial encounter"
+DRG28302,S20161A,"Insect bite (nonvenomous) of breast, right breast, initial encounter"
+DRG28302,S20162A,"Insect bite (nonvenomous) of breast, left breast, initial encounter"
+DRG28302,S20169A,"Insect bite (nonvenomous) of breast, unspecified breast, initial encounter"
+DRG28302,S20321A,"Blister (nonthermal) of right front wall of thorax, initial encounter"
+DRG28302,S20322A,"Blister (nonthermal) of left front wall of thorax, initial encounter"
+DRG28302,S20329A,"Blister (nonthermal) of unspecified front wall of thorax, initial encounter"
+DRG28302,S20361A,"Insect bite (nonvenomous) of right front wall of thorax, initial encounter"
+DRG28302,S20362A,"Insect bite (nonvenomous) of left front wall of thorax, initial encounter"
+DRG28302,S20369A,"Insect bite (nonvenomous) of unspecified front wall of thorax, initial encounter"
+DRG28302,S20421A,"Blister (nonthermal) of right back wall of thorax, initial encounter"
+DRG28302,S20422A,"Blister (nonthermal) of left back wall of thorax, initial encounter"
+DRG28302,S20429A,"Blister (nonthermal) of unspecified back wall of thorax, initial encounter"
+DRG28302,S20461A,"Insect bite (nonvenomous) of right back wall of thorax, initial encounter"
+DRG28302,S20462A,"Insect bite (nonvenomous) of left back wall of thorax, initial encounter"
+DRG28302,S20469A,"Insect bite (nonvenomous) of unspecified back wall of thorax, initial encounter"
+DRG28302,S2092XA,"Blister (nonthermal) of unspecified parts of thorax, initial encounter"
+DRG28302,S2096XA,"Insect bite (nonvenomous) of unspecified parts of thorax, initial encounter"
+DRG28302,S30820A,"Blister (nonthermal) of lower back and pelvis, initial encounter"
+DRG28302,S30821A,"Blister (nonthermal) of abdominal wall, initial encounter"
+DRG28302,S30822A,"Blister (nonthermal) of penis, initial encounter"
+DRG28302,S30823A,"Blister (nonthermal) of scrotum and testes, initial encounter"
+DRG28302,S30824A,"Blister (nonthermal) of vagina and vulva, initial encounter"
+DRG28302,S30825A,"Blister (nonthermal) of unspecified external genital organs, male, initial encounter"
+DRG28302,S30826A,"Blister (nonthermal) of unspecified external genital organs, female, initial encounter"
+DRG28302,S30827A,"Blister (nonthermal) of anus, initial encounter"
+DRG28302,S30860A,"Insect bite (nonvenomous) of lower back and pelvis, initial encounter"
+DRG28302,S30861A,"Insect bite (nonvenomous) of abdominal wall, initial encounter"
+DRG28302,S30862A,"Insect bite (nonvenomous) of penis, initial encounter"
+DRG28302,S30863A,"Insect bite (nonvenomous) of scrotum and testes, initial encounter"
+DRG28302,S30864A,"Insect bite (nonvenomous) of vagina and vulva, initial encounter"
+DRG28302,S30865A,"Insect bite (nonvenomous) of unspecified external genital organs, male, initial encounter"
+DRG28302,S30866A,"Insect bite (nonvenomous) of unspecified external genital organs, female, initial encounter"
+DRG28302,S30867A,"Insect bite (nonvenomous) of anus, initial encounter"
+DRG28302,S40261A,"Insect bite (nonvenomous) of right shoulder, initial encounter"
+DRG28302,S40262A,"Insect bite (nonvenomous) of left shoulder, initial encounter"
+DRG28302,S40269A,"Insect bite (nonvenomous) of unspecified shoulder, initial encounter"
+DRG28302,S40861A,"Insect bite (nonvenomous) of right upper arm, initial encounter"
+DRG28302,S40862A,"Insect bite (nonvenomous) of left upper arm, initial encounter"
+DRG28302,S40869A,"Insect bite (nonvenomous) of unspecified upper arm, initial encounter"
+DRG28302,S50321A,"Blister (nonthermal) of right elbow, initial encounter"
+DRG28302,S50322A,"Blister (nonthermal) of left elbow, initial encounter"
+DRG28302,S50329A,"Blister (nonthermal) of unspecified elbow, initial encounter"
+DRG28302,S50361A,"Insect bite (nonvenomous) of right elbow, initial encounter"
+DRG28302,S50362A,"Insect bite (nonvenomous) of left elbow, initial encounter"
+DRG28302,S50369A,"Insect bite (nonvenomous) of unspecified elbow, initial encounter"
+DRG28302,S50821A,"Blister (nonthermal) of right forearm, initial encounter"
+DRG28302,S50822A,"Blister (nonthermal) of left forearm, initial encounter"
+DRG28302,S50829A,"Blister (nonthermal) of unspecified forearm, initial encounter"
+DRG28302,S50861A,"Insect bite (nonvenomous) of right forearm, initial encounter"
+DRG28302,S50862A,"Insect bite (nonvenomous) of left forearm, initial encounter"
+DRG28302,S50869A,"Insect bite (nonvenomous) of unspecified forearm, initial encounter"
+DRG28302,S60321A,"Blister (nonthermal) of right thumb, initial encounter"
+DRG28302,S60322A,"Blister (nonthermal) of left thumb, initial encounter"
+DRG28302,S60329A,"Blister (nonthermal) of unspecified thumb, initial encounter"
+DRG28302,S60361A,"Insect bite (nonvenomous) of right thumb, initial encounter"
+DRG28302,S60362A,"Insect bite (nonvenomous) of left thumb, initial encounter"
+DRG28302,S60369A,"Insect bite (nonvenomous) of unspecified thumb, initial encounter"
+DRG28302,S60420A,"Blister (nonthermal) of right index finger, initial encounter"
+DRG28302,S60421A,"Blister (nonthermal) of left index finger, initial encounter"
+DRG28302,S60422A,"Blister (nonthermal) of right middle finger, initial encounter"
+DRG28302,S60423A,"Blister (nonthermal) of left middle finger, initial encounter"
+DRG28302,S60424A,"Blister (nonthermal) of right ring finger, initial encounter"
+DRG28302,S60425A,"Blister (nonthermal) of left ring finger, initial encounter"
+DRG28302,S60426A,"Blister (nonthermal) of right little finger, initial encounter"
+DRG28302,S60427A,"Blister (nonthermal) of left little finger, initial encounter"
+DRG28302,S60428A,"Blister (nonthermal) of other finger, initial encounter"
+DRG28302,S60429A,"Blister (nonthermal) of unspecified finger, initial encounter"
+DRG28302,S60460A,"Insect bite (nonvenomous) of right index finger, initial encounter"
+DRG28302,S60461A,"Insect bite (nonvenomous) of left index finger, initial encounter"
+DRG28302,S60462A,"Insect bite (nonvenomous) of right middle finger, initial encounter"
+DRG28302,S60463A,"Insect bite (nonvenomous) of left middle finger, initial encounter"
+DRG28302,S60464A,"Insect bite (nonvenomous) of right ring finger, initial encounter"
+DRG28302,S60465A,"Insect bite (nonvenomous) of left ring finger, initial encounter"
+DRG28302,S60466A,"Insect bite (nonvenomous) of right little finger, initial encounter"
+DRG28302,S60467A,"Insect bite (nonvenomous) of left little finger, initial encounter"
+DRG28302,S60468A,"Insect bite (nonvenomous) of other finger, initial encounter"
+DRG28302,S60469A,"Insect bite (nonvenomous) of unspecified finger, initial encounter"
+DRG28302,S60521A,"Blister (nonthermal) of right hand, initial encounter"
+DRG28302,S60522A,"Blister (nonthermal) of left hand, initial encounter"
+DRG28302,S60529A,"Blister (nonthermal) of unspecified hand, initial encounter"
+DRG28302,S60561A,"Insect bite (nonvenomous) of right hand, initial encounter"
+DRG28302,S60562A,"Insect bite (nonvenomous) of left hand, initial encounter"
+DRG28302,S60569A,"Insect bite (nonvenomous) of unspecified hand, initial encounter"
+DRG28302,S60821A,"Blister (nonthermal) of right wrist, initial encounter"
+DRG28302,S60822A,"Blister (nonthermal) of left wrist, initial encounter"
+DRG28302,S60829A,"Blister (nonthermal) of unspecified wrist, initial encounter"
+DRG28302,S60861A,"Insect bite (nonvenomous) of right wrist, initial encounter"
+DRG28302,S60862A,"Insect bite (nonvenomous) of left wrist, initial encounter"
+DRG28302,S60869A,"Insect bite (nonvenomous) of unspecified wrist, initial encounter"
+DRG28302,S70221A,"Blister (nonthermal), right hip, initial encounter"
+DRG28302,S70222A,"Blister (nonthermal), left hip, initial encounter"
+DRG28302,S70229A,"Blister (nonthermal), unspecified hip, initial encounter"
+DRG28302,S70261A,"Insect bite (nonvenomous), right hip, initial encounter"
+DRG28302,S70262A,"Insect bite (nonvenomous), left hip, initial encounter"
+DRG28302,S70269A,"Insect bite (nonvenomous), unspecified hip, initial encounter"
+DRG28302,S70321A,"Blister (nonthermal), right thigh, initial encounter"
+DRG28302,S70322A,"Blister (nonthermal), left thigh, initial encounter"
+DRG28302,S70329A,"Blister (nonthermal), unspecified thigh, initial encounter"
+DRG28302,S70361A,"Insect bite (nonvenomous), right thigh, initial encounter"
+DRG28302,S70362A,"Insect bite (nonvenomous), left thigh, initial encounter"
+DRG28302,S70369A,"Insect bite (nonvenomous), unspecified thigh, initial encounter"
+DRG28302,S80221A,"Blister (nonthermal), right knee, initial encounter"
+DRG28302,S80222A,"Blister (nonthermal), left knee, initial encounter"
+DRG28302,S80229A,"Blister (nonthermal), unspecified knee, initial encounter"
+DRG28302,S80261A,"Insect bite (nonvenomous), right knee, initial encounter"
+DRG28302,S80262A,"Insect bite (nonvenomous), left knee, initial encounter"
+DRG28302,S80269A,"Insect bite (nonvenomous), unspecified knee, initial encounter"
+DRG28302,S80821A,"Blister (nonthermal), right lower leg, initial encounter"
+DRG28302,S80822A,"Blister (nonthermal), left lower leg, initial encounter"
+DRG28302,S80829A,"Blister (nonthermal), unspecified lower leg, initial encounter"
+DRG28302,S80861A,"Insect bite (nonvenomous), right lower leg, initial encounter"
+DRG28302,S80862A,"Insect bite (nonvenomous), left lower leg, initial encounter"
+DRG28302,S80869A,"Insect bite (nonvenomous), unspecified lower leg, initial encounter"
+DRG28302,S90421A,"Blister (nonthermal), right great toe, initial encounter"
+DRG28302,S90422A,"Blister (nonthermal), left great toe, initial encounter"
+DRG28302,S90423A,"Blister (nonthermal), unspecified great toe, initial encounter"
+DRG28302,S90424A,"Blister (nonthermal), right lesser toe(s), initial encounter"
+DRG28302,S90425A,"Blister (nonthermal), left lesser toe(s), initial encounter"
+DRG28302,S90426A,"Blister (nonthermal), unspecified lesser toe(s), initial encounter"
+DRG28302,S90461A,"Insect bite (nonvenomous), right great toe, initial encounter"
+DRG28302,S90462A,"Insect bite (nonvenomous), left great toe, initial encounter"
+DRG28302,S90463A,"Insect bite (nonvenomous), unspecified great toe, initial encounter"
+DRG28302,S90464A,"Insect bite (nonvenomous), right lesser toe(s), initial encounter"
+DRG28302,S90465A,"Insect bite (nonvenomous), left lesser toe(s), initial encounter"
+DRG28302,S90466A,"Insect bite (nonvenomous), unspecified lesser toe(s), initial encounter"
+DRG28302,S90521A,"Blister (nonthermal), right ankle, initial encounter"
+DRG28302,S90522A,"Blister (nonthermal), left ankle, initial encounter"
+DRG28302,S90529A,"Blister (nonthermal), unspecified ankle, initial encounter"
+DRG28302,S90561A,"Insect bite (nonvenomous), right ankle, initial encounter"
+DRG28302,S90562A,"Insect bite (nonvenomous), left ankle, initial encounter"
+DRG28302,S90569A,"Insect bite (nonvenomous), unspecified ankle, initial encounter"
+DRG28302,S90821A,"Blister (nonthermal), right foot, initial encounter"
+DRG28302,S90822A,"Blister (nonthermal), left foot, initial encounter"
+DRG28302,S90829A,"Blister (nonthermal), unspecified foot, initial encounter"
+DRG28302,S90861A,"Insect bite (nonvenomous), right foot, initial encounter"
+DRG28302,S90862A,"Insect bite (nonvenomous), left foot, initial encounter"
+DRG28302,S90869A,"Insect bite (nonvenomous), unspecified foot, initial encounter"
+DRG28302,Z411,Encounter for cosmetic surgery
+DRG28302,Z5210,"Skin donor, unspecified"
+DRG28302,Z5211,"Skin donor, autologous"
+DRG28302,Z5219,"Skin donor, other"

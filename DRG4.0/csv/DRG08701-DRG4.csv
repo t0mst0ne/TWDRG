@@ -1,11 +1,11 @@
-,DRG,CM-PCS,en
-6197,DRG08701,J681,"Pulmonary edema due to chemicals, gases, fumes and vapors"
-6198,DRG08701,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-6199,DRG08701,J9601,Acute respiratory failure with hypoxia
-6200,DRG08701,J9602,Acute respiratory failure with hypercapnia
-6201,DRG08701,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
-6202,DRG08701,J9621,Acute and chronic respiratory failure with hypoxia
-6203,DRG08701,J9622,Acute and chronic respiratory failure with hypercapnia
-6204,DRG08701,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-6205,DRG08701,J9691,"Respiratory failure, unspecified with hypoxia"
-6206,DRG08701,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG,CM-PCS,en
+DRG08701,J681,"Pulmonary edema due to chemicals, gases, fumes and vapors"
+DRG08701,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG08701,J9601,Acute respiratory failure with hypoxia
+DRG08701,J9602,Acute respiratory failure with hypercapnia
+DRG08701,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG08701,J9621,Acute and chronic respiratory failure with hypoxia
+DRG08701,J9622,Acute and chronic respiratory failure with hypercapnia
+DRG08701,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG08701,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG08701,J9692,"Respiratory failure, unspecified with hypercapnia"

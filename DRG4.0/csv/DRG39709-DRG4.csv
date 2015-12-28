@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-2128,DRG39709,D473,Essential (hemorrhagic) thrombocythemia
-2129,DRG39709,D693,Immune thrombocytopenic purpura
-2130,DRG39709,D6941,Evans syndrome
-2131,DRG39709,D6942,Congenital and hereditary thrombocytopenia purpura
-2132,DRG39709,D6949,Other primary thrombocytopenia
+DRG,CM-PCS,en
+DRG39709,D473,Essential (hemorrhagic) thrombocythemia
+DRG39709,D693,Immune thrombocytopenic purpura
+DRG39709,D6941,Evans syndrome
+DRG39709,D6942,Congenital and hereditary thrombocytopenia purpura
+DRG39709,D6949,Other primary thrombocytopenia

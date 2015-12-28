@@ -1,69 +1,69 @@
-,DRG,CM-PCS,en
-6582,DRG35001,A1814,Tuberculosis of prostate
-6583,DRG35001,A1815,Tuberculosis of other male genital organs
-6584,DRG35001,A510,Primary genital syphilis
-6585,DRG35001,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
-6586,DRG35001,A5409,Other gonococcal infection of lower genitourinary tract
-6587,DRG35001,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
-6588,DRG35001,A5421,Gonococcal infection of kidney and ureter
-6589,DRG35001,A5422,Gonococcal prostatitis
-6590,DRG35001,A5423,Gonococcal infection of other male genital organs
-6591,DRG35001,A5429,Other gonococcal genitourinary infections
-6592,DRG35001,A55,Chlamydial lymphogranuloma (venereum)
-6593,DRG35001,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
-6594,DRG35001,A5601,Chlamydial cystitis and urethritis
-6595,DRG35001,A5609,Other chlamydial infection of lower genitourinary tract
-6596,DRG35001,A562,"Chlamydial infection of genitourinary tract, unspecified"
-6597,DRG35001,A568,Sexually transmitted chlamydial infection of other sites
-6598,DRG35001,A57,Chancroid
-6599,DRG35001,A58,Granuloma inguinale
-6600,DRG35001,A5900,"Urogenital trichomoniasis, unspecified"
-6601,DRG35001,A5902,Trichomonal prostatitis
-6602,DRG35001,A5903,Trichomonal cystitis and urethritis
-6603,DRG35001,A5909,Other urogenital trichomoniasis
-6604,DRG35001,A6000,"Herpesviral infection of urogenital system, unspecified"
-6605,DRG35001,A6001,Herpesviral infection of penis
-6606,DRG35001,A6002,Herpesviral infection of other male genital organs
-6607,DRG35001,A6009,Herpesviral infection of other urogenital tract
-6608,DRG35001,A601,Herpesviral infection of perianal skin and rectum
-6609,DRG35001,A609,"Anogenital herpesviral infection, unspecified"
-6610,DRG35001,A638,Other specified predominantly sexually transmitted diseases
-6611,DRG35001,A64,Unspecified sexually transmitted disease
-6612,DRG35001,B260,Mumps orchitis
-6613,DRG35001,B3741,Candidal cystitis and urethritis
-6614,DRG35001,B3742,Candidal balanitis
-6615,DRG35001,B3749,Other urogenital candidiasis
-6616,DRG35001,N341,Nonspecific urethritis
-6617,DRG35001,N410,Acute prostatitis
-6618,DRG35001,N411,Chronic prostatitis
-6619,DRG35001,N412,Abscess of prostate
-6620,DRG35001,N413,Prostatocystitis
-6621,DRG35001,N414,Granulomatous prostatitis
-6622,DRG35001,N418,Other inflammatory diseases of prostate
-6623,DRG35001,N419,"Inflammatory disease of prostate, unspecified"
-6624,DRG35001,N431,Infected hydrocele
-6625,DRG35001,N451,Epididymitis
-6626,DRG35001,N452,Orchitis
-6627,DRG35001,N453,Epididymo-orchitis
-6628,DRG35001,N454,Abscess of epididymis or testis
-6629,DRG35001,N470,"Adherent prepuce, newborn"
-6630,DRG35001,N471,Phimosis
-6631,DRG35001,N472,Paraphimosis
-6632,DRG35001,N473,Deficient foreskin
-6633,DRG35001,N474,Benign cyst of prepuce
-6634,DRG35001,N475,Adhesions of prepuce and glans penis
-6635,DRG35001,N476,Balanoposthitis
-6636,DRG35001,N477,Other inflammatory diseases of prepuce
-6637,DRG35001,N478,Other disorders of prepuce
-6638,DRG35001,N480,Leukoplakia of penis
-6639,DRG35001,N481,Balanitis
-6640,DRG35001,N4821,Abscess of corpus cavernosum and penis
-6641,DRG35001,N4822,Cellulitis of corpus cavernosum and penis
-6642,DRG35001,N4829,Other inflammatory disorders of penis
-6643,DRG35001,N490,Inflammatory disorders of seminal vesicle
-6644,DRG35001,N491,"Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens"
-6645,DRG35001,N492,Inflammatory disorders of scrotum
-6646,DRG35001,N493,Fournier gangrene
-6647,DRG35001,N498,Inflammatory disorders of other specified male genital organs
-6648,DRG35001,N499,Inflammatory disorder of unspecified male genital organ
-6649,DRG35001,Z412,Encounter for routine and ritual male circumcision
+DRG,CM-PCS,en
+DRG35001,A1814,Tuberculosis of prostate
+DRG35001,A1815,Tuberculosis of other male genital organs
+DRG35001,A510,Primary genital syphilis
+DRG35001,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
+DRG35001,A5409,Other gonococcal infection of lower genitourinary tract
+DRG35001,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+DRG35001,A5421,Gonococcal infection of kidney and ureter
+DRG35001,A5422,Gonococcal prostatitis
+DRG35001,A5423,Gonococcal infection of other male genital organs
+DRG35001,A5429,Other gonococcal genitourinary infections
+DRG35001,A55,Chlamydial lymphogranuloma (venereum)
+DRG35001,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
+DRG35001,A5601,Chlamydial cystitis and urethritis
+DRG35001,A5609,Other chlamydial infection of lower genitourinary tract
+DRG35001,A562,"Chlamydial infection of genitourinary tract, unspecified"
+DRG35001,A568,Sexually transmitted chlamydial infection of other sites
+DRG35001,A57,Chancroid
+DRG35001,A58,Granuloma inguinale
+DRG35001,A5900,"Urogenital trichomoniasis, unspecified"
+DRG35001,A5902,Trichomonal prostatitis
+DRG35001,A5903,Trichomonal cystitis and urethritis
+DRG35001,A5909,Other urogenital trichomoniasis
+DRG35001,A6000,"Herpesviral infection of urogenital system, unspecified"
+DRG35001,A6001,Herpesviral infection of penis
+DRG35001,A6002,Herpesviral infection of other male genital organs
+DRG35001,A6009,Herpesviral infection of other urogenital tract
+DRG35001,A601,Herpesviral infection of perianal skin and rectum
+DRG35001,A609,"Anogenital herpesviral infection, unspecified"
+DRG35001,A638,Other specified predominantly sexually transmitted diseases
+DRG35001,A64,Unspecified sexually transmitted disease
+DRG35001,B260,Mumps orchitis
+DRG35001,B3741,Candidal cystitis and urethritis
+DRG35001,B3742,Candidal balanitis
+DRG35001,B3749,Other urogenital candidiasis
+DRG35001,N341,Nonspecific urethritis
+DRG35001,N410,Acute prostatitis
+DRG35001,N411,Chronic prostatitis
+DRG35001,N412,Abscess of prostate
+DRG35001,N413,Prostatocystitis
+DRG35001,N414,Granulomatous prostatitis
+DRG35001,N418,Other inflammatory diseases of prostate
+DRG35001,N419,"Inflammatory disease of prostate, unspecified"
+DRG35001,N431,Infected hydrocele
+DRG35001,N451,Epididymitis
+DRG35001,N452,Orchitis
+DRG35001,N453,Epididymo-orchitis
+DRG35001,N454,Abscess of epididymis or testis
+DRG35001,N470,"Adherent prepuce, newborn"
+DRG35001,N471,Phimosis
+DRG35001,N472,Paraphimosis
+DRG35001,N473,Deficient foreskin
+DRG35001,N474,Benign cyst of prepuce
+DRG35001,N475,Adhesions of prepuce and glans penis
+DRG35001,N476,Balanoposthitis
+DRG35001,N477,Other inflammatory diseases of prepuce
+DRG35001,N478,Other disorders of prepuce
+DRG35001,N480,Leukoplakia of penis
+DRG35001,N481,Balanitis
+DRG35001,N4821,Abscess of corpus cavernosum and penis
+DRG35001,N4822,Cellulitis of corpus cavernosum and penis
+DRG35001,N4829,Other inflammatory disorders of penis
+DRG35001,N490,Inflammatory disorders of seminal vesicle
+DRG35001,N491,"Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens"
+DRG35001,N492,Inflammatory disorders of scrotum
+DRG35001,N493,Fournier gangrene
+DRG35001,N498,Inflammatory disorders of other specified male genital organs
+DRG35001,N499,Inflammatory disorder of unspecified male genital organ
+DRG35001,Z412,Encounter for routine and ritual male circumcision

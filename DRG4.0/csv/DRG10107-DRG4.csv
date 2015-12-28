@@ -1,9 +1,9 @@
-,DRG,CM-PCS,en
-6833,DRG10107,T270XXA,"Burn of larynx and trachea, initial encounter"
-6834,DRG10107,T271XXA,"Burn involving larynx and trachea with lung, initial encounter"
-6835,DRG10107,T272XXA,"Burn of other parts of respiratory tract, initial encounter"
-6836,DRG10107,T273XXA,"Burn of respiratory tract, part unspecified, initial encounter"
-6837,DRG10107,T274XXA,"Corrosion of larynx and trachea, initial encounter"
-6838,DRG10107,T275XXA,"Corrosion involving larynx and trachea with lung, initial encounter"
-6839,DRG10107,T276XXA,"Corrosion of other parts of respiratory tract, initial encounter"
-6840,DRG10107,T277XXA,"Corrosion of respiratory tract, part unspecified, initial encounter"
+DRG,CM-PCS,en
+DRG10107,T270XXA,"Burn of larynx and trachea, initial encounter"
+DRG10107,T271XXA,"Burn involving larynx and trachea with lung, initial encounter"
+DRG10107,T272XXA,"Burn of other parts of respiratory tract, initial encounter"
+DRG10107,T273XXA,"Burn of respiratory tract, part unspecified, initial encounter"
+DRG10107,T274XXA,"Corrosion of larynx and trachea, initial encounter"
+DRG10107,T275XXA,"Corrosion involving larynx and trachea with lung, initial encounter"
+DRG10107,T276XXA,"Corrosion of other parts of respiratory tract, initial encounter"
+DRG10107,T277XXA,"Corrosion of respiratory tract, part unspecified, initial encounter"

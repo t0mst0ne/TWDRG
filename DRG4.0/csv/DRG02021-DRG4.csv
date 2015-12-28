@@ -1,53 +1,53 @@
-,DRG,CM-PCS,en
-49547,DRG02021,A0221,Salmonella meningitis
-49548,DRG02021,A390,Meningococcal meningitis
-49549,DRG02021,A3981,Meningococcal encephalitis
-49550,DRG02021,A5040,"Late congenital neurosyphilis, unspecified"
-49551,DRG02021,A5041,Late congenital syphilitic meningitis
-49552,DRG02021,A5042,Late congenital syphilitic encephalitis
-49553,DRG02021,A5043,Late congenital syphilitic polyneuropathy
-49554,DRG02021,A5045,Juvenile general paresis
-49555,DRG02021,A5049,Other late congenital neurosyphilis
-49556,DRG02021,A5141,Secondary syphilitic meningitis
-49557,DRG02021,A5213,Late syphilitic meningitis
-49558,DRG02021,A5214,Late syphilitic encephalitis
-49559,DRG02021,A522,Asymptomatic neurosyphilis
-49560,DRG02021,A800,"Acute paralytic poliomyelitis, vaccine-associated"
-49561,DRG02021,A801,"Acute paralytic poliomyelitis, wild virus, imported"
-49562,DRG02021,A802,"Acute paralytic poliomyelitis, wild virus, indigenous"
-49563,DRG02021,A8030,"Acute paralytic poliomyelitis, unspecified"
-49564,DRG02021,A8039,Other acute paralytic poliomyelitis
-49565,DRG02021,A809,"Acute poliomyelitis, unspecified"
-49566,DRG02021,A820,Sylvatic rabies
-49567,DRG02021,A821,Urban rabies
-49568,DRG02021,A829,"Rabies, unspecified"
-49569,DRG02021,A830,Japanese encephalitis
-49570,DRG02021,A831,Western equine encephalitis
-49571,DRG02021,A832,Eastern equine encephalitis
-49572,DRG02021,A833,St Louis encephalitis
-49573,DRG02021,A834,Australian encephalitis
-49574,DRG02021,A835,California encephalitis
-49575,DRG02021,A836,Rocio virus disease
-49576,DRG02021,A838,Other mosquito-borne viral encephalitis
-49577,DRG02021,A839,"Mosquito-borne viral encephalitis, unspecified"
-49578,DRG02021,A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
-49579,DRG02021,A841,Central European tick-borne encephalitis
-49580,DRG02021,A848,Other tick-borne viral encephalitis
-49581,DRG02021,A849,"Tick-borne viral encephalitis, unspecified"
-49582,DRG02021,A850,Enteroviral encephalitis
-49583,DRG02021,A851,Adenoviral encephalitis
-49584,DRG02021,A852,"Arthropod-borne viral encephalitis, unspecified"
-49585,DRG02021,A858,Other specified viral encephalitis
-49586,DRG02021,A86,Unspecified viral encephalitis
-49587,DRG02021,A888,Other specified viral infections of central nervous system
-49588,DRG02021,A89,Unspecified viral infection of central nervous system
-49589,DRG02021,A922,Venezuelan equine fever
-49590,DRG02021,B0111,Varicella encephalitis and encephalomyelitis
-49591,DRG02021,B050,Measles complicated by encephalitis
-49592,DRG02021,B0601,Rubella encephalitis
-49593,DRG02021,B0602,Rubella meningitis
-49594,DRG02021,B0609,Other neurological complications of rubella
-49595,DRG02021,B262,Mumps encephalitis
-49598,DRG02021,F000001,Physical Therapy
-49599,DRG02021,F000002,Occupational Therapy
-49600,DRG02021,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG02021,A0221,Salmonella meningitis
+DRG02021,A390,Meningococcal meningitis
+DRG02021,A3981,Meningococcal encephalitis
+DRG02021,A5040,"Late congenital neurosyphilis, unspecified"
+DRG02021,A5041,Late congenital syphilitic meningitis
+DRG02021,A5042,Late congenital syphilitic encephalitis
+DRG02021,A5043,Late congenital syphilitic polyneuropathy
+DRG02021,A5045,Juvenile general paresis
+DRG02021,A5049,Other late congenital neurosyphilis
+DRG02021,A5141,Secondary syphilitic meningitis
+DRG02021,A5213,Late syphilitic meningitis
+DRG02021,A5214,Late syphilitic encephalitis
+DRG02021,A522,Asymptomatic neurosyphilis
+DRG02021,A800,"Acute paralytic poliomyelitis, vaccine-associated"
+DRG02021,A801,"Acute paralytic poliomyelitis, wild virus, imported"
+DRG02021,A802,"Acute paralytic poliomyelitis, wild virus, indigenous"
+DRG02021,A8030,"Acute paralytic poliomyelitis, unspecified"
+DRG02021,A8039,Other acute paralytic poliomyelitis
+DRG02021,A809,"Acute poliomyelitis, unspecified"
+DRG02021,A820,Sylvatic rabies
+DRG02021,A821,Urban rabies
+DRG02021,A829,"Rabies, unspecified"
+DRG02021,A830,Japanese encephalitis
+DRG02021,A831,Western equine encephalitis
+DRG02021,A832,Eastern equine encephalitis
+DRG02021,A833,St Louis encephalitis
+DRG02021,A834,Australian encephalitis
+DRG02021,A835,California encephalitis
+DRG02021,A836,Rocio virus disease
+DRG02021,A838,Other mosquito-borne viral encephalitis
+DRG02021,A839,"Mosquito-borne viral encephalitis, unspecified"
+DRG02021,A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
+DRG02021,A841,Central European tick-borne encephalitis
+DRG02021,A848,Other tick-borne viral encephalitis
+DRG02021,A849,"Tick-borne viral encephalitis, unspecified"
+DRG02021,A850,Enteroviral encephalitis
+DRG02021,A851,Adenoviral encephalitis
+DRG02021,A852,"Arthropod-borne viral encephalitis, unspecified"
+DRG02021,A858,Other specified viral encephalitis
+DRG02021,A86,Unspecified viral encephalitis
+DRG02021,A888,Other specified viral infections of central nervous system
+DRG02021,A89,Unspecified viral infection of central nervous system
+DRG02021,A922,Venezuelan equine fever
+DRG02021,B0111,Varicella encephalitis and encephalomyelitis
+DRG02021,B050,Measles complicated by encephalitis
+DRG02021,B0601,Rubella encephalitis
+DRG02021,B0602,Rubella meningitis
+DRG02021,B0609,Other neurological complications of rubella
+DRG02021,B262,Mumps encephalitis
+DRG02021,F000001,Physical Therapy
+DRG02021,F000002,Occupational Therapy
+DRG02021,F000003,Communication Therapy

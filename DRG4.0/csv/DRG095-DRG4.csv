@@ -1,13 +1,13 @@
-,DRG,CM-PCS,en
-6395,DRG00095,J930,Spontaneous tension pneumothorax
-6396,DRG00095,J9311,Primary spontaneous pneumothorax
-6397,DRG00095,J9381,Chronic pneumothorax
-6398,DRG00095,J9382,Other air leak
-6399,DRG00095,J9383,Other pneumothorax
-6400,DRG00095,J939,"Pneumothorax, unspecified"
-6401,DRG00095,J95811,Postprocedural pneumothorax
-6402,DRG00095,J982,Interstitial emphysema
-6403,DRG00095,S270XXA,"Traumatic pneumothorax, initial encounter"
-6404,DRG00095,S271XXA,"Traumatic hemothorax, initial encounter"
-6405,DRG00095,S272XXA,"Traumatic hemopneumothorax, initial encounter"
-6406,DRG00095,T797XXA,"Traumatic subcutaneous emphysema, initial encounter"
+DRG,CM-PCS,en
+DRG00095,J930,Spontaneous tension pneumothorax
+DRG00095,J9311,Primary spontaneous pneumothorax
+DRG00095,J9381,Chronic pneumothorax
+DRG00095,J9382,Other air leak
+DRG00095,J9383,Other pneumothorax
+DRG00095,J939,"Pneumothorax, unspecified"
+DRG00095,J95811,Postprocedural pneumothorax
+DRG00095,J982,Interstitial emphysema
+DRG00095,S270XXA,"Traumatic pneumothorax, initial encounter"
+DRG00095,S271XXA,"Traumatic hemothorax, initial encounter"
+DRG00095,S272XXA,"Traumatic hemopneumothorax, initial encounter"
+DRG00095,T797XXA,"Traumatic subcutaneous emphysema, initial encounter"

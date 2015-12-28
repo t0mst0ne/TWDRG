@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-49723,DRG02112,A870,Enteroviral meningitis
-49724,DRG02112,A878,Other viral meningitis
-49725,DRG02112,A879,"Viral meningitis, unspecified"
-49726,DRG02112,G032,Benign recurrent meningitis [Mollaret]
+DRG,CM-PCS,en
+DRG02112,A870,Enteroviral meningitis
+DRG02112,A878,Other viral meningitis
+DRG02112,A879,"Viral meningitis, unspecified"
+DRG02112,G032,Benign recurrent meningitis [Mollaret]

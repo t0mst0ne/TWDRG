@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-49733,DRG02201,I674,Hypertensive encephalopathy
-49736,DRG02201,F000001,Physical Therapy
-49737,DRG02201,F000002,Occupational Therapy
-49738,DRG02201,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG02201,I674,Hypertensive encephalopathy
+DRG02201,F000001,Physical Therapy
+DRG02201,F000002,Occupational Therapy
+DRG02201,F000003,Communication Therapy

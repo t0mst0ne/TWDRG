@@ -1,17 +1,17 @@
-,DRG,CM-PCS,en
-38732,DRG13802,I442,"Atrioventricular block, complete"
-38733,DRG13802,I453,Trifascicular block
-38734,DRG13802,I495,Sick sinus syndrome
-38735,DRG13802,Q246,Congenital heart block
-38736,DRG13802,T82110A,"Breakdown (mechanical) of cardiac electrode, initial encounter"
-38737,DRG13802,T82111A,"Breakdown (mechanical) of cardiac pulse generator (battery), initial encounter"
-38738,DRG13802,T82118A,"Breakdown (mechanical) of other cardiac electronic device, initial encounter"
-38739,DRG13802,T82119A,"Breakdown (mechanical) of unspecified cardiac electronic device, initial encounter"
-38740,DRG13802,T82120A,"Displacement of cardiac electrode, initial encounter"
-38741,DRG13802,T82121A,"Displacement of cardiac pulse generator (battery), initial encounter"
-38742,DRG13802,T82128A,"Displacement of other cardiac electronic device, initial encounter"
-38743,DRG13802,T82129A,"Displacement of unspecified cardiac electronic device, initial encounter"
-38744,DRG13802,T82190A,"Other mechanical complication of cardiac electrode, initial encounter"
-38745,DRG13802,T82191A,"Other mechanical complication of cardiac pulse generator (battery), initial encounter"
-38746,DRG13802,T82198A,"Other mechanical complication of other cardiac electronic device, initial encounter"
-38747,DRG13802,T82199A,"Other mechanical complication of unspecified cardiac device, initial encounter"
+DRG,CM-PCS,en
+DRG13802,I442,"Atrioventricular block, complete"
+DRG13802,I453,Trifascicular block
+DRG13802,I495,Sick sinus syndrome
+DRG13802,Q246,Congenital heart block
+DRG13802,T82110A,"Breakdown (mechanical) of cardiac electrode, initial encounter"
+DRG13802,T82111A,"Breakdown (mechanical) of cardiac pulse generator (battery), initial encounter"
+DRG13802,T82118A,"Breakdown (mechanical) of other cardiac electronic device, initial encounter"
+DRG13802,T82119A,"Breakdown (mechanical) of unspecified cardiac electronic device, initial encounter"
+DRG13802,T82120A,"Displacement of cardiac electrode, initial encounter"
+DRG13802,T82121A,"Displacement of cardiac pulse generator (battery), initial encounter"
+DRG13802,T82128A,"Displacement of other cardiac electronic device, initial encounter"
+DRG13802,T82129A,"Displacement of unspecified cardiac electronic device, initial encounter"
+DRG13802,T82190A,"Other mechanical complication of cardiac electrode, initial encounter"
+DRG13802,T82191A,"Other mechanical complication of cardiac pulse generator (battery), initial encounter"
+DRG13802,T82198A,"Other mechanical complication of other cardiac electronic device, initial encounter"
+DRG13802,T82199A,"Other mechanical complication of unspecified cardiac device, initial encounter"

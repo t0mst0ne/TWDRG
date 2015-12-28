@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-1889,DRG39608,D500,Iron deficiency anemia secondary to blood loss (chronic)
-1890,DRG39608,D501,Sideropenic dysphagia
-1891,DRG39608,D508,Other iron deficiency anemias
-1892,DRG39608,D509,"Iron deficiency anemia, unspecified"
+DRG,CM-PCS,en
+DRG39608,D500,Iron deficiency anemia secondary to blood loss (chronic)
+DRG39608,D501,Sideropenic dysphagia
+DRG39608,D508,Other iron deficiency anemias
+DRG39608,D509,"Iron deficiency anemia, unspecified"

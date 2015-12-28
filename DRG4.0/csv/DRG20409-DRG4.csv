@@ -1,86 +1,86 @@
-,DRG,CM-PCS,en
-6374,DRG20409,B252,Cytomegaloviral pancreatitis
-6375,DRG20409,K850,Idiopathic acute pancreatitis
-6376,DRG20409,K851,Biliary acute pancreatitis
-6377,DRG20409,K852,Alcohol induced acute pancreatitis
-6378,DRG20409,K853,Drug induced acute pancreatitis
-6379,DRG20409,K858,Other acute pancreatitis
-6380,DRG20409,K859,"Acute pancreatitis, unspecified"
-6383,DRG20409,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-6384,DRG20409,J9601,Acute respiratory failure with hypoxia
-6385,DRG20409,J9602,Acute respiratory failure with hypercapnia
-6386,DRG20409,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-6387,DRG20409,J9691,"Respiratory failure, unspecified with hypoxia"
-6388,DRG20409,J9692,"Respiratory failure, unspecified with hypercapnia"
-6391,DRG20409,A400,"Sepsis due to streptococcus, group A"
-6392,DRG20409,A401,"Sepsis due to streptococcus, group B"
-6393,DRG20409,A403,Sepsis due to Streptococcus pneumoniae
-6394,DRG20409,A408,Other streptococcal sepsis
-6395,DRG20409,A409,"Streptococcal sepsis, unspecified"
-6396,DRG20409,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
-6397,DRG20409,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
-6398,DRG20409,A411,Sepsis due to other specified staphylococcus
-6399,DRG20409,A412,Sepsis due to unspecified staphylococcus
-6400,DRG20409,A413,Sepsis due to Hemophilus influenzae
-6401,DRG20409,A414,Sepsis due to anaerobes
-6402,DRG20409,A4150,"Gram-negative sepsis, unspecified"
-6403,DRG20409,A4151,Sepsis due to Escherichia coli [E. coli]
-6404,DRG20409,A4152,Sepsis due to Pseudomonas
-6405,DRG20409,A4153,Sepsis due to Serratia
-6406,DRG20409,A4159,Other Gram-negative sepsis
-6407,DRG20409,A4181,Sepsis due to Enterococcus
-6408,DRG20409,A4189,Other specified sepsis
-6409,DRG20409,A419,"Sepsis, unspecified organism"
-6410,DRG20409,B377,Candidal sepsis
-6411,DRG20409,K650,Generalized (acute) peritonitis
-6412,DRG20409,K651,Peritoneal abscess
-6413,DRG20409,K652,Spontaneous bacterial peritonitis
-6414,DRG20409,K653,Choleperitonitis
-6415,DRG20409,K654,Sclerosing mesenteritis
-6416,DRG20409,K658,Other peritonitis
-6417,DRG20409,K659,"Peritonitis, unspecified"
-6418,DRG20409,K67,Disorders of peritoneum in infectious diseases classified elsewhere
-6419,DRG20409,K6811,Postprocedural retroperitoneal abscess
-6420,DRG20409,K6819,Other retroperitoneal abscess
-6421,DRG20409,K689,Other disorders of retroperitoneum
-6422,DRG20409,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
-6423,DRG20409,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
-6424,DRG20409,R6520,Severe sepsis without septic shock
-6427,DRG20409,0D9S30Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Approach"
-6428,DRG20409,0D9S3ZZ,"Drainage of Greater Omentum, Percutaneous Approach"
-6429,DRG20409,0D9S40Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Endoscopic Approach"
-6430,DRG20409,0D9S4ZZ,"Drainage of Greater Omentum, Percutaneous Endoscopic Approach"
-6431,DRG20409,0D9T30Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Approach"
-6432,DRG20409,0D9T3ZZ,"Drainage of Lesser Omentum, Percutaneous Approach"
-6433,DRG20409,0D9T40Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Endoscopic Approach"
-6434,DRG20409,0D9T4ZZ,"Drainage of Lesser Omentum, Percutaneous Endoscopic Approach"
-6435,DRG20409,0D9V30Z,"Drainage of Mesentery with Drainage Device, Percutaneous Approach"
-6436,DRG20409,0D9V3ZZ,"Drainage of Mesentery, Percutaneous Approach"
-6437,DRG20409,0D9V40Z,"Drainage of Mesentery with Drainage Device, Percutaneous Endoscopic Approach"
-6438,DRG20409,0D9V4ZZ,"Drainage of Mesentery, Percutaneous Endoscopic Approach"
-6439,DRG20409,0D9W30Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Approach"
-6440,DRG20409,0D9W3ZZ,"Drainage of Peritoneum, Percutaneous Approach"
-6441,DRG20409,0D9W40Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Endoscopic Approach"
-6442,DRG20409,0D9W4ZZ,"Drainage of Peritoneum, Percutaneous Endoscopic Approach"
-6443,DRG20409,0F9D00Z,"Drainage of Pancreatic Duct with Drainage Device, Open Approach"
-6444,DRG20409,0F9D30Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
-6445,DRG20409,0F9D40Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
-6446,DRG20409,0F9D70Z,"Drainage of Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
-6447,DRG20409,0F9F00Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Open Approach"
-6448,DRG20409,0F9F30Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Approach"
-6449,DRG20409,0F9F40Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
-6450,DRG20409,0F9F70Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
-6451,DRG20409,0F9G00Z,"Drainage of Pancreas with Drainage Device, Open Approach"
-6452,DRG20409,0F9G30Z,"Drainage of Pancreas with Drainage Device, Percutaneous Approach"
-6453,DRG20409,0F9G40Z,"Drainage of Pancreas with Drainage Device, Percutaneous Endoscopic Approach"
-6454,DRG20409,0W9F30Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Approach"
-6455,DRG20409,0W9F3ZZ,"Drainage of Abdominal Wall, Percutaneous Approach"
-6456,DRG20409,0W9F40Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Endoscopic Approach"
-6457,DRG20409,0W9F4ZZ,"Drainage of Abdominal Wall, Percutaneous Endoscopic Approach"
-6458,DRG20409,0W9G30Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Approach"
-6459,DRG20409,0W9G3ZX,"Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic"
-6460,DRG20409,0W9G3ZZ,"Drainage of Peritoneal Cavity, Percutaneous Approach"
-6461,DRG20409,0W9G40Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Endoscopic Approach"
-6462,DRG20409,0W9G4ZZ,"Drainage of Peritoneal Cavity, Percutaneous Endoscopic Approach"
-6463,DRG20409,0W9J30Z,"Drainage of Pelvic Cavity with Drainage Device, Percutaneous Approach"
-6464,DRG20409,0W9J3ZZ,"Drainage of Pelvic Cavity, Percutaneous Approach"
+DRG,CM-PCS,en
+DRG20409,B252,Cytomegaloviral pancreatitis
+DRG20409,K850,Idiopathic acute pancreatitis
+DRG20409,K851,Biliary acute pancreatitis
+DRG20409,K852,Alcohol induced acute pancreatitis
+DRG20409,K853,Drug induced acute pancreatitis
+DRG20409,K858,Other acute pancreatitis
+DRG20409,K859,"Acute pancreatitis, unspecified"
+DRG20409,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG20409,J9601,Acute respiratory failure with hypoxia
+DRG20409,J9602,Acute respiratory failure with hypercapnia
+DRG20409,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG20409,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG20409,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG20409,A400,"Sepsis due to streptococcus, group A"
+DRG20409,A401,"Sepsis due to streptococcus, group B"
+DRG20409,A403,Sepsis due to Streptococcus pneumoniae
+DRG20409,A408,Other streptococcal sepsis
+DRG20409,A409,"Streptococcal sepsis, unspecified"
+DRG20409,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG20409,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG20409,A411,Sepsis due to other specified staphylococcus
+DRG20409,A412,Sepsis due to unspecified staphylococcus
+DRG20409,A413,Sepsis due to Hemophilus influenzae
+DRG20409,A414,Sepsis due to anaerobes
+DRG20409,A4150,"Gram-negative sepsis, unspecified"
+DRG20409,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG20409,A4152,Sepsis due to Pseudomonas
+DRG20409,A4153,Sepsis due to Serratia
+DRG20409,A4159,Other Gram-negative sepsis
+DRG20409,A4181,Sepsis due to Enterococcus
+DRG20409,A4189,Other specified sepsis
+DRG20409,A419,"Sepsis, unspecified organism"
+DRG20409,B377,Candidal sepsis
+DRG20409,K650,Generalized (acute) peritonitis
+DRG20409,K651,Peritoneal abscess
+DRG20409,K652,Spontaneous bacterial peritonitis
+DRG20409,K653,Choleperitonitis
+DRG20409,K654,Sclerosing mesenteritis
+DRG20409,K658,Other peritonitis
+DRG20409,K659,"Peritonitis, unspecified"
+DRG20409,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+DRG20409,K6811,Postprocedural retroperitoneal abscess
+DRG20409,K6819,Other retroperitoneal abscess
+DRG20409,K689,Other disorders of retroperitoneum
+DRG20409,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG20409,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG20409,R6520,Severe sepsis without septic shock
+DRG20409,0D9S30Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Approach"
+DRG20409,0D9S3ZZ,"Drainage of Greater Omentum, Percutaneous Approach"
+DRG20409,0D9S40Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0D9S4ZZ,"Drainage of Greater Omentum, Percutaneous Endoscopic Approach"
+DRG20409,0D9T30Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Approach"
+DRG20409,0D9T3ZZ,"Drainage of Lesser Omentum, Percutaneous Approach"
+DRG20409,0D9T40Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0D9T4ZZ,"Drainage of Lesser Omentum, Percutaneous Endoscopic Approach"
+DRG20409,0D9V30Z,"Drainage of Mesentery with Drainage Device, Percutaneous Approach"
+DRG20409,0D9V3ZZ,"Drainage of Mesentery, Percutaneous Approach"
+DRG20409,0D9V40Z,"Drainage of Mesentery with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0D9V4ZZ,"Drainage of Mesentery, Percutaneous Endoscopic Approach"
+DRG20409,0D9W30Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Approach"
+DRG20409,0D9W3ZZ,"Drainage of Peritoneum, Percutaneous Approach"
+DRG20409,0D9W40Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0D9W4ZZ,"Drainage of Peritoneum, Percutaneous Endoscopic Approach"
+DRG20409,0F9D00Z,"Drainage of Pancreatic Duct with Drainage Device, Open Approach"
+DRG20409,0F9D30Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
+DRG20409,0F9D40Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0F9D70Z,"Drainage of Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
+DRG20409,0F9F00Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Open Approach"
+DRG20409,0F9F30Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Approach"
+DRG20409,0F9F40Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0F9F70Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
+DRG20409,0F9G00Z,"Drainage of Pancreas with Drainage Device, Open Approach"
+DRG20409,0F9G30Z,"Drainage of Pancreas with Drainage Device, Percutaneous Approach"
+DRG20409,0F9G40Z,"Drainage of Pancreas with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0W9F30Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Approach"
+DRG20409,0W9F3ZZ,"Drainage of Abdominal Wall, Percutaneous Approach"
+DRG20409,0W9F40Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0W9F4ZZ,"Drainage of Abdominal Wall, Percutaneous Endoscopic Approach"
+DRG20409,0W9G30Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Approach"
+DRG20409,0W9G3ZX,"Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic"
+DRG20409,0W9G3ZZ,"Drainage of Peritoneal Cavity, Percutaneous Approach"
+DRG20409,0W9G40Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20409,0W9G4ZZ,"Drainage of Peritoneal Cavity, Percutaneous Endoscopic Approach"
+DRG20409,0W9J30Z,"Drainage of Pelvic Cavity with Drainage Device, Percutaneous Approach"
+DRG20409,0W9J3ZZ,"Drainage of Pelvic Cavity, Percutaneous Approach"

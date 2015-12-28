@@ -1,23 +1,23 @@
-,DRG,CM-PCS,en
-11024,DRG32301,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified"
-11025,DRG32301,N132,Hydronephrosis with renal and ureteral calculous obstruction
-11026,DRG32301,N1330,Unspecified hydronephrosis
-11027,DRG32301,N1339,Other hydronephrosis
-11028,DRG32301,N134,Hydroureter
-11029,DRG32301,N138,Other obstructive and reflux uropathy
-11030,DRG32301,N200,Calculus of kidney
-11031,DRG32301,N201,Calculus of ureter
-11032,DRG32301,N202,Calculus of kidney with calculus of ureter
-11033,DRG32301,N209,"Urinary calculus, unspecified"
-11034,DRG32301,N210,Calculus in bladder
-11035,DRG32301,N211,Calculus in urethra
-11036,DRG32301,N218,Other lower urinary tract calculus
-11037,DRG32301,N219,"Calculus of lower urinary tract, unspecified"
-11038,DRG32301,N23,Unspecified renal colic
-11041,DRG32301,0TF3XZZ,"Fragmentation in Right Kidney Pelvis, External Approach"
-11042,DRG32301,0TF4XZZ,"Fragmentation in Left Kidney Pelvis, External Approach"
-11043,DRG32301,0TF6XZZ,"Fragmentation in Right Ureter, External Approach"
-11044,DRG32301,0TF7XZZ,"Fragmentation in Left Ureter, External Approach"
-11045,DRG32301,0TFBXZZ,"Fragmentation in Bladder, External Approach"
-11046,DRG32301,0TFCXZZ,"Fragmentation in Bladder Neck, External Approach"
-11047,DRG32301,0WFRXZZ,"Fragmentation in Genitourinary Tract, External Approach"
+DRG,CM-PCS,en
+DRG32301,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+DRG32301,N132,Hydronephrosis with renal and ureteral calculous obstruction
+DRG32301,N1330,Unspecified hydronephrosis
+DRG32301,N1339,Other hydronephrosis
+DRG32301,N134,Hydroureter
+DRG32301,N138,Other obstructive and reflux uropathy
+DRG32301,N200,Calculus of kidney
+DRG32301,N201,Calculus of ureter
+DRG32301,N202,Calculus of kidney with calculus of ureter
+DRG32301,N209,"Urinary calculus, unspecified"
+DRG32301,N210,Calculus in bladder
+DRG32301,N211,Calculus in urethra
+DRG32301,N218,Other lower urinary tract calculus
+DRG32301,N219,"Calculus of lower urinary tract, unspecified"
+DRG32301,N23,Unspecified renal colic
+DRG32301,0TF3XZZ,"Fragmentation in Right Kidney Pelvis, External Approach"
+DRG32301,0TF4XZZ,"Fragmentation in Left Kidney Pelvis, External Approach"
+DRG32301,0TF6XZZ,"Fragmentation in Right Ureter, External Approach"
+DRG32301,0TF7XZZ,"Fragmentation in Left Ureter, External Approach"
+DRG32301,0TFBXZZ,"Fragmentation in Bladder, External Approach"
+DRG32301,0TFCXZZ,"Fragmentation in Bladder Neck, External Approach"
+DRG32301,0WFRXZZ,"Fragmentation in Genitourinary Tract, External Approach"

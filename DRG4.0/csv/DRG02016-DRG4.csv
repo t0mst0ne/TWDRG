@@ -1,33 +1,33 @@
-,DRG,CM-PCS,en
-49449,DRG02016,A066,Amebic brain abscess
-49450,DRG02016,A170,Tuberculous meningitis
-49451,DRG02016,A171,Meningeal tuberculoma
-49452,DRG02016,A1781,Tuberculoma of brain and spinal cord
-49453,DRG02016,A1782,Tuberculous meningoencephalitis
-49454,DRG02016,A1783,Tuberculous neuritis
-49455,DRG02016,A1789,Other tuberculosis of nervous system
-49456,DRG02016,A2781,Aseptic meningitis in leptospirosis
-49457,DRG02016,A2789,Other forms of leptospirosis
-49458,DRG02016,A5481,Gonococcal meningitis
-49459,DRG02016,B375,Candidal meningitis
-49460,DRG02016,B384,Coccidioidomycosis meningitis
-49461,DRG02016,B582,Toxoplasma meningoencephalitis
-49462,DRG02016,G000,Hemophilus meningitis
-49463,DRG02016,G001,Pneumococcal meningitis
-49464,DRG02016,G002,Streptococcal meningitis
-49465,DRG02016,G003,Staphylococcal meningitis
-49466,DRG02016,G008,Other bacterial meningitis
-49467,DRG02016,G009,"Bacterial meningitis, unspecified"
-49468,DRG02016,G030,Nonpyogenic meningitis
-49469,DRG02016,G031,Chronic meningitis
-49470,DRG02016,G039,"Meningitis, unspecified"
-49471,DRG02016,G0400,"Acute disseminated encephalitis and encephalomyelitis, unspecified"
-49472,DRG02016,G0401,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)
-49473,DRG02016,G0402,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis"
-49474,DRG02016,G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
-49475,DRG02016,G0432,Postimmunization acute necrotizing hemorrhagic encephalopathy
-49476,DRG02016,G061,Intraspinal abscess and granuloma
-49477,DRG02016,G062,"Extradural and subdural abscess, unspecified"
-49480,DRG02016,F000001,Physical Therapy
-49481,DRG02016,F000002,Occupational Therapy
-49482,DRG02016,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG02016,A066,Amebic brain abscess
+DRG02016,A170,Tuberculous meningitis
+DRG02016,A171,Meningeal tuberculoma
+DRG02016,A1781,Tuberculoma of brain and spinal cord
+DRG02016,A1782,Tuberculous meningoencephalitis
+DRG02016,A1783,Tuberculous neuritis
+DRG02016,A1789,Other tuberculosis of nervous system
+DRG02016,A2781,Aseptic meningitis in leptospirosis
+DRG02016,A2789,Other forms of leptospirosis
+DRG02016,A5481,Gonococcal meningitis
+DRG02016,B375,Candidal meningitis
+DRG02016,B384,Coccidioidomycosis meningitis
+DRG02016,B582,Toxoplasma meningoencephalitis
+DRG02016,G000,Hemophilus meningitis
+DRG02016,G001,Pneumococcal meningitis
+DRG02016,G002,Streptococcal meningitis
+DRG02016,G003,Staphylococcal meningitis
+DRG02016,G008,Other bacterial meningitis
+DRG02016,G009,"Bacterial meningitis, unspecified"
+DRG02016,G030,Nonpyogenic meningitis
+DRG02016,G031,Chronic meningitis
+DRG02016,G039,"Meningitis, unspecified"
+DRG02016,G0400,"Acute disseminated encephalitis and encephalomyelitis, unspecified"
+DRG02016,G0401,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)
+DRG02016,G0402,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis"
+DRG02016,G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+DRG02016,G0432,Postimmunization acute necrotizing hemorrhagic encephalopathy
+DRG02016,G061,Intraspinal abscess and granuloma
+DRG02016,G062,"Extradural and subdural abscess, unspecified"
+DRG02016,F000001,Physical Therapy
+DRG02016,F000002,Occupational Therapy
+DRG02016,F000003,Communication Therapy

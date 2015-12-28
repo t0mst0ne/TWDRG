@@ -1,246 +1,246 @@
-,DRG,CM-PCS,en
-14038,DRG18606,A4852,Wound botulism
-14039,DRG18606,D100,Benign neoplasm of lip
-14040,DRG18606,D101,Benign neoplasm of tongue
-14041,DRG18606,D102,Benign neoplasm of floor of mouth
-14042,DRG18606,D1030,Benign neoplasm of unspecified part of mouth
-14043,DRG18606,D1039,Benign neoplasm of other parts of mouth
-14044,DRG18606,D165,Benign neoplasm of lower jaw bone
-14045,DRG18606,K000,Anodontia
-14046,DRG18606,K001,Supernumerary teeth
-14047,DRG18606,K002,Abnormalities of size and form of teeth
-14048,DRG18606,K003,Mottled teeth
-14049,DRG18606,K004,Disturbances in tooth formation
-14050,DRG18606,K005,"Hereditary disturbances in tooth structure, not elsewhere classified"
-14051,DRG18606,K006,Disturbances in tooth eruption
-14052,DRG18606,K007,Teething syndrome
-14053,DRG18606,K008,Other disorders of tooth development
-14054,DRG18606,K009,"Disorder of tooth development, unspecified"
-14055,DRG18606,K010,Embedded teeth
-14056,DRG18606,K011,Impacted teeth
-14057,DRG18606,K023,Arrested dental caries
-14058,DRG18606,K0251,Dental caries on pit and fissure surface limited to enamel
-14059,DRG18606,K0252,Dental caries on pit and fissure surface penetrating into dentin
-14060,DRG18606,K0253,Dental caries on pit and fissure surface penetrating into pulp
-14061,DRG18606,K0261,Dental caries on smooth surface limited to enamel
-14062,DRG18606,K0262,Dental caries on smooth surface penetrating into dentin
-14063,DRG18606,K0263,Dental caries on smooth surface penetrating into pulp
-14064,DRG18606,K027,Dental root caries
-14065,DRG18606,K029,"Dental caries, unspecified"
-14066,DRG18606,K030,Excessive attrition of teeth
-14067,DRG18606,K031,Abrasion of teeth
-14068,DRG18606,K032,Erosion of teeth
-14069,DRG18606,K033,Pathological resorption of teeth
-14070,DRG18606,K034,Hypercementosis
-14071,DRG18606,K035,Ankylosis of teeth
-14072,DRG18606,K036,Deposits [accretions] on teeth
-14073,DRG18606,K037,Posteruptive color changes of dental hard tissues
-14074,DRG18606,K0381,Cracked tooth
-14075,DRG18606,K0389,Other specified diseases of hard tissues of teeth
-14076,DRG18606,K039,"Disease of hard tissues of teeth, unspecified"
-14077,DRG18606,K040,Pulpitis
-14078,DRG18606,K041,Necrosis of pulp
-14079,DRG18606,K042,Pulp degeneration
-14080,DRG18606,K043,Abnormal hard tissue formation in pulp
-14081,DRG18606,K044,Acute apical periodontitis of pulpal origin
-14082,DRG18606,K045,Chronic apical periodontitis
-14083,DRG18606,K046,Periapical abscess with sinus
-14084,DRG18606,K047,Periapical abscess without sinus
-14085,DRG18606,K048,Radicular cyst
-14086,DRG18606,K0490,Unspecified diseases of pulp and periapical tissues
-14087,DRG18606,K0499,Other diseases of pulp and periapical tissues
-14088,DRG18606,K0500,"Acute gingivitis, plaque induced"
-14089,DRG18606,K0501,"Acute gingivitis, non-plaque induced"
-14090,DRG18606,K0510,"Chronic gingivitis, plaque induced"
-14091,DRG18606,K0511,"Chronic gingivitis, non-plaque induced"
-14092,DRG18606,K0520,"Aggressive periodontitis, unspecified"
-14093,DRG18606,K0521,"Aggressive periodontitis, localized"
-14094,DRG18606,K0522,"Aggressive periodontitis, generalized"
-14095,DRG18606,K0530,"Chronic periodontitis, unspecified"
-14096,DRG18606,K0531,"Chronic periodontitis, localized"
-14097,DRG18606,K0532,"Chronic periodontitis, generalized"
-14098,DRG18606,K054,Periodontosis
-14099,DRG18606,K055,Other periodontal diseases
-14100,DRG18606,K056,"Periodontal disease, unspecified"
-14101,DRG18606,K060,Gingival recession
-14102,DRG18606,K061,Gingival enlargement
-14103,DRG18606,K062,Gingival and edentulous alveolar ridge lesions associated with trauma
-14104,DRG18606,K068,Other specified disorders of gingiva and edentulous alveolar ridge
-14105,DRG18606,K069,"Disorder of gingiva and edentulous alveolar ridge, unspecified"
-14106,DRG18606,K080,Exfoliation of teeth due to systemic causes
-14107,DRG18606,K08101,"Complete loss of teeth, unspecified cause, class I"
-14108,DRG18606,K08102,"Complete loss of teeth, unspecified cause, class II"
-14109,DRG18606,K08103,"Complete loss of teeth, unspecified cause, class III"
-14110,DRG18606,K08104,"Complete loss of teeth, unspecified cause, class IV"
-14111,DRG18606,K08109,"Complete loss of teeth, unspecified cause, unspecified class"
-14112,DRG18606,K08111,"Complete loss of teeth due to trauma, class I"
-14113,DRG18606,K08112,"Complete loss of teeth due to trauma, class II"
-14114,DRG18606,K08113,"Complete loss of teeth due to trauma, class III"
-14115,DRG18606,K08114,"Complete loss of teeth due to trauma, class IV"
-14116,DRG18606,K08119,"Complete loss of teeth due to trauma, unspecified class"
-14117,DRG18606,K08121,"Complete loss of teeth due to periodontal diseases, class I"
-14118,DRG18606,K08122,"Complete loss of teeth due to periodontal diseases, class II"
-14119,DRG18606,K08123,"Complete loss of teeth due to periodontal diseases, class III"
-14120,DRG18606,K08124,"Complete loss of teeth due to periodontal diseases, class IV"
-14121,DRG18606,K08129,"Complete loss of teeth due to periodontal diseases, unspecified class"
-14122,DRG18606,K08131,"Complete loss of teeth due to caries, class I"
-14123,DRG18606,K08132,"Complete loss of teeth due to caries, class II"
-14124,DRG18606,K08133,"Complete loss of teeth due to caries, class III"
-14125,DRG18606,K08134,"Complete loss of teeth due to caries, class IV"
-14126,DRG18606,K08139,"Complete loss of teeth due to caries, unspecified class"
-14127,DRG18606,K08191,"Complete loss of teeth due to other specified cause, class I"
-14128,DRG18606,K08192,"Complete loss of teeth due to other specified cause, class II"
-14129,DRG18606,K08193,"Complete loss of teeth due to other specified cause, class III"
-14130,DRG18606,K08194,"Complete loss of teeth due to other specified cause, class IV"
-14131,DRG18606,K08199,"Complete loss of teeth due to other specified cause, unspecified class"
-14132,DRG18606,K0820,Unspecified atrophy of edentulous alveolar ridge
-14133,DRG18606,K0821,Minimal atrophy of the mandible
-14134,DRG18606,K0822,Moderate atrophy of the mandible
-14135,DRG18606,K0823,Severe atrophy of the mandible
-14136,DRG18606,K0824,Minimal atrophy of maxilla
-14137,DRG18606,K0825,Moderate atrophy of the maxilla
-14138,DRG18606,K0826,Severe atrophy of the maxilla
-14139,DRG18606,K083,Retained dental root
-14140,DRG18606,K08401,"Partial loss of teeth, unspecified cause, class I"
-14141,DRG18606,K08402,"Partial loss of teeth, unspecified cause, class II"
-14142,DRG18606,K08403,"Partial loss of teeth, unspecified cause, class III"
-14143,DRG18606,K08404,"Partial loss of teeth, unspecified cause, class IV"
-14144,DRG18606,K08409,"Partial loss of teeth, unspecified cause, unspecified class"
-14145,DRG18606,K08411,"Partial loss of teeth due to trauma, class I"
-14146,DRG18606,K08412,"Partial loss of teeth due to trauma, class II"
-14147,DRG18606,K08413,"Partial loss of teeth due to trauma, class III"
-14148,DRG18606,K08414,"Partial loss of teeth due to trauma, class IV"
-14149,DRG18606,K08419,"Partial loss of teeth due to trauma, unspecified class"
-14150,DRG18606,K08421,"Partial loss of teeth due to periodontal diseases, class I"
-14151,DRG18606,K08422,"Partial loss of teeth due to periodontal diseases, class II"
-14152,DRG18606,K08423,"Partial loss of teeth due to periodontal diseases, class III"
-14153,DRG18606,K08424,"Partial loss of teeth due to periodontal diseases, class IV"
-14154,DRG18606,K08429,"Partial loss of teeth due to periodontal diseases, unspecified class"
-14155,DRG18606,K08431,"Partial loss of teeth due to caries, class I"
-14156,DRG18606,K08432,"Partial loss of teeth due to caries, class II"
-14157,DRG18606,K08433,"Partial loss of teeth due to caries, class III"
-14158,DRG18606,K08434,"Partial loss of teeth due to caries, class IV"
-14159,DRG18606,K08439,"Partial loss of teeth due to caries, unspecified class"
-14160,DRG18606,K08491,"Partial loss of teeth due to other specified cause, class I"
-14161,DRG18606,K08492,"Partial loss of teeth due to other specified cause, class II"
-14162,DRG18606,K08493,"Partial loss of teeth due to other specified cause, class III"
-14163,DRG18606,K08494,"Partial loss of teeth due to other specified cause, class IV"
-14164,DRG18606,K08499,"Partial loss of teeth due to other specified cause, unspecified class"
-14165,DRG18606,K0850,"Unsatisfactory restoration of tooth, unspecified"
-14166,DRG18606,K0851,Open restoration margins of tooth
-14167,DRG18606,K0852,Unrepairable overhanging of dental restorative materials
-14168,DRG18606,K08530,Fractured dental restorative material without loss of material
-14169,DRG18606,K08531,Fractured dental restorative material with loss of material
-14170,DRG18606,K08539,"Fractured dental restorative material, unspecified"
-14171,DRG18606,K0854,Contour of existing restoration of tooth biologically incompatible with oral health
-14172,DRG18606,K0855,Allergy to existing dental restorative material
-14173,DRG18606,K0856,Poor aesthetic of existing restoration of tooth
-14174,DRG18606,K0859,Other unsatisfactory restoration of tooth
-14175,DRG18606,K088,Other specified disorders of teeth and supporting structures
-14176,DRG18606,K089,"Disorder of teeth and supporting structures, unspecified"
-14177,DRG18606,K090,Developmental odontogenic cysts
-14178,DRG18606,K091,Developmental (nonodontogenic) cysts of oral region
-14179,DRG18606,K098,"Other cysts of oral region, not elsewhere classified"
-14180,DRG18606,K099,"Cyst of oral region, unspecified"
-14181,DRG18606,K120,Recurrent oral aphthae
-14182,DRG18606,K121,Other forms of stomatitis
-14183,DRG18606,K122,Cellulitis and abscess of mouth
-14184,DRG18606,K1230,"Oral mucositis (ulcerative), unspecified"
-14185,DRG18606,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
-14186,DRG18606,K1232,Oral mucositis (ulcerative) due to other drugs
-14187,DRG18606,K1233,Oral mucositis (ulcerative) due to radiation
-14188,DRG18606,K1239,Other oral mucositis (ulcerative)
-14189,DRG18606,K130,Diseases of lips
-14190,DRG18606,K131,Cheek and lip biting
-14191,DRG18606,K1321,"Leukoplakia of oral mucosa, including tongue"
-14192,DRG18606,K1322,Minimal keratinized residual ridge mucosa
-14193,DRG18606,K1323,Excessive keratinized residual ridge mucosa
-14194,DRG18606,K1324,Leukokeratosis nicotina palati
-14195,DRG18606,K1329,"Other disturbances of oral epithelium, including tongue"
-14196,DRG18606,K133,Hairy leukoplakia
-14197,DRG18606,K134,Granuloma and granuloma-like lesions of oral mucosa
-14198,DRG18606,K135,Oral submucous fibrosis
-14199,DRG18606,K136,Irritative hyperplasia of oral mucosa
-14200,DRG18606,K1370,Unspecified lesions of oral mucosa
-14201,DRG18606,K1379,Other lesions of oral mucosa
-14202,DRG18606,K140,Glossitis
-14203,DRG18606,K141,Geographic tongue
-14204,DRG18606,K142,Median rhomboid glossitis
-14205,DRG18606,K143,Hypertrophy of tongue papillae
-14206,DRG18606,K144,Atrophy of tongue papillae
-14207,DRG18606,K145,Plicated tongue
-14208,DRG18606,K146,Glossodynia
-14209,DRG18606,K148,Other diseases of tongue
-14210,DRG18606,K149,"Disease of tongue, unspecified"
-14211,DRG18606,M270,Developmental disorders of jaws
-14212,DRG18606,M271,"Giant cell granuloma, central"
-14213,DRG18606,M272,Inflammatory conditions of jaws
-14214,DRG18606,M273,Alveolitis of jaws
-14215,DRG18606,M2740,Unspecified cyst of jaw
-14216,DRG18606,M2749,Other cysts of jaw
-14217,DRG18606,M2751,Perforation of root canal space due to endodontic treatment
-14218,DRG18606,M2752,Endodontic overfill
-14219,DRG18606,M2753,Endodontic underfill
-14220,DRG18606,M2759,Other periradicular pathology associated with previous endodontic treatment
-14221,DRG18606,M2761,Osseointegration failure of dental implant
-14222,DRG18606,M2762,Post-osseointegration biological failure of dental implant
-14223,DRG18606,M2763,Post-osseointegration mechanical failure of dental implant
-14224,DRG18606,M2769,Other endosseous dental implant failure
-14225,DRG18606,M278,Other specified diseases of jaws
-14226,DRG18606,M279,"Disease of jaws, unspecified"
-14227,DRG18606,Q186,Macrocheilia
-14228,DRG18606,Q187,Microcheilia
-14229,DRG18606,Q381,Ankyloglossia
-14230,DRG18606,Q382,Macroglossia
-14231,DRG18606,Q383,Other congenital malformations of tongue
-14232,DRG18606,R6884,Jaw pain
-14233,DRG18606,S01501A,"Unspecified open wound of lip, initial encounter"
-14234,DRG18606,S01502A,"Unspecified open wound of oral cavity, initial encounter"
-14235,DRG18606,S01511A,"Laceration without foreign body of lip, initial encounter"
-14236,DRG18606,S01512A,"Laceration without foreign body of oral cavity, initial encounter"
-14237,DRG18606,S01521A,"Laceration with foreign body of lip, initial encounter"
-14238,DRG18606,S01522A,"Laceration with foreign body of oral cavity, initial encounter"
-14239,DRG18606,S01531A,"Puncture wound without foreign body of lip, initial encounter"
-14240,DRG18606,S01532A,"Puncture wound without foreign body of oral cavity, initial encounter"
-14241,DRG18606,S01541A,"Puncture wound with foreign body of lip, initial encounter"
-14242,DRG18606,S01542A,"Puncture wound with foreign body of oral cavity, initial encounter"
-14243,DRG18606,S01551A,"Open bite of lip, initial encounter"
-14244,DRG18606,S01552A,"Open bite of oral cavity, initial encounter"
-14245,DRG18606,S02400A,"Malar fracture unspecified, initial encounter for closed fracture"
-14246,DRG18606,S02400B,"Malar fracture unspecified, initial encounter for open fracture"
-14247,DRG18606,S02401A,"Maxillary fracture, unspecified, initial encounter for closed fracture"
-14248,DRG18606,S02401B,"Maxillary fracture, unspecified, initial encounter for open fracture"
-14249,DRG18606,S02402A,"Zygomatic fracture, unspecified, initial encounter for closed fracture"
-14250,DRG18606,S02402B,"Zygomatic fracture, unspecified, initial encounter for open fracture"
-14251,DRG18606,S02411A,"LeFort I fracture, initial encounter for closed fracture"
-14252,DRG18606,S02411B,"LeFort I fracture, initial encounter for open fracture"
-14253,DRG18606,S02412A,"LeFort II fracture, initial encounter for closed fracture"
-14254,DRG18606,S02412B,"LeFort II fracture, initial encounter for open fracture"
-14255,DRG18606,S02413A,"LeFort III fracture, initial encounter for closed fracture"
-14256,DRG18606,S02413B,"LeFort III fracture, initial encounter for open fracture"
-14257,DRG18606,S025XXA,"Fracture of tooth (traumatic), initial encounter for closed fracture"
-14258,DRG18606,S025XXB,"Fracture of tooth (traumatic), initial encounter for open fracture"
-14259,DRG18606,S02600A,"Fracture of unspecified part of body of mandible, initial encounter for closed fracture"
-14260,DRG18606,S02600B,"Fracture of unspecified part of body of mandible, initial encounter for open fracture"
-14261,DRG18606,S02609A,"Fracture of mandible, unspecified, initial encounter for closed fracture"
-14262,DRG18606,S02609B,"Fracture of mandible, unspecified, initial encounter for open fracture"
-14263,DRG18606,S0261XA,"Fracture of condylar process of mandible, initial encounter for closed fracture"
-14264,DRG18606,S0261XB,"Fracture of condylar process of mandible, initial encounter for open fracture"
-14265,DRG18606,S0262XA,"Fracture of subcondylar process of mandible, initial encounter for closed fracture"
-14266,DRG18606,S0262XB,"Fracture of subcondylar process of mandible, initial encounter for open fracture"
-14267,DRG18606,S0263XA,"Fracture of coronoid process of mandible, initial encounter for closed fracture"
-14268,DRG18606,S0263XB,"Fracture of coronoid process of mandible, initial encounter for open fracture"
-14269,DRG18606,S0264XA,"Fracture of ramus of mandible, initial encounter for closed fracture"
-14270,DRG18606,S0264XB,"Fracture of ramus of mandible, initial encounter for open fracture"
-14271,DRG18606,S0265XA,"Fracture of angle of mandible, initial encounter for closed fracture"
-14272,DRG18606,S0265XB,"Fracture of angle of mandible, initial encounter for open fracture"
-14273,DRG18606,S0266XA,"Fracture of symphysis of mandible, initial encounter for closed fracture"
-14274,DRG18606,S0266XB,"Fracture of symphysis of mandible, initial encounter for open fracture"
-14275,DRG18606,S0267XA,"Fracture of alveolus of mandible, initial encounter for closed fracture"
-14276,DRG18606,S0267XB,"Fracture of alveolus of mandible, initial encounter for open fracture"
-14277,DRG18606,S0269XA,"Fracture of mandible of other specified site, initial encounter for closed fracture"
-14278,DRG18606,S0269XB,"Fracture of mandible of other specified site, initial encounter for open fracture"
-14279,DRG18606,S030XXA,"Dislocation of jaw, initial encounter"
-14280,DRG18606,S032XXA,"Dislocation of tooth, initial encounter"
-14281,DRG18606,S034XXA,"Sprain of jaw, initial encounter"
-14282,DRG18606,T180XXA,"Foreign body in mouth, initial encounter"
+DRG,CM-PCS,en
+DRG18606,A4852,Wound botulism
+DRG18606,D100,Benign neoplasm of lip
+DRG18606,D101,Benign neoplasm of tongue
+DRG18606,D102,Benign neoplasm of floor of mouth
+DRG18606,D1030,Benign neoplasm of unspecified part of mouth
+DRG18606,D1039,Benign neoplasm of other parts of mouth
+DRG18606,D165,Benign neoplasm of lower jaw bone
+DRG18606,K000,Anodontia
+DRG18606,K001,Supernumerary teeth
+DRG18606,K002,Abnormalities of size and form of teeth
+DRG18606,K003,Mottled teeth
+DRG18606,K004,Disturbances in tooth formation
+DRG18606,K005,"Hereditary disturbances in tooth structure, not elsewhere classified"
+DRG18606,K006,Disturbances in tooth eruption
+DRG18606,K007,Teething syndrome
+DRG18606,K008,Other disorders of tooth development
+DRG18606,K009,"Disorder of tooth development, unspecified"
+DRG18606,K010,Embedded teeth
+DRG18606,K011,Impacted teeth
+DRG18606,K023,Arrested dental caries
+DRG18606,K0251,Dental caries on pit and fissure surface limited to enamel
+DRG18606,K0252,Dental caries on pit and fissure surface penetrating into dentin
+DRG18606,K0253,Dental caries on pit and fissure surface penetrating into pulp
+DRG18606,K0261,Dental caries on smooth surface limited to enamel
+DRG18606,K0262,Dental caries on smooth surface penetrating into dentin
+DRG18606,K0263,Dental caries on smooth surface penetrating into pulp
+DRG18606,K027,Dental root caries
+DRG18606,K029,"Dental caries, unspecified"
+DRG18606,K030,Excessive attrition of teeth
+DRG18606,K031,Abrasion of teeth
+DRG18606,K032,Erosion of teeth
+DRG18606,K033,Pathological resorption of teeth
+DRG18606,K034,Hypercementosis
+DRG18606,K035,Ankylosis of teeth
+DRG18606,K036,Deposits [accretions] on teeth
+DRG18606,K037,Posteruptive color changes of dental hard tissues
+DRG18606,K0381,Cracked tooth
+DRG18606,K0389,Other specified diseases of hard tissues of teeth
+DRG18606,K039,"Disease of hard tissues of teeth, unspecified"
+DRG18606,K040,Pulpitis
+DRG18606,K041,Necrosis of pulp
+DRG18606,K042,Pulp degeneration
+DRG18606,K043,Abnormal hard tissue formation in pulp
+DRG18606,K044,Acute apical periodontitis of pulpal origin
+DRG18606,K045,Chronic apical periodontitis
+DRG18606,K046,Periapical abscess with sinus
+DRG18606,K047,Periapical abscess without sinus
+DRG18606,K048,Radicular cyst
+DRG18606,K0490,Unspecified diseases of pulp and periapical tissues
+DRG18606,K0499,Other diseases of pulp and periapical tissues
+DRG18606,K0500,"Acute gingivitis, plaque induced"
+DRG18606,K0501,"Acute gingivitis, non-plaque induced"
+DRG18606,K0510,"Chronic gingivitis, plaque induced"
+DRG18606,K0511,"Chronic gingivitis, non-plaque induced"
+DRG18606,K0520,"Aggressive periodontitis, unspecified"
+DRG18606,K0521,"Aggressive periodontitis, localized"
+DRG18606,K0522,"Aggressive periodontitis, generalized"
+DRG18606,K0530,"Chronic periodontitis, unspecified"
+DRG18606,K0531,"Chronic periodontitis, localized"
+DRG18606,K0532,"Chronic periodontitis, generalized"
+DRG18606,K054,Periodontosis
+DRG18606,K055,Other periodontal diseases
+DRG18606,K056,"Periodontal disease, unspecified"
+DRG18606,K060,Gingival recession
+DRG18606,K061,Gingival enlargement
+DRG18606,K062,Gingival and edentulous alveolar ridge lesions associated with trauma
+DRG18606,K068,Other specified disorders of gingiva and edentulous alveolar ridge
+DRG18606,K069,"Disorder of gingiva and edentulous alveolar ridge, unspecified"
+DRG18606,K080,Exfoliation of teeth due to systemic causes
+DRG18606,K08101,"Complete loss of teeth, unspecified cause, class I"
+DRG18606,K08102,"Complete loss of teeth, unspecified cause, class II"
+DRG18606,K08103,"Complete loss of teeth, unspecified cause, class III"
+DRG18606,K08104,"Complete loss of teeth, unspecified cause, class IV"
+DRG18606,K08109,"Complete loss of teeth, unspecified cause, unspecified class"
+DRG18606,K08111,"Complete loss of teeth due to trauma, class I"
+DRG18606,K08112,"Complete loss of teeth due to trauma, class II"
+DRG18606,K08113,"Complete loss of teeth due to trauma, class III"
+DRG18606,K08114,"Complete loss of teeth due to trauma, class IV"
+DRG18606,K08119,"Complete loss of teeth due to trauma, unspecified class"
+DRG18606,K08121,"Complete loss of teeth due to periodontal diseases, class I"
+DRG18606,K08122,"Complete loss of teeth due to periodontal diseases, class II"
+DRG18606,K08123,"Complete loss of teeth due to periodontal diseases, class III"
+DRG18606,K08124,"Complete loss of teeth due to periodontal diseases, class IV"
+DRG18606,K08129,"Complete loss of teeth due to periodontal diseases, unspecified class"
+DRG18606,K08131,"Complete loss of teeth due to caries, class I"
+DRG18606,K08132,"Complete loss of teeth due to caries, class II"
+DRG18606,K08133,"Complete loss of teeth due to caries, class III"
+DRG18606,K08134,"Complete loss of teeth due to caries, class IV"
+DRG18606,K08139,"Complete loss of teeth due to caries, unspecified class"
+DRG18606,K08191,"Complete loss of teeth due to other specified cause, class I"
+DRG18606,K08192,"Complete loss of teeth due to other specified cause, class II"
+DRG18606,K08193,"Complete loss of teeth due to other specified cause, class III"
+DRG18606,K08194,"Complete loss of teeth due to other specified cause, class IV"
+DRG18606,K08199,"Complete loss of teeth due to other specified cause, unspecified class"
+DRG18606,K0820,Unspecified atrophy of edentulous alveolar ridge
+DRG18606,K0821,Minimal atrophy of the mandible
+DRG18606,K0822,Moderate atrophy of the mandible
+DRG18606,K0823,Severe atrophy of the mandible
+DRG18606,K0824,Minimal atrophy of maxilla
+DRG18606,K0825,Moderate atrophy of the maxilla
+DRG18606,K0826,Severe atrophy of the maxilla
+DRG18606,K083,Retained dental root
+DRG18606,K08401,"Partial loss of teeth, unspecified cause, class I"
+DRG18606,K08402,"Partial loss of teeth, unspecified cause, class II"
+DRG18606,K08403,"Partial loss of teeth, unspecified cause, class III"
+DRG18606,K08404,"Partial loss of teeth, unspecified cause, class IV"
+DRG18606,K08409,"Partial loss of teeth, unspecified cause, unspecified class"
+DRG18606,K08411,"Partial loss of teeth due to trauma, class I"
+DRG18606,K08412,"Partial loss of teeth due to trauma, class II"
+DRG18606,K08413,"Partial loss of teeth due to trauma, class III"
+DRG18606,K08414,"Partial loss of teeth due to trauma, class IV"
+DRG18606,K08419,"Partial loss of teeth due to trauma, unspecified class"
+DRG18606,K08421,"Partial loss of teeth due to periodontal diseases, class I"
+DRG18606,K08422,"Partial loss of teeth due to periodontal diseases, class II"
+DRG18606,K08423,"Partial loss of teeth due to periodontal diseases, class III"
+DRG18606,K08424,"Partial loss of teeth due to periodontal diseases, class IV"
+DRG18606,K08429,"Partial loss of teeth due to periodontal diseases, unspecified class"
+DRG18606,K08431,"Partial loss of teeth due to caries, class I"
+DRG18606,K08432,"Partial loss of teeth due to caries, class II"
+DRG18606,K08433,"Partial loss of teeth due to caries, class III"
+DRG18606,K08434,"Partial loss of teeth due to caries, class IV"
+DRG18606,K08439,"Partial loss of teeth due to caries, unspecified class"
+DRG18606,K08491,"Partial loss of teeth due to other specified cause, class I"
+DRG18606,K08492,"Partial loss of teeth due to other specified cause, class II"
+DRG18606,K08493,"Partial loss of teeth due to other specified cause, class III"
+DRG18606,K08494,"Partial loss of teeth due to other specified cause, class IV"
+DRG18606,K08499,"Partial loss of teeth due to other specified cause, unspecified class"
+DRG18606,K0850,"Unsatisfactory restoration of tooth, unspecified"
+DRG18606,K0851,Open restoration margins of tooth
+DRG18606,K0852,Unrepairable overhanging of dental restorative materials
+DRG18606,K08530,Fractured dental restorative material without loss of material
+DRG18606,K08531,Fractured dental restorative material with loss of material
+DRG18606,K08539,"Fractured dental restorative material, unspecified"
+DRG18606,K0854,Contour of existing restoration of tooth biologically incompatible with oral health
+DRG18606,K0855,Allergy to existing dental restorative material
+DRG18606,K0856,Poor aesthetic of existing restoration of tooth
+DRG18606,K0859,Other unsatisfactory restoration of tooth
+DRG18606,K088,Other specified disorders of teeth and supporting structures
+DRG18606,K089,"Disorder of teeth and supporting structures, unspecified"
+DRG18606,K090,Developmental odontogenic cysts
+DRG18606,K091,Developmental (nonodontogenic) cysts of oral region
+DRG18606,K098,"Other cysts of oral region, not elsewhere classified"
+DRG18606,K099,"Cyst of oral region, unspecified"
+DRG18606,K120,Recurrent oral aphthae
+DRG18606,K121,Other forms of stomatitis
+DRG18606,K122,Cellulitis and abscess of mouth
+DRG18606,K1230,"Oral mucositis (ulcerative), unspecified"
+DRG18606,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+DRG18606,K1232,Oral mucositis (ulcerative) due to other drugs
+DRG18606,K1233,Oral mucositis (ulcerative) due to radiation
+DRG18606,K1239,Other oral mucositis (ulcerative)
+DRG18606,K130,Diseases of lips
+DRG18606,K131,Cheek and lip biting
+DRG18606,K1321,"Leukoplakia of oral mucosa, including tongue"
+DRG18606,K1322,Minimal keratinized residual ridge mucosa
+DRG18606,K1323,Excessive keratinized residual ridge mucosa
+DRG18606,K1324,Leukokeratosis nicotina palati
+DRG18606,K1329,"Other disturbances of oral epithelium, including tongue"
+DRG18606,K133,Hairy leukoplakia
+DRG18606,K134,Granuloma and granuloma-like lesions of oral mucosa
+DRG18606,K135,Oral submucous fibrosis
+DRG18606,K136,Irritative hyperplasia of oral mucosa
+DRG18606,K1370,Unspecified lesions of oral mucosa
+DRG18606,K1379,Other lesions of oral mucosa
+DRG18606,K140,Glossitis
+DRG18606,K141,Geographic tongue
+DRG18606,K142,Median rhomboid glossitis
+DRG18606,K143,Hypertrophy of tongue papillae
+DRG18606,K144,Atrophy of tongue papillae
+DRG18606,K145,Plicated tongue
+DRG18606,K146,Glossodynia
+DRG18606,K148,Other diseases of tongue
+DRG18606,K149,"Disease of tongue, unspecified"
+DRG18606,M270,Developmental disorders of jaws
+DRG18606,M271,"Giant cell granuloma, central"
+DRG18606,M272,Inflammatory conditions of jaws
+DRG18606,M273,Alveolitis of jaws
+DRG18606,M2740,Unspecified cyst of jaw
+DRG18606,M2749,Other cysts of jaw
+DRG18606,M2751,Perforation of root canal space due to endodontic treatment
+DRG18606,M2752,Endodontic overfill
+DRG18606,M2753,Endodontic underfill
+DRG18606,M2759,Other periradicular pathology associated with previous endodontic treatment
+DRG18606,M2761,Osseointegration failure of dental implant
+DRG18606,M2762,Post-osseointegration biological failure of dental implant
+DRG18606,M2763,Post-osseointegration mechanical failure of dental implant
+DRG18606,M2769,Other endosseous dental implant failure
+DRG18606,M278,Other specified diseases of jaws
+DRG18606,M279,"Disease of jaws, unspecified"
+DRG18606,Q186,Macrocheilia
+DRG18606,Q187,Microcheilia
+DRG18606,Q381,Ankyloglossia
+DRG18606,Q382,Macroglossia
+DRG18606,Q383,Other congenital malformations of tongue
+DRG18606,R6884,Jaw pain
+DRG18606,S01501A,"Unspecified open wound of lip, initial encounter"
+DRG18606,S01502A,"Unspecified open wound of oral cavity, initial encounter"
+DRG18606,S01511A,"Laceration without foreign body of lip, initial encounter"
+DRG18606,S01512A,"Laceration without foreign body of oral cavity, initial encounter"
+DRG18606,S01521A,"Laceration with foreign body of lip, initial encounter"
+DRG18606,S01522A,"Laceration with foreign body of oral cavity, initial encounter"
+DRG18606,S01531A,"Puncture wound without foreign body of lip, initial encounter"
+DRG18606,S01532A,"Puncture wound without foreign body of oral cavity, initial encounter"
+DRG18606,S01541A,"Puncture wound with foreign body of lip, initial encounter"
+DRG18606,S01542A,"Puncture wound with foreign body of oral cavity, initial encounter"
+DRG18606,S01551A,"Open bite of lip, initial encounter"
+DRG18606,S01552A,"Open bite of oral cavity, initial encounter"
+DRG18606,S02400A,"Malar fracture unspecified, initial encounter for closed fracture"
+DRG18606,S02400B,"Malar fracture unspecified, initial encounter for open fracture"
+DRG18606,S02401A,"Maxillary fracture, unspecified, initial encounter for closed fracture"
+DRG18606,S02401B,"Maxillary fracture, unspecified, initial encounter for open fracture"
+DRG18606,S02402A,"Zygomatic fracture, unspecified, initial encounter for closed fracture"
+DRG18606,S02402B,"Zygomatic fracture, unspecified, initial encounter for open fracture"
+DRG18606,S02411A,"LeFort I fracture, initial encounter for closed fracture"
+DRG18606,S02411B,"LeFort I fracture, initial encounter for open fracture"
+DRG18606,S02412A,"LeFort II fracture, initial encounter for closed fracture"
+DRG18606,S02412B,"LeFort II fracture, initial encounter for open fracture"
+DRG18606,S02413A,"LeFort III fracture, initial encounter for closed fracture"
+DRG18606,S02413B,"LeFort III fracture, initial encounter for open fracture"
+DRG18606,S025XXA,"Fracture of tooth (traumatic), initial encounter for closed fracture"
+DRG18606,S025XXB,"Fracture of tooth (traumatic), initial encounter for open fracture"
+DRG18606,S02600A,"Fracture of unspecified part of body of mandible, initial encounter for closed fracture"
+DRG18606,S02600B,"Fracture of unspecified part of body of mandible, initial encounter for open fracture"
+DRG18606,S02609A,"Fracture of mandible, unspecified, initial encounter for closed fracture"
+DRG18606,S02609B,"Fracture of mandible, unspecified, initial encounter for open fracture"
+DRG18606,S0261XA,"Fracture of condylar process of mandible, initial encounter for closed fracture"
+DRG18606,S0261XB,"Fracture of condylar process of mandible, initial encounter for open fracture"
+DRG18606,S0262XA,"Fracture of subcondylar process of mandible, initial encounter for closed fracture"
+DRG18606,S0262XB,"Fracture of subcondylar process of mandible, initial encounter for open fracture"
+DRG18606,S0263XA,"Fracture of coronoid process of mandible, initial encounter for closed fracture"
+DRG18606,S0263XB,"Fracture of coronoid process of mandible, initial encounter for open fracture"
+DRG18606,S0264XA,"Fracture of ramus of mandible, initial encounter for closed fracture"
+DRG18606,S0264XB,"Fracture of ramus of mandible, initial encounter for open fracture"
+DRG18606,S0265XA,"Fracture of angle of mandible, initial encounter for closed fracture"
+DRG18606,S0265XB,"Fracture of angle of mandible, initial encounter for open fracture"
+DRG18606,S0266XA,"Fracture of symphysis of mandible, initial encounter for closed fracture"
+DRG18606,S0266XB,"Fracture of symphysis of mandible, initial encounter for open fracture"
+DRG18606,S0267XA,"Fracture of alveolus of mandible, initial encounter for closed fracture"
+DRG18606,S0267XB,"Fracture of alveolus of mandible, initial encounter for open fracture"
+DRG18606,S0269XA,"Fracture of mandible of other specified site, initial encounter for closed fracture"
+DRG18606,S0269XB,"Fracture of mandible of other specified site, initial encounter for open fracture"
+DRG18606,S030XXA,"Dislocation of jaw, initial encounter"
+DRG18606,S032XXA,"Dislocation of tooth, initial encounter"
+DRG18606,S034XXA,"Sprain of jaw, initial encounter"
+DRG18606,T180XXA,"Foreign body in mouth, initial encounter"

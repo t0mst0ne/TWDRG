@@ -1,30 +1,30 @@
-,DRG,CM-PCS,en
-6444,DRG09702,A3700,Whooping cough due to Bordetella pertussis without pneumonia
-6445,DRG09702,A3701,Whooping cough due to Bordetella pertussis with pneumonia
-6446,DRG09702,A3710,Whooping cough due to Bordetella parapertussis without pneumonia
-6447,DRG09702,A3711,Whooping cough due to Bordetella parapertussis with pneumonia
-6448,DRG09702,A3780,Whooping cough due to other Bordetella species without pneumonia
-6449,DRG09702,A3781,Whooping cough due to other Bordetella species with pneumonia
-6450,DRG09702,A3790,"Whooping cough, unspecified species without pneumonia"
-6451,DRG09702,J0410,Acute tracheitis without obstruction
-6452,DRG09702,J0411,Acute tracheitis with obstruction
-6453,DRG09702,J200,Acute bronchitis due to Mycoplasma pneumoniae
-6454,DRG09702,J201,Acute bronchitis due to Hemophilus influenzae
-6455,DRG09702,J202,Acute bronchitis due to streptococcus
-6456,DRG09702,J203,Acute bronchitis due to coxsackievirus
-6457,DRG09702,J204,Acute bronchitis due to parainfluenza virus
-6458,DRG09702,J205,Acute bronchitis due to respiratory syncytial virus
-6459,DRG09702,J206,Acute bronchitis due to rhinovirus
-6460,DRG09702,J207,Acute bronchitis due to echovirus
-6461,DRG09702,J208,Acute bronchitis due to other specified organisms
-6462,DRG09702,J209,"Acute bronchitis, unspecified"
-6463,DRG09702,J210,Acute bronchiolitis due to respiratory syncytial virus
-6464,DRG09702,J211,Acute bronchiolitis due to human metapneumovirus
-6465,DRG09702,J218,Acute bronchiolitis due to other specified organisms
-6466,DRG09702,J219,"Acute bronchiolitis, unspecified"
-6467,DRG09702,J398,Other specified diseases of upper respiratory tract
-6468,DRG09702,J40,"Bronchitis, not specified as acute or chronic"
-6469,DRG09702,J410,Simple chronic bronchitis
-6470,DRG09702,J45990,Exercise induced bronchospasm
-6471,DRG09702,J9801,Acute bronchospasm
-6472,DRG09702,J9809,"Other diseases of bronchus, not elsewhere classified"
+DRG,CM-PCS,en
+DRG09702,A3700,Whooping cough due to Bordetella pertussis without pneumonia
+DRG09702,A3701,Whooping cough due to Bordetella pertussis with pneumonia
+DRG09702,A3710,Whooping cough due to Bordetella parapertussis without pneumonia
+DRG09702,A3711,Whooping cough due to Bordetella parapertussis with pneumonia
+DRG09702,A3780,Whooping cough due to other Bordetella species without pneumonia
+DRG09702,A3781,Whooping cough due to other Bordetella species with pneumonia
+DRG09702,A3790,"Whooping cough, unspecified species without pneumonia"
+DRG09702,J0410,Acute tracheitis without obstruction
+DRG09702,J0411,Acute tracheitis with obstruction
+DRG09702,J200,Acute bronchitis due to Mycoplasma pneumoniae
+DRG09702,J201,Acute bronchitis due to Hemophilus influenzae
+DRG09702,J202,Acute bronchitis due to streptococcus
+DRG09702,J203,Acute bronchitis due to coxsackievirus
+DRG09702,J204,Acute bronchitis due to parainfluenza virus
+DRG09702,J205,Acute bronchitis due to respiratory syncytial virus
+DRG09702,J206,Acute bronchitis due to rhinovirus
+DRG09702,J207,Acute bronchitis due to echovirus
+DRG09702,J208,Acute bronchitis due to other specified organisms
+DRG09702,J209,"Acute bronchitis, unspecified"
+DRG09702,J210,Acute bronchiolitis due to respiratory syncytial virus
+DRG09702,J211,Acute bronchiolitis due to human metapneumovirus
+DRG09702,J218,Acute bronchiolitis due to other specified organisms
+DRG09702,J219,"Acute bronchiolitis, unspecified"
+DRG09702,J398,Other specified diseases of upper respiratory tract
+DRG09702,J40,"Bronchitis, not specified as acute or chronic"
+DRG09702,J410,Simple chronic bronchitis
+DRG09702,J45990,Exercise induced bronchospasm
+DRG09702,J9801,Acute bronchospasm
+DRG09702,J9809,"Other diseases of bronchus, not elsewhere classified"

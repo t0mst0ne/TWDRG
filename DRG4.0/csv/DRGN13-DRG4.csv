@@ -1,4 +1,4 @@
-,DRG,CM-PCS,en
-270,N13,P0508,"Newborn light for gestational age, 2000-2499 grams"
-271,N13,P0518,"Newborn small for gestational age, 2000-2499 grams"
-272,N13,P0718,"Other low birth weight newborn, 2000-2499 grams"
+DRG,CM-PCS,en
+N13,P0508,"Newborn light for gestational age, 2000-2499 grams"
+N13,P0518,"Newborn small for gestational age, 2000-2499 grams"
+N13,P0718,"Other low birth weight newborn, 2000-2499 grams"

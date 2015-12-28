@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-1971,DRG00198,0F540ZZ,"Destruction of Gallbladder, Open Approach"
-1972,DRG00198,0F543ZZ,"Destruction of Gallbladder, Percutaneous Approach"
-1973,DRG00198,0FB40ZZ,"Excision of Gallbladder, Open Approach"
-1974,DRG00198,0FB43ZZ,"Excision of Gallbladder, Percutaneous Approach"
-1975,DRG00198,0FT40ZZ,"Resection of Gallbladder, Open Approach"
+DRG,CM-PCS,en
+DRG00198,0F540ZZ,"Destruction of Gallbladder, Open Approach"
+DRG00198,0F543ZZ,"Destruction of Gallbladder, Percutaneous Approach"
+DRG00198,0FB40ZZ,"Excision of Gallbladder, Open Approach"
+DRG00198,0FB43ZZ,"Excision of Gallbladder, Percutaneous Approach"
+DRG00198,0FT40ZZ,"Resection of Gallbladder, Open Approach"

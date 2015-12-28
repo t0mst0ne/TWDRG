@@ -1,3 +1,3 @@
-,DRG,CM-PCS,en
-37255,DRG12713,R570,Cardiogenic shock
-37256,DRG12713,R579,"Shock, unspecified"
+DRG,CM-PCS,en
+DRG12713,R570,Cardiogenic shock
+DRG12713,R579,"Shock, unspecified"

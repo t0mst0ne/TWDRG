@@ -1,8 +1,8 @@
-,DRG,CM-PCS,en
-45184,DRG00917,G8251,"Quadriplegia, C1-C4 complete"
-45185,DRG00917,G8252,"Quadriplegia, C1-C4 incomplete"
-45186,DRG00917,G8253,"Quadriplegia, C5-C7 complete"
-45187,DRG00917,G8254,"Quadriplegia, C5-C7 incomplete"
-45190,DRG00917,F000001,Physical Therapy
-45191,DRG00917,F000002,Occupational Therapy
-45192,DRG00917,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG00917,G8251,"Quadriplegia, C1-C4 complete"
+DRG00917,G8252,"Quadriplegia, C1-C4 incomplete"
+DRG00917,G8253,"Quadriplegia, C5-C7 complete"
+DRG00917,G8254,"Quadriplegia, C5-C7 incomplete"
+DRG00917,F000001,Physical Therapy
+DRG00917,F000002,Occupational Therapy
+DRG00917,F000003,Communication Therapy

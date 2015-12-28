@@ -1,46 +1,46 @@
-,DRG,CM-PCS,en
-1529,DRG26201,0H5T0ZZ,"Destruction of Right Breast, Open Approach"
-1530,DRG26201,0H5T3ZZ,"Destruction of Right Breast, Percutaneous Approach"
-1531,DRG26201,0H5T7ZZ,"Destruction of Right Breast, Via Natural or Artificial Opening"
-1532,DRG26201,0H5T8ZZ,"Destruction of Right Breast, Via Natural or Artificial Opening Endoscopic"
-1533,DRG26201,0H5TXZZ,"Destruction of Right Breast, External Approach"
-1534,DRG26201,0H5U0ZZ,"Destruction of Left Breast, Open Approach"
-1535,DRG26201,0H5U3ZZ,"Destruction of Left Breast, Percutaneous Approach"
-1536,DRG26201,0H5U7ZZ,"Destruction of Left Breast, Via Natural or Artificial Opening"
-1537,DRG26201,0H5U8ZZ,"Destruction of Left Breast, Via Natural or Artificial Opening Endoscopic"
-1538,DRG26201,0H5UXZZ,"Destruction of Left Breast, External Approach"
-1539,DRG26201,0H5V0ZZ,"Destruction of Bilateral Breast, Open Approach"
-1540,DRG26201,0H5V3ZZ,"Destruction of Bilateral Breast, Percutaneous Approach"
-1541,DRG26201,0H5V7ZZ,"Destruction of Bilateral Breast, Via Natural or Artificial Opening"
-1542,DRG26201,0H5V8ZZ,"Destruction of Bilateral Breast, Via Natural or Artificial Opening Endoscopic"
-1543,DRG26201,0H5VXZZ,"Destruction of Bilateral Breast, External Approach"
-1544,DRG26201,0H9T0ZX,"Drainage of Right Breast, Open Approach, Diagnostic"
-1545,DRG26201,0H9U0ZX,"Drainage of Left Breast, Open Approach, Diagnostic"
-1546,DRG26201,0H9V0ZX,"Drainage of Bilateral Breast, Open Approach, Diagnostic"
-1547,DRG26201,0H9W0ZX,"Drainage of Right Nipple, Open Approach, Diagnostic"
-1548,DRG26201,0H9X0ZX,"Drainage of Left Nipple, Open Approach, Diagnostic"
-1549,DRG26201,0HBT0ZX,"Excision of Right Breast, Open Approach, Diagnostic"
-1550,DRG26201,0HBT7ZZ,"Excision of Right Breast, Via Natural or Artificial Opening"
-1551,DRG26201,0HBT8ZZ,"Excision of Right Breast, Via Natural or Artificial Opening Endoscopic"
-1552,DRG26201,0HBTXZZ,"Excision of Right Breast, External Approach"
-1553,DRG26201,0HBU0ZX,"Excision of Left Breast, Open Approach, Diagnostic"
-1554,DRG26201,0HBU7ZZ,"Excision of Left Breast, Via Natural or Artificial Opening"
-1555,DRG26201,0HBU8ZZ,"Excision of Left Breast, Via Natural or Artificial Opening Endoscopic"
-1556,DRG26201,0HBUXZZ,"Excision of Left Breast, External Approach"
-1557,DRG26201,0HBV0ZX,"Excision of Bilateral Breast, Open Approach, Diagnostic"
-1558,DRG26201,0HBV7ZZ,"Excision of Bilateral Breast, Via Natural or Artificial Opening"
-1559,DRG26201,0HBV8ZZ,"Excision of Bilateral Breast, Via Natural or Artificial Opening Endoscopic"
-1560,DRG26201,0HBVXZZ,"Excision of Bilateral Breast, External Approach"
-1561,DRG26201,0HBW0ZX,"Excision of Right Nipple, Open Approach, Diagnostic"
-1562,DRG26201,0HBX0ZX,"Excision of Left Nipple, Open Approach, Diagnostic"
-1563,DRG26201,0HBY0ZX,"Excision of Supernumerary Breast, Open Approach, Diagnostic"
-1564,DRG26201,DBY0KZZ,Laser Interstitial Thermal Therapy of Trachea
-1565,DRG26201,DBY1KZZ,Laser Interstitial Thermal Therapy of Bronchus
-1566,DRG26201,DBY2KZZ,Laser Interstitial Thermal Therapy of Lung
-1567,DRG26201,DBY5KZZ,Laser Interstitial Thermal Therapy of Pleura
-1568,DRG26201,DBY6KZZ,Laser Interstitial Thermal Therapy of Mediastinum
-1569,DRG26201,DBY7KZZ,Laser Interstitial Thermal Therapy of Chest Wall
-1570,DRG26201,DBY8KZZ,Laser Interstitial Thermal Therapy of Diaphragm
-1571,DRG26201,DMY0KZZ,Laser Interstitial Thermal Therapy of Left Breast
-1572,DRG26201,DMY1KZZ,Laser Interstitial Thermal Therapy of Right Breast
-1573,DRG26201,DVY0KZZ,Laser Interstitial Thermal Therapy of Prostate
+DRG,CM-PCS,en
+DRG26201,0H5T0ZZ,"Destruction of Right Breast, Open Approach"
+DRG26201,0H5T3ZZ,"Destruction of Right Breast, Percutaneous Approach"
+DRG26201,0H5T7ZZ,"Destruction of Right Breast, Via Natural or Artificial Opening"
+DRG26201,0H5T8ZZ,"Destruction of Right Breast, Via Natural or Artificial Opening Endoscopic"
+DRG26201,0H5TXZZ,"Destruction of Right Breast, External Approach"
+DRG26201,0H5U0ZZ,"Destruction of Left Breast, Open Approach"
+DRG26201,0H5U3ZZ,"Destruction of Left Breast, Percutaneous Approach"
+DRG26201,0H5U7ZZ,"Destruction of Left Breast, Via Natural or Artificial Opening"
+DRG26201,0H5U8ZZ,"Destruction of Left Breast, Via Natural or Artificial Opening Endoscopic"
+DRG26201,0H5UXZZ,"Destruction of Left Breast, External Approach"
+DRG26201,0H5V0ZZ,"Destruction of Bilateral Breast, Open Approach"
+DRG26201,0H5V3ZZ,"Destruction of Bilateral Breast, Percutaneous Approach"
+DRG26201,0H5V7ZZ,"Destruction of Bilateral Breast, Via Natural or Artificial Opening"
+DRG26201,0H5V8ZZ,"Destruction of Bilateral Breast, Via Natural or Artificial Opening Endoscopic"
+DRG26201,0H5VXZZ,"Destruction of Bilateral Breast, External Approach"
+DRG26201,0H9T0ZX,"Drainage of Right Breast, Open Approach, Diagnostic"
+DRG26201,0H9U0ZX,"Drainage of Left Breast, Open Approach, Diagnostic"
+DRG26201,0H9V0ZX,"Drainage of Bilateral Breast, Open Approach, Diagnostic"
+DRG26201,0H9W0ZX,"Drainage of Right Nipple, Open Approach, Diagnostic"
+DRG26201,0H9X0ZX,"Drainage of Left Nipple, Open Approach, Diagnostic"
+DRG26201,0HBT0ZX,"Excision of Right Breast, Open Approach, Diagnostic"
+DRG26201,0HBT7ZZ,"Excision of Right Breast, Via Natural or Artificial Opening"
+DRG26201,0HBT8ZZ,"Excision of Right Breast, Via Natural or Artificial Opening Endoscopic"
+DRG26201,0HBTXZZ,"Excision of Right Breast, External Approach"
+DRG26201,0HBU0ZX,"Excision of Left Breast, Open Approach, Diagnostic"
+DRG26201,0HBU7ZZ,"Excision of Left Breast, Via Natural or Artificial Opening"
+DRG26201,0HBU8ZZ,"Excision of Left Breast, Via Natural or Artificial Opening Endoscopic"
+DRG26201,0HBUXZZ,"Excision of Left Breast, External Approach"
+DRG26201,0HBV0ZX,"Excision of Bilateral Breast, Open Approach, Diagnostic"
+DRG26201,0HBV7ZZ,"Excision of Bilateral Breast, Via Natural or Artificial Opening"
+DRG26201,0HBV8ZZ,"Excision of Bilateral Breast, Via Natural or Artificial Opening Endoscopic"
+DRG26201,0HBVXZZ,"Excision of Bilateral Breast, External Approach"
+DRG26201,0HBW0ZX,"Excision of Right Nipple, Open Approach, Diagnostic"
+DRG26201,0HBX0ZX,"Excision of Left Nipple, Open Approach, Diagnostic"
+DRG26201,0HBY0ZX,"Excision of Supernumerary Breast, Open Approach, Diagnostic"
+DRG26201,DBY0KZZ,Laser Interstitial Thermal Therapy of Trachea
+DRG26201,DBY1KZZ,Laser Interstitial Thermal Therapy of Bronchus
+DRG26201,DBY2KZZ,Laser Interstitial Thermal Therapy of Lung
+DRG26201,DBY5KZZ,Laser Interstitial Thermal Therapy of Pleura
+DRG26201,DBY6KZZ,Laser Interstitial Thermal Therapy of Mediastinum
+DRG26201,DBY7KZZ,Laser Interstitial Thermal Therapy of Chest Wall
+DRG26201,DBY8KZZ,Laser Interstitial Thermal Therapy of Diaphragm
+DRG26201,DMY0KZZ,Laser Interstitial Thermal Therapy of Left Breast
+DRG26201,DMY1KZZ,Laser Interstitial Thermal Therapy of Right Breast
+DRG26201,DVY0KZZ,Laser Interstitial Thermal Therapy of Prostate

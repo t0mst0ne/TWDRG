@@ -1,35 +1,35 @@
-,DRG,CM-PCS,en
-47673,DRG01505,G450,Vertebro-basilar artery syndrome
-47674,DRG01505,G451,Carotid artery syndrome (hemispheric)
-47675,DRG01505,G452,Multiple and bilateral precerebral artery syndromes
-47676,DRG01505,G458,Other transient cerebral ischemic attacks and related syndromes
-47677,DRG01505,G459,"Transient cerebral ischemic attack, unspecified"
-47678,DRG01505,G460,Middle cerebral artery syndrome
-47679,DRG01505,G461,Anterior cerebral artery syndrome
-47680,DRG01505,G462,Posterior cerebral artery syndrome
-47681,DRG01505,I67841,Reversible cerebrovascular vasoconstriction syndrome
-47682,DRG01505,I67848,Other cerebrovascular vasospasm and vasoconstriction
-47685,DRG01505,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
-47686,DRG01505,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
-47687,DRG01505,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
-47688,DRG01505,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
-47689,DRG01505,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
-47690,DRG01505,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
-47691,DRG01505,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
-47692,DRG01505,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
-47693,DRG01505,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
-47694,DRG01505,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
-47695,DRG01505,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
-47696,DRG01505,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
-47697,DRG01505,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
-47698,DRG01505,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
-47699,DRG01505,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47700,DRG01505,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-47701,DRG01505,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-47702,DRG01505,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-47703,DRG01505,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-47704,DRG01505,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47705,DRG01505,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47708,DRG01505,F000001,Physical Therapy
-47709,DRG01505,F000002,Occupational Therapy
-47710,DRG01505,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG01505,G450,Vertebro-basilar artery syndrome
+DRG01505,G451,Carotid artery syndrome (hemispheric)
+DRG01505,G452,Multiple and bilateral precerebral artery syndromes
+DRG01505,G458,Other transient cerebral ischemic attacks and related syndromes
+DRG01505,G459,"Transient cerebral ischemic attack, unspecified"
+DRG01505,G460,Middle cerebral artery syndrome
+DRG01505,G461,Anterior cerebral artery syndrome
+DRG01505,G462,Posterior cerebral artery syndrome
+DRG01505,I67841,Reversible cerebrovascular vasoconstriction syndrome
+DRG01505,I67848,Other cerebrovascular vasospasm and vasoconstriction
+DRG01505,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01505,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01505,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01505,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01505,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01505,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01505,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01505,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01505,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01505,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01505,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01505,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01505,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01505,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01505,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01505,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01505,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01505,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01505,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01505,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01505,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01505,F000001,Physical Therapy
+DRG01505,F000002,Occupational Therapy
+DRG01505,F000003,Communication Therapy

@@ -1,21 +1,21 @@
-,DRG,CM-PCS,en
-11204,DRG33304,N020,Recurrent and persistent hematuria with minor glomerular abnormality
-11205,DRG33304,N021,Recurrent and persistent hematuria with focal and segmental glomerular lesions
-11206,DRG33304,N022,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis
-11207,DRG33304,N023,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis
-11208,DRG33304,N024,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis
-11209,DRG33304,N025,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis
-11210,DRG33304,N026,Recurrent and persistent hematuria with dense deposit disease
-11211,DRG33304,N027,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis
-11212,DRG33304,N028,Recurrent and persistent hematuria with other morphologic changes
-11213,DRG33304,N029,Recurrent and persistent hematuria with unspecified morphologic changes
-11214,DRG33304,N040,Nephrotic syndrome with minor glomerular abnormality
-11215,DRG33304,N041,Nephrotic syndrome with focal and segmental glomerular lesions
-11216,DRG33304,N042,Nephrotic syndrome with diffuse membranous glomerulonephritis
-11217,DRG33304,N043,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis
-11218,DRG33304,N044,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis
-11219,DRG33304,N045,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis
-11220,DRG33304,N046,Nephrotic syndrome with dense deposit disease
-11221,DRG33304,N047,Nephrotic syndrome with diffuse crescentic glomerulonephritis
-11222,DRG33304,N048,Nephrotic syndrome with other morphologic changes
-11223,DRG33304,N049,Nephrotic syndrome with unspecified morphologic changes
+DRG,CM-PCS,en
+DRG33304,N020,Recurrent and persistent hematuria with minor glomerular abnormality
+DRG33304,N021,Recurrent and persistent hematuria with focal and segmental glomerular lesions
+DRG33304,N022,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis
+DRG33304,N023,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis
+DRG33304,N024,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis
+DRG33304,N025,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis
+DRG33304,N026,Recurrent and persistent hematuria with dense deposit disease
+DRG33304,N027,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis
+DRG33304,N028,Recurrent and persistent hematuria with other morphologic changes
+DRG33304,N029,Recurrent and persistent hematuria with unspecified morphologic changes
+DRG33304,N040,Nephrotic syndrome with minor glomerular abnormality
+DRG33304,N041,Nephrotic syndrome with focal and segmental glomerular lesions
+DRG33304,N042,Nephrotic syndrome with diffuse membranous glomerulonephritis
+DRG33304,N043,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis
+DRG33304,N044,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis
+DRG33304,N045,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis
+DRG33304,N046,Nephrotic syndrome with dense deposit disease
+DRG33304,N047,Nephrotic syndrome with diffuse crescentic glomerulonephritis
+DRG33304,N048,Nephrotic syndrome with other morphologic changes
+DRG33304,N049,Nephrotic syndrome with unspecified morphologic changes

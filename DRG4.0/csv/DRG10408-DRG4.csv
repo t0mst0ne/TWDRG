@@ -1,92 +1,92 @@
-,DRG,CM-PCS,en
-12736,DRG10408,02H40KZ,"Insertion of Defibrillator Lead into Coronary Vein, Open Approach"
-12737,DRG10408,02H43KZ,"Insertion of Defibrillator Lead into Coronary Vein, Percutaneous Approach"
-12738,DRG10408,02H44KZ,"Insertion of Defibrillator Lead into Coronary Vein, Percutaneous Endoscopic Approach"
-12739,DRG10408,02H60KZ,"Insertion of Defibrillator Lead into Right Atrium, Open Approach"
-12740,DRG10408,02H63KZ,"Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach"
-12741,DRG10408,02H64KZ,"Insertion of Defibrillator Lead into Right Atrium, Percutaneous Endoscopic Approach"
-12742,DRG10408,02H70KZ,"Insertion of Defibrillator Lead into Left Atrium, Open Approach"
-12743,DRG10408,02H73KZ,"Insertion of Defibrillator Lead into Left Atrium, Percutaneous Approach"
-12744,DRG10408,02H74KZ,"Insertion of Defibrillator Lead into Left Atrium, Percutaneous Endoscopic Approach"
-12745,DRG10408,02HK0KZ,"Insertion of Defibrillator Lead into Right Ventricle, Open Approach"
-12746,DRG10408,02HK3KZ,"Insertion of Defibrillator Lead into Right Ventricle, Percutaneous Approach"
-12747,DRG10408,02HK4KZ,"Insertion of Defibrillator Lead into Right Ventricle, Percutaneous Endoscopic Approach"
-12748,DRG10408,02HL0KZ,"Insertion of Defibrillator Lead into Left Ventricle, Open Approach"
-12749,DRG10408,02HL3KZ,"Insertion of Defibrillator Lead into Left Ventricle, Percutaneous Approach"
-12750,DRG10408,02HL4KZ,"Insertion of Defibrillator Lead into Left Ventricle, Percutaneous Endoscopic Approach"
-12751,DRG10408,02HN0KZ,"Insertion of Defibrillator Lead into Pericardium, Open Approach"
-12752,DRG10408,02HN3KZ,"Insertion of Defibrillator Lead into Pericardium, Percutaneous Approach"
-12753,DRG10408,02HN4KZ,"Insertion of Defibrillator Lead into Pericardium, Percutaneous Endoscopic Approach"
-12756,DRG10408,0JH608Z,"Insertion of Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Open Approach"
-12757,DRG10408,0JH638Z,"Insertion of Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
-12758,DRG10408,0JH808Z,"Insertion of Defibrillator Generator into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
-12759,DRG10408,0JH838Z,"Insertion of Defibrillator Generator into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
-12762,DRG10408,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
-12763,DRG10408,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
-12764,DRG10408,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
-12765,DRG10408,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
-12766,DRG10408,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
-12767,DRG10408,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
-12768,DRG10408,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
-12769,DRG10408,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
-12770,DRG10408,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
-12771,DRG10408,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
-12772,DRG10408,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
-12773,DRG10408,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
-12774,DRG10408,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
-12775,DRG10408,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
-12776,DRG10408,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
-12777,DRG10408,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
-12778,DRG10408,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
-12779,DRG10408,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
-12780,DRG10408,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
-12781,DRG10408,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
-12782,DRG10408,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
-12783,DRG10408,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
-12784,DRG10408,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
-12785,DRG10408,B204YZZ,Plain Radiography of Right Heart using Other Contrast
-12786,DRG10408,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
-12787,DRG10408,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
-12788,DRG10408,B205YZZ,Plain Radiography of Left Heart using Other Contrast
-12789,DRG10408,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
-12790,DRG10408,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
-12791,DRG10408,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
-12792,DRG10408,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
-12793,DRG10408,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
-12794,DRG10408,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
-12795,DRG10408,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
-12796,DRG10408,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
-12797,DRG10408,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
-12798,DRG10408,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
-12799,DRG10408,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
-12800,DRG10408,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
-12801,DRG10408,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
-12802,DRG10408,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
-12803,DRG10408,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
-12804,DRG10408,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
-12805,DRG10408,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
-12806,DRG10408,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
-12807,DRG10408,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
-12808,DRG10408,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
-12809,DRG10408,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
-12810,DRG10408,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
-12811,DRG10408,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
-12812,DRG10408,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
-12813,DRG10408,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
-12814,DRG10408,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
-12815,DRG10408,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
-12816,DRG10408,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
-12817,DRG10408,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
-12818,DRG10408,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
-12819,DRG10408,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
-12820,DRG10408,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
-12821,DRG10408,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
-12822,DRG10408,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
-12823,DRG10408,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
-12824,DRG10408,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
-12825,DRG10408,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
-12826,DRG10408,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
-12827,DRG10408,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
-12828,DRG10408,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
-12829,DRG10408,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
-12830,DRG10408,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast
+DRG,CM-PCS,en
+DRG10408,02H40KZ,"Insertion of Defibrillator Lead into Coronary Vein, Open Approach"
+DRG10408,02H43KZ,"Insertion of Defibrillator Lead into Coronary Vein, Percutaneous Approach"
+DRG10408,02H44KZ,"Insertion of Defibrillator Lead into Coronary Vein, Percutaneous Endoscopic Approach"
+DRG10408,02H60KZ,"Insertion of Defibrillator Lead into Right Atrium, Open Approach"
+DRG10408,02H63KZ,"Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach"
+DRG10408,02H64KZ,"Insertion of Defibrillator Lead into Right Atrium, Percutaneous Endoscopic Approach"
+DRG10408,02H70KZ,"Insertion of Defibrillator Lead into Left Atrium, Open Approach"
+DRG10408,02H73KZ,"Insertion of Defibrillator Lead into Left Atrium, Percutaneous Approach"
+DRG10408,02H74KZ,"Insertion of Defibrillator Lead into Left Atrium, Percutaneous Endoscopic Approach"
+DRG10408,02HK0KZ,"Insertion of Defibrillator Lead into Right Ventricle, Open Approach"
+DRG10408,02HK3KZ,"Insertion of Defibrillator Lead into Right Ventricle, Percutaneous Approach"
+DRG10408,02HK4KZ,"Insertion of Defibrillator Lead into Right Ventricle, Percutaneous Endoscopic Approach"
+DRG10408,02HL0KZ,"Insertion of Defibrillator Lead into Left Ventricle, Open Approach"
+DRG10408,02HL3KZ,"Insertion of Defibrillator Lead into Left Ventricle, Percutaneous Approach"
+DRG10408,02HL4KZ,"Insertion of Defibrillator Lead into Left Ventricle, Percutaneous Endoscopic Approach"
+DRG10408,02HN0KZ,"Insertion of Defibrillator Lead into Pericardium, Open Approach"
+DRG10408,02HN3KZ,"Insertion of Defibrillator Lead into Pericardium, Percutaneous Approach"
+DRG10408,02HN4KZ,"Insertion of Defibrillator Lead into Pericardium, Percutaneous Endoscopic Approach"
+DRG10408,0JH608Z,"Insertion of Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG10408,0JH638Z,"Insertion of Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG10408,0JH808Z,"Insertion of Defibrillator Generator into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG10408,0JH838Z,"Insertion of Defibrillator Generator into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG10408,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
+DRG10408,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
+DRG10408,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
+DRG10408,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+DRG10408,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
+DRG10408,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
+DRG10408,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
+DRG10408,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+DRG10408,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+DRG10408,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
+DRG10408,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
+DRG10408,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
+DRG10408,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
+DRG10408,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
+DRG10408,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
+DRG10408,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+DRG10408,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+DRG10408,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
+DRG10408,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+DRG10408,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+DRG10408,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
+DRG10408,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
+DRG10408,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
+DRG10408,B204YZZ,Plain Radiography of Right Heart using Other Contrast
+DRG10408,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
+DRG10408,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
+DRG10408,B205YZZ,Plain Radiography of Left Heart using Other Contrast
+DRG10408,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
+DRG10408,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
+DRG10408,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
+DRG10408,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10408,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10408,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
+DRG10408,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10408,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10408,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
+DRG10408,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
+DRG10408,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
+DRG10408,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
+DRG10408,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
+DRG10408,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
+DRG10408,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
+DRG10408,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
+DRG10408,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
+DRG10408,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
+DRG10408,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+DRG10408,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+DRG10408,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
+DRG10408,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+DRG10408,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+DRG10408,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
+DRG10408,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
+DRG10408,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
+DRG10408,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
+DRG10408,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
+DRG10408,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
+DRG10408,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
+DRG10408,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
+DRG10408,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
+DRG10408,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
+DRG10408,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10408,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10408,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
+DRG10408,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10408,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10408,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
+DRG10408,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
+DRG10408,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
+DRG10408,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast

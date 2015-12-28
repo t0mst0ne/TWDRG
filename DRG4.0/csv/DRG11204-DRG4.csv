@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-32516,DRG11204,02K80ZZ,"Map Conduction Mechanism, Open Approach"
-32517,DRG11204,02K83ZZ,"Map Conduction Mechanism, Percutaneous Approach"
-32518,DRG11204,02K84ZZ,"Map Conduction Mechanism, Percutaneous Endoscopic Approach"
-32519,DRG11204,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
-32520,DRG11204,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
-32521,DRG11204,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+DRG,CM-PCS,en
+DRG11204,02K80ZZ,"Map Conduction Mechanism, Open Approach"
+DRG11204,02K83ZZ,"Map Conduction Mechanism, Percutaneous Approach"
+DRG11204,02K84ZZ,"Map Conduction Mechanism, Percutaneous Endoscopic Approach"
+DRG11204,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+DRG11204,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+DRG11204,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"

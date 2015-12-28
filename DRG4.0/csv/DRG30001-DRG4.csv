@@ -1,12 +1,12 @@
-,DRG,CM-PCS,en
-24915,DRG30001,D137,Benign neoplasm of endocrine pancreas
-24916,DRG30001,D34,Benign neoplasm of thyroid gland
-24917,DRG30001,D3500,Benign neoplasm of unspecified adrenal gland
-24918,DRG30001,D3501,Benign neoplasm of right adrenal gland
-24919,DRG30001,D3502,Benign neoplasm of left adrenal gland
-24920,DRG30001,D351,Benign neoplasm of parathyroid gland
-24921,DRG30001,D352,Benign neoplasm of pituitary gland
-24922,DRG30001,D353,Benign neoplasm of craniopharyngeal duct
-24923,DRG30001,D357,Benign neoplasm of other specified endocrine glands
-24924,DRG30001,D359,"Benign neoplasm of endocrine gland, unspecified"
-24925,DRG30001,D497,Neoplasm of unspecified behavior of endocrine glands and other parts of nervous system
+DRG,CM-PCS,en
+DRG30001,D137,Benign neoplasm of endocrine pancreas
+DRG30001,D34,Benign neoplasm of thyroid gland
+DRG30001,D3500,Benign neoplasm of unspecified adrenal gland
+DRG30001,D3501,Benign neoplasm of right adrenal gland
+DRG30001,D3502,Benign neoplasm of left adrenal gland
+DRG30001,D351,Benign neoplasm of parathyroid gland
+DRG30001,D352,Benign neoplasm of pituitary gland
+DRG30001,D353,Benign neoplasm of craniopharyngeal duct
+DRG30001,D357,Benign neoplasm of other specified endocrine glands
+DRG30001,D359,"Benign neoplasm of endocrine gland, unspecified"
+DRG30001,D497,Neoplasm of unspecified behavior of endocrine glands and other parts of nervous system

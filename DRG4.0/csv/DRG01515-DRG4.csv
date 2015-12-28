@@ -1,32 +1,32 @@
-,DRG,CM-PCS,en
-47717,DRG01515,G450,Vertebro-basilar artery syndrome
-47718,DRG01515,G451,Carotid artery syndrome (hemispheric)
-47719,DRG01515,G452,Multiple and bilateral precerebral artery syndromes
-47720,DRG01515,G458,Other transient cerebral ischemic attacks and related syndromes
-47721,DRG01515,G459,"Transient cerebral ischemic attack, unspecified"
-47722,DRG01515,G460,Middle cerebral artery syndrome
-47723,DRG01515,G461,Anterior cerebral artery syndrome
-47724,DRG01515,G462,Posterior cerebral artery syndrome
-47725,DRG01515,I67841,Reversible cerebrovascular vasoconstriction syndrome
-47726,DRG01515,I67848,Other cerebrovascular vasospasm and vasoconstriction
-47729,DRG01515,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
-47730,DRG01515,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
-47731,DRG01515,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
-47732,DRG01515,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
-47733,DRG01515,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
-47734,DRG01515,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
-47735,DRG01515,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
-47736,DRG01515,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
-47737,DRG01515,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
-47738,DRG01515,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
-47739,DRG01515,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
-47740,DRG01515,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
-47741,DRG01515,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
-47742,DRG01515,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
-47743,DRG01515,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47744,DRG01515,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-47745,DRG01515,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-47746,DRG01515,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-47747,DRG01515,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-47748,DRG01515,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47749,DRG01515,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG,CM-PCS,en
+DRG01515,G450,Vertebro-basilar artery syndrome
+DRG01515,G451,Carotid artery syndrome (hemispheric)
+DRG01515,G452,Multiple and bilateral precerebral artery syndromes
+DRG01515,G458,Other transient cerebral ischemic attacks and related syndromes
+DRG01515,G459,"Transient cerebral ischemic attack, unspecified"
+DRG01515,G460,Middle cerebral artery syndrome
+DRG01515,G461,Anterior cerebral artery syndrome
+DRG01515,G462,Posterior cerebral artery syndrome
+DRG01515,I67841,Reversible cerebrovascular vasoconstriction syndrome
+DRG01515,I67848,Other cerebrovascular vasospasm and vasoconstriction
+DRG01515,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01515,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01515,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01515,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01515,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01515,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01515,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01515,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01515,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01515,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01515,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01515,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01515,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01515,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01515,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01515,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01515,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01515,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01515,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01515,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01515,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

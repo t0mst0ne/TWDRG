@@ -1,12 +1,12 @@
-,DRG,CM-PCS,en
-37360,DRG13101,I711,"Thoracic aortic aneurysm, ruptured"
-37361,DRG13101,I712,"Thoracic aortic aneurysm, without rupture"
-37362,DRG13101,I713,"Abdominal aortic aneurysm, ruptured"
-37363,DRG13101,I714,"Abdominal aortic aneurysm, without rupture"
-37364,DRG13101,I715,"Thoracoabdominal aortic aneurysm, ruptured"
-37365,DRG13101,I716,"Thoracoabdominal aortic aneurysm, without rupture"
-37366,DRG13101,I718,"Aortic aneurysm of unspecified site, ruptured"
-37367,DRG13101,I719,"Aortic aneurysm of unspecified site, without rupture"
-37368,DRG13101,I720,Aneurysm of carotid artery
-37369,DRG13101,I7771,Dissection of carotid artery
-37370,DRG13101,I77819,"Aortic ectasia, unspecified site"
+DRG,CM-PCS,en
+DRG13101,I711,"Thoracic aortic aneurysm, ruptured"
+DRG13101,I712,"Thoracic aortic aneurysm, without rupture"
+DRG13101,I713,"Abdominal aortic aneurysm, ruptured"
+DRG13101,I714,"Abdominal aortic aneurysm, without rupture"
+DRG13101,I715,"Thoracoabdominal aortic aneurysm, ruptured"
+DRG13101,I716,"Thoracoabdominal aortic aneurysm, without rupture"
+DRG13101,I718,"Aortic aneurysm of unspecified site, ruptured"
+DRG13101,I719,"Aortic aneurysm of unspecified site, without rupture"
+DRG13101,I720,Aneurysm of carotid artery
+DRG13101,I7771,Dissection of carotid artery
+DRG13101,I77819,"Aortic ectasia, unspecified site"

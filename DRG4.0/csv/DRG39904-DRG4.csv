@@ -1,15 +1,15 @@
-,DRG,CM-PCS,en
-2332,DRG39904,A281,Cat-scratch disease
-2333,DRG39904,I881,"Chronic lymphadenitis, except mesenteric"
-2334,DRG39904,I888,Other nonspecific lymphadenitis
-2335,DRG39904,I889,"Nonspecific lymphadenitis, unspecified"
-2336,DRG39904,L040,"Acute lymphadenitis of face, head and neck"
-2337,DRG39904,L041,Acute lymphadenitis of trunk
-2338,DRG39904,L042,Acute lymphadenitis of upper limb
-2339,DRG39904,L043,Acute lymphadenitis of lower limb
-2340,DRG39904,L048,Acute lymphadenitis of other sites
-2341,DRG39904,L049,"Acute lymphadenitis, unspecified"
-2342,DRG39904,R75,Inconclusive laboratory evidence of human immunodeficiency virus [HIV]
-2343,DRG39904,R760,Raised antibody titer
-2344,DRG39904,R768,Other specified abnormal immunological findings in serum
-2345,DRG39904,R769,"Abnormal immunological finding in serum, unspecified"
+DRG,CM-PCS,en
+DRG39904,A281,Cat-scratch disease
+DRG39904,I881,"Chronic lymphadenitis, except mesenteric"
+DRG39904,I888,Other nonspecific lymphadenitis
+DRG39904,I889,"Nonspecific lymphadenitis, unspecified"
+DRG39904,L040,"Acute lymphadenitis of face, head and neck"
+DRG39904,L041,Acute lymphadenitis of trunk
+DRG39904,L042,Acute lymphadenitis of upper limb
+DRG39904,L043,Acute lymphadenitis of lower limb
+DRG39904,L048,Acute lymphadenitis of other sites
+DRG39904,L049,"Acute lymphadenitis, unspecified"
+DRG39904,R75,Inconclusive laboratory evidence of human immunodeficiency virus [HIV]
+DRG39904,R760,Raised antibody titer
+DRG39904,R768,Other specified abnormal immunological findings in serum
+DRG39904,R769,"Abnormal immunological finding in serum, unspecified"

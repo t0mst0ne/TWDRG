@@ -1,43 +1,43 @@
-,DRG,CM-PCS,en
-13515,DRG27204,L00,Staphylococcal scalded skin syndrome
-13516,DRG27204,L100,Pemphigus vulgaris
-13517,DRG27204,L101,Pemphigus vegetans
-13518,DRG27204,L102,Pemphigus foliaceous
-13519,DRG27204,L103,Brazilian pemphigus [fogo selvagem]
-13520,DRG27204,L104,Pemphigus erythematosus
-13521,DRG27204,L105,Drug-induced pemphigus
-13522,DRG27204,L1081,Paraneoplastic pemphigus
-13523,DRG27204,L1089,Other pemphigus
-13524,DRG27204,L109,"Pemphigus, unspecified"
-13525,DRG27204,L1230,"Acquired epidermolysis bullosa, unspecified"
-13526,DRG27204,L1231,Epidermolysis bullosa due to drug
-13527,DRG27204,L1235,Other acquired epidermolysis bullosa
-13528,DRG27204,L400,Psoriasis vulgaris
-13529,DRG27204,L401,Generalized pustular psoriasis
-13530,DRG27204,L402,Acrodermatitis continua
-13531,DRG27204,L403,Pustulosis palmaris et plantaris
-13532,DRG27204,L404,Guttate psoriasis
-13533,DRG27204,L408,Other psoriasis
-13534,DRG27204,L409,"Psoriasis, unspecified"
-13535,DRG27204,L410,Pityriasis lichenoides et varioliformis acuta
-13536,DRG27204,L411,Pityriasis lichenoides chronica
-13537,DRG27204,L413,Small plaque parapsoriasis
-13538,DRG27204,L414,Large plaque parapsoriasis
-13539,DRG27204,L415,Retiform parapsoriasis
-13540,DRG27204,L418,Other parapsoriasis
-13541,DRG27204,L419,"Parapsoriasis, unspecified"
-13542,DRG27204,L440,Pityriasis rubra pilaris
-13543,DRG27204,L448,Other specified papulosquamous disorders
-13544,DRG27204,L510,Nonbullous erythema multiforme
-13545,DRG27204,L511,Stevens-Johnson syndrome
-13546,DRG27204,L512,Toxic epidermal necrolysis [Lyell]
-13547,DRG27204,L513,Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome
-13548,DRG27204,L518,Other erythema multiforme
-13549,DRG27204,L519,"Erythema multiforme, unspecified"
-13550,DRG27204,L930,Discoid lupus erythematosus
-13551,DRG27204,L931,Subacute cutaneous lupus erythematosus
-13552,DRG27204,L932,Other local lupus erythematosus
-13553,DRG27204,L945,Poikiloderma vasculare atrophicans
-13554,DRG27204,L950,Livedoid vasculitis
-13555,DRG27204,L958,Other vasculitis limited to the skin
-13556,DRG27204,L959,"Vasculitis limited to the skin, unspecified"
+DRG,CM-PCS,en
+DRG27204,L00,Staphylococcal scalded skin syndrome
+DRG27204,L100,Pemphigus vulgaris
+DRG27204,L101,Pemphigus vegetans
+DRG27204,L102,Pemphigus foliaceous
+DRG27204,L103,Brazilian pemphigus [fogo selvagem]
+DRG27204,L104,Pemphigus erythematosus
+DRG27204,L105,Drug-induced pemphigus
+DRG27204,L1081,Paraneoplastic pemphigus
+DRG27204,L1089,Other pemphigus
+DRG27204,L109,"Pemphigus, unspecified"
+DRG27204,L1230,"Acquired epidermolysis bullosa, unspecified"
+DRG27204,L1231,Epidermolysis bullosa due to drug
+DRG27204,L1235,Other acquired epidermolysis bullosa
+DRG27204,L400,Psoriasis vulgaris
+DRG27204,L401,Generalized pustular psoriasis
+DRG27204,L402,Acrodermatitis continua
+DRG27204,L403,Pustulosis palmaris et plantaris
+DRG27204,L404,Guttate psoriasis
+DRG27204,L408,Other psoriasis
+DRG27204,L409,"Psoriasis, unspecified"
+DRG27204,L410,Pityriasis lichenoides et varioliformis acuta
+DRG27204,L411,Pityriasis lichenoides chronica
+DRG27204,L413,Small plaque parapsoriasis
+DRG27204,L414,Large plaque parapsoriasis
+DRG27204,L415,Retiform parapsoriasis
+DRG27204,L418,Other parapsoriasis
+DRG27204,L419,"Parapsoriasis, unspecified"
+DRG27204,L440,Pityriasis rubra pilaris
+DRG27204,L448,Other specified papulosquamous disorders
+DRG27204,L510,Nonbullous erythema multiforme
+DRG27204,L511,Stevens-Johnson syndrome
+DRG27204,L512,Toxic epidermal necrolysis [Lyell]
+DRG27204,L513,Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome
+DRG27204,L518,Other erythema multiforme
+DRG27204,L519,"Erythema multiforme, unspecified"
+DRG27204,L930,Discoid lupus erythematosus
+DRG27204,L931,Subacute cutaneous lupus erythematosus
+DRG27204,L932,Other local lupus erythematosus
+DRG27204,L945,Poikiloderma vasculare atrophicans
+DRG27204,L950,Livedoid vasculitis
+DRG27204,L958,Other vasculitis limited to the skin
+DRG27204,L959,"Vasculitis limited to the skin, unspecified"

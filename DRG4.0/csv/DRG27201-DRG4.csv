@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-13612,DRG27201,L52,Erythema nodosum
-13613,DRG27201,M356,Relapsing panniculitis [Weber-Christian]
-13614,DRG27201,M5400,"Panniculitis affecting regions of neck and back, site unspecified"
-13615,DRG27201,M5401,"Panniculitis affecting regions of neck and back, occipito-atlanto-axial region"
-13616,DRG27201,M5402,"Panniculitis affecting regions of neck and back, cervical region"
-13617,DRG27201,M793,"Panniculitis, unspecified"
+DRG,CM-PCS,en
+DRG27201,L52,Erythema nodosum
+DRG27201,M356,Relapsing panniculitis [Weber-Christian]
+DRG27201,M5400,"Panniculitis affecting regions of neck and back, site unspecified"
+DRG27201,M5401,"Panniculitis affecting regions of neck and back, occipito-atlanto-axial region"
+DRG27201,M5402,"Panniculitis affecting regions of neck and back, cervical region"
+DRG27201,M793,"Panniculitis, unspecified"

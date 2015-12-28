@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-9560,DRG17913,K5090,"Crohn's disease, unspecified, without complications"
-9561,DRG17913,K50911,"Crohn's disease, unspecified, with rectal bleeding"
-9562,DRG17913,K50913,"Crohn's disease, unspecified, with fistula"
-9563,DRG17913,K50914,"Crohn's disease, unspecified, with abscess"
-9564,DRG17913,K50918,"Crohn's disease, unspecified, with other complication"
-9565,DRG17913,K50919,"Crohn's disease, unspecified, with unspecified complications"
+DRG,CM-PCS,en
+DRG17913,K5090,"Crohn's disease, unspecified, without complications"
+DRG17913,K50911,"Crohn's disease, unspecified, with rectal bleeding"
+DRG17913,K50913,"Crohn's disease, unspecified, with fistula"
+DRG17913,K50914,"Crohn's disease, unspecified, with abscess"
+DRG17913,K50918,"Crohn's disease, unspecified, with other complication"
+DRG17913,K50919,"Crohn's disease, unspecified, with unspecified complications"

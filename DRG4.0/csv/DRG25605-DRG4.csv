@@ -1,27 +1,27 @@
-,DRG,CM-PCS,en
-65065,DRG25605,Q690,Accessory finger(s)
-65066,DRG25605,Q691,Accessory thumb(s)
-65067,DRG25605,Q692,Accessory toe(s)
-65068,DRG25605,Q699,"Polydactyly, unspecified"
-65069,DRG25605,Q7000,"Fused fingers, unspecified hand"
-65070,DRG25605,Q7001,"Fused fingers, right hand"
-65071,DRG25605,Q7002,"Fused fingers, left hand"
-65072,DRG25605,Q7003,"Fused fingers, bilateral"
-65073,DRG25605,Q7010,"Webbed fingers, unspecified hand"
-65074,DRG25605,Q7011,"Webbed fingers, right hand"
-65075,DRG25605,Q7012,"Webbed fingers, left hand"
-65076,DRG25605,Q7013,"Webbed fingers, bilateral"
-65077,DRG25605,Q7020,"Fused toes, unspecified foot"
-65078,DRG25605,Q7021,"Fused toes, right foot"
-65079,DRG25605,Q7022,"Fused toes, left foot"
-65080,DRG25605,Q7023,"Fused toes, bilateral"
-65081,DRG25605,Q7030,"Webbed toes, unspecified foot"
-65082,DRG25605,Q7031,"Webbed toes, right foot"
-65083,DRG25605,Q7032,"Webbed toes, left foot"
-65084,DRG25605,Q7033,"Webbed toes, bilateral"
-65085,DRG25605,Q704,"Polysyndactyly, unspecified"
-65086,DRG25605,Q709,"Syndactyly, unspecified"
-65087,DRG25605,Q7160,"Lobster-claw hand, unspecified hand"
-65088,DRG25605,Q7161,Lobster-claw right hand
-65089,DRG25605,Q7162,Lobster-claw left hand
-65090,DRG25605,Q7163,"Lobster-claw hand, bilateral"
+DRG,CM-PCS,en
+DRG25605,Q690,Accessory finger(s)
+DRG25605,Q691,Accessory thumb(s)
+DRG25605,Q692,Accessory toe(s)
+DRG25605,Q699,"Polydactyly, unspecified"
+DRG25605,Q7000,"Fused fingers, unspecified hand"
+DRG25605,Q7001,"Fused fingers, right hand"
+DRG25605,Q7002,"Fused fingers, left hand"
+DRG25605,Q7003,"Fused fingers, bilateral"
+DRG25605,Q7010,"Webbed fingers, unspecified hand"
+DRG25605,Q7011,"Webbed fingers, right hand"
+DRG25605,Q7012,"Webbed fingers, left hand"
+DRG25605,Q7013,"Webbed fingers, bilateral"
+DRG25605,Q7020,"Fused toes, unspecified foot"
+DRG25605,Q7021,"Fused toes, right foot"
+DRG25605,Q7022,"Fused toes, left foot"
+DRG25605,Q7023,"Fused toes, bilateral"
+DRG25605,Q7030,"Webbed toes, unspecified foot"
+DRG25605,Q7031,"Webbed toes, right foot"
+DRG25605,Q7032,"Webbed toes, left foot"
+DRG25605,Q7033,"Webbed toes, bilateral"
+DRG25605,Q704,"Polysyndactyly, unspecified"
+DRG25605,Q709,"Syndactyly, unspecified"
+DRG25605,Q7160,"Lobster-claw hand, unspecified hand"
+DRG25605,Q7161,Lobster-claw right hand
+DRG25605,Q7162,Lobster-claw left hand
+DRG25605,Q7163,"Lobster-claw hand, bilateral"

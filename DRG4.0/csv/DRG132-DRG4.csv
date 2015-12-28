@@ -1,71 +1,71 @@
-,DRG,CM-PCS,en
-38490,DRG00132,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris
-38491,DRG00132,I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
-38492,DRG00132,I25111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
-38493,DRG00132,I25118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
-38494,DRG00132,I25119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris
-38495,DRG00132,I252,Old myocardial infarction
-38496,DRG00132,I255,Ischemic cardiomyopathy
-38497,DRG00132,I256,Silent myocardial ischemia
-38498,DRG00132,I25700,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris"
-38499,DRG00132,I25701,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm"
-38500,DRG00132,I25708,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris"
-38501,DRG00132,I25709,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris"
-38502,DRG00132,I25710,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris
-38503,DRG00132,I25711,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm
-38504,DRG00132,I25718,Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris
-38505,DRG00132,I25719,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris
-38506,DRG00132,I25720,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris
-38507,DRG00132,I25721,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm
-38508,DRG00132,I25728,Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris
-38509,DRG00132,I25729,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris
-38510,DRG00132,I25730,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris
-38511,DRG00132,I25731,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm
-38512,DRG00132,I25738,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris
-38513,DRG00132,I25739,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris
-38514,DRG00132,I25750,Atherosclerosis of native coronary artery of transplanted heart with unstable angina
-38515,DRG00132,I25751,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm
-38516,DRG00132,I25758,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris
-38517,DRG00132,I25759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris
-38518,DRG00132,I25760,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina
-38519,DRG00132,I25761,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm
-38520,DRG00132,I25768,Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris
-38521,DRG00132,I25769,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris
-38522,DRG00132,I25790,Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris
-38523,DRG00132,I25791,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm
-38524,DRG00132,I25798,Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris
-38525,DRG00132,I25799,Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris
-38526,DRG00132,I25810,Atherosclerosis of coronary artery bypass graft(s) without angina pectoris
-38527,DRG00132,I25811,Atherosclerosis of native coronary artery of transplanted heart without angina pectoris
-38528,DRG00132,I25812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
-38529,DRG00132,I2589,Other forms of chronic ischemic heart disease
-38530,DRG00132,I259,"Chronic ischemic heart disease, unspecified"
-38531,DRG00132,I517,Cardiomegaly
-38532,DRG00132,I5181,Takotsubo syndrome
-38533,DRG00132,I519,"Heart disease, unspecified"
-38534,DRG00132,I87301,Chronic venous hypertension (idiopathic) without complications of right lower extremity
-38535,DRG00132,I87302,Chronic venous hypertension (idiopathic) without complications of left lower extremity
-38536,DRG00132,I87303,Chronic venous hypertension (idiopathic) without complications of bilateral lower extremity
-38537,DRG00132,I87309,Chronic venous hypertension (idiopathic) without complications of unspecified lower extremity
-38538,DRG00132,I87311,Chronic venous hypertension (idiopathic) with ulcer of right lower extremity
-38539,DRG00132,I87312,Chronic venous hypertension (idiopathic) with ulcer of left lower extremity
-38540,DRG00132,I87313,Chronic venous hypertension (idiopathic) with ulcer of bilateral lower extremity
-38541,DRG00132,I87319,Chronic venous hypertension (idiopathic) with ulcer of unspecified lower extremity
-38542,DRG00132,I87321,Chronic venous hypertension (idiopathic) with inflammation of right lower extremity
-38543,DRG00132,I87322,Chronic venous hypertension (idiopathic) with inflammation of left lower extremity
-38544,DRG00132,I87323,Chronic venous hypertension (idiopathic) with inflammation of bilateral lower extremity
-38545,DRG00132,I87329,Chronic venous hypertension (idiopathic) with inflammation of unspecified lower extremity
-38546,DRG00132,I87331,Chronic venous hypertension (idiopathic) with ulcer and inflammation of right lower extremity
-38547,DRG00132,I87332,Chronic venous hypertension (idiopathic) with ulcer and inflammation of left lower extremity
-38548,DRG00132,I87333,Chronic venous hypertension (idiopathic) with ulcer and inflammation of bilateral lower extremity
-38549,DRG00132,I87339,Chronic venous hypertension (idiopathic) with ulcer and inflammation of unspecified lower extremity
-38550,DRG00132,I87391,Chronic venous hypertension (idiopathic) with other complications of right lower extremity
-38551,DRG00132,I87392,Chronic venous hypertension (idiopathic) with other complications of left lower extremity
-38552,DRG00132,I87393,Chronic venous hypertension (idiopathic) with other complications of bilateral lower extremity
-38553,DRG00132,I87399,Chronic venous hypertension (idiopathic) with other complications of unspecified lower extremity
-38554,DRG00132,I878,Other specified disorders of veins
-38555,DRG00132,I879,"Disorder of vein, unspecified"
-38556,DRG00132,I998,Other disorder of circulatory system
-38557,DRG00132,I999,Unspecified disorder of circulatory system
-38558,DRG00132,R931,Abnormal findings on diagnostic imaging of heart and coronary circulation
-38559,DRG00132,R938,Abnormal findings on diagnostic imaging of other specified body structures
+DRG,CM-PCS,en
+DRG00132,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris
+DRG00132,I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
+DRG00132,I25111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
+DRG00132,I25118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+DRG00132,I25119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris
+DRG00132,I252,Old myocardial infarction
+DRG00132,I255,Ischemic cardiomyopathy
+DRG00132,I256,Silent myocardial ischemia
+DRG00132,I25700,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris"
+DRG00132,I25701,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm"
+DRG00132,I25708,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris"
+DRG00132,I25709,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris"
+DRG00132,I25710,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris
+DRG00132,I25711,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm
+DRG00132,I25718,Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris
+DRG00132,I25719,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris
+DRG00132,I25720,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris
+DRG00132,I25721,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm
+DRG00132,I25728,Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris
+DRG00132,I25729,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris
+DRG00132,I25730,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris
+DRG00132,I25731,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm
+DRG00132,I25738,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris
+DRG00132,I25739,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris
+DRG00132,I25750,Atherosclerosis of native coronary artery of transplanted heart with unstable angina
+DRG00132,I25751,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm
+DRG00132,I25758,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris
+DRG00132,I25759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris
+DRG00132,I25760,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina
+DRG00132,I25761,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm
+DRG00132,I25768,Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris
+DRG00132,I25769,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris
+DRG00132,I25790,Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris
+DRG00132,I25791,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm
+DRG00132,I25798,Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris
+DRG00132,I25799,Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris
+DRG00132,I25810,Atherosclerosis of coronary artery bypass graft(s) without angina pectoris
+DRG00132,I25811,Atherosclerosis of native coronary artery of transplanted heart without angina pectoris
+DRG00132,I25812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
+DRG00132,I2589,Other forms of chronic ischemic heart disease
+DRG00132,I259,"Chronic ischemic heart disease, unspecified"
+DRG00132,I517,Cardiomegaly
+DRG00132,I5181,Takotsubo syndrome
+DRG00132,I519,"Heart disease, unspecified"
+DRG00132,I87301,Chronic venous hypertension (idiopathic) without complications of right lower extremity
+DRG00132,I87302,Chronic venous hypertension (idiopathic) without complications of left lower extremity
+DRG00132,I87303,Chronic venous hypertension (idiopathic) without complications of bilateral lower extremity
+DRG00132,I87309,Chronic venous hypertension (idiopathic) without complications of unspecified lower extremity
+DRG00132,I87311,Chronic venous hypertension (idiopathic) with ulcer of right lower extremity
+DRG00132,I87312,Chronic venous hypertension (idiopathic) with ulcer of left lower extremity
+DRG00132,I87313,Chronic venous hypertension (idiopathic) with ulcer of bilateral lower extremity
+DRG00132,I87319,Chronic venous hypertension (idiopathic) with ulcer of unspecified lower extremity
+DRG00132,I87321,Chronic venous hypertension (idiopathic) with inflammation of right lower extremity
+DRG00132,I87322,Chronic venous hypertension (idiopathic) with inflammation of left lower extremity
+DRG00132,I87323,Chronic venous hypertension (idiopathic) with inflammation of bilateral lower extremity
+DRG00132,I87329,Chronic venous hypertension (idiopathic) with inflammation of unspecified lower extremity
+DRG00132,I87331,Chronic venous hypertension (idiopathic) with ulcer and inflammation of right lower extremity
+DRG00132,I87332,Chronic venous hypertension (idiopathic) with ulcer and inflammation of left lower extremity
+DRG00132,I87333,Chronic venous hypertension (idiopathic) with ulcer and inflammation of bilateral lower extremity
+DRG00132,I87339,Chronic venous hypertension (idiopathic) with ulcer and inflammation of unspecified lower extremity
+DRG00132,I87391,Chronic venous hypertension (idiopathic) with other complications of right lower extremity
+DRG00132,I87392,Chronic venous hypertension (idiopathic) with other complications of left lower extremity
+DRG00132,I87393,Chronic venous hypertension (idiopathic) with other complications of bilateral lower extremity
+DRG00132,I87399,Chronic venous hypertension (idiopathic) with other complications of unspecified lower extremity
+DRG00132,I878,Other specified disorders of veins
+DRG00132,I879,"Disorder of vein, unspecified"
+DRG00132,I998,Other disorder of circulatory system
+DRG00132,I999,Unspecified disorder of circulatory system
+DRG00132,R931,Abnormal findings on diagnostic imaging of heart and coronary circulation
+DRG00132,R938,Abnormal findings on diagnostic imaging of other specified body structures

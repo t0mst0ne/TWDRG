@@ -1,19 +1,19 @@
-,DRG,CM-PCS,en
-65041,DRG25602,T8730,"Neuroma of amputation stump, unspecified extremity"
-65042,DRG25602,T8731,"Neuroma of amputation stump, right upper extremity"
-65043,DRG25602,T8732,"Neuroma of amputation stump, left upper extremity"
-65044,DRG25602,T8733,"Neuroma of amputation stump, right lower extremity"
-65045,DRG25602,T8734,"Neuroma of amputation stump, left lower extremity"
-65046,DRG25602,T8740,"Infection of amputation stump, unspecified extremity"
-65047,DRG25602,T8741,"Infection of amputation stump, right upper extremity"
-65048,DRG25602,T8742,"Infection of amputation stump, left upper extremity"
-65049,DRG25602,T8743,"Infection of amputation stump, right lower extremity"
-65050,DRG25602,T8744,"Infection of amputation stump, left lower extremity"
-65051,DRG25602,T8750,"Necrosis of amputation stump, unspecified extremity"
-65052,DRG25602,T8751,"Necrosis of amputation stump, right upper extremity"
-65053,DRG25602,T8752,"Necrosis of amputation stump, left upper extremity"
-65054,DRG25602,T8753,"Necrosis of amputation stump, right lower extremity"
-65055,DRG25602,T8754,"Necrosis of amputation stump, left lower extremity"
-65056,DRG25602,T8781,Dehiscence of amputation stump
-65057,DRG25602,T8789,Other complications of amputation stump
-65058,DRG25602,T879,Unspecified complications of amputation stump
+DRG,CM-PCS,en
+DRG25602,T8730,"Neuroma of amputation stump, unspecified extremity"
+DRG25602,T8731,"Neuroma of amputation stump, right upper extremity"
+DRG25602,T8732,"Neuroma of amputation stump, left upper extremity"
+DRG25602,T8733,"Neuroma of amputation stump, right lower extremity"
+DRG25602,T8734,"Neuroma of amputation stump, left lower extremity"
+DRG25602,T8740,"Infection of amputation stump, unspecified extremity"
+DRG25602,T8741,"Infection of amputation stump, right upper extremity"
+DRG25602,T8742,"Infection of amputation stump, left upper extremity"
+DRG25602,T8743,"Infection of amputation stump, right lower extremity"
+DRG25602,T8744,"Infection of amputation stump, left lower extremity"
+DRG25602,T8750,"Necrosis of amputation stump, unspecified extremity"
+DRG25602,T8751,"Necrosis of amputation stump, right upper extremity"
+DRG25602,T8752,"Necrosis of amputation stump, left upper extremity"
+DRG25602,T8753,"Necrosis of amputation stump, right lower extremity"
+DRG25602,T8754,"Necrosis of amputation stump, left lower extremity"
+DRG25602,T8781,Dehiscence of amputation stump
+DRG25602,T8789,Other complications of amputation stump
+DRG25602,T879,Unspecified complications of amputation stump

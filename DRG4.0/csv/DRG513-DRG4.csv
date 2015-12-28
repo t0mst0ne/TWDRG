@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-5905,DRG00513,O82,Encounter for cesarean delivery without indication
-5908,DRG00513,10D00Z0,"Extraction of Products of Conception, Classical, Open Approach"
-5909,DRG00513,10D00Z1,"Extraction of Products of Conception, Low Cervical, Open Approach"
-5910,DRG00513,10D00Z2,"Extraction of Products of Conception, Extraperitoneal, Open Approach"
+DRG,CM-PCS,en
+DRG00513,O82,Encounter for cesarean delivery without indication
+DRG00513,10D00Z0,"Extraction of Products of Conception, Classical, Open Approach"
+DRG00513,10D00Z1,"Extraction of Products of Conception, Low Cervical, Open Approach"
+DRG00513,10D00Z2,"Extraction of Products of Conception, Extraperitoneal, Open Approach"

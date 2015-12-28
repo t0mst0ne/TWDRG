@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-187,N09,P0506,"Newborn light for gestational age, 1500-1749 grams"
-188,N09,P0507,"Newborn light for gestational age, 1750-1999 grams"
-189,N09,P0516,"Newborn small for gestational age, 1500-1749 grams"
-190,N09,P0517,"Newborn small for gestational age, 1750-1999 grams"
-191,N09,P0716,"Other low birth weight newborn, 1500-1749 grams"
-192,N09,P0717,"Other low birth weight newborn, 1750-1999 grams"
+DRG,CM-PCS,en
+N09,P0506,"Newborn light for gestational age, 1500-1749 grams"
+N09,P0507,"Newborn light for gestational age, 1750-1999 grams"
+N09,P0516,"Newborn small for gestational age, 1500-1749 grams"
+N09,P0517,"Newborn small for gestational age, 1750-1999 grams"
+N09,P0716,"Other low birth weight newborn, 1500-1749 grams"
+N09,P0717,"Other low birth weight newborn, 1750-1999 grams"

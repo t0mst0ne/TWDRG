@@ -1,123 +1,123 @@
-,DRG,CM-PCS,en
-7160,DRG20509,B150,Hepatitis A with hepatic coma
-7161,DRG20509,B160,Acute hepatitis B with delta-agent with hepatic coma
-7162,DRG20509,B1711,Acute hepatitis C with hepatic coma
-7163,DRG20509,B172,Acute hepatitis E
-7164,DRG20509,B178,Other specified acute viral hepatitis
-7165,DRG20509,B180,Chronic viral hepatitis B with delta-agent
-7166,DRG20509,B181,Chronic viral hepatitis B without delta-agent
-7167,DRG20509,B182,Chronic viral hepatitis C
-7168,DRG20509,B190,Unspecified viral hepatitis with hepatic coma
-7169,DRG20509,B1921,Unspecified viral hepatitis C with hepatic coma
-7170,DRG20509,K7200,Acute and subacute hepatic failure without coma
-7171,DRG20509,K7201,Acute and subacute hepatic failure with coma
-7172,DRG20509,K7290,"Hepatic failure, unspecified without coma"
-7173,DRG20509,K7291,"Hepatic failure, unspecified with coma"
-7174,DRG20509,K762,Central hemorrhagic necrosis of liver
-7177,DRG20509,A400,"Sepsis due to streptococcus, group A"
-7178,DRG20509,A401,"Sepsis due to streptococcus, group B"
-7179,DRG20509,A403,Sepsis due to Streptococcus pneumoniae
-7180,DRG20509,A408,Other streptococcal sepsis
-7181,DRG20509,A409,"Streptococcal sepsis, unspecified"
-7182,DRG20509,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
-7183,DRG20509,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
-7184,DRG20509,A411,Sepsis due to other specified staphylococcus
-7185,DRG20509,A412,Sepsis due to unspecified staphylococcus
-7186,DRG20509,A413,Sepsis due to Hemophilus influenzae
-7187,DRG20509,A414,Sepsis due to anaerobes
-7188,DRG20509,A4150,"Gram-negative sepsis, unspecified"
-7189,DRG20509,A4151,Sepsis due to Escherichia coli [E. coli]
-7190,DRG20509,A4152,Sepsis due to Pseudomonas
-7191,DRG20509,A4153,Sepsis due to Serratia
-7192,DRG20509,A4159,Other Gram-negative sepsis
-7193,DRG20509,A4181,Sepsis due to Enterococcus
-7194,DRG20509,A4189,Other specified sepsis
-7195,DRG20509,A419,"Sepsis, unspecified organism"
-7196,DRG20509,B3741,Candidal cystitis and urethritis
-7197,DRG20509,B3742,Candidal balanitis
-7198,DRG20509,B3749,Other urogenital candidiasis
-7199,DRG20509,B377,Candidal sepsis
-7200,DRG20509,I8501,Esophageal varices with bleeding
-7201,DRG20509,I8511,Secondary esophageal varices with bleeding
-7202,DRG20509,J120,Adenoviral pneumonia
-7203,DRG20509,J121,Respiratory syncytial virus pneumonia
-7204,DRG20509,J122,Parainfluenza virus pneumonia
-7205,DRG20509,J123,Human metapneumovirus pneumonia
-7206,DRG20509,J1281,Pneumonia due to SARS-associated coronavirus
-7207,DRG20509,J1289,Other viral pneumonia
-7208,DRG20509,J129,"Viral pneumonia, unspecified"
-7209,DRG20509,J188,"Other pneumonia, unspecified organism"
-7210,DRG20509,J189,"Pneumonia, unspecified organism"
-7211,DRG20509,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-7212,DRG20509,J9601,Acute respiratory failure with hypoxia
-7213,DRG20509,J9602,Acute respiratory failure with hypercapnia
-7214,DRG20509,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-7215,DRG20509,J9691,"Respiratory failure, unspecified with hypoxia"
-7216,DRG20509,J9692,"Respiratory failure, unspecified with hypercapnia"
-7217,DRG20509,K226,Gastro-esophageal laceration-hemorrhage syndrome
-7218,DRG20509,K228,Other specified diseases of esophagus
-7219,DRG20509,K250,Acute gastric ulcer with hemorrhage
-7220,DRG20509,K252,Acute gastric ulcer with both hemorrhage and perforation
-7221,DRG20509,K254,Chronic or unspecified gastric ulcer with hemorrhage
-7222,DRG20509,K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation
-7223,DRG20509,K260,Acute duodenal ulcer with hemorrhage
-7224,DRG20509,K262,Acute duodenal ulcer with both hemorrhage and perforation
-7225,DRG20509,K264,Chronic or unspecified duodenal ulcer with hemorrhage
-7226,DRG20509,K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation
-7227,DRG20509,K270,"Acute peptic ulcer, site unspecified, with hemorrhage"
-7228,DRG20509,K272,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation"
-7229,DRG20509,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
-7230,DRG20509,K276,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation"
-7231,DRG20509,K280,Acute gastrojejunal ulcer with hemorrhage
-7232,DRG20509,K282,Acute gastrojejunal ulcer with both hemorrhage and perforation
-7233,DRG20509,K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage
-7234,DRG20509,K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
-7235,DRG20509,K2901,Acute gastritis with bleeding
-7236,DRG20509,K2921,Alcoholic gastritis with bleeding
-7237,DRG20509,K2931,Chronic superficial gastritis with bleeding
-7238,DRG20509,K2941,Chronic atrophic gastritis with bleeding
-7239,DRG20509,K2951,Unspecified chronic gastritis with bleeding
-7240,DRG20509,K2961,Other gastritis with bleeding
-7241,DRG20509,K2971,"Gastritis, unspecified, with bleeding"
-7242,DRG20509,K2981,Duodenitis with bleeding
-7243,DRG20509,K2991,"Gastroduodenitis, unspecified, with bleeding"
-7244,DRG20509,K31811,Angiodysplasia of stomach and duodenum with bleeding
-7245,DRG20509,K3182,Dieulafoy lesion (hemorrhagic) of stomach and duodenum
-7246,DRG20509,K5281,Eosinophilic gastritis or gastroenteritis
-7247,DRG20509,K5521,Angiodysplasia of colon with hemorrhage
-7248,DRG20509,K5660,Unspecified intestinal obstruction
-7249,DRG20509,K5701,Diverticulitis of small intestine with perforation and abscess with bleeding
-7250,DRG20509,K5711,Diverticulosis of small intestine without perforation or abscess with bleeding
-7251,DRG20509,K5713,Diverticulitis of small intestine without perforation or abscess with bleeding
-7252,DRG20509,K5721,Diverticulitis of large intestine with perforation and abscess with bleeding
-7253,DRG20509,K5731,Diverticulosis of large intestine without perforation or abscess with bleeding
-7254,DRG20509,K5733,Diverticulitis of large intestine without perforation or abscess with bleeding
-7255,DRG20509,K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding"
-7256,DRG20509,K5791,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding"
-7257,DRG20509,K5793,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding"
-7258,DRG20509,K625,Hemorrhage of anus and rectum
-7259,DRG20509,K650,Generalized (acute) peritonitis
-7260,DRG20509,K651,Peritoneal abscess
-7261,DRG20509,K652,Spontaneous bacterial peritonitis
-7262,DRG20509,K653,Choleperitonitis
-7263,DRG20509,K654,Sclerosing mesenteritis
-7264,DRG20509,K658,Other peritonitis
-7265,DRG20509,K659,"Peritonitis, unspecified"
-7266,DRG20509,K67,Disorders of peritoneum in infectious diseases classified elsewhere
-7267,DRG20509,K6811,Postprocedural retroperitoneal abscess
-7268,DRG20509,K6819,Other retroperitoneal abscess
-7269,DRG20509,K689,Other disorders of retroperitoneum
-7270,DRG20509,K7210,Chronic hepatic failure without coma
-7271,DRG20509,K7211,Chronic hepatic failure with coma
-7272,DRG20509,K7290,"Hepatic failure, unspecified without coma"
-7273,DRG20509,K767,Hepatorenal syndrome
-7274,DRG20509,K7681,Hepatopulmonary syndrome
-7275,DRG20509,K920,Hematemesis
-7276,DRG20509,K921,Melena
-7277,DRG20509,K922,"Gastrointestinal hemorrhage, unspecified"
-7278,DRG20509,N179,"Acute kidney failure, unspecified"
-7279,DRG20509,N390,"Urinary tract infection, site not specified"
-7280,DRG20509,R188,Other ascites
-7281,DRG20509,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
-7282,DRG20509,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
-7283,DRG20509,R6520,Severe sepsis without septic shock
+DRG,CM-PCS,en
+DRG20509,B150,Hepatitis A with hepatic coma
+DRG20509,B160,Acute hepatitis B with delta-agent with hepatic coma
+DRG20509,B1711,Acute hepatitis C with hepatic coma
+DRG20509,B172,Acute hepatitis E
+DRG20509,B178,Other specified acute viral hepatitis
+DRG20509,B180,Chronic viral hepatitis B with delta-agent
+DRG20509,B181,Chronic viral hepatitis B without delta-agent
+DRG20509,B182,Chronic viral hepatitis C
+DRG20509,B190,Unspecified viral hepatitis with hepatic coma
+DRG20509,B1921,Unspecified viral hepatitis C with hepatic coma
+DRG20509,K7200,Acute and subacute hepatic failure without coma
+DRG20509,K7201,Acute and subacute hepatic failure with coma
+DRG20509,K7290,"Hepatic failure, unspecified without coma"
+DRG20509,K7291,"Hepatic failure, unspecified with coma"
+DRG20509,K762,Central hemorrhagic necrosis of liver
+DRG20509,A400,"Sepsis due to streptococcus, group A"
+DRG20509,A401,"Sepsis due to streptococcus, group B"
+DRG20509,A403,Sepsis due to Streptococcus pneumoniae
+DRG20509,A408,Other streptococcal sepsis
+DRG20509,A409,"Streptococcal sepsis, unspecified"
+DRG20509,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG20509,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG20509,A411,Sepsis due to other specified staphylococcus
+DRG20509,A412,Sepsis due to unspecified staphylococcus
+DRG20509,A413,Sepsis due to Hemophilus influenzae
+DRG20509,A414,Sepsis due to anaerobes
+DRG20509,A4150,"Gram-negative sepsis, unspecified"
+DRG20509,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG20509,A4152,Sepsis due to Pseudomonas
+DRG20509,A4153,Sepsis due to Serratia
+DRG20509,A4159,Other Gram-negative sepsis
+DRG20509,A4181,Sepsis due to Enterococcus
+DRG20509,A4189,Other specified sepsis
+DRG20509,A419,"Sepsis, unspecified organism"
+DRG20509,B3741,Candidal cystitis and urethritis
+DRG20509,B3742,Candidal balanitis
+DRG20509,B3749,Other urogenital candidiasis
+DRG20509,B377,Candidal sepsis
+DRG20509,I8501,Esophageal varices with bleeding
+DRG20509,I8511,Secondary esophageal varices with bleeding
+DRG20509,J120,Adenoviral pneumonia
+DRG20509,J121,Respiratory syncytial virus pneumonia
+DRG20509,J122,Parainfluenza virus pneumonia
+DRG20509,J123,Human metapneumovirus pneumonia
+DRG20509,J1281,Pneumonia due to SARS-associated coronavirus
+DRG20509,J1289,Other viral pneumonia
+DRG20509,J129,"Viral pneumonia, unspecified"
+DRG20509,J188,"Other pneumonia, unspecified organism"
+DRG20509,J189,"Pneumonia, unspecified organism"
+DRG20509,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG20509,J9601,Acute respiratory failure with hypoxia
+DRG20509,J9602,Acute respiratory failure with hypercapnia
+DRG20509,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG20509,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG20509,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG20509,K226,Gastro-esophageal laceration-hemorrhage syndrome
+DRG20509,K228,Other specified diseases of esophagus
+DRG20509,K250,Acute gastric ulcer with hemorrhage
+DRG20509,K252,Acute gastric ulcer with both hemorrhage and perforation
+DRG20509,K254,Chronic or unspecified gastric ulcer with hemorrhage
+DRG20509,K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation
+DRG20509,K260,Acute duodenal ulcer with hemorrhage
+DRG20509,K262,Acute duodenal ulcer with both hemorrhage and perforation
+DRG20509,K264,Chronic or unspecified duodenal ulcer with hemorrhage
+DRG20509,K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation
+DRG20509,K270,"Acute peptic ulcer, site unspecified, with hemorrhage"
+DRG20509,K272,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation"
+DRG20509,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
+DRG20509,K276,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation"
+DRG20509,K280,Acute gastrojejunal ulcer with hemorrhage
+DRG20509,K282,Acute gastrojejunal ulcer with both hemorrhage and perforation
+DRG20509,K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage
+DRG20509,K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
+DRG20509,K2901,Acute gastritis with bleeding
+DRG20509,K2921,Alcoholic gastritis with bleeding
+DRG20509,K2931,Chronic superficial gastritis with bleeding
+DRG20509,K2941,Chronic atrophic gastritis with bleeding
+DRG20509,K2951,Unspecified chronic gastritis with bleeding
+DRG20509,K2961,Other gastritis with bleeding
+DRG20509,K2971,"Gastritis, unspecified, with bleeding"
+DRG20509,K2981,Duodenitis with bleeding
+DRG20509,K2991,"Gastroduodenitis, unspecified, with bleeding"
+DRG20509,K31811,Angiodysplasia of stomach and duodenum with bleeding
+DRG20509,K3182,Dieulafoy lesion (hemorrhagic) of stomach and duodenum
+DRG20509,K5281,Eosinophilic gastritis or gastroenteritis
+DRG20509,K5521,Angiodysplasia of colon with hemorrhage
+DRG20509,K5660,Unspecified intestinal obstruction
+DRG20509,K5701,Diverticulitis of small intestine with perforation and abscess with bleeding
+DRG20509,K5711,Diverticulosis of small intestine without perforation or abscess with bleeding
+DRG20509,K5713,Diverticulitis of small intestine without perforation or abscess with bleeding
+DRG20509,K5721,Diverticulitis of large intestine with perforation and abscess with bleeding
+DRG20509,K5731,Diverticulosis of large intestine without perforation or abscess with bleeding
+DRG20509,K5733,Diverticulitis of large intestine without perforation or abscess with bleeding
+DRG20509,K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding"
+DRG20509,K5791,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding"
+DRG20509,K5793,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding"
+DRG20509,K625,Hemorrhage of anus and rectum
+DRG20509,K650,Generalized (acute) peritonitis
+DRG20509,K651,Peritoneal abscess
+DRG20509,K652,Spontaneous bacterial peritonitis
+DRG20509,K653,Choleperitonitis
+DRG20509,K654,Sclerosing mesenteritis
+DRG20509,K658,Other peritonitis
+DRG20509,K659,"Peritonitis, unspecified"
+DRG20509,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+DRG20509,K6811,Postprocedural retroperitoneal abscess
+DRG20509,K6819,Other retroperitoneal abscess
+DRG20509,K689,Other disorders of retroperitoneum
+DRG20509,K7210,Chronic hepatic failure without coma
+DRG20509,K7211,Chronic hepatic failure with coma
+DRG20509,K7290,"Hepatic failure, unspecified without coma"
+DRG20509,K767,Hepatorenal syndrome
+DRG20509,K7681,Hepatopulmonary syndrome
+DRG20509,K920,Hematemesis
+DRG20509,K921,Melena
+DRG20509,K922,"Gastrointestinal hemorrhage, unspecified"
+DRG20509,N179,"Acute kidney failure, unspecified"
+DRG20509,N390,"Urinary tract infection, site not specified"
+DRG20509,R188,Other ascites
+DRG20509,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG20509,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG20509,R6520,Severe sepsis without septic shock

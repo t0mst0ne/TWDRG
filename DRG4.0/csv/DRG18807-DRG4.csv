@@ -1,14 +1,14 @@
-,DRG,CM-PCS,en
-10673,DRG18807,K353,Acute appendicitis with localized peritonitis
-10674,DRG18807,K650,Generalized (acute) peritonitis
-10675,DRG18807,K651,Peritoneal abscess
-10676,DRG18807,K652,Spontaneous bacterial peritonitis
-10677,DRG18807,K6819,Other retroperitoneal abscess
-10678,DRG18807,K630,Abscess of intestine
-10679,DRG18807,Q390,Atresia of esophagus without fistula
-10680,DRG18807,Q391,Atresia of esophagus with tracheo-esophageal fistula
-10681,DRG18807,Q392,Congenital tracheo-esophageal fistula without atresia
-10682,DRG18807,Q393,Congenital stenosis and stricture of esophagus
-10683,DRG18807,Q394,Esophageal web
-10684,DRG18807,T281XXA,"Burn of esophagus, initial encounter"
-10685,DRG18807,T286XXA,"Corrosion of esophagus, initial encounter"
+DRG,CM-PCS,en
+DRG18807,K353,Acute appendicitis with localized peritonitis
+DRG18807,K650,Generalized (acute) peritonitis
+DRG18807,K651,Peritoneal abscess
+DRG18807,K652,Spontaneous bacterial peritonitis
+DRG18807,K6819,Other retroperitoneal abscess
+DRG18807,K630,Abscess of intestine
+DRG18807,Q390,Atresia of esophagus without fistula
+DRG18807,Q391,Atresia of esophagus with tracheo-esophageal fistula
+DRG18807,Q392,Congenital tracheo-esophageal fistula without atresia
+DRG18807,Q393,Congenital stenosis and stricture of esophagus
+DRG18807,Q394,Esophageal web
+DRG18807,T281XXA,"Burn of esophagus, initial encounter"
+DRG18807,T286XXA,"Corrosion of esophagus, initial encounter"

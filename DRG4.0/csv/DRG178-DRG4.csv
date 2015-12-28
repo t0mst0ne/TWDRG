@@ -1,10 +1,10 @@
-,DRG,CM-PCS,en
-9465,DRG00178,K253,Acute gastric ulcer without hemorrhage or perforation
-9466,DRG00178,K257,Chronic gastric ulcer without hemorrhage or perforation
-9467,DRG00178,K259,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
-9468,DRG00178,K263,Acute duodenal ulcer without hemorrhage or perforation
-9469,DRG00178,K267,Chronic duodenal ulcer without hemorrhage or perforation
-9470,DRG00178,K269,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
-9471,DRG00178,K273,"Acute peptic ulcer, site unspecified, without hemorrhage or perforation"
-9472,DRG00178,K277,"Chronic peptic ulcer, site unspecified, without hemorrhage or perforation"
-9473,DRG00178,K279,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation"
+DRG,CM-PCS,en
+DRG00178,K253,Acute gastric ulcer without hemorrhage or perforation
+DRG00178,K257,Chronic gastric ulcer without hemorrhage or perforation
+DRG00178,K259,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
+DRG00178,K263,Acute duodenal ulcer without hemorrhage or perforation
+DRG00178,K267,Chronic duodenal ulcer without hemorrhage or perforation
+DRG00178,K269,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
+DRG00178,K273,"Acute peptic ulcer, site unspecified, without hemorrhage or perforation"
+DRG00178,K277,"Chronic peptic ulcer, site unspecified, without hemorrhage or perforation"
+DRG00178,K279,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation"

@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-32459,DRG11202,02703ZZ,"Dilation of Coronary Artery, One Site, Percutaneous Approach"
-32460,DRG11202,02703Z6,"Dilation of Coronary Artery, One Site, Bifurcation, Percutaneous Approach"
-32461,DRG11202,02704ZZ,"Dilation of Coronary Artery, One Site, Percutaneous Endoscopic Approach"
-32462,DRG11202,02704Z6,"Dilation of Coronary Artery, One Site, Bifurcation, Percutaneous Endoscopic Approach"
-32465,DRG11202,I2582,coronary chronic total occlusion(CTO) 冠狀動脈慢性完全閉塞
+DRG,CM-PCS,en
+DRG11202,02703ZZ,"Dilation of Coronary Artery, One Site, Percutaneous Approach"
+DRG11202,02703Z6,"Dilation of Coronary Artery, One Site, Bifurcation, Percutaneous Approach"
+DRG11202,02704ZZ,"Dilation of Coronary Artery, One Site, Percutaneous Endoscopic Approach"
+DRG11202,02704Z6,"Dilation of Coronary Artery, One Site, Bifurcation, Percutaneous Endoscopic Approach"
+DRG11202,I2582,coronary chronic total occlusion(CTO) 冠狀動脈慢性完全閉塞

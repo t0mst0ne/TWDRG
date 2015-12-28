@@ -1,81 +1,81 @@
-,DRG,CM-PCS,en
-2020,DRG39611,D510,Vitamin B12 deficiency anemia due to intrinsic factor deficiency
-2021,DRG39611,D511,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria
-2022,DRG39611,D512,Transcobalamin II deficiency
-2023,DRG39611,D513,Other dietary vitamin B12 deficiency anemia
-2024,DRG39611,D518,Other vitamin B12 deficiency anemias
-2025,DRG39611,D519,"Vitamin B12 deficiency anemia, unspecified"
-2026,DRG39611,D520,Dietary folate deficiency anemia
-2027,DRG39611,D521,Drug-induced folate deficiency anemia
-2028,DRG39611,D528,Other folate deficiency anemias
-2029,DRG39611,D529,"Folate deficiency anemia, unspecified"
-2030,DRG39611,D530,Protein deficiency anemia
-2031,DRG39611,D531,"Other megaloblastic anemias, not elsewhere classified"
-2032,DRG39611,D532,Scorbutic anemia
-2033,DRG39611,D538,Other specified nutritional anemias
-2034,DRG39611,D539,"Nutritional anemia, unspecified"
-2035,DRG39611,D550,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
-2036,DRG39611,D551,Anemia due to other disorders of glutathione metabolism
-2037,DRG39611,D552,Anemia due to disorders of glycolytic enzymes
-2038,DRG39611,D553,Anemia due to disorders of nucleotide metabolism
-2039,DRG39611,D558,Other anemias due to enzyme disorders
-2040,DRG39611,D559,"Anemia due to enzyme disorder, unspecified"
-2041,DRG39611,D564,Hereditary persistence of fetal hemoglobin [HPFH]
-2042,DRG39611,D5700,"Hb-SS disease with crisis, unspecified"
-2043,DRG39611,D5701,Hb-SS disease with acute chest syndrome
-2044,DRG39611,D5702,Hb-SS disease with splenic sequestration
-2045,DRG39611,D571,Sickle-cell disease without crisis
-2046,DRG39611,D5720,Sickle-cell/Hb-C disease without crisis
-2047,DRG39611,D57211,Sickle-cell/Hb-C disease with acute chest syndrome
-2048,DRG39611,D57212,Sickle-cell/Hb-C disease with splenic sequestration
-2049,DRG39611,D57219,"Sickle-cell/Hb-C disease with crisis, unspecified"
-2050,DRG39611,D573,Sickle-cell trait
-2051,DRG39611,D5780,Other sickle-cell disorders without crisis
-2052,DRG39611,D57811,Other sickle-cell disorders with acute chest syndrome
-2053,DRG39611,D57812,Other sickle-cell disorders with splenic sequestration
-2054,DRG39611,D57819,"Other sickle-cell disorders with crisis, unspecified"
-2055,DRG39611,D580,Hereditary spherocytosis
-2056,DRG39611,D581,Hereditary elliptocytosis
-2057,DRG39611,D582,Other hemoglobinopathies
-2058,DRG39611,D588,Other specified hereditary hemolytic anemias
-2059,DRG39611,D589,"Hereditary hemolytic anemia, unspecified"
-2060,DRG39611,D590,Drug-induced autoimmune hemolytic anemia
-2061,DRG39611,D591,Other autoimmune hemolytic anemias
-2062,DRG39611,D592,Drug-induced nonautoimmune hemolytic anemia
-2063,DRG39611,D593,Hemolytic-uremic syndrome
-2064,DRG39611,D594,Other nonautoimmune hemolytic anemias
-2065,DRG39611,D595,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
-2066,DRG39611,D596,Hemoglobinuria due to hemolysis from other external causes
-2067,DRG39611,D598,Other acquired hemolytic anemias
-2068,DRG39611,D599,"Acquired hemolytic anemia, unspecified"
-2069,DRG39611,D62,Acute posthemorrhagic anemia
-2070,DRG39611,D644,Congenital dyserythropoietic anemia
-2071,DRG39611,D6489,Other specified anemias
-2072,DRG39611,D649,"Anemia, unspecified"
-2073,DRG39611,D740,Congenital methemoglobinemia
-2074,DRG39611,D748,Other methemoglobinemias
-2075,DRG39611,D749,"Methemoglobinemia, unspecified"
-2076,DRG39611,R710,Precipitous drop in hematocrit
-2077,DRG39611,R718,Other abnormality of red blood cells
-2078,DRG39611,T8030XA,"ABO incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
-2079,DRG39611,T80310A,"ABO incompatibility with acute hemolytic transfusion reaction, initial encounter"
-2080,DRG39611,T80311A,"ABO incompatibility with delayed hemolytic transfusion reaction, initial encounter"
-2081,DRG39611,T80319A,"ABO incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
-2082,DRG39611,T8039XA,"Other ABO incompatibility reaction due to transfusion of blood or blood products, initial encounter"
-2083,DRG39611,T8040XA,"Rh incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
-2084,DRG39611,T80410A,"Rh incompatibility with acute hemolytic transfusion reaction, initial encounter"
-2085,DRG39611,T80411A,"Rh incompatibility with delayed hemolytic transfusion reaction, initial encounter"
-2086,DRG39611,T80419A,"Rh incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
-2087,DRG39611,T8049XA,"Other Rh incompatibility reaction due to transfusion of blood or blood products, initial encounter"
-2088,DRG39611,T8051XA,"Anaphylactic reaction due to administration of blood and blood products, initial encounter"
-2089,DRG39611,T8061XA,"Other serum reaction due to administration of blood and blood products, initial encounter"
-2090,DRG39611,T8089XA,"Other complications following infusion, transfusion and therapeutic injection, initial encounter"
-2091,DRG39611,T80910A,"Acute hemolytic transfusion reaction, unspecified incompatibility, initial encounter"
-2092,DRG39611,T80911A,"Delayed hemolytic transfusion reaction, unspecified incompatibility, initial encounter"
-2093,DRG39611,T80919A,"Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, initial encounter"
-2094,DRG39611,T8092XA,"Unspecified transfusion reaction, initial encounter"
-2095,DRG39611,T80A0XA,"Non-ABO incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
-2096,DRG39611,T80A10A,"Non-ABO incompatibility with acute hemolytic transfusion reaction, initial encounter"
-2097,DRG39611,T80A11A,"Non-ABO incompatibility with delayed hemolytic transfusion reaction, initial encounter"
-2098,DRG39611,T80A19A,"Non-ABO incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
-2099,DRG39611,T80A9XA,"Other non-ABO incompatibility reaction due to transfusion of blood or blood products, initial encounter"
+DRG,CM-PCS,en
+DRG39611,D510,Vitamin B12 deficiency anemia due to intrinsic factor deficiency
+DRG39611,D511,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria
+DRG39611,D512,Transcobalamin II deficiency
+DRG39611,D513,Other dietary vitamin B12 deficiency anemia
+DRG39611,D518,Other vitamin B12 deficiency anemias
+DRG39611,D519,"Vitamin B12 deficiency anemia, unspecified"
+DRG39611,D520,Dietary folate deficiency anemia
+DRG39611,D521,Drug-induced folate deficiency anemia
+DRG39611,D528,Other folate deficiency anemias
+DRG39611,D529,"Folate deficiency anemia, unspecified"
+DRG39611,D530,Protein deficiency anemia
+DRG39611,D531,"Other megaloblastic anemias, not elsewhere classified"
+DRG39611,D532,Scorbutic anemia
+DRG39611,D538,Other specified nutritional anemias
+DRG39611,D539,"Nutritional anemia, unspecified"
+DRG39611,D550,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
+DRG39611,D551,Anemia due to other disorders of glutathione metabolism
+DRG39611,D552,Anemia due to disorders of glycolytic enzymes
+DRG39611,D553,Anemia due to disorders of nucleotide metabolism
+DRG39611,D558,Other anemias due to enzyme disorders
+DRG39611,D559,"Anemia due to enzyme disorder, unspecified"
+DRG39611,D564,Hereditary persistence of fetal hemoglobin [HPFH]
+DRG39611,D5700,"Hb-SS disease with crisis, unspecified"
+DRG39611,D5701,Hb-SS disease with acute chest syndrome
+DRG39611,D5702,Hb-SS disease with splenic sequestration
+DRG39611,D571,Sickle-cell disease without crisis
+DRG39611,D5720,Sickle-cell/Hb-C disease without crisis
+DRG39611,D57211,Sickle-cell/Hb-C disease with acute chest syndrome
+DRG39611,D57212,Sickle-cell/Hb-C disease with splenic sequestration
+DRG39611,D57219,"Sickle-cell/Hb-C disease with crisis, unspecified"
+DRG39611,D573,Sickle-cell trait
+DRG39611,D5780,Other sickle-cell disorders without crisis
+DRG39611,D57811,Other sickle-cell disorders with acute chest syndrome
+DRG39611,D57812,Other sickle-cell disorders with splenic sequestration
+DRG39611,D57819,"Other sickle-cell disorders with crisis, unspecified"
+DRG39611,D580,Hereditary spherocytosis
+DRG39611,D581,Hereditary elliptocytosis
+DRG39611,D582,Other hemoglobinopathies
+DRG39611,D588,Other specified hereditary hemolytic anemias
+DRG39611,D589,"Hereditary hemolytic anemia, unspecified"
+DRG39611,D590,Drug-induced autoimmune hemolytic anemia
+DRG39611,D591,Other autoimmune hemolytic anemias
+DRG39611,D592,Drug-induced nonautoimmune hemolytic anemia
+DRG39611,D593,Hemolytic-uremic syndrome
+DRG39611,D594,Other nonautoimmune hemolytic anemias
+DRG39611,D595,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
+DRG39611,D596,Hemoglobinuria due to hemolysis from other external causes
+DRG39611,D598,Other acquired hemolytic anemias
+DRG39611,D599,"Acquired hemolytic anemia, unspecified"
+DRG39611,D62,Acute posthemorrhagic anemia
+DRG39611,D644,Congenital dyserythropoietic anemia
+DRG39611,D6489,Other specified anemias
+DRG39611,D649,"Anemia, unspecified"
+DRG39611,D740,Congenital methemoglobinemia
+DRG39611,D748,Other methemoglobinemias
+DRG39611,D749,"Methemoglobinemia, unspecified"
+DRG39611,R710,Precipitous drop in hematocrit
+DRG39611,R718,Other abnormality of red blood cells
+DRG39611,T8030XA,"ABO incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
+DRG39611,T80310A,"ABO incompatibility with acute hemolytic transfusion reaction, initial encounter"
+DRG39611,T80311A,"ABO incompatibility with delayed hemolytic transfusion reaction, initial encounter"
+DRG39611,T80319A,"ABO incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
+DRG39611,T8039XA,"Other ABO incompatibility reaction due to transfusion of blood or blood products, initial encounter"
+DRG39611,T8040XA,"Rh incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
+DRG39611,T80410A,"Rh incompatibility with acute hemolytic transfusion reaction, initial encounter"
+DRG39611,T80411A,"Rh incompatibility with delayed hemolytic transfusion reaction, initial encounter"
+DRG39611,T80419A,"Rh incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
+DRG39611,T8049XA,"Other Rh incompatibility reaction due to transfusion of blood or blood products, initial encounter"
+DRG39611,T8051XA,"Anaphylactic reaction due to administration of blood and blood products, initial encounter"
+DRG39611,T8061XA,"Other serum reaction due to administration of blood and blood products, initial encounter"
+DRG39611,T8089XA,"Other complications following infusion, transfusion and therapeutic injection, initial encounter"
+DRG39611,T80910A,"Acute hemolytic transfusion reaction, unspecified incompatibility, initial encounter"
+DRG39611,T80911A,"Delayed hemolytic transfusion reaction, unspecified incompatibility, initial encounter"
+DRG39611,T80919A,"Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, initial encounter"
+DRG39611,T8092XA,"Unspecified transfusion reaction, initial encounter"
+DRG39611,T80A0XA,"Non-ABO incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
+DRG39611,T80A10A,"Non-ABO incompatibility with acute hemolytic transfusion reaction, initial encounter"
+DRG39611,T80A11A,"Non-ABO incompatibility with delayed hemolytic transfusion reaction, initial encounter"
+DRG39611,T80A19A,"Non-ABO incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
+DRG39611,T80A9XA,"Other non-ABO incompatibility reaction due to transfusion of blood or blood products, initial encounter"

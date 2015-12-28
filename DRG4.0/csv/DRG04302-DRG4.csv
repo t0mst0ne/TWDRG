@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-3581,DRG04302,H2100,"Hyphema, unspecified eye"
-3582,DRG04302,H2101,"Hyphema, right eye"
-3583,DRG04302,H2102,"Hyphema, left eye"
-3584,DRG04302,H2103,"Hyphema, bilateral"
+DRG,CM-PCS,en
+DRG04302,H2100,"Hyphema, unspecified eye"
+DRG04302,H2101,"Hyphema, right eye"
+DRG04302,H2102,"Hyphema, left eye"
+DRG04302,H2103,"Hyphema, bilateral"

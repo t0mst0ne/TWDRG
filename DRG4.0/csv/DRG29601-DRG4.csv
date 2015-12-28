@@ -1,35 +1,35 @@
-,DRG,CM-PCS,en
-23862,DRG29601,E15,Nondiabetic hypoglycemic coma
-23863,DRG29601,E162,"Hypoglycemia, unspecified"
-23864,DRG29601,E201,Pseudohypoparathyroidism
-23865,DRG29601,E65,Localized adiposity
-23866,DRG29601,E6601,Morbid (severe) obesity due to excess calories
-23867,DRG29601,E6609,Other obesity due to excess calories
-23868,DRG29601,E661,Drug-induced obesity
-23869,DRG29601,E662,Morbid (severe) obesity with alveolar hypoventilation
-23870,DRG29601,E668,Other obesity
-23871,DRG29601,E669,"Obesity, unspecified"
-23872,DRG29601,E8350,Unspecified disorder of calcium metabolism
-23873,DRG29601,E8351,Hypocalcemia
-23874,DRG29601,E8352,Hypercalcemia
-23875,DRG29601,E8359,Other disorders of calcium metabolism
-23876,DRG29601,E8381,Hungry bone syndrome
-23877,DRG29601,E870,Hyperosmolality and hypernatremia
-23878,DRG29601,E871,Hypo-osmolality and hyponatremia
-23879,DRG29601,E872,Acidosis
-23880,DRG29601,E873,Alkalosis
-23881,DRG29601,E874,Mixed disorder of acid-base balance
-23882,DRG29601,E875,Hyperkalemia
-23883,DRG29601,E876,Hypokalemia
-23884,DRG29601,E878,"Other disorders of electrolyte and fluid balance, not elsewhere classified"
-23885,DRG29601,E891,Postprocedural hypoinsulinemia
-23886,DRG29601,R631,Polydipsia
-23887,DRG29601,R632,Polyphagia
-23888,DRG29601,R634,Abnormal weight loss
-23889,DRG29601,R635,Abnormal weight gain
-23890,DRG29601,R636,Underweight
-23891,DRG29601,R7301,Impaired fasting glucose
-23892,DRG29601,R7302,Impaired glucose tolerance (oral)
-23893,DRG29601,R7309,Other abnormal glucose
-23894,DRG29601,R739,"Hyperglycemia, unspecified"
-23895,DRG29601,R824,Acetonuria
+DRG,CM-PCS,en
+DRG29601,E15,Nondiabetic hypoglycemic coma
+DRG29601,E162,"Hypoglycemia, unspecified"
+DRG29601,E201,Pseudohypoparathyroidism
+DRG29601,E65,Localized adiposity
+DRG29601,E6601,Morbid (severe) obesity due to excess calories
+DRG29601,E6609,Other obesity due to excess calories
+DRG29601,E661,Drug-induced obesity
+DRG29601,E662,Morbid (severe) obesity with alveolar hypoventilation
+DRG29601,E668,Other obesity
+DRG29601,E669,"Obesity, unspecified"
+DRG29601,E8350,Unspecified disorder of calcium metabolism
+DRG29601,E8351,Hypocalcemia
+DRG29601,E8352,Hypercalcemia
+DRG29601,E8359,Other disorders of calcium metabolism
+DRG29601,E8381,Hungry bone syndrome
+DRG29601,E870,Hyperosmolality and hypernatremia
+DRG29601,E871,Hypo-osmolality and hyponatremia
+DRG29601,E872,Acidosis
+DRG29601,E873,Alkalosis
+DRG29601,E874,Mixed disorder of acid-base balance
+DRG29601,E875,Hyperkalemia
+DRG29601,E876,Hypokalemia
+DRG29601,E878,"Other disorders of electrolyte and fluid balance, not elsewhere classified"
+DRG29601,E891,Postprocedural hypoinsulinemia
+DRG29601,R631,Polydipsia
+DRG29601,R632,Polyphagia
+DRG29601,R634,Abnormal weight loss
+DRG29601,R635,Abnormal weight gain
+DRG29601,R636,Underweight
+DRG29601,R7301,Impaired fasting glucose
+DRG29601,R7302,Impaired glucose tolerance (oral)
+DRG29601,R7309,Other abnormal glucose
+DRG29601,R739,"Hyperglycemia, unspecified"
+DRG29601,R824,Acetonuria

@@ -1,140 +1,140 @@
-,DRG,CM-PCS,en
-14289,DRG18702,B002,Herpesviral gingivostomatitis and pharyngotonsillitis
-14290,DRG18702,B370,Candidal stomatitis
-14291,DRG18702,B3783,Candidal cheilitis
-14292,DRG18702,D100,Benign neoplasm of lip
-14293,DRG18702,D101,Benign neoplasm of tongue
-14294,DRG18702,D102,Benign neoplasm of floor of mouth
-14295,DRG18702,D1030,Benign neoplasm of unspecified part of mouth
-14296,DRG18702,D1039,Benign neoplasm of other parts of mouth
-14297,DRG18702,D165,Benign neoplasm of lower jaw bone
-14298,DRG18702,K098,"Other cysts of oral region, not elsewhere classified"
-14299,DRG18702,K099,"Cyst of oral region, unspecified"
-14300,DRG18702,K120,Recurrent oral aphthae
-14301,DRG18702,K121,Other forms of stomatitis
-14302,DRG18702,K122,Cellulitis and abscess of mouth
-14303,DRG18702,K1230,"Oral mucositis (ulcerative), unspecified"
-14304,DRG18702,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
-14305,DRG18702,K1232,Oral mucositis (ulcerative) due to other drugs
-14306,DRG18702,K1233,Oral mucositis (ulcerative) due to radiation
-14307,DRG18702,K1239,Other oral mucositis (ulcerative)
-14308,DRG18702,K130,Diseases of lips
-14309,DRG18702,K131,Cheek and lip biting
-14310,DRG18702,K1321,"Leukoplakia of oral mucosa, including tongue"
-14311,DRG18702,K1322,Minimal keratinized residual ridge mucosa
-14312,DRG18702,K1323,Excessive keratinized residual ridge mucosa
-14313,DRG18702,K1324,Leukokeratosis nicotina palati
-14314,DRG18702,K1329,"Other disturbances of oral epithelium, including tongue"
-14315,DRG18702,K133,Hairy leukoplakia
-14316,DRG18702,K134,Granuloma and granuloma-like lesions of oral mucosa
-14317,DRG18702,K135,Oral submucous fibrosis
-14318,DRG18702,K136,Irritative hyperplasia of oral mucosa
-14319,DRG18702,K1370,Unspecified lesions of oral mucosa
-14320,DRG18702,K1379,Other lesions of oral mucosa
-14321,DRG18702,K140,Glossitis
-14322,DRG18702,K141,Geographic tongue
-14323,DRG18702,K142,Median rhomboid glossitis
-14324,DRG18702,K143,Hypertrophy of tongue papillae
-14325,DRG18702,K144,Atrophy of tongue papillae
-14326,DRG18702,K145,Plicated tongue
-14327,DRG18702,K146,Glossodynia
-14328,DRG18702,K148,Other diseases of tongue
-14329,DRG18702,K149,"Disease of tongue, unspecified"
-14332,DRG18702,0CBW0Z0,"Excision of Upper Tooth, Open Approach, Single"
-14333,DRG18702,0CBW0Z1,"Excision of Upper Tooth, Open Approach, Multiple"
-14334,DRG18702,0CBW0Z2,"Excision of Upper Tooth, Open Approach, All"
-14335,DRG18702,0CBWXZ0,"Excision of Upper Tooth, External Approach, Single"
-14336,DRG18702,0CBWXZ1,"Excision of Upper Tooth, External Approach, Multiple"
-14337,DRG18702,0CBWXZ2,"Excision of Upper Tooth, External Approach, All"
-14338,DRG18702,0CBX0Z0,"Excision of Lower Tooth, Open Approach, Single"
-14339,DRG18702,0CBX0Z1,"Excision of Lower Tooth, Open Approach, Multiple"
-14340,DRG18702,0CBX0Z2,"Excision of Lower Tooth, Open Approach, All"
-14341,DRG18702,0CBXXZ0,"Excision of Lower Tooth, External Approach, Single"
-14342,DRG18702,0CBXXZ1,"Excision of Lower Tooth, External Approach, Multiple"
-14343,DRG18702,0CBXXZ2,"Excision of Lower Tooth, External Approach, All"
-14344,DRG18702,0CDWXZ0,"Extraction of Upper Tooth, Single, External Approach"
-14345,DRG18702,0CDWXZ1,"Extraction of Upper Tooth, Multiple, External Approach"
-14346,DRG18702,0CDWXZ2,"Extraction of Upper Tooth, All, External Approach"
-14347,DRG18702,0CDXXZ0,"Extraction of Lower Tooth, Single, External Approach"
-14348,DRG18702,0CDXXZ1,"Extraction of Lower Tooth, Multiple, External Approach"
-14349,DRG18702,0CDXXZ2,"Extraction of Lower Tooth, All, External Approach"
-14350,DRG18702,0CMW0Z0,"Reattachment of Upper Tooth, Single, Open Approach"
-14351,DRG18702,0CMW0Z1,"Reattachment of Upper Tooth, Multiple, Open Approach"
-14352,DRG18702,0CMW0Z2,"Reattachment of Upper Tooth, All, Open Approach"
-14353,DRG18702,0CMWXZ0,"Reattachment of Upper Tooth, Single, External Approach"
-14354,DRG18702,0CMWXZ1,"Reattachment of Upper Tooth, Multiple, External Approach"
-14355,DRG18702,0CMWXZ2,"Reattachment of Upper Tooth, All, External Approach"
-14356,DRG18702,0CMX0Z0,"Reattachment of Lower Tooth, Single, Open Approach"
-14357,DRG18702,0CMX0Z1,"Reattachment of Lower Tooth, Multiple, Open Approach"
-14358,DRG18702,0CMX0Z2,"Reattachment of Lower Tooth, All, Open Approach"
-14359,DRG18702,0CMXXZ0,"Reattachment of Lower Tooth, Single, External Approach"
-14360,DRG18702,0CMXXZ1,"Reattachment of Lower Tooth, Multiple, External Approach"
-14361,DRG18702,0CMXXZ2,"Reattachment of Lower Tooth, All, External Approach"
-14362,DRG18702,0CQW0Z0,"Repair of Upper Tooth, Single, Open Approach"
-14363,DRG18702,0CQW0Z1,"Repair of Upper Tooth, Multiple, Open Approach"
-14364,DRG18702,0CQW0Z2,"Repair of Upper Tooth, All, Open Approach"
-14365,DRG18702,0CQWXZ0,"Repair of Upper Tooth, Single, External Approach"
-14366,DRG18702,0CQWXZ1,"Repair of Upper Tooth, Multiple, External Approach"
-14367,DRG18702,0CQWXZ2,"Repair of Upper Tooth, All, External Approach"
-14368,DRG18702,0CQX0Z0,"Repair of Lower Tooth, Single, Open Approach"
-14369,DRG18702,0CQX0Z1,"Repair of Lower Tooth, Multiple, Open Approach"
-14370,DRG18702,0CQX0Z2,"Repair of Lower Tooth, All, Open Approach"
-14371,DRG18702,0CQXXZ0,"Repair of Lower Tooth, Single, External Approach"
-14372,DRG18702,0CQXXZ1,"Repair of Lower Tooth, Multiple, External Approach"
-14373,DRG18702,0CQXXZ2,"Repair of Lower Tooth, All, External Approach"
-14374,DRG18702,0CRW070,"Replacement of Upper Tooth, Single, with Autologous Tissue Substitute, Open Approach"
-14375,DRG18702,0CRW071,"Replacement of Upper Tooth, Multiple, with Autologous Tissue Substitute, Open Approach"
-14376,DRG18702,0CRW072,"Replacement of Upper Tooth, All, with Autologous Tissue Substitute, Open Approach"
-14377,DRG18702,0CRW0J0,"Replacement of Upper Tooth, Single, with Synthetic Substitute, Open Approach"
-14378,DRG18702,0CRW0J1,"Replacement of Upper Tooth, Multiple, with Synthetic Substitute, Open Approach"
-14379,DRG18702,0CRW0J2,"Replacement of Upper Tooth, All, with Synthetic Substitute, Open Approach"
-14380,DRG18702,0CRW0K0,"Replacement of Upper Tooth, Single, with Nonautologous Tissue Substitute, Open Approach"
-14381,DRG18702,0CRW0K1,"Replacement of Upper Tooth, Multiple, with Nonautologous Tissue Substitute, Open Approach"
-14382,DRG18702,0CRW0K2,"Replacement of Upper Tooth, All, with Nonautologous Tissue Substitute, Open Approach"
-14383,DRG18702,0CRWX70,"Replacement of Upper Tooth, Single, with Autologous Tissue Substitute, External Approach"
-14384,DRG18702,0CRWX71,"Replacement of Upper Tooth, Multiple, with Autologous Tissue Substitute, External Approach"
-14385,DRG18702,0CRWX72,"Replacement of Upper Tooth, All, with Autologous Tissue Substitute, External Approach"
-14386,DRG18702,0CRWXJ0,"Replacement of Upper Tooth, Single, with Synthetic Substitute, External Approach"
-14387,DRG18702,0CRWXJ1,"Replacement of Upper Tooth, Multiple, with Synthetic Substitute, External Approach"
-14388,DRG18702,0CRWXJ2,"Replacement of Upper Tooth, All, with Synthetic Substitute, External Approach"
-14389,DRG18702,0CRWXK0,"Replacement of Upper Tooth, Single, with Nonautologous Tissue Substitute, External Approach"
-14390,DRG18702,0CRWXK1,"Replacement of Upper Tooth, Multiple, with Nonautologous Tissue Substitute, External Approach"
-14391,DRG18702,0CRWXK2,"Replacement of Upper Tooth, All, with Nonautologous Tissue Substitute, External Approach"
-14392,DRG18702,0CRX070,"Replacement of Lower Tooth, Single, with Autologous Tissue Substitute, Open Approach"
-14393,DRG18702,0CRX071,"Replacement of Lower Tooth, Multiple, with Autologous Tissue Substitute, Open Approach"
-14394,DRG18702,0CRX072,"Replacement of Lower Tooth, All, with Autologous Tissue Substitute, Open Approach"
-14395,DRG18702,0CRX0J0,"Replacement of Lower Tooth, Single, with Synthetic Substitute, Open Approach"
-14396,DRG18702,0CRX0J1,"Replacement of Lower Tooth, Multiple, with Synthetic Substitute, Open Approach"
-14397,DRG18702,0CRX0J2,"Replacement of Lower Tooth, All, with Synthetic Substitute, Open Approach"
-14398,DRG18702,0CRX0K0,"Replacement of Lower Tooth, Single, with Nonautologous Tissue Substitute, Open Approach"
-14399,DRG18702,0CRX0K1,"Replacement of Lower Tooth, Multiple, with Nonautologous Tissue Substitute, Open Approach"
-14400,DRG18702,0CRX0K2,"Replacement of Lower Tooth, All, with Nonautologous Tissue Substitute, Open Approach"
-14401,DRG18702,0CRXX70,"Replacement of Lower Tooth, Single, with Autologous Tissue Substitute, External Approach"
-14402,DRG18702,0CRXX71,"Replacement of Lower Tooth, Multiple, with Autologous Tissue Substitute, External Approach"
-14403,DRG18702,0CRXX72,"Replacement of Lower Tooth, All, with Autologous Tissue Substitute, External Approach"
-14404,DRG18702,0CRXXJ0,"Replacement of Lower Tooth, Single, with Synthetic Substitute, External Approach"
-14405,DRG18702,0CRXXJ1,"Replacement of Lower Tooth, Multiple, with Synthetic Substitute, External Approach"
-14406,DRG18702,0CRXXJ2,"Replacement of Lower Tooth, All, with Synthetic Substitute, External Approach"
-14407,DRG18702,0CRXXK0,"Replacement of Lower Tooth, Single, with Nonautologous Tissue Substitute, External Approach"
-14408,DRG18702,0CRXXK1,"Replacement of Lower Tooth, Multiple, with Nonautologous Tissue Substitute, External Approach"
-14409,DRG18702,0CRXXK2,"Replacement of Lower Tooth, All, with Nonautologous Tissue Substitute, External Approach"
-14410,DRG18702,0CTW0Z0,"Resection of Upper Tooth, Single, Open Approach"
-14411,DRG18702,0CTW0Z1,"Resection of Upper Tooth, Multiple, Open Approach"
-14412,DRG18702,0CTW0Z2,"Resection of Upper Tooth, All, Open Approach"
-14413,DRG18702,0CTX0Z0,"Resection of Lower Tooth, Single, Open Approach"
-14414,DRG18702,0CTX0Z1,"Resection of Lower Tooth, Multiple, Open Approach"
-14415,DRG18702,0CTX0Z2,"Resection of Lower Tooth, All, Open Approach"
-14418,DRG18702,0CSW050,"Reposition Upper Tooth with External Fixation Device, Single, Open Approach"
-14419,DRG18702,0CSW051,"Reposition Upper Tooth with External Fixation Device, Multiple, Open Approach"
-14420,DRG18702,0CSW052,"Reposition Upper Tooth with External Fixation Device, All, Open Approach"
-14421,DRG18702,0CSWX50,"Reposition Upper Tooth, Single, with External Fixation Device, External Approach"
-14422,DRG18702,0CSWX51,"Reposition Upper Tooth, Multiple, with External Fixation Device, External Approach"
-14423,DRG18702,0CSWX52,"Reposition Upper Tooth, All, with External Fixation Device, External Approach"
-14424,DRG18702,0CSX050,"Reposition Lower Tooth with External Fixation Device, Single, Open Approach"
-14425,DRG18702,0CSX051,"Reposition Lower Tooth with External Fixation Device, Multiple, Open Approach"
-14426,DRG18702,0CSX052,"Reposition Lower Tooth with External Fixation Device, All, Open Approach"
-14427,DRG18702,0CSXX50,"Reposition Lower Tooth, Single, with External Fixation Device, External Approach"
-14428,DRG18702,0CSXX51,"Reposition Lower Tooth, Multiple, with External Fixation Device, External Approach"
-14429,DRG18702,0CSXX52,"Reposition Lower Tooth, All, with External Fixation Device, External Approach"
-14430,DRG18702,2W31X9Z,Immobilization of Face using Wire
-14431,DRG18702,2W31XYZ,Immobilization of Face using Other Device
+DRG,CM-PCS,en
+DRG18702,B002,Herpesviral gingivostomatitis and pharyngotonsillitis
+DRG18702,B370,Candidal stomatitis
+DRG18702,B3783,Candidal cheilitis
+DRG18702,D100,Benign neoplasm of lip
+DRG18702,D101,Benign neoplasm of tongue
+DRG18702,D102,Benign neoplasm of floor of mouth
+DRG18702,D1030,Benign neoplasm of unspecified part of mouth
+DRG18702,D1039,Benign neoplasm of other parts of mouth
+DRG18702,D165,Benign neoplasm of lower jaw bone
+DRG18702,K098,"Other cysts of oral region, not elsewhere classified"
+DRG18702,K099,"Cyst of oral region, unspecified"
+DRG18702,K120,Recurrent oral aphthae
+DRG18702,K121,Other forms of stomatitis
+DRG18702,K122,Cellulitis and abscess of mouth
+DRG18702,K1230,"Oral mucositis (ulcerative), unspecified"
+DRG18702,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+DRG18702,K1232,Oral mucositis (ulcerative) due to other drugs
+DRG18702,K1233,Oral mucositis (ulcerative) due to radiation
+DRG18702,K1239,Other oral mucositis (ulcerative)
+DRG18702,K130,Diseases of lips
+DRG18702,K131,Cheek and lip biting
+DRG18702,K1321,"Leukoplakia of oral mucosa, including tongue"
+DRG18702,K1322,Minimal keratinized residual ridge mucosa
+DRG18702,K1323,Excessive keratinized residual ridge mucosa
+DRG18702,K1324,Leukokeratosis nicotina palati
+DRG18702,K1329,"Other disturbances of oral epithelium, including tongue"
+DRG18702,K133,Hairy leukoplakia
+DRG18702,K134,Granuloma and granuloma-like lesions of oral mucosa
+DRG18702,K135,Oral submucous fibrosis
+DRG18702,K136,Irritative hyperplasia of oral mucosa
+DRG18702,K1370,Unspecified lesions of oral mucosa
+DRG18702,K1379,Other lesions of oral mucosa
+DRG18702,K140,Glossitis
+DRG18702,K141,Geographic tongue
+DRG18702,K142,Median rhomboid glossitis
+DRG18702,K143,Hypertrophy of tongue papillae
+DRG18702,K144,Atrophy of tongue papillae
+DRG18702,K145,Plicated tongue
+DRG18702,K146,Glossodynia
+DRG18702,K148,Other diseases of tongue
+DRG18702,K149,"Disease of tongue, unspecified"
+DRG18702,0CBW0Z0,"Excision of Upper Tooth, Open Approach, Single"
+DRG18702,0CBW0Z1,"Excision of Upper Tooth, Open Approach, Multiple"
+DRG18702,0CBW0Z2,"Excision of Upper Tooth, Open Approach, All"
+DRG18702,0CBWXZ0,"Excision of Upper Tooth, External Approach, Single"
+DRG18702,0CBWXZ1,"Excision of Upper Tooth, External Approach, Multiple"
+DRG18702,0CBWXZ2,"Excision of Upper Tooth, External Approach, All"
+DRG18702,0CBX0Z0,"Excision of Lower Tooth, Open Approach, Single"
+DRG18702,0CBX0Z1,"Excision of Lower Tooth, Open Approach, Multiple"
+DRG18702,0CBX0Z2,"Excision of Lower Tooth, Open Approach, All"
+DRG18702,0CBXXZ0,"Excision of Lower Tooth, External Approach, Single"
+DRG18702,0CBXXZ1,"Excision of Lower Tooth, External Approach, Multiple"
+DRG18702,0CBXXZ2,"Excision of Lower Tooth, External Approach, All"
+DRG18702,0CDWXZ0,"Extraction of Upper Tooth, Single, External Approach"
+DRG18702,0CDWXZ1,"Extraction of Upper Tooth, Multiple, External Approach"
+DRG18702,0CDWXZ2,"Extraction of Upper Tooth, All, External Approach"
+DRG18702,0CDXXZ0,"Extraction of Lower Tooth, Single, External Approach"
+DRG18702,0CDXXZ1,"Extraction of Lower Tooth, Multiple, External Approach"
+DRG18702,0CDXXZ2,"Extraction of Lower Tooth, All, External Approach"
+DRG18702,0CMW0Z0,"Reattachment of Upper Tooth, Single, Open Approach"
+DRG18702,0CMW0Z1,"Reattachment of Upper Tooth, Multiple, Open Approach"
+DRG18702,0CMW0Z2,"Reattachment of Upper Tooth, All, Open Approach"
+DRG18702,0CMWXZ0,"Reattachment of Upper Tooth, Single, External Approach"
+DRG18702,0CMWXZ1,"Reattachment of Upper Tooth, Multiple, External Approach"
+DRG18702,0CMWXZ2,"Reattachment of Upper Tooth, All, External Approach"
+DRG18702,0CMX0Z0,"Reattachment of Lower Tooth, Single, Open Approach"
+DRG18702,0CMX0Z1,"Reattachment of Lower Tooth, Multiple, Open Approach"
+DRG18702,0CMX0Z2,"Reattachment of Lower Tooth, All, Open Approach"
+DRG18702,0CMXXZ0,"Reattachment of Lower Tooth, Single, External Approach"
+DRG18702,0CMXXZ1,"Reattachment of Lower Tooth, Multiple, External Approach"
+DRG18702,0CMXXZ2,"Reattachment of Lower Tooth, All, External Approach"
+DRG18702,0CQW0Z0,"Repair of Upper Tooth, Single, Open Approach"
+DRG18702,0CQW0Z1,"Repair of Upper Tooth, Multiple, Open Approach"
+DRG18702,0CQW0Z2,"Repair of Upper Tooth, All, Open Approach"
+DRG18702,0CQWXZ0,"Repair of Upper Tooth, Single, External Approach"
+DRG18702,0CQWXZ1,"Repair of Upper Tooth, Multiple, External Approach"
+DRG18702,0CQWXZ2,"Repair of Upper Tooth, All, External Approach"
+DRG18702,0CQX0Z0,"Repair of Lower Tooth, Single, Open Approach"
+DRG18702,0CQX0Z1,"Repair of Lower Tooth, Multiple, Open Approach"
+DRG18702,0CQX0Z2,"Repair of Lower Tooth, All, Open Approach"
+DRG18702,0CQXXZ0,"Repair of Lower Tooth, Single, External Approach"
+DRG18702,0CQXXZ1,"Repair of Lower Tooth, Multiple, External Approach"
+DRG18702,0CQXXZ2,"Repair of Lower Tooth, All, External Approach"
+DRG18702,0CRW070,"Replacement of Upper Tooth, Single, with Autologous Tissue Substitute, Open Approach"
+DRG18702,0CRW071,"Replacement of Upper Tooth, Multiple, with Autologous Tissue Substitute, Open Approach"
+DRG18702,0CRW072,"Replacement of Upper Tooth, All, with Autologous Tissue Substitute, Open Approach"
+DRG18702,0CRW0J0,"Replacement of Upper Tooth, Single, with Synthetic Substitute, Open Approach"
+DRG18702,0CRW0J1,"Replacement of Upper Tooth, Multiple, with Synthetic Substitute, Open Approach"
+DRG18702,0CRW0J2,"Replacement of Upper Tooth, All, with Synthetic Substitute, Open Approach"
+DRG18702,0CRW0K0,"Replacement of Upper Tooth, Single, with Nonautologous Tissue Substitute, Open Approach"
+DRG18702,0CRW0K1,"Replacement of Upper Tooth, Multiple, with Nonautologous Tissue Substitute, Open Approach"
+DRG18702,0CRW0K2,"Replacement of Upper Tooth, All, with Nonautologous Tissue Substitute, Open Approach"
+DRG18702,0CRWX70,"Replacement of Upper Tooth, Single, with Autologous Tissue Substitute, External Approach"
+DRG18702,0CRWX71,"Replacement of Upper Tooth, Multiple, with Autologous Tissue Substitute, External Approach"
+DRG18702,0CRWX72,"Replacement of Upper Tooth, All, with Autologous Tissue Substitute, External Approach"
+DRG18702,0CRWXJ0,"Replacement of Upper Tooth, Single, with Synthetic Substitute, External Approach"
+DRG18702,0CRWXJ1,"Replacement of Upper Tooth, Multiple, with Synthetic Substitute, External Approach"
+DRG18702,0CRWXJ2,"Replacement of Upper Tooth, All, with Synthetic Substitute, External Approach"
+DRG18702,0CRWXK0,"Replacement of Upper Tooth, Single, with Nonautologous Tissue Substitute, External Approach"
+DRG18702,0CRWXK1,"Replacement of Upper Tooth, Multiple, with Nonautologous Tissue Substitute, External Approach"
+DRG18702,0CRWXK2,"Replacement of Upper Tooth, All, with Nonautologous Tissue Substitute, External Approach"
+DRG18702,0CRX070,"Replacement of Lower Tooth, Single, with Autologous Tissue Substitute, Open Approach"
+DRG18702,0CRX071,"Replacement of Lower Tooth, Multiple, with Autologous Tissue Substitute, Open Approach"
+DRG18702,0CRX072,"Replacement of Lower Tooth, All, with Autologous Tissue Substitute, Open Approach"
+DRG18702,0CRX0J0,"Replacement of Lower Tooth, Single, with Synthetic Substitute, Open Approach"
+DRG18702,0CRX0J1,"Replacement of Lower Tooth, Multiple, with Synthetic Substitute, Open Approach"
+DRG18702,0CRX0J2,"Replacement of Lower Tooth, All, with Synthetic Substitute, Open Approach"
+DRG18702,0CRX0K0,"Replacement of Lower Tooth, Single, with Nonautologous Tissue Substitute, Open Approach"
+DRG18702,0CRX0K1,"Replacement of Lower Tooth, Multiple, with Nonautologous Tissue Substitute, Open Approach"
+DRG18702,0CRX0K2,"Replacement of Lower Tooth, All, with Nonautologous Tissue Substitute, Open Approach"
+DRG18702,0CRXX70,"Replacement of Lower Tooth, Single, with Autologous Tissue Substitute, External Approach"
+DRG18702,0CRXX71,"Replacement of Lower Tooth, Multiple, with Autologous Tissue Substitute, External Approach"
+DRG18702,0CRXX72,"Replacement of Lower Tooth, All, with Autologous Tissue Substitute, External Approach"
+DRG18702,0CRXXJ0,"Replacement of Lower Tooth, Single, with Synthetic Substitute, External Approach"
+DRG18702,0CRXXJ1,"Replacement of Lower Tooth, Multiple, with Synthetic Substitute, External Approach"
+DRG18702,0CRXXJ2,"Replacement of Lower Tooth, All, with Synthetic Substitute, External Approach"
+DRG18702,0CRXXK0,"Replacement of Lower Tooth, Single, with Nonautologous Tissue Substitute, External Approach"
+DRG18702,0CRXXK1,"Replacement of Lower Tooth, Multiple, with Nonautologous Tissue Substitute, External Approach"
+DRG18702,0CRXXK2,"Replacement of Lower Tooth, All, with Nonautologous Tissue Substitute, External Approach"
+DRG18702,0CTW0Z0,"Resection of Upper Tooth, Single, Open Approach"
+DRG18702,0CTW0Z1,"Resection of Upper Tooth, Multiple, Open Approach"
+DRG18702,0CTW0Z2,"Resection of Upper Tooth, All, Open Approach"
+DRG18702,0CTX0Z0,"Resection of Lower Tooth, Single, Open Approach"
+DRG18702,0CTX0Z1,"Resection of Lower Tooth, Multiple, Open Approach"
+DRG18702,0CTX0Z2,"Resection of Lower Tooth, All, Open Approach"
+DRG18702,0CSW050,"Reposition Upper Tooth with External Fixation Device, Single, Open Approach"
+DRG18702,0CSW051,"Reposition Upper Tooth with External Fixation Device, Multiple, Open Approach"
+DRG18702,0CSW052,"Reposition Upper Tooth with External Fixation Device, All, Open Approach"
+DRG18702,0CSWX50,"Reposition Upper Tooth, Single, with External Fixation Device, External Approach"
+DRG18702,0CSWX51,"Reposition Upper Tooth, Multiple, with External Fixation Device, External Approach"
+DRG18702,0CSWX52,"Reposition Upper Tooth, All, with External Fixation Device, External Approach"
+DRG18702,0CSX050,"Reposition Lower Tooth with External Fixation Device, Single, Open Approach"
+DRG18702,0CSX051,"Reposition Lower Tooth with External Fixation Device, Multiple, Open Approach"
+DRG18702,0CSX052,"Reposition Lower Tooth with External Fixation Device, All, Open Approach"
+DRG18702,0CSXX50,"Reposition Lower Tooth, Single, with External Fixation Device, External Approach"
+DRG18702,0CSXX51,"Reposition Lower Tooth, Multiple, with External Fixation Device, External Approach"
+DRG18702,0CSXX52,"Reposition Lower Tooth, All, with External Fixation Device, External Approach"
+DRG18702,2W31X9Z,Immobilization of Face using Wire
+DRG18702,2W31XYZ,Immobilization of Face using Other Device

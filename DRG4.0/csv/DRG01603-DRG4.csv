@@ -1,34 +1,34 @@
-,DRG,CM-PCS,en
-47839,DRG01603,G9340,"Encephalopathy, unspecified"
-47840,DRG01603,G9341,Metabolic encephalopathy
-47841,DRG01603,G9349,Other encephalopathy
-47842,DRG01603,G9381,Temporal sclerosis
-47843,DRG01603,G9382,Brain death
-47844,DRG01603,G9389,Other specified disorders of brain
-47845,DRG01603,G939,"Disorder of brain, unspecified"
-47846,DRG01603,G968,Other specified disorders of central nervous system
-47847,DRG01603,G969,"Disorder of central nervous system, unspecified"
-47848,DRG01603,G980,"Neurogenic arthritis, not elsewhere classified"
-47849,DRG01603,G988,Other disorders of nervous system
-47850,DRG01603,I6783,Posterior reversible encephalopathy syndrome
-47853,DRG01603,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
-47854,DRG01603,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
-47855,DRG01603,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
-47856,DRG01603,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
-47857,DRG01603,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
-47858,DRG01603,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
-47859,DRG01603,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
-47860,DRG01603,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
-47861,DRG01603,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
-47862,DRG01603,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
-47863,DRG01603,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
-47864,DRG01603,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
-47865,DRG01603,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
-47866,DRG01603,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
-47867,DRG01603,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47868,DRG01603,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-47869,DRG01603,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
-47870,DRG01603,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-47871,DRG01603,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
-47872,DRG01603,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
-47873,DRG01603,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG,CM-PCS,en
+DRG01603,G9340,"Encephalopathy, unspecified"
+DRG01603,G9341,Metabolic encephalopathy
+DRG01603,G9349,Other encephalopathy
+DRG01603,G9381,Temporal sclerosis
+DRG01603,G9382,Brain death
+DRG01603,G9389,Other specified disorders of brain
+DRG01603,G939,"Disorder of brain, unspecified"
+DRG01603,G968,Other specified disorders of central nervous system
+DRG01603,G969,"Disorder of central nervous system, unspecified"
+DRG01603,G980,"Neurogenic arthritis, not elsewhere classified"
+DRG01603,G988,Other disorders of nervous system
+DRG01603,I6783,Posterior reversible encephalopathy syndrome
+DRG01603,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01603,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01603,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01603,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01603,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01603,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01603,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01603,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01603,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01603,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01603,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+DRG01603,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+DRG01603,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+DRG01603,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+DRG01603,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01603,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01603,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG01603,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01603,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG01603,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+DRG01603,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

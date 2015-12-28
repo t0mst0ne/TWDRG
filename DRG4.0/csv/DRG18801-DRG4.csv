@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-10510,DRG18801,A1831,Tuberculous peritonitis
-10511,DRG18801,A1832,Tuberculous enteritis
-10512,DRG18801,A1839,Retroperitoneal tuberculosis
-10513,DRG18801,A1883,"Tuberculosis of digestive tract organs, not elsewhere classified"
+DRG,CM-PCS,en
+DRG18801,A1831,Tuberculous peritonitis
+DRG18801,A1832,Tuberculous enteritis
+DRG18801,A1839,Retroperitoneal tuberculosis
+DRG18801,A1883,"Tuberculosis of digestive tract organs, not elsewhere classified"

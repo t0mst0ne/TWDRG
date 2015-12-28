@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-24904,DRG29903,E780,Pure hypercholesterolemia
-24905,DRG29903,E781,Pure hyperglyceridemia
-24906,DRG29903,E782,Mixed hyperlipidemia
-24907,DRG29903,E783,Hyperchylomicronemia
-24908,DRG29903,E784,Other hyperlipidemia
+DRG,CM-PCS,en
+DRG29903,E780,Pure hypercholesterolemia
+DRG29903,E781,Pure hyperglyceridemia
+DRG29903,E782,Mixed hyperlipidemia
+DRG29903,E783,Hyperchylomicronemia
+DRG29903,E784,Other hyperlipidemia

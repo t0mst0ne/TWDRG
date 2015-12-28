@@ -1,4 +1,4 @@
-,DRG,CM-PCS,en
-10245,DRG18403,K222,Esophageal obstruction
-10246,DRG18403,K223,Perforation of esophagus
-10247,DRG18403,K449,Diaphragmatic hernia without obstruction or gangrene
+DRG,CM-PCS,en
+DRG18403,K222,Esophageal obstruction
+DRG18403,K223,Perforation of esophagus
+DRG18403,K449,Diaphragmatic hernia without obstruction or gangrene

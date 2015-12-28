@@ -1,55 +1,55 @@
-,DRG,CM-PCS,en
-11079,DRG00325,N393,Stress incontinence (female) (male)
-11080,DRG00325,N3941,Urge incontinence
-11081,DRG00325,N3942,Incontinence without sensory awareness
-11082,DRG00325,N3943,Post-void dribbling
-11083,DRG00325,N3944,Nocturnal enuresis
-11084,DRG00325,N3945,Continuous leakage
-11085,DRG00325,N3946,Mixed incontinence
-11086,DRG00325,N39490,Overflow incontinence
-11087,DRG00325,N39498,Other specified urinary incontinence
-11088,DRG00325,R300,Dysuria
-11089,DRG00325,R301,Vesical tenesmus
-11090,DRG00325,R309,"Painful micturition, unspecified"
-11091,DRG00325,R310,Gross hematuria
-11092,DRG00325,R311,Benign essential microscopic hematuria
-11093,DRG00325,R312,Other microscopic hematuria
-11094,DRG00325,R319,"Hematuria, unspecified"
-11095,DRG00325,R32,Unspecified urinary incontinence
-11096,DRG00325,R330,Drug induced retention of urine
-11097,DRG00325,R338,Other retention of urine
-11098,DRG00325,R339,"Retention of urine, unspecified"
-11099,DRG00325,R350,Frequency of micturition
-11100,DRG00325,R351,Nocturia
-11101,DRG00325,R358,Other polyuria
-11102,DRG00325,R360,Urethral discharge without blood
-11103,DRG00325,R369,"Urethral discharge, unspecified"
-11104,DRG00325,R390,Extravasation of urine
-11105,DRG00325,R3911,Hesitancy of micturition
-11106,DRG00325,R3912,Poor urinary stream
-11107,DRG00325,R3913,Splitting of urinary stream
-11108,DRG00325,R3914,Feeling of incomplete bladder emptying
-11109,DRG00325,R3915,Urgency of urination
-11110,DRG00325,R3916,Straining to void
-11111,DRG00325,R3919,Other difficulties with micturition
-11112,DRG00325,R392,Extrarenal uremia
-11113,DRG00325,R3981,Functional urinary incontinence
-11114,DRG00325,R3989,Other symptoms and signs involving the genitourinary system
-11115,DRG00325,R399,Unspecified symptoms and signs involving the genitourinary system
-11116,DRG00325,R800,Isolated proteinuria
-11117,DRG00325,R801,"Persistent proteinuria, unspecified"
-11118,DRG00325,R803,Bence Jones proteinuria
-11119,DRG00325,R808,Other proteinuria
-11120,DRG00325,R809,"Proteinuria, unspecified"
-11121,DRG00325,R820,Chyluria
-11122,DRG00325,R823,Hemoglobinuria
-11123,DRG00325,R825,"Elevated urine levels of drugs, medicaments and biological substances"
-11124,DRG00325,R826,Abnormal urine levels of substances chiefly nonmedicinal as to source
-11125,DRG00325,R827,Abnormal findings on microbiological examination of urine
-11126,DRG00325,R828,Abnormal findings on cytological and histological examination of urine
-11127,DRG00325,R8290,Unspecified abnormal findings in urine
-11128,DRG00325,R8291,Other chromoabnormalities of urine
-11129,DRG00325,R8299,Other abnormal findings in urine
-11130,DRG00325,R934,Abnormal findings on diagnostic imaging of urinary organs
-11131,DRG00325,R944,Abnormal results of kidney function studies
-11132,DRG00325,R948,Abnormal results of function studies of other organs and systems
+DRG,CM-PCS,en
+DRG00325,N393,Stress incontinence (female) (male)
+DRG00325,N3941,Urge incontinence
+DRG00325,N3942,Incontinence without sensory awareness
+DRG00325,N3943,Post-void dribbling
+DRG00325,N3944,Nocturnal enuresis
+DRG00325,N3945,Continuous leakage
+DRG00325,N3946,Mixed incontinence
+DRG00325,N39490,Overflow incontinence
+DRG00325,N39498,Other specified urinary incontinence
+DRG00325,R300,Dysuria
+DRG00325,R301,Vesical tenesmus
+DRG00325,R309,"Painful micturition, unspecified"
+DRG00325,R310,Gross hematuria
+DRG00325,R311,Benign essential microscopic hematuria
+DRG00325,R312,Other microscopic hematuria
+DRG00325,R319,"Hematuria, unspecified"
+DRG00325,R32,Unspecified urinary incontinence
+DRG00325,R330,Drug induced retention of urine
+DRG00325,R338,Other retention of urine
+DRG00325,R339,"Retention of urine, unspecified"
+DRG00325,R350,Frequency of micturition
+DRG00325,R351,Nocturia
+DRG00325,R358,Other polyuria
+DRG00325,R360,Urethral discharge without blood
+DRG00325,R369,"Urethral discharge, unspecified"
+DRG00325,R390,Extravasation of urine
+DRG00325,R3911,Hesitancy of micturition
+DRG00325,R3912,Poor urinary stream
+DRG00325,R3913,Splitting of urinary stream
+DRG00325,R3914,Feeling of incomplete bladder emptying
+DRG00325,R3915,Urgency of urination
+DRG00325,R3916,Straining to void
+DRG00325,R3919,Other difficulties with micturition
+DRG00325,R392,Extrarenal uremia
+DRG00325,R3981,Functional urinary incontinence
+DRG00325,R3989,Other symptoms and signs involving the genitourinary system
+DRG00325,R399,Unspecified symptoms and signs involving the genitourinary system
+DRG00325,R800,Isolated proteinuria
+DRG00325,R801,"Persistent proteinuria, unspecified"
+DRG00325,R803,Bence Jones proteinuria
+DRG00325,R808,Other proteinuria
+DRG00325,R809,"Proteinuria, unspecified"
+DRG00325,R820,Chyluria
+DRG00325,R823,Hemoglobinuria
+DRG00325,R825,"Elevated urine levels of drugs, medicaments and biological substances"
+DRG00325,R826,Abnormal urine levels of substances chiefly nonmedicinal as to source
+DRG00325,R827,Abnormal findings on microbiological examination of urine
+DRG00325,R828,Abnormal findings on cytological and histological examination of urine
+DRG00325,R8290,Unspecified abnormal findings in urine
+DRG00325,R8291,Other chromoabnormalities of urine
+DRG00325,R8299,Other abnormal findings in urine
+DRG00325,R934,Abnormal findings on diagnostic imaging of urinary organs
+DRG00325,R944,Abnormal results of kidney function studies
+DRG00325,R948,Abnormal results of function studies of other organs and systems

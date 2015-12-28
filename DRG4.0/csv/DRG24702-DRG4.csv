@@ -1,248 +1,248 @@
-,DRG,CM-PCS,en
-50328,DRG24702,G4762,Sleep related leg cramps
-50329,DRG24702,M2510,"Fistula, unspecified joint"
-50330,DRG24702,M25111,"Fistula, right shoulder"
-50331,DRG24702,M25112,"Fistula, left shoulder"
-50332,DRG24702,M25119,"Fistula, unspecified shoulder"
-50333,DRG24702,M25121,"Fistula, right elbow"
-50334,DRG24702,M25122,"Fistula, left elbow"
-50335,DRG24702,M25129,"Fistula, unspecified elbow"
-50336,DRG24702,M25131,"Fistula, right wrist"
-50337,DRG24702,M25132,"Fistula, left wrist"
-50338,DRG24702,M25139,"Fistula, unspecified wrist"
-50339,DRG24702,M25141,"Fistula, right hand"
-50340,DRG24702,M25142,"Fistula, left hand"
-50341,DRG24702,M25149,"Fistula, unspecified hand"
-50342,DRG24702,M25151,"Fistula, right hip"
-50343,DRG24702,M25152,"Fistula, left hip"
-50344,DRG24702,M25159,"Fistula, unspecified hip"
-50345,DRG24702,M25161,"Fistula, right knee"
-50346,DRG24702,M25162,"Fistula, left knee"
-50347,DRG24702,M25169,"Fistula, unspecified knee"
-50348,DRG24702,M25171,"Fistula, right ankle"
-50349,DRG24702,M25172,"Fistula, left ankle"
-50350,DRG24702,M25173,"Fistula, unspecified ankle"
-50351,DRG24702,M25174,"Fistula, right foot"
-50352,DRG24702,M25175,"Fistula, left foot"
-50353,DRG24702,M25176,"Fistula, unspecified foot"
-50354,DRG24702,M2518,"Fistula, other specified site"
-50355,DRG24702,M2550,Pain in unspecified joint
-50356,DRG24702,M25511,Pain in right shoulder
-50357,DRG24702,M25512,Pain in left shoulder
-50358,DRG24702,M25519,Pain in unspecified shoulder
-50359,DRG24702,M25521,Pain in right elbow
-50360,DRG24702,M25522,Pain in left elbow
-50361,DRG24702,M25529,Pain in unspecified elbow
-50362,DRG24702,M25531,Pain in right wrist
-50363,DRG24702,M25532,Pain in left wrist
-50364,DRG24702,M25539,Pain in unspecified wrist
-50365,DRG24702,M25551,Pain in right hip
-50366,DRG24702,M25552,Pain in left hip
-50367,DRG24702,M25559,Pain in unspecified hip
-50368,DRG24702,M25561,Pain in right knee
-50369,DRG24702,M25562,Pain in left knee
-50370,DRG24702,M25569,Pain in unspecified knee
-50371,DRG24702,M25571,Pain in right ankle and joints of right foot
-50372,DRG24702,M25572,Pain in left ankle and joints of left foot
-50373,DRG24702,M25579,Pain in unspecified ankle and joints of unspecified foot
-50374,DRG24702,M2560,"Stiffness of unspecified joint, not elsewhere classified"
-50375,DRG24702,M25611,"Stiffness of right shoulder, not elsewhere classified"
-50376,DRG24702,M25612,"Stiffness of left shoulder, not elsewhere classified"
-50377,DRG24702,M25619,"Stiffness of unspecified shoulder, not elsewhere classified"
-50378,DRG24702,M25621,"Stiffness of right elbow, not elsewhere classified"
-50379,DRG24702,M25622,"Stiffness of left elbow, not elsewhere classified"
-50380,DRG24702,M25629,"Stiffness of unspecified elbow, not elsewhere classified"
-50381,DRG24702,M25631,"Stiffness of right wrist, not elsewhere classified"
-50382,DRG24702,M25632,"Stiffness of left wrist, not elsewhere classified"
-50383,DRG24702,M25639,"Stiffness of unspecified wrist, not elsewhere classified"
-50384,DRG24702,M25641,"Stiffness of right hand, not elsewhere classified"
-50385,DRG24702,M25642,"Stiffness of left hand, not elsewhere classified"
-50386,DRG24702,M25649,"Stiffness of unspecified hand, not elsewhere classified"
-50387,DRG24702,M25651,"Stiffness of right hip, not elsewhere classified"
-50388,DRG24702,M25652,"Stiffness of left hip, not elsewhere classified"
-50389,DRG24702,M25659,"Stiffness of unspecified hip, not elsewhere classified"
-50390,DRG24702,M25661,"Stiffness of right knee, not elsewhere classified"
-50391,DRG24702,M25662,"Stiffness of left knee, not elsewhere classified"
-50392,DRG24702,M25669,"Stiffness of unspecified knee, not elsewhere classified"
-50393,DRG24702,M25671,"Stiffness of right ankle, not elsewhere classified"
-50394,DRG24702,M25672,"Stiffness of left ankle, not elsewhere classified"
-50395,DRG24702,M25673,"Stiffness of unspecified ankle, not elsewhere classified"
-50396,DRG24702,M25674,"Stiffness of right foot, not elsewhere classified"
-50397,DRG24702,M25675,"Stiffness of left foot, not elsewhere classified"
-50398,DRG24702,M25676,"Stiffness of unspecified foot, not elsewhere classified"
-50399,DRG24702,M2580,"Other specified joint disorders, unspecified joint"
-50400,DRG24702,M25811,"Other specified joint disorders, right shoulder"
-50401,DRG24702,M25812,"Other specified joint disorders, left shoulder"
-50402,DRG24702,M25819,"Other specified joint disorders, unspecified shoulder"
-50403,DRG24702,M25821,"Other specified joint disorders, right elbow"
-50404,DRG24702,M25822,"Other specified joint disorders, left elbow"
-50405,DRG24702,M25829,"Other specified joint disorders, unspecified elbow"
-50406,DRG24702,M25831,"Other specified joint disorders, right wrist"
-50407,DRG24702,M25832,"Other specified joint disorders, left wrist"
-50408,DRG24702,M25839,"Other specified joint disorders, unspecified wrist"
-50409,DRG24702,M25841,"Other specified joint disorders, right hand"
-50410,DRG24702,M25842,"Other specified joint disorders, left hand"
-50411,DRG24702,M25849,"Other specified joint disorders, unspecified hand"
-50412,DRG24702,M25851,"Other specified joint disorders, right hip"
-50413,DRG24702,M25852,"Other specified joint disorders, left hip"
-50414,DRG24702,M25859,"Other specified joint disorders, unspecified hip"
-50415,DRG24702,M25861,"Other specified joint disorders, right knee"
-50416,DRG24702,M25862,"Other specified joint disorders, left knee"
-50417,DRG24702,M25869,"Other specified joint disorders, unspecified knee"
-50418,DRG24702,M25871,"Other specified joint disorders, right ankle and foot"
-50419,DRG24702,M25872,"Other specified joint disorders, left ankle and foot"
-50420,DRG24702,M25879,"Other specified joint disorders, unspecified ankle and foot"
-50421,DRG24702,M259,"Joint disorder, unspecified"
-50422,DRG24702,M6080,"Other myositis, unspecified site"
-50423,DRG24702,M60811,"Other myositis, right shoulder"
-50424,DRG24702,M60812,"Other myositis, left shoulder"
-50425,DRG24702,M60819,"Other myositis, unspecified shoulder"
-50426,DRG24702,M60821,"Other myositis, right upper arm"
-50427,DRG24702,M60822,"Other myositis, left upper arm"
-50428,DRG24702,M60829,"Other myositis, unspecified upper arm"
-50429,DRG24702,M60831,"Other myositis, right forearm"
-50430,DRG24702,M60832,"Other myositis, left forearm"
-50431,DRG24702,M60839,"Other myositis, unspecified forearm"
-50432,DRG24702,M60841,"Other myositis, right hand"
-50433,DRG24702,M60842,"Other myositis, left hand"
-50434,DRG24702,M60849,"Other myositis, unspecified hand"
-50435,DRG24702,M60851,"Other myositis, right thigh"
-50436,DRG24702,M60852,"Other myositis, left thigh"
-50437,DRG24702,M60859,"Other myositis, unspecified thigh"
-50438,DRG24702,M60861,"Other myositis, right lower leg"
-50439,DRG24702,M60862,"Other myositis, left lower leg"
-50440,DRG24702,M60869,"Other myositis, unspecified lower leg"
-50441,DRG24702,M60871,"Other myositis, right ankle and foot"
-50442,DRG24702,M60872,"Other myositis, left ankle and foot"
-50443,DRG24702,M60879,"Other myositis, unspecified ankle and foot"
-50444,DRG24702,M6088,"Other myositis, other site"
-50445,DRG24702,M6089,"Other myositis, multiple sites"
-50446,DRG24702,M609,"Myositis, unspecified"
-50447,DRG24702,M6240,"Contracture of muscle, unspecified site"
-50448,DRG24702,M62411,"Contracture of muscle, right shoulder"
-50449,DRG24702,M62412,"Contracture of muscle, left shoulder"
-50450,DRG24702,M62419,"Contracture of muscle, unspecified shoulder"
-50451,DRG24702,M62421,"Contracture of muscle, right upper arm"
-50452,DRG24702,M62422,"Contracture of muscle, left upper arm"
-50453,DRG24702,M62429,"Contracture of muscle, unspecified upper arm"
-50454,DRG24702,M62431,"Contracture of muscle, right forearm"
-50455,DRG24702,M62432,"Contracture of muscle, left forearm"
-50456,DRG24702,M62439,"Contracture of muscle, unspecified forearm"
-50457,DRG24702,M62441,"Contracture of muscle, right hand"
-50458,DRG24702,M62442,"Contracture of muscle, left hand"
-50459,DRG24702,M62449,"Contracture of muscle, unspecified hand"
-50460,DRG24702,M62451,"Contracture of muscle, right thigh"
-50461,DRG24702,M62452,"Contracture of muscle, left thigh"
-50462,DRG24702,M62459,"Contracture of muscle, unspecified thigh"
-50463,DRG24702,M62461,"Contracture of muscle, right lower leg"
-50464,DRG24702,M62462,"Contracture of muscle, left lower leg"
-50465,DRG24702,M62469,"Contracture of muscle, unspecified lower leg"
-50466,DRG24702,M62471,"Contracture of muscle, right ankle and foot"
-50467,DRG24702,M62472,"Contracture of muscle, left ankle and foot"
-50468,DRG24702,M62479,"Contracture of muscle, unspecified ankle and foot"
-50469,DRG24702,M6248,"Contracture of muscle, other site"
-50470,DRG24702,M6249,"Contracture of muscle, multiple sites"
-50471,DRG24702,M62831,Muscle spasm of calf
-50472,DRG24702,M62838,Other muscle spasm
-50473,DRG24702,M7080,"Other soft tissue disorders related to use, overuse and pressure of unspecified site"
-50474,DRG24702,M70811,"Other soft tissue disorders related to use, overuse and pressure, right shoulder"
-50475,DRG24702,M70812,"Other soft tissue disorders related to use, overuse and pressure, left shoulder"
-50476,DRG24702,M70819,"Other soft tissue disorders related to use, overuse and pressure, unspecified shoulder"
-50477,DRG24702,M70821,"Other soft tissue disorders related to use, overuse and pressure, right upper arm"
-50478,DRG24702,M70822,"Other soft tissue disorders related to use, overuse and pressure, left upper arm"
-50479,DRG24702,M70829,"Other soft tissue disorders related to use, overuse and pressure, unspecified upper arms"
-50480,DRG24702,M70831,"Other soft tissue disorders related to use, overuse and pressure, right forearm"
-50481,DRG24702,M70832,"Other soft tissue disorders related to use, overuse and pressure, left forearm"
-50482,DRG24702,M70839,"Other soft tissue disorders related to use, overuse and pressure, unspecified forearm"
-50483,DRG24702,M70841,"Other soft tissue disorders related to use, overuse and pressure, right hand"
-50484,DRG24702,M70842,"Other soft tissue disorders related to use, overuse and pressure, left hand"
-50485,DRG24702,M70849,"Other soft tissue disorders related to use, overuse and pressure, unspecified hand"
-50486,DRG24702,M70851,"Other soft tissue disorders related to use, overuse and pressure, right thigh"
-50487,DRG24702,M70852,"Other soft tissue disorders related to use, overuse and pressure, left thigh"
-50488,DRG24702,M70859,"Other soft tissue disorders related to use, overuse and pressure, unspecified thigh"
-50489,DRG24702,M70861,"Other soft tissue disorders related to use, overuse and pressure, right lower leg"
-50490,DRG24702,M70862,"Other soft tissue disorders related to use, overuse and pressure, left lower leg"
-50491,DRG24702,M70869,"Other soft tissue disorders related to use, overuse and pressure, unspecified leg"
-50492,DRG24702,M70871,"Other soft tissue disorders related to use, overuse and pressure, right ankle and foot"
-50493,DRG24702,M70872,"Other soft tissue disorders related to use, overuse and pressure, left ankle and foot"
-50494,DRG24702,M70879,"Other soft tissue disorders related to use, overuse and pressure, unspecified ankle and foot"
-50495,DRG24702,M7088,"Other soft tissue disorders related to use, overuse and pressure other site"
-50496,DRG24702,M7089,"Other soft tissue disorders related to use, overuse and pressure multiple sites"
-50497,DRG24702,M7090,"Unspecified soft tissue disorder related to use, overuse and pressure of unspecified site"
-50498,DRG24702,M70911,"Unspecified soft tissue disorder related to use, overuse and pressure, right shoulder"
-50499,DRG24702,M70912,"Unspecified soft tissue disorder related to use, overuse and pressure, left shoulder"
-50500,DRG24702,M70919,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified shoulder"
-50501,DRG24702,M70921,"Unspecified soft tissue disorder related to use, overuse and pressure, right upper arm"
-50502,DRG24702,M70922,"Unspecified soft tissue disorder related to use, overuse and pressure, left upper arm"
-50503,DRG24702,M70929,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified upper arm"
-50504,DRG24702,M70931,"Unspecified soft tissue disorder related to use, overuse and pressure, right forearm"
-50505,DRG24702,M70932,"Unspecified soft tissue disorder related to use, overuse and pressure, left forearm"
-50506,DRG24702,M70939,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified forearm"
-50507,DRG24702,M70941,"Unspecified soft tissue disorder related to use, overuse and pressure, right hand"
-50508,DRG24702,M70942,"Unspecified soft tissue disorder related to use, overuse and pressure, left hand"
-50509,DRG24702,M70949,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified hand"
-50510,DRG24702,M70951,"Unspecified soft tissue disorder related to use, overuse and pressure, right thigh"
-50511,DRG24702,M70952,"Unspecified soft tissue disorder related to use, overuse and pressure, left thigh"
-50512,DRG24702,M70959,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified thigh"
-50513,DRG24702,M70961,"Unspecified soft tissue disorder related to use, overuse and pressure, right lower leg"
-50514,DRG24702,M70962,"Unspecified soft tissue disorder related to use, overuse and pressure, left lower leg"
-50515,DRG24702,M70969,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified lower leg"
-50516,DRG24702,M70971,"Unspecified soft tissue disorder related to use, overuse and pressure, right ankle and foot"
-50517,DRG24702,M70972,"Unspecified soft tissue disorder related to use, overuse and pressure, left ankle and foot"
-50518,DRG24702,M70979,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified ankle and foot"
-50519,DRG24702,M7098,"Unspecified soft tissue disorder related to use, overuse and pressure other"
-50520,DRG24702,M7099,"Unspecified soft tissue disorder related to use, overuse and pressure multiple sites"
-50521,DRG24702,M790,"Rheumatism, unspecified"
-50522,DRG24702,M791,Myalgia
-50523,DRG24702,M79601,Pain in right arm
-50524,DRG24702,M79602,Pain in left arm
-50525,DRG24702,M79603,"Pain in arm, unspecified"
-50526,DRG24702,M79604,Pain in right leg
-50527,DRG24702,M79605,Pain in left leg
-50528,DRG24702,M79606,"Pain in leg, unspecified"
-50529,DRG24702,M79609,Pain in unspecified limb
-50530,DRG24702,M79621,Pain in right upper arm
-50531,DRG24702,M79622,Pain in left upper arm
-50532,DRG24702,M79629,Pain in unspecified upper arm
-50533,DRG24702,M79631,Pain in right forearm
-50534,DRG24702,M79632,Pain in left forearm
-50535,DRG24702,M79639,Pain in unspecified forearm
-50536,DRG24702,M79641,Pain in right hand
-50537,DRG24702,M79642,Pain in left hand
-50538,DRG24702,M79643,Pain in unspecified hand
-50539,DRG24702,M79644,Pain in right finger(s)
-50540,DRG24702,M79645,Pain in left finger(s)
-50541,DRG24702,M79646,Pain in unspecified finger(s)
-50542,DRG24702,M79651,Pain in right thigh
-50543,DRG24702,M79652,Pain in left thigh
-50544,DRG24702,M79659,Pain in unspecified thigh
-50545,DRG24702,M79661,Pain in right lower leg
-50546,DRG24702,M79662,Pain in left lower leg
-50547,DRG24702,M79669,Pain in unspecified lower leg
-50548,DRG24702,M79671,Pain in right foot
-50549,DRG24702,M79672,Pain in left foot
-50550,DRG24702,M79673,Pain in unspecified foot
-50551,DRG24702,M79674,Pain in right toe(s)
-50552,DRG24702,M79675,Pain in left toe(s)
-50553,DRG24702,M79676,Pain in unspecified toe(s)
-50554,DRG24702,M797,Fibromyalgia
-50555,DRG24702,M7981,Nontraumatic hematoma of soft tissue
-50556,DRG24702,M7989,Other specified soft tissue disorders
-50557,DRG24702,M799,"Soft tissue disorder, unspecified"
-50558,DRG24702,M79A11,Nontraumatic compartment syndrome of right upper extremity
-50559,DRG24702,M79A12,Nontraumatic compartment syndrome of left upper extremity
-50560,DRG24702,M79A19,Nontraumatic compartment syndrome of unspecified upper extremity
-50561,DRG24702,M79A21,Nontraumatic compartment syndrome of right lower extremity
-50562,DRG24702,M79A22,Nontraumatic compartment syndrome of left lower extremity
-50563,DRG24702,M79A29,Nontraumatic compartment syndrome of unspecified lower extremity
-50564,DRG24702,M79A3,Nontraumatic compartment syndrome of abdomen
-50565,DRG24702,M79A9,Nontraumatic compartment syndrome of other sites
-50566,DRG24702,M9900,Segmental and somatic dysfunction of head region
-50567,DRG24702,M9905,Segmental and somatic dysfunction of pelvic region
-50568,DRG24702,M9906,Segmental and somatic dysfunction of lower extremity
-50569,DRG24702,M9907,Segmental and somatic dysfunction of upper extremity
-50570,DRG24702,M9908,Segmental and somatic dysfunction of rib cage
-50571,DRG24702,M9909,Segmental and somatic dysfunction of abdomen and other regions
-50572,DRG24702,R262,"Difficulty in walking, not elsewhere classified"
-50573,DRG24702,R294,Clicking hip
-50574,DRG24702,R29898,Other symptoms and signs involving the musculoskeletal system
+DRG,CM-PCS,en
+DRG24702,G4762,Sleep related leg cramps
+DRG24702,M2510,"Fistula, unspecified joint"
+DRG24702,M25111,"Fistula, right shoulder"
+DRG24702,M25112,"Fistula, left shoulder"
+DRG24702,M25119,"Fistula, unspecified shoulder"
+DRG24702,M25121,"Fistula, right elbow"
+DRG24702,M25122,"Fistula, left elbow"
+DRG24702,M25129,"Fistula, unspecified elbow"
+DRG24702,M25131,"Fistula, right wrist"
+DRG24702,M25132,"Fistula, left wrist"
+DRG24702,M25139,"Fistula, unspecified wrist"
+DRG24702,M25141,"Fistula, right hand"
+DRG24702,M25142,"Fistula, left hand"
+DRG24702,M25149,"Fistula, unspecified hand"
+DRG24702,M25151,"Fistula, right hip"
+DRG24702,M25152,"Fistula, left hip"
+DRG24702,M25159,"Fistula, unspecified hip"
+DRG24702,M25161,"Fistula, right knee"
+DRG24702,M25162,"Fistula, left knee"
+DRG24702,M25169,"Fistula, unspecified knee"
+DRG24702,M25171,"Fistula, right ankle"
+DRG24702,M25172,"Fistula, left ankle"
+DRG24702,M25173,"Fistula, unspecified ankle"
+DRG24702,M25174,"Fistula, right foot"
+DRG24702,M25175,"Fistula, left foot"
+DRG24702,M25176,"Fistula, unspecified foot"
+DRG24702,M2518,"Fistula, other specified site"
+DRG24702,M2550,Pain in unspecified joint
+DRG24702,M25511,Pain in right shoulder
+DRG24702,M25512,Pain in left shoulder
+DRG24702,M25519,Pain in unspecified shoulder
+DRG24702,M25521,Pain in right elbow
+DRG24702,M25522,Pain in left elbow
+DRG24702,M25529,Pain in unspecified elbow
+DRG24702,M25531,Pain in right wrist
+DRG24702,M25532,Pain in left wrist
+DRG24702,M25539,Pain in unspecified wrist
+DRG24702,M25551,Pain in right hip
+DRG24702,M25552,Pain in left hip
+DRG24702,M25559,Pain in unspecified hip
+DRG24702,M25561,Pain in right knee
+DRG24702,M25562,Pain in left knee
+DRG24702,M25569,Pain in unspecified knee
+DRG24702,M25571,Pain in right ankle and joints of right foot
+DRG24702,M25572,Pain in left ankle and joints of left foot
+DRG24702,M25579,Pain in unspecified ankle and joints of unspecified foot
+DRG24702,M2560,"Stiffness of unspecified joint, not elsewhere classified"
+DRG24702,M25611,"Stiffness of right shoulder, not elsewhere classified"
+DRG24702,M25612,"Stiffness of left shoulder, not elsewhere classified"
+DRG24702,M25619,"Stiffness of unspecified shoulder, not elsewhere classified"
+DRG24702,M25621,"Stiffness of right elbow, not elsewhere classified"
+DRG24702,M25622,"Stiffness of left elbow, not elsewhere classified"
+DRG24702,M25629,"Stiffness of unspecified elbow, not elsewhere classified"
+DRG24702,M25631,"Stiffness of right wrist, not elsewhere classified"
+DRG24702,M25632,"Stiffness of left wrist, not elsewhere classified"
+DRG24702,M25639,"Stiffness of unspecified wrist, not elsewhere classified"
+DRG24702,M25641,"Stiffness of right hand, not elsewhere classified"
+DRG24702,M25642,"Stiffness of left hand, not elsewhere classified"
+DRG24702,M25649,"Stiffness of unspecified hand, not elsewhere classified"
+DRG24702,M25651,"Stiffness of right hip, not elsewhere classified"
+DRG24702,M25652,"Stiffness of left hip, not elsewhere classified"
+DRG24702,M25659,"Stiffness of unspecified hip, not elsewhere classified"
+DRG24702,M25661,"Stiffness of right knee, not elsewhere classified"
+DRG24702,M25662,"Stiffness of left knee, not elsewhere classified"
+DRG24702,M25669,"Stiffness of unspecified knee, not elsewhere classified"
+DRG24702,M25671,"Stiffness of right ankle, not elsewhere classified"
+DRG24702,M25672,"Stiffness of left ankle, not elsewhere classified"
+DRG24702,M25673,"Stiffness of unspecified ankle, not elsewhere classified"
+DRG24702,M25674,"Stiffness of right foot, not elsewhere classified"
+DRG24702,M25675,"Stiffness of left foot, not elsewhere classified"
+DRG24702,M25676,"Stiffness of unspecified foot, not elsewhere classified"
+DRG24702,M2580,"Other specified joint disorders, unspecified joint"
+DRG24702,M25811,"Other specified joint disorders, right shoulder"
+DRG24702,M25812,"Other specified joint disorders, left shoulder"
+DRG24702,M25819,"Other specified joint disorders, unspecified shoulder"
+DRG24702,M25821,"Other specified joint disorders, right elbow"
+DRG24702,M25822,"Other specified joint disorders, left elbow"
+DRG24702,M25829,"Other specified joint disorders, unspecified elbow"
+DRG24702,M25831,"Other specified joint disorders, right wrist"
+DRG24702,M25832,"Other specified joint disorders, left wrist"
+DRG24702,M25839,"Other specified joint disorders, unspecified wrist"
+DRG24702,M25841,"Other specified joint disorders, right hand"
+DRG24702,M25842,"Other specified joint disorders, left hand"
+DRG24702,M25849,"Other specified joint disorders, unspecified hand"
+DRG24702,M25851,"Other specified joint disorders, right hip"
+DRG24702,M25852,"Other specified joint disorders, left hip"
+DRG24702,M25859,"Other specified joint disorders, unspecified hip"
+DRG24702,M25861,"Other specified joint disorders, right knee"
+DRG24702,M25862,"Other specified joint disorders, left knee"
+DRG24702,M25869,"Other specified joint disorders, unspecified knee"
+DRG24702,M25871,"Other specified joint disorders, right ankle and foot"
+DRG24702,M25872,"Other specified joint disorders, left ankle and foot"
+DRG24702,M25879,"Other specified joint disorders, unspecified ankle and foot"
+DRG24702,M259,"Joint disorder, unspecified"
+DRG24702,M6080,"Other myositis, unspecified site"
+DRG24702,M60811,"Other myositis, right shoulder"
+DRG24702,M60812,"Other myositis, left shoulder"
+DRG24702,M60819,"Other myositis, unspecified shoulder"
+DRG24702,M60821,"Other myositis, right upper arm"
+DRG24702,M60822,"Other myositis, left upper arm"
+DRG24702,M60829,"Other myositis, unspecified upper arm"
+DRG24702,M60831,"Other myositis, right forearm"
+DRG24702,M60832,"Other myositis, left forearm"
+DRG24702,M60839,"Other myositis, unspecified forearm"
+DRG24702,M60841,"Other myositis, right hand"
+DRG24702,M60842,"Other myositis, left hand"
+DRG24702,M60849,"Other myositis, unspecified hand"
+DRG24702,M60851,"Other myositis, right thigh"
+DRG24702,M60852,"Other myositis, left thigh"
+DRG24702,M60859,"Other myositis, unspecified thigh"
+DRG24702,M60861,"Other myositis, right lower leg"
+DRG24702,M60862,"Other myositis, left lower leg"
+DRG24702,M60869,"Other myositis, unspecified lower leg"
+DRG24702,M60871,"Other myositis, right ankle and foot"
+DRG24702,M60872,"Other myositis, left ankle and foot"
+DRG24702,M60879,"Other myositis, unspecified ankle and foot"
+DRG24702,M6088,"Other myositis, other site"
+DRG24702,M6089,"Other myositis, multiple sites"
+DRG24702,M609,"Myositis, unspecified"
+DRG24702,M6240,"Contracture of muscle, unspecified site"
+DRG24702,M62411,"Contracture of muscle, right shoulder"
+DRG24702,M62412,"Contracture of muscle, left shoulder"
+DRG24702,M62419,"Contracture of muscle, unspecified shoulder"
+DRG24702,M62421,"Contracture of muscle, right upper arm"
+DRG24702,M62422,"Contracture of muscle, left upper arm"
+DRG24702,M62429,"Contracture of muscle, unspecified upper arm"
+DRG24702,M62431,"Contracture of muscle, right forearm"
+DRG24702,M62432,"Contracture of muscle, left forearm"
+DRG24702,M62439,"Contracture of muscle, unspecified forearm"
+DRG24702,M62441,"Contracture of muscle, right hand"
+DRG24702,M62442,"Contracture of muscle, left hand"
+DRG24702,M62449,"Contracture of muscle, unspecified hand"
+DRG24702,M62451,"Contracture of muscle, right thigh"
+DRG24702,M62452,"Contracture of muscle, left thigh"
+DRG24702,M62459,"Contracture of muscle, unspecified thigh"
+DRG24702,M62461,"Contracture of muscle, right lower leg"
+DRG24702,M62462,"Contracture of muscle, left lower leg"
+DRG24702,M62469,"Contracture of muscle, unspecified lower leg"
+DRG24702,M62471,"Contracture of muscle, right ankle and foot"
+DRG24702,M62472,"Contracture of muscle, left ankle and foot"
+DRG24702,M62479,"Contracture of muscle, unspecified ankle and foot"
+DRG24702,M6248,"Contracture of muscle, other site"
+DRG24702,M6249,"Contracture of muscle, multiple sites"
+DRG24702,M62831,Muscle spasm of calf
+DRG24702,M62838,Other muscle spasm
+DRG24702,M7080,"Other soft tissue disorders related to use, overuse and pressure of unspecified site"
+DRG24702,M70811,"Other soft tissue disorders related to use, overuse and pressure, right shoulder"
+DRG24702,M70812,"Other soft tissue disorders related to use, overuse and pressure, left shoulder"
+DRG24702,M70819,"Other soft tissue disorders related to use, overuse and pressure, unspecified shoulder"
+DRG24702,M70821,"Other soft tissue disorders related to use, overuse and pressure, right upper arm"
+DRG24702,M70822,"Other soft tissue disorders related to use, overuse and pressure, left upper arm"
+DRG24702,M70829,"Other soft tissue disorders related to use, overuse and pressure, unspecified upper arms"
+DRG24702,M70831,"Other soft tissue disorders related to use, overuse and pressure, right forearm"
+DRG24702,M70832,"Other soft tissue disorders related to use, overuse and pressure, left forearm"
+DRG24702,M70839,"Other soft tissue disorders related to use, overuse and pressure, unspecified forearm"
+DRG24702,M70841,"Other soft tissue disorders related to use, overuse and pressure, right hand"
+DRG24702,M70842,"Other soft tissue disorders related to use, overuse and pressure, left hand"
+DRG24702,M70849,"Other soft tissue disorders related to use, overuse and pressure, unspecified hand"
+DRG24702,M70851,"Other soft tissue disorders related to use, overuse and pressure, right thigh"
+DRG24702,M70852,"Other soft tissue disorders related to use, overuse and pressure, left thigh"
+DRG24702,M70859,"Other soft tissue disorders related to use, overuse and pressure, unspecified thigh"
+DRG24702,M70861,"Other soft tissue disorders related to use, overuse and pressure, right lower leg"
+DRG24702,M70862,"Other soft tissue disorders related to use, overuse and pressure, left lower leg"
+DRG24702,M70869,"Other soft tissue disorders related to use, overuse and pressure, unspecified leg"
+DRG24702,M70871,"Other soft tissue disorders related to use, overuse and pressure, right ankle and foot"
+DRG24702,M70872,"Other soft tissue disorders related to use, overuse and pressure, left ankle and foot"
+DRG24702,M70879,"Other soft tissue disorders related to use, overuse and pressure, unspecified ankle and foot"
+DRG24702,M7088,"Other soft tissue disorders related to use, overuse and pressure other site"
+DRG24702,M7089,"Other soft tissue disorders related to use, overuse and pressure multiple sites"
+DRG24702,M7090,"Unspecified soft tissue disorder related to use, overuse and pressure of unspecified site"
+DRG24702,M70911,"Unspecified soft tissue disorder related to use, overuse and pressure, right shoulder"
+DRG24702,M70912,"Unspecified soft tissue disorder related to use, overuse and pressure, left shoulder"
+DRG24702,M70919,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified shoulder"
+DRG24702,M70921,"Unspecified soft tissue disorder related to use, overuse and pressure, right upper arm"
+DRG24702,M70922,"Unspecified soft tissue disorder related to use, overuse and pressure, left upper arm"
+DRG24702,M70929,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified upper arm"
+DRG24702,M70931,"Unspecified soft tissue disorder related to use, overuse and pressure, right forearm"
+DRG24702,M70932,"Unspecified soft tissue disorder related to use, overuse and pressure, left forearm"
+DRG24702,M70939,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified forearm"
+DRG24702,M70941,"Unspecified soft tissue disorder related to use, overuse and pressure, right hand"
+DRG24702,M70942,"Unspecified soft tissue disorder related to use, overuse and pressure, left hand"
+DRG24702,M70949,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified hand"
+DRG24702,M70951,"Unspecified soft tissue disorder related to use, overuse and pressure, right thigh"
+DRG24702,M70952,"Unspecified soft tissue disorder related to use, overuse and pressure, left thigh"
+DRG24702,M70959,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified thigh"
+DRG24702,M70961,"Unspecified soft tissue disorder related to use, overuse and pressure, right lower leg"
+DRG24702,M70962,"Unspecified soft tissue disorder related to use, overuse and pressure, left lower leg"
+DRG24702,M70969,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified lower leg"
+DRG24702,M70971,"Unspecified soft tissue disorder related to use, overuse and pressure, right ankle and foot"
+DRG24702,M70972,"Unspecified soft tissue disorder related to use, overuse and pressure, left ankle and foot"
+DRG24702,M70979,"Unspecified soft tissue disorder related to use, overuse and pressure, unspecified ankle and foot"
+DRG24702,M7098,"Unspecified soft tissue disorder related to use, overuse and pressure other"
+DRG24702,M7099,"Unspecified soft tissue disorder related to use, overuse and pressure multiple sites"
+DRG24702,M790,"Rheumatism, unspecified"
+DRG24702,M791,Myalgia
+DRG24702,M79601,Pain in right arm
+DRG24702,M79602,Pain in left arm
+DRG24702,M79603,"Pain in arm, unspecified"
+DRG24702,M79604,Pain in right leg
+DRG24702,M79605,Pain in left leg
+DRG24702,M79606,"Pain in leg, unspecified"
+DRG24702,M79609,Pain in unspecified limb
+DRG24702,M79621,Pain in right upper arm
+DRG24702,M79622,Pain in left upper arm
+DRG24702,M79629,Pain in unspecified upper arm
+DRG24702,M79631,Pain in right forearm
+DRG24702,M79632,Pain in left forearm
+DRG24702,M79639,Pain in unspecified forearm
+DRG24702,M79641,Pain in right hand
+DRG24702,M79642,Pain in left hand
+DRG24702,M79643,Pain in unspecified hand
+DRG24702,M79644,Pain in right finger(s)
+DRG24702,M79645,Pain in left finger(s)
+DRG24702,M79646,Pain in unspecified finger(s)
+DRG24702,M79651,Pain in right thigh
+DRG24702,M79652,Pain in left thigh
+DRG24702,M79659,Pain in unspecified thigh
+DRG24702,M79661,Pain in right lower leg
+DRG24702,M79662,Pain in left lower leg
+DRG24702,M79669,Pain in unspecified lower leg
+DRG24702,M79671,Pain in right foot
+DRG24702,M79672,Pain in left foot
+DRG24702,M79673,Pain in unspecified foot
+DRG24702,M79674,Pain in right toe(s)
+DRG24702,M79675,Pain in left toe(s)
+DRG24702,M79676,Pain in unspecified toe(s)
+DRG24702,M797,Fibromyalgia
+DRG24702,M7981,Nontraumatic hematoma of soft tissue
+DRG24702,M7989,Other specified soft tissue disorders
+DRG24702,M799,"Soft tissue disorder, unspecified"
+DRG24702,M79A11,Nontraumatic compartment syndrome of right upper extremity
+DRG24702,M79A12,Nontraumatic compartment syndrome of left upper extremity
+DRG24702,M79A19,Nontraumatic compartment syndrome of unspecified upper extremity
+DRG24702,M79A21,Nontraumatic compartment syndrome of right lower extremity
+DRG24702,M79A22,Nontraumatic compartment syndrome of left lower extremity
+DRG24702,M79A29,Nontraumatic compartment syndrome of unspecified lower extremity
+DRG24702,M79A3,Nontraumatic compartment syndrome of abdomen
+DRG24702,M79A9,Nontraumatic compartment syndrome of other sites
+DRG24702,M9900,Segmental and somatic dysfunction of head region
+DRG24702,M9905,Segmental and somatic dysfunction of pelvic region
+DRG24702,M9906,Segmental and somatic dysfunction of lower extremity
+DRG24702,M9907,Segmental and somatic dysfunction of upper extremity
+DRG24702,M9908,Segmental and somatic dysfunction of rib cage
+DRG24702,M9909,Segmental and somatic dysfunction of abdomen and other regions
+DRG24702,R262,"Difficulty in walking, not elsewhere classified"
+DRG24702,R294,Clicking hip
+DRG24702,R29898,Other symptoms and signs involving the musculoskeletal system

@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-33636,DRG11802,0JPT0PZ,"Removal of Cardiac Rhythm Related Device from Trunk Subcutaneous Tissue and Fascia, Open Approach"
-33637,DRG11802,0JPT3PZ,"Removal of Cardiac Rhythm Related Device from Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach"
-33640,DRG11802,0JH606Z,"Insertion of Pacemaker, Dual Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach"
-33641,DRG11802,0JH636Z,"Insertion of Pacemaker, Dual Chamber into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
-33642,DRG11802,0JH806Z,"Insertion of Pacemaker, Dual Chamber into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
-33643,DRG11802,0JH836Z,"Insertion of Pacemaker, Dual Chamber into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG,CM-PCS,en
+DRG11802,0JPT0PZ,"Removal of Cardiac Rhythm Related Device from Trunk Subcutaneous Tissue and Fascia, Open Approach"
+DRG11802,0JPT3PZ,"Removal of Cardiac Rhythm Related Device from Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG11802,0JH606Z,"Insertion of Pacemaker, Dual Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG11802,0JH636Z,"Insertion of Pacemaker, Dual Chamber into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG11802,0JH806Z,"Insertion of Pacemaker, Dual Chamber into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG11802,0JH836Z,"Insertion of Pacemaker, Dual Chamber into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"

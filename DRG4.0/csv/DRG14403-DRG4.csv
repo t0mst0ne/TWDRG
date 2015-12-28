@@ -1,21 +1,21 @@
-,DRG,CM-PCS,en
-39116,DRG14403,I230,Hemopericardium as current complication following acute myocardial infarction
-39117,DRG14403,I233,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction
-39118,DRG14403,I236,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
-39119,DRG14403,I237,Postinfarction angina
-39120,DRG14403,I238,Other current complications following acute myocardial infarction
-39121,DRG14403,I4581,Long QT syndrome
-39122,DRG14403,I513,"Intracardiac thrombosis, not elsewhere classified"
-39123,DRG14403,I950,Idiopathic hypotension
-39124,DRG14403,I9589,Other hypotension
-39125,DRG14403,I959,"Hypotension, unspecified"
-39126,DRG14403,R008,Other abnormalities of heart beat
-39127,DRG14403,R009,Unspecified abnormalities of heart beat
-39128,DRG14403,R012,Other cardiac sounds
-39129,DRG14403,R030,"Elevated blood-pressure reading, without diagnosis of hypertension"
-39130,DRG14403,R031,Nonspecific low blood-pressure reading
-39131,DRG14403,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems
-39132,DRG14403,R58,"Hemorrhage, not elsewhere classified"
-39133,DRG14403,R9430,"Abnormal result of cardiovascular function study, unspecified"
-39134,DRG14403,R9431,Abnormal electrocardiogram [ECG] [EKG]
-39135,DRG14403,R9439,Abnormal result of other cardiovascular function study
+DRG,CM-PCS,en
+DRG14403,I230,Hemopericardium as current complication following acute myocardial infarction
+DRG14403,I233,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction
+DRG14403,I236,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+DRG14403,I237,Postinfarction angina
+DRG14403,I238,Other current complications following acute myocardial infarction
+DRG14403,I4581,Long QT syndrome
+DRG14403,I513,"Intracardiac thrombosis, not elsewhere classified"
+DRG14403,I950,Idiopathic hypotension
+DRG14403,I9589,Other hypotension
+DRG14403,I959,"Hypotension, unspecified"
+DRG14403,R008,Other abnormalities of heart beat
+DRG14403,R009,Unspecified abnormalities of heart beat
+DRG14403,R012,Other cardiac sounds
+DRG14403,R030,"Elevated blood-pressure reading, without diagnosis of hypertension"
+DRG14403,R031,Nonspecific low blood-pressure reading
+DRG14403,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems
+DRG14403,R58,"Hemorrhage, not elsewhere classified"
+DRG14403,R9430,"Abnormal result of cardiovascular function study, unspecified"
+DRG14403,R9431,Abnormal electrocardiogram [ECG] [EKG]
+DRG14403,R9439,Abnormal result of other cardiovascular function study

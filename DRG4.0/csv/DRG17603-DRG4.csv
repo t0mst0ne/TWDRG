@@ -1,13 +1,13 @@
-,DRG,CM-PCS,en
-9447,DRG17603,E164,Increased secretion of gastrin
-9448,DRG17603,K2210,Ulcer of esophagus without bleeding
-9449,DRG17603,K2211,Ulcer of esophagus with bleeding
-9450,DRG17603,K2270,Barrett's esophagus without dysplasia
-9451,DRG17603,K22710,Barrett's esophagus with low grade dysplasia
-9452,DRG17603,K22711,Barrett's esophagus with high grade dysplasia
-9453,DRG17603,K22719,"Barrett's esophagus with dysplasia, unspecified"
-9454,DRG17603,K283,Acute gastrojejunal ulcer without hemorrhage or perforation
-9455,DRG17603,K287,Chronic gastrojejunal ulcer without hemorrhage or perforation
-9456,DRG17603,K289,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
-9457,DRG17603,K311,Adult hypertrophic pyloric stenosis
-9458,DRG17603,Q430,Meckel's diverticulum (displaced) (hypertrophic)
+DRG,CM-PCS,en
+DRG17603,E164,Increased secretion of gastrin
+DRG17603,K2210,Ulcer of esophagus without bleeding
+DRG17603,K2211,Ulcer of esophagus with bleeding
+DRG17603,K2270,Barrett's esophagus without dysplasia
+DRG17603,K22710,Barrett's esophagus with low grade dysplasia
+DRG17603,K22711,Barrett's esophagus with high grade dysplasia
+DRG17603,K22719,"Barrett's esophagus with dysplasia, unspecified"
+DRG17603,K283,Acute gastrojejunal ulcer without hemorrhage or perforation
+DRG17603,K287,Chronic gastrojejunal ulcer without hemorrhage or perforation
+DRG17603,K289,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
+DRG17603,K311,Adult hypertrophic pyloric stenosis
+DRG17603,Q430,Meckel's diverticulum (displaced) (hypertrophic)

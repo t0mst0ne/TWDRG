@@ -1,108 +1,108 @@
-,DRG,CM-PCS,en
-109,DRG25802,D0500,Lobular carcinoma in situ of unspecified breast
-110,DRG25802,D0501,Lobular carcinoma in situ of right breast
-111,DRG25802,D0502,Lobular carcinoma in situ of left breast
-112,DRG25802,D0510,Intraductal carcinoma in situ of unspecified breast
-113,DRG25802,D0511,Intraductal carcinoma in situ of right breast
-114,DRG25802,D0512,Intraductal carcinoma in situ of left breast
-115,DRG25802,D0580,Other specified type of carcinoma in situ of unspecified breast
-116,DRG25802,D0581,Other specified type of carcinoma in situ of right breast
-117,DRG25802,D0582,Other specified type of carcinoma in situ of left breast
-118,DRG25802,D0590,Unspecified type of carcinoma in situ of unspecified breast
-119,DRG25802,D0591,Unspecified type of carcinoma in situ of right breast
-120,DRG25802,D0592,Unspecified type of carcinoma in situ of left breast
-123,DRG25802,0HRT075,"Replacement of Right Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
-124,DRG25802,0HRT076,"Replacement of Right Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-125,DRG25802,0HRT077,"Replacement of Right Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
-126,DRG25802,0HRT078,"Replacement of Right Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
-127,DRG25802,0HRT079,"Replacement of Right Breast using Gluteal Artery Perforator Flap, Open Approach"
-128,DRG25802,0HRU075,"Replacement of Left Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
-129,DRG25802,0HRU076,"Replacement of Left Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-130,DRG25802,0HRU077,"Replacement of Left Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
-131,DRG25802,0HRU078,"Replacement of Left Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
-132,DRG25802,0HRU079,"Replacement of Left Breast using Gluteal Artery Perforator Flap, Open Approach"
-133,DRG25802,0HTT0ZZ,"Resection of Right Breast, Open Approach"
-134,DRG25802,0HTU0ZZ,"Resection of Left Breast, Open Approach"
-135,DRG25802,0KTH0ZZ,"Resection of Right Thorax Muscle, Open Approach"
-136,DRG25802,0KTJ0ZZ,"Resection of Left Thorax Muscle, Open Approach"
-137,DRG25802,0KXK0Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-138,DRG25802,0KXK4Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
-139,DRG25802,0KXL0Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-140,DRG25802,0KXL4Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
-143,DRG25802,C50011,"Malignant neoplasm of nipple and areola, right female breast"
-144,DRG25802,C50012,"Malignant neoplasm of nipple and areola, left female breast"
-145,DRG25802,C50019,"Malignant neoplasm of nipple and areola, unspecified female breast"
-146,DRG25802,C50021,"Malignant neoplasm of nipple and areola, right male breast"
-147,DRG25802,C50022,"Malignant neoplasm of nipple and areola, left male breast"
-148,DRG25802,C50029,"Malignant neoplasm of nipple and areola, unspecified male breast"
-149,DRG25802,C50111,Malignant neoplasm of central portion of right female breast
-150,DRG25802,C50112,Malignant neoplasm of central portion of left female breast
-151,DRG25802,C50119,Malignant neoplasm of central portion of unspecified female breast
-152,DRG25802,C50121,Malignant neoplasm of central portion of right male breast
-153,DRG25802,C50122,Malignant neoplasm of central portion of left male breast
-154,DRG25802,C50129,Malignant neoplasm of central portion of unspecified male breast
-155,DRG25802,C50211,Malignant neoplasm of upper-inner quadrant of right female breast
-156,DRG25802,C50212,Malignant neoplasm of upper-inner quadrant of left female breast
-157,DRG25802,C50219,Malignant neoplasm of upper-inner quadrant of unspecified female breast
-158,DRG25802,C50221,Malignant neoplasm of upper-inner quadrant of right male breast
-159,DRG25802,C50222,Malignant neoplasm of upper-inner quadrant of left male breast
-160,DRG25802,C50229,Malignant neoplasm of upper-inner quadrant of unspecified male breast
-161,DRG25802,C50311,Malignant neoplasm of lower-inner quadrant of right female breast
-162,DRG25802,C50312,Malignant neoplasm of lower-inner quadrant of left female breast
-163,DRG25802,C50319,Malignant neoplasm of lower-inner quadrant of unspecified female breast
-164,DRG25802,C50321,Malignant neoplasm of lower-inner quadrant of right male breast
-165,DRG25802,C50322,Malignant neoplasm of lower-inner quadrant of left male breast
-166,DRG25802,C50329,Malignant neoplasm of lower-inner quadrant of unspecified male breast
-167,DRG25802,C50411,Malignant neoplasm of upper-outer quadrant of right female breast
-168,DRG25802,C50412,Malignant neoplasm of upper-outer quadrant of left female breast
-169,DRG25802,C50419,Malignant neoplasm of upper-outer quadrant of unspecified female breast
-170,DRG25802,C50421,Malignant neoplasm of upper-outer quadrant of right male breast
-171,DRG25802,C50422,Malignant neoplasm of upper-outer quadrant of left male breast
-172,DRG25802,C50429,Malignant neoplasm of upper-outer quadrant of unspecified male breast
-173,DRG25802,C50511,Malignant neoplasm of lower-outer quadrant of right female breast
-174,DRG25802,C50512,Malignant neoplasm of lower-outer quadrant of left female breast
-175,DRG25802,C50519,Malignant neoplasm of lower-outer quadrant of unspecified female breast
-176,DRG25802,C50521,Malignant neoplasm of lower-outer quadrant of right male breast
-177,DRG25802,C50522,Malignant neoplasm of lower-outer quadrant of left male breast
-178,DRG25802,C50529,Malignant neoplasm of lower-outer quadrant of unspecified male breast
-179,DRG25802,C50611,Malignant neoplasm of axillary tail of right female breast
-180,DRG25802,C50612,Malignant neoplasm of axillary tail of left female breast
-181,DRG25802,C50619,Malignant neoplasm of axillary tail of unspecified female breast
-182,DRG25802,C50621,Malignant neoplasm of axillary tail of right male breast
-183,DRG25802,C50622,Malignant neoplasm of axillary tail of left male breast
-184,DRG25802,C50629,Malignant neoplasm of axillary tail of unspecified male breast
-185,DRG25802,C50811,Malignant neoplasm of overlapping sites of right female breast
-186,DRG25802,C50812,Malignant neoplasm of overlapping sites of left female breast
-187,DRG25802,C50819,Malignant neoplasm of overlapping sites of unspecified female breast
-188,DRG25802,C50821,Malignant neoplasm of overlapping sites of right male breast
-189,DRG25802,C50822,Malignant neoplasm of overlapping sites of left male breast
-190,DRG25802,C50829,Malignant neoplasm of overlapping sites of unspecified male breast
-191,DRG25802,C50911,Malignant neoplasm of unspecified site of right female breast
-192,DRG25802,C50912,Malignant neoplasm of unspecified site of left female breast
-193,DRG25802,C50919,Malignant neoplasm of unspecified site of unspecified female breast
-194,DRG25802,C50921,Malignant neoplasm of unspecified site of right male breast
-195,DRG25802,C50922,Malignant neoplasm of unspecified site of left male breast
-196,DRG25802,C50929,Malignant neoplasm of unspecified site of unspecified male breast
-197,DRG25802,C792,Secondary malignant neoplasm of skin
-198,DRG25802,C7981,Secondary malignant neoplasm of breast
-199,DRG25802,D4860,Neoplasm of uncertain behavior of unspecified breast
-200,DRG25802,D4861,Neoplasm of uncertain behavior of right breast
-201,DRG25802,D4862,Neoplasm of uncertain behavior of left breast
-204,DRG25802,0HRT075,"Replacement of Right Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
-205,DRG25802,0HRT076,"Replacement of Right Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-206,DRG25802,0HRT077,"Replacement of Right Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
-207,DRG25802,0HRT078,"Replacement of Right Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
-208,DRG25802,0HRT079,"Replacement of Right Breast using Gluteal Artery Perforator Flap, Open Approach"
-209,DRG25802,0HRU075,"Replacement of Left Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
-210,DRG25802,0HRU076,"Replacement of Left Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-211,DRG25802,0HRU077,"Replacement of Left Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
-212,DRG25802,0HRU078,"Replacement of Left Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
-213,DRG25802,0HRU079,"Replacement of Left Breast using Gluteal Artery Perforator Flap, Open Approach"
-214,DRG25802,0HTT0ZZ,"Resection of Right Breast, Open Approach"
-215,DRG25802,0HTU0ZZ,"Resection of Left Breast, Open Approach"
-216,DRG25802,0KTH0ZZ,"Resection of Right Thorax Muscle, Open Approach"
-217,DRG25802,0KTJ0ZZ,"Resection of Left Thorax Muscle, Open Approach"
-218,DRG25802,0KXK0Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-219,DRG25802,0KXK4Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
-220,DRG25802,0KXL0Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
-221,DRG25802,0KXL4Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
+DRG,CM-PCS,en
+DRG25802,D0500,Lobular carcinoma in situ of unspecified breast
+DRG25802,D0501,Lobular carcinoma in situ of right breast
+DRG25802,D0502,Lobular carcinoma in situ of left breast
+DRG25802,D0510,Intraductal carcinoma in situ of unspecified breast
+DRG25802,D0511,Intraductal carcinoma in situ of right breast
+DRG25802,D0512,Intraductal carcinoma in situ of left breast
+DRG25802,D0580,Other specified type of carcinoma in situ of unspecified breast
+DRG25802,D0581,Other specified type of carcinoma in situ of right breast
+DRG25802,D0582,Other specified type of carcinoma in situ of left breast
+DRG25802,D0590,Unspecified type of carcinoma in situ of unspecified breast
+DRG25802,D0591,Unspecified type of carcinoma in situ of right breast
+DRG25802,D0592,Unspecified type of carcinoma in situ of left breast
+DRG25802,0HRT075,"Replacement of Right Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
+DRG25802,0HRT076,"Replacement of Right Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0HRT077,"Replacement of Right Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
+DRG25802,0HRT078,"Replacement of Right Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
+DRG25802,0HRT079,"Replacement of Right Breast using Gluteal Artery Perforator Flap, Open Approach"
+DRG25802,0HRU075,"Replacement of Left Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
+DRG25802,0HRU076,"Replacement of Left Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0HRU077,"Replacement of Left Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
+DRG25802,0HRU078,"Replacement of Left Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
+DRG25802,0HRU079,"Replacement of Left Breast using Gluteal Artery Perforator Flap, Open Approach"
+DRG25802,0HTT0ZZ,"Resection of Right Breast, Open Approach"
+DRG25802,0HTU0ZZ,"Resection of Left Breast, Open Approach"
+DRG25802,0KTH0ZZ,"Resection of Right Thorax Muscle, Open Approach"
+DRG25802,0KTJ0ZZ,"Resection of Left Thorax Muscle, Open Approach"
+DRG25802,0KXK0Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0KXK4Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
+DRG25802,0KXL0Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0KXL4Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
+DRG25802,C50011,"Malignant neoplasm of nipple and areola, right female breast"
+DRG25802,C50012,"Malignant neoplasm of nipple and areola, left female breast"
+DRG25802,C50019,"Malignant neoplasm of nipple and areola, unspecified female breast"
+DRG25802,C50021,"Malignant neoplasm of nipple and areola, right male breast"
+DRG25802,C50022,"Malignant neoplasm of nipple and areola, left male breast"
+DRG25802,C50029,"Malignant neoplasm of nipple and areola, unspecified male breast"
+DRG25802,C50111,Malignant neoplasm of central portion of right female breast
+DRG25802,C50112,Malignant neoplasm of central portion of left female breast
+DRG25802,C50119,Malignant neoplasm of central portion of unspecified female breast
+DRG25802,C50121,Malignant neoplasm of central portion of right male breast
+DRG25802,C50122,Malignant neoplasm of central portion of left male breast
+DRG25802,C50129,Malignant neoplasm of central portion of unspecified male breast
+DRG25802,C50211,Malignant neoplasm of upper-inner quadrant of right female breast
+DRG25802,C50212,Malignant neoplasm of upper-inner quadrant of left female breast
+DRG25802,C50219,Malignant neoplasm of upper-inner quadrant of unspecified female breast
+DRG25802,C50221,Malignant neoplasm of upper-inner quadrant of right male breast
+DRG25802,C50222,Malignant neoplasm of upper-inner quadrant of left male breast
+DRG25802,C50229,Malignant neoplasm of upper-inner quadrant of unspecified male breast
+DRG25802,C50311,Malignant neoplasm of lower-inner quadrant of right female breast
+DRG25802,C50312,Malignant neoplasm of lower-inner quadrant of left female breast
+DRG25802,C50319,Malignant neoplasm of lower-inner quadrant of unspecified female breast
+DRG25802,C50321,Malignant neoplasm of lower-inner quadrant of right male breast
+DRG25802,C50322,Malignant neoplasm of lower-inner quadrant of left male breast
+DRG25802,C50329,Malignant neoplasm of lower-inner quadrant of unspecified male breast
+DRG25802,C50411,Malignant neoplasm of upper-outer quadrant of right female breast
+DRG25802,C50412,Malignant neoplasm of upper-outer quadrant of left female breast
+DRG25802,C50419,Malignant neoplasm of upper-outer quadrant of unspecified female breast
+DRG25802,C50421,Malignant neoplasm of upper-outer quadrant of right male breast
+DRG25802,C50422,Malignant neoplasm of upper-outer quadrant of left male breast
+DRG25802,C50429,Malignant neoplasm of upper-outer quadrant of unspecified male breast
+DRG25802,C50511,Malignant neoplasm of lower-outer quadrant of right female breast
+DRG25802,C50512,Malignant neoplasm of lower-outer quadrant of left female breast
+DRG25802,C50519,Malignant neoplasm of lower-outer quadrant of unspecified female breast
+DRG25802,C50521,Malignant neoplasm of lower-outer quadrant of right male breast
+DRG25802,C50522,Malignant neoplasm of lower-outer quadrant of left male breast
+DRG25802,C50529,Malignant neoplasm of lower-outer quadrant of unspecified male breast
+DRG25802,C50611,Malignant neoplasm of axillary tail of right female breast
+DRG25802,C50612,Malignant neoplasm of axillary tail of left female breast
+DRG25802,C50619,Malignant neoplasm of axillary tail of unspecified female breast
+DRG25802,C50621,Malignant neoplasm of axillary tail of right male breast
+DRG25802,C50622,Malignant neoplasm of axillary tail of left male breast
+DRG25802,C50629,Malignant neoplasm of axillary tail of unspecified male breast
+DRG25802,C50811,Malignant neoplasm of overlapping sites of right female breast
+DRG25802,C50812,Malignant neoplasm of overlapping sites of left female breast
+DRG25802,C50819,Malignant neoplasm of overlapping sites of unspecified female breast
+DRG25802,C50821,Malignant neoplasm of overlapping sites of right male breast
+DRG25802,C50822,Malignant neoplasm of overlapping sites of left male breast
+DRG25802,C50829,Malignant neoplasm of overlapping sites of unspecified male breast
+DRG25802,C50911,Malignant neoplasm of unspecified site of right female breast
+DRG25802,C50912,Malignant neoplasm of unspecified site of left female breast
+DRG25802,C50919,Malignant neoplasm of unspecified site of unspecified female breast
+DRG25802,C50921,Malignant neoplasm of unspecified site of right male breast
+DRG25802,C50922,Malignant neoplasm of unspecified site of left male breast
+DRG25802,C50929,Malignant neoplasm of unspecified site of unspecified male breast
+DRG25802,C792,Secondary malignant neoplasm of skin
+DRG25802,C7981,Secondary malignant neoplasm of breast
+DRG25802,D4860,Neoplasm of uncertain behavior of unspecified breast
+DRG25802,D4861,Neoplasm of uncertain behavior of right breast
+DRG25802,D4862,Neoplasm of uncertain behavior of left breast
+DRG25802,0HRT075,"Replacement of Right Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
+DRG25802,0HRT076,"Replacement of Right Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0HRT077,"Replacement of Right Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
+DRG25802,0HRT078,"Replacement of Right Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
+DRG25802,0HRT079,"Replacement of Right Breast using Gluteal Artery Perforator Flap, Open Approach"
+DRG25802,0HRU075,"Replacement of Left Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach"
+DRG25802,0HRU076,"Replacement of Left Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0HRU077,"Replacement of Left Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach"
+DRG25802,0HRU078,"Replacement of Left Breast using Superficial Inferior Epigastric Artery Flap, Open Approach"
+DRG25802,0HRU079,"Replacement of Left Breast using Gluteal Artery Perforator Flap, Open Approach"
+DRG25802,0HTT0ZZ,"Resection of Right Breast, Open Approach"
+DRG25802,0HTU0ZZ,"Resection of Left Breast, Open Approach"
+DRG25802,0KTH0ZZ,"Resection of Right Thorax Muscle, Open Approach"
+DRG25802,0KTJ0ZZ,"Resection of Left Thorax Muscle, Open Approach"
+DRG25802,0KXK0Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0KXK4Z6,"Transfer Right Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"
+DRG25802,0KXL0Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Open Approach"
+DRG25802,0KXL4Z6,"Transfer Left Abdomen Muscle, Transverse Rectus Abdominis Myocutaneous Flap, Percutaneous Endoscopic Approach"

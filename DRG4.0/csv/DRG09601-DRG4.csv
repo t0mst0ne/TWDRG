@@ -1,18 +1,18 @@
-,DRG,CM-PCS,en
-6417,DRG09601,J4520,"Mild intermittent asthma, uncomplicated"
-6418,DRG09601,J4521,Mild intermittent asthma with (acute) exacerbation
-6419,DRG09601,J4522,Mild intermittent asthma with status asthmaticus
-6420,DRG09601,J4530,"Mild persistent asthma, uncomplicated"
-6421,DRG09601,J4531,Mild persistent asthma with (acute) exacerbation
-6422,DRG09601,J4532,Mild persistent asthma with status asthmaticus
-6423,DRG09601,J4540,"Moderate persistent asthma, uncomplicated"
-6424,DRG09601,J4541,Moderate persistent asthma with (acute) exacerbation
-6425,DRG09601,J4542,Moderate persistent asthma with status asthmaticus
-6426,DRG09601,J4550,"Severe persistent asthma, uncomplicated"
-6427,DRG09601,J4551,Severe persistent asthma with (acute) exacerbation
-6428,DRG09601,J4552,Severe persistent asthma with status asthmaticus
-6429,DRG09601,J45901,Unspecified asthma with (acute) exacerbation
-6430,DRG09601,J45902,Unspecified asthma with status asthmaticus
-6431,DRG09601,J45909,"Unspecified asthma, uncomplicated"
-6432,DRG09601,J45991,Cough variant asthma
-6433,DRG09601,J45998,Other asthma
+DRG,CM-PCS,en
+DRG09601,J4520,"Mild intermittent asthma, uncomplicated"
+DRG09601,J4521,Mild intermittent asthma with (acute) exacerbation
+DRG09601,J4522,Mild intermittent asthma with status asthmaticus
+DRG09601,J4530,"Mild persistent asthma, uncomplicated"
+DRG09601,J4531,Mild persistent asthma with (acute) exacerbation
+DRG09601,J4532,Mild persistent asthma with status asthmaticus
+DRG09601,J4540,"Moderate persistent asthma, uncomplicated"
+DRG09601,J4541,Moderate persistent asthma with (acute) exacerbation
+DRG09601,J4542,Moderate persistent asthma with status asthmaticus
+DRG09601,J4550,"Severe persistent asthma, uncomplicated"
+DRG09601,J4551,Severe persistent asthma with (acute) exacerbation
+DRG09601,J4552,Severe persistent asthma with status asthmaticus
+DRG09601,J45901,Unspecified asthma with (acute) exacerbation
+DRG09601,J45902,Unspecified asthma with status asthmaticus
+DRG09601,J45909,"Unspecified asthma, uncomplicated"
+DRG09601,J45991,Cough variant asthma
+DRG09601,J45998,Other asthma

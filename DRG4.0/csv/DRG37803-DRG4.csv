@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-3028,DRG37803,O000,Abdominal pregnancy
-3029,DRG37803,O001,Tubal pregnancy
-3030,DRG37803,O002,Ovarian pregnancy
-3031,DRG37803,O008,Other ectopic pregnancy
-3032,DRG37803,O009,"Ectopic pregnancy, unspecified"
+DRG,CM-PCS,en
+DRG37803,O000,Abdominal pregnancy
+DRG37803,O001,Tubal pregnancy
+DRG37803,O002,Ovarian pregnancy
+DRG37803,O008,Other ectopic pregnancy
+DRG37803,O009,"Ectopic pregnancy, unspecified"

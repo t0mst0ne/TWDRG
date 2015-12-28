@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-9092,DRG17203,D0140,Carcinoma in situ of unspecified part of intestine
-9093,DRG17203,D0149,Carcinoma in situ of other parts of intestine
-9094,DRG17203,D017,Carcinoma in situ of other specified digestive organs
-9095,DRG17203,D019,"Carcinoma in situ of digestive organ, unspecified"
-9096,DRG17203,D490,Neoplasm of unspecified behavior of digestive system
+DRG,CM-PCS,en
+DRG17203,D0140,Carcinoma in situ of unspecified part of intestine
+DRG17203,D0149,Carcinoma in situ of other parts of intestine
+DRG17203,D017,Carcinoma in situ of other specified digestive organs
+DRG17203,D019,"Carcinoma in situ of digestive organ, unspecified"
+DRG17203,D490,Neoplasm of unspecified behavior of digestive system

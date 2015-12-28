@@ -1,241 +1,241 @@
-,DRG,CM-PCS,en
-12041,DRG40801,D093,Carcinoma in situ of thyroid and other endocrine glands
-12042,DRG40801,D098,Carcinoma in situ of other specified sites
-12043,DRG40801,D099,"Carcinoma in situ, unspecified"
-12044,DRG40801,D197,Benign neoplasm of mesothelial tissue of other sites
-12045,DRG40801,D199,"Benign neoplasm of mesothelial tissue, unspecified"
-12046,DRG40801,D367,Benign neoplasm of other specified sites
-12047,DRG40801,D369,"Benign neoplasm, unspecified site"
-12048,DRG40801,D3A094,Benign carcinoid tumor of the foregut NOS
-12049,DRG40801,D3A095,Benign carcinoid tumor of the midgut NOS
-12050,DRG40801,D3A096,Benign carcinoid tumor of the hindgut NOS
-12051,DRG40801,D3A098,Benign carcinoid tumors of other sites
-12052,DRG40801,D4981,Neoplasm of unspecified behavior of retina and choroid
-12053,DRG40801,D4989,Neoplasm of unspecified behavior of other specified sites
-12054,DRG40801,D499,Neoplasm of unspecified behavior of unspecified site
-12055,DRG40801,E8809,"Other disorders of plasma-protein metabolism, not elsewhere classified"
-12056,DRG40801,Q858,"Other phakomatoses, not elsewhere classified"
-12057,DRG40801,Q859,"Phakomatosis, unspecified"
-12058,DRG40801,Z0389,Encounter for observation for other suspected diseases and conditions ruled out
-12063,DRG40801,D020DZZ,Stereotactic Other Photon Radiosurgery of Brain
-12064,DRG40801,D020HZZ,Stereotactic Particulate Radiosurgery of Brain
-12065,DRG40801,D020JZZ,Stereotactic Gamma Beam Radiosurgery of Brain
-12066,DRG40801,D021DZZ,Stereotactic Other Photon Radiosurgery of Brain Stem
-12067,DRG40801,D021HZZ,Stereotactic Particulate Radiosurgery of Brain Stem
-12068,DRG40801,D021JZZ,Stereotactic Gamma Beam Radiosurgery of Brain Stem
-12069,DRG40801,D026DZZ,Stereotactic Other Photon Radiosurgery of Spinal Cord
-12070,DRG40801,D026HZZ,Stereotactic Particulate Radiosurgery of Spinal Cord
-12071,DRG40801,D026JZZ,Stereotactic Gamma Beam Radiosurgery of Spinal Cord
-12072,DRG40801,D027DZZ,Stereotactic Other Photon Radiosurgery of Peripheral Nerve
-12073,DRG40801,D027HZZ,Stereotactic Particulate Radiosurgery of Peripheral Nerve
-12074,DRG40801,D027JZZ,Stereotactic Gamma Beam Radiosurgery of Peripheral Nerve
-12075,DRG40801,D720DZZ,Stereotactic Other Photon Radiosurgery of Bone Marrow
-12076,DRG40801,D720HZZ,Stereotactic Particulate Radiosurgery of Bone Marrow
-12077,DRG40801,D720JZZ,Stereotactic Gamma Beam Radiosurgery of Bone Marrow
-12078,DRG40801,D721DZZ,Stereotactic Other Photon Radiosurgery of Thymus
-12079,DRG40801,D721HZZ,Stereotactic Particulate Radiosurgery of Thymus
-12080,DRG40801,D721JZZ,Stereotactic Gamma Beam Radiosurgery of Thymus
-12081,DRG40801,D722DZZ,Stereotactic Other Photon Radiosurgery of Spleen
-12082,DRG40801,D722HZZ,Stereotactic Particulate Radiosurgery of Spleen
-12083,DRG40801,D722JZZ,Stereotactic Gamma Beam Radiosurgery of Spleen
-12084,DRG40801,D723DZZ,Stereotactic Other Photon Radiosurgery of Neck Lymphatics
-12085,DRG40801,D723HZZ,Stereotactic Particulate Radiosurgery of Neck Lymphatics
-12086,DRG40801,D723JZZ,Stereotactic Gamma Beam Radiosurgery of Neck Lymphatics
-12087,DRG40801,D724DZZ,Stereotactic Other Photon Radiosurgery of Axillary Lymphatics
-12088,DRG40801,D724HZZ,Stereotactic Particulate Radiosurgery of Axillary Lymphatics
-12089,DRG40801,D724JZZ,Stereotactic Gamma Beam Radiosurgery of Axillary Lymphatics
-12090,DRG40801,D725DZZ,Stereotactic Other Photon Radiosurgery of Thorax Lymphatics
-12091,DRG40801,D725HZZ,Stereotactic Particulate Radiosurgery of Thorax Lymphatics
-12092,DRG40801,D725JZZ,Stereotactic Gamma Beam Radiosurgery of Thorax Lymphatics
-12093,DRG40801,D726DZZ,Stereotactic Other Photon Radiosurgery of Abdomen Lymphatics
-12094,DRG40801,D726HZZ,Stereotactic Particulate Radiosurgery of Abdomen Lymphatics
-12095,DRG40801,D726JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen Lymphatics
-12096,DRG40801,D727DZZ,Stereotactic Other Photon Radiosurgery of Pelvis Lymphatics
-12097,DRG40801,D727HZZ,Stereotactic Particulate Radiosurgery of Pelvis Lymphatics
-12098,DRG40801,D727JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvis Lymphatics
-12099,DRG40801,D728DZZ,Stereotactic Other Photon Radiosurgery of Inguinal Lymphatics
-12100,DRG40801,D728HZZ,Stereotactic Particulate Radiosurgery of Inguinal Lymphatics
-12101,DRG40801,D728JZZ,Stereotactic Gamma Beam Radiosurgery of Inguinal Lymphatics
-12102,DRG40801,D820DZZ,Stereotactic Other Photon Radiosurgery of Eye
-12103,DRG40801,D820HZZ,Stereotactic Particulate Radiosurgery of Eye
-12104,DRG40801,D820JZZ,Stereotactic Gamma Beam Radiosurgery of Eye
-12105,DRG40801,D920DZZ,Stereotactic Other Photon Radiosurgery of Ear
-12106,DRG40801,D920HZZ,Stereotactic Particulate Radiosurgery of Ear
-12107,DRG40801,D920JZZ,Stereotactic Gamma Beam Radiosurgery of Ear
-12108,DRG40801,D921DZZ,Stereotactic Other Photon Radiosurgery of Nose
-12109,DRG40801,D921HZZ,Stereotactic Particulate Radiosurgery of Nose
-12110,DRG40801,D921JZZ,Stereotactic Gamma Beam Radiosurgery of Nose
-12111,DRG40801,D924DZZ,Stereotactic Other Photon Radiosurgery of Mouth
-12112,DRG40801,D924HZZ,Stereotactic Particulate Radiosurgery of Mouth
-12113,DRG40801,D924JZZ,Stereotactic Gamma Beam Radiosurgery of Mouth
-12114,DRG40801,D925DZZ,Stereotactic Other Photon Radiosurgery of Tongue
-12115,DRG40801,D925HZZ,Stereotactic Particulate Radiosurgery of Tongue
-12116,DRG40801,D925JZZ,Stereotactic Gamma Beam Radiosurgery of Tongue
-12117,DRG40801,D926DZZ,Stereotactic Other Photon Radiosurgery of Salivary Glands
-12118,DRG40801,D926HZZ,Stereotactic Particulate Radiosurgery of Salivary Glands
-12119,DRG40801,D926JZZ,Stereotactic Gamma Beam Radiosurgery of Salivary Glands
-12120,DRG40801,D927DZZ,Stereotactic Other Photon Radiosurgery of Sinuses
-12121,DRG40801,D927HZZ,Stereotactic Particulate Radiosurgery of Sinuses
-12122,DRG40801,D927JZZ,Stereotactic Gamma Beam Radiosurgery of Sinuses
-12123,DRG40801,D928DZZ,Stereotactic Other Photon Radiosurgery of Hard Palate
-12124,DRG40801,D928HZZ,Stereotactic Particulate Radiosurgery of Hard Palate
-12125,DRG40801,D928JZZ,Stereotactic Gamma Beam Radiosurgery of Hard Palate
-12126,DRG40801,D929DZZ,Stereotactic Other Photon Radiosurgery of Soft Palate
-12127,DRG40801,D929HZZ,Stereotactic Particulate Radiosurgery of Soft Palate
-12128,DRG40801,D929JZZ,Stereotactic Gamma Beam Radiosurgery of Soft Palate
-12129,DRG40801,D92BDZZ,Stereotactic Other Photon Radiosurgery of Larynx
-12130,DRG40801,D92BHZZ,Stereotactic Particulate Radiosurgery of Larynx
-12131,DRG40801,D92BJZZ,Stereotactic Gamma Beam Radiosurgery of Larynx
-12132,DRG40801,D92CDZZ,Stereotactic Other Photon Radiosurgery of Pharynx
-12133,DRG40801,D92CHZZ,Stereotactic Particulate Radiosurgery of Pharynx
-12134,DRG40801,D92CJZZ,Stereotactic Gamma Beam Radiosurgery of Pharynx
-12135,DRG40801,D92DDZZ,Stereotactic Other Photon Radiosurgery of Nasopharynx
-12136,DRG40801,D92DHZZ,Stereotactic Particulate Radiosurgery of Nasopharynx
-12137,DRG40801,D92DJZZ,Stereotactic Gamma Beam Radiosurgery of Nasopharynx
-12138,DRG40801,DB20DZZ,Stereotactic Other Photon Radiosurgery of Trachea
-12139,DRG40801,DB20HZZ,Stereotactic Particulate Radiosurgery of Trachea
-12140,DRG40801,DB20JZZ,Stereotactic Gamma Beam Radiosurgery of Trachea
-12141,DRG40801,DB21DZZ,Stereotactic Other Photon Radiosurgery of Bronchus
-12142,DRG40801,DB21HZZ,Stereotactic Particulate Radiosurgery of Bronchus
-12143,DRG40801,DB21JZZ,Stereotactic Gamma Beam Radiosurgery of Bronchus
-12144,DRG40801,DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung
-12145,DRG40801,DB22HZZ,Stereotactic Particulate Radiosurgery of Lung
-12146,DRG40801,DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung
-12147,DRG40801,DB25DZZ,Stereotactic Other Photon Radiosurgery of Pleura
-12148,DRG40801,DB25HZZ,Stereotactic Particulate Radiosurgery of Pleura
-12149,DRG40801,DB25JZZ,Stereotactic Gamma Beam Radiosurgery of Pleura
-12150,DRG40801,DB26DZZ,Stereotactic Other Photon Radiosurgery of Mediastinum
-12151,DRG40801,DB26HZZ,Stereotactic Particulate Radiosurgery of Mediastinum
-12152,DRG40801,DB26JZZ,Stereotactic Gamma Beam Radiosurgery of Mediastinum
-12153,DRG40801,DB27DZZ,Stereotactic Other Photon Radiosurgery of Chest Wall
-12154,DRG40801,DB27HZZ,Stereotactic Particulate Radiosurgery of Chest Wall
-12155,DRG40801,DB27JZZ,Stereotactic Gamma Beam Radiosurgery of Chest Wall
-12156,DRG40801,DB28DZZ,Stereotactic Other Photon Radiosurgery of Diaphragm
-12157,DRG40801,DB28HZZ,Stereotactic Particulate Radiosurgery of Diaphragm
-12158,DRG40801,DB28JZZ,Stereotactic Gamma Beam Radiosurgery of Diaphragm
-12159,DRG40801,DD20DZZ,Stereotactic Other Photon Radiosurgery of Esophagus
-12160,DRG40801,DD20HZZ,Stereotactic Particulate Radiosurgery of Esophagus
-12161,DRG40801,DD20JZZ,Stereotactic Gamma Beam Radiosurgery of Esophagus
-12162,DRG40801,DD21DZZ,Stereotactic Other Photon Radiosurgery of Stomach
-12163,DRG40801,DD21HZZ,Stereotactic Particulate Radiosurgery of Stomach
-12164,DRG40801,DD21JZZ,Stereotactic Gamma Beam Radiosurgery of Stomach
-12165,DRG40801,DD22DZZ,Stereotactic Other Photon Radiosurgery of Duodenum
-12166,DRG40801,DD22HZZ,Stereotactic Particulate Radiosurgery of Duodenum
-12167,DRG40801,DD22JZZ,Stereotactic Gamma Beam Radiosurgery of Duodenum
-12168,DRG40801,DD23DZZ,Stereotactic Other Photon Radiosurgery of Jejunum
-12169,DRG40801,DD23HZZ,Stereotactic Particulate Radiosurgery of Jejunum
-12170,DRG40801,DD23JZZ,Stereotactic Gamma Beam Radiosurgery of Jejunum
-12171,DRG40801,DD24DZZ,Stereotactic Other Photon Radiosurgery of Ileum
-12172,DRG40801,DD24HZZ,Stereotactic Particulate Radiosurgery of Ileum
-12173,DRG40801,DD24JZZ,Stereotactic Gamma Beam Radiosurgery of Ileum
-12174,DRG40801,DD25DZZ,Stereotactic Other Photon Radiosurgery of Colon
-12175,DRG40801,DD25HZZ,Stereotactic Particulate Radiosurgery of Colon
-12176,DRG40801,DD25JZZ,Stereotactic Gamma Beam Radiosurgery of Colon
-12177,DRG40801,DD27DZZ,Stereotactic Other Photon Radiosurgery of Rectum
-12178,DRG40801,DD27HZZ,Stereotactic Particulate Radiosurgery of Rectum
-12179,DRG40801,DD27JZZ,Stereotactic Gamma Beam Radiosurgery of Rectum
-12180,DRG40801,DF20DZZ,Stereotactic Other Photon Radiosurgery of Liver
-12181,DRG40801,DF20HZZ,Stereotactic Particulate Radiosurgery of Liver
-12182,DRG40801,DF20JZZ,Stereotactic Gamma Beam Radiosurgery of Liver
-12183,DRG40801,DF21DZZ,Stereotactic Other Photon Radiosurgery of Gallbladder
-12184,DRG40801,DF21HZZ,Stereotactic Particulate Radiosurgery of Gallbladder
-12185,DRG40801,DF21JZZ,Stereotactic Gamma Beam Radiosurgery of Gallbladder
-12186,DRG40801,DF22DZZ,Stereotactic Other Photon Radiosurgery of Bile Ducts
-12187,DRG40801,DF22HZZ,Stereotactic Particulate Radiosurgery of Bile Ducts
-12188,DRG40801,DF22JZZ,Stereotactic Gamma Beam Radiosurgery of Bile Ducts
-12189,DRG40801,DF23DZZ,Stereotactic Other Photon Radiosurgery of Pancreas
-12190,DRG40801,DF23HZZ,Stereotactic Particulate Radiosurgery of Pancreas
-12191,DRG40801,DF23JZZ,Stereotactic Gamma Beam Radiosurgery of Pancreas
-12192,DRG40801,DG20DZZ,Stereotactic Other Photon Radiosurgery of Pituitary Gland
-12193,DRG40801,DG20HZZ,Stereotactic Particulate Radiosurgery of Pituitary Gland
-12194,DRG40801,DG20JZZ,Stereotactic Gamma Beam Radiosurgery of Pituitary Gland
-12195,DRG40801,DG21DZZ,Stereotactic Other Photon Radiosurgery of Pineal Body
-12196,DRG40801,DG21HZZ,Stereotactic Particulate Radiosurgery of Pineal Body
-12197,DRG40801,DG21JZZ,Stereotactic Gamma Beam Radiosurgery of Pineal Body
-12198,DRG40801,DG22DZZ,Stereotactic Other Photon Radiosurgery of Adrenal Glands
-12199,DRG40801,DG22HZZ,Stereotactic Particulate Radiosurgery of Adrenal Glands
-12200,DRG40801,DG22JZZ,Stereotactic Gamma Beam Radiosurgery of Adrenal Glands
-12201,DRG40801,DG24DZZ,Stereotactic Other Photon Radiosurgery of Parathyroid Glands
-12202,DRG40801,DG24HZZ,Stereotactic Particulate Radiosurgery of Parathyroid Glands
-12203,DRG40801,DG24JZZ,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands
-12204,DRG40801,DG25DZZ,Stereotactic Other Photon Radiosurgery of Thyroid
-12205,DRG40801,DG25HZZ,Stereotactic Particulate Radiosurgery of Thyroid
-12206,DRG40801,DG25JZZ,Stereotactic Gamma Beam Radiosurgery of Thyroid
-12207,DRG40801,DM20DZZ,Stereotactic Other Photon Radiosurgery of Left Breast
-12208,DRG40801,DM20HZZ,Stereotactic Particulate Radiosurgery of Left Breast
-12209,DRG40801,DM20JZZ,Stereotactic Gamma Beam Radiosurgery of Left Breast
-12210,DRG40801,DM21DZZ,Stereotactic Other Photon Radiosurgery of Right Breast
-12211,DRG40801,DM21HZZ,Stereotactic Particulate Radiosurgery of Right Breast
-12212,DRG40801,DM21JZZ,Stereotactic Gamma Beam Radiosurgery of Right Breast
-12213,DRG40801,DT20DZZ,Stereotactic Other Photon Radiosurgery of Kidney
-12214,DRG40801,DT20HZZ,Stereotactic Particulate Radiosurgery of Kidney
-12215,DRG40801,DT20JZZ,Stereotactic Gamma Beam Radiosurgery of Kidney
-12216,DRG40801,DT21DZZ,Stereotactic Other Photon Radiosurgery of Ureter
-12217,DRG40801,DT21HZZ,Stereotactic Particulate Radiosurgery of Ureter
-12218,DRG40801,DT21JZZ,Stereotactic Gamma Beam Radiosurgery of Ureter
-12219,DRG40801,DT22DZZ,Stereotactic Other Photon Radiosurgery of Bladder
-12220,DRG40801,DT22HZZ,Stereotactic Particulate Radiosurgery of Bladder
-12221,DRG40801,DT22JZZ,Stereotactic Gamma Beam Radiosurgery of Bladder
-12222,DRG40801,DT23DZZ,Stereotactic Other Photon Radiosurgery of Urethra
-12223,DRG40801,DT23HZZ,Stereotactic Particulate Radiosurgery of Urethra
-12224,DRG40801,DT23JZZ,Stereotactic Gamma Beam Radiosurgery of Urethra
-12225,DRG40801,DU20DZZ,Stereotactic Other Photon Radiosurgery of Ovary
-12226,DRG40801,DU20HZZ,Stereotactic Particulate Radiosurgery of Ovary
-12227,DRG40801,DU20JZZ,Stereotactic Gamma Beam Radiosurgery of Ovary
-12228,DRG40801,DU21DZZ,Stereotactic Other Photon Radiosurgery of Cervix
-12229,DRG40801,DU21HZZ,Stereotactic Particulate Radiosurgery of Cervix
-12230,DRG40801,DU21JZZ,Stereotactic Gamma Beam Radiosurgery of Cervix
-12231,DRG40801,DU22DZZ,Stereotactic Other Photon Radiosurgery of Uterus
-12232,DRG40801,DU22HZZ,Stereotactic Particulate Radiosurgery of Uterus
-12233,DRG40801,DU22JZZ,Stereotactic Gamma Beam Radiosurgery of Uterus
-12234,DRG40801,DV20DZZ,Stereotactic Other Photon Radiosurgery of Prostate
-12235,DRG40801,DV20HZZ,Stereotactic Particulate Radiosurgery of Prostate
-12236,DRG40801,DV20JZZ,Stereotactic Gamma Beam Radiosurgery of Prostate
-12237,DRG40801,DV21DZZ,Stereotactic Other Photon Radiosurgery of Testis
-12238,DRG40801,DV21HZZ,Stereotactic Particulate Radiosurgery of Testis
-12239,DRG40801,DV21JZZ,Stereotactic Gamma Beam Radiosurgery of Testis
-12240,DRG40801,DW21DZZ,Stereotactic Other Photon Radiosurgery of Head and Neck
-12241,DRG40801,DW21HZZ,Stereotactic Particulate Radiosurgery of Head and Neck
-12242,DRG40801,DW21JZZ,Stereotactic Gamma Beam Radiosurgery of Head and Neck
-12243,DRG40801,DW22DZZ,Stereotactic Other Photon Radiosurgery of Chest
-12244,DRG40801,DW22HZZ,Stereotactic Particulate Radiosurgery of Chest
-12245,DRG40801,DW22JZZ,Stereotactic Gamma Beam Radiosurgery of Chest
-12246,DRG40801,DW23DZZ,Stereotactic Other Photon Radiosurgery of Abdomen
-12247,DRG40801,DW23HZZ,Stereotactic Particulate Radiosurgery of Abdomen
-12248,DRG40801,DW23JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen
-12249,DRG40801,DW26DZZ,Stereotactic Other Photon Radiosurgery of Pelvic Region
-12250,DRG40801,DW26HZZ,Stereotactic Particulate Radiosurgery of Pelvic Region
-12251,DRG40801,DW26JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvic Region
-12252,DRG40801,S40019A,"Contusion of unspecified shoulder, initial encounter"
-12253,DRG40801,S6000XA,"Contusion of unspecified finger without damage to nail, initial encounter"
-12254,DRG40801,S60011A,"Contusion of right thumb without damage to nail, initial encounter"
-12255,DRG40801,S60012A,"Contusion of left thumb without damage to nail, initial encounter"
-12256,DRG40801,S60019A,"Contusion of unspecified thumb without damage to nail, initial encounter"
-12257,DRG40801,S60021A,"Contusion of right index finger without damage to nail, initial encounter"
-12258,DRG40801,S60022A,"Contusion of left index finger without damage to nail, initial encounter"
-12259,DRG40801,S60029A,"Contusion of unspecified index finger without damage to nail, initial encounter"
-12260,DRG40801,S60031A,"Contusion of right middle finger without damage to nail, initial encounter"
-12261,DRG40801,S60032A,"Contusion of left middle finger without damage to nail, initial encounter"
-12262,DRG40801,S60039A,"Contusion of unspecified middle finger without damage to nail, initial encounter"
-12263,DRG40801,S60041A,"Contusion of right ring finger without damage to nail, initial encounter"
-12264,DRG40801,S60042A,"Contusion of left ring finger without damage to nail, initial encounter"
-12265,DRG40801,S60049A,"Contusion of unspecified ring finger without damage to nail, initial encounter"
-12266,DRG40801,S60051A,"Contusion of right little finger without damage to nail, initial encounter"
-12267,DRG40801,S60052A,"Contusion of left little finger without damage to nail, initial encounter"
-12268,DRG40801,S60059A,"Contusion of unspecified little finger without damage to nail, initial encounter"
-12269,DRG40801,S6010XA,"Contusion of unspecified finger with damage to nail, initial encounter"
-12270,DRG40801,S60111A,"Contusion of right thumb with damage to nail, initial encounter"
-12271,DRG40801,S60112A,"Contusion of left thumb with damage to nail, initial encounter"
-12272,DRG40801,S60119A,"Contusion of unspecified thumb with damage to nail, initial encounter"
-12273,DRG40801,S60121A,"Contusion of right index finger with damage to nail, initial encounter"
-12274,DRG40801,S60122A,"Contusion of left index finger with damage to nail, initial encounter"
-12275,DRG40801,S60129A,"Contusion of unspecified index finger with damage to nail, initial encounter"
-12276,DRG40801,S60131A,"Contusion of right middle finger with damage to nail, initial encounter"
-12277,DRG40801,S60132A,"Contusion of left middle finger with damage to nail, initial encounter"
-12278,DRG40801,S60139A,"Contusion of unspecified middle finger with damage to nail, initial encounter"
-12279,DRG40801,S60141A,"Contusion of right ring finger with damage to nail, initial encounter"
-12280,DRG40801,S60142A,"Contusion of left ring finger with damage to nail, initial encounter"
-12281,DRG40801,S60149A,"Contusion of unspecified ring finger with damage to nail, initial encounter"
-12282,DRG40801,S60151A,"Contusion of right little finger with damage to nail, initial encounter"
-12283,DRG40801,S60152A,"Contusion of left little finger with damage to nail, initial encounter"
-12284,DRG40801,S60159A,"Contusion of unspecified little finger with damage to nail, initial encounter"
+DRG,CM-PCS,en
+DRG40801,D093,Carcinoma in situ of thyroid and other endocrine glands
+DRG40801,D098,Carcinoma in situ of other specified sites
+DRG40801,D099,"Carcinoma in situ, unspecified"
+DRG40801,D197,Benign neoplasm of mesothelial tissue of other sites
+DRG40801,D199,"Benign neoplasm of mesothelial tissue, unspecified"
+DRG40801,D367,Benign neoplasm of other specified sites
+DRG40801,D369,"Benign neoplasm, unspecified site"
+DRG40801,D3A094,Benign carcinoid tumor of the foregut NOS
+DRG40801,D3A095,Benign carcinoid tumor of the midgut NOS
+DRG40801,D3A096,Benign carcinoid tumor of the hindgut NOS
+DRG40801,D3A098,Benign carcinoid tumors of other sites
+DRG40801,D4981,Neoplasm of unspecified behavior of retina and choroid
+DRG40801,D4989,Neoplasm of unspecified behavior of other specified sites
+DRG40801,D499,Neoplasm of unspecified behavior of unspecified site
+DRG40801,E8809,"Other disorders of plasma-protein metabolism, not elsewhere classified"
+DRG40801,Q858,"Other phakomatoses, not elsewhere classified"
+DRG40801,Q859,"Phakomatosis, unspecified"
+DRG40801,Z0389,Encounter for observation for other suspected diseases and conditions ruled out
+DRG40801,D020DZZ,Stereotactic Other Photon Radiosurgery of Brain
+DRG40801,D020HZZ,Stereotactic Particulate Radiosurgery of Brain
+DRG40801,D020JZZ,Stereotactic Gamma Beam Radiosurgery of Brain
+DRG40801,D021DZZ,Stereotactic Other Photon Radiosurgery of Brain Stem
+DRG40801,D021HZZ,Stereotactic Particulate Radiosurgery of Brain Stem
+DRG40801,D021JZZ,Stereotactic Gamma Beam Radiosurgery of Brain Stem
+DRG40801,D026DZZ,Stereotactic Other Photon Radiosurgery of Spinal Cord
+DRG40801,D026HZZ,Stereotactic Particulate Radiosurgery of Spinal Cord
+DRG40801,D026JZZ,Stereotactic Gamma Beam Radiosurgery of Spinal Cord
+DRG40801,D027DZZ,Stereotactic Other Photon Radiosurgery of Peripheral Nerve
+DRG40801,D027HZZ,Stereotactic Particulate Radiosurgery of Peripheral Nerve
+DRG40801,D027JZZ,Stereotactic Gamma Beam Radiosurgery of Peripheral Nerve
+DRG40801,D720DZZ,Stereotactic Other Photon Radiosurgery of Bone Marrow
+DRG40801,D720HZZ,Stereotactic Particulate Radiosurgery of Bone Marrow
+DRG40801,D720JZZ,Stereotactic Gamma Beam Radiosurgery of Bone Marrow
+DRG40801,D721DZZ,Stereotactic Other Photon Radiosurgery of Thymus
+DRG40801,D721HZZ,Stereotactic Particulate Radiosurgery of Thymus
+DRG40801,D721JZZ,Stereotactic Gamma Beam Radiosurgery of Thymus
+DRG40801,D722DZZ,Stereotactic Other Photon Radiosurgery of Spleen
+DRG40801,D722HZZ,Stereotactic Particulate Radiosurgery of Spleen
+DRG40801,D722JZZ,Stereotactic Gamma Beam Radiosurgery of Spleen
+DRG40801,D723DZZ,Stereotactic Other Photon Radiosurgery of Neck Lymphatics
+DRG40801,D723HZZ,Stereotactic Particulate Radiosurgery of Neck Lymphatics
+DRG40801,D723JZZ,Stereotactic Gamma Beam Radiosurgery of Neck Lymphatics
+DRG40801,D724DZZ,Stereotactic Other Photon Radiosurgery of Axillary Lymphatics
+DRG40801,D724HZZ,Stereotactic Particulate Radiosurgery of Axillary Lymphatics
+DRG40801,D724JZZ,Stereotactic Gamma Beam Radiosurgery of Axillary Lymphatics
+DRG40801,D725DZZ,Stereotactic Other Photon Radiosurgery of Thorax Lymphatics
+DRG40801,D725HZZ,Stereotactic Particulate Radiosurgery of Thorax Lymphatics
+DRG40801,D725JZZ,Stereotactic Gamma Beam Radiosurgery of Thorax Lymphatics
+DRG40801,D726DZZ,Stereotactic Other Photon Radiosurgery of Abdomen Lymphatics
+DRG40801,D726HZZ,Stereotactic Particulate Radiosurgery of Abdomen Lymphatics
+DRG40801,D726JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen Lymphatics
+DRG40801,D727DZZ,Stereotactic Other Photon Radiosurgery of Pelvis Lymphatics
+DRG40801,D727HZZ,Stereotactic Particulate Radiosurgery of Pelvis Lymphatics
+DRG40801,D727JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvis Lymphatics
+DRG40801,D728DZZ,Stereotactic Other Photon Radiosurgery of Inguinal Lymphatics
+DRG40801,D728HZZ,Stereotactic Particulate Radiosurgery of Inguinal Lymphatics
+DRG40801,D728JZZ,Stereotactic Gamma Beam Radiosurgery of Inguinal Lymphatics
+DRG40801,D820DZZ,Stereotactic Other Photon Radiosurgery of Eye
+DRG40801,D820HZZ,Stereotactic Particulate Radiosurgery of Eye
+DRG40801,D820JZZ,Stereotactic Gamma Beam Radiosurgery of Eye
+DRG40801,D920DZZ,Stereotactic Other Photon Radiosurgery of Ear
+DRG40801,D920HZZ,Stereotactic Particulate Radiosurgery of Ear
+DRG40801,D920JZZ,Stereotactic Gamma Beam Radiosurgery of Ear
+DRG40801,D921DZZ,Stereotactic Other Photon Radiosurgery of Nose
+DRG40801,D921HZZ,Stereotactic Particulate Radiosurgery of Nose
+DRG40801,D921JZZ,Stereotactic Gamma Beam Radiosurgery of Nose
+DRG40801,D924DZZ,Stereotactic Other Photon Radiosurgery of Mouth
+DRG40801,D924HZZ,Stereotactic Particulate Radiosurgery of Mouth
+DRG40801,D924JZZ,Stereotactic Gamma Beam Radiosurgery of Mouth
+DRG40801,D925DZZ,Stereotactic Other Photon Radiosurgery of Tongue
+DRG40801,D925HZZ,Stereotactic Particulate Radiosurgery of Tongue
+DRG40801,D925JZZ,Stereotactic Gamma Beam Radiosurgery of Tongue
+DRG40801,D926DZZ,Stereotactic Other Photon Radiosurgery of Salivary Glands
+DRG40801,D926HZZ,Stereotactic Particulate Radiosurgery of Salivary Glands
+DRG40801,D926JZZ,Stereotactic Gamma Beam Radiosurgery of Salivary Glands
+DRG40801,D927DZZ,Stereotactic Other Photon Radiosurgery of Sinuses
+DRG40801,D927HZZ,Stereotactic Particulate Radiosurgery of Sinuses
+DRG40801,D927JZZ,Stereotactic Gamma Beam Radiosurgery of Sinuses
+DRG40801,D928DZZ,Stereotactic Other Photon Radiosurgery of Hard Palate
+DRG40801,D928HZZ,Stereotactic Particulate Radiosurgery of Hard Palate
+DRG40801,D928JZZ,Stereotactic Gamma Beam Radiosurgery of Hard Palate
+DRG40801,D929DZZ,Stereotactic Other Photon Radiosurgery of Soft Palate
+DRG40801,D929HZZ,Stereotactic Particulate Radiosurgery of Soft Palate
+DRG40801,D929JZZ,Stereotactic Gamma Beam Radiosurgery of Soft Palate
+DRG40801,D92BDZZ,Stereotactic Other Photon Radiosurgery of Larynx
+DRG40801,D92BHZZ,Stereotactic Particulate Radiosurgery of Larynx
+DRG40801,D92BJZZ,Stereotactic Gamma Beam Radiosurgery of Larynx
+DRG40801,D92CDZZ,Stereotactic Other Photon Radiosurgery of Pharynx
+DRG40801,D92CHZZ,Stereotactic Particulate Radiosurgery of Pharynx
+DRG40801,D92CJZZ,Stereotactic Gamma Beam Radiosurgery of Pharynx
+DRG40801,D92DDZZ,Stereotactic Other Photon Radiosurgery of Nasopharynx
+DRG40801,D92DHZZ,Stereotactic Particulate Radiosurgery of Nasopharynx
+DRG40801,D92DJZZ,Stereotactic Gamma Beam Radiosurgery of Nasopharynx
+DRG40801,DB20DZZ,Stereotactic Other Photon Radiosurgery of Trachea
+DRG40801,DB20HZZ,Stereotactic Particulate Radiosurgery of Trachea
+DRG40801,DB20JZZ,Stereotactic Gamma Beam Radiosurgery of Trachea
+DRG40801,DB21DZZ,Stereotactic Other Photon Radiosurgery of Bronchus
+DRG40801,DB21HZZ,Stereotactic Particulate Radiosurgery of Bronchus
+DRG40801,DB21JZZ,Stereotactic Gamma Beam Radiosurgery of Bronchus
+DRG40801,DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung
+DRG40801,DB22HZZ,Stereotactic Particulate Radiosurgery of Lung
+DRG40801,DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung
+DRG40801,DB25DZZ,Stereotactic Other Photon Radiosurgery of Pleura
+DRG40801,DB25HZZ,Stereotactic Particulate Radiosurgery of Pleura
+DRG40801,DB25JZZ,Stereotactic Gamma Beam Radiosurgery of Pleura
+DRG40801,DB26DZZ,Stereotactic Other Photon Radiosurgery of Mediastinum
+DRG40801,DB26HZZ,Stereotactic Particulate Radiosurgery of Mediastinum
+DRG40801,DB26JZZ,Stereotactic Gamma Beam Radiosurgery of Mediastinum
+DRG40801,DB27DZZ,Stereotactic Other Photon Radiosurgery of Chest Wall
+DRG40801,DB27HZZ,Stereotactic Particulate Radiosurgery of Chest Wall
+DRG40801,DB27JZZ,Stereotactic Gamma Beam Radiosurgery of Chest Wall
+DRG40801,DB28DZZ,Stereotactic Other Photon Radiosurgery of Diaphragm
+DRG40801,DB28HZZ,Stereotactic Particulate Radiosurgery of Diaphragm
+DRG40801,DB28JZZ,Stereotactic Gamma Beam Radiosurgery of Diaphragm
+DRG40801,DD20DZZ,Stereotactic Other Photon Radiosurgery of Esophagus
+DRG40801,DD20HZZ,Stereotactic Particulate Radiosurgery of Esophagus
+DRG40801,DD20JZZ,Stereotactic Gamma Beam Radiosurgery of Esophagus
+DRG40801,DD21DZZ,Stereotactic Other Photon Radiosurgery of Stomach
+DRG40801,DD21HZZ,Stereotactic Particulate Radiosurgery of Stomach
+DRG40801,DD21JZZ,Stereotactic Gamma Beam Radiosurgery of Stomach
+DRG40801,DD22DZZ,Stereotactic Other Photon Radiosurgery of Duodenum
+DRG40801,DD22HZZ,Stereotactic Particulate Radiosurgery of Duodenum
+DRG40801,DD22JZZ,Stereotactic Gamma Beam Radiosurgery of Duodenum
+DRG40801,DD23DZZ,Stereotactic Other Photon Radiosurgery of Jejunum
+DRG40801,DD23HZZ,Stereotactic Particulate Radiosurgery of Jejunum
+DRG40801,DD23JZZ,Stereotactic Gamma Beam Radiosurgery of Jejunum
+DRG40801,DD24DZZ,Stereotactic Other Photon Radiosurgery of Ileum
+DRG40801,DD24HZZ,Stereotactic Particulate Radiosurgery of Ileum
+DRG40801,DD24JZZ,Stereotactic Gamma Beam Radiosurgery of Ileum
+DRG40801,DD25DZZ,Stereotactic Other Photon Radiosurgery of Colon
+DRG40801,DD25HZZ,Stereotactic Particulate Radiosurgery of Colon
+DRG40801,DD25JZZ,Stereotactic Gamma Beam Radiosurgery of Colon
+DRG40801,DD27DZZ,Stereotactic Other Photon Radiosurgery of Rectum
+DRG40801,DD27HZZ,Stereotactic Particulate Radiosurgery of Rectum
+DRG40801,DD27JZZ,Stereotactic Gamma Beam Radiosurgery of Rectum
+DRG40801,DF20DZZ,Stereotactic Other Photon Radiosurgery of Liver
+DRG40801,DF20HZZ,Stereotactic Particulate Radiosurgery of Liver
+DRG40801,DF20JZZ,Stereotactic Gamma Beam Radiosurgery of Liver
+DRG40801,DF21DZZ,Stereotactic Other Photon Radiosurgery of Gallbladder
+DRG40801,DF21HZZ,Stereotactic Particulate Radiosurgery of Gallbladder
+DRG40801,DF21JZZ,Stereotactic Gamma Beam Radiosurgery of Gallbladder
+DRG40801,DF22DZZ,Stereotactic Other Photon Radiosurgery of Bile Ducts
+DRG40801,DF22HZZ,Stereotactic Particulate Radiosurgery of Bile Ducts
+DRG40801,DF22JZZ,Stereotactic Gamma Beam Radiosurgery of Bile Ducts
+DRG40801,DF23DZZ,Stereotactic Other Photon Radiosurgery of Pancreas
+DRG40801,DF23HZZ,Stereotactic Particulate Radiosurgery of Pancreas
+DRG40801,DF23JZZ,Stereotactic Gamma Beam Radiosurgery of Pancreas
+DRG40801,DG20DZZ,Stereotactic Other Photon Radiosurgery of Pituitary Gland
+DRG40801,DG20HZZ,Stereotactic Particulate Radiosurgery of Pituitary Gland
+DRG40801,DG20JZZ,Stereotactic Gamma Beam Radiosurgery of Pituitary Gland
+DRG40801,DG21DZZ,Stereotactic Other Photon Radiosurgery of Pineal Body
+DRG40801,DG21HZZ,Stereotactic Particulate Radiosurgery of Pineal Body
+DRG40801,DG21JZZ,Stereotactic Gamma Beam Radiosurgery of Pineal Body
+DRG40801,DG22DZZ,Stereotactic Other Photon Radiosurgery of Adrenal Glands
+DRG40801,DG22HZZ,Stereotactic Particulate Radiosurgery of Adrenal Glands
+DRG40801,DG22JZZ,Stereotactic Gamma Beam Radiosurgery of Adrenal Glands
+DRG40801,DG24DZZ,Stereotactic Other Photon Radiosurgery of Parathyroid Glands
+DRG40801,DG24HZZ,Stereotactic Particulate Radiosurgery of Parathyroid Glands
+DRG40801,DG24JZZ,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands
+DRG40801,DG25DZZ,Stereotactic Other Photon Radiosurgery of Thyroid
+DRG40801,DG25HZZ,Stereotactic Particulate Radiosurgery of Thyroid
+DRG40801,DG25JZZ,Stereotactic Gamma Beam Radiosurgery of Thyroid
+DRG40801,DM20DZZ,Stereotactic Other Photon Radiosurgery of Left Breast
+DRG40801,DM20HZZ,Stereotactic Particulate Radiosurgery of Left Breast
+DRG40801,DM20JZZ,Stereotactic Gamma Beam Radiosurgery of Left Breast
+DRG40801,DM21DZZ,Stereotactic Other Photon Radiosurgery of Right Breast
+DRG40801,DM21HZZ,Stereotactic Particulate Radiosurgery of Right Breast
+DRG40801,DM21JZZ,Stereotactic Gamma Beam Radiosurgery of Right Breast
+DRG40801,DT20DZZ,Stereotactic Other Photon Radiosurgery of Kidney
+DRG40801,DT20HZZ,Stereotactic Particulate Radiosurgery of Kidney
+DRG40801,DT20JZZ,Stereotactic Gamma Beam Radiosurgery of Kidney
+DRG40801,DT21DZZ,Stereotactic Other Photon Radiosurgery of Ureter
+DRG40801,DT21HZZ,Stereotactic Particulate Radiosurgery of Ureter
+DRG40801,DT21JZZ,Stereotactic Gamma Beam Radiosurgery of Ureter
+DRG40801,DT22DZZ,Stereotactic Other Photon Radiosurgery of Bladder
+DRG40801,DT22HZZ,Stereotactic Particulate Radiosurgery of Bladder
+DRG40801,DT22JZZ,Stereotactic Gamma Beam Radiosurgery of Bladder
+DRG40801,DT23DZZ,Stereotactic Other Photon Radiosurgery of Urethra
+DRG40801,DT23HZZ,Stereotactic Particulate Radiosurgery of Urethra
+DRG40801,DT23JZZ,Stereotactic Gamma Beam Radiosurgery of Urethra
+DRG40801,DU20DZZ,Stereotactic Other Photon Radiosurgery of Ovary
+DRG40801,DU20HZZ,Stereotactic Particulate Radiosurgery of Ovary
+DRG40801,DU20JZZ,Stereotactic Gamma Beam Radiosurgery of Ovary
+DRG40801,DU21DZZ,Stereotactic Other Photon Radiosurgery of Cervix
+DRG40801,DU21HZZ,Stereotactic Particulate Radiosurgery of Cervix
+DRG40801,DU21JZZ,Stereotactic Gamma Beam Radiosurgery of Cervix
+DRG40801,DU22DZZ,Stereotactic Other Photon Radiosurgery of Uterus
+DRG40801,DU22HZZ,Stereotactic Particulate Radiosurgery of Uterus
+DRG40801,DU22JZZ,Stereotactic Gamma Beam Radiosurgery of Uterus
+DRG40801,DV20DZZ,Stereotactic Other Photon Radiosurgery of Prostate
+DRG40801,DV20HZZ,Stereotactic Particulate Radiosurgery of Prostate
+DRG40801,DV20JZZ,Stereotactic Gamma Beam Radiosurgery of Prostate
+DRG40801,DV21DZZ,Stereotactic Other Photon Radiosurgery of Testis
+DRG40801,DV21HZZ,Stereotactic Particulate Radiosurgery of Testis
+DRG40801,DV21JZZ,Stereotactic Gamma Beam Radiosurgery of Testis
+DRG40801,DW21DZZ,Stereotactic Other Photon Radiosurgery of Head and Neck
+DRG40801,DW21HZZ,Stereotactic Particulate Radiosurgery of Head and Neck
+DRG40801,DW21JZZ,Stereotactic Gamma Beam Radiosurgery of Head and Neck
+DRG40801,DW22DZZ,Stereotactic Other Photon Radiosurgery of Chest
+DRG40801,DW22HZZ,Stereotactic Particulate Radiosurgery of Chest
+DRG40801,DW22JZZ,Stereotactic Gamma Beam Radiosurgery of Chest
+DRG40801,DW23DZZ,Stereotactic Other Photon Radiosurgery of Abdomen
+DRG40801,DW23HZZ,Stereotactic Particulate Radiosurgery of Abdomen
+DRG40801,DW23JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen
+DRG40801,DW26DZZ,Stereotactic Other Photon Radiosurgery of Pelvic Region
+DRG40801,DW26HZZ,Stereotactic Particulate Radiosurgery of Pelvic Region
+DRG40801,DW26JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvic Region
+DRG40801,S40019A,"Contusion of unspecified shoulder, initial encounter"
+DRG40801,S6000XA,"Contusion of unspecified finger without damage to nail, initial encounter"
+DRG40801,S60011A,"Contusion of right thumb without damage to nail, initial encounter"
+DRG40801,S60012A,"Contusion of left thumb without damage to nail, initial encounter"
+DRG40801,S60019A,"Contusion of unspecified thumb without damage to nail, initial encounter"
+DRG40801,S60021A,"Contusion of right index finger without damage to nail, initial encounter"
+DRG40801,S60022A,"Contusion of left index finger without damage to nail, initial encounter"
+DRG40801,S60029A,"Contusion of unspecified index finger without damage to nail, initial encounter"
+DRG40801,S60031A,"Contusion of right middle finger without damage to nail, initial encounter"
+DRG40801,S60032A,"Contusion of left middle finger without damage to nail, initial encounter"
+DRG40801,S60039A,"Contusion of unspecified middle finger without damage to nail, initial encounter"
+DRG40801,S60041A,"Contusion of right ring finger without damage to nail, initial encounter"
+DRG40801,S60042A,"Contusion of left ring finger without damage to nail, initial encounter"
+DRG40801,S60049A,"Contusion of unspecified ring finger without damage to nail, initial encounter"
+DRG40801,S60051A,"Contusion of right little finger without damage to nail, initial encounter"
+DRG40801,S60052A,"Contusion of left little finger without damage to nail, initial encounter"
+DRG40801,S60059A,"Contusion of unspecified little finger without damage to nail, initial encounter"
+DRG40801,S6010XA,"Contusion of unspecified finger with damage to nail, initial encounter"
+DRG40801,S60111A,"Contusion of right thumb with damage to nail, initial encounter"
+DRG40801,S60112A,"Contusion of left thumb with damage to nail, initial encounter"
+DRG40801,S60119A,"Contusion of unspecified thumb with damage to nail, initial encounter"
+DRG40801,S60121A,"Contusion of right index finger with damage to nail, initial encounter"
+DRG40801,S60122A,"Contusion of left index finger with damage to nail, initial encounter"
+DRG40801,S60129A,"Contusion of unspecified index finger with damage to nail, initial encounter"
+DRG40801,S60131A,"Contusion of right middle finger with damage to nail, initial encounter"
+DRG40801,S60132A,"Contusion of left middle finger with damage to nail, initial encounter"
+DRG40801,S60139A,"Contusion of unspecified middle finger with damage to nail, initial encounter"
+DRG40801,S60141A,"Contusion of right ring finger with damage to nail, initial encounter"
+DRG40801,S60142A,"Contusion of left ring finger with damage to nail, initial encounter"
+DRG40801,S60149A,"Contusion of unspecified ring finger with damage to nail, initial encounter"
+DRG40801,S60151A,"Contusion of right little finger with damage to nail, initial encounter"
+DRG40801,S60152A,"Contusion of left little finger with damage to nail, initial encounter"
+DRG40801,S60159A,"Contusion of unspecified little finger with damage to nail, initial encounter"

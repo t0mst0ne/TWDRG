@@ -1,73 +1,73 @@
-,DRG,CM-PCS,en
-33183,DRG11604,I0981,Rheumatic heart failure
-33184,DRG11604,I110,Hypertensive heart disease with heart failure
-33185,DRG11604,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
-33186,DRG11604,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
-33187,DRG11604,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
-33188,DRG11604,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
-33189,DRG11604,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
-33190,DRG11604,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
-33191,DRG11604,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
-33192,DRG11604,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
-33193,DRG11604,I2129,ST elevation (STEMI) myocardial infarction involving other sites
-33194,DRG11604,I213,ST elevation (STEMI) myocardial infarction of unspecified site
-33195,DRG11604,I214,Non-ST elevation (NSTEMI) myocardial infarction
-33196,DRG11604,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
-33197,DRG11604,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
-33198,DRG11604,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
-33199,DRG11604,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
-33200,DRG11604,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
-33201,DRG11604,I501,Left ventricular failure
-33202,DRG11604,I5020,Unspecified systolic (congestive) heart failure
-33203,DRG11604,I5021,Acute systolic (congestive) heart failure
-33204,DRG11604,I5022,Chronic systolic (congestive) heart failure
-33205,DRG11604,I5023,Acute on chronic systolic (congestive) heart failure
-33206,DRG11604,I5030,Unspecified diastolic (congestive) heart failure
-33207,DRG11604,I5031,Acute diastolic (congestive) heart failure
-33208,DRG11604,I5032,Chronic diastolic (congestive) heart failure
-33209,DRG11604,I5033,Acute on chronic diastolic (congestive) heart failure
-33210,DRG11604,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
-33211,DRG11604,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
-33212,DRG11604,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
-33213,DRG11604,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
-33214,DRG11604,I509,"Heart failure, unspecified"
-33215,DRG11604,R570,Cardiogenic shock
-33216,DRG11604,R579,"Shock, unspecified"
-33219,DRG11604,02H60JZ,"Insertion of Pacemaker Lead into Right Atrium, Open Approach"
-33220,DRG11604,02H60MZ,"Insertion of Cardiac Lead into Right Atrium, Open Approach"
-33221,DRG11604,02H63JZ,"Insertion of Pacemaker Lead into Right Atrium, Percutaneous Approach"
-33222,DRG11604,02H63MZ,"Insertion of Cardiac Lead into Right Atrium, Percutaneous Approach"
-33223,DRG11604,02H64JZ,"Insertion of Pacemaker Lead into Right Atrium, Percutaneous Endoscopic Approach"
-33224,DRG11604,02H64MZ,"Insertion of Cardiac Lead into Right Atrium, Percutaneous Endoscopic Approach"
-33225,DRG11604,02H70JZ,"Insertion of Pacemaker Lead into Left Atrium, Open Approach"
-33226,DRG11604,02H70MZ,"Insertion of Cardiac Lead into Left Atrium, Open Approach"
-33227,DRG11604,02H73JZ,"Insertion of Pacemaker Lead into Left Atrium, Percutaneous Approach"
-33228,DRG11604,02H73MZ,"Insertion of Cardiac Lead into Left Atrium, Percutaneous Approach"
-33229,DRG11604,02H74JZ,"Insertion of Pacemaker Lead into Left Atrium, Percutaneous Endoscopic Approach"
-33230,DRG11604,02H74MZ,"Insertion of Cardiac Lead into Left Atrium, Percutaneous Endoscopic Approach"
-33231,DRG11604,02HK0JZ,"Insertion of Pacemaker Lead into Right Ventricle, Open Approach"
-33232,DRG11604,02HK0MZ,"Insertion of Cardiac Lead into Right Ventricle, Open Approach"
-33233,DRG11604,02HK3JZ,"Insertion of Pacemaker Lead into Right Ventricle, Percutaneous Approach"
-33234,DRG11604,02HK3MZ,"Insertion of Cardiac Lead into Right Ventricle, Percutaneous Approach"
-33235,DRG11604,02HK4JZ,"Insertion of Pacemaker Lead into Right Ventricle, Percutaneous Endoscopic Approach"
-33236,DRG11604,02HK4MZ,"Insertion of Cardiac Lead into Right Ventricle, Percutaneous Endoscopic Approach"
-33237,DRG11604,02HL3JZ,"Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Approach"
-33238,DRG11604,02HL3MZ,"Insertion of Cardiac Lead into Left Ventricle, Percutaneous Approach"
-33239,DRG11604,02HL4JZ,"Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Endoscopic Approach"
-33240,DRG11604,02HL0MZ,"Insertion of Cardiac Lead into Left Ventricle, Open Approach"
-33241,DRG11604,02HL0JZ,"Insertion of Pacemaker Lead into Left Ventricle, Open Approach"
-33242,DRG11604,02HL4MZ,"Insertion of Cardiac Lead into Left Ventricle, Percutaneous Endoscopic Approach"
-33243,DRG11604,02HN0JZ,"Insertion of Pacemaker Lead into Pericardium, Open Approach"
-33244,DRG11604,02HN0MZ,"Insertion of Cardiac Lead into Pericardium, Open Approach"
-33245,DRG11604,02HN3JZ,"Insertion of Pacemaker Lead into Pericardium, Percutaneous Approach"
-33246,DRG11604,02HN3MZ,"Insertion of Cardiac Lead into Pericardium, Percutaneous Approach"
-33247,DRG11604,02HN4JZ,"Insertion of Pacemaker Lead into Pericardium, Percutaneous Endoscopic Approach"
-33248,DRG11604,02HN4MZ,"Insertion of Cardiac Lead into Pericardium, Percutaneous Endoscopic Approach"
-33251,DRG11604,0JH604Z,"Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach"
-33252,DRG11604,0JH605Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Chest Subcutaneous Tissue and Fascia, Open Approach"
-33253,DRG11604,0JH634Z,"Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
-33254,DRG11604,0JH635Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
-33255,DRG11604,0JH804Z,"Insertion of Pacemaker, Single Chamber into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
-33256,DRG11604,0JH805Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
-33257,DRG11604,0JH834Z,"Insertion of Pacemaker, Single Chamber into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
-33258,DRG11604,0JH835Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG,CM-PCS,en
+DRG11604,I0981,Rheumatic heart failure
+DRG11604,I110,Hypertensive heart disease with heart failure
+DRG11604,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+DRG11604,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+DRG11604,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
+DRG11604,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+DRG11604,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+DRG11604,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
+DRG11604,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+DRG11604,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+DRG11604,I2129,ST elevation (STEMI) myocardial infarction involving other sites
+DRG11604,I213,ST elevation (STEMI) myocardial infarction of unspecified site
+DRG11604,I214,Non-ST elevation (NSTEMI) myocardial infarction
+DRG11604,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+DRG11604,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+DRG11604,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+DRG11604,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+DRG11604,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+DRG11604,I501,Left ventricular failure
+DRG11604,I5020,Unspecified systolic (congestive) heart failure
+DRG11604,I5021,Acute systolic (congestive) heart failure
+DRG11604,I5022,Chronic systolic (congestive) heart failure
+DRG11604,I5023,Acute on chronic systolic (congestive) heart failure
+DRG11604,I5030,Unspecified diastolic (congestive) heart failure
+DRG11604,I5031,Acute diastolic (congestive) heart failure
+DRG11604,I5032,Chronic diastolic (congestive) heart failure
+DRG11604,I5033,Acute on chronic diastolic (congestive) heart failure
+DRG11604,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+DRG11604,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+DRG11604,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG11604,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG11604,I509,"Heart failure, unspecified"
+DRG11604,R570,Cardiogenic shock
+DRG11604,R579,"Shock, unspecified"
+DRG11604,02H60JZ,"Insertion of Pacemaker Lead into Right Atrium, Open Approach"
+DRG11604,02H60MZ,"Insertion of Cardiac Lead into Right Atrium, Open Approach"
+DRG11604,02H63JZ,"Insertion of Pacemaker Lead into Right Atrium, Percutaneous Approach"
+DRG11604,02H63MZ,"Insertion of Cardiac Lead into Right Atrium, Percutaneous Approach"
+DRG11604,02H64JZ,"Insertion of Pacemaker Lead into Right Atrium, Percutaneous Endoscopic Approach"
+DRG11604,02H64MZ,"Insertion of Cardiac Lead into Right Atrium, Percutaneous Endoscopic Approach"
+DRG11604,02H70JZ,"Insertion of Pacemaker Lead into Left Atrium, Open Approach"
+DRG11604,02H70MZ,"Insertion of Cardiac Lead into Left Atrium, Open Approach"
+DRG11604,02H73JZ,"Insertion of Pacemaker Lead into Left Atrium, Percutaneous Approach"
+DRG11604,02H73MZ,"Insertion of Cardiac Lead into Left Atrium, Percutaneous Approach"
+DRG11604,02H74JZ,"Insertion of Pacemaker Lead into Left Atrium, Percutaneous Endoscopic Approach"
+DRG11604,02H74MZ,"Insertion of Cardiac Lead into Left Atrium, Percutaneous Endoscopic Approach"
+DRG11604,02HK0JZ,"Insertion of Pacemaker Lead into Right Ventricle, Open Approach"
+DRG11604,02HK0MZ,"Insertion of Cardiac Lead into Right Ventricle, Open Approach"
+DRG11604,02HK3JZ,"Insertion of Pacemaker Lead into Right Ventricle, Percutaneous Approach"
+DRG11604,02HK3MZ,"Insertion of Cardiac Lead into Right Ventricle, Percutaneous Approach"
+DRG11604,02HK4JZ,"Insertion of Pacemaker Lead into Right Ventricle, Percutaneous Endoscopic Approach"
+DRG11604,02HK4MZ,"Insertion of Cardiac Lead into Right Ventricle, Percutaneous Endoscopic Approach"
+DRG11604,02HL3JZ,"Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Approach"
+DRG11604,02HL3MZ,"Insertion of Cardiac Lead into Left Ventricle, Percutaneous Approach"
+DRG11604,02HL4JZ,"Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Endoscopic Approach"
+DRG11604,02HL0MZ,"Insertion of Cardiac Lead into Left Ventricle, Open Approach"
+DRG11604,02HL0JZ,"Insertion of Pacemaker Lead into Left Ventricle, Open Approach"
+DRG11604,02HL4MZ,"Insertion of Cardiac Lead into Left Ventricle, Percutaneous Endoscopic Approach"
+DRG11604,02HN0JZ,"Insertion of Pacemaker Lead into Pericardium, Open Approach"
+DRG11604,02HN0MZ,"Insertion of Cardiac Lead into Pericardium, Open Approach"
+DRG11604,02HN3JZ,"Insertion of Pacemaker Lead into Pericardium, Percutaneous Approach"
+DRG11604,02HN3MZ,"Insertion of Cardiac Lead into Pericardium, Percutaneous Approach"
+DRG11604,02HN4JZ,"Insertion of Pacemaker Lead into Pericardium, Percutaneous Endoscopic Approach"
+DRG11604,02HN4MZ,"Insertion of Cardiac Lead into Pericardium, Percutaneous Endoscopic Approach"
+DRG11604,0JH604Z,"Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG11604,0JH605Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG11604,0JH634Z,"Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG11604,0JH635Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG11604,0JH804Z,"Insertion of Pacemaker, Single Chamber into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG11604,0JH805Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG11604,0JH834Z,"Insertion of Pacemaker, Single Chamber into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG11604,0JH835Z,"Insertion of Pacemaker, Single Chamber Rate Responsive into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"

@@ -1,321 +1,321 @@
-,DRG,CM-PCS,en
-947,DRG42308,A0100,"Typhoid fever, unspecified"
-948,DRG42308,A0101,Typhoid meningitis
-949,DRG42308,A0102,Typhoid fever with heart involvement
-950,DRG42308,A0103,Typhoid pneumonia
-951,DRG42308,A0104,Typhoid arthritis
-952,DRG42308,A0105,Typhoid osteomyelitis
-953,DRG42308,A0109,Typhoid fever with other complications
-954,DRG42308,A011,Paratyphoid fever A
-955,DRG42308,A012,Paratyphoid fever B
-956,DRG42308,A013,Paratyphoid fever C
-957,DRG42308,A014,"Paratyphoid fever, unspecified"
-958,DRG42308,A051,Botulism food poisoning
-959,DRG42308,A063,Ameboma of intestine
-960,DRG42308,A0681,Amebic cystitis
-961,DRG42308,A0682,Other amebic genitourinary infections
-962,DRG42308,A0689,Other amebic infections
-963,DRG42308,A069,"Amebiasis, unspecified"
-964,DRG42308,A200,Bubonic plague
-965,DRG42308,A201,Cellulocutaneous plague
-966,DRG42308,A203,Plague meningitis
-967,DRG42308,A208,Other forms of plague
-968,DRG42308,A209,"Plague, unspecified"
-969,DRG42308,A210,Ulceroglandular tularemia
-970,DRG42308,A211,Oculoglandular tularemia
-971,DRG42308,A217,Generalized tularemia
-972,DRG42308,A218,Other forms of tularemia
-973,DRG42308,A219,"Tularemia, unspecified"
-974,DRG42308,A228,Other forms of anthrax
-975,DRG42308,A229,"Anthrax, unspecified"
-976,DRG42308,A230,Brucellosis due to Brucella melitensis
-977,DRG42308,A231,Brucellosis due to Brucella abortus
-978,DRG42308,A232,Brucellosis due to Brucella suis
-979,DRG42308,A233,Brucellosis due to Brucella canis
-980,DRG42308,A238,Other brucellosis
-981,DRG42308,A239,"Brucellosis, unspecified"
-982,DRG42308,A240,Glanders
-983,DRG42308,A241,Acute and fulminating melioidosis
-984,DRG42308,A242,Subacute and chronic melioidosis
-985,DRG42308,A243,Other melioidosis
-986,DRG42308,A249,"Melioidosis, unspecified"
-987,DRG42308,A250,Spirillosis
-988,DRG42308,A251,Streptobacillosis
-989,DRG42308,A259,"Rat-bite fever, unspecified"
-990,DRG42308,A260,Cutaneous erysipeloid
-991,DRG42308,A267,Erysipelothrix sepsis
-992,DRG42308,A268,Other forms of erysipeloid
-993,DRG42308,A269,"Erysipeloid, unspecified"
-994,DRG42308,A270,Leptospirosis icterohemorrhagica
-995,DRG42308,A279,"Leptospirosis, unspecified"
-996,DRG42308,A300,Indeterminate leprosy
-997,DRG42308,A301,Tuberculoid leprosy
-998,DRG42308,A302,Borderline tuberculoid leprosy
-999,DRG42308,A303,Borderline leprosy
-1000,DRG42308,A304,Borderline lepromatous leprosy
-1001,DRG42308,A305,Lepromatous leprosy
-1002,DRG42308,A308,Other forms of leprosy
-1003,DRG42308,A309,"Leprosy, unspecified"
-1004,DRG42308,A320,Cutaneous listeriosis
-1005,DRG42308,A3211,Listerial meningitis
-1006,DRG42308,A3212,Listerial meningoencephalitis
-1007,DRG42308,A327,Listerial sepsis
-1008,DRG42308,A3281,Oculoglandular listeriosis
-1009,DRG42308,A3282,Listerial endocarditis
-1010,DRG42308,A3289,Other forms of listeriosis
-1011,DRG42308,A329,"Listeriosis, unspecified"
-1012,DRG42308,A35,Other tetanus
-1013,DRG42308,A3682,Diphtheritic radiculomyelitis
-1014,DRG42308,A3683,Diphtheritic polyneuritis
-1015,DRG42308,A3684,Diphtheritic tubulo-interstitial nephropathy
-1016,DRG42308,A3689,Other diphtheritic complications
-1017,DRG42308,A369,"Diphtheria, unspecified"
-1018,DRG42308,A4281,Actinomycotic meningitis
-1019,DRG42308,A4282,Actinomycotic encephalitis
-1020,DRG42308,A4289,Other forms of actinomycosis
-1021,DRG42308,A429,"Actinomycosis, unspecified"
-1022,DRG42308,A438,Other forms of nocardiosis
-1023,DRG42308,A439,"Nocardiosis, unspecified"
-1024,DRG42308,A440,Systemic bartonellosis
-1025,DRG42308,A441,Cutaneous and mucocutaneous bartonellosis
-1026,DRG42308,A448,Other forms of bartonellosis
-1027,DRG42308,A449,"Bartonellosis, unspecified"
-1028,DRG42308,A5001,Early congenital syphilitic oculopathy
-1029,DRG42308,A5002,Early congenital syphilitic osteochondropathy
-1030,DRG42308,A5003,Early congenital syphilitic pharyngitis
-1031,DRG42308,A5004,Early congenital syphilitic pneumonia
-1032,DRG42308,A5005,Early congenital syphilitic rhinitis
-1033,DRG42308,A5006,Early cutaneous congenital syphilis
-1034,DRG42308,A5007,Early mucocutaneous congenital syphilis
-1035,DRG42308,A5008,Early visceral congenital syphilis
-1036,DRG42308,A5009,"Other early congenital syphilis, symptomatic"
-1037,DRG42308,A501,"Early congenital syphilis, latent"
-1038,DRG42308,A502,"Early congenital syphilis, unspecified"
-1039,DRG42308,A5030,"Late congenital syphilitic oculopathy, unspecified"
-1040,DRG42308,A5032,Late congenital syphilitic chorioretinitis
-1041,DRG42308,A5039,Other late congenital syphilitic oculopathy
-1042,DRG42308,A5044,Late congenital syphilitic optic nerve atrophy
-1043,DRG42308,A5051,Clutton's joints
-1044,DRG42308,A5052,Hutchinson's teeth
-1045,DRG42308,A5053,Hutchinson's triad
-1046,DRG42308,A5054,Late congenital cardiovascular syphilis
-1047,DRG42308,A5055,Late congenital syphilitic arthropathy
-1048,DRG42308,A5056,Late congenital syphilitic osteochondropathy
-1049,DRG42308,A5057,Syphilitic saddle nose
-1050,DRG42308,A5059,"Other late congenital syphilis, symptomatic"
-1051,DRG42308,A506,"Late congenital syphilis, latent"
-1052,DRG42308,A507,"Late congenital syphilis, unspecified"
-1053,DRG42308,A509,"Congenital syphilis, unspecified"
-1054,DRG42308,A512,Primary syphilis of other sites
-1055,DRG42308,A5142,Secondary syphilitic female pelvic disease
-1056,DRG42308,A5144,Secondary syphilitic nephritis
-1057,DRG42308,A5149,Other secondary syphilitic conditions
-1058,DRG42308,A515,"Early syphilis, latent"
-1059,DRG42308,A519,"Early syphilis, unspecified"
-1060,DRG42308,A5273,Symptomatic late syphilis of other respiratory organs
-1061,DRG42308,A5276,Other genitourinary symptomatic late syphilis
-1062,DRG42308,A5279,Other symptomatic late syphilis
-1063,DRG42308,A528,"Late syphilis, latent"
-1064,DRG42308,A529,"Late syphilis, unspecified"
-1065,DRG42308,A530,"Latent syphilis, unspecified as early or late"
-1066,DRG42308,A539,"Syphilis, unspecified"
-1067,DRG42308,A5482,Gonococcal brain abscess
-1068,DRG42308,A5484,Gonococcal pneumonia
-1069,DRG42308,A5486,Gonococcal sepsis
-1070,DRG42308,A5489,Other gonococcal infections
-1071,DRG42308,A549,"Gonococcal infection, unspecified"
-1072,DRG42308,A598,Trichomoniasis of other sites
-1073,DRG42308,A599,"Trichomoniasis, unspecified"
-1074,DRG42308,A65,Nonvenereal syphilis
-1075,DRG42308,A667,Other manifestations of yaws
-1076,DRG42308,A668,Latent yaws
-1077,DRG42308,A669,"Yaws, unspecified"
-1078,DRG42308,A672,Late lesions of pinta
-1079,DRG42308,A679,"Pinta, unspecified"
-1080,DRG42308,A680,Louse-borne relapsing fever
-1081,DRG42308,A681,Tick-borne relapsing fever
-1082,DRG42308,A689,"Relapsing fever, unspecified"
-1083,DRG42308,A6920,"Lyme disease, unspecified"
-1084,DRG42308,A6921,Meningitis due to Lyme disease
-1085,DRG42308,A6922,Other neurologic disorders in Lyme disease
-1086,DRG42308,A6923,Arthritis due to Lyme disease
-1087,DRG42308,A6929,Other conditions associated with Lyme disease
-1088,DRG42308,A698,Other specified spirochetal infections
-1089,DRG42308,A699,"Spirochetal infection, unspecified"
-1090,DRG42308,A7481,Chlamydial peritonitis
-1091,DRG42308,A7489,Other chlamydial diseases
-1092,DRG42308,A749,"Chlamydial infection, unspecified"
-1093,DRG42308,A750,Epidemic louse-borne typhus fever due to Rickettsia prowazekii
-1094,DRG42308,A751,Recrudescent typhus [Brill's disease]
-1095,DRG42308,A752,Typhus fever due to Rickettsia typhi
-1096,DRG42308,A753,Typhus fever due to Rickettsia tsutsugamushi
-1097,DRG42308,A759,"Typhus fever, unspecified"
-1098,DRG42308,A770,Spotted fever due to Rickettsia rickettsii
-1099,DRG42308,A771,Spotted fever due to Rickettsia conorii
-1100,DRG42308,A772,Spotted fever due to Rickettsia siberica
-1101,DRG42308,A773,Spotted fever due to Rickettsia australis
-1102,DRG42308,A7740,"Ehrlichiosis, unspecified"
-1103,DRG42308,A7741,Ehrlichiosis chafeensis [E. chafeensis]
-1104,DRG42308,A7749,Other ehrlichiosis
-1105,DRG42308,A778,Other spotted fevers
-1106,DRG42308,A779,"Spotted fever, unspecified"
-1107,DRG42308,A78,Q fever
-1108,DRG42308,A790,Trench fever
-1109,DRG42308,A791,Rickettsialpox due to Rickettsia akari
-1110,DRG42308,A7981,Rickettsiosis due to Ehrlichia sennetsu
-1111,DRG42308,A7989,Other specified rickettsioses
-1112,DRG42308,A799,"Rickettsiosis, unspecified"
-1113,DRG42308,A932,Colorado tick fever
-1114,DRG42308,A988,Other specified viral hemorrhagic fevers
-1115,DRG42308,B377,Candidal sepsis
-1116,DRG42308,B3789,Other sites of candidiasis
-1117,DRG42308,B379,"Candidiasis, unspecified"
-1118,DRG42308,B387,Disseminated coccidioidomycosis
-1119,DRG42308,B3889,Other forms of coccidioidomycosis
-1120,DRG42308,B389,"Coccidioidomycosis, unspecified"
-1121,DRG42308,B393,Disseminated histoplasmosis capsulati
-1122,DRG42308,B394,"Histoplasmosis capsulati, unspecified"
-1123,DRG42308,B395,Histoplasmosis duboisii
-1124,DRG42308,B399,"Histoplasmosis, unspecified"
-1125,DRG42308,B400,Acute pulmonary blastomycosis
-1126,DRG42308,B401,Chronic pulmonary blastomycosis
-1127,DRG42308,B402,"Pulmonary blastomycosis, unspecified"
-1128,DRG42308,B403,Cutaneous blastomycosis
-1129,DRG42308,B407,Disseminated blastomycosis
-1130,DRG42308,B4081,Blastomycotic meningoencephalitis
-1131,DRG42308,B4089,Other forms of blastomycosis
-1132,DRG42308,B409,"Blastomycosis, unspecified"
-1133,DRG42308,B410,Pulmonary paracoccidioidomycosis
-1134,DRG42308,B417,Disseminated paracoccidioidomycosis
-1135,DRG42308,B418,Other forms of paracoccidioidomycosis
-1136,DRG42308,B419,"Paracoccidioidomycosis, unspecified"
-1137,DRG42308,B420,Pulmonary sporotrichosis
-1138,DRG42308,B421,Lymphocutaneous sporotrichosis
-1139,DRG42308,B427,Disseminated sporotrichosis
-1140,DRG42308,B4281,Cerebral sporotrichosis
-1141,DRG42308,B4282,Sporotrichosis arthritis
-1142,DRG42308,B4289,Other forms of sporotrichosis
-1143,DRG42308,B429,"Sporotrichosis, unspecified"
-1144,DRG42308,B430,Cutaneous chromomycosis
-1145,DRG42308,B431,Pheomycotic brain abscess
-1146,DRG42308,B432,Subcutaneous pheomycotic abscess and cyst
-1147,DRG42308,B438,Other forms of chromomycosis
-1148,DRG42308,B439,"Chromomycosis, unspecified"
-1149,DRG42308,B441,Other pulmonary aspergillosis
-1150,DRG42308,B442,Tonsillar aspergillosis
-1151,DRG42308,B447,Disseminated aspergillosis
-1152,DRG42308,B4489,Other forms of aspergillosis
-1153,DRG42308,B449,"Aspergillosis, unspecified"
-1154,DRG42308,B450,Pulmonary cryptococcosis
-1155,DRG42308,B451,Cerebral cryptococcosis
-1156,DRG42308,B452,Cutaneous cryptococcosis
-1157,DRG42308,B453,Osseous cryptococcosis
-1158,DRG42308,B457,Disseminated cryptococcosis
-1159,DRG42308,B458,Other forms of cryptococcosis
-1160,DRG42308,B459,"Cryptococcosis, unspecified"
-1161,DRG42308,B460,Pulmonary mucormycosis
-1162,DRG42308,B461,Rhinocerebral mucormycosis
-1163,DRG42308,B462,Gastrointestinal mucormycosis
-1164,DRG42308,B463,Cutaneous mucormycosis
-1165,DRG42308,B464,Disseminated mucormycosis
-1166,DRG42308,B465,"Mucormycosis, unspecified"
-1167,DRG42308,B468,Other zygomycoses
-1168,DRG42308,B469,"Zygomycosis, unspecified"
-1169,DRG42308,B470,Eumycetoma
-1170,DRG42308,B471,Actinomycetoma
-1171,DRG42308,B480,Lobomycosis
-1172,DRG42308,B481,Rhinosporidiosis
-1173,DRG42308,B482,Allescheriasis
-1174,DRG42308,B483,Geotrichosis
-1175,DRG42308,B484,Penicillosis
-1176,DRG42308,B488,Other specified mycoses
-1177,DRG42308,B49,Unspecified mycosis
-1178,DRG42308,B500,Plasmodium falciparum malaria with cerebral complications
-1179,DRG42308,B508,Other severe and complicated Plasmodium falciparum malaria
-1180,DRG42308,B509,"Plasmodium falciparum malaria, unspecified"
-1181,DRG42308,B510,Plasmodium vivax malaria with rupture of spleen
-1182,DRG42308,B518,Plasmodium vivax malaria with other complications
-1183,DRG42308,B519,Plasmodium vivax malaria without complication
-1184,DRG42308,B520,Plasmodium malariae malaria with nephropathy
-1185,DRG42308,B528,Plasmodium malariae malaria with other complications
-1186,DRG42308,B529,Plasmodium malariae malaria without complication
-1187,DRG42308,B530,Plasmodium ovale malaria
-1188,DRG42308,B531,Malaria due to simian plasmodia
-1189,DRG42308,B538,"Other malaria, not elsewhere classified"
-1190,DRG42308,B54,Unspecified malaria
-1191,DRG42308,B550,Visceral leishmaniasis
-1192,DRG42308,B559,"Leishmaniasis, unspecified"
-1193,DRG42308,B560,Gambiense trypanosomiasis
-1194,DRG42308,B561,Rhodesiense trypanosomiasis
-1195,DRG42308,B569,"African trypanosomiasis, unspecified"
-1196,DRG42308,B571,Acute Chagas' disease without heart involvement
-1197,DRG42308,B5730,"Chagas' disease with digestive system involvement, unspecified"
-1198,DRG42308,B5731,Megaesophagus in Chagas' disease
-1199,DRG42308,B5732,Megacolon in Chagas' disease
-1200,DRG42308,B5739,Other digestive system involvement in Chagas' disease
-1201,DRG42308,B5740,"Chagas' disease with nervous system involvement, unspecified"
-1202,DRG42308,B5741,Meningitis in Chagas' disease
-1203,DRG42308,B5742,Meningoencephalitis in Chagas' disease
-1204,DRG42308,B5749,Other nervous system involvement in Chagas' disease
-1205,DRG42308,B575,Chagas' disease (chronic) with other organ involvement
-1206,DRG42308,B5800,"Toxoplasma oculopathy, unspecified"
-1207,DRG42308,B5882,Toxoplasma myositis
-1208,DRG42308,B5883,Toxoplasma tubulo-interstitial nephropathy
-1209,DRG42308,B5889,Toxoplasmosis with other organ involvement
-1210,DRG42308,B589,"Toxoplasmosis, unspecified"
-1211,DRG42308,B600,Babesiosis
-1212,DRG42308,B6010,"Acanthamebiasis, unspecified"
-1213,DRG42308,B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni)
-1214,DRG42308,B6019,Other acanthamebic disease
-1215,DRG42308,B602,Naegleriasis
-1216,DRG42308,B608,Other specified protozoal diseases
-1217,DRG42308,B64,Unspecified protozoal disease
-1218,DRG42308,B652,Schistosomiasis due to Schistosoma japonicum
-1219,DRG42308,B658,Other schistosomiasis
-1220,DRG42308,B659,"Schistosomiasis, unspecified"
-1221,DRG42308,B662,Dicroceliasis
-1222,DRG42308,B668,Other specified fluke infections
-1223,DRG42308,B669,"Fluke infection, unspecified"
-1224,DRG42308,B672,Echinococcus granulosus infection of bone
-1225,DRG42308,B6732,"Echinococcus granulosus infection, multiple sites"
-1226,DRG42308,B6739,"Echinococcus granulosus infection, other sites"
-1227,DRG42308,B674,"Echinococcus granulosus infection, unspecified"
-1228,DRG42308,B6761,"Echinococcus multilocularis infection, multiple sites"
-1229,DRG42308,B6769,"Echinococcus multilocularis infection, other sites"
-1230,DRG42308,B677,"Echinococcus multilocularis infection, unspecified"
-1231,DRG42308,B6790,"Echinococcosis, unspecified"
-1232,DRG42308,B6799,Other echinococcosis
-1233,DRG42308,B72,Dracunculiasis
-1234,DRG42308,B7300,"Onchocerciasis with eye involvement, unspecified"
-1235,DRG42308,B7301,Onchocerciasis with endophthalmitis
-1236,DRG42308,B7302,Onchocerciasis with glaucoma
-1237,DRG42308,B7309,Onchocerciasis with other eye involvement
-1238,DRG42308,B731,Onchocerciasis without eye disease
-1239,DRG42308,B740,Filariasis due to Wuchereria bancrofti
-1240,DRG42308,B741,Filariasis due to Brugia malayi
-1241,DRG42308,B742,Filariasis due to Brugia timori
-1242,DRG42308,B743,Loiasis
-1243,DRG42308,B744,Mansonelliasis
-1244,DRG42308,B748,Other filariases
-1245,DRG42308,B749,"Filariasis, unspecified"
-1246,DRG42308,B75,Trichinellosis
-1247,DRG42308,B814,Mixed intestinal helminthiases
-1248,DRG42308,B830,Visceral larva migrans
-1249,DRG42308,B831,Gnathostomiasis
-1250,DRG42308,B832,Angiostrongyliasis due to Parastrongylus cantonensis
-1251,DRG42308,B833,Syngamiasis
-1252,DRG42308,B838,Other specified helminthiases
-1253,DRG42308,B839,"Helminthiasis, unspecified"
-1254,DRG42308,B89,Unspecified parasitic disease
-1255,DRG42308,B908,Sequelae of tuberculosis of other organs
-1256,DRG42308,B92,Sequelae of leprosy
-1257,DRG42308,B942,Sequelae of viral hepatitis
-1258,DRG42308,B948,Sequelae of other specified infectious and parasitic diseases
-1259,DRG42308,B949,Sequelae of unspecified infectious and parasitic disease
-1260,DRG42308,B998,Other infectious disease
-1261,DRG42308,B999,Unspecified infectious disease
-1262,DRG42308,L946,Ainhum
-1263,DRG42308,N980,Infection associated with artificial insemination
-1264,DRG42308,R899,"Unspecified abnormal finding in specimens from other organs, systems and tissues"
-1265,DRG42308,T8029XA,"Infection following other infusion, transfusion and therapeutic injection, initial encounter"
-1266,DRG42308,T880XXA,"Infection following immunization, initial encounter"
+DRG,CM-PCS,en
+DRG42308,A0100,"Typhoid fever, unspecified"
+DRG42308,A0101,Typhoid meningitis
+DRG42308,A0102,Typhoid fever with heart involvement
+DRG42308,A0103,Typhoid pneumonia
+DRG42308,A0104,Typhoid arthritis
+DRG42308,A0105,Typhoid osteomyelitis
+DRG42308,A0109,Typhoid fever with other complications
+DRG42308,A011,Paratyphoid fever A
+DRG42308,A012,Paratyphoid fever B
+DRG42308,A013,Paratyphoid fever C
+DRG42308,A014,"Paratyphoid fever, unspecified"
+DRG42308,A051,Botulism food poisoning
+DRG42308,A063,Ameboma of intestine
+DRG42308,A0681,Amebic cystitis
+DRG42308,A0682,Other amebic genitourinary infections
+DRG42308,A0689,Other amebic infections
+DRG42308,A069,"Amebiasis, unspecified"
+DRG42308,A200,Bubonic plague
+DRG42308,A201,Cellulocutaneous plague
+DRG42308,A203,Plague meningitis
+DRG42308,A208,Other forms of plague
+DRG42308,A209,"Plague, unspecified"
+DRG42308,A210,Ulceroglandular tularemia
+DRG42308,A211,Oculoglandular tularemia
+DRG42308,A217,Generalized tularemia
+DRG42308,A218,Other forms of tularemia
+DRG42308,A219,"Tularemia, unspecified"
+DRG42308,A228,Other forms of anthrax
+DRG42308,A229,"Anthrax, unspecified"
+DRG42308,A230,Brucellosis due to Brucella melitensis
+DRG42308,A231,Brucellosis due to Brucella abortus
+DRG42308,A232,Brucellosis due to Brucella suis
+DRG42308,A233,Brucellosis due to Brucella canis
+DRG42308,A238,Other brucellosis
+DRG42308,A239,"Brucellosis, unspecified"
+DRG42308,A240,Glanders
+DRG42308,A241,Acute and fulminating melioidosis
+DRG42308,A242,Subacute and chronic melioidosis
+DRG42308,A243,Other melioidosis
+DRG42308,A249,"Melioidosis, unspecified"
+DRG42308,A250,Spirillosis
+DRG42308,A251,Streptobacillosis
+DRG42308,A259,"Rat-bite fever, unspecified"
+DRG42308,A260,Cutaneous erysipeloid
+DRG42308,A267,Erysipelothrix sepsis
+DRG42308,A268,Other forms of erysipeloid
+DRG42308,A269,"Erysipeloid, unspecified"
+DRG42308,A270,Leptospirosis icterohemorrhagica
+DRG42308,A279,"Leptospirosis, unspecified"
+DRG42308,A300,Indeterminate leprosy
+DRG42308,A301,Tuberculoid leprosy
+DRG42308,A302,Borderline tuberculoid leprosy
+DRG42308,A303,Borderline leprosy
+DRG42308,A304,Borderline lepromatous leprosy
+DRG42308,A305,Lepromatous leprosy
+DRG42308,A308,Other forms of leprosy
+DRG42308,A309,"Leprosy, unspecified"
+DRG42308,A320,Cutaneous listeriosis
+DRG42308,A3211,Listerial meningitis
+DRG42308,A3212,Listerial meningoencephalitis
+DRG42308,A327,Listerial sepsis
+DRG42308,A3281,Oculoglandular listeriosis
+DRG42308,A3282,Listerial endocarditis
+DRG42308,A3289,Other forms of listeriosis
+DRG42308,A329,"Listeriosis, unspecified"
+DRG42308,A35,Other tetanus
+DRG42308,A3682,Diphtheritic radiculomyelitis
+DRG42308,A3683,Diphtheritic polyneuritis
+DRG42308,A3684,Diphtheritic tubulo-interstitial nephropathy
+DRG42308,A3689,Other diphtheritic complications
+DRG42308,A369,"Diphtheria, unspecified"
+DRG42308,A4281,Actinomycotic meningitis
+DRG42308,A4282,Actinomycotic encephalitis
+DRG42308,A4289,Other forms of actinomycosis
+DRG42308,A429,"Actinomycosis, unspecified"
+DRG42308,A438,Other forms of nocardiosis
+DRG42308,A439,"Nocardiosis, unspecified"
+DRG42308,A440,Systemic bartonellosis
+DRG42308,A441,Cutaneous and mucocutaneous bartonellosis
+DRG42308,A448,Other forms of bartonellosis
+DRG42308,A449,"Bartonellosis, unspecified"
+DRG42308,A5001,Early congenital syphilitic oculopathy
+DRG42308,A5002,Early congenital syphilitic osteochondropathy
+DRG42308,A5003,Early congenital syphilitic pharyngitis
+DRG42308,A5004,Early congenital syphilitic pneumonia
+DRG42308,A5005,Early congenital syphilitic rhinitis
+DRG42308,A5006,Early cutaneous congenital syphilis
+DRG42308,A5007,Early mucocutaneous congenital syphilis
+DRG42308,A5008,Early visceral congenital syphilis
+DRG42308,A5009,"Other early congenital syphilis, symptomatic"
+DRG42308,A501,"Early congenital syphilis, latent"
+DRG42308,A502,"Early congenital syphilis, unspecified"
+DRG42308,A5030,"Late congenital syphilitic oculopathy, unspecified"
+DRG42308,A5032,Late congenital syphilitic chorioretinitis
+DRG42308,A5039,Other late congenital syphilitic oculopathy
+DRG42308,A5044,Late congenital syphilitic optic nerve atrophy
+DRG42308,A5051,Clutton's joints
+DRG42308,A5052,Hutchinson's teeth
+DRG42308,A5053,Hutchinson's triad
+DRG42308,A5054,Late congenital cardiovascular syphilis
+DRG42308,A5055,Late congenital syphilitic arthropathy
+DRG42308,A5056,Late congenital syphilitic osteochondropathy
+DRG42308,A5057,Syphilitic saddle nose
+DRG42308,A5059,"Other late congenital syphilis, symptomatic"
+DRG42308,A506,"Late congenital syphilis, latent"
+DRG42308,A507,"Late congenital syphilis, unspecified"
+DRG42308,A509,"Congenital syphilis, unspecified"
+DRG42308,A512,Primary syphilis of other sites
+DRG42308,A5142,Secondary syphilitic female pelvic disease
+DRG42308,A5144,Secondary syphilitic nephritis
+DRG42308,A5149,Other secondary syphilitic conditions
+DRG42308,A515,"Early syphilis, latent"
+DRG42308,A519,"Early syphilis, unspecified"
+DRG42308,A5273,Symptomatic late syphilis of other respiratory organs
+DRG42308,A5276,Other genitourinary symptomatic late syphilis
+DRG42308,A5279,Other symptomatic late syphilis
+DRG42308,A528,"Late syphilis, latent"
+DRG42308,A529,"Late syphilis, unspecified"
+DRG42308,A530,"Latent syphilis, unspecified as early or late"
+DRG42308,A539,"Syphilis, unspecified"
+DRG42308,A5482,Gonococcal brain abscess
+DRG42308,A5484,Gonococcal pneumonia
+DRG42308,A5486,Gonococcal sepsis
+DRG42308,A5489,Other gonococcal infections
+DRG42308,A549,"Gonococcal infection, unspecified"
+DRG42308,A598,Trichomoniasis of other sites
+DRG42308,A599,"Trichomoniasis, unspecified"
+DRG42308,A65,Nonvenereal syphilis
+DRG42308,A667,Other manifestations of yaws
+DRG42308,A668,Latent yaws
+DRG42308,A669,"Yaws, unspecified"
+DRG42308,A672,Late lesions of pinta
+DRG42308,A679,"Pinta, unspecified"
+DRG42308,A680,Louse-borne relapsing fever
+DRG42308,A681,Tick-borne relapsing fever
+DRG42308,A689,"Relapsing fever, unspecified"
+DRG42308,A6920,"Lyme disease, unspecified"
+DRG42308,A6921,Meningitis due to Lyme disease
+DRG42308,A6922,Other neurologic disorders in Lyme disease
+DRG42308,A6923,Arthritis due to Lyme disease
+DRG42308,A6929,Other conditions associated with Lyme disease
+DRG42308,A698,Other specified spirochetal infections
+DRG42308,A699,"Spirochetal infection, unspecified"
+DRG42308,A7481,Chlamydial peritonitis
+DRG42308,A7489,Other chlamydial diseases
+DRG42308,A749,"Chlamydial infection, unspecified"
+DRG42308,A750,Epidemic louse-borne typhus fever due to Rickettsia prowazekii
+DRG42308,A751,Recrudescent typhus [Brill's disease]
+DRG42308,A752,Typhus fever due to Rickettsia typhi
+DRG42308,A753,Typhus fever due to Rickettsia tsutsugamushi
+DRG42308,A759,"Typhus fever, unspecified"
+DRG42308,A770,Spotted fever due to Rickettsia rickettsii
+DRG42308,A771,Spotted fever due to Rickettsia conorii
+DRG42308,A772,Spotted fever due to Rickettsia siberica
+DRG42308,A773,Spotted fever due to Rickettsia australis
+DRG42308,A7740,"Ehrlichiosis, unspecified"
+DRG42308,A7741,Ehrlichiosis chafeensis [E. chafeensis]
+DRG42308,A7749,Other ehrlichiosis
+DRG42308,A778,Other spotted fevers
+DRG42308,A779,"Spotted fever, unspecified"
+DRG42308,A78,Q fever
+DRG42308,A790,Trench fever
+DRG42308,A791,Rickettsialpox due to Rickettsia akari
+DRG42308,A7981,Rickettsiosis due to Ehrlichia sennetsu
+DRG42308,A7989,Other specified rickettsioses
+DRG42308,A799,"Rickettsiosis, unspecified"
+DRG42308,A932,Colorado tick fever
+DRG42308,A988,Other specified viral hemorrhagic fevers
+DRG42308,B377,Candidal sepsis
+DRG42308,B3789,Other sites of candidiasis
+DRG42308,B379,"Candidiasis, unspecified"
+DRG42308,B387,Disseminated coccidioidomycosis
+DRG42308,B3889,Other forms of coccidioidomycosis
+DRG42308,B389,"Coccidioidomycosis, unspecified"
+DRG42308,B393,Disseminated histoplasmosis capsulati
+DRG42308,B394,"Histoplasmosis capsulati, unspecified"
+DRG42308,B395,Histoplasmosis duboisii
+DRG42308,B399,"Histoplasmosis, unspecified"
+DRG42308,B400,Acute pulmonary blastomycosis
+DRG42308,B401,Chronic pulmonary blastomycosis
+DRG42308,B402,"Pulmonary blastomycosis, unspecified"
+DRG42308,B403,Cutaneous blastomycosis
+DRG42308,B407,Disseminated blastomycosis
+DRG42308,B4081,Blastomycotic meningoencephalitis
+DRG42308,B4089,Other forms of blastomycosis
+DRG42308,B409,"Blastomycosis, unspecified"
+DRG42308,B410,Pulmonary paracoccidioidomycosis
+DRG42308,B417,Disseminated paracoccidioidomycosis
+DRG42308,B418,Other forms of paracoccidioidomycosis
+DRG42308,B419,"Paracoccidioidomycosis, unspecified"
+DRG42308,B420,Pulmonary sporotrichosis
+DRG42308,B421,Lymphocutaneous sporotrichosis
+DRG42308,B427,Disseminated sporotrichosis
+DRG42308,B4281,Cerebral sporotrichosis
+DRG42308,B4282,Sporotrichosis arthritis
+DRG42308,B4289,Other forms of sporotrichosis
+DRG42308,B429,"Sporotrichosis, unspecified"
+DRG42308,B430,Cutaneous chromomycosis
+DRG42308,B431,Pheomycotic brain abscess
+DRG42308,B432,Subcutaneous pheomycotic abscess and cyst
+DRG42308,B438,Other forms of chromomycosis
+DRG42308,B439,"Chromomycosis, unspecified"
+DRG42308,B441,Other pulmonary aspergillosis
+DRG42308,B442,Tonsillar aspergillosis
+DRG42308,B447,Disseminated aspergillosis
+DRG42308,B4489,Other forms of aspergillosis
+DRG42308,B449,"Aspergillosis, unspecified"
+DRG42308,B450,Pulmonary cryptococcosis
+DRG42308,B451,Cerebral cryptococcosis
+DRG42308,B452,Cutaneous cryptococcosis
+DRG42308,B453,Osseous cryptococcosis
+DRG42308,B457,Disseminated cryptococcosis
+DRG42308,B458,Other forms of cryptococcosis
+DRG42308,B459,"Cryptococcosis, unspecified"
+DRG42308,B460,Pulmonary mucormycosis
+DRG42308,B461,Rhinocerebral mucormycosis
+DRG42308,B462,Gastrointestinal mucormycosis
+DRG42308,B463,Cutaneous mucormycosis
+DRG42308,B464,Disseminated mucormycosis
+DRG42308,B465,"Mucormycosis, unspecified"
+DRG42308,B468,Other zygomycoses
+DRG42308,B469,"Zygomycosis, unspecified"
+DRG42308,B470,Eumycetoma
+DRG42308,B471,Actinomycetoma
+DRG42308,B480,Lobomycosis
+DRG42308,B481,Rhinosporidiosis
+DRG42308,B482,Allescheriasis
+DRG42308,B483,Geotrichosis
+DRG42308,B484,Penicillosis
+DRG42308,B488,Other specified mycoses
+DRG42308,B49,Unspecified mycosis
+DRG42308,B500,Plasmodium falciparum malaria with cerebral complications
+DRG42308,B508,Other severe and complicated Plasmodium falciparum malaria
+DRG42308,B509,"Plasmodium falciparum malaria, unspecified"
+DRG42308,B510,Plasmodium vivax malaria with rupture of spleen
+DRG42308,B518,Plasmodium vivax malaria with other complications
+DRG42308,B519,Plasmodium vivax malaria without complication
+DRG42308,B520,Plasmodium malariae malaria with nephropathy
+DRG42308,B528,Plasmodium malariae malaria with other complications
+DRG42308,B529,Plasmodium malariae malaria without complication
+DRG42308,B530,Plasmodium ovale malaria
+DRG42308,B531,Malaria due to simian plasmodia
+DRG42308,B538,"Other malaria, not elsewhere classified"
+DRG42308,B54,Unspecified malaria
+DRG42308,B550,Visceral leishmaniasis
+DRG42308,B559,"Leishmaniasis, unspecified"
+DRG42308,B560,Gambiense trypanosomiasis
+DRG42308,B561,Rhodesiense trypanosomiasis
+DRG42308,B569,"African trypanosomiasis, unspecified"
+DRG42308,B571,Acute Chagas' disease without heart involvement
+DRG42308,B5730,"Chagas' disease with digestive system involvement, unspecified"
+DRG42308,B5731,Megaesophagus in Chagas' disease
+DRG42308,B5732,Megacolon in Chagas' disease
+DRG42308,B5739,Other digestive system involvement in Chagas' disease
+DRG42308,B5740,"Chagas' disease with nervous system involvement, unspecified"
+DRG42308,B5741,Meningitis in Chagas' disease
+DRG42308,B5742,Meningoencephalitis in Chagas' disease
+DRG42308,B5749,Other nervous system involvement in Chagas' disease
+DRG42308,B575,Chagas' disease (chronic) with other organ involvement
+DRG42308,B5800,"Toxoplasma oculopathy, unspecified"
+DRG42308,B5882,Toxoplasma myositis
+DRG42308,B5883,Toxoplasma tubulo-interstitial nephropathy
+DRG42308,B5889,Toxoplasmosis with other organ involvement
+DRG42308,B589,"Toxoplasmosis, unspecified"
+DRG42308,B600,Babesiosis
+DRG42308,B6010,"Acanthamebiasis, unspecified"
+DRG42308,B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni)
+DRG42308,B6019,Other acanthamebic disease
+DRG42308,B602,Naegleriasis
+DRG42308,B608,Other specified protozoal diseases
+DRG42308,B64,Unspecified protozoal disease
+DRG42308,B652,Schistosomiasis due to Schistosoma japonicum
+DRG42308,B658,Other schistosomiasis
+DRG42308,B659,"Schistosomiasis, unspecified"
+DRG42308,B662,Dicroceliasis
+DRG42308,B668,Other specified fluke infections
+DRG42308,B669,"Fluke infection, unspecified"
+DRG42308,B672,Echinococcus granulosus infection of bone
+DRG42308,B6732,"Echinococcus granulosus infection, multiple sites"
+DRG42308,B6739,"Echinococcus granulosus infection, other sites"
+DRG42308,B674,"Echinococcus granulosus infection, unspecified"
+DRG42308,B6761,"Echinococcus multilocularis infection, multiple sites"
+DRG42308,B6769,"Echinococcus multilocularis infection, other sites"
+DRG42308,B677,"Echinococcus multilocularis infection, unspecified"
+DRG42308,B6790,"Echinococcosis, unspecified"
+DRG42308,B6799,Other echinococcosis
+DRG42308,B72,Dracunculiasis
+DRG42308,B7300,"Onchocerciasis with eye involvement, unspecified"
+DRG42308,B7301,Onchocerciasis with endophthalmitis
+DRG42308,B7302,Onchocerciasis with glaucoma
+DRG42308,B7309,Onchocerciasis with other eye involvement
+DRG42308,B731,Onchocerciasis without eye disease
+DRG42308,B740,Filariasis due to Wuchereria bancrofti
+DRG42308,B741,Filariasis due to Brugia malayi
+DRG42308,B742,Filariasis due to Brugia timori
+DRG42308,B743,Loiasis
+DRG42308,B744,Mansonelliasis
+DRG42308,B748,Other filariases
+DRG42308,B749,"Filariasis, unspecified"
+DRG42308,B75,Trichinellosis
+DRG42308,B814,Mixed intestinal helminthiases
+DRG42308,B830,Visceral larva migrans
+DRG42308,B831,Gnathostomiasis
+DRG42308,B832,Angiostrongyliasis due to Parastrongylus cantonensis
+DRG42308,B833,Syngamiasis
+DRG42308,B838,Other specified helminthiases
+DRG42308,B839,"Helminthiasis, unspecified"
+DRG42308,B89,Unspecified parasitic disease
+DRG42308,B908,Sequelae of tuberculosis of other organs
+DRG42308,B92,Sequelae of leprosy
+DRG42308,B942,Sequelae of viral hepatitis
+DRG42308,B948,Sequelae of other specified infectious and parasitic diseases
+DRG42308,B949,Sequelae of unspecified infectious and parasitic disease
+DRG42308,B998,Other infectious disease
+DRG42308,B999,Unspecified infectious disease
+DRG42308,L946,Ainhum
+DRG42308,N980,Infection associated with artificial insemination
+DRG42308,R899,"Unspecified abnormal finding in specimens from other organs, systems and tissues"
+DRG42308,T8029XA,"Infection following other infusion, transfusion and therapeutic injection, initial encounter"
+DRG42308,T880XXA,"Infection following immunization, initial encounter"

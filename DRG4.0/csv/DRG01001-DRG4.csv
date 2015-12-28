@@ -1,11 +1,11 @@
-,DRG,CM-PCS,en
-45238,DRG01001,D320,Benign neoplasm of cerebral meninges
-45239,DRG01001,D321,Benign neoplasm of spinal meninges
-45240,DRG01001,D329,"Benign neoplasm of meninges, unspecified"
-45241,DRG01001,D330,"Benign neoplasm of brain, supratentorial"
-45242,DRG01001,D331,"Benign neoplasm of brain, infratentorial"
-45243,DRG01001,D332,"Benign neoplasm of brain, unspecified"
-45244,DRG01001,D333,Benign neoplasm of cranial nerves
-45245,DRG01001,D334,Benign neoplasm of spinal cord
-45246,DRG01001,D337,Benign neoplasm of other specified parts of central nervous system
-45247,DRG01001,D339,"Benign neoplasm of central nervous system, unspecified"
+DRG,CM-PCS,en
+DRG01001,D320,Benign neoplasm of cerebral meninges
+DRG01001,D321,Benign neoplasm of spinal meninges
+DRG01001,D329,"Benign neoplasm of meninges, unspecified"
+DRG01001,D330,"Benign neoplasm of brain, supratentorial"
+DRG01001,D331,"Benign neoplasm of brain, infratentorial"
+DRG01001,D332,"Benign neoplasm of brain, unspecified"
+DRG01001,D333,Benign neoplasm of cranial nerves
+DRG01001,D334,Benign neoplasm of spinal cord
+DRG01001,D337,Benign neoplasm of other specified parts of central nervous system
+DRG01001,D339,"Benign neoplasm of central nervous system, unspecified"

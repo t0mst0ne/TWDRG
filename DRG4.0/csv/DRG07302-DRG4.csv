@@ -1,583 +1,583 @@
-,DRG,CM-PCS,en
-12646,DRG07302,A186,Tuberculosis of (inner) (middle) ear
-12647,DRG07302,A360,Pharyngeal diphtheria
-12648,DRG07302,A361,Nasopharyngeal diphtheria
-12649,DRG07302,A362,Laryngeal diphtheria
-12650,DRG07302,A665,Gangosa
-12651,DRG07302,B001,Herpesviral vesicular dermatitis
-12652,DRG07302,B3784,Candidal otitis externa
-12653,DRG07302,D104,Benign neoplasm of tonsil
-12654,DRG07302,D105,Benign neoplasm of other parts of oropharynx
-12655,DRG07302,D106,Benign neoplasm of nasopharynx
-12656,DRG07302,D107,Benign neoplasm of hypopharynx
-12657,DRG07302,D109,"Benign neoplasm of pharynx, unspecified"
-12658,DRG07302,D110,Benign neoplasm of parotid gland
-12659,DRG07302,D117,Benign neoplasm of other major salivary glands
-12660,DRG07302,D119,"Benign neoplasm of major salivary gland, unspecified"
-12661,DRG07302,D140,"Benign neoplasm of middle ear, nasal cavity and accessory sinuses"
-12662,DRG07302,D141,Benign neoplasm of larynx
-12663,DRG07302,H6000,"Abscess of external ear, unspecified ear"
-12664,DRG07302,H6001,Abscess of right external ear
-12665,DRG07302,H6002,Abscess of left external ear
-12666,DRG07302,H6003,"Abscess of external ear, bilateral"
-12667,DRG07302,H6010,"Cellulitis of external ear, unspecified ear"
-12668,DRG07302,H6011,Cellulitis of right external ear
-12669,DRG07302,H6012,Cellulitis of left external ear
-12670,DRG07302,H6013,"Cellulitis of external ear, bilateral"
-12671,DRG07302,H6020,"Malignant otitis externa, unspecified ear"
-12672,DRG07302,H6021,"Malignant otitis externa, right ear"
-12673,DRG07302,H6022,"Malignant otitis externa, left ear"
-12674,DRG07302,H6023,"Malignant otitis externa, bilateral"
-12675,DRG07302,H60311,"Diffuse otitis externa, right ear"
-12676,DRG07302,H60312,"Diffuse otitis externa, left ear"
-12677,DRG07302,H60313,"Diffuse otitis externa, bilateral"
-12678,DRG07302,H60319,"Diffuse otitis externa, unspecified ear"
-12679,DRG07302,H60321,"Hemorrhagic otitis externa, right ear"
-12680,DRG07302,H60322,"Hemorrhagic otitis externa, left ear"
-12681,DRG07302,H60323,"Hemorrhagic otitis externa, bilateral"
-12682,DRG07302,H60329,"Hemorrhagic otitis externa, unspecified ear"
-12683,DRG07302,H60331,"Swimmer's ear, right ear"
-12684,DRG07302,H60332,"Swimmer's ear, left ear"
-12685,DRG07302,H60333,"Swimmer's ear, bilateral"
-12686,DRG07302,H60339,"Swimmer's ear, unspecified ear"
-12687,DRG07302,H60391,"Other infective otitis externa, right ear"
-12688,DRG07302,H60392,"Other infective otitis externa, left ear"
-12689,DRG07302,H60393,"Other infective otitis externa, bilateral"
-12690,DRG07302,H60399,"Other infective otitis externa, unspecified ear"
-12691,DRG07302,H6040,"Cholesteatoma of external ear, unspecified ear"
-12692,DRG07302,H6041,Cholesteatoma of right external ear
-12693,DRG07302,H6042,Cholesteatoma of left external ear
-12694,DRG07302,H6043,"Cholesteatoma of external ear, bilateral"
-12695,DRG07302,H60501,"Unspecified acute noninfective otitis externa, right ear"
-12696,DRG07302,H60502,"Unspecified acute noninfective otitis externa, left ear"
-12697,DRG07302,H60503,"Unspecified acute noninfective otitis externa, bilateral"
-12698,DRG07302,H60509,"Unspecified acute noninfective otitis externa, unspecified ear"
-12699,DRG07302,H60511,"Acute actinic otitis externa, right ear"
-12700,DRG07302,H60512,"Acute actinic otitis externa, left ear"
-12701,DRG07302,H60513,"Acute actinic otitis externa, bilateral"
-12702,DRG07302,H60519,"Acute actinic otitis externa, unspecified ear"
-12703,DRG07302,H60521,"Acute chemical otitis externa, right ear"
-12704,DRG07302,H60522,"Acute chemical otitis externa, left ear"
-12705,DRG07302,H60523,"Acute chemical otitis externa, bilateral"
-12706,DRG07302,H60529,"Acute chemical otitis externa, unspecified ear"
-12707,DRG07302,H60531,"Acute contact otitis externa, right ear"
-12708,DRG07302,H60532,"Acute contact otitis externa, left ear"
-12709,DRG07302,H60533,"Acute contact otitis externa, bilateral"
-12710,DRG07302,H60539,"Acute contact otitis externa, unspecified ear"
-12711,DRG07302,H60541,"Acute eczematoid otitis externa, right ear"
-12712,DRG07302,H60542,"Acute eczematoid otitis externa, left ear"
-12713,DRG07302,H60543,"Acute eczematoid otitis externa, bilateral"
-12714,DRG07302,H60549,"Acute eczematoid otitis externa, unspecified ear"
-12715,DRG07302,H60551,"Acute reactive otitis externa, right ear"
-12716,DRG07302,H60552,"Acute reactive otitis externa, left ear"
-12717,DRG07302,H60553,"Acute reactive otitis externa, bilateral"
-12718,DRG07302,H60559,"Acute reactive otitis externa, unspecified ear"
-12719,DRG07302,H60591,"Other noninfective acute otitis externa, right ear"
-12720,DRG07302,H60592,"Other noninfective acute otitis externa, left ear"
-12721,DRG07302,H60593,"Other noninfective acute otitis externa, bilateral"
-12722,DRG07302,H60599,"Other noninfective acute otitis externa, unspecified ear"
-12723,DRG07302,H6060,"Unspecified chronic otitis externa, unspecified ear"
-12724,DRG07302,H6061,"Unspecified chronic otitis externa, right ear"
-12725,DRG07302,H6062,"Unspecified chronic otitis externa, left ear"
-12726,DRG07302,H6063,"Unspecified chronic otitis externa, bilateral"
-12727,DRG07302,H608X1,"Other otitis externa, right ear"
-12728,DRG07302,H608X2,"Other otitis externa, left ear"
-12729,DRG07302,H608X3,"Other otitis externa, bilateral"
-12730,DRG07302,H608X9,"Other otitis externa, unspecified ear"
-12731,DRG07302,H6090,"Unspecified otitis externa, unspecified ear"
-12732,DRG07302,H6091,"Unspecified otitis externa, right ear"
-12733,DRG07302,H6092,"Unspecified otitis externa, left ear"
-12734,DRG07302,H6093,"Unspecified otitis externa, bilateral"
-12735,DRG07302,H61101,"Unspecified noninfective disorders of pinna, right ear"
-12736,DRG07302,H61102,"Unspecified noninfective disorders of pinna, left ear"
-12737,DRG07302,H61103,"Unspecified noninfective disorders of pinna, bilateral"
-12738,DRG07302,H61109,"Unspecified noninfective disorders of pinna, unspecified ear"
-12739,DRG07302,H61111,"Acquired deformity of pinna, right ear"
-12740,DRG07302,H61112,"Acquired deformity of pinna, left ear"
-12741,DRG07302,H61113,"Acquired deformity of pinna, bilateral"
-12742,DRG07302,H61119,"Acquired deformity of pinna, unspecified ear"
-12743,DRG07302,H61121,"Hematoma of pinna, right ear"
-12744,DRG07302,H61122,"Hematoma of pinna, left ear"
-12745,DRG07302,H61123,"Hematoma of pinna, bilateral"
-12746,DRG07302,H61129,"Hematoma of pinna, unspecified ear"
-12747,DRG07302,H61191,"Noninfective disorders of pinna, right ear"
-12748,DRG07302,H61192,"Noninfective disorders of pinna, left ear"
-12749,DRG07302,H61193,"Noninfective disorders of pinna, bilateral"
-12750,DRG07302,H61199,"Noninfective disorders of pinna, unspecified ear"
-12751,DRG07302,H6120,"Impacted cerumen, unspecified ear"
-12752,DRG07302,H6121,"Impacted cerumen, right ear"
-12753,DRG07302,H6122,"Impacted cerumen, left ear"
-12754,DRG07302,H6123,"Impacted cerumen, bilateral"
-12755,DRG07302,H61301,"Acquired stenosis of right external ear canal, unspecified"
-12756,DRG07302,H61302,"Acquired stenosis of left external ear canal, unspecified"
-12757,DRG07302,H61303,"Acquired stenosis of external ear canal, unspecified, bilateral"
-12758,DRG07302,H61309,"Acquired stenosis of external ear canal, unspecified, unspecified ear"
-12759,DRG07302,H61311,Acquired stenosis of right external ear canal secondary to trauma
-12760,DRG07302,H61312,Acquired stenosis of left external ear canal secondary to trauma
-12761,DRG07302,H61313,"Acquired stenosis of external ear canal secondary to trauma, bilateral"
-12762,DRG07302,H61319,"Acquired stenosis of external ear canal secondary to trauma, unspecified ear"
-12763,DRG07302,H61321,Acquired stenosis of right external ear canal secondary to inflammation and infection
-12764,DRG07302,H61322,Acquired stenosis of left external ear canal secondary to inflammation and infection
-12765,DRG07302,H61323,"Acquired stenosis of external ear canal secondary to inflammation and infection, bilateral"
-12766,DRG07302,H61329,"Acquired stenosis of external ear canal secondary to inflammation and infection, unspecified ear"
-12767,DRG07302,H61391,Other acquired stenosis of right external ear canal
-12768,DRG07302,H61392,Other acquired stenosis of left external ear canal
-12769,DRG07302,H61393,"Other acquired stenosis of external ear canal, bilateral"
-12770,DRG07302,H61399,"Other acquired stenosis of external ear canal, unspecified ear"
-12771,DRG07302,H61811,Exostosis of right external canal
-12772,DRG07302,H61812,Exostosis of left external canal
-12773,DRG07302,H61813,"Exostosis of external canal, bilateral"
-12774,DRG07302,H61819,"Exostosis of external canal, unspecified ear"
-12775,DRG07302,H61891,Other specified disorders of right external ear
-12776,DRG07302,H61892,Other specified disorders of left external ear
-12777,DRG07302,H61893,"Other specified disorders of external ear, bilateral"
-12778,DRG07302,H61899,"Other specified disorders of external ear, unspecified ear"
-12779,DRG07302,H6190,"Disorder of external ear, unspecified, unspecified ear"
-12780,DRG07302,H6191,"Disorder of right external ear, unspecified"
-12781,DRG07302,H6192,"Disorder of left external ear, unspecified"
-12782,DRG07302,H6193,"Disorder of external ear, unspecified, bilateral"
-12783,DRG07302,H68101,"Unspecified obstruction of Eustachian tube, right ear"
-12784,DRG07302,H68102,"Unspecified obstruction of Eustachian tube, left ear"
-12785,DRG07302,H68103,"Unspecified obstruction of Eustachian tube, bilateral"
-12786,DRG07302,H68109,"Unspecified obstruction of Eustachian tube, unspecified ear"
-12787,DRG07302,H68111,"Osseous obstruction of Eustachian tube, right ear"
-12788,DRG07302,H68112,"Osseous obstruction of Eustachian tube, left ear"
-12789,DRG07302,H68113,"Osseous obstruction of Eustachian tube, bilateral"
-12790,DRG07302,H68119,"Osseous obstruction of Eustachian tube, unspecified ear"
-12791,DRG07302,H68121,"Intrinsic cartilagenous obstruction of Eustachian tube, right ear"
-12792,DRG07302,H68122,"Intrinsic cartilagenous obstruction of Eustachian tube, left ear"
-12793,DRG07302,H68123,"Intrinsic cartilagenous obstruction of Eustachian tube, bilateral"
-12794,DRG07302,H68129,"Intrinsic cartilagenous obstruction of Eustachian tube, unspecified ear"
-12795,DRG07302,H68131,"Extrinsic cartilagenous obstruction of Eustachian tube, right ear"
-12796,DRG07302,H68132,"Extrinsic cartilagenous obstruction of Eustachian tube, left ear"
-12797,DRG07302,H68133,"Extrinsic cartilagenous obstruction of Eustachian tube, bilateral"
-12798,DRG07302,H68139,"Extrinsic cartilagenous obstruction of Eustachian tube, unspecified ear"
-12799,DRG07302,H6900,"Patulous Eustachian tube, unspecified ear"
-12800,DRG07302,H6901,"Patulous Eustachian tube, right ear"
-12801,DRG07302,H6902,"Patulous Eustachian tube, left ear"
-12802,DRG07302,H6903,"Patulous Eustachian tube, bilateral"
-12803,DRG07302,H6980,"Other specified disorders of Eustachian tube, unspecified ear"
-12804,DRG07302,H6981,"Other specified disorders of Eustachian tube, right ear"
-12805,DRG07302,H6982,"Other specified disorders of Eustachian tube, left ear"
-12806,DRG07302,H6983,"Other specified disorders of Eustachian tube, bilateral"
-12807,DRG07302,H6990,"Unspecified Eustachian tube disorder, unspecified ear"
-12808,DRG07302,H6991,"Unspecified Eustachian tube disorder, right ear"
-12809,DRG07302,H6992,"Unspecified Eustachian tube disorder, left ear"
-12810,DRG07302,H6993,"Unspecified Eustachian tube disorder, bilateral"
-12811,DRG07302,H70811,"Postauricular fistula, right ear"
-12812,DRG07302,H70812,"Postauricular fistula, left ear"
-12813,DRG07302,H70813,"Postauricular fistula, bilateral"
-12814,DRG07302,H70819,"Postauricular fistula, unspecified ear"
-12815,DRG07302,H70891,"Other mastoiditis and related conditions, right ear"
-12816,DRG07302,H70892,"Other mastoiditis and related conditions, left ear"
-12817,DRG07302,H70893,"Other mastoiditis and related conditions, bilateral"
-12818,DRG07302,H70899,"Other mastoiditis and related conditions, unspecified ear"
-12819,DRG07302,H7100,"Cholesteatoma of attic, unspecified ear"
-12820,DRG07302,H7101,"Cholesteatoma of attic, right ear"
-12821,DRG07302,H7102,"Cholesteatoma of attic, left ear"
-12822,DRG07302,H7103,"Cholesteatoma of attic, bilateral"
-12823,DRG07302,H7110,"Cholesteatoma of tympanum, unspecified ear"
-12824,DRG07302,H7111,"Cholesteatoma of tympanum, right ear"
-12825,DRG07302,H7112,"Cholesteatoma of tympanum, left ear"
-12826,DRG07302,H7113,"Cholesteatoma of tympanum, bilateral"
-12827,DRG07302,H7120,"Cholesteatoma of mastoid, unspecified ear"
-12828,DRG07302,H7121,"Cholesteatoma of mastoid, right ear"
-12829,DRG07302,H7122,"Cholesteatoma of mastoid, left ear"
-12830,DRG07302,H7123,"Cholesteatoma of mastoid, bilateral"
-12831,DRG07302,H7130,"Diffuse cholesteatosis, unspecified ear"
-12832,DRG07302,H7131,"Diffuse cholesteatosis, right ear"
-12833,DRG07302,H7132,"Diffuse cholesteatosis, left ear"
-12834,DRG07302,H7133,"Diffuse cholesteatosis, bilateral"
-12835,DRG07302,H7190,"Unspecified cholesteatoma, unspecified ear"
-12836,DRG07302,H7191,"Unspecified cholesteatoma, right ear"
-12837,DRG07302,H7192,"Unspecified cholesteatoma, left ear"
-12838,DRG07302,H7193,"Unspecified cholesteatoma, bilateral"
-12839,DRG07302,H7200,"Central perforation of tympanic membrane, unspecified ear"
-12840,DRG07302,H7201,"Central perforation of tympanic membrane, right ear"
-12841,DRG07302,H7202,"Central perforation of tympanic membrane, left ear"
-12842,DRG07302,H7203,"Central perforation of tympanic membrane, bilateral"
-12843,DRG07302,H7210,"Attic perforation of tympanic membrane, unspecified ear"
-12844,DRG07302,H7211,"Attic perforation of tympanic membrane, right ear"
-12845,DRG07302,H7212,"Attic perforation of tympanic membrane, left ear"
-12846,DRG07302,H7213,"Attic perforation of tympanic membrane, bilateral"
-12847,DRG07302,H722X1,"Other marginal perforations of tympanic membrane, right ear"
-12848,DRG07302,H722X2,"Other marginal perforations of tympanic membrane, left ear"
-12849,DRG07302,H722X3,"Other marginal perforations of+D12793 tympanic membrane, bilateral"
-12850,DRG07302,H722X9,"Other marginal perforations of tympanic membrane, unspecified ear"
-12851,DRG07302,H72811,"Multiple perforations of tympanic membrane, right ear"
-12852,DRG07302,H72812,"Multiple perforations of tympanic membrane, left ear"
-12853,DRG07302,H72813,"Multiple perforations of tympanic membrane, bilateral"
-12854,DRG07302,H72819,"Multiple perforations of tympanic membrane, unspecified ear"
-12855,DRG07302,H72821,"Total perforations of tympanic membrane, right ear"
-12856,DRG07302,H72822,"Total perforations of tympanic membrane, left ear"
-12857,DRG07302,H72823,"Total perforations of tympanic membrane, bilateral"
-12858,DRG07302,H72829,"Total perforations of tympanic membrane, unspecified ear"
-12859,DRG07302,H7290,"Unspecified perforation of tympanic membrane, unspecified ear"
-12860,DRG07302,H7291,"Unspecified perforation of tympanic membrane, right ear"
-12861,DRG07302,H7292,"Unspecified perforation of tympanic membrane, left ear"
-12862,DRG07302,H7293,"Unspecified perforation of tympanic membrane, bilateral"
-12863,DRG07302,H73811,"Atrophic flaccid tympanic membrane, right ear"
-12864,DRG07302,H73812,"Atrophic flaccid tympanic membrane, left ear"
-12865,DRG07302,H73813,"Atrophic flaccid tympanic membrane, bilateral"
-12866,DRG07302,H73819,"Atrophic flaccid tympanic membrane, unspecified ear"
-12867,DRG07302,H73821,"Atrophic nonflaccid tympanic membrane, right ear"
-12868,DRG07302,H73822,"Atrophic nonflaccid tympanic membrane, left ear"
-12869,DRG07302,H73823,"Atrophic nonflaccid tympanic membrane, bilateral"
-12870,DRG07302,H73829,"Atrophic nonflaccid tympanic membrane, unspecified ear"
-12871,DRG07302,H73891,"Other specified disorders of tympanic membrane, right ear"
-12872,DRG07302,H73892,"Other specified disorders of tympanic membrane, left ear"
-12873,DRG07302,H73893,"Other specified disorders of tympanic membrane, bilateral"
-12874,DRG07302,H73899,"Other specified disorders of tympanic membrane, unspecified ear"
-12875,DRG07302,H7390,"Unspecified disorder of tympanic membrane, unspecified ear"
-12876,DRG07302,H7391,"Unspecified disorder of tympanic membrane, right ear"
-12877,DRG07302,H7392,"Unspecified disorder of tympanic membrane, left ear"
-12878,DRG07302,H7393,"Unspecified disorder of tympanic membrane, bilateral"
-12879,DRG07302,H7401,"Tympanosclerosis, right ear"
-12880,DRG07302,H7402,"Tympanosclerosis, left ear"
-12881,DRG07302,H7403,"Tympanosclerosis, bilateral"
-12882,DRG07302,H7409,"Tympanosclerosis, unspecified ear"
-12883,DRG07302,H7411,Adhesive right middle ear disease
-12884,DRG07302,H7412,Adhesive left middle ear disease
-12885,DRG07302,H7413,"Adhesive middle ear disease, bilateral"
-12886,DRG07302,H7419,"Adhesive middle ear disease, unspecified ear"
-12887,DRG07302,H7420,"Discontinuity and dislocation of ear ossicles, unspecified ear"
-12888,DRG07302,H7421,Discontinuity and dislocation of right ear ossicles
-12889,DRG07302,H7422,Discontinuity and dislocation of left ear ossicles
-12890,DRG07302,H7423,"Discontinuity and dislocation of ear ossicles, bilateral"
-12891,DRG07302,H74311,"Ankylosis of ear ossicles, right ear"
-12892,DRG07302,H74312,"Ankylosis of ear ossicles, left ear"
-12893,DRG07302,H74313,"Ankylosis of ear ossicles, bilateral"
-12894,DRG07302,H74319,"Ankylosis of ear ossicles, unspecified ear"
-12895,DRG07302,H74321,"Partial loss of ear ossicles, right ear"
-12896,DRG07302,H74322,"Partial loss of ear ossicles, left ear"
-12897,DRG07302,H74323,"Partial loss of ear ossicles, bilateral"
-12898,DRG07302,H74329,"Partial loss of ear ossicles, unspecified ear"
-12899,DRG07302,H74391,Other acquired abnormalities of right ear ossicles
-12900,DRG07302,H74392,Other acquired abnormalities of left ear ossicles
-12901,DRG07302,H74393,"Other acquired abnormalities of ear ossicles, bilateral"
-12902,DRG07302,H74399,"Other acquired abnormalities of ear ossicles, unspecified ear"
-12903,DRG07302,H7440,"Polyp of middle ear, unspecified ear"
-12904,DRG07302,H7441,Polyp of right middle ear
-12905,DRG07302,H7442,Polyp of left middle ear
-12906,DRG07302,H7443,"Polyp of middle ear, bilateral"
-12907,DRG07302,H748X1,Other specified disorders of right middle ear and mastoid
-12908,DRG07302,H748X2,Other specified disorders of left middle ear and mastoid
-12909,DRG07302,H748X3,"Other specified disorders of middle ear and mastoid, bilateral"
-12910,DRG07302,H748X9,"Other specified disorders of middle ear and mastoid, unspecified ear"
-12911,DRG07302,H7490,"Unspecified disorder of middle ear and mastoid, unspecified ear"
-12912,DRG07302,H7491,Unspecified disorder of right middle ear and mastoid
-12913,DRG07302,H7492,Unspecified disorder of left middle ear and mastoid
-12914,DRG07302,H7493,"Unspecified disorder of middle ear and mastoid, bilateral"
-12915,DRG07302,H8000,"Otosclerosis involving oval window, nonobliterative, unspecified ear"
-12916,DRG07302,H8001,"Otosclerosis involving oval window, nonobliterative, right ear"
-12917,DRG07302,H8002,"Otosclerosis involving oval window, nonobliterative, left ear"
-12918,DRG07302,H8003,"Otosclerosis involving oval window, nonobliterative, bilateral"
-12919,DRG07302,H8010,"Otosclerosis involving oval window, obliterative, unspecified ear"
-12920,DRG07302,H8011,"Otosclerosis involving oval window, obliterative, right ear"
-12921,DRG07302,H8012,"Otosclerosis involving oval window, obliterative, left ear"
-12922,DRG07302,H8013,"Otosclerosis involving oval window, obliterative, bilateral"
-12923,DRG07302,H8020,"Cochlear otosclerosis, unspecified ear"
-12924,DRG07302,H8021,"Cochlear otosclerosis, right ear"
-12925,DRG07302,H8022,"Cochlear otosclerosis, left ear"
-12926,DRG07302,H8023,"Cochlear otosclerosis, bilateral"
-12927,DRG07302,H8080,"Other otosclerosis, unspecified ear"
-12928,DRG07302,H8081,"Other otosclerosis, right ear"
-12929,DRG07302,H8082,"Other otosclerosis, left ear"
-12930,DRG07302,H8083,"Other otosclerosis, bilateral"
-12931,DRG07302,H8090,"Unspecified otosclerosis, unspecified ear"
-12932,DRG07302,H8091,"Unspecified otosclerosis, right ear"
-12933,DRG07302,H8092,"Unspecified otosclerosis, left ear"
-12934,DRG07302,H8093,"Unspecified otosclerosis, bilateral"
-12935,DRG07302,H8311,"Labyrinthine fistula, right ear"
-12936,DRG07302,H8312,"Labyrinthine fistula, left ear"
-12937,DRG07302,H8313,"Labyrinthine fistula, bilateral"
-12938,DRG07302,H8319,"Labyrinthine fistula, unspecified ear"
-12939,DRG07302,H833X1,Noise effects on right inner ear
-12940,DRG07302,H833X2,Noise effects on left inner ear
-12941,DRG07302,H833X3,"Noise effects on inner ear, bilateral"
-12942,DRG07302,H833X9,"Noise effects on inner ear, unspecified ear"
-12943,DRG07302,H900,"Conductive hearing loss, bilateral"
-12944,DRG07302,H9011,"Conductive hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side"
-12945,DRG07302,H9012,"Conductive hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side"
-12946,DRG07302,H902,"Conductive hearing loss, unspecified"
-12947,DRG07302,H903,"Sensorineural hearing loss, bilateral"
-12948,DRG07302,H9041,"Sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side"
-12949,DRG07302,H9042,"Sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side"
-12950,DRG07302,H905,Unspecified sensorineural hearing loss
-12951,DRG07302,H906,"Mixed conductive and sensorineural hearing loss, bilateral"
-12952,DRG07302,H9071,"Mixed conductive and sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side"
-12953,DRG07302,H9072,"Mixed conductive and sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side"
-12954,DRG07302,H908,"Mixed conductive and sensorineural hearing loss, unspecified"
-12955,DRG07302,H9101,"Ototoxic hearing loss, right ear"
-12956,DRG07302,H9102,"Ototoxic hearing loss, left ear"
-12957,DRG07302,H9103,"Ototoxic hearing loss, bilateral"
-12958,DRG07302,H9109,"Ototoxic hearing loss, unspecified ear"
-12959,DRG07302,H9110,"Presbycusis, unspecified ear"
-12960,DRG07302,H9111,"Presbycusis, right ear"
-12961,DRG07302,H9112,"Presbycusis, left ear"
-12962,DRG07302,H9113,"Presbycusis, bilateral"
-12963,DRG07302,H9120,"Sudden idiopathic hearing loss, unspecified ear"
-12964,DRG07302,H9121,"Sudden idiopathic hearing loss, right ear"
-12965,DRG07302,H9122,"Sudden idiopathic hearing loss, left ear"
-12966,DRG07302,H9123,"Sudden idiopathic hearing loss, bilateral"
-12967,DRG07302,H913,"Deaf nonspeaking, not elsewhere classified"
-12968,DRG07302,H918X1,"Other specified hearing loss, right ear"
-12969,DRG07302,H918X2,"Other specified hearing loss, left ear"
-12970,DRG07302,H918X3,"Other specified hearing loss, bilateral"
-12971,DRG07302,H918X9,"Other specified hearing loss, unspecified ear"
-12972,DRG07302,H9190,"Unspecified hearing loss, unspecified ear"
-12973,DRG07302,H9191,"Unspecified hearing loss, right ear"
-12974,DRG07302,H9192,"Unspecified hearing loss, left ear"
-12975,DRG07302,H9193,"Unspecified hearing loss, bilateral"
-12976,DRG07302,H9201,"Otalgia, right ear"
-12977,DRG07302,H9202,"Otalgia, left ear"
-12978,DRG07302,H9203,"Otalgia, bilateral"
-12979,DRG07302,H9209,"Otalgia, unspecified ear"
-12980,DRG07302,H9210,"Otorrhea, unspecified ear"
-12981,DRG07302,H9211,"Otorrhea, right ear"
-12982,DRG07302,H9212,"Otorrhea, left ear"
-12983,DRG07302,H9213,"Otorrhea, bilateral"
-12984,DRG07302,H9220,"Otorrhagia, unspecified ear"
-12985,DRG07302,H9221,"Otorrhagia, right ear"
-12986,DRG07302,H9222,"Otorrhagia, left ear"
-12987,DRG07302,H9223,"Otorrhagia, bilateral"
-12988,DRG07302,H93011,"Transient ischemic deafness, right ear"
-12989,DRG07302,H93012,"Transient ischemic deafness, left ear"
-12990,DRG07302,H93013,"Transient ischemic deafness, bilateral"
-12991,DRG07302,H93019,"Transient ischemic deafness, unspecified ear"
-12992,DRG07302,H93091,Unspecified degenerative and vascular disorders of right ear
-12993,DRG07302,H93092,Unspecified degenerative and vascular disorders of left ear
-12994,DRG07302,H93093,"Unspecified degenerative and vascular disorders of ear, bilateral"
-12995,DRG07302,H93099,Unspecified degenerative and vascular disorders of unspecified ear
-12996,DRG07302,H9311,"Tinnitus, right ear"
-12997,DRG07302,H9312,"Tinnitus, left ear"
-12998,DRG07302,H9313,"Tinnitus, bilateral"
-12999,DRG07302,H9319,"Tinnitus, unspecified ear"
-13000,DRG07302,H93211,"Auditory recruitment, right ear"
-13001,DRG07302,H93212,"Auditory recruitment, left ear"
-13002,DRG07302,H93213,"Auditory recruitment, bilateral"
-13003,DRG07302,H93219,"Auditory recruitment, unspecified ear"
-13004,DRG07302,H93221,"Diplacusis, right ear"
-13005,DRG07302,H93222,"Diplacusis, left ear"
-13006,DRG07302,H93223,"Diplacusis, bilateral"
-13007,DRG07302,H93229,"Diplacusis, unspecified ear"
-13008,DRG07302,H93231,"Hyperacusis, right ear"
-13009,DRG07302,H93232,"Hyperacusis, left ear"
-13010,DRG07302,H93233,"Hyperacusis, bilateral"
-13011,DRG07302,H93239,"Hyperacusis, unspecified ear"
-13012,DRG07302,H93241,"Temporary auditory threshold shift, right ear"
-13013,DRG07302,H93242,"Temporary auditory threshold shift, left ear"
-13014,DRG07302,H93243,"Temporary auditory threshold shift, bilateral"
-13015,DRG07302,H93249,"Temporary auditory threshold shift, unspecified ear"
-13016,DRG07302,H93291,"Other abnormal auditory perceptions, right ear"
-13017,DRG07302,H93292,"Other abnormal auditory perceptions, left ear"
-13018,DRG07302,H93293,"Other abnormal auditory perceptions, bilateral"
-13019,DRG07302,H93299,"Other abnormal auditory perceptions, unspecified ear"
-13020,DRG07302,H933X1,Disorders of right acoustic nerve
-13021,DRG07302,H933X2,Disorders of left acoustic nerve
-13022,DRG07302,H933X3,Disorders of bilateral acoustic nerves
-13023,DRG07302,H933X9,Disorders of unspecified acoustic nerve
-13024,DRG07302,H938X1,Other specified disorders of right ear
-13025,DRG07302,H938X2,Other specified disorders of left ear
-13026,DRG07302,H938X3,"Other specified disorders of ear, bilateral"
-13027,DRG07302,H938X9,"Other specified disorders of ear, unspecified ear"
-13028,DRG07302,H9500,"Recurrent cholesteatoma of postmastoidectomy cavity, unspecified ear"
-13029,DRG07302,H9501,"Recurrent cholesteatoma of postmastoidectomy cavity, right ear"
-13030,DRG07302,H9502,"Recurrent cholesteatoma of postmastoidectomy cavity, left ear"
-13031,DRG07302,H9503,"Recurrent cholesteatoma of postmastoidectomy cavity, bilateral ears"
-13032,DRG07302,H95111,"Chronic inflammation of postmastoidectomy cavity, right ear"
-13033,DRG07302,H95112,"Chronic inflammation of postmastoidectomy cavity, left ear"
-13034,DRG07302,H95113,"Chronic inflammation of postmastoidectomy cavity, bilateral ears"
-13035,DRG07302,H95119,"Chronic inflammation of postmastoidectomy cavity, unspecified ear"
-13036,DRG07302,H95121,"Granulation of postmastoidectomy cavity, right ear"
-13037,DRG07302,H95122,"Granulation of postmastoidectomy cavity, left ear"
-13038,DRG07302,H95123,"Granulation of postmastoidectomy cavity, bilateral ears"
-13039,DRG07302,H95129,"Granulation of postmastoidectomy cavity, unspecified ear"
-13040,DRG07302,H95131,"Mucosal cyst of postmastoidectomy cavity, right ear"
-13041,DRG07302,H95132,"Mucosal cyst of postmastoidectomy cavity, left ear"
-13042,DRG07302,H95133,"Mucosal cyst of postmastoidectomy cavity, bilateral ears"
-13043,DRG07302,H95139,"Mucosal cyst of postmastoidectomy cavity, unspecified ear"
-13044,DRG07302,H95191,"Other disorders following mastoidectomy, right ear"
-13045,DRG07302,H95192,"Other disorders following mastoidectomy, left ear"
-13046,DRG07302,H95193,"Other disorders following mastoidectomy, bilateral ears"
-13047,DRG07302,H95199,"Other disorders following mastoidectomy, unspecified ear"
-13048,DRG07302,J330,Polyp of nasal cavity
-13049,DRG07302,J331,Polypoid sinus degeneration
-13050,DRG07302,J338,Other polyp of sinus
-13051,DRG07302,J339,"Nasal polyp, unspecified"
-13052,DRG07302,J340,"Abscess, furuncle and carbuncle of nose"
-13053,DRG07302,J341,Cyst and mucocele of nose and nasal sinus
-13054,DRG07302,J343,Hypertrophy of nasal turbinates
-13055,DRG07302,J3481,Nasal mucositis (ulcerative)
-13056,DRG07302,J3489,Other specified disorders of nose and nasal sinuses
-13057,DRG07302,J349,Unspecified disorder of nose and nasal sinuses
-13058,DRG07302,J351,Hypertrophy of tonsils
-13059,DRG07302,J352,Hypertrophy of adenoids
-13060,DRG07302,J353,Hypertrophy of tonsils with hypertrophy of adenoids
-13061,DRG07302,J358,Other chronic diseases of tonsils and adenoids
-13062,DRG07302,J359,"Chronic disease of tonsils and adenoids, unspecified"
-13063,DRG07302,J3800,"Paralysis of vocal cords and larynx, unspecified"
-13064,DRG07302,J3801,"Paralysis of vocal cords and larynx, unilateral"
-13065,DRG07302,J3802,"Paralysis of vocal cords and larynx, bilateral"
-13066,DRG07302,J381,Polyp of vocal cord and larynx
-13067,DRG07302,J382,Nodules of vocal cords
-13068,DRG07302,J383,Other diseases of vocal cords
-13069,DRG07302,J384,Edema of larynx
-13070,DRG07302,J385,Laryngeal spasm
-13071,DRG07302,J386,Stenosis of larynx
-13072,DRG07302,J390,Retropharyngeal and parapharyngeal abscess
-13073,DRG07302,J392,Other diseases of pharynx
-13074,DRG07302,K110,Atrophy of salivary gland
-13075,DRG07302,K111,Hypertrophy of salivary gland
-13076,DRG07302,K1120,"Sialoadenitis, unspecified"
-13077,DRG07302,K1121,Acute sialoadenitis
-13078,DRG07302,K1122,Acute recurrent sialoadenitis
-13079,DRG07302,K1123,Chronic sialoadenitis
-13080,DRG07302,K113,Abscess of salivary gland
-13081,DRG07302,K114,Fistula of salivary gland
-13082,DRG07302,K115,Sialolithiasis
-13083,DRG07302,K116,Mucocele of salivary gland
-13084,DRG07302,K117,Disturbances of salivary secretion
-13085,DRG07302,K118,Other diseases of salivary glands
-13086,DRG07302,K119,"Disease of salivary gland, unspecified"
-13087,DRG07302,M9510,"Cauliflower ear, unspecified ear"
-13088,DRG07302,M9511,"Cauliflower ear, right ear"
-13089,DRG07302,M9512,"Cauliflower ear, left ear"
-13090,DRG07302,Q162,Absence of eustachian tube
-13091,DRG07302,Q163,Congenital malformation of ear ossicles
-13092,DRG07302,Q164,Other congenital malformations of middle ear
-13093,DRG07302,Q165,Congenital malformation of inner ear
-13094,DRG07302,Q170,Accessory auricle
-13095,DRG07302,Q173,Other misshapen ear
-13096,DRG07302,Q174,Misplaced ear
-13097,DRG07302,Q175,Prominent ear
-13098,DRG07302,Q179,"Congenital malformation of ear, unspecified"
-13099,DRG07302,Q180,"Sinus, fistula and cyst of branchial cleft"
-13100,DRG07302,Q181,Preauricular sinus and cyst
-13101,DRG07302,Q182,Other branchial cleft malformations
-13102,DRG07302,Q188,Other specified congenital malformations of face and neck
-13103,DRG07302,Q300,Choanal atresia
-13104,DRG07302,Q301,Agenesis and underdevelopment of nose
-13105,DRG07302,Q302,"Fissured, notched and cleft nose"
-13106,DRG07302,Q303,Congenital perforated nasal septum
-13107,DRG07302,Q308,Other congenital malformations of nose
-13108,DRG07302,Q309,"Congenital malformation of nose, unspecified"
-13109,DRG07302,Q310,Web of larynx
-13110,DRG07302,Q311,Congenital subglottic stenosis
-13111,DRG07302,Q312,Laryngeal hypoplasia
-13112,DRG07302,Q313,Laryngocele
-13113,DRG07302,Q315,Congenital laryngomalacia
-13114,DRG07302,Q318,Other congenital malformations of larynx
-13115,DRG07302,Q319,"Congenital malformation of larynx, unspecified"
-13116,DRG07302,Q320,Congenital tracheomalacia
-13117,DRG07302,Q321,Other congenital malformations of trachea
-13118,DRG07302,Q322,Congenital bronchomalacia
-13119,DRG07302,Q323,Congenital stenosis of bronchus
-13120,DRG07302,Q324,Other congenital malformations of bronchus
-13121,DRG07302,Q384,Congenital malformations of salivary glands and ducts
-13122,DRG07302,Q387,Congenital pharyngeal pouch
-13123,DRG07302,Q388,Other congenital malformations of pharynx
-13124,DRG07302,R041,Hemorrhage from throat
-13125,DRG07302,R065,Mouth breathing
-13126,DRG07302,R067,Sneezing
-13127,DRG07302,R070,Pain in throat
-13128,DRG07302,R0981,Nasal congestion
-13129,DRG07302,R196,Halitosis
-13130,DRG07302,R490,Dysphonia
-13131,DRG07302,R491,Aphonia
-13132,DRG07302,R4921,Hypernasality
-13133,DRG07302,R4922,Hyponasality
-13134,DRG07302,R498,Other voice and resonance disorders
-13135,DRG07302,R499,Unspecified voice and resonance disorder
-13136,DRG07302,R682,"Dry mouth, unspecified"
-13137,DRG07302,R94120,Abnormal auditory function study
-13138,DRG07302,R94121,Abnormal vestibular function study
-13139,DRG07302,S0120XA,"Unspecified open wound of nose, initial encounter"
-13140,DRG07302,S0121XA,"Laceration without foreign body of nose, initial encounter"
-13141,DRG07302,S0122XA,"Laceration with foreign body of nose, initial encounter"
-13142,DRG07302,S0123XA,"Puncture wound without foreign body of nose, initial encounter"
-13143,DRG07302,S0124XA,"Puncture wound with foreign body of nose, initial encounter"
-13144,DRG07302,S0125XA,"Open bite of nose, initial encounter"
-13145,DRG07302,S01301A,"Unspecified open wound of right ear, initial encounter"
-13146,DRG07302,S01302A,"Unspecified open wound of left ear, initial encounter"
-13147,DRG07302,S01309A,"Unspecified open wound of unspecified ear, initial encounter"
-13148,DRG07302,S01311A,"Laceration without foreign body of right ear, initial encounter"
-13149,DRG07302,S01312A,"Laceration without foreign body of left ear, initial encounter"
-13150,DRG07302,S01319A,"Laceration without foreign body of unspecified ear, initial encounter"
-13151,DRG07302,S01321A,"Laceration with foreign body of right ear, initial encounter"
-13152,DRG07302,S01322A,"Laceration with foreign body of left ear, initial encounter"
-13153,DRG07302,S01329A,"Laceration with foreign body of unspecified ear, initial encounter"
-13154,DRG07302,S01331A,"Puncture wound without foreign body of right ear, initial encounter"
-13155,DRG07302,S01332A,"Puncture wound without foreign body of left ear, initial encounter"
-13156,DRG07302,S01339A,"Puncture wound without foreign body of unspecified ear, initial encounter"
-13157,DRG07302,S01341A,"Puncture wound with foreign body of right ear, initial encounter"
-13158,DRG07302,S01342A,"Puncture wound with foreign body of left ear, initial encounter"
-13159,DRG07302,S01349A,"Puncture wound with foreign body of unspecified ear, initial encounter"
-13160,DRG07302,S01351A,"Open bite of right ear, initial encounter"
-13161,DRG07302,S01352A,"Open bite of left ear, initial encounter"
-13162,DRG07302,S01359A,"Open bite of unspecified ear, initial encounter"
-13163,DRG07302,S0460XA,"Injury of acoustic nerve, unspecified side, initial encounter"
-13164,DRG07302,S0461XA,"Injury of acoustic nerve, right side, initial encounter"
-13165,DRG07302,S0462XA,"Injury of acoustic nerve, left side, initial encounter"
-13166,DRG07302,S08111A,"Complete traumatic amputation of right ear, initial encounter"
-13167,DRG07302,S08112A,"Complete traumatic amputation of left ear, initial encounter"
-13168,DRG07302,S08119A,"Complete traumatic amputation of unspecified ear, initial encounter"
-13169,DRG07302,S08121A,"Partial traumatic amputation of right ear, initial encounter"
-13170,DRG07302,S08122A,"Partial traumatic amputation of left ear, initial encounter"
-13171,DRG07302,S08129A,"Partial traumatic amputation of unspecified ear, initial encounter"
-13172,DRG07302,S08811A,"Complete traumatic amputation of nose, initial encounter"
-13173,DRG07302,S08812A,"Partial traumatic amputation of nose, initial encounter"
-13174,DRG07302,S0920XA,"Traumatic rupture of unspecified ear drum, initial encounter"
-13175,DRG07302,S0921XA,"Traumatic rupture of right ear drum, initial encounter"
-13176,DRG07302,S0922XA,"Traumatic rupture of left ear drum, initial encounter"
-13177,DRG07302,S09301A,"Unspecified injury of right middle and inner ear, initial encounter"
-13178,DRG07302,S09302A,"Unspecified injury of left middle and inner ear, initial encounter"
-13179,DRG07302,S09309A,"Unspecified injury of unspecified middle and inner ear, initial encounter"
-13180,DRG07302,S09311A,"Primary blast injury of right ear, initial encounter"
-13181,DRG07302,S09312A,"Primary blast injury of left ear, initial encounter"
-13182,DRG07302,S09313A,"Primary blast injury of ear, bilateral, initial encounter"
-13183,DRG07302,S09319A,"Primary blast injury of unspecified ear, initial encounter"
-13184,DRG07302,S09391A,"Other specified injury of right middle and inner ear, initial encounter"
-13185,DRG07302,S09392A,"Other specified injury of left middle and inner ear, initial encounter"
-13186,DRG07302,S09399A,"Other specified injury of unspecified middle and inner ear, initial encounter"
-13187,DRG07302,S0991XA,"Unspecified injury of ear, initial encounter"
-13188,DRG07302,S11011A,"Laceration without foreign body of larynx, initial encounter"
-13189,DRG07302,S11012A,"Laceration with foreign body of larynx, initial encounter"
-13190,DRG07302,S11013A,"Puncture wound without foreign body of larynx, initial encounter"
-13191,DRG07302,S11014A,"Puncture wound with foreign body of larynx, initial encounter"
-13192,DRG07302,S11015A,"Open bite of larynx, initial encounter"
-13193,DRG07302,S11019A,"Unspecified open wound of larynx, initial encounter"
-13194,DRG07302,S11031A,"Laceration without foreign body of vocal cord, initial encounter"
-13195,DRG07302,S11032A,"Laceration with foreign body of vocal cord, initial encounter"
-13196,DRG07302,S11033A,"Puncture wound without foreign body of vocal cord, initial encounter"
-13197,DRG07302,S11034A,"Puncture wound with foreign body of vocal cord, initial encounter"
-13198,DRG07302,S11035A,"Open bite of vocal cord, initial encounter"
-13199,DRG07302,S11039A,"Unspecified open wound of vocal cord, initial encounter"
-13200,DRG07302,S1120XA,"Unspecified open wound of pharynx and cervical esophagus, initial encounter"
-13201,DRG07302,S1121XA,"Laceration without foreign body of pharynx and cervical esophagus, initial encounter"
-13202,DRG07302,S1122XA,"Laceration with foreign body of pharynx and cervical esophagus, initial encounter"
-13203,DRG07302,S1123XA,"Puncture wound without foreign body of pharynx and cervical esophagus, initial encounter"
-13204,DRG07302,S1124XA,"Puncture wound with foreign body of pharynx and cervical esophagus, initial encounter"
-13205,DRG07302,S1125XA,"Open bite of pharynx and cervical esophagus, initial encounter"
-13206,DRG07302,S128XXA,"Fracture of other parts of neck, initial encounter"
-13207,DRG07302,T161XXA,"Foreign body in right ear, initial encounter"
-13208,DRG07302,T162XXA,"Foreign body in left ear, initial encounter"
-13209,DRG07302,T169XXA,"Foreign body in ear, unspecified ear, initial encounter"
-13210,DRG07302,T17200A,"Unspecified foreign body in pharynx causing asphyxiation, initial encounter"
-13211,DRG07302,T17208A,"Unspecified foreign body in pharynx causing other injury, initial encounter"
-13212,DRG07302,T17210A,"Gastric contents in pharynx causing asphyxiation, initial encounter"
-13213,DRG07302,T17218A,"Gastric contents in pharynx causing other injury, initial encounter"
-13214,DRG07302,T17220A,"Food in pharynx causing asphyxiation, initial encounter"
-13215,DRG07302,T17228A,"Food in pharynx causing other injury, initial encounter"
-13216,DRG07302,T17290A,"Other foreign object in pharynx causing asphyxiation, initial encounter"
-13217,DRG07302,T17298A,"Other foreign object in pharynx causing other injury, initial encounter"
-13218,DRG07302,T17300A,"Unspecified foreign body in larynx causing asphyxiation, initial encounter"
-13219,DRG07302,T17308A,"Unspecified foreign body in larynx causing other injury, initial encounter"
-13220,DRG07302,T17310A,"Gastric contents in larynx causing asphyxiation, initial encounter"
-13221,DRG07302,T17318A,"Gastric contents in larynx causing other injury, initial encounter"
-13222,DRG07302,T17320A,"Food in larynx causing asphyxiation, initial encounter"
-13223,DRG07302,T17328A,"Food in larynx causing other injury, initial encounter"
-13224,DRG07302,T17390A,"Other foreign object in larynx causing asphyxiation, initial encounter"
-13225,DRG07302,T17398A,"Other foreign object in larynx causing other injury, initial encounter"
-13226,DRG07302,T280XXA,"Burn of mouth and pharynx, initial encounter"
-13227,DRG07302,T285XXA,"Corrosion of mouth and pharynx, initial encounter"
+DRG,CM-PCS,en
+DRG07302,A186,Tuberculosis of (inner) (middle) ear
+DRG07302,A360,Pharyngeal diphtheria
+DRG07302,A361,Nasopharyngeal diphtheria
+DRG07302,A362,Laryngeal diphtheria
+DRG07302,A665,Gangosa
+DRG07302,B001,Herpesviral vesicular dermatitis
+DRG07302,B3784,Candidal otitis externa
+DRG07302,D104,Benign neoplasm of tonsil
+DRG07302,D105,Benign neoplasm of other parts of oropharynx
+DRG07302,D106,Benign neoplasm of nasopharynx
+DRG07302,D107,Benign neoplasm of hypopharynx
+DRG07302,D109,"Benign neoplasm of pharynx, unspecified"
+DRG07302,D110,Benign neoplasm of parotid gland
+DRG07302,D117,Benign neoplasm of other major salivary glands
+DRG07302,D119,"Benign neoplasm of major salivary gland, unspecified"
+DRG07302,D140,"Benign neoplasm of middle ear, nasal cavity and accessory sinuses"
+DRG07302,D141,Benign neoplasm of larynx
+DRG07302,H6000,"Abscess of external ear, unspecified ear"
+DRG07302,H6001,Abscess of right external ear
+DRG07302,H6002,Abscess of left external ear
+DRG07302,H6003,"Abscess of external ear, bilateral"
+DRG07302,H6010,"Cellulitis of external ear, unspecified ear"
+DRG07302,H6011,Cellulitis of right external ear
+DRG07302,H6012,Cellulitis of left external ear
+DRG07302,H6013,"Cellulitis of external ear, bilateral"
+DRG07302,H6020,"Malignant otitis externa, unspecified ear"
+DRG07302,H6021,"Malignant otitis externa, right ear"
+DRG07302,H6022,"Malignant otitis externa, left ear"
+DRG07302,H6023,"Malignant otitis externa, bilateral"
+DRG07302,H60311,"Diffuse otitis externa, right ear"
+DRG07302,H60312,"Diffuse otitis externa, left ear"
+DRG07302,H60313,"Diffuse otitis externa, bilateral"
+DRG07302,H60319,"Diffuse otitis externa, unspecified ear"
+DRG07302,H60321,"Hemorrhagic otitis externa, right ear"
+DRG07302,H60322,"Hemorrhagic otitis externa, left ear"
+DRG07302,H60323,"Hemorrhagic otitis externa, bilateral"
+DRG07302,H60329,"Hemorrhagic otitis externa, unspecified ear"
+DRG07302,H60331,"Swimmer's ear, right ear"
+DRG07302,H60332,"Swimmer's ear, left ear"
+DRG07302,H60333,"Swimmer's ear, bilateral"
+DRG07302,H60339,"Swimmer's ear, unspecified ear"
+DRG07302,H60391,"Other infective otitis externa, right ear"
+DRG07302,H60392,"Other infective otitis externa, left ear"
+DRG07302,H60393,"Other infective otitis externa, bilateral"
+DRG07302,H60399,"Other infective otitis externa, unspecified ear"
+DRG07302,H6040,"Cholesteatoma of external ear, unspecified ear"
+DRG07302,H6041,Cholesteatoma of right external ear
+DRG07302,H6042,Cholesteatoma of left external ear
+DRG07302,H6043,"Cholesteatoma of external ear, bilateral"
+DRG07302,H60501,"Unspecified acute noninfective otitis externa, right ear"
+DRG07302,H60502,"Unspecified acute noninfective otitis externa, left ear"
+DRG07302,H60503,"Unspecified acute noninfective otitis externa, bilateral"
+DRG07302,H60509,"Unspecified acute noninfective otitis externa, unspecified ear"
+DRG07302,H60511,"Acute actinic otitis externa, right ear"
+DRG07302,H60512,"Acute actinic otitis externa, left ear"
+DRG07302,H60513,"Acute actinic otitis externa, bilateral"
+DRG07302,H60519,"Acute actinic otitis externa, unspecified ear"
+DRG07302,H60521,"Acute chemical otitis externa, right ear"
+DRG07302,H60522,"Acute chemical otitis externa, left ear"
+DRG07302,H60523,"Acute chemical otitis externa, bilateral"
+DRG07302,H60529,"Acute chemical otitis externa, unspecified ear"
+DRG07302,H60531,"Acute contact otitis externa, right ear"
+DRG07302,H60532,"Acute contact otitis externa, left ear"
+DRG07302,H60533,"Acute contact otitis externa, bilateral"
+DRG07302,H60539,"Acute contact otitis externa, unspecified ear"
+DRG07302,H60541,"Acute eczematoid otitis externa, right ear"
+DRG07302,H60542,"Acute eczematoid otitis externa, left ear"
+DRG07302,H60543,"Acute eczematoid otitis externa, bilateral"
+DRG07302,H60549,"Acute eczematoid otitis externa, unspecified ear"
+DRG07302,H60551,"Acute reactive otitis externa, right ear"
+DRG07302,H60552,"Acute reactive otitis externa, left ear"
+DRG07302,H60553,"Acute reactive otitis externa, bilateral"
+DRG07302,H60559,"Acute reactive otitis externa, unspecified ear"
+DRG07302,H60591,"Other noninfective acute otitis externa, right ear"
+DRG07302,H60592,"Other noninfective acute otitis externa, left ear"
+DRG07302,H60593,"Other noninfective acute otitis externa, bilateral"
+DRG07302,H60599,"Other noninfective acute otitis externa, unspecified ear"
+DRG07302,H6060,"Unspecified chronic otitis externa, unspecified ear"
+DRG07302,H6061,"Unspecified chronic otitis externa, right ear"
+DRG07302,H6062,"Unspecified chronic otitis externa, left ear"
+DRG07302,H6063,"Unspecified chronic otitis externa, bilateral"
+DRG07302,H608X1,"Other otitis externa, right ear"
+DRG07302,H608X2,"Other otitis externa, left ear"
+DRG07302,H608X3,"Other otitis externa, bilateral"
+DRG07302,H608X9,"Other otitis externa, unspecified ear"
+DRG07302,H6090,"Unspecified otitis externa, unspecified ear"
+DRG07302,H6091,"Unspecified otitis externa, right ear"
+DRG07302,H6092,"Unspecified otitis externa, left ear"
+DRG07302,H6093,"Unspecified otitis externa, bilateral"
+DRG07302,H61101,"Unspecified noninfective disorders of pinna, right ear"
+DRG07302,H61102,"Unspecified noninfective disorders of pinna, left ear"
+DRG07302,H61103,"Unspecified noninfective disorders of pinna, bilateral"
+DRG07302,H61109,"Unspecified noninfective disorders of pinna, unspecified ear"
+DRG07302,H61111,"Acquired deformity of pinna, right ear"
+DRG07302,H61112,"Acquired deformity of pinna, left ear"
+DRG07302,H61113,"Acquired deformity of pinna, bilateral"
+DRG07302,H61119,"Acquired deformity of pinna, unspecified ear"
+DRG07302,H61121,"Hematoma of pinna, right ear"
+DRG07302,H61122,"Hematoma of pinna, left ear"
+DRG07302,H61123,"Hematoma of pinna, bilateral"
+DRG07302,H61129,"Hematoma of pinna, unspecified ear"
+DRG07302,H61191,"Noninfective disorders of pinna, right ear"
+DRG07302,H61192,"Noninfective disorders of pinna, left ear"
+DRG07302,H61193,"Noninfective disorders of pinna, bilateral"
+DRG07302,H61199,"Noninfective disorders of pinna, unspecified ear"
+DRG07302,H6120,"Impacted cerumen, unspecified ear"
+DRG07302,H6121,"Impacted cerumen, right ear"
+DRG07302,H6122,"Impacted cerumen, left ear"
+DRG07302,H6123,"Impacted cerumen, bilateral"
+DRG07302,H61301,"Acquired stenosis of right external ear canal, unspecified"
+DRG07302,H61302,"Acquired stenosis of left external ear canal, unspecified"
+DRG07302,H61303,"Acquired stenosis of external ear canal, unspecified, bilateral"
+DRG07302,H61309,"Acquired stenosis of external ear canal, unspecified, unspecified ear"
+DRG07302,H61311,Acquired stenosis of right external ear canal secondary to trauma
+DRG07302,H61312,Acquired stenosis of left external ear canal secondary to trauma
+DRG07302,H61313,"Acquired stenosis of external ear canal secondary to trauma, bilateral"
+DRG07302,H61319,"Acquired stenosis of external ear canal secondary to trauma, unspecified ear"
+DRG07302,H61321,Acquired stenosis of right external ear canal secondary to inflammation and infection
+DRG07302,H61322,Acquired stenosis of left external ear canal secondary to inflammation and infection
+DRG07302,H61323,"Acquired stenosis of external ear canal secondary to inflammation and infection, bilateral"
+DRG07302,H61329,"Acquired stenosis of external ear canal secondary to inflammation and infection, unspecified ear"
+DRG07302,H61391,Other acquired stenosis of right external ear canal
+DRG07302,H61392,Other acquired stenosis of left external ear canal
+DRG07302,H61393,"Other acquired stenosis of external ear canal, bilateral"
+DRG07302,H61399,"Other acquired stenosis of external ear canal, unspecified ear"
+DRG07302,H61811,Exostosis of right external canal
+DRG07302,H61812,Exostosis of left external canal
+DRG07302,H61813,"Exostosis of external canal, bilateral"
+DRG07302,H61819,"Exostosis of external canal, unspecified ear"
+DRG07302,H61891,Other specified disorders of right external ear
+DRG07302,H61892,Other specified disorders of left external ear
+DRG07302,H61893,"Other specified disorders of external ear, bilateral"
+DRG07302,H61899,"Other specified disorders of external ear, unspecified ear"
+DRG07302,H6190,"Disorder of external ear, unspecified, unspecified ear"
+DRG07302,H6191,"Disorder of right external ear, unspecified"
+DRG07302,H6192,"Disorder of left external ear, unspecified"
+DRG07302,H6193,"Disorder of external ear, unspecified, bilateral"
+DRG07302,H68101,"Unspecified obstruction of Eustachian tube, right ear"
+DRG07302,H68102,"Unspecified obstruction of Eustachian tube, left ear"
+DRG07302,H68103,"Unspecified obstruction of Eustachian tube, bilateral"
+DRG07302,H68109,"Unspecified obstruction of Eustachian tube, unspecified ear"
+DRG07302,H68111,"Osseous obstruction of Eustachian tube, right ear"
+DRG07302,H68112,"Osseous obstruction of Eustachian tube, left ear"
+DRG07302,H68113,"Osseous obstruction of Eustachian tube, bilateral"
+DRG07302,H68119,"Osseous obstruction of Eustachian tube, unspecified ear"
+DRG07302,H68121,"Intrinsic cartilagenous obstruction of Eustachian tube, right ear"
+DRG07302,H68122,"Intrinsic cartilagenous obstruction of Eustachian tube, left ear"
+DRG07302,H68123,"Intrinsic cartilagenous obstruction of Eustachian tube, bilateral"
+DRG07302,H68129,"Intrinsic cartilagenous obstruction of Eustachian tube, unspecified ear"
+DRG07302,H68131,"Extrinsic cartilagenous obstruction of Eustachian tube, right ear"
+DRG07302,H68132,"Extrinsic cartilagenous obstruction of Eustachian tube, left ear"
+DRG07302,H68133,"Extrinsic cartilagenous obstruction of Eustachian tube, bilateral"
+DRG07302,H68139,"Extrinsic cartilagenous obstruction of Eustachian tube, unspecified ear"
+DRG07302,H6900,"Patulous Eustachian tube, unspecified ear"
+DRG07302,H6901,"Patulous Eustachian tube, right ear"
+DRG07302,H6902,"Patulous Eustachian tube, left ear"
+DRG07302,H6903,"Patulous Eustachian tube, bilateral"
+DRG07302,H6980,"Other specified disorders of Eustachian tube, unspecified ear"
+DRG07302,H6981,"Other specified disorders of Eustachian tube, right ear"
+DRG07302,H6982,"Other specified disorders of Eustachian tube, left ear"
+DRG07302,H6983,"Other specified disorders of Eustachian tube, bilateral"
+DRG07302,H6990,"Unspecified Eustachian tube disorder, unspecified ear"
+DRG07302,H6991,"Unspecified Eustachian tube disorder, right ear"
+DRG07302,H6992,"Unspecified Eustachian tube disorder, left ear"
+DRG07302,H6993,"Unspecified Eustachian tube disorder, bilateral"
+DRG07302,H70811,"Postauricular fistula, right ear"
+DRG07302,H70812,"Postauricular fistula, left ear"
+DRG07302,H70813,"Postauricular fistula, bilateral"
+DRG07302,H70819,"Postauricular fistula, unspecified ear"
+DRG07302,H70891,"Other mastoiditis and related conditions, right ear"
+DRG07302,H70892,"Other mastoiditis and related conditions, left ear"
+DRG07302,H70893,"Other mastoiditis and related conditions, bilateral"
+DRG07302,H70899,"Other mastoiditis and related conditions, unspecified ear"
+DRG07302,H7100,"Cholesteatoma of attic, unspecified ear"
+DRG07302,H7101,"Cholesteatoma of attic, right ear"
+DRG07302,H7102,"Cholesteatoma of attic, left ear"
+DRG07302,H7103,"Cholesteatoma of attic, bilateral"
+DRG07302,H7110,"Cholesteatoma of tympanum, unspecified ear"
+DRG07302,H7111,"Cholesteatoma of tympanum, right ear"
+DRG07302,H7112,"Cholesteatoma of tympanum, left ear"
+DRG07302,H7113,"Cholesteatoma of tympanum, bilateral"
+DRG07302,H7120,"Cholesteatoma of mastoid, unspecified ear"
+DRG07302,H7121,"Cholesteatoma of mastoid, right ear"
+DRG07302,H7122,"Cholesteatoma of mastoid, left ear"
+DRG07302,H7123,"Cholesteatoma of mastoid, bilateral"
+DRG07302,H7130,"Diffuse cholesteatosis, unspecified ear"
+DRG07302,H7131,"Diffuse cholesteatosis, right ear"
+DRG07302,H7132,"Diffuse cholesteatosis, left ear"
+DRG07302,H7133,"Diffuse cholesteatosis, bilateral"
+DRG07302,H7190,"Unspecified cholesteatoma, unspecified ear"
+DRG07302,H7191,"Unspecified cholesteatoma, right ear"
+DRG07302,H7192,"Unspecified cholesteatoma, left ear"
+DRG07302,H7193,"Unspecified cholesteatoma, bilateral"
+DRG07302,H7200,"Central perforation of tympanic membrane, unspecified ear"
+DRG07302,H7201,"Central perforation of tympanic membrane, right ear"
+DRG07302,H7202,"Central perforation of tympanic membrane, left ear"
+DRG07302,H7203,"Central perforation of tympanic membrane, bilateral"
+DRG07302,H7210,"Attic perforation of tympanic membrane, unspecified ear"
+DRG07302,H7211,"Attic perforation of tympanic membrane, right ear"
+DRG07302,H7212,"Attic perforation of tympanic membrane, left ear"
+DRG07302,H7213,"Attic perforation of tympanic membrane, bilateral"
+DRG07302,H722X1,"Other marginal perforations of tympanic membrane, right ear"
+DRG07302,H722X2,"Other marginal perforations of tympanic membrane, left ear"
+DRG07302,H722X3,"Other marginal perforations of+D12793 tympanic membrane, bilateral"
+DRG07302,H722X9,"Other marginal perforations of tympanic membrane, unspecified ear"
+DRG07302,H72811,"Multiple perforations of tympanic membrane, right ear"
+DRG07302,H72812,"Multiple perforations of tympanic membrane, left ear"
+DRG07302,H72813,"Multiple perforations of tympanic membrane, bilateral"
+DRG07302,H72819,"Multiple perforations of tympanic membrane, unspecified ear"
+DRG07302,H72821,"Total perforations of tympanic membrane, right ear"
+DRG07302,H72822,"Total perforations of tympanic membrane, left ear"
+DRG07302,H72823,"Total perforations of tympanic membrane, bilateral"
+DRG07302,H72829,"Total perforations of tympanic membrane, unspecified ear"
+DRG07302,H7290,"Unspecified perforation of tympanic membrane, unspecified ear"
+DRG07302,H7291,"Unspecified perforation of tympanic membrane, right ear"
+DRG07302,H7292,"Unspecified perforation of tympanic membrane, left ear"
+DRG07302,H7293,"Unspecified perforation of tympanic membrane, bilateral"
+DRG07302,H73811,"Atrophic flaccid tympanic membrane, right ear"
+DRG07302,H73812,"Atrophic flaccid tympanic membrane, left ear"
+DRG07302,H73813,"Atrophic flaccid tympanic membrane, bilateral"
+DRG07302,H73819,"Atrophic flaccid tympanic membrane, unspecified ear"
+DRG07302,H73821,"Atrophic nonflaccid tympanic membrane, right ear"
+DRG07302,H73822,"Atrophic nonflaccid tympanic membrane, left ear"
+DRG07302,H73823,"Atrophic nonflaccid tympanic membrane, bilateral"
+DRG07302,H73829,"Atrophic nonflaccid tympanic membrane, unspecified ear"
+DRG07302,H73891,"Other specified disorders of tympanic membrane, right ear"
+DRG07302,H73892,"Other specified disorders of tympanic membrane, left ear"
+DRG07302,H73893,"Other specified disorders of tympanic membrane, bilateral"
+DRG07302,H73899,"Other specified disorders of tympanic membrane, unspecified ear"
+DRG07302,H7390,"Unspecified disorder of tympanic membrane, unspecified ear"
+DRG07302,H7391,"Unspecified disorder of tympanic membrane, right ear"
+DRG07302,H7392,"Unspecified disorder of tympanic membrane, left ear"
+DRG07302,H7393,"Unspecified disorder of tympanic membrane, bilateral"
+DRG07302,H7401,"Tympanosclerosis, right ear"
+DRG07302,H7402,"Tympanosclerosis, left ear"
+DRG07302,H7403,"Tympanosclerosis, bilateral"
+DRG07302,H7409,"Tympanosclerosis, unspecified ear"
+DRG07302,H7411,Adhesive right middle ear disease
+DRG07302,H7412,Adhesive left middle ear disease
+DRG07302,H7413,"Adhesive middle ear disease, bilateral"
+DRG07302,H7419,"Adhesive middle ear disease, unspecified ear"
+DRG07302,H7420,"Discontinuity and dislocation of ear ossicles, unspecified ear"
+DRG07302,H7421,Discontinuity and dislocation of right ear ossicles
+DRG07302,H7422,Discontinuity and dislocation of left ear ossicles
+DRG07302,H7423,"Discontinuity and dislocation of ear ossicles, bilateral"
+DRG07302,H74311,"Ankylosis of ear ossicles, right ear"
+DRG07302,H74312,"Ankylosis of ear ossicles, left ear"
+DRG07302,H74313,"Ankylosis of ear ossicles, bilateral"
+DRG07302,H74319,"Ankylosis of ear ossicles, unspecified ear"
+DRG07302,H74321,"Partial loss of ear ossicles, right ear"
+DRG07302,H74322,"Partial loss of ear ossicles, left ear"
+DRG07302,H74323,"Partial loss of ear ossicles, bilateral"
+DRG07302,H74329,"Partial loss of ear ossicles, unspecified ear"
+DRG07302,H74391,Other acquired abnormalities of right ear ossicles
+DRG07302,H74392,Other acquired abnormalities of left ear ossicles
+DRG07302,H74393,"Other acquired abnormalities of ear ossicles, bilateral"
+DRG07302,H74399,"Other acquired abnormalities of ear ossicles, unspecified ear"
+DRG07302,H7440,"Polyp of middle ear, unspecified ear"
+DRG07302,H7441,Polyp of right middle ear
+DRG07302,H7442,Polyp of left middle ear
+DRG07302,H7443,"Polyp of middle ear, bilateral"
+DRG07302,H748X1,Other specified disorders of right middle ear and mastoid
+DRG07302,H748X2,Other specified disorders of left middle ear and mastoid
+DRG07302,H748X3,"Other specified disorders of middle ear and mastoid, bilateral"
+DRG07302,H748X9,"Other specified disorders of middle ear and mastoid, unspecified ear"
+DRG07302,H7490,"Unspecified disorder of middle ear and mastoid, unspecified ear"
+DRG07302,H7491,Unspecified disorder of right middle ear and mastoid
+DRG07302,H7492,Unspecified disorder of left middle ear and mastoid
+DRG07302,H7493,"Unspecified disorder of middle ear and mastoid, bilateral"
+DRG07302,H8000,"Otosclerosis involving oval window, nonobliterative, unspecified ear"
+DRG07302,H8001,"Otosclerosis involving oval window, nonobliterative, right ear"
+DRG07302,H8002,"Otosclerosis involving oval window, nonobliterative, left ear"
+DRG07302,H8003,"Otosclerosis involving oval window, nonobliterative, bilateral"
+DRG07302,H8010,"Otosclerosis involving oval window, obliterative, unspecified ear"
+DRG07302,H8011,"Otosclerosis involving oval window, obliterative, right ear"
+DRG07302,H8012,"Otosclerosis involving oval window, obliterative, left ear"
+DRG07302,H8013,"Otosclerosis involving oval window, obliterative, bilateral"
+DRG07302,H8020,"Cochlear otosclerosis, unspecified ear"
+DRG07302,H8021,"Cochlear otosclerosis, right ear"
+DRG07302,H8022,"Cochlear otosclerosis, left ear"
+DRG07302,H8023,"Cochlear otosclerosis, bilateral"
+DRG07302,H8080,"Other otosclerosis, unspecified ear"
+DRG07302,H8081,"Other otosclerosis, right ear"
+DRG07302,H8082,"Other otosclerosis, left ear"
+DRG07302,H8083,"Other otosclerosis, bilateral"
+DRG07302,H8090,"Unspecified otosclerosis, unspecified ear"
+DRG07302,H8091,"Unspecified otosclerosis, right ear"
+DRG07302,H8092,"Unspecified otosclerosis, left ear"
+DRG07302,H8093,"Unspecified otosclerosis, bilateral"
+DRG07302,H8311,"Labyrinthine fistula, right ear"
+DRG07302,H8312,"Labyrinthine fistula, left ear"
+DRG07302,H8313,"Labyrinthine fistula, bilateral"
+DRG07302,H8319,"Labyrinthine fistula, unspecified ear"
+DRG07302,H833X1,Noise effects on right inner ear
+DRG07302,H833X2,Noise effects on left inner ear
+DRG07302,H833X3,"Noise effects on inner ear, bilateral"
+DRG07302,H833X9,"Noise effects on inner ear, unspecified ear"
+DRG07302,H900,"Conductive hearing loss, bilateral"
+DRG07302,H9011,"Conductive hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side"
+DRG07302,H9012,"Conductive hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side"
+DRG07302,H902,"Conductive hearing loss, unspecified"
+DRG07302,H903,"Sensorineural hearing loss, bilateral"
+DRG07302,H9041,"Sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side"
+DRG07302,H9042,"Sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side"
+DRG07302,H905,Unspecified sensorineural hearing loss
+DRG07302,H906,"Mixed conductive and sensorineural hearing loss, bilateral"
+DRG07302,H9071,"Mixed conductive and sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side"
+DRG07302,H9072,"Mixed conductive and sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side"
+DRG07302,H908,"Mixed conductive and sensorineural hearing loss, unspecified"
+DRG07302,H9101,"Ototoxic hearing loss, right ear"
+DRG07302,H9102,"Ototoxic hearing loss, left ear"
+DRG07302,H9103,"Ototoxic hearing loss, bilateral"
+DRG07302,H9109,"Ototoxic hearing loss, unspecified ear"
+DRG07302,H9110,"Presbycusis, unspecified ear"
+DRG07302,H9111,"Presbycusis, right ear"
+DRG07302,H9112,"Presbycusis, left ear"
+DRG07302,H9113,"Presbycusis, bilateral"
+DRG07302,H9120,"Sudden idiopathic hearing loss, unspecified ear"
+DRG07302,H9121,"Sudden idiopathic hearing loss, right ear"
+DRG07302,H9122,"Sudden idiopathic hearing loss, left ear"
+DRG07302,H9123,"Sudden idiopathic hearing loss, bilateral"
+DRG07302,H913,"Deaf nonspeaking, not elsewhere classified"
+DRG07302,H918X1,"Other specified hearing loss, right ear"
+DRG07302,H918X2,"Other specified hearing loss, left ear"
+DRG07302,H918X3,"Other specified hearing loss, bilateral"
+DRG07302,H918X9,"Other specified hearing loss, unspecified ear"
+DRG07302,H9190,"Unspecified hearing loss, unspecified ear"
+DRG07302,H9191,"Unspecified hearing loss, right ear"
+DRG07302,H9192,"Unspecified hearing loss, left ear"
+DRG07302,H9193,"Unspecified hearing loss, bilateral"
+DRG07302,H9201,"Otalgia, right ear"
+DRG07302,H9202,"Otalgia, left ear"
+DRG07302,H9203,"Otalgia, bilateral"
+DRG07302,H9209,"Otalgia, unspecified ear"
+DRG07302,H9210,"Otorrhea, unspecified ear"
+DRG07302,H9211,"Otorrhea, right ear"
+DRG07302,H9212,"Otorrhea, left ear"
+DRG07302,H9213,"Otorrhea, bilateral"
+DRG07302,H9220,"Otorrhagia, unspecified ear"
+DRG07302,H9221,"Otorrhagia, right ear"
+DRG07302,H9222,"Otorrhagia, left ear"
+DRG07302,H9223,"Otorrhagia, bilateral"
+DRG07302,H93011,"Transient ischemic deafness, right ear"
+DRG07302,H93012,"Transient ischemic deafness, left ear"
+DRG07302,H93013,"Transient ischemic deafness, bilateral"
+DRG07302,H93019,"Transient ischemic deafness, unspecified ear"
+DRG07302,H93091,Unspecified degenerative and vascular disorders of right ear
+DRG07302,H93092,Unspecified degenerative and vascular disorders of left ear
+DRG07302,H93093,"Unspecified degenerative and vascular disorders of ear, bilateral"
+DRG07302,H93099,Unspecified degenerative and vascular disorders of unspecified ear
+DRG07302,H9311,"Tinnitus, right ear"
+DRG07302,H9312,"Tinnitus, left ear"
+DRG07302,H9313,"Tinnitus, bilateral"
+DRG07302,H9319,"Tinnitus, unspecified ear"
+DRG07302,H93211,"Auditory recruitment, right ear"
+DRG07302,H93212,"Auditory recruitment, left ear"
+DRG07302,H93213,"Auditory recruitment, bilateral"
+DRG07302,H93219,"Auditory recruitment, unspecified ear"
+DRG07302,H93221,"Diplacusis, right ear"
+DRG07302,H93222,"Diplacusis, left ear"
+DRG07302,H93223,"Diplacusis, bilateral"
+DRG07302,H93229,"Diplacusis, unspecified ear"
+DRG07302,H93231,"Hyperacusis, right ear"
+DRG07302,H93232,"Hyperacusis, left ear"
+DRG07302,H93233,"Hyperacusis, bilateral"
+DRG07302,H93239,"Hyperacusis, unspecified ear"
+DRG07302,H93241,"Temporary auditory threshold shift, right ear"
+DRG07302,H93242,"Temporary auditory threshold shift, left ear"
+DRG07302,H93243,"Temporary auditory threshold shift, bilateral"
+DRG07302,H93249,"Temporary auditory threshold shift, unspecified ear"
+DRG07302,H93291,"Other abnormal auditory perceptions, right ear"
+DRG07302,H93292,"Other abnormal auditory perceptions, left ear"
+DRG07302,H93293,"Other abnormal auditory perceptions, bilateral"
+DRG07302,H93299,"Other abnormal auditory perceptions, unspecified ear"
+DRG07302,H933X1,Disorders of right acoustic nerve
+DRG07302,H933X2,Disorders of left acoustic nerve
+DRG07302,H933X3,Disorders of bilateral acoustic nerves
+DRG07302,H933X9,Disorders of unspecified acoustic nerve
+DRG07302,H938X1,Other specified disorders of right ear
+DRG07302,H938X2,Other specified disorders of left ear
+DRG07302,H938X3,"Other specified disorders of ear, bilateral"
+DRG07302,H938X9,"Other specified disorders of ear, unspecified ear"
+DRG07302,H9500,"Recurrent cholesteatoma of postmastoidectomy cavity, unspecified ear"
+DRG07302,H9501,"Recurrent cholesteatoma of postmastoidectomy cavity, right ear"
+DRG07302,H9502,"Recurrent cholesteatoma of postmastoidectomy cavity, left ear"
+DRG07302,H9503,"Recurrent cholesteatoma of postmastoidectomy cavity, bilateral ears"
+DRG07302,H95111,"Chronic inflammation of postmastoidectomy cavity, right ear"
+DRG07302,H95112,"Chronic inflammation of postmastoidectomy cavity, left ear"
+DRG07302,H95113,"Chronic inflammation of postmastoidectomy cavity, bilateral ears"
+DRG07302,H95119,"Chronic inflammation of postmastoidectomy cavity, unspecified ear"
+DRG07302,H95121,"Granulation of postmastoidectomy cavity, right ear"
+DRG07302,H95122,"Granulation of postmastoidectomy cavity, left ear"
+DRG07302,H95123,"Granulation of postmastoidectomy cavity, bilateral ears"
+DRG07302,H95129,"Granulation of postmastoidectomy cavity, unspecified ear"
+DRG07302,H95131,"Mucosal cyst of postmastoidectomy cavity, right ear"
+DRG07302,H95132,"Mucosal cyst of postmastoidectomy cavity, left ear"
+DRG07302,H95133,"Mucosal cyst of postmastoidectomy cavity, bilateral ears"
+DRG07302,H95139,"Mucosal cyst of postmastoidectomy cavity, unspecified ear"
+DRG07302,H95191,"Other disorders following mastoidectomy, right ear"
+DRG07302,H95192,"Other disorders following mastoidectomy, left ear"
+DRG07302,H95193,"Other disorders following mastoidectomy, bilateral ears"
+DRG07302,H95199,"Other disorders following mastoidectomy, unspecified ear"
+DRG07302,J330,Polyp of nasal cavity
+DRG07302,J331,Polypoid sinus degeneration
+DRG07302,J338,Other polyp of sinus
+DRG07302,J339,"Nasal polyp, unspecified"
+DRG07302,J340,"Abscess, furuncle and carbuncle of nose"
+DRG07302,J341,Cyst and mucocele of nose and nasal sinus
+DRG07302,J343,Hypertrophy of nasal turbinates
+DRG07302,J3481,Nasal mucositis (ulcerative)
+DRG07302,J3489,Other specified disorders of nose and nasal sinuses
+DRG07302,J349,Unspecified disorder of nose and nasal sinuses
+DRG07302,J351,Hypertrophy of tonsils
+DRG07302,J352,Hypertrophy of adenoids
+DRG07302,J353,Hypertrophy of tonsils with hypertrophy of adenoids
+DRG07302,J358,Other chronic diseases of tonsils and adenoids
+DRG07302,J359,"Chronic disease of tonsils and adenoids, unspecified"
+DRG07302,J3800,"Paralysis of vocal cords and larynx, unspecified"
+DRG07302,J3801,"Paralysis of vocal cords and larynx, unilateral"
+DRG07302,J3802,"Paralysis of vocal cords and larynx, bilateral"
+DRG07302,J381,Polyp of vocal cord and larynx
+DRG07302,J382,Nodules of vocal cords
+DRG07302,J383,Other diseases of vocal cords
+DRG07302,J384,Edema of larynx
+DRG07302,J385,Laryngeal spasm
+DRG07302,J386,Stenosis of larynx
+DRG07302,J390,Retropharyngeal and parapharyngeal abscess
+DRG07302,J392,Other diseases of pharynx
+DRG07302,K110,Atrophy of salivary gland
+DRG07302,K111,Hypertrophy of salivary gland
+DRG07302,K1120,"Sialoadenitis, unspecified"
+DRG07302,K1121,Acute sialoadenitis
+DRG07302,K1122,Acute recurrent sialoadenitis
+DRG07302,K1123,Chronic sialoadenitis
+DRG07302,K113,Abscess of salivary gland
+DRG07302,K114,Fistula of salivary gland
+DRG07302,K115,Sialolithiasis
+DRG07302,K116,Mucocele of salivary gland
+DRG07302,K117,Disturbances of salivary secretion
+DRG07302,K118,Other diseases of salivary glands
+DRG07302,K119,"Disease of salivary gland, unspecified"
+DRG07302,M9510,"Cauliflower ear, unspecified ear"
+DRG07302,M9511,"Cauliflower ear, right ear"
+DRG07302,M9512,"Cauliflower ear, left ear"
+DRG07302,Q162,Absence of eustachian tube
+DRG07302,Q163,Congenital malformation of ear ossicles
+DRG07302,Q164,Other congenital malformations of middle ear
+DRG07302,Q165,Congenital malformation of inner ear
+DRG07302,Q170,Accessory auricle
+DRG07302,Q173,Other misshapen ear
+DRG07302,Q174,Misplaced ear
+DRG07302,Q175,Prominent ear
+DRG07302,Q179,"Congenital malformation of ear, unspecified"
+DRG07302,Q180,"Sinus, fistula and cyst of branchial cleft"
+DRG07302,Q181,Preauricular sinus and cyst
+DRG07302,Q182,Other branchial cleft malformations
+DRG07302,Q188,Other specified congenital malformations of face and neck
+DRG07302,Q300,Choanal atresia
+DRG07302,Q301,Agenesis and underdevelopment of nose
+DRG07302,Q302,"Fissured, notched and cleft nose"
+DRG07302,Q303,Congenital perforated nasal septum
+DRG07302,Q308,Other congenital malformations of nose
+DRG07302,Q309,"Congenital malformation of nose, unspecified"
+DRG07302,Q310,Web of larynx
+DRG07302,Q311,Congenital subglottic stenosis
+DRG07302,Q312,Laryngeal hypoplasia
+DRG07302,Q313,Laryngocele
+DRG07302,Q315,Congenital laryngomalacia
+DRG07302,Q318,Other congenital malformations of larynx
+DRG07302,Q319,"Congenital malformation of larynx, unspecified"
+DRG07302,Q320,Congenital tracheomalacia
+DRG07302,Q321,Other congenital malformations of trachea
+DRG07302,Q322,Congenital bronchomalacia
+DRG07302,Q323,Congenital stenosis of bronchus
+DRG07302,Q324,Other congenital malformations of bronchus
+DRG07302,Q384,Congenital malformations of salivary glands and ducts
+DRG07302,Q387,Congenital pharyngeal pouch
+DRG07302,Q388,Other congenital malformations of pharynx
+DRG07302,R041,Hemorrhage from throat
+DRG07302,R065,Mouth breathing
+DRG07302,R067,Sneezing
+DRG07302,R070,Pain in throat
+DRG07302,R0981,Nasal congestion
+DRG07302,R196,Halitosis
+DRG07302,R490,Dysphonia
+DRG07302,R491,Aphonia
+DRG07302,R4921,Hypernasality
+DRG07302,R4922,Hyponasality
+DRG07302,R498,Other voice and resonance disorders
+DRG07302,R499,Unspecified voice and resonance disorder
+DRG07302,R682,"Dry mouth, unspecified"
+DRG07302,R94120,Abnormal auditory function study
+DRG07302,R94121,Abnormal vestibular function study
+DRG07302,S0120XA,"Unspecified open wound of nose, initial encounter"
+DRG07302,S0121XA,"Laceration without foreign body of nose, initial encounter"
+DRG07302,S0122XA,"Laceration with foreign body of nose, initial encounter"
+DRG07302,S0123XA,"Puncture wound without foreign body of nose, initial encounter"
+DRG07302,S0124XA,"Puncture wound with foreign body of nose, initial encounter"
+DRG07302,S0125XA,"Open bite of nose, initial encounter"
+DRG07302,S01301A,"Unspecified open wound of right ear, initial encounter"
+DRG07302,S01302A,"Unspecified open wound of left ear, initial encounter"
+DRG07302,S01309A,"Unspecified open wound of unspecified ear, initial encounter"
+DRG07302,S01311A,"Laceration without foreign body of right ear, initial encounter"
+DRG07302,S01312A,"Laceration without foreign body of left ear, initial encounter"
+DRG07302,S01319A,"Laceration without foreign body of unspecified ear, initial encounter"
+DRG07302,S01321A,"Laceration with foreign body of right ear, initial encounter"
+DRG07302,S01322A,"Laceration with foreign body of left ear, initial encounter"
+DRG07302,S01329A,"Laceration with foreign body of unspecified ear, initial encounter"
+DRG07302,S01331A,"Puncture wound without foreign body of right ear, initial encounter"
+DRG07302,S01332A,"Puncture wound without foreign body of left ear, initial encounter"
+DRG07302,S01339A,"Puncture wound without foreign body of unspecified ear, initial encounter"
+DRG07302,S01341A,"Puncture wound with foreign body of right ear, initial encounter"
+DRG07302,S01342A,"Puncture wound with foreign body of left ear, initial encounter"
+DRG07302,S01349A,"Puncture wound with foreign body of unspecified ear, initial encounter"
+DRG07302,S01351A,"Open bite of right ear, initial encounter"
+DRG07302,S01352A,"Open bite of left ear, initial encounter"
+DRG07302,S01359A,"Open bite of unspecified ear, initial encounter"
+DRG07302,S0460XA,"Injury of acoustic nerve, unspecified side, initial encounter"
+DRG07302,S0461XA,"Injury of acoustic nerve, right side, initial encounter"
+DRG07302,S0462XA,"Injury of acoustic nerve, left side, initial encounter"
+DRG07302,S08111A,"Complete traumatic amputation of right ear, initial encounter"
+DRG07302,S08112A,"Complete traumatic amputation of left ear, initial encounter"
+DRG07302,S08119A,"Complete traumatic amputation of unspecified ear, initial encounter"
+DRG07302,S08121A,"Partial traumatic amputation of right ear, initial encounter"
+DRG07302,S08122A,"Partial traumatic amputation of left ear, initial encounter"
+DRG07302,S08129A,"Partial traumatic amputation of unspecified ear, initial encounter"
+DRG07302,S08811A,"Complete traumatic amputation of nose, initial encounter"
+DRG07302,S08812A,"Partial traumatic amputation of nose, initial encounter"
+DRG07302,S0920XA,"Traumatic rupture of unspecified ear drum, initial encounter"
+DRG07302,S0921XA,"Traumatic rupture of right ear drum, initial encounter"
+DRG07302,S0922XA,"Traumatic rupture of left ear drum, initial encounter"
+DRG07302,S09301A,"Unspecified injury of right middle and inner ear, initial encounter"
+DRG07302,S09302A,"Unspecified injury of left middle and inner ear, initial encounter"
+DRG07302,S09309A,"Unspecified injury of unspecified middle and inner ear, initial encounter"
+DRG07302,S09311A,"Primary blast injury of right ear, initial encounter"
+DRG07302,S09312A,"Primary blast injury of left ear, initial encounter"
+DRG07302,S09313A,"Primary blast injury of ear, bilateral, initial encounter"
+DRG07302,S09319A,"Primary blast injury of unspecified ear, initial encounter"
+DRG07302,S09391A,"Other specified injury of right middle and inner ear, initial encounter"
+DRG07302,S09392A,"Other specified injury of left middle and inner ear, initial encounter"
+DRG07302,S09399A,"Other specified injury of unspecified middle and inner ear, initial encounter"
+DRG07302,S0991XA,"Unspecified injury of ear, initial encounter"
+DRG07302,S11011A,"Laceration without foreign body of larynx, initial encounter"
+DRG07302,S11012A,"Laceration with foreign body of larynx, initial encounter"
+DRG07302,S11013A,"Puncture wound without foreign body of larynx, initial encounter"
+DRG07302,S11014A,"Puncture wound with foreign body of larynx, initial encounter"
+DRG07302,S11015A,"Open bite of larynx, initial encounter"
+DRG07302,S11019A,"Unspecified open wound of larynx, initial encounter"
+DRG07302,S11031A,"Laceration without foreign body of vocal cord, initial encounter"
+DRG07302,S11032A,"Laceration with foreign body of vocal cord, initial encounter"
+DRG07302,S11033A,"Puncture wound without foreign body of vocal cord, initial encounter"
+DRG07302,S11034A,"Puncture wound with foreign body of vocal cord, initial encounter"
+DRG07302,S11035A,"Open bite of vocal cord, initial encounter"
+DRG07302,S11039A,"Unspecified open wound of vocal cord, initial encounter"
+DRG07302,S1120XA,"Unspecified open wound of pharynx and cervical esophagus, initial encounter"
+DRG07302,S1121XA,"Laceration without foreign body of pharynx and cervical esophagus, initial encounter"
+DRG07302,S1122XA,"Laceration with foreign body of pharynx and cervical esophagus, initial encounter"
+DRG07302,S1123XA,"Puncture wound without foreign body of pharynx and cervical esophagus, initial encounter"
+DRG07302,S1124XA,"Puncture wound with foreign body of pharynx and cervical esophagus, initial encounter"
+DRG07302,S1125XA,"Open bite of pharynx and cervical esophagus, initial encounter"
+DRG07302,S128XXA,"Fracture of other parts of neck, initial encounter"
+DRG07302,T161XXA,"Foreign body in right ear, initial encounter"
+DRG07302,T162XXA,"Foreign body in left ear, initial encounter"
+DRG07302,T169XXA,"Foreign body in ear, unspecified ear, initial encounter"
+DRG07302,T17200A,"Unspecified foreign body in pharynx causing asphyxiation, initial encounter"
+DRG07302,T17208A,"Unspecified foreign body in pharynx causing other injury, initial encounter"
+DRG07302,T17210A,"Gastric contents in pharynx causing asphyxiation, initial encounter"
+DRG07302,T17218A,"Gastric contents in pharynx causing other injury, initial encounter"
+DRG07302,T17220A,"Food in pharynx causing asphyxiation, initial encounter"
+DRG07302,T17228A,"Food in pharynx causing other injury, initial encounter"
+DRG07302,T17290A,"Other foreign object in pharynx causing asphyxiation, initial encounter"
+DRG07302,T17298A,"Other foreign object in pharynx causing other injury, initial encounter"
+DRG07302,T17300A,"Unspecified foreign body in larynx causing asphyxiation, initial encounter"
+DRG07302,T17308A,"Unspecified foreign body in larynx causing other injury, initial encounter"
+DRG07302,T17310A,"Gastric contents in larynx causing asphyxiation, initial encounter"
+DRG07302,T17318A,"Gastric contents in larynx causing other injury, initial encounter"
+DRG07302,T17320A,"Food in larynx causing asphyxiation, initial encounter"
+DRG07302,T17328A,"Food in larynx causing other injury, initial encounter"
+DRG07302,T17390A,"Other foreign object in larynx causing asphyxiation, initial encounter"
+DRG07302,T17398A,"Other foreign object in larynx causing other injury, initial encounter"
+DRG07302,T280XXA,"Burn of mouth and pharynx, initial encounter"
+DRG07302,T285XXA,"Corrosion of mouth and pharynx, initial encounter"

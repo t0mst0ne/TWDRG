@@ -1,49 +1,49 @@
-,DRG,CM-PCS,en
-9148,DRG17402,K250,Acute gastric ulcer with hemorrhage
-9149,DRG17402,K252,Acute gastric ulcer with both hemorrhage and perforation
-9150,DRG17402,K254,Chronic or unspecified gastric ulcer with hemorrhage
-9151,DRG17402,K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation
-9152,DRG17402,K260,Acute duodenal ulcer with hemorrhage
-9153,DRG17402,K262,Acute duodenal ulcer with both hemorrhage and perforation
-9154,DRG17402,K264,Chronic or unspecified duodenal ulcer with hemorrhage
-9155,DRG17402,K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation
-9156,DRG17402,K270,"Acute peptic ulcer, site unspecified, with hemorrhage"
-9157,DRG17402,K272,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation"
-9158,DRG17402,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
-9159,DRG17402,K276,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation"
-9160,DRG17402,K280,Acute gastrojejunal ulcer with hemorrhage
-9161,DRG17402,K282,Acute gastrojejunal ulcer with both hemorrhage and perforation
-9162,DRG17402,K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage
-9163,DRG17402,K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
-9166,DRG17402,K311,Adult hypertrophic pyloric stenosis
-9167,DRG17402,K315,Obstruction of duodenum
-9170,DRG17402,04L23DZ,"Occlusion of Gastric Artery with Intraluminal Device, Percutaneous Approach"
-9171,DRG17402,06L34CZ,"Occlusion of Esophageal Vein with Extraluminal Device, Percutaneous Endoscopic Approach"
-9172,DRG17402,0D514ZZ,"Destruction of Upper Esophagus, Percutaneous Endoscopic Approach"
-9173,DRG17402,0D518ZZ,"Destruction of Upper Esophagus, Via Natural or Artificial Opening Endoscopic"
-9174,DRG17402,0D524ZZ,"Destruction of Middle Esophagus, Percutaneous Endoscopic Approach"
-9175,DRG17402,0D528ZZ,"Destruction of Middle Esophagus, Via Natural or Artificial Opening Endoscopic"
-9176,DRG17402,0D534ZZ,"Destruction of Lower Esophagus, Percutaneous Endoscopic Approach"
-9177,DRG17402,0D538ZZ,"Destruction of Lower Esophagus, Via Natural or Artificial Opening Endoscopic"
-9178,DRG17402,0D544ZZ,"Destruction of Esophagogastric Junction, Percutaneous Endoscopic Approach"
-9179,DRG17402,0D548ZZ,"Destruction of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
-9180,DRG17402,0D554ZZ,"Destruction of Esophagus, Percutaneous Endoscopic Approach"
-9181,DRG17402,0D558ZZ,"Destruction of Esophagus, Via Natural or Artificial Opening Endoscopic"
-9182,DRG17402,0D564ZZ,"Destruction of Stomach, Percutaneous Endoscopic Approach"
-9183,DRG17402,0D568ZZ,"Destruction of Stomach, Via Natural or Artificial Opening Endoscopic"
-9184,DRG17402,0D574ZZ,"Destruction of Stomach, Pylorus, Percutaneous Endoscopic Approach"
-9185,DRG17402,0D578ZZ,"Destruction of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic"
-9186,DRG17402,0DB14ZZ,"Excision of Upper Esophagus, Percutaneous Endoscopic Approach"
-9187,DRG17402,0DB18ZZ,"Excision of Upper Esophagus, Via Natural or Artificial Opening Endoscopic"
-9188,DRG17402,0DB24ZZ,"Excision of Middle Esophagus, Percutaneous Endoscopic Approach"
-9189,DRG17402,0DB28ZZ,"Excision of Middle Esophagus, Via Natural or Artificial Opening Endoscopic"
-9190,DRG17402,0DB34ZZ,"Excision of Lower Esophagus, Percutaneous Endoscopic Approach"
-9191,DRG17402,0DB38ZZ,"Excision of Lower Esophagus, Via Natural or Artificial Opening Endoscopic"
-9192,DRG17402,0DB48ZZ,"Excision of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
-9193,DRG17402,0DB54ZZ,"Excision of Esophagus, Percutaneous Endoscopic Approach"
-9194,DRG17402,0DB58ZZ,"Excision of Esophagus, Via Natural or Artificial Opening Endoscopic"
-9195,DRG17402,0DB64ZZ,"Excision of Stomach, Percutaneous Endoscopic Approach"
-9196,DRG17402,0DB68ZZ,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic"
-9197,DRG17402,0DB74ZZ,"Excision of Stomach, Pylorus, Percutaneous Endoscopic Approach"
-9198,DRG17402,0DB78ZZ,"Excision of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic"
-9199,DRG17402,0W3P8ZZ,"Control Bleeding in Gastrointestinal Tract, Via Natural or Artificial Opening Endoscopic"
+DRG,CM-PCS,en
+DRG17402,K250,Acute gastric ulcer with hemorrhage
+DRG17402,K252,Acute gastric ulcer with both hemorrhage and perforation
+DRG17402,K254,Chronic or unspecified gastric ulcer with hemorrhage
+DRG17402,K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation
+DRG17402,K260,Acute duodenal ulcer with hemorrhage
+DRG17402,K262,Acute duodenal ulcer with both hemorrhage and perforation
+DRG17402,K264,Chronic or unspecified duodenal ulcer with hemorrhage
+DRG17402,K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation
+DRG17402,K270,"Acute peptic ulcer, site unspecified, with hemorrhage"
+DRG17402,K272,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation"
+DRG17402,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
+DRG17402,K276,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation"
+DRG17402,K280,Acute gastrojejunal ulcer with hemorrhage
+DRG17402,K282,Acute gastrojejunal ulcer with both hemorrhage and perforation
+DRG17402,K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage
+DRG17402,K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
+DRG17402,K311,Adult hypertrophic pyloric stenosis
+DRG17402,K315,Obstruction of duodenum
+DRG17402,04L23DZ,"Occlusion of Gastric Artery with Intraluminal Device, Percutaneous Approach"
+DRG17402,06L34CZ,"Occlusion of Esophageal Vein with Extraluminal Device, Percutaneous Endoscopic Approach"
+DRG17402,0D514ZZ,"Destruction of Upper Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0D518ZZ,"Destruction of Upper Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0D524ZZ,"Destruction of Middle Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0D528ZZ,"Destruction of Middle Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0D534ZZ,"Destruction of Lower Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0D538ZZ,"Destruction of Lower Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0D544ZZ,"Destruction of Esophagogastric Junction, Percutaneous Endoscopic Approach"
+DRG17402,0D548ZZ,"Destruction of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0D554ZZ,"Destruction of Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0D558ZZ,"Destruction of Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0D564ZZ,"Destruction of Stomach, Percutaneous Endoscopic Approach"
+DRG17402,0D568ZZ,"Destruction of Stomach, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0D574ZZ,"Destruction of Stomach, Pylorus, Percutaneous Endoscopic Approach"
+DRG17402,0D578ZZ,"Destruction of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB14ZZ,"Excision of Upper Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0DB18ZZ,"Excision of Upper Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB24ZZ,"Excision of Middle Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0DB28ZZ,"Excision of Middle Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB34ZZ,"Excision of Lower Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0DB38ZZ,"Excision of Lower Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB48ZZ,"Excision of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB54ZZ,"Excision of Esophagus, Percutaneous Endoscopic Approach"
+DRG17402,0DB58ZZ,"Excision of Esophagus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB64ZZ,"Excision of Stomach, Percutaneous Endoscopic Approach"
+DRG17402,0DB68ZZ,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0DB74ZZ,"Excision of Stomach, Pylorus, Percutaneous Endoscopic Approach"
+DRG17402,0DB78ZZ,"Excision of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic"
+DRG17402,0W3P8ZZ,"Control Bleeding in Gastrointestinal Tract, Via Natural or Artificial Opening Endoscopic"

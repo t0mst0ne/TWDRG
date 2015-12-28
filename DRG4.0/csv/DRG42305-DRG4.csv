@@ -1,73 +1,73 @@
-,DRG,CM-PCS,en
-463,DRG42305,A0220,"Localized salmonella infection, unspecified"
-464,DRG42305,A0225,Salmonella pyelonephritis
-465,DRG42305,A0229,Salmonella with other localized infection
-466,DRG42305,A028,Other specified salmonella infections
-467,DRG42305,A029,"Salmonella infection, unspecified"
-468,DRG42305,A280,Pasteurellosis
-469,DRG42305,A282,Extraintestinal yersiniosis
-470,DRG42305,A288,"Other specified zoonotic bacterial diseases, not elsewhere classified"
-471,DRG42305,A289,"Zoonotic bacterial disease, unspecified"
-472,DRG42305,A312,Disseminated mycobacterium avium-intracellulare complex (DMAC)
-473,DRG42305,A318,Other mycobacterial infections
-474,DRG42305,A319,"Mycobacterial infection, unspecified"
-475,DRG42305,A380,Scarlet fever with otitis media
-476,DRG42305,A381,Scarlet fever with myocarditis
-477,DRG42305,A388,Scarlet fever with other complications
-478,DRG42305,A389,"Scarlet fever, uncomplicated"
-479,DRG42305,A480,Gas gangrene
-480,DRG42305,A4901,"Methicillin susceptible Staphylococcus aureus infection, unspecified site"
-481,DRG42305,A4902,"Methicillin resistant Staphylococcus aureus infection, unspecified site"
-482,DRG42305,A491,"Streptococcal infection, unspecified site"
-483,DRG42305,A492,"Hemophilus influenzae infection, unspecified site"
-484,DRG42305,A493,"Mycoplasma infection, unspecified site"
-485,DRG42305,A482,Nonpneumonic Legionnaires' disease [Pontiac fever]
-486,DRG42305,A483,Toxic shock syndrome
-487,DRG42305,A484,Brazilian purpuric fever
-488,DRG42305,A4851,Infant botulism
-489,DRG42305,A488,Other specified bacterial diseases
-490,DRG42305,A498,Other bacterial infections of unspecified site
-491,DRG42305,A499,"Bacterial infection, unspecified"
-494,DRG42305,I501,Left ventricular failure
-495,DRG42305,I5020,Unspecified systolic (congestive) heart failure
-496,DRG42305,I5021,Acute systolic (congestive) heart failure
-497,DRG42305,I5022,Chronic systolic (congestive) heart failure
-498,DRG42305,I5023,Acute on chronic systolic (congestive) heart failure
-499,DRG42305,I5030,Unspecified diastolic (congestive) heart failure
-500,DRG42305,I5031,Acute diastolic (congestive) heart failure
-501,DRG42305,I5032,Chronic diastolic (congestive) heart failure
-502,DRG42305,I5033,Acute on chronic diastolic (congestive) heart failure
-503,DRG42305,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
-504,DRG42305,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
-505,DRG42305,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
-506,DRG42305,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
-507,DRG42305,I509,"Heart failure, unspecified"
-508,DRG42305,I509,"Heart failure, unspecified"
-509,DRG42305,J80,Acute respiratory distress syndrome
-510,DRG42305,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-511,DRG42305,J9601,Acute respiratory failure with hypoxia
-512,DRG42305,J9602,Acute respiratory failure with hypercapnia
-513,DRG42305,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
-514,DRG42305,J9611,Chronic respiratory failure with hypoxia
-515,DRG42305,J9612,Chronic respiratory failure with hypercapnia
-516,DRG42305,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
-517,DRG42305,J9621,Acute and chronic respiratory failure with hypoxia
-518,DRG42305,J9622,Acute and chronic respiratory failure with hypercapnia
-519,DRG42305,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-520,DRG42305,J9691,"Respiratory failure, unspecified with hypoxia"
-521,DRG42305,J9692,"Respiratory failure, unspecified with hypercapnia"
-522,DRG42305,K7210,Chronic hepatic failure without coma
-523,DRG42305,K7211,Chronic hepatic failure with coma
-524,DRG42305,K7290,"Hepatic failure, unspecified without coma"
-525,DRG42305,K7681,Hepatopulmonary syndrome
-526,DRG42305,N170,Acute kidney failure with tubular necrosis
-527,DRG42305,N171,Acute kidney failure with acute cortical necrosis
-528,DRG42305,N172,Acute kidney failure with medullary necrosis
-529,DRG42305,N178,Other acute kidney failure
-530,DRG42305,N179,"Acute kidney failure, unspecified"
-531,DRG42305,N184,"Chronic kidney disease, stage 4 (severe)"
-532,DRG42305,N185,"Chronic kidney disease, stage 5"
-533,DRG42305,N186,End stage renal disease
-534,DRG42305,N189,"Chronic kidney disease, unspecified"
-535,DRG42305,N19,Unspecified kidney failure
-536,DRG42305,R092,Respiratory arrest
+DRG,CM-PCS,en
+DRG42305,A0220,"Localized salmonella infection, unspecified"
+DRG42305,A0225,Salmonella pyelonephritis
+DRG42305,A0229,Salmonella with other localized infection
+DRG42305,A028,Other specified salmonella infections
+DRG42305,A029,"Salmonella infection, unspecified"
+DRG42305,A280,Pasteurellosis
+DRG42305,A282,Extraintestinal yersiniosis
+DRG42305,A288,"Other specified zoonotic bacterial diseases, not elsewhere classified"
+DRG42305,A289,"Zoonotic bacterial disease, unspecified"
+DRG42305,A312,Disseminated mycobacterium avium-intracellulare complex (DMAC)
+DRG42305,A318,Other mycobacterial infections
+DRG42305,A319,"Mycobacterial infection, unspecified"
+DRG42305,A380,Scarlet fever with otitis media
+DRG42305,A381,Scarlet fever with myocarditis
+DRG42305,A388,Scarlet fever with other complications
+DRG42305,A389,"Scarlet fever, uncomplicated"
+DRG42305,A480,Gas gangrene
+DRG42305,A4901,"Methicillin susceptible Staphylococcus aureus infection, unspecified site"
+DRG42305,A4902,"Methicillin resistant Staphylococcus aureus infection, unspecified site"
+DRG42305,A491,"Streptococcal infection, unspecified site"
+DRG42305,A492,"Hemophilus influenzae infection, unspecified site"
+DRG42305,A493,"Mycoplasma infection, unspecified site"
+DRG42305,A482,Nonpneumonic Legionnaires' disease [Pontiac fever]
+DRG42305,A483,Toxic shock syndrome
+DRG42305,A484,Brazilian purpuric fever
+DRG42305,A4851,Infant botulism
+DRG42305,A488,Other specified bacterial diseases
+DRG42305,A498,Other bacterial infections of unspecified site
+DRG42305,A499,"Bacterial infection, unspecified"
+DRG42305,I501,Left ventricular failure
+DRG42305,I5020,Unspecified systolic (congestive) heart failure
+DRG42305,I5021,Acute systolic (congestive) heart failure
+DRG42305,I5022,Chronic systolic (congestive) heart failure
+DRG42305,I5023,Acute on chronic systolic (congestive) heart failure
+DRG42305,I5030,Unspecified diastolic (congestive) heart failure
+DRG42305,I5031,Acute diastolic (congestive) heart failure
+DRG42305,I5032,Chronic diastolic (congestive) heart failure
+DRG42305,I5033,Acute on chronic diastolic (congestive) heart failure
+DRG42305,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+DRG42305,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+DRG42305,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG42305,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG42305,I509,"Heart failure, unspecified"
+DRG42305,I509,"Heart failure, unspecified"
+DRG42305,J80,Acute respiratory distress syndrome
+DRG42305,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG42305,J9601,Acute respiratory failure with hypoxia
+DRG42305,J9602,Acute respiratory failure with hypercapnia
+DRG42305,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG42305,J9611,Chronic respiratory failure with hypoxia
+DRG42305,J9612,Chronic respiratory failure with hypercapnia
+DRG42305,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG42305,J9621,Acute and chronic respiratory failure with hypoxia
+DRG42305,J9622,Acute and chronic respiratory failure with hypercapnia
+DRG42305,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG42305,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG42305,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG42305,K7210,Chronic hepatic failure without coma
+DRG42305,K7211,Chronic hepatic failure with coma
+DRG42305,K7290,"Hepatic failure, unspecified without coma"
+DRG42305,K7681,Hepatopulmonary syndrome
+DRG42305,N170,Acute kidney failure with tubular necrosis
+DRG42305,N171,Acute kidney failure with acute cortical necrosis
+DRG42305,N172,Acute kidney failure with medullary necrosis
+DRG42305,N178,Other acute kidney failure
+DRG42305,N179,"Acute kidney failure, unspecified"
+DRG42305,N184,"Chronic kidney disease, stage 4 (severe)"
+DRG42305,N185,"Chronic kidney disease, stage 5"
+DRG42305,N186,End stage renal disease
+DRG42305,N189,"Chronic kidney disease, unspecified"
+DRG42305,N19,Unspecified kidney failure
+DRG42305,R092,Respiratory arrest

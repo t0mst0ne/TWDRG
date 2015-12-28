@@ -1,256 +1,256 @@
-,DRG,CM-PCS,en
-44064,DRG00452,D7801,Intraoperative hemorrhage and hematoma of the spleen complicating a procedure on the spleen
-44065,DRG00452,D7802,Intraoperative hemorrhage and hematoma of the spleen complicating other procedure
-44066,DRG00452,D7811,Accidental puncture and laceration of the spleen during a procedure on the spleen
-44067,DRG00452,D7812,Accidental puncture and laceration of the spleen during other procedure
-44068,DRG00452,D7821,Postprocedural hemorrhage and hematoma of the spleen following a procedure on the spleen
-44069,DRG00452,D7822,Postprocedural hemorrhage and hematoma of the spleen following other procedure
-44070,DRG00452,D7881,Other intraoperative complications of the spleen
-44071,DRG00452,D7889,Other postprocedural complications of the spleen
-44072,DRG00452,E3601,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating an endocrine system procedure
-44073,DRG00452,E3602,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating other procedure
-44074,DRG00452,E3611,Accidental puncture and laceration of an endocrine system organ or structure during an endocrine system procedure
-44075,DRG00452,E3612,Accidental puncture and laceration of an endocrine system organ or structure during other procedure
-44076,DRG00452,E368,Other intraoperative complications of endocrine system
-44077,DRG00452,E89810,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following an endocrine system procedure
-44078,DRG00452,E89811,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following other procedure
-44079,DRG00452,E8989,Other postprocedural endocrine and metabolic complications and disorders
-44080,DRG00452,G9611,Dural tear
-44081,DRG00452,G9741,Accidental puncture or laceration of dura during a procedure
-44082,DRG00452,G9748,Accidental puncture and laceration of other nervous system organ or structure during a nervous system procedure
-44083,DRG00452,G9749,Accidental puncture and laceration of other nervous system organ or structure during other procedure
-44084,DRG00452,G9751,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following a nervous system procedure
-44085,DRG00452,G9752,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following other procedure
-44086,DRG00452,H59011,"Keratopathy (bullous aphakic) following cataract surgery, right eye"
-44087,DRG00452,H59012,"Keratopathy (bullous aphakic) following cataract surgery, left eye"
-44088,DRG00452,H59013,"Keratopathy (bullous aphakic) following cataract surgery, bilateral"
-44089,DRG00452,H59019,"Keratopathy (bullous aphakic) following cataract surgery, unspecified eye"
-44090,DRG00452,H59031,"Cystoid macular edema following cataract surgery, right eye"
-44091,DRG00452,H59032,"Cystoid macular edema following cataract surgery, left eye"
-44092,DRG00452,H59033,"Cystoid macular edema following cataract surgery, bilateral"
-44093,DRG00452,H59039,"Cystoid macular edema following cataract surgery, unspecified eye"
-44094,DRG00452,H59091,Other disorders of the right eye following cataract surgery
-44095,DRG00452,H59092,Other disorders of the left eye following cataract surgery
-44096,DRG00452,H59093,"Other disorders of the eye following cataract surgery, bilateral"
-44097,DRG00452,H59099,Other disorders of unspecified eye following cataract surgery
-44098,DRG00452,H59111,Intraoperative hemorrhage and hematoma of right eye and adnexa complicating an ophthalmic procedure
-44099,DRG00452,H59112,Intraoperative hemorrhage and hematoma of left eye and adnexa complicating an ophthalmic procedure
-44100,DRG00452,H59113,"Intraoperative hemorrhage and hematoma of eye and adnexa complicating an ophthalmic procedure, bilateral"
-44101,DRG00452,H59119,Intraoperative hemorrhage and hematoma of unspecified eye and adnexa complicating an ophthalmic procedure
-44102,DRG00452,H59121,Intraoperative hemorrhage and hematoma of right eye and adnexa complicating other procedure
-44103,DRG00452,H59122,Intraoperative hemorrhage and hematoma of left eye and adnexa complicating other procedure
-44104,DRG00452,H59123,"Intraoperative hemorrhage and hematoma of eye and adnexa complicating other procedure, bilateral"
-44105,DRG00452,H59129,Intraoperative hemorrhage and hematoma of unspecified eye and adnexa complicating other procedure
-44106,DRG00452,H59211,Accidental puncture and laceration of right eye and adnexa during an ophthalmic procedure
-44107,DRG00452,H59212,Accidental puncture and laceration of left eye and adnexa during an ophthalmic procedure
-44108,DRG00452,H59213,"Accidental puncture and laceration of eye and adnexa during an ophthalmic procedure, bilateral"
-44109,DRG00452,H59219,Accidental puncture and laceration of unspecified eye and adnexa during an ophthalmic procedure
-44110,DRG00452,H59221,Accidental puncture and laceration of right eye and adnexa during other procedure
-44111,DRG00452,H59222,Accidental puncture and laceration of left eye and adnexa during other procedure
-44112,DRG00452,H59223,"Accidental puncture and laceration of eye and adnexa during other procedure, bilateral"
-44113,DRG00452,H59229,Accidental puncture and laceration of unspecified eye and adnexa during other procedure
-44114,DRG00452,H59311,Postprocedural hemorrhage and hematoma of right eye and adnexa following an ophthalmic procedure
-44115,DRG00452,H59312,Postprocedural hemorrhage and hematoma of left eye and adnexa following an ophthalmic procedure
-44116,DRG00452,H59313,"Postprocedural hemorrhage and hematoma of eye and adnexa following an ophthalmic procedure, bilateral"
-44117,DRG00452,H59319,Postprocedural hemorrhage and hematoma of unspecified eye and adnexa following an ophthalmic procedure
-44118,DRG00452,H59321,Postprocedural hemorrhage and hematoma of right eye and adnexa following other procedure
-44119,DRG00452,H59322,Postprocedural hemorrhage and hematoma of left eye and adnexa following other procedure
-44120,DRG00452,H59323,"Postprocedural hemorrhage and hematoma of eye and adnexa following other procedure, bilateral"
-44121,DRG00452,H59329,Postprocedural hemorrhage and hematoma of unspecified eye and adnexa following other procedure
-44122,DRG00452,H59811,"Chorioretinal scars after surgery for detachment, right eye"
-44123,DRG00452,H59812,"Chorioretinal scars after surgery for detachment, left eye"
-44124,DRG00452,H59813,"Chorioretinal scars after surgery for detachment, bilateral"
-44125,DRG00452,H59819,"Chorioretinal scars after surgery for detachment, unspecified eye"
-44126,DRG00452,H5988,"Other intraoperative complications of eye and adnexa, not elsewhere classified"
-44127,DRG00452,H5989,"Other postprocedural complications and disorders of eye and adnexa, not elsewhere classified"
-44128,DRG00452,H9521,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating a procedure on the ear and mastoid process
-44129,DRG00452,H9522,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating other procedure
-44130,DRG00452,H9531,Accidental puncture and laceration of the ear and mastoid process during a procedure on the ear and mastoid process
-44131,DRG00452,H9532,Accidental puncture and laceration of the ear and mastoid process during other procedure
-44132,DRG00452,H9541,Postprocedural hemorrhage and hematoma of ear and mastoid process following a procedure on the ear and mastoid process
-44133,DRG00452,H9542,Postprocedural hemorrhage and hematoma of ear and mastoid process following other procedure
-44134,DRG00452,H95811,Postprocedural stenosis of right external ear canal
-44135,DRG00452,H95812,Postprocedural stenosis of left external ear canal
-44136,DRG00452,H95813,"Postprocedural stenosis of external ear canal, bilateral"
-44137,DRG00452,H95819,Postprocedural stenosis of unspecified external ear canal
-44138,DRG00452,H9588,"Other intraoperative complications and disorders of the ear and mastoid process, not elsewhere classified"
-44139,DRG00452,H9589,"Other postprocedural complications and disorders of the ear and mastoid process, not elsewhere classified"
-44140,DRG00452,I973,Postprocedural hypertension
-44141,DRG00452,I97410,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac catheterization
-44142,DRG00452,I97411,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac bypass
-44143,DRG00452,I97418,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other circulatory system procedure
-44144,DRG00452,I9742,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other procedure
-44145,DRG00452,I9751,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure
-44146,DRG00452,I9752,Accidental puncture and laceration of a circulatory system organ or structure during other procedure
-44147,DRG00452,I97610,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following a cardiac catheterization
-44148,DRG00452,I97611,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following cardiac bypass
-44149,DRG00452,I97618,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following other circulatory system procedure
-44150,DRG00452,I9762,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following other procedure
-44151,DRG00452,J9561,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a respiratory system procedure
-44152,DRG00452,J9562,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure
-44153,DRG00452,J9571,Accidental puncture and laceration of a respiratory system organ or structure during a respiratory system procedure
-44154,DRG00452,J9572,Accidental puncture and laceration of a respiratory system organ or structure during other procedure
-44155,DRG00452,J95830,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following a respiratory system procedure
-44156,DRG00452,J95831,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following other procedure
-44157,DRG00452,K9161,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a digestive sytem procedure
-44158,DRG00452,K9162,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure
-44159,DRG00452,K9171,Accidental puncture and laceration of a digestive system organ or structure during a digestive system procedure
-44160,DRG00452,K9172,Accidental puncture and laceration of a digestive system organ or structure during other procedure
-44161,DRG00452,K91840,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following a digestive system procedure
-44162,DRG00452,K91841,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following other procedure
-44163,DRG00452,L7601,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating a dermatologic procedure
-44164,DRG00452,L7602,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure
-44165,DRG00452,L7611,Accidental puncture and laceration of skin and subcutaneous tissue during a dermatologic procedure
-44166,DRG00452,L7612,Accidental puncture and laceration of skin and subcutaneous tissue during other procedure
-44167,DRG00452,L7621,Postprocedural hemorrhage and hematoma of skin and subcutaneous tissue following a dermatologic procedure
-44168,DRG00452,L7622,Postprocedural hemorrhage and hematoma of skin and subcutaneous tissue following other procedure
-44169,DRG00452,L7681,Other intraoperative complications of skin and subcutaneous tissue
-44170,DRG00452,L7682,Other postprocedural complications of skin and subcutaneous tissue
-44171,DRG00452,M96810,Intraoperative hemorrhage and hematoma of a musculoskeletal structure complicating a musculoskeletal system procedure
-44172,DRG00452,M96811,Intraoperative hemorrhage and hematoma of a musculoskeletal structure complicating other procedure
-44173,DRG00452,M96820,Accidental puncture and laceration of a musculoskeletal structure during a musculoskeletal system procedure
-44174,DRG00452,M96821,Accidental puncture and laceration of a musculoskeletal structure during other procedure
-44175,DRG00452,M96830,Postprocedural hemorrhage and hematoma of a musculoskeletal structure following a musculoskeletal system procedure
-44176,DRG00452,M96831,Postprocedural hemorrhage and hematoma of a musculoskeletal structure following other procedure
-44177,DRG00452,M9689,Other intraoperative and postprocedural complications and disorders of the musculoskeletal system
-44178,DRG00452,N981,Hyperstimulation of ovaries
-44179,DRG00452,N982,Complications of attempted introduction of fertilized ovum following in vitro fertilization
-44180,DRG00452,N983,Complications of attempted introduction of embryo in embryo transfer
-44181,DRG00452,N988,Other complications associated with artificial fertilization
-44182,DRG00452,N989,"Complication associated with artificial fertilization, unspecified"
-44183,DRG00452,N9961,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating a genitourinary system procedure
-44184,DRG00452,N9962,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating other procedure
-44185,DRG00452,N9971,Accidental puncture and laceration of a genitourinary system organ or structure during a genitourinary system procedure
-44186,DRG00452,N9972,Accidental puncture and laceration of a genitourinary system organ or structure during other procedure
-44187,DRG00452,N99820,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following a genitourinary system procedure
-44188,DRG00452,N99821,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following other procedure
-44189,DRG00452,R5082,Postprocedural fever
-44190,DRG00452,R5083,Postvaccination fever
-44191,DRG00452,T80810A,"Extravasation of vesicant antineoplastic chemotherapy, initial encounter"
-44192,DRG00452,T80818A,"Extravasation of other vesicant agent, initial encounter"
-44193,DRG00452,T8090XA,"Unspecified complication following infusion and therapeutic injection, initial encounter"
-44194,DRG00452,T8110XA,"Postprocedural shock unspecified, initial encounter"
-44195,DRG00452,T8111XA,"Postprocedural  cardiogenic shock, initial encounter"
-44196,DRG00452,T8119XA,"Other postprocedural shock, initial encounter"
-44197,DRG00452,T8130XA,"Disruption of wound, unspecified, initial encounter"
-44198,DRG00452,T8131XA,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter"
-44199,DRG00452,T8132XA,"Disruption of internal operation (surgical) wound, not elsewhere classified, initial encounter"
-44200,DRG00452,T8133XA,"Disruption of traumatic injury wound repair, initial encounter"
-44201,DRG00452,T81500A,"Unspecified complication of foreign body accidentally left in body following surgical operation, initial encounter"
-44202,DRG00452,T81501A,"Unspecified complication of foreign body accidentally left in body following infusion or transfusion, initial encounter"
-44203,DRG00452,T81502A,"Unspecified complication of foreign body accidentally left in body following kidney dialysis, initial encounter"
-44204,DRG00452,T81503A,"Unspecified complication of foreign body accidentally left in body following injection or immunization, initial encounter"
-44205,DRG00452,T81504A,"Unspecified complication of foreign body accidentally left in body following endoscopic examination, initial encounter"
-44206,DRG00452,T81505A,"Unspecified complication of foreign body accidentally left in body following heart catheterization, initial encounter"
-44207,DRG00452,T81506A,"Unspecified complication of foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
-44208,DRG00452,T81507A,"Unspecified complication of foreign body accidentally left in body following removal of catheter or packing, initial encounter"
-44209,DRG00452,T81508A,"Unspecified complication of foreign body accidentally left in body following other procedure, initial encounter"
-44210,DRG00452,T81509A,"Unspecified complication of foreign body accidentally left in body following unspecified procedure, initial encounter"
-44211,DRG00452,T81510A,"Adhesions due to foreign body accidentally left in body following surgical operation, initial encounter"
-44212,DRG00452,T81511A,"Adhesions due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
-44213,DRG00452,T81512A,"Adhesions due to foreign body accidentally left in body following kidney dialysis, initial encounter"
-44214,DRG00452,T81513A,"Adhesions due to foreign body accidentally left in body following injection or immunization, initial encounter"
-44215,DRG00452,T81514A,"Adhesions due to foreign body accidentally left in body following endoscopic examination, initial encounter"
-44216,DRG00452,T81515A,"Adhesions due to foreign body accidentally left in body following heart catheterization, initial encounter"
-44217,DRG00452,T81516A,"Adhesions due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
-44218,DRG00452,T81517A,"Adhesions due to foreign body accidentally left in body following removal of catheter or packing, initial encounter"
-44219,DRG00452,T81518A,"Adhesions due to foreign body accidentally left in body following other procedure, initial encounter"
-44220,DRG00452,T81519A,"Adhesions due to foreign body accidentally left in body following unspecified procedure, initial encounter"
-44221,DRG00452,T81520A,"Obstruction due to foreign body accidentally left in body following surgical operation, initial encounter"
-44222,DRG00452,T81521A,"Obstruction due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
-44223,DRG00452,T81522A,"Obstruction due to foreign body accidentally left in body following kidney dialysis, initial encounter"
-44224,DRG00452,T81523A,"Obstruction due to foreign body accidentally left in body following injection or immunization, initial encounter"
-44225,DRG00452,T81524A,"Obstruction due to foreign body accidentally left in body following endoscopic examination, initial encounter"
-44226,DRG00452,T81525A,"Obstruction due to foreign body accidentally left in body following heart catheterization, initial encounter"
-44227,DRG00452,T81526A,"Obstruction due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
-44228,DRG00452,T81527A,"Obstruction due to foreign body accidentally left in body following removal of catheter or packing, initial encounter"
-44229,DRG00452,T81528A,"Obstruction due to foreign body accidentally left in body following other procedure, initial encounter"
-44230,DRG00452,T81529A,"Obstruction due to foreign body accidentally left in body following unspecified procedure, initial encounter"
-44231,DRG00452,T81530A,"Perforation due to foreign body accidentally left in body following surgical operation, initial encounter"
-44232,DRG00452,T81531A,"Perforation due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
-44233,DRG00452,T81532A,"Perforation due to foreign body accidentally left in body following kidney dialysis, initial encounter"
-44234,DRG00452,T81533A,"Perforation due to foreign body accidentally left in body following injection or immunization, initial encounter"
-44235,DRG00452,T81534A,"Perforation due to foreign body accidentally left in body following endoscopic examination, initial encounter"
-44236,DRG00452,T81535A,"Perforation due to foreign body accidentally left in body following heart catheterization, initial encounter"
-44237,DRG00452,T81536A,"Perforation due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
-44238,DRG00452,T81537A,"Perforation due to foreign body accidentally left in body following removal of catheter or packing, initial encounter"
-44239,DRG00452,T81538A,"Perforation due to foreign body accidentally left in body following other procedure, initial encounter"
-44240,DRG00452,T81539A,"Perforation due to foreign body accidentally left in body following unspecified procedure, initial encounter"
-44241,DRG00452,T81590A,"Other complications of foreign body accidentally left in body following surgical operation, initial encounter"
-44242,DRG00452,T81591A,"Other complications of foreign body accidentally left in body following infusion or transfusion, initial encounter"
-44243,DRG00452,T81592A,"Other complications of foreign body accidentally left in body following kidney dialysis, initial encounter"
-44244,DRG00452,T81593A,"Other complications of foreign body accidentally left in body following injection or immunization, initial encounter"
-44245,DRG00452,T81594A,"Other complications of foreign body accidentally left in body following endoscopic examination, initial encounter"
-44246,DRG00452,T81595A,"Other complications of foreign body accidentally left in body following heart catheterization, initial encounter"
-44247,DRG00452,T81596A,"Other complications of foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
-44248,DRG00452,T81597A,"Other complications of foreign body accidentally left in body following removal of catheter or packing, initial encounter"
-44249,DRG00452,T81598A,"Other complications of foreign body accidentally left in body following other procedure, initial encounter"
-44250,DRG00452,T81599A,"Other complications of foreign body accidentally left in body following unspecified procedure, initial encounter"
-44251,DRG00452,T8160XA,"Unspecified acute reaction to foreign substance accidentally left during a procedure, initial encounter"
-44252,DRG00452,T8161XA,"Aseptic peritonitis due to foreign substance accidentally left during a procedure, initial encounter"
-44253,DRG00452,T8169XA,"Other acute reaction to foreign substance accidentally left during a procedure, initial encounter"
-44254,DRG00452,T8181XA,"Complication of inhalation therapy, initial encounter"
-44255,DRG00452,T8182XA,"Emphysema (subcutaneous) resulting from a procedure, initial encounter"
-44256,DRG00452,T8183XA,"Persistent postprocedural fistula, initial encounter"
-44257,DRG00452,T8189XA,"Other complications of procedures, not elsewhere classified, initial encounter"
-44258,DRG00452,T819XXA,"Unspecified complication of procedure, initial encounter"
-44259,DRG00452,T85310A,"Breakdown (mechanical) of prosthetic orbit of right eye, initial encounter"
-44260,DRG00452,T85311A,"Breakdown (mechanical) of prosthetic orbit of left eye, initial encounter"
-44261,DRG00452,T85320A,"Displacement of prosthetic orbit of right eye, initial encounter"
-44262,DRG00452,T85321A,"Displacement of prosthetic orbit of left eye, initial encounter"
-44263,DRG00452,T85390A,"Other mechanical complication of prosthetic orbit of right eye, initial encounter"
-44264,DRG00452,T85391A,"Other mechanical complication of prosthetic orbit of left eye, initial encounter"
-44265,DRG00452,T85510A,"Breakdown (mechanical) of bile duct prosthesis, initial encounter"
-44266,DRG00452,T85511A,"Breakdown (mechanical) of esophageal anti-reflux device, initial encounter"
-44267,DRG00452,T85518A,"Breakdown (mechanical) of other gastrointestinal prosthetic devices, implants and grafts, initial encounter"
-44268,DRG00452,T85520A,"Displacement of bile duct prosthesis, initial encounter"
-44269,DRG00452,T85521A,"Displacement of esophageal anti-reflux device, initial encounter"
-44270,DRG00452,T85528A,"Displacement of other gastrointestinal prosthetic devices, implants and grafts, initial encounter"
-44271,DRG00452,T85590A,"Other mechanical complication of bile duct prosthesis, initial encounter"
-44272,DRG00452,T85591A,"Other mechanical complication of esophageal anti-reflux device, initial encounter"
-44273,DRG00452,T85598A,"Other mechanical complication of other gastrointestinal prosthetic devices, implants and grafts, initial encounter"
-44274,DRG00452,T85610A,"Breakdown (mechanical) of epidural and subdural infusion catheter, initial encounter"
-44275,DRG00452,T85611A,"Breakdown (mechanical) of intraperitoneal dialysis catheter, initial encounter"
-44276,DRG00452,T85612A,"Breakdown (mechanical) of permanent sutures, initial encounter"
-44277,DRG00452,T85613A,"Breakdown (mechanical) of artificial skin graft and decellularized allodermis, initial encounter"
-44278,DRG00452,T85614A,"Breakdown (mechanical) of insulin pump, initial encounter"
-44279,DRG00452,T85618A,"Breakdown (mechanical) of other specified internal prosthetic devices, implants and grafts, initial encounter"
-44280,DRG00452,T85620A,"Displacement of epidural and subdural infusion catheter, initial encounter"
-44281,DRG00452,T85621A,"Displacement of intraperitoneal dialysis catheter, initial encounter"
-44282,DRG00452,T85622A,"Displacement of permanent sutures, initial encounter"
-44283,DRG00452,T85623A,"Displacement of artificial skin graft and decellularized allodermis, initial encounter"
-44284,DRG00452,T85624A,"Displacement of insulin pump, initial encounter"
-44285,DRG00452,T85628A,"Displacement of other specified internal prosthetic devices, implants and grafts, initial encounter"
-44286,DRG00452,T85630A,"Leakage of epidural and subdural infusion catheter, initial encounter"
-44287,DRG00452,T85631A,"Leakage of intraperitoneal dialysis catheter, initial encounter"
-44288,DRG00452,T85633A,"Leakage of insulin pump, initial encounter"
-44289,DRG00452,T85638A,"Leakage of other specified internal prosthetic devices, implants and grafts, initial encounter"
-44290,DRG00452,T85690A,"Other mechanical complication of epidural and subdural infusion catheter, initial encounter"
-44291,DRG00452,T85691A,"Other mechanical complication of intraperitoneal dialysis catheter, initial encounter"
-44292,DRG00452,T85692A,"Other mechanical complication of permanent sutures, initial encounter"
-44293,DRG00452,T85693A,"Other mechanical complication of artificial skin graft and decellularized allodermis, initial encounter"
-44294,DRG00452,T85694A,"Other mechanical complication of insulin pump, initial encounter"
-44295,DRG00452,T85698A,"Other mechanical complication of other specified internal prosthetic devices, implants and grafts, initial encounter"
-44296,DRG00452,T8571XA,"Infection and inflammatory reaction due to peritoneal dialysis catheter, initial encounter"
-44297,DRG00452,T8572XA,"Infection and inflammatory reaction due to insulin pump, initial encounter"
-44298,DRG00452,T8579XA,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts, initial encounter"
-44299,DRG00452,T8581XA,"Embolism due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44300,DRG00452,T8582XA,"Fibrosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44301,DRG00452,T8583XA,"Hemorrhage due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44302,DRG00452,T8584XA,"Pain due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44303,DRG00452,T8585XA,"Stenosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44304,DRG00452,T8586XA,"Thrombosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44305,DRG00452,T8589XA,"Other specified complication of internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
-44306,DRG00452,T859XXA,"Unspecified complication of internal prosthetic device, implant and graft, initial encounter"
-44307,DRG00452,T86820,Skin graft (allograft) rejection
-44308,DRG00452,T86821,Skin graft (allograft) (autograft) failure
-44309,DRG00452,T86822,Skin graft (allograft) (autograft) infection
-44310,DRG00452,T86828,Other complications of skin graft (allograft) (autograft)
-44311,DRG00452,T86829,Unspecified complication of skin graft (allograft) (autograft)
-44312,DRG00452,T86842,Corneal transplant infection
-44313,DRG00452,T86848,Other complications of corneal transplant
-44314,DRG00452,T86849,Unspecified complication of corneal transplant
-44315,DRG00452,T884XXA,"Failed or difficult intubation, initial encounter"
-44316,DRG00452,T887XXA,"Unspecified adverse effect of drug or medicament, initial encounter"
-44317,DRG00452,T888XXA,"Other specified complications of surgical and medical care, not elsewhere classified, initial encounter"
-44318,DRG00452,T889XXA,"Complication of surgical and medical care, unspecified, initial encounter"
+DRG,CM-PCS,en
+DRG00452,D7801,Intraoperative hemorrhage and hematoma of the spleen complicating a procedure on the spleen
+DRG00452,D7802,Intraoperative hemorrhage and hematoma of the spleen complicating other procedure
+DRG00452,D7811,Accidental puncture and laceration of the spleen during a procedure on the spleen
+DRG00452,D7812,Accidental puncture and laceration of the spleen during other procedure
+DRG00452,D7821,Postprocedural hemorrhage and hematoma of the spleen following a procedure on the spleen
+DRG00452,D7822,Postprocedural hemorrhage and hematoma of the spleen following other procedure
+DRG00452,D7881,Other intraoperative complications of the spleen
+DRG00452,D7889,Other postprocedural complications of the spleen
+DRG00452,E3601,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating an endocrine system procedure
+DRG00452,E3602,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating other procedure
+DRG00452,E3611,Accidental puncture and laceration of an endocrine system organ or structure during an endocrine system procedure
+DRG00452,E3612,Accidental puncture and laceration of an endocrine system organ or structure during other procedure
+DRG00452,E368,Other intraoperative complications of endocrine system
+DRG00452,E89810,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following an endocrine system procedure
+DRG00452,E89811,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following other procedure
+DRG00452,E8989,Other postprocedural endocrine and metabolic complications and disorders
+DRG00452,G9611,Dural tear
+DRG00452,G9741,Accidental puncture or laceration of dura during a procedure
+DRG00452,G9748,Accidental puncture and laceration of other nervous system organ or structure during a nervous system procedure
+DRG00452,G9749,Accidental puncture and laceration of other nervous system organ or structure during other procedure
+DRG00452,G9751,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following a nervous system procedure
+DRG00452,G9752,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following other procedure
+DRG00452,H59011,"Keratopathy (bullous aphakic) following cataract surgery, right eye"
+DRG00452,H59012,"Keratopathy (bullous aphakic) following cataract surgery, left eye"
+DRG00452,H59013,"Keratopathy (bullous aphakic) following cataract surgery, bilateral"
+DRG00452,H59019,"Keratopathy (bullous aphakic) following cataract surgery, unspecified eye"
+DRG00452,H59031,"Cystoid macular edema following cataract surgery, right eye"
+DRG00452,H59032,"Cystoid macular edema following cataract surgery, left eye"
+DRG00452,H59033,"Cystoid macular edema following cataract surgery, bilateral"
+DRG00452,H59039,"Cystoid macular edema following cataract surgery, unspecified eye"
+DRG00452,H59091,Other disorders of the right eye following cataract surgery
+DRG00452,H59092,Other disorders of the left eye following cataract surgery
+DRG00452,H59093,"Other disorders of the eye following cataract surgery, bilateral"
+DRG00452,H59099,Other disorders of unspecified eye following cataract surgery
+DRG00452,H59111,Intraoperative hemorrhage and hematoma of right eye and adnexa complicating an ophthalmic procedure
+DRG00452,H59112,Intraoperative hemorrhage and hematoma of left eye and adnexa complicating an ophthalmic procedure
+DRG00452,H59113,"Intraoperative hemorrhage and hematoma of eye and adnexa complicating an ophthalmic procedure, bilateral"
+DRG00452,H59119,Intraoperative hemorrhage and hematoma of unspecified eye and adnexa complicating an ophthalmic procedure
+DRG00452,H59121,Intraoperative hemorrhage and hematoma of right eye and adnexa complicating other procedure
+DRG00452,H59122,Intraoperative hemorrhage and hematoma of left eye and adnexa complicating other procedure
+DRG00452,H59123,"Intraoperative hemorrhage and hematoma of eye and adnexa complicating other procedure, bilateral"
+DRG00452,H59129,Intraoperative hemorrhage and hematoma of unspecified eye and adnexa complicating other procedure
+DRG00452,H59211,Accidental puncture and laceration of right eye and adnexa during an ophthalmic procedure
+DRG00452,H59212,Accidental puncture and laceration of left eye and adnexa during an ophthalmic procedure
+DRG00452,H59213,"Accidental puncture and laceration of eye and adnexa during an ophthalmic procedure, bilateral"
+DRG00452,H59219,Accidental puncture and laceration of unspecified eye and adnexa during an ophthalmic procedure
+DRG00452,H59221,Accidental puncture and laceration of right eye and adnexa during other procedure
+DRG00452,H59222,Accidental puncture and laceration of left eye and adnexa during other procedure
+DRG00452,H59223,"Accidental puncture and laceration of eye and adnexa during other procedure, bilateral"
+DRG00452,H59229,Accidental puncture and laceration of unspecified eye and adnexa during other procedure
+DRG00452,H59311,Postprocedural hemorrhage and hematoma of right eye and adnexa following an ophthalmic procedure
+DRG00452,H59312,Postprocedural hemorrhage and hematoma of left eye and adnexa following an ophthalmic procedure
+DRG00452,H59313,"Postprocedural hemorrhage and hematoma of eye and adnexa following an ophthalmic procedure, bilateral"
+DRG00452,H59319,Postprocedural hemorrhage and hematoma of unspecified eye and adnexa following an ophthalmic procedure
+DRG00452,H59321,Postprocedural hemorrhage and hematoma of right eye and adnexa following other procedure
+DRG00452,H59322,Postprocedural hemorrhage and hematoma of left eye and adnexa following other procedure
+DRG00452,H59323,"Postprocedural hemorrhage and hematoma of eye and adnexa following other procedure, bilateral"
+DRG00452,H59329,Postprocedural hemorrhage and hematoma of unspecified eye and adnexa following other procedure
+DRG00452,H59811,"Chorioretinal scars after surgery for detachment, right eye"
+DRG00452,H59812,"Chorioretinal scars after surgery for detachment, left eye"
+DRG00452,H59813,"Chorioretinal scars after surgery for detachment, bilateral"
+DRG00452,H59819,"Chorioretinal scars after surgery for detachment, unspecified eye"
+DRG00452,H5988,"Other intraoperative complications of eye and adnexa, not elsewhere classified"
+DRG00452,H5989,"Other postprocedural complications and disorders of eye and adnexa, not elsewhere classified"
+DRG00452,H9521,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating a procedure on the ear and mastoid process
+DRG00452,H9522,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating other procedure
+DRG00452,H9531,Accidental puncture and laceration of the ear and mastoid process during a procedure on the ear and mastoid process
+DRG00452,H9532,Accidental puncture and laceration of the ear and mastoid process during other procedure
+DRG00452,H9541,Postprocedural hemorrhage and hematoma of ear and mastoid process following a procedure on the ear and mastoid process
+DRG00452,H9542,Postprocedural hemorrhage and hematoma of ear and mastoid process following other procedure
+DRG00452,H95811,Postprocedural stenosis of right external ear canal
+DRG00452,H95812,Postprocedural stenosis of left external ear canal
+DRG00452,H95813,"Postprocedural stenosis of external ear canal, bilateral"
+DRG00452,H95819,Postprocedural stenosis of unspecified external ear canal
+DRG00452,H9588,"Other intraoperative complications and disorders of the ear and mastoid process, not elsewhere classified"
+DRG00452,H9589,"Other postprocedural complications and disorders of the ear and mastoid process, not elsewhere classified"
+DRG00452,I973,Postprocedural hypertension
+DRG00452,I97410,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac catheterization
+DRG00452,I97411,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac bypass
+DRG00452,I97418,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other circulatory system procedure
+DRG00452,I9742,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other procedure
+DRG00452,I9751,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure
+DRG00452,I9752,Accidental puncture and laceration of a circulatory system organ or structure during other procedure
+DRG00452,I97610,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following a cardiac catheterization
+DRG00452,I97611,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following cardiac bypass
+DRG00452,I97618,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following other circulatory system procedure
+DRG00452,I9762,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following other procedure
+DRG00452,J9561,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a respiratory system procedure
+DRG00452,J9562,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure
+DRG00452,J9571,Accidental puncture and laceration of a respiratory system organ or structure during a respiratory system procedure
+DRG00452,J9572,Accidental puncture and laceration of a respiratory system organ or structure during other procedure
+DRG00452,J95830,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following a respiratory system procedure
+DRG00452,J95831,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following other procedure
+DRG00452,K9161,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a digestive sytem procedure
+DRG00452,K9162,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure
+DRG00452,K9171,Accidental puncture and laceration of a digestive system organ or structure during a digestive system procedure
+DRG00452,K9172,Accidental puncture and laceration of a digestive system organ or structure during other procedure
+DRG00452,K91840,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following a digestive system procedure
+DRG00452,K91841,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following other procedure
+DRG00452,L7601,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating a dermatologic procedure
+DRG00452,L7602,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure
+DRG00452,L7611,Accidental puncture and laceration of skin and subcutaneous tissue during a dermatologic procedure
+DRG00452,L7612,Accidental puncture and laceration of skin and subcutaneous tissue during other procedure
+DRG00452,L7621,Postprocedural hemorrhage and hematoma of skin and subcutaneous tissue following a dermatologic procedure
+DRG00452,L7622,Postprocedural hemorrhage and hematoma of skin and subcutaneous tissue following other procedure
+DRG00452,L7681,Other intraoperative complications of skin and subcutaneous tissue
+DRG00452,L7682,Other postprocedural complications of skin and subcutaneous tissue
+DRG00452,M96810,Intraoperative hemorrhage and hematoma of a musculoskeletal structure complicating a musculoskeletal system procedure
+DRG00452,M96811,Intraoperative hemorrhage and hematoma of a musculoskeletal structure complicating other procedure
+DRG00452,M96820,Accidental puncture and laceration of a musculoskeletal structure during a musculoskeletal system procedure
+DRG00452,M96821,Accidental puncture and laceration of a musculoskeletal structure during other procedure
+DRG00452,M96830,Postprocedural hemorrhage and hematoma of a musculoskeletal structure following a musculoskeletal system procedure
+DRG00452,M96831,Postprocedural hemorrhage and hematoma of a musculoskeletal structure following other procedure
+DRG00452,M9689,Other intraoperative and postprocedural complications and disorders of the musculoskeletal system
+DRG00452,N981,Hyperstimulation of ovaries
+DRG00452,N982,Complications of attempted introduction of fertilized ovum following in vitro fertilization
+DRG00452,N983,Complications of attempted introduction of embryo in embryo transfer
+DRG00452,N988,Other complications associated with artificial fertilization
+DRG00452,N989,"Complication associated with artificial fertilization, unspecified"
+DRG00452,N9961,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating a genitourinary system procedure
+DRG00452,N9962,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating other procedure
+DRG00452,N9971,Accidental puncture and laceration of a genitourinary system organ or structure during a genitourinary system procedure
+DRG00452,N9972,Accidental puncture and laceration of a genitourinary system organ or structure during other procedure
+DRG00452,N99820,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following a genitourinary system procedure
+DRG00452,N99821,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following other procedure
+DRG00452,R5082,Postprocedural fever
+DRG00452,R5083,Postvaccination fever
+DRG00452,T80810A,"Extravasation of vesicant antineoplastic chemotherapy, initial encounter"
+DRG00452,T80818A,"Extravasation of other vesicant agent, initial encounter"
+DRG00452,T8090XA,"Unspecified complication following infusion and therapeutic injection, initial encounter"
+DRG00452,T8110XA,"Postprocedural shock unspecified, initial encounter"
+DRG00452,T8111XA,"Postprocedural  cardiogenic shock, initial encounter"
+DRG00452,T8119XA,"Other postprocedural shock, initial encounter"
+DRG00452,T8130XA,"Disruption of wound, unspecified, initial encounter"
+DRG00452,T8131XA,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter"
+DRG00452,T8132XA,"Disruption of internal operation (surgical) wound, not elsewhere classified, initial encounter"
+DRG00452,T8133XA,"Disruption of traumatic injury wound repair, initial encounter"
+DRG00452,T81500A,"Unspecified complication of foreign body accidentally left in body following surgical operation, initial encounter"
+DRG00452,T81501A,"Unspecified complication of foreign body accidentally left in body following infusion or transfusion, initial encounter"
+DRG00452,T81502A,"Unspecified complication of foreign body accidentally left in body following kidney dialysis, initial encounter"
+DRG00452,T81503A,"Unspecified complication of foreign body accidentally left in body following injection or immunization, initial encounter"
+DRG00452,T81504A,"Unspecified complication of foreign body accidentally left in body following endoscopic examination, initial encounter"
+DRG00452,T81505A,"Unspecified complication of foreign body accidentally left in body following heart catheterization, initial encounter"
+DRG00452,T81506A,"Unspecified complication of foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
+DRG00452,T81507A,"Unspecified complication of foreign body accidentally left in body following removal of catheter or packing, initial encounter"
+DRG00452,T81508A,"Unspecified complication of foreign body accidentally left in body following other procedure, initial encounter"
+DRG00452,T81509A,"Unspecified complication of foreign body accidentally left in body following unspecified procedure, initial encounter"
+DRG00452,T81510A,"Adhesions due to foreign body accidentally left in body following surgical operation, initial encounter"
+DRG00452,T81511A,"Adhesions due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
+DRG00452,T81512A,"Adhesions due to foreign body accidentally left in body following kidney dialysis, initial encounter"
+DRG00452,T81513A,"Adhesions due to foreign body accidentally left in body following injection or immunization, initial encounter"
+DRG00452,T81514A,"Adhesions due to foreign body accidentally left in body following endoscopic examination, initial encounter"
+DRG00452,T81515A,"Adhesions due to foreign body accidentally left in body following heart catheterization, initial encounter"
+DRG00452,T81516A,"Adhesions due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
+DRG00452,T81517A,"Adhesions due to foreign body accidentally left in body following removal of catheter or packing, initial encounter"
+DRG00452,T81518A,"Adhesions due to foreign body accidentally left in body following other procedure, initial encounter"
+DRG00452,T81519A,"Adhesions due to foreign body accidentally left in body following unspecified procedure, initial encounter"
+DRG00452,T81520A,"Obstruction due to foreign body accidentally left in body following surgical operation, initial encounter"
+DRG00452,T81521A,"Obstruction due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
+DRG00452,T81522A,"Obstruction due to foreign body accidentally left in body following kidney dialysis, initial encounter"
+DRG00452,T81523A,"Obstruction due to foreign body accidentally left in body following injection or immunization, initial encounter"
+DRG00452,T81524A,"Obstruction due to foreign body accidentally left in body following endoscopic examination, initial encounter"
+DRG00452,T81525A,"Obstruction due to foreign body accidentally left in body following heart catheterization, initial encounter"
+DRG00452,T81526A,"Obstruction due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
+DRG00452,T81527A,"Obstruction due to foreign body accidentally left in body following removal of catheter or packing, initial encounter"
+DRG00452,T81528A,"Obstruction due to foreign body accidentally left in body following other procedure, initial encounter"
+DRG00452,T81529A,"Obstruction due to foreign body accidentally left in body following unspecified procedure, initial encounter"
+DRG00452,T81530A,"Perforation due to foreign body accidentally left in body following surgical operation, initial encounter"
+DRG00452,T81531A,"Perforation due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
+DRG00452,T81532A,"Perforation due to foreign body accidentally left in body following kidney dialysis, initial encounter"
+DRG00452,T81533A,"Perforation due to foreign body accidentally left in body following injection or immunization, initial encounter"
+DRG00452,T81534A,"Perforation due to foreign body accidentally left in body following endoscopic examination, initial encounter"
+DRG00452,T81535A,"Perforation due to foreign body accidentally left in body following heart catheterization, initial encounter"
+DRG00452,T81536A,"Perforation due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
+DRG00452,T81537A,"Perforation due to foreign body accidentally left in body following removal of catheter or packing, initial encounter"
+DRG00452,T81538A,"Perforation due to foreign body accidentally left in body following other procedure, initial encounter"
+DRG00452,T81539A,"Perforation due to foreign body accidentally left in body following unspecified procedure, initial encounter"
+DRG00452,T81590A,"Other complications of foreign body accidentally left in body following surgical operation, initial encounter"
+DRG00452,T81591A,"Other complications of foreign body accidentally left in body following infusion or transfusion, initial encounter"
+DRG00452,T81592A,"Other complications of foreign body accidentally left in body following kidney dialysis, initial encounter"
+DRG00452,T81593A,"Other complications of foreign body accidentally left in body following injection or immunization, initial encounter"
+DRG00452,T81594A,"Other complications of foreign body accidentally left in body following endoscopic examination, initial encounter"
+DRG00452,T81595A,"Other complications of foreign body accidentally left in body following heart catheterization, initial encounter"
+DRG00452,T81596A,"Other complications of foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter"
+DRG00452,T81597A,"Other complications of foreign body accidentally left in body following removal of catheter or packing, initial encounter"
+DRG00452,T81598A,"Other complications of foreign body accidentally left in body following other procedure, initial encounter"
+DRG00452,T81599A,"Other complications of foreign body accidentally left in body following unspecified procedure, initial encounter"
+DRG00452,T8160XA,"Unspecified acute reaction to foreign substance accidentally left during a procedure, initial encounter"
+DRG00452,T8161XA,"Aseptic peritonitis due to foreign substance accidentally left during a procedure, initial encounter"
+DRG00452,T8169XA,"Other acute reaction to foreign substance accidentally left during a procedure, initial encounter"
+DRG00452,T8181XA,"Complication of inhalation therapy, initial encounter"
+DRG00452,T8182XA,"Emphysema (subcutaneous) resulting from a procedure, initial encounter"
+DRG00452,T8183XA,"Persistent postprocedural fistula, initial encounter"
+DRG00452,T8189XA,"Other complications of procedures, not elsewhere classified, initial encounter"
+DRG00452,T819XXA,"Unspecified complication of procedure, initial encounter"
+DRG00452,T85310A,"Breakdown (mechanical) of prosthetic orbit of right eye, initial encounter"
+DRG00452,T85311A,"Breakdown (mechanical) of prosthetic orbit of left eye, initial encounter"
+DRG00452,T85320A,"Displacement of prosthetic orbit of right eye, initial encounter"
+DRG00452,T85321A,"Displacement of prosthetic orbit of left eye, initial encounter"
+DRG00452,T85390A,"Other mechanical complication of prosthetic orbit of right eye, initial encounter"
+DRG00452,T85391A,"Other mechanical complication of prosthetic orbit of left eye, initial encounter"
+DRG00452,T85510A,"Breakdown (mechanical) of bile duct prosthesis, initial encounter"
+DRG00452,T85511A,"Breakdown (mechanical) of esophageal anti-reflux device, initial encounter"
+DRG00452,T85518A,"Breakdown (mechanical) of other gastrointestinal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T85520A,"Displacement of bile duct prosthesis, initial encounter"
+DRG00452,T85521A,"Displacement of esophageal anti-reflux device, initial encounter"
+DRG00452,T85528A,"Displacement of other gastrointestinal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T85590A,"Other mechanical complication of bile duct prosthesis, initial encounter"
+DRG00452,T85591A,"Other mechanical complication of esophageal anti-reflux device, initial encounter"
+DRG00452,T85598A,"Other mechanical complication of other gastrointestinal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T85610A,"Breakdown (mechanical) of epidural and subdural infusion catheter, initial encounter"
+DRG00452,T85611A,"Breakdown (mechanical) of intraperitoneal dialysis catheter, initial encounter"
+DRG00452,T85612A,"Breakdown (mechanical) of permanent sutures, initial encounter"
+DRG00452,T85613A,"Breakdown (mechanical) of artificial skin graft and decellularized allodermis, initial encounter"
+DRG00452,T85614A,"Breakdown (mechanical) of insulin pump, initial encounter"
+DRG00452,T85618A,"Breakdown (mechanical) of other specified internal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T85620A,"Displacement of epidural and subdural infusion catheter, initial encounter"
+DRG00452,T85621A,"Displacement of intraperitoneal dialysis catheter, initial encounter"
+DRG00452,T85622A,"Displacement of permanent sutures, initial encounter"
+DRG00452,T85623A,"Displacement of artificial skin graft and decellularized allodermis, initial encounter"
+DRG00452,T85624A,"Displacement of insulin pump, initial encounter"
+DRG00452,T85628A,"Displacement of other specified internal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T85630A,"Leakage of epidural and subdural infusion catheter, initial encounter"
+DRG00452,T85631A,"Leakage of intraperitoneal dialysis catheter, initial encounter"
+DRG00452,T85633A,"Leakage of insulin pump, initial encounter"
+DRG00452,T85638A,"Leakage of other specified internal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T85690A,"Other mechanical complication of epidural and subdural infusion catheter, initial encounter"
+DRG00452,T85691A,"Other mechanical complication of intraperitoneal dialysis catheter, initial encounter"
+DRG00452,T85692A,"Other mechanical complication of permanent sutures, initial encounter"
+DRG00452,T85693A,"Other mechanical complication of artificial skin graft and decellularized allodermis, initial encounter"
+DRG00452,T85694A,"Other mechanical complication of insulin pump, initial encounter"
+DRG00452,T85698A,"Other mechanical complication of other specified internal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T8571XA,"Infection and inflammatory reaction due to peritoneal dialysis catheter, initial encounter"
+DRG00452,T8572XA,"Infection and inflammatory reaction due to insulin pump, initial encounter"
+DRG00452,T8579XA,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts, initial encounter"
+DRG00452,T8581XA,"Embolism due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T8582XA,"Fibrosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T8583XA,"Hemorrhage due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T8584XA,"Pain due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T8585XA,"Stenosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T8586XA,"Thrombosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T8589XA,"Other specified complication of internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+DRG00452,T859XXA,"Unspecified complication of internal prosthetic device, implant and graft, initial encounter"
+DRG00452,T86820,Skin graft (allograft) rejection
+DRG00452,T86821,Skin graft (allograft) (autograft) failure
+DRG00452,T86822,Skin graft (allograft) (autograft) infection
+DRG00452,T86828,Other complications of skin graft (allograft) (autograft)
+DRG00452,T86829,Unspecified complication of skin graft (allograft) (autograft)
+DRG00452,T86842,Corneal transplant infection
+DRG00452,T86848,Other complications of corneal transplant
+DRG00452,T86849,Unspecified complication of corneal transplant
+DRG00452,T884XXA,"Failed or difficult intubation, initial encounter"
+DRG00452,T887XXA,"Unspecified adverse effect of drug or medicament, initial encounter"
+DRG00452,T888XXA,"Other specified complications of surgical and medical care, not elsewhere classified, initial encounter"
+DRG00452,T889XXA,"Complication of surgical and medical care, unspecified, initial encounter"

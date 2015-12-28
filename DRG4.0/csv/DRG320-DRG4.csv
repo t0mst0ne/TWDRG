@@ -1,42 +1,42 @@
-,DRG,CM-PCS,en
-10924,DRG00320,A1810,"Tuberculosis of genitourinary system, unspecified"
-10925,DRG00320,A1811,Tuberculosis of kidney and ureter
-10926,DRG00320,A1812,Tuberculosis of bladder
-10927,DRG00320,A1813,Tuberculosis of other urinary organs
-10928,DRG00320,A3685,Diphtheritic cystitis
-10929,DRG00320,A5275,Syphilis of kidney and ureter
-10930,DRG00320,A5401,"Gonococcal cystitis and urethritis, unspecified"
-10931,DRG00320,A5611,Chlamydial female pelvic inflammatory disease
-10932,DRG00320,A5619,Other chlamydial genitourinary infection
-10933,DRG00320,A985,Hemorrhagic fever with renal syndrome
-10934,DRG00320,B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis]
-10935,DRG00320,B901,Sequelae of genitourinary tuberculosis
-10936,DRG00320,N10,Acute tubulo-interstitial nephritis
-10937,DRG00320,N110,Nonobstructive reflux-associated chronic pyelonephritis
-10938,DRG00320,N111,Chronic obstructive pyelonephritis
-10939,DRG00320,N118,Other chronic tubulo-interstitial nephritis
-10940,DRG00320,N119,"Chronic tubulo-interstitial nephritis, unspecified"
-10941,DRG00320,N12,"Tubulo-interstitial nephritis, not specified as acute or chronic"
-10942,DRG00320,N135,Crossing vessel and stricture of ureter without hydronephrosis
-10943,DRG00320,N136,Pyonephrosis
-10944,DRG00320,N151,Renal and perinephric abscess
-10945,DRG00320,N159,"Renal tubulo-interstitial disease, unspecified"
-10946,DRG00320,N2884,Pyelitis cystica
-10947,DRG00320,N2885,Pyeloureteritis cystica
-10948,DRG00320,N2886,Ureteritis cystica
-10949,DRG00320,N3000,Acute cystitis without hematuria
-10950,DRG00320,N3001,Acute cystitis with hematuria
-10951,DRG00320,N3010,Interstitial cystitis (chronic) without hematuria
-10952,DRG00320,N3011,Interstitial cystitis (chronic) with hematuria
-10953,DRG00320,N3020,Other chronic cystitis without hematuria
-10954,DRG00320,N3021,Other chronic cystitis with hematuria
-10955,DRG00320,N3030,Trigonitis without hematuria
-10956,DRG00320,N3031,Trigonitis with hematuria
-10957,DRG00320,N3080,Other cystitis without hematuria
-10958,DRG00320,N3081,Other cystitis with hematuria
-10959,DRG00320,N3090,"Cystitis, unspecified without hematuria"
-10960,DRG00320,N3091,"Cystitis, unspecified with hematuria"
-10961,DRG00320,N340,Urethral abscess
-10962,DRG00320,N342,Other urethritis
-10963,DRG00320,N343,"Urethral syndrome, unspecified"
-10964,DRG00320,N390,"Urinary tract infection, site not specified"
+DRG,CM-PCS,en
+DRG00320,A1810,"Tuberculosis of genitourinary system, unspecified"
+DRG00320,A1811,Tuberculosis of kidney and ureter
+DRG00320,A1812,Tuberculosis of bladder
+DRG00320,A1813,Tuberculosis of other urinary organs
+DRG00320,A3685,Diphtheritic cystitis
+DRG00320,A5275,Syphilis of kidney and ureter
+DRG00320,A5401,"Gonococcal cystitis and urethritis, unspecified"
+DRG00320,A5611,Chlamydial female pelvic inflammatory disease
+DRG00320,A5619,Other chlamydial genitourinary infection
+DRG00320,A985,Hemorrhagic fever with renal syndrome
+DRG00320,B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis]
+DRG00320,B901,Sequelae of genitourinary tuberculosis
+DRG00320,N10,Acute tubulo-interstitial nephritis
+DRG00320,N110,Nonobstructive reflux-associated chronic pyelonephritis
+DRG00320,N111,Chronic obstructive pyelonephritis
+DRG00320,N118,Other chronic tubulo-interstitial nephritis
+DRG00320,N119,"Chronic tubulo-interstitial nephritis, unspecified"
+DRG00320,N12,"Tubulo-interstitial nephritis, not specified as acute or chronic"
+DRG00320,N135,Crossing vessel and stricture of ureter without hydronephrosis
+DRG00320,N136,Pyonephrosis
+DRG00320,N151,Renal and perinephric abscess
+DRG00320,N159,"Renal tubulo-interstitial disease, unspecified"
+DRG00320,N2884,Pyelitis cystica
+DRG00320,N2885,Pyeloureteritis cystica
+DRG00320,N2886,Ureteritis cystica
+DRG00320,N3000,Acute cystitis without hematuria
+DRG00320,N3001,Acute cystitis with hematuria
+DRG00320,N3010,Interstitial cystitis (chronic) without hematuria
+DRG00320,N3011,Interstitial cystitis (chronic) with hematuria
+DRG00320,N3020,Other chronic cystitis without hematuria
+DRG00320,N3021,Other chronic cystitis with hematuria
+DRG00320,N3030,Trigonitis without hematuria
+DRG00320,N3031,Trigonitis with hematuria
+DRG00320,N3080,Other cystitis without hematuria
+DRG00320,N3081,Other cystitis with hematuria
+DRG00320,N3090,"Cystitis, unspecified without hematuria"
+DRG00320,N3091,"Cystitis, unspecified with hematuria"
+DRG00320,N340,Urethral abscess
+DRG00320,N342,Other urethritis
+DRG00320,N343,"Urethral syndrome, unspecified"
+DRG00320,N390,"Urinary tract infection, site not specified"

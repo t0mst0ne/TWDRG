@@ -1,25 +1,25 @@
-,DRG,CM-PCS,en
-2252,DRG39910,D730,Hyposplenism
-2253,DRG39910,D731,Hypersplenism
-2254,DRG39910,D732,Chronic congestive splenomegaly
-2255,DRG39910,D733,Abscess of spleen
-2256,DRG39910,D734,Cyst of spleen
-2257,DRG39910,D735,Infarction of spleen
-2258,DRG39910,D7389,Other diseases of spleen
-2259,DRG39910,D739,"Disease of spleen, unspecified"
-2260,DRG39910,D750,Familial erythrocytosis
-2261,DRG39910,D759,"Disease of blood and blood-forming organs, unspecified"
-2262,DRG39910,I898,Other specified noninfective disorders of lymphatic vessels and lymph nodes
-2263,DRG39910,I899,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"
-2264,DRG39910,Q8901,Asplenia (congenital)
-2265,DRG39910,Q8909,Congenital malformations of spleen
-2266,DRG39910,R161,"Splenomegaly, not elsewhere classified"
-2267,DRG39910,S3600XA,"Unspecified injury of spleen, initial encounter"
-2268,DRG39910,S36020A,"Minor contusion of spleen, initial encounter"
-2269,DRG39910,S36021A,"Major contusion of spleen, initial encounter"
-2270,DRG39910,S36029A,"Unspecified contusion of spleen, initial encounter"
-2271,DRG39910,S36030A,"Superficial (capsular) laceration of spleen, initial encounter"
-2272,DRG39910,S36031A,"Moderate laceration of spleen, initial encounter"
-2273,DRG39910,S36032A,"Major laceration of spleen, initial encounter"
-2274,DRG39910,S36039A,"Unspecified laceration of spleen, initial encounter"
-2275,DRG39910,S3609XA,"Other injury of spleen, initial encounter"
+DRG,CM-PCS,en
+DRG39910,D730,Hyposplenism
+DRG39910,D731,Hypersplenism
+DRG39910,D732,Chronic congestive splenomegaly
+DRG39910,D733,Abscess of spleen
+DRG39910,D734,Cyst of spleen
+DRG39910,D735,Infarction of spleen
+DRG39910,D7389,Other diseases of spleen
+DRG39910,D739,"Disease of spleen, unspecified"
+DRG39910,D750,Familial erythrocytosis
+DRG39910,D759,"Disease of blood and blood-forming organs, unspecified"
+DRG39910,I898,Other specified noninfective disorders of lymphatic vessels and lymph nodes
+DRG39910,I899,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"
+DRG39910,Q8901,Asplenia (congenital)
+DRG39910,Q8909,Congenital malformations of spleen
+DRG39910,R161,"Splenomegaly, not elsewhere classified"
+DRG39910,S3600XA,"Unspecified injury of spleen, initial encounter"
+DRG39910,S36020A,"Minor contusion of spleen, initial encounter"
+DRG39910,S36021A,"Major contusion of spleen, initial encounter"
+DRG39910,S36029A,"Unspecified contusion of spleen, initial encounter"
+DRG39910,S36030A,"Superficial (capsular) laceration of spleen, initial encounter"
+DRG39910,S36031A,"Moderate laceration of spleen, initial encounter"
+DRG39910,S36032A,"Major laceration of spleen, initial encounter"
+DRG39910,S36039A,"Unspecified laceration of spleen, initial encounter"
+DRG39910,S3609XA,"Other injury of spleen, initial encounter"

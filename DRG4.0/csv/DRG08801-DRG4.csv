@@ -1,19 +1,19 @@
-,DRG,CM-PCS,en
-6237,DRG08801,J411,Mucopurulent chronic bronchitis
-6238,DRG08801,J418,Mixed simple and mucopurulent chronic bronchitis
-6239,DRG08801,J42,Unspecified chronic bronchitis
-6240,DRG08801,J430,Unilateral pulmonary emphysema [MacLeod's syndrome]
-6241,DRG08801,J431,Panlobular emphysema
-6242,DRG08801,J432,Centrilobular emphysema
-6243,DRG08801,J438,Other emphysema
-6244,DRG08801,J439,"Emphysema, unspecified"
-6245,DRG08801,J440,Chronic obstructive pulmonary disease with acute lower respiratory infection
-6246,DRG08801,J441,Chronic obstructive pulmonary disease with (acute) exacerbation
-6247,DRG08801,J449,"Chronic obstructive pulmonary disease, unspecified"
-6248,DRG08801,J470,Bronchiectasis with acute lower respiratory infection
-6249,DRG08801,J471,Bronchiectasis with (acute) exacerbation
-6250,DRG08801,J479,"Bronchiectasis, uncomplicated"
-6251,DRG08801,J684,"Chronic respiratory conditions due to chemicals, gases, fumes and vapors"
-6252,DRG08801,J688,"Other respiratory conditions due to chemicals, gases, fumes and vapors"
-6253,DRG08801,J689,"Unspecified respiratory condition due to chemicals, gases, fumes and vapors"
-6254,DRG08801,Q334,Congenital bronchiectasis
+DRG,CM-PCS,en
+DRG08801,J411,Mucopurulent chronic bronchitis
+DRG08801,J418,Mixed simple and mucopurulent chronic bronchitis
+DRG08801,J42,Unspecified chronic bronchitis
+DRG08801,J430,Unilateral pulmonary emphysema [MacLeod's syndrome]
+DRG08801,J431,Panlobular emphysema
+DRG08801,J432,Centrilobular emphysema
+DRG08801,J438,Other emphysema
+DRG08801,J439,"Emphysema, unspecified"
+DRG08801,J440,Chronic obstructive pulmonary disease with acute lower respiratory infection
+DRG08801,J441,Chronic obstructive pulmonary disease with (acute) exacerbation
+DRG08801,J449,"Chronic obstructive pulmonary disease, unspecified"
+DRG08801,J470,Bronchiectasis with acute lower respiratory infection
+DRG08801,J471,Bronchiectasis with (acute) exacerbation
+DRG08801,J479,"Bronchiectasis, uncomplicated"
+DRG08801,J684,"Chronic respiratory conditions due to chemicals, gases, fumes and vapors"
+DRG08801,J688,"Other respiratory conditions due to chemicals, gases, fumes and vapors"
+DRG08801,J689,"Unspecified respiratory condition due to chemicals, gases, fumes and vapors"
+DRG08801,Q334,Congenital bronchiectasis

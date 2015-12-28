@@ -1,35 +1,35 @@
-,DRG,CM-PCS,en
-4486,DRG31001,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified"
-4487,DRG31001,N132,Hydronephrosis with renal and ureteral calculous obstruction
-4488,DRG31001,N1330,Unspecified hydronephrosis
-4489,DRG31001,N1339,Other hydronephrosis
-4490,DRG31001,N134,Hydroureter
-4491,DRG31001,N138,Other obstructive and reflux uropathy
-4492,DRG31001,N200,Calculus of kidney
-4493,DRG31001,N201,Calculus of ureter
-4494,DRG31001,N202,Calculus of kidney with calculus of ureter
-4495,DRG31001,N209,"Urinary calculus, unspecified"
-4496,DRG31001,N210,Calculus in bladder
-4497,DRG31001,N211,Calculus in urethra
-4498,DRG31001,N218,Other lower urinary tract calculus
-4499,DRG31001,N219,"Calculus of lower urinary tract, unspecified"
-4500,DRG31001,N22,Calculus of urinary tract in diseases classified elsewhere
-4501,DRG31001,N23,Unspecified renal colic
-4504,DRG31001,N151,Renal and perinephric abscess
-4505,DRG31001,R7881,Bacteremia
-4508,DRG31001,0TC37ZZ,"Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening"
-4509,DRG31001,0TC38ZZ,"Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening Endoscopic"
-4510,DRG31001,0TC47ZZ,"Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening"
-4511,DRG31001,0TC48ZZ,"Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening Endoscopic"
-4512,DRG31001,0TC67ZZ,"Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening"
-4513,DRG31001,0TC68ZZ,"Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening Endoscopic"
-4514,DRG31001,0TC77ZZ,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening"
-4515,DRG31001,0TC78ZZ,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening Endoscopic"
-4516,DRG31001,0T9B7ZZ,"Drainage of Bladder, Via Natural or Artificial Opening"
-4517,DRG31001,0T9B8ZZ,"Drainage of Bladder, Via Natural or Artificial Opening Endoscopic"
-4518,DRG31001,0T9C7ZZ,"Drainage of Bladder Neck, Via Natural or Artificial Opening"
-4519,DRG31001,0T9C8ZZ,"Drainage of Bladder Neck, Via Natural or Artificial Opening Endoscopic"
-4520,DRG31001,0TCB7ZZ,"Extirpation of Matter from Bladder, Via Natural or Artificial Opening"
-4521,DRG31001,0TCB8ZZ,"Extirpation of Matter from Bladder, Via Natural or Artificial Opening Endoscopic"
-4522,DRG31001,0TCC7ZZ,"Extirpation of Matter from Bladder Neck, Via Natural or Artificial Opening"
-4523,DRG31001,0TCC8ZZ,"Extirpation of Matter from Bladder Neck, Via Natural or Artificial Opening Endoscopic"
+DRG,CM-PCS,en
+DRG31001,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+DRG31001,N132,Hydronephrosis with renal and ureteral calculous obstruction
+DRG31001,N1330,Unspecified hydronephrosis
+DRG31001,N1339,Other hydronephrosis
+DRG31001,N134,Hydroureter
+DRG31001,N138,Other obstructive and reflux uropathy
+DRG31001,N200,Calculus of kidney
+DRG31001,N201,Calculus of ureter
+DRG31001,N202,Calculus of kidney with calculus of ureter
+DRG31001,N209,"Urinary calculus, unspecified"
+DRG31001,N210,Calculus in bladder
+DRG31001,N211,Calculus in urethra
+DRG31001,N218,Other lower urinary tract calculus
+DRG31001,N219,"Calculus of lower urinary tract, unspecified"
+DRG31001,N22,Calculus of urinary tract in diseases classified elsewhere
+DRG31001,N23,Unspecified renal colic
+DRG31001,N151,Renal and perinephric abscess
+DRG31001,R7881,Bacteremia
+DRG31001,0TC37ZZ,"Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening"
+DRG31001,0TC38ZZ,"Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0TC47ZZ,"Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening"
+DRG31001,0TC48ZZ,"Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0TC67ZZ,"Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening"
+DRG31001,0TC68ZZ,"Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0TC77ZZ,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening"
+DRG31001,0TC78ZZ,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0T9B7ZZ,"Drainage of Bladder, Via Natural or Artificial Opening"
+DRG31001,0T9B8ZZ,"Drainage of Bladder, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0T9C7ZZ,"Drainage of Bladder Neck, Via Natural or Artificial Opening"
+DRG31001,0T9C8ZZ,"Drainage of Bladder Neck, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0TCB7ZZ,"Extirpation of Matter from Bladder, Via Natural or Artificial Opening"
+DRG31001,0TCB8ZZ,"Extirpation of Matter from Bladder, Via Natural or Artificial Opening Endoscopic"
+DRG31001,0TCC7ZZ,"Extirpation of Matter from Bladder Neck, Via Natural or Artificial Opening"
+DRG31001,0TCC8ZZ,"Extirpation of Matter from Bladder Neck, Via Natural or Artificial Opening Endoscopic"

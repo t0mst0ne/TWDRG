@@ -1,30 +1,30 @@
-,DRG,CM-PCS,en
-6706,DRG35202,N421,Congestion and hemorrhage of prostate
-6707,DRG35202,N4400,"Torsion of testis, unspecified"
-6708,DRG35202,N4401,Extravaginal torsion of spermatic cord
-6709,DRG35202,N4402,Intravaginal torsion of spermatic cord
-6710,DRG35202,N4403,Torsion of appendix testis
-6711,DRG35202,N4404,Torsion of appendix epididymis
-6712,DRG35202,N4601,Organic azoospermia
-6713,DRG35202,N46021,Azoospermia due to drug therapy
-6714,DRG35202,N46022,Azoospermia due to infection
-6715,DRG35202,N46023,Azoospermia due to obstruction of efferent ducts
-6716,DRG35202,N46024,Azoospermia due to radiation
-6717,DRG35202,N46025,Azoospermia due to systemic disease
-6718,DRG35202,N46029,Azoospermia due to other extratesticular causes
-6719,DRG35202,N4611,Organic oligospermia
-6720,DRG35202,N46121,Oligospermia due to drug therapy
-6721,DRG35202,N46122,Oligospermia due to infection
-6722,DRG35202,N46123,Oligospermia due to obstruction of efferent ducts
-6723,DRG35202,N46124,Oligospermia due to radiation
-6724,DRG35202,N46125,Oligospermia due to systemic disease
-6725,DRG35202,N46129,Oligospermia due to other extratesticular causes
-6726,DRG35202,N468,Other male infertility
-6727,DRG35202,N469,"Male infertility, unspecified"
-6728,DRG35202,N4830,"Priapism, unspecified"
-6729,DRG35202,N4831,Priapism due to trauma
-6730,DRG35202,N4833,"Priapism, drug-induced"
-6731,DRG35202,N4839,Other priapism
-6732,DRG35202,N500,Atrophy of testis
-6733,DRG35202,N501,Vascular disorders of male genital organs
-6734,DRG35202,R361,Hematospermia
+DRG,CM-PCS,en
+DRG35202,N421,Congestion and hemorrhage of prostate
+DRG35202,N4400,"Torsion of testis, unspecified"
+DRG35202,N4401,Extravaginal torsion of spermatic cord
+DRG35202,N4402,Intravaginal torsion of spermatic cord
+DRG35202,N4403,Torsion of appendix testis
+DRG35202,N4404,Torsion of appendix epididymis
+DRG35202,N4601,Organic azoospermia
+DRG35202,N46021,Azoospermia due to drug therapy
+DRG35202,N46022,Azoospermia due to infection
+DRG35202,N46023,Azoospermia due to obstruction of efferent ducts
+DRG35202,N46024,Azoospermia due to radiation
+DRG35202,N46025,Azoospermia due to systemic disease
+DRG35202,N46029,Azoospermia due to other extratesticular causes
+DRG35202,N4611,Organic oligospermia
+DRG35202,N46121,Oligospermia due to drug therapy
+DRG35202,N46122,Oligospermia due to infection
+DRG35202,N46123,Oligospermia due to obstruction of efferent ducts
+DRG35202,N46124,Oligospermia due to radiation
+DRG35202,N46125,Oligospermia due to systemic disease
+DRG35202,N46129,Oligospermia due to other extratesticular causes
+DRG35202,N468,Other male infertility
+DRG35202,N469,"Male infertility, unspecified"
+DRG35202,N4830,"Priapism, unspecified"
+DRG35202,N4831,Priapism due to trauma
+DRG35202,N4833,"Priapism, drug-induced"
+DRG35202,N4839,Other priapism
+DRG35202,N500,Atrophy of testis
+DRG35202,N501,Vascular disorders of male genital organs
+DRG35202,R361,Hematospermia

@@ -1,13 +1,13 @@
-,DRG,CM-PCS,en
-2147,DRG39706,D68311,Acquired hemophilia
-2148,DRG39706,D6832,Hemorrhagic disorder due to extrinsic circulating anticoagulants
-2149,DRG39706,D690,Allergic purpura
-2150,DRG39706,D691,Qualitative platelet defects
-2151,DRG39706,D692,Other nonthrombocytopenic purpura
-2152,DRG39706,D6951,Posttransfusion purpura
-2153,DRG39706,D6959,Other secondary thrombocytopenia
-2154,DRG39706,D696,"Thrombocytopenia, unspecified"
-2155,DRG39706,D698,Other specified hemorrhagic conditions
-2156,DRG39706,D699,"Hemorrhagic condition, unspecified"
-2157,DRG39706,D7582,Heparin induced thrombocytopenia (HIT)
-2158,DRG39706,R233,Spontaneous ecchymoses
+DRG,CM-PCS,en
+DRG39706,D68311,Acquired hemophilia
+DRG39706,D6832,Hemorrhagic disorder due to extrinsic circulating anticoagulants
+DRG39706,D690,Allergic purpura
+DRG39706,D691,Qualitative platelet defects
+DRG39706,D692,Other nonthrombocytopenic purpura
+DRG39706,D6951,Posttransfusion purpura
+DRG39706,D6959,Other secondary thrombocytopenia
+DRG39706,D696,"Thrombocytopenia, unspecified"
+DRG39706,D698,Other specified hemorrhagic conditions
+DRG39706,D699,"Hemorrhagic condition, unspecified"
+DRG39706,D7582,Heparin induced thrombocytopenia (HIT)
+DRG39706,R233,Spontaneous ecchymoses

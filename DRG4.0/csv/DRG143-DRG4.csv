@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-38902,DRG00143,R072,Precordial pain
-38903,DRG00143,R0782,Intercostal pain
-38904,DRG00143,R0789,Other chest pain
-38905,DRG00143,R079,"Chest pain, unspecified"
+DRG,CM-PCS,en
+DRG00143,R072,Precordial pain
+DRG00143,R0782,Intercostal pain
+DRG00143,R0789,Other chest pain
+DRG00143,R079,"Chest pain, unspecified"

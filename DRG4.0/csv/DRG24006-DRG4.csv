@@ -1,9 +1,9 @@
-,DRG,CM-PCS,en
-47168,DRG24006,D8982,Autoimmune lymphoproliferative syndrome [ALPS]
-47169,DRG24006,E850,Non-neuropathic heredofamilial amyloidosis
-47170,DRG24006,E851,Neuropathic heredofamilial amyloidosis
-47171,DRG24006,E852,"Heredofamilial amyloidosis, unspecified"
-47172,DRG24006,E853,Secondary systemic amyloidosis
-47173,DRG24006,E854,Organ-limited amyloidosis
-47174,DRG24006,E858,Other amyloidosis
-47175,DRG24006,E859,"Amyloidosis, unspecified"
+DRG,CM-PCS,en
+DRG24006,D8982,Autoimmune lymphoproliferative syndrome [ALPS]
+DRG24006,E850,Non-neuropathic heredofamilial amyloidosis
+DRG24006,E851,Neuropathic heredofamilial amyloidosis
+DRG24006,E852,"Heredofamilial amyloidosis, unspecified"
+DRG24006,E853,Secondary systemic amyloidosis
+DRG24006,E854,Organ-limited amyloidosis
+DRG24006,E858,Other amyloidosis
+DRG24006,E859,"Amyloidosis, unspecified"

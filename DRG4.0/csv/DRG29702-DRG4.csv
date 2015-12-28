@@ -1,82 +1,82 @@
-,DRG,CM-PCS,en
-24536,DRG29702,D81818,Other biotin-dependent carboxylase deficiency
-24537,DRG29702,D81819,"Biotin-dependent carboxylase deficiency, unspecified"
-24538,DRG29702,E40,Kwashiorkor
-24539,DRG29702,E41,Nutritional marasmus
-24540,DRG29702,E42,Marasmic kwashiorkor
-24541,DRG29702,E43,Unspecified severe protein-calorie malnutrition
-24542,DRG29702,E440,Moderate protein-calorie malnutrition
-24543,DRG29702,E441,Mild protein-calorie malnutrition
-24544,DRG29702,E45,Retarded development following protein-calorie malnutrition
-24545,DRG29702,E46,Unspecified protein-calorie malnutrition
-24546,DRG29702,E508,Other manifestations of vitamin A deficiency
-24547,DRG29702,E509,"Vitamin A deficiency, unspecified"
-24548,DRG29702,E5111,Dry beriberi
-24549,DRG29702,E5112,Wet beriberi
-24550,DRG29702,E512,Wernicke's encephalopathy
-24551,DRG29702,E518,Other manifestations of thiamine deficiency
-24552,DRG29702,E519,"Thiamine deficiency, unspecified"
-24553,DRG29702,E52,Niacin deficiency [pellagra]
-24554,DRG29702,E530,Riboflavin deficiency
-24555,DRG29702,E531,Pyridoxine deficiency
-24556,DRG29702,E538,Deficiency of other specified B group vitamins
-24557,DRG29702,E539,"Vitamin B deficiency, unspecified"
-24558,DRG29702,E54,Ascorbic acid deficiency
-24559,DRG29702,E559,"Vitamin D deficiency, unspecified"
-24560,DRG29702,E560,Deficiency of vitamin E
-24561,DRG29702,E561,Deficiency of vitamin K
-24562,DRG29702,E568,Deficiency of other vitamins
-24563,DRG29702,E569,"Vitamin deficiency, unspecified"
-24564,DRG29702,E58,Dietary calcium deficiency
-24565,DRG29702,E59,Dietary selenium deficiency
-24566,DRG29702,E60,Dietary zinc deficiency
-24567,DRG29702,E610,Copper deficiency
-24568,DRG29702,E611,Iron deficiency
-24569,DRG29702,E612,Magnesium deficiency
-24570,DRG29702,E613,Manganese deficiency
-24571,DRG29702,E614,Chromium deficiency
-24572,DRG29702,E615,Molybdenum deficiency
-24573,DRG29702,E616,Vanadium deficiency
-24574,DRG29702,E617,Deficiency of multiple nutrient elements
-24575,DRG29702,E618,Deficiency of other specified nutrient elements
-24576,DRG29702,E619,"Deficiency of nutrient element, unspecified"
-24577,DRG29702,E630,Essential fatty acid [EFA] deficiency
-24578,DRG29702,E631,Imbalance of constituents of food intake
-24579,DRG29702,E638,Other specified nutritional deficiencies
-24580,DRG29702,E639,"Nutritional deficiency, unspecified"
-24581,DRG29702,E640,Sequelae of protein-calorie malnutrition
-24582,DRG29702,E641,Sequelae of vitamin A deficiency
-24583,DRG29702,E642,Sequelae of vitamin C deficiency
-24584,DRG29702,E648,Sequelae of other nutritional deficiencies
-24585,DRG29702,E649,Sequelae of unspecified nutritional deficiency
-24586,DRG29702,E670,Hypervitaminosis A
-24587,DRG29702,E671,Hypercarotinemia
-24588,DRG29702,E672,Megavitamin-B6 syndrome
-24589,DRG29702,E673,Hypervitaminosis D
-24590,DRG29702,E678,Other specified hyperalimentation
-24591,DRG29702,E68,Sequelae of hyperalimentation
-24592,DRG29702,E8340,"Disorders of magnesium metabolism, unspecified"
-24593,DRG29702,E8341,Hypermagnesemia
-24594,DRG29702,E8342,Hypomagnesemia
-24595,DRG29702,E8349,Other disorders of magnesium metabolism
-24596,DRG29702,E840,Cystic fibrosis with pulmonary manifestations
-24597,DRG29702,E8419,Cystic fibrosis with other intestinal manifestations
-24598,DRG29702,E848,Cystic fibrosis with other manifestations
-24599,DRG29702,E849,"Cystic fibrosis, unspecified"
-24600,DRG29702,E860,Dehydration
-24601,DRG29702,E861,Hypovolemia
-24602,DRG29702,E869,"Volume depletion, unspecified"
-24603,DRG29702,E8770,"Fluid overload, unspecified"
-24604,DRG29702,E8771,Transfusion associated circulatory overload
-24605,DRG29702,E8779,Other fluid overload
-24606,DRG29702,P926,Failure to thrive in newborn
-24607,DRG29702,R290,Tetany
-24608,DRG29702,R620,Delayed milestone in childhood
-24609,DRG29702,R6250,Unspecified lack of expected normal physiological development in childhood
-24610,DRG29702,R6251,Failure to thrive (child)
-24611,DRG29702,R6252,Short stature (child)
-24612,DRG29702,R6259,Other lack of expected normal physiological development in childhood
-24613,DRG29702,R627,Adult failure to thrive
-24614,DRG29702,R630,Anorexia
-24615,DRG29702,R633,Feeding difficulties
-24616,DRG29702,R638,Other symptoms and signs concerning food and fluid intake
+DRG,CM-PCS,en
+DRG29702,D81818,Other biotin-dependent carboxylase deficiency
+DRG29702,D81819,"Biotin-dependent carboxylase deficiency, unspecified"
+DRG29702,E40,Kwashiorkor
+DRG29702,E41,Nutritional marasmus
+DRG29702,E42,Marasmic kwashiorkor
+DRG29702,E43,Unspecified severe protein-calorie malnutrition
+DRG29702,E440,Moderate protein-calorie malnutrition
+DRG29702,E441,Mild protein-calorie malnutrition
+DRG29702,E45,Retarded development following protein-calorie malnutrition
+DRG29702,E46,Unspecified protein-calorie malnutrition
+DRG29702,E508,Other manifestations of vitamin A deficiency
+DRG29702,E509,"Vitamin A deficiency, unspecified"
+DRG29702,E5111,Dry beriberi
+DRG29702,E5112,Wet beriberi
+DRG29702,E512,Wernicke's encephalopathy
+DRG29702,E518,Other manifestations of thiamine deficiency
+DRG29702,E519,"Thiamine deficiency, unspecified"
+DRG29702,E52,Niacin deficiency [pellagra]
+DRG29702,E530,Riboflavin deficiency
+DRG29702,E531,Pyridoxine deficiency
+DRG29702,E538,Deficiency of other specified B group vitamins
+DRG29702,E539,"Vitamin B deficiency, unspecified"
+DRG29702,E54,Ascorbic acid deficiency
+DRG29702,E559,"Vitamin D deficiency, unspecified"
+DRG29702,E560,Deficiency of vitamin E
+DRG29702,E561,Deficiency of vitamin K
+DRG29702,E568,Deficiency of other vitamins
+DRG29702,E569,"Vitamin deficiency, unspecified"
+DRG29702,E58,Dietary calcium deficiency
+DRG29702,E59,Dietary selenium deficiency
+DRG29702,E60,Dietary zinc deficiency
+DRG29702,E610,Copper deficiency
+DRG29702,E611,Iron deficiency
+DRG29702,E612,Magnesium deficiency
+DRG29702,E613,Manganese deficiency
+DRG29702,E614,Chromium deficiency
+DRG29702,E615,Molybdenum deficiency
+DRG29702,E616,Vanadium deficiency
+DRG29702,E617,Deficiency of multiple nutrient elements
+DRG29702,E618,Deficiency of other specified nutrient elements
+DRG29702,E619,"Deficiency of nutrient element, unspecified"
+DRG29702,E630,Essential fatty acid [EFA] deficiency
+DRG29702,E631,Imbalance of constituents of food intake
+DRG29702,E638,Other specified nutritional deficiencies
+DRG29702,E639,"Nutritional deficiency, unspecified"
+DRG29702,E640,Sequelae of protein-calorie malnutrition
+DRG29702,E641,Sequelae of vitamin A deficiency
+DRG29702,E642,Sequelae of vitamin C deficiency
+DRG29702,E648,Sequelae of other nutritional deficiencies
+DRG29702,E649,Sequelae of unspecified nutritional deficiency
+DRG29702,E670,Hypervitaminosis A
+DRG29702,E671,Hypercarotinemia
+DRG29702,E672,Megavitamin-B6 syndrome
+DRG29702,E673,Hypervitaminosis D
+DRG29702,E678,Other specified hyperalimentation
+DRG29702,E68,Sequelae of hyperalimentation
+DRG29702,E8340,"Disorders of magnesium metabolism, unspecified"
+DRG29702,E8341,Hypermagnesemia
+DRG29702,E8342,Hypomagnesemia
+DRG29702,E8349,Other disorders of magnesium metabolism
+DRG29702,E840,Cystic fibrosis with pulmonary manifestations
+DRG29702,E8419,Cystic fibrosis with other intestinal manifestations
+DRG29702,E848,Cystic fibrosis with other manifestations
+DRG29702,E849,"Cystic fibrosis, unspecified"
+DRG29702,E860,Dehydration
+DRG29702,E861,Hypovolemia
+DRG29702,E869,"Volume depletion, unspecified"
+DRG29702,E8770,"Fluid overload, unspecified"
+DRG29702,E8771,Transfusion associated circulatory overload
+DRG29702,E8779,Other fluid overload
+DRG29702,P926,Failure to thrive in newborn
+DRG29702,R290,Tetany
+DRG29702,R620,Delayed milestone in childhood
+DRG29702,R6250,Unspecified lack of expected normal physiological development in childhood
+DRG29702,R6251,Failure to thrive (child)
+DRG29702,R6252,Short stature (child)
+DRG29702,R6259,Other lack of expected normal physiological development in childhood
+DRG29702,R627,Adult failure to thrive
+DRG29702,R630,Anorexia
+DRG29702,R633,Feeding difficulties
+DRG29702,R638,Other symptoms and signs concerning food and fluid intake

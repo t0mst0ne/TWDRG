@@ -1,8 +1,8 @@
-,DRG,CM-PCS,en
-38874,DRG14001,I200,Unstable angina
-38875,DRG14001,I201,Angina pectoris with documented spasm
-38876,DRG14001,I208,Other forms of angina pectoris
-38877,DRG14001,I209,"Angina pectoris, unspecified"
-38878,DRG14001,I240,Acute coronary thrombosis not resulting in myocardial infarction
-38879,DRG14001,I248,Other forms of acute ischemic heart disease
-38880,DRG14001,I249,"Acute ischemic heart disease, unspecified"
+DRG,CM-PCS,en
+DRG14001,I200,Unstable angina
+DRG14001,I201,Angina pectoris with documented spasm
+DRG14001,I208,Other forms of angina pectoris
+DRG14001,I209,"Angina pectoris, unspecified"
+DRG14001,I240,Acute coronary thrombosis not resulting in myocardial infarction
+DRG14001,I248,Other forms of acute ischemic heart disease
+DRG14001,I249,"Acute ischemic heart disease, unspecified"

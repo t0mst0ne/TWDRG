@@ -1,212 +1,212 @@
-,DRG,CM-PCS,en
-13715,DRG00277,A46,Erysipelas
-13716,DRG00277,B781,Cutaneous strongyloidiasis
-13717,DRG00277,E832,Disorders of zinc metabolism
-13718,DRG00277,I891,Lymphangitis
-13719,DRG00277,K122,Cellulitis and abscess of mouth
-13720,DRG00277,L0100,"Impetigo, unspecified"
-13721,DRG00277,L0101,Non-bullous impetigo
-13722,DRG00277,L0102,Bockhart's impetigo
-13723,DRG00277,L0103,Bullous impetigo
-13724,DRG00277,L0109,Other impetigo
-13725,DRG00277,L011,Impetiginization of other dermatoses
-13726,DRG00277,L0201,Cutaneous abscess of face
-13727,DRG00277,L0202,Furuncle of face
-13728,DRG00277,L0203,Carbuncle of face
-13729,DRG00277,L0211,Cutaneous abscess of neck
-13730,DRG00277,L0212,Furuncle of neck
-13731,DRG00277,L0213,Carbuncle of neck
-13732,DRG00277,L02211,Cutaneous abscess of abdominal wall
-13733,DRG00277,L02212,"Cutaneous abscess of back [any part, except buttock]"
-13734,DRG00277,L02213,Cutaneous abscess of chest wall
-13735,DRG00277,L02214,Cutaneous abscess of groin
-13736,DRG00277,L02215,Cutaneous abscess of perineum
-13737,DRG00277,L02216,Cutaneous abscess of umbilicus
-13738,DRG00277,L02219,"Cutaneous abscess of trunk, unspecified"
-13739,DRG00277,L02221,Furuncle of abdominal wall
-13740,DRG00277,L02222,"Furuncle of back [any part, except buttock]"
-13741,DRG00277,L02223,Furuncle of chest wall
-13742,DRG00277,L02224,Furuncle of groin
-13743,DRG00277,L02225,Furuncle of perineum
-13744,DRG00277,L02226,Furuncle of umbilicus
-13745,DRG00277,L02229,"Furuncle of trunk, unspecified"
-13746,DRG00277,L02231,Carbuncle of abdominal wall
-13747,DRG00277,L02232,"Carbuncle of back [any part, except buttock]"
-13748,DRG00277,L02233,Carbuncle of chest wall
-13749,DRG00277,L02234,Carbuncle of groin
-13750,DRG00277,L02235,Carbuncle of perineum
-13751,DRG00277,L02236,Carbuncle of umbilicus
-13752,DRG00277,L02239,"Carbuncle of trunk, unspecified"
-13753,DRG00277,L0231,Cutaneous abscess of buttock
-13754,DRG00277,L0232,Furuncle of buttock
-13755,DRG00277,L0233,Carbuncle of buttock
-13756,DRG00277,L02411,Cutaneous abscess of right axilla
-13757,DRG00277,L02412,Cutaneous abscess of left axilla
-13758,DRG00277,L02413,Cutaneous abscess of right upper limb
-13759,DRG00277,L02414,Cutaneous abscess of left upper limb
-13760,DRG00277,L02415,Cutaneous abscess of right lower limb
-13761,DRG00277,L02416,Cutaneous abscess of left lower limb
-13762,DRG00277,L02419,"Cutaneous abscess of limb, unspecified"
-13763,DRG00277,L02421,Furuncle of right axilla
-13764,DRG00277,L02422,Furuncle of left axilla
-13765,DRG00277,L02423,Furuncle of right upper limb
-13766,DRG00277,L02424,Furuncle of left upper limb
-13767,DRG00277,L02425,Furuncle of right lower limb
-13768,DRG00277,L02426,Furuncle of left lower limb
-13769,DRG00277,L02429,"Furuncle of limb, unspecified"
-13770,DRG00277,L02431,Carbuncle of right axilla
-13771,DRG00277,L02432,Carbuncle of left axilla
-13772,DRG00277,L02433,Carbuncle of right upper limb
-13773,DRG00277,L02434,Carbuncle of left upper limb
-13774,DRG00277,L02435,Carbuncle of right lower limb
-13775,DRG00277,L02436,Carbuncle of left lower limb
-13776,DRG00277,L02439,"Carbuncle of limb, unspecified"
-13777,DRG00277,L02511,Cutaneous abscess of right hand
-13778,DRG00277,L02512,Cutaneous abscess of left hand
-13779,DRG00277,L02519,Cutaneous abscess of unspecified hand
-13780,DRG00277,L02521,Furuncle right hand
-13781,DRG00277,L02522,Furuncle left hand
-13782,DRG00277,L02529,Furuncle unspecified hand
-13783,DRG00277,L02531,Carbuncle of right hand
-13784,DRG00277,L02532,Carbuncle of left hand
-13785,DRG00277,L02539,Carbuncle of unspecified hand
-13786,DRG00277,L02611,Cutaneous abscess of right foot
-13787,DRG00277,L02612,Cutaneous abscess of left foot
-13788,DRG00277,L02619,Cutaneous abscess of unspecified foot
-13789,DRG00277,L02621,Furuncle of right foot
-13790,DRG00277,L02622,Furuncle of left foot
-13791,DRG00277,L02629,Furuncle of unspecified foot
-13792,DRG00277,L02631,Carbuncle of right foot
-13793,DRG00277,L02632,Carbuncle of left foot
-13794,DRG00277,L02639,Carbuncle of unspecified foot
-13795,DRG00277,L02811,"Cutaneous abscess of head [any part, except face]"
-13796,DRG00277,L02818,Cutaneous abscess of other sites
-13797,DRG00277,L02821,"Furuncle of head [any part, except face]"
-13798,DRG00277,L02828,Furuncle of other sites
-13799,DRG00277,L02831,"Carbuncle of head [any part, except face]"
-13800,DRG00277,L02838,Carbuncle of other sites
-13801,DRG00277,L0291,"Cutaneous abscess, unspecified"
-13802,DRG00277,L0292,"Furuncle, unspecified"
-13803,DRG00277,L0293,"Carbuncle, unspecified"
-13804,DRG00277,L03011,Cellulitis of right finger
-13805,DRG00277,L03012,Cellulitis of left finger
-13806,DRG00277,L03019,Cellulitis of unspecified finger
-13807,DRG00277,L03021,Acute lymphangitis of right finger
-13808,DRG00277,L03022,Acute lymphangitis of left finger
-13809,DRG00277,L03029,Acute lymphangitis of unspecified finger
-13810,DRG00277,L03031,Cellulitis of right toe
-13811,DRG00277,L03032,Cellulitis of left toe
-13812,DRG00277,L03039,Cellulitis of unspecified toe
-13813,DRG00277,L03041,Acute lymphangitis of right toe
-13814,DRG00277,L03042,Acute lymphangitis of left toe
-13815,DRG00277,L03049,Acute lymphangitis of unspecified toe
-13816,DRG00277,L03111,Cellulitis of right axilla
-13817,DRG00277,L03112,Cellulitis of left axilla
-13818,DRG00277,L03113,Cellulitis of right upper limb
-13819,DRG00277,L03114,Cellulitis of left upper limb
-13820,DRG00277,L03115,Cellulitis of right lower limb
-13821,DRG00277,L03116,Cellulitis of left lower limb
-13822,DRG00277,L03119,Cellulitis of unspecified part of limb
-13823,DRG00277,L03121,Acute lymphangitis of right axilla
-13824,DRG00277,L03122,Acute lymphangitis of left axilla
-13825,DRG00277,L03123,Acute lymphangitis of right upper limb
-13826,DRG00277,L03124,Acute lymphangitis of left upper limb
-13827,DRG00277,L03125,Acute lymphangitis of right lower limb
-13828,DRG00277,L03126,Acute lymphangitis of left lower limb
-13829,DRG00277,L03129,Acute lymphangitis of unspecified part of limb
-13830,DRG00277,L03211,Cellulitis of face
-13831,DRG00277,L03212,Acute lymphangitis of face
-13832,DRG00277,L03221,Cellulitis of neck
-13833,DRG00277,L03222,Acute lymphangitis of neck
-13834,DRG00277,L03311,Cellulitis of abdominal wall
-13835,DRG00277,L03312,Cellulitis of back [any part except buttock]
-13836,DRG00277,L03313,Cellulitis of chest wall
-13837,DRG00277,L03314,Cellulitis of groin
-13838,DRG00277,L03315,Cellulitis of perineum
-13839,DRG00277,L03316,Cellulitis of umbilicus
-13840,DRG00277,L03317,Cellulitis of buttock
-13841,DRG00277,L03319,"Cellulitis of trunk, unspecified"
-13842,DRG00277,L03321,Acute lymphangitis of abdominal wall
-13843,DRG00277,L03322,Acute lymphangitis of back [any part except buttock]
-13844,DRG00277,L03323,Acute lymphangitis of chest wall
-13845,DRG00277,L03324,Acute lymphangitis of groin
-13846,DRG00277,L03325,Acute lymphangitis of perineum
-13847,DRG00277,L03326,Acute lymphangitis of umbilicus
-13848,DRG00277,L03327,Acute lymphangitis of buttock
-13849,DRG00277,L03329,"Acute lymphangitis of trunk, unspecified"
-13850,DRG00277,L03811,"Cellulitis of head [any part, except face]"
-13851,DRG00277,L03818,Cellulitis of other sites
-13852,DRG00277,L03891,"Acute lymphangitis of head [any part, except face]"
-13853,DRG00277,L03898,Acute lymphangitis of other sites
-13854,DRG00277,L0390,"Cellulitis, unspecified"
-13855,DRG00277,L0391,"Acute lymphangitis, unspecified"
-13856,DRG00277,L0501,Pilonidal cyst with abscess
-13857,DRG00277,L0502,Pilonidal sinus with abscess
-13858,DRG00277,L0591,Pilonidal cyst without abscess
-13859,DRG00277,L0592,Pilonidal sinus without abscess
-13860,DRG00277,L080,Pyoderma
-13861,DRG00277,L0881,Pyoderma vegetans
-13862,DRG00277,L0882,Omphalitis not of newborn
-13863,DRG00277,L089,"Local infection of the skin and subcutaneous tissue, unspecified"
-13864,DRG00277,L928,Other granulomatous disorders of the skin and subcutaneous tissue
-13865,DRG00277,L980,Pyogenic granuloma
-13866,DRG00277,L983,Eosinophilic cellulitis [Wells]
-13867,DRG00277,S0090XA,"Unspecified superficial injury of unspecified part of head, initial encounter"
-13868,DRG00277,S0095XA,"Superficial foreign body of unspecified part of head, initial encounter"
-13869,DRG00277,S1090XA,"Unspecified superficial injury of unspecified part of neck, initial encounter"
-13870,DRG00277,S1091XA,"Abrasion of unspecified part of neck, initial encounter"
-13871,DRG00277,S1095XA,"Superficial foreign body of unspecified part of neck, initial encounter"
-13872,DRG00277,S2090XA,"Unspecified superficial injury of unspecified parts of thorax, initial encounter"
-13873,DRG00277,S2091XA,"Abrasion of unspecified parts of thorax, initial encounter"
-13874,DRG00277,S2095XA,"Superficial foreign body of unspecified parts of thorax, initial encounter"
-13875,DRG00277,S40219A,"Abrasion of unspecified shoulder, initial encounter"
-13876,DRG00277,S40229A,"Blister (nonthermal) of unspecified shoulder, initial encounter"
-13877,DRG00277,S40259A,"Superficial foreign body of unspecified shoulder, initial encounter"
-13878,DRG00277,S40819A,"Abrasion of unspecified upper arm, initial encounter"
-13879,DRG00277,S40829A,"Blister (nonthermal) of unspecified upper arm, initial encounter"
-13880,DRG00277,S40859A,"Superficial foreign body of unspecified upper arm, initial encounter"
-13881,DRG00277,S40919A,"Unspecified superficial injury of unspecified shoulder, initial encounter"
-13882,DRG00277,S40929A,"Unspecified superficial injury of unspecified upper arm, initial encounter"
-13883,DRG00277,S50319A,"Abrasion of unspecified elbow, initial encounter"
-13884,DRG00277,S50359A,"Superficial foreign body of unspecified elbow, initial encounter"
-13885,DRG00277,S50819A,"Abrasion of unspecified forearm, initial encounter"
-13886,DRG00277,S50859A,"Superficial foreign body of unspecified forearm, initial encounter"
-13887,DRG00277,S50909A,"Unspecified superficial injury of unspecified elbow, initial encounter"
-13888,DRG00277,S50919A,"Unspecified superficial injury of unspecified forearm, initial encounter"
-13889,DRG00277,S60319A,"Abrasion of unspecified thumb, initial encounter"
-13890,DRG00277,S60359A,"Superficial foreign body of unspecified thumb, initial encounter"
-13891,DRG00277,S60419A,"Abrasion of unspecified finger, initial encounter"
-13892,DRG00277,S60459A,"Superficial foreign body of unspecified finger, initial encounter"
-13893,DRG00277,S60519A,"Abrasion of unspecified hand, initial encounter"
-13894,DRG00277,S60559A,"Superficial foreign body of unspecified hand, initial encounter"
-13895,DRG00277,S60819A,"Abrasion of unspecified wrist, initial encounter"
-13896,DRG00277,S60859A,"Superficial foreign body of unspecified wrist, initial encounter"
-13897,DRG00277,S60919A,"Unspecified superficial injury of unspecified wrist, initial encounter"
-13898,DRG00277,S60929A,"Unspecified superficial injury of unspecified hand, initial encounter"
-13899,DRG00277,S60939A,"Unspecified superficial injury of unspecified thumb, initial encounter"
-13900,DRG00277,S60949A,"Unspecified superficial injury of unspecified finger, initial encounter"
-13901,DRG00277,S70219A,"Abrasion, unspecified hip, initial encounter"
-13902,DRG00277,S70259A,"Superficial foreign body, unspecified hip, initial encounter"
-13903,DRG00277,S70319A,"Abrasion, unspecified thigh, initial encounter"
-13904,DRG00277,S70359A,"Superficial foreign body, unspecified thigh, initial encounter"
-13905,DRG00277,S70919A,"Unspecified superficial injury of unspecified hip, initial encounter"
-13906,DRG00277,S70929A,"Unspecified superficial injury of unspecified thigh, initial encounter"
-13907,DRG00277,S80219A,"Abrasion, unspecified knee, initial encounter"
-13908,DRG00277,S80259A,"Superficial foreign body, unspecified knee, initial encounter"
-13909,DRG00277,S80819A,"Abrasion, unspecified lower leg, initial encounter"
-13910,DRG00277,S80859A,"Superficial foreign body, unspecified lower leg, initial encounter"
-13911,DRG00277,S80919A,"Unspecified superficial injury of unspecified knee, initial encounter"
-13912,DRG00277,S80929A,"Unspecified superficial injury of unspecified lower leg, initial encounter"
-13913,DRG00277,S90413A,"Abrasion, unspecified great toe, initial encounter"
-13914,DRG00277,S90416A,"Abrasion, unspecified lesser toe(s), initial encounter"
-13915,DRG00277,S90453A,"Superficial foreign body, unspecified great toe, initial encounter"
-13916,DRG00277,S90456A,"Superficial foreign body, unspecified lesser toe(s), initial encounter"
-13917,DRG00277,S90519A,"Abrasion, unspecified ankle, initial encounter"
-13918,DRG00277,S90559A,"Superficial foreign body, unspecified ankle, initial encounter"
-13919,DRG00277,S90819A,"Abrasion, unspecified foot, initial encounter"
-13920,DRG00277,S90859A,"Superficial foreign body, unspecified foot, initial encounter"
-13921,DRG00277,S90919A,"Unspecified superficial injury of unspecified ankle, initial encounter"
-13922,DRG00277,S90929A,"Unspecified superficial injury of unspecified foot, initial encounter"
-13923,DRG00277,S90933A,"Unspecified superficial injury of unspecified great toe, initial encounter"
-13924,DRG00277,S90936A,"Unspecified superficial injury of unspecified lesser toe(s), initial encounter"
-13925,DRG00277,T07,Unspecified multiple injuries
+DRG,CM-PCS,en
+DRG00277,A46,Erysipelas
+DRG00277,B781,Cutaneous strongyloidiasis
+DRG00277,E832,Disorders of zinc metabolism
+DRG00277,I891,Lymphangitis
+DRG00277,K122,Cellulitis and abscess of mouth
+DRG00277,L0100,"Impetigo, unspecified"
+DRG00277,L0101,Non-bullous impetigo
+DRG00277,L0102,Bockhart's impetigo
+DRG00277,L0103,Bullous impetigo
+DRG00277,L0109,Other impetigo
+DRG00277,L011,Impetiginization of other dermatoses
+DRG00277,L0201,Cutaneous abscess of face
+DRG00277,L0202,Furuncle of face
+DRG00277,L0203,Carbuncle of face
+DRG00277,L0211,Cutaneous abscess of neck
+DRG00277,L0212,Furuncle of neck
+DRG00277,L0213,Carbuncle of neck
+DRG00277,L02211,Cutaneous abscess of abdominal wall
+DRG00277,L02212,"Cutaneous abscess of back [any part, except buttock]"
+DRG00277,L02213,Cutaneous abscess of chest wall
+DRG00277,L02214,Cutaneous abscess of groin
+DRG00277,L02215,Cutaneous abscess of perineum
+DRG00277,L02216,Cutaneous abscess of umbilicus
+DRG00277,L02219,"Cutaneous abscess of trunk, unspecified"
+DRG00277,L02221,Furuncle of abdominal wall
+DRG00277,L02222,"Furuncle of back [any part, except buttock]"
+DRG00277,L02223,Furuncle of chest wall
+DRG00277,L02224,Furuncle of groin
+DRG00277,L02225,Furuncle of perineum
+DRG00277,L02226,Furuncle of umbilicus
+DRG00277,L02229,"Furuncle of trunk, unspecified"
+DRG00277,L02231,Carbuncle of abdominal wall
+DRG00277,L02232,"Carbuncle of back [any part, except buttock]"
+DRG00277,L02233,Carbuncle of chest wall
+DRG00277,L02234,Carbuncle of groin
+DRG00277,L02235,Carbuncle of perineum
+DRG00277,L02236,Carbuncle of umbilicus
+DRG00277,L02239,"Carbuncle of trunk, unspecified"
+DRG00277,L0231,Cutaneous abscess of buttock
+DRG00277,L0232,Furuncle of buttock
+DRG00277,L0233,Carbuncle of buttock
+DRG00277,L02411,Cutaneous abscess of right axilla
+DRG00277,L02412,Cutaneous abscess of left axilla
+DRG00277,L02413,Cutaneous abscess of right upper limb
+DRG00277,L02414,Cutaneous abscess of left upper limb
+DRG00277,L02415,Cutaneous abscess of right lower limb
+DRG00277,L02416,Cutaneous abscess of left lower limb
+DRG00277,L02419,"Cutaneous abscess of limb, unspecified"
+DRG00277,L02421,Furuncle of right axilla
+DRG00277,L02422,Furuncle of left axilla
+DRG00277,L02423,Furuncle of right upper limb
+DRG00277,L02424,Furuncle of left upper limb
+DRG00277,L02425,Furuncle of right lower limb
+DRG00277,L02426,Furuncle of left lower limb
+DRG00277,L02429,"Furuncle of limb, unspecified"
+DRG00277,L02431,Carbuncle of right axilla
+DRG00277,L02432,Carbuncle of left axilla
+DRG00277,L02433,Carbuncle of right upper limb
+DRG00277,L02434,Carbuncle of left upper limb
+DRG00277,L02435,Carbuncle of right lower limb
+DRG00277,L02436,Carbuncle of left lower limb
+DRG00277,L02439,"Carbuncle of limb, unspecified"
+DRG00277,L02511,Cutaneous abscess of right hand
+DRG00277,L02512,Cutaneous abscess of left hand
+DRG00277,L02519,Cutaneous abscess of unspecified hand
+DRG00277,L02521,Furuncle right hand
+DRG00277,L02522,Furuncle left hand
+DRG00277,L02529,Furuncle unspecified hand
+DRG00277,L02531,Carbuncle of right hand
+DRG00277,L02532,Carbuncle of left hand
+DRG00277,L02539,Carbuncle of unspecified hand
+DRG00277,L02611,Cutaneous abscess of right foot
+DRG00277,L02612,Cutaneous abscess of left foot
+DRG00277,L02619,Cutaneous abscess of unspecified foot
+DRG00277,L02621,Furuncle of right foot
+DRG00277,L02622,Furuncle of left foot
+DRG00277,L02629,Furuncle of unspecified foot
+DRG00277,L02631,Carbuncle of right foot
+DRG00277,L02632,Carbuncle of left foot
+DRG00277,L02639,Carbuncle of unspecified foot
+DRG00277,L02811,"Cutaneous abscess of head [any part, except face]"
+DRG00277,L02818,Cutaneous abscess of other sites
+DRG00277,L02821,"Furuncle of head [any part, except face]"
+DRG00277,L02828,Furuncle of other sites
+DRG00277,L02831,"Carbuncle of head [any part, except face]"
+DRG00277,L02838,Carbuncle of other sites
+DRG00277,L0291,"Cutaneous abscess, unspecified"
+DRG00277,L0292,"Furuncle, unspecified"
+DRG00277,L0293,"Carbuncle, unspecified"
+DRG00277,L03011,Cellulitis of right finger
+DRG00277,L03012,Cellulitis of left finger
+DRG00277,L03019,Cellulitis of unspecified finger
+DRG00277,L03021,Acute lymphangitis of right finger
+DRG00277,L03022,Acute lymphangitis of left finger
+DRG00277,L03029,Acute lymphangitis of unspecified finger
+DRG00277,L03031,Cellulitis of right toe
+DRG00277,L03032,Cellulitis of left toe
+DRG00277,L03039,Cellulitis of unspecified toe
+DRG00277,L03041,Acute lymphangitis of right toe
+DRG00277,L03042,Acute lymphangitis of left toe
+DRG00277,L03049,Acute lymphangitis of unspecified toe
+DRG00277,L03111,Cellulitis of right axilla
+DRG00277,L03112,Cellulitis of left axilla
+DRG00277,L03113,Cellulitis of right upper limb
+DRG00277,L03114,Cellulitis of left upper limb
+DRG00277,L03115,Cellulitis of right lower limb
+DRG00277,L03116,Cellulitis of left lower limb
+DRG00277,L03119,Cellulitis of unspecified part of limb
+DRG00277,L03121,Acute lymphangitis of right axilla
+DRG00277,L03122,Acute lymphangitis of left axilla
+DRG00277,L03123,Acute lymphangitis of right upper limb
+DRG00277,L03124,Acute lymphangitis of left upper limb
+DRG00277,L03125,Acute lymphangitis of right lower limb
+DRG00277,L03126,Acute lymphangitis of left lower limb
+DRG00277,L03129,Acute lymphangitis of unspecified part of limb
+DRG00277,L03211,Cellulitis of face
+DRG00277,L03212,Acute lymphangitis of face
+DRG00277,L03221,Cellulitis of neck
+DRG00277,L03222,Acute lymphangitis of neck
+DRG00277,L03311,Cellulitis of abdominal wall
+DRG00277,L03312,Cellulitis of back [any part except buttock]
+DRG00277,L03313,Cellulitis of chest wall
+DRG00277,L03314,Cellulitis of groin
+DRG00277,L03315,Cellulitis of perineum
+DRG00277,L03316,Cellulitis of umbilicus
+DRG00277,L03317,Cellulitis of buttock
+DRG00277,L03319,"Cellulitis of trunk, unspecified"
+DRG00277,L03321,Acute lymphangitis of abdominal wall
+DRG00277,L03322,Acute lymphangitis of back [any part except buttock]
+DRG00277,L03323,Acute lymphangitis of chest wall
+DRG00277,L03324,Acute lymphangitis of groin
+DRG00277,L03325,Acute lymphangitis of perineum
+DRG00277,L03326,Acute lymphangitis of umbilicus
+DRG00277,L03327,Acute lymphangitis of buttock
+DRG00277,L03329,"Acute lymphangitis of trunk, unspecified"
+DRG00277,L03811,"Cellulitis of head [any part, except face]"
+DRG00277,L03818,Cellulitis of other sites
+DRG00277,L03891,"Acute lymphangitis of head [any part, except face]"
+DRG00277,L03898,Acute lymphangitis of other sites
+DRG00277,L0390,"Cellulitis, unspecified"
+DRG00277,L0391,"Acute lymphangitis, unspecified"
+DRG00277,L0501,Pilonidal cyst with abscess
+DRG00277,L0502,Pilonidal sinus with abscess
+DRG00277,L0591,Pilonidal cyst without abscess
+DRG00277,L0592,Pilonidal sinus without abscess
+DRG00277,L080,Pyoderma
+DRG00277,L0881,Pyoderma vegetans
+DRG00277,L0882,Omphalitis not of newborn
+DRG00277,L089,"Local infection of the skin and subcutaneous tissue, unspecified"
+DRG00277,L928,Other granulomatous disorders of the skin and subcutaneous tissue
+DRG00277,L980,Pyogenic granuloma
+DRG00277,L983,Eosinophilic cellulitis [Wells]
+DRG00277,S0090XA,"Unspecified superficial injury of unspecified part of head, initial encounter"
+DRG00277,S0095XA,"Superficial foreign body of unspecified part of head, initial encounter"
+DRG00277,S1090XA,"Unspecified superficial injury of unspecified part of neck, initial encounter"
+DRG00277,S1091XA,"Abrasion of unspecified part of neck, initial encounter"
+DRG00277,S1095XA,"Superficial foreign body of unspecified part of neck, initial encounter"
+DRG00277,S2090XA,"Unspecified superficial injury of unspecified parts of thorax, initial encounter"
+DRG00277,S2091XA,"Abrasion of unspecified parts of thorax, initial encounter"
+DRG00277,S2095XA,"Superficial foreign body of unspecified parts of thorax, initial encounter"
+DRG00277,S40219A,"Abrasion of unspecified shoulder, initial encounter"
+DRG00277,S40229A,"Blister (nonthermal) of unspecified shoulder, initial encounter"
+DRG00277,S40259A,"Superficial foreign body of unspecified shoulder, initial encounter"
+DRG00277,S40819A,"Abrasion of unspecified upper arm, initial encounter"
+DRG00277,S40829A,"Blister (nonthermal) of unspecified upper arm, initial encounter"
+DRG00277,S40859A,"Superficial foreign body of unspecified upper arm, initial encounter"
+DRG00277,S40919A,"Unspecified superficial injury of unspecified shoulder, initial encounter"
+DRG00277,S40929A,"Unspecified superficial injury of unspecified upper arm, initial encounter"
+DRG00277,S50319A,"Abrasion of unspecified elbow, initial encounter"
+DRG00277,S50359A,"Superficial foreign body of unspecified elbow, initial encounter"
+DRG00277,S50819A,"Abrasion of unspecified forearm, initial encounter"
+DRG00277,S50859A,"Superficial foreign body of unspecified forearm, initial encounter"
+DRG00277,S50909A,"Unspecified superficial injury of unspecified elbow, initial encounter"
+DRG00277,S50919A,"Unspecified superficial injury of unspecified forearm, initial encounter"
+DRG00277,S60319A,"Abrasion of unspecified thumb, initial encounter"
+DRG00277,S60359A,"Superficial foreign body of unspecified thumb, initial encounter"
+DRG00277,S60419A,"Abrasion of unspecified finger, initial encounter"
+DRG00277,S60459A,"Superficial foreign body of unspecified finger, initial encounter"
+DRG00277,S60519A,"Abrasion of unspecified hand, initial encounter"
+DRG00277,S60559A,"Superficial foreign body of unspecified hand, initial encounter"
+DRG00277,S60819A,"Abrasion of unspecified wrist, initial encounter"
+DRG00277,S60859A,"Superficial foreign body of unspecified wrist, initial encounter"
+DRG00277,S60919A,"Unspecified superficial injury of unspecified wrist, initial encounter"
+DRG00277,S60929A,"Unspecified superficial injury of unspecified hand, initial encounter"
+DRG00277,S60939A,"Unspecified superficial injury of unspecified thumb, initial encounter"
+DRG00277,S60949A,"Unspecified superficial injury of unspecified finger, initial encounter"
+DRG00277,S70219A,"Abrasion, unspecified hip, initial encounter"
+DRG00277,S70259A,"Superficial foreign body, unspecified hip, initial encounter"
+DRG00277,S70319A,"Abrasion, unspecified thigh, initial encounter"
+DRG00277,S70359A,"Superficial foreign body, unspecified thigh, initial encounter"
+DRG00277,S70919A,"Unspecified superficial injury of unspecified hip, initial encounter"
+DRG00277,S70929A,"Unspecified superficial injury of unspecified thigh, initial encounter"
+DRG00277,S80219A,"Abrasion, unspecified knee, initial encounter"
+DRG00277,S80259A,"Superficial foreign body, unspecified knee, initial encounter"
+DRG00277,S80819A,"Abrasion, unspecified lower leg, initial encounter"
+DRG00277,S80859A,"Superficial foreign body, unspecified lower leg, initial encounter"
+DRG00277,S80919A,"Unspecified superficial injury of unspecified knee, initial encounter"
+DRG00277,S80929A,"Unspecified superficial injury of unspecified lower leg, initial encounter"
+DRG00277,S90413A,"Abrasion, unspecified great toe, initial encounter"
+DRG00277,S90416A,"Abrasion, unspecified lesser toe(s), initial encounter"
+DRG00277,S90453A,"Superficial foreign body, unspecified great toe, initial encounter"
+DRG00277,S90456A,"Superficial foreign body, unspecified lesser toe(s), initial encounter"
+DRG00277,S90519A,"Abrasion, unspecified ankle, initial encounter"
+DRG00277,S90559A,"Superficial foreign body, unspecified ankle, initial encounter"
+DRG00277,S90819A,"Abrasion, unspecified foot, initial encounter"
+DRG00277,S90859A,"Superficial foreign body, unspecified foot, initial encounter"
+DRG00277,S90919A,"Unspecified superficial injury of unspecified ankle, initial encounter"
+DRG00277,S90929A,"Unspecified superficial injury of unspecified foot, initial encounter"
+DRG00277,S90933A,"Unspecified superficial injury of unspecified great toe, initial encounter"
+DRG00277,S90936A,"Unspecified superficial injury of unspecified lesser toe(s), initial encounter"
+DRG00277,T07,Unspecified multiple injuries

@@ -1,761 +1,761 @@
-,DRG,CM-PCS,en
-2557,DRG26303,L0201,Cutaneous abscess of face
-2558,DRG26303,L0211,Cutaneous abscess of neck
-2559,DRG26303,L02211,Cutaneous abscess of abdominal wall
-2560,DRG26303,L02212,"Cutaneous abscess of back [any part, except buttock]"
-2561,DRG26303,L02213,Cutaneous abscess of chest wall
-2562,DRG26303,L02214,Cutaneous abscess of groin
-2563,DRG26303,L02215,Cutaneous abscess of perineum
-2564,DRG26303,L02216,Cutaneous abscess of umbilicus
-2565,DRG26303,L02219,"Cutaneous abscess of trunk, unspecified"
-2566,DRG26303,L0231,Cutaneous abscess of buttock
-2567,DRG26303,L02411,Cutaneous abscess of right axilla
-2568,DRG26303,L02412,Cutaneous abscess of left axilla
-2569,DRG26303,L02413,Cutaneous abscess of right upper limb
-2570,DRG26303,L02414,Cutaneous abscess of left upper limb
-2571,DRG26303,L02415,Cutaneous abscess of right lower limb
-2572,DRG26303,L02416,Cutaneous abscess of left lower limb
-2573,DRG26303,L02419,"Cutaneous abscess of limb, unspecified"
-2574,DRG26303,L02511,Cutaneous abscess of right hand
-2575,DRG26303,L02512,Cutaneous abscess of left hand
-2576,DRG26303,L02519,Cutaneous abscess of unspecified hand
-2577,DRG26303,L02611,Cutaneous abscess of right foot
-2578,DRG26303,L02612,Cutaneous abscess of left foot
-2579,DRG26303,L02619,Cutaneous abscess of unspecified foot
-2580,DRG26303,L02811,"Cutaneous abscess of head [any part, except face]"
-2581,DRG26303,L02818,Cutaneous abscess of other sites
-2582,DRG26303,L0291,"Cutaneous abscess, unspecified"
-2583,DRG26303,L03011,Cellulitis of right finger
-2584,DRG26303,L03012,Cellulitis of left finger
-2585,DRG26303,L03019,Cellulitis of unspecified finger
-2586,DRG26303,L03021,Acute lymphangitis of right finger
-2587,DRG26303,L03022,Acute lymphangitis of left finger
-2588,DRG26303,L03029,Acute lymphangitis of unspecified finger
-2589,DRG26303,L03031,Cellulitis of right toe
-2590,DRG26303,L03032,Cellulitis of left toe
-2591,DRG26303,L03039,Cellulitis of unspecified toe
-2592,DRG26303,L03041,Acute lymphangitis of right toe
-2593,DRG26303,L03042,Acute lymphangitis of left toe
-2594,DRG26303,L03049,Acute lymphangitis of unspecified toe
-2595,DRG26303,L03111,Cellulitis of right axilla
-2596,DRG26303,L03112,Cellulitis of left axilla
-2597,DRG26303,L03113,Cellulitis of right upper limb
-2598,DRG26303,L03114,Cellulitis of left upper limb
-2599,DRG26303,L03115,Cellulitis of right lower limb
-2600,DRG26303,L03116,Cellulitis of left lower limb
-2601,DRG26303,L03119,Cellulitis of unspecified part of limb
-2602,DRG26303,L03121,Acute lymphangitis of right axilla
-2603,DRG26303,L03122,Acute lymphangitis of left axilla
-2604,DRG26303,L03123,Acute lymphangitis of right upper limb
-2605,DRG26303,L03124,Acute lymphangitis of left upper limb
-2606,DRG26303,L03125,Acute lymphangitis of right lower limb
-2607,DRG26303,L03126,Acute lymphangitis of left lower limb
-2608,DRG26303,L03129,Acute lymphangitis of unspecified part of limb
-2609,DRG26303,L03211,Cellulitis of face
-2610,DRG26303,L03212,Acute lymphangitis of face
-2611,DRG26303,L03221,Cellulitis of neck
-2612,DRG26303,L03222,Acute lymphangitis of neck
-2613,DRG26303,L03311,Cellulitis of abdominal wall
-2614,DRG26303,L03312,Cellulitis of back [any part except buttock]
-2615,DRG26303,L03313,Cellulitis of chest wall
-2616,DRG26303,L03314,Cellulitis of groin
-2617,DRG26303,L03315,Cellulitis of perineum
-2618,DRG26303,L03316,Cellulitis of umbilicus
-2619,DRG26303,L03317,Cellulitis of buttock
-2620,DRG26303,L03319,"Cellulitis of trunk, unspecified"
-2621,DRG26303,L03321,Acute lymphangitis of abdominal wall
-2622,DRG26303,L03322,Acute lymphangitis of back [any part except buttock]
-2623,DRG26303,L03323,Acute lymphangitis of chest wall
-2624,DRG26303,L03324,Acute lymphangitis of groin
-2625,DRG26303,L03325,Acute lymphangitis of perineum
-2626,DRG26303,L03326,Acute lymphangitis of umbilicus
-2627,DRG26303,L03327,Acute lymphangitis of buttock
-2628,DRG26303,L03329,"Acute lymphangitis of trunk, unspecified"
-2629,DRG26303,L03811,"Cellulitis of head [any part, except face]"
-2630,DRG26303,L03818,Cellulitis of other sites
-2631,DRG26303,L03891,"Acute lymphangitis of head [any part, except face]"
-2632,DRG26303,L03898,Acute lymphangitis of other sites
-2633,DRG26303,L0390,"Cellulitis, unspecified"
-2634,DRG26303,L0391,"Acute lymphangitis, unspecified"
-2635,DRG26303,L89000,"Pressure ulcer of unspecified elbow, unstageable"
-2636,DRG26303,L89001,"Pressure ulcer of unspecified elbow, stage 1"
-2637,DRG26303,L89002,"Pressure ulcer of unspecified elbow, stage 2"
-2638,DRG26303,L89003,"Pressure ulcer of unspecified elbow, stage 3"
-2639,DRG26303,L89004,"Pressure ulcer of unspecified elbow, stage 4"
-2640,DRG26303,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
-2641,DRG26303,L89010,"Pressure ulcer of right elbow, unstageable"
-2642,DRG26303,L89011,"Pressure ulcer of right elbow, stage 1"
-2643,DRG26303,L89012,"Pressure ulcer of right elbow, stage 2"
-2644,DRG26303,L89013,"Pressure ulcer of right elbow, stage 3"
-2645,DRG26303,L89014,"Pressure ulcer of right elbow, stage 4"
-2646,DRG26303,L89020,"Pressure ulcer of left elbow, unstageable"
-2647,DRG26303,L89021,"Pressure ulcer of left elbow, stage 1"
-2648,DRG26303,L89022,"Pressure ulcer of left elbow, stage 2"
-2649,DRG26303,L89023,"Pressure ulcer of left elbow, stage 3"
-2650,DRG26303,L89024,"Pressure ulcer of left elbow, stage 4"
-2651,DRG26303,L89100,"Pressure ulcer of unspecified part of back, unstageable"
-2652,DRG26303,L89101,"Pressure ulcer of unspecified part of back, stage 1"
-2653,DRG26303,L89102,"Pressure ulcer of unspecified part of back, stage 2"
-2654,DRG26303,L89103,"Pressure ulcer of unspecified part of back, stage 3"
-2655,DRG26303,L89104,"Pressure ulcer of unspecified part of back, stage 4"
-2656,DRG26303,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
-2657,DRG26303,L89110,"Pressure ulcer of right upper back, unstageable"
-2658,DRG26303,L89111,"Pressure ulcer of right upper back, stage 1"
-2659,DRG26303,L89112,"Pressure ulcer of right upper back, stage 2"
-2660,DRG26303,L89113,"Pressure ulcer of right upper back, stage 3"
-2661,DRG26303,L89114,"Pressure ulcer of right upper back, stage 4"
-2662,DRG26303,L89119,"Pressure ulcer of right upper back, unspecified stage"
-2663,DRG26303,L89120,"Pressure ulcer of left upper back, unstageable"
-2664,DRG26303,L89121,"Pressure ulcer of left upper back, stage 1"
-2665,DRG26303,L89122,"Pressure ulcer of left upper back, stage 2"
-2666,DRG26303,L89123,"Pressure ulcer of left upper back, stage 3"
-2667,DRG26303,L89124,"Pressure ulcer of left upper back, stage 4"
-2668,DRG26303,L89129,"Pressure ulcer of left upper back, unspecified stage"
-2669,DRG26303,L89130,"Pressure ulcer of right lower back, unstageable"
-2670,DRG26303,L89131,"Pressure ulcer of right lower back, stage 1"
-2671,DRG26303,L89132,"Pressure ulcer of right lower back, stage 2"
-2672,DRG26303,L89133,"Pressure ulcer of right lower back, stage 3"
-2673,DRG26303,L89134,"Pressure ulcer of right lower back, stage 4"
-2674,DRG26303,L89139,"Pressure ulcer of right lower back, unspecified stage"
-2675,DRG26303,L89140,"Pressure ulcer of left lower back, unstageable"
-2676,DRG26303,L89141,"Pressure ulcer of left lower back, stage 1"
-2677,DRG26303,L89142,"Pressure ulcer of left lower back, stage 2"
-2678,DRG26303,L89143,"Pressure ulcer of left lower back, stage 3"
-2679,DRG26303,L89144,"Pressure ulcer of left lower back, stage 4"
-2680,DRG26303,L89149,"Pressure ulcer of left lower back, unspecified stage"
-2681,DRG26303,L89150,"Pressure ulcer of sacral region, unstageable"
-2682,DRG26303,L89151,"Pressure ulcer of sacral region, stage 1"
-2683,DRG26303,L89152,"Pressure ulcer of sacral region, stage 2"
-2684,DRG26303,L89153,"Pressure ulcer of sacral region, stage 3"
-2685,DRG26303,L89154,"Pressure ulcer of sacral region, stage 4"
-2686,DRG26303,L89159,"Pressure ulcer of sacral region, unspecified stage"
-2687,DRG26303,L89200,"Pressure ulcer of unspecified hip, unstageable"
-2688,DRG26303,L89201,"Pressure ulcer of unspecified hip, stage 1"
-2689,DRG26303,L89202,"Pressure ulcer of unspecified hip, stage 2"
-2690,DRG26303,L89203,"Pressure ulcer of unspecified hip, stage 3"
-2691,DRG26303,L89204,"Pressure ulcer of unspecified hip, stage 4"
-2692,DRG26303,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
-2693,DRG26303,L89210,"Pressure ulcer of right hip, unstageable"
-2694,DRG26303,L89211,"Pressure ulcer of right hip, stage 1"
-2695,DRG26303,L89212,"Pressure ulcer of right hip, stage 2"
-2696,DRG26303,L89213,"Pressure ulcer of right hip, stage 3"
-2697,DRG26303,L89214,"Pressure ulcer of right hip, stage 4"
-2698,DRG26303,L89219,"Pressure ulcer of right hip, unspecified stage"
-2699,DRG26303,L89220,"Pressure ulcer of left hip, unstageable"
-2700,DRG26303,L89221,"Pressure ulcer of left hip, stage 1"
-2701,DRG26303,L89222,"Pressure ulcer of left hip, stage 2"
-2702,DRG26303,L89223,"Pressure ulcer of left hip, stage 3"
-2703,DRG26303,L89224,"Pressure ulcer of left hip, stage 4"
-2704,DRG26303,L89229,"Pressure ulcer of left hip, unspecified stage"
-2705,DRG26303,L89300,"Pressure ulcer of unspecified buttock, unstageable"
-2706,DRG26303,L89301,"Pressure ulcer of unspecified buttock, stage 1"
-2707,DRG26303,L89302,"Pressure ulcer of unspecified buttock, stage 2"
-2708,DRG26303,L89303,"Pressure ulcer of unspecified buttock, stage 3"
-2709,DRG26303,L89304,"Pressure ulcer of unspecified buttock, stage 4"
-2710,DRG26303,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
-2711,DRG26303,L89310,"Pressure ulcer of right buttock, unstageable"
-2712,DRG26303,L89311,"Pressure ulcer of right buttock, stage 1"
-2713,DRG26303,L89312,"Pressure ulcer of right buttock, stage 2"
-2714,DRG26303,L89313,"Pressure ulcer of right buttock, stage 3"
-2715,DRG26303,L89314,"Pressure ulcer of right buttock, stage 4"
-2716,DRG26303,L89319,"Pressure ulcer of right buttock, unspecified stage"
-2717,DRG26303,L89320,"Pressure ulcer of left buttock, unstageable"
-2718,DRG26303,L89321,"Pressure ulcer of left buttock, stage 1"
-2719,DRG26303,L89322,"Pressure ulcer of left buttock, stage 2"
-2720,DRG26303,L89323,"Pressure ulcer of left buttock, stage 3"
-2721,DRG26303,L89324,"Pressure ulcer of left buttock, stage 4"
-2722,DRG26303,L89329,"Pressure ulcer of left buttock, unspecified stage"
-2723,DRG26303,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
-2724,DRG26303,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
-2725,DRG26303,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
-2726,DRG26303,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
-2727,DRG26303,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
-2728,DRG26303,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
-2729,DRG26303,L89500,"Pressure ulcer of unspecified ankle, unstageable"
-2730,DRG26303,L89501,"Pressure ulcer of unspecified ankle, stage 1"
-2731,DRG26303,L89502,"Pressure ulcer of unspecified ankle, stage 2"
-2732,DRG26303,L89503,"Pressure ulcer of unspecified ankle, stage 3"
-2733,DRG26303,L89504,"Pressure ulcer of unspecified ankle, stage 4"
-2734,DRG26303,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
-2735,DRG26303,L89510,"Pressure ulcer of right ankle, unstageable"
-2736,DRG26303,L89511,"Pressure ulcer of right ankle, stage 1"
-2737,DRG26303,L89512,"Pressure ulcer of right ankle, stage 2"
-2738,DRG26303,L89513,"Pressure ulcer of right ankle, stage 3"
-2739,DRG26303,L89514,"Pressure ulcer of right ankle, stage 4"
-2740,DRG26303,L89519,"Pressure ulcer of right ankle, unspecified stage"
-2741,DRG26303,L89520,"Pressure ulcer of left ankle, unstageable"
-2742,DRG26303,L89521,"Pressure ulcer of left ankle, stage 1"
-2743,DRG26303,L89522,"Pressure ulcer of left ankle, stage 2"
-2744,DRG26303,L89523,"Pressure ulcer of left ankle, stage 3"
-2745,DRG26303,L89524,"Pressure ulcer of left ankle, stage 4"
-2746,DRG26303,L89529,"Pressure ulcer of left ankle, unspecified stage"
-2747,DRG26303,L89600,"Pressure ulcer of unspecified heel, unstageable"
-2748,DRG26303,L89601,"Pressure ulcer of unspecified heel, stage 1"
-2749,DRG26303,L89602,"Pressure ulcer of unspecified heel, stage 2"
-2750,DRG26303,L89603,"Pressure ulcer of unspecified heel, stage 3"
-2751,DRG26303,L89604,"Pressure ulcer of unspecified heel, stage 4"
-2752,DRG26303,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
-2753,DRG26303,L89610,"Pressure ulcer of right heel, unstageable"
-2754,DRG26303,L89611,"Pressure ulcer of right heel, stage 1"
-2755,DRG26303,L89612,"Pressure ulcer of right heel, stage 2"
-2756,DRG26303,L89613,"Pressure ulcer of right heel, stage 3"
-2757,DRG26303,L89614,"Pressure ulcer of right heel, stage 4"
-2758,DRG26303,L89620,"Pressure ulcer of left heel, unstageable"
-2759,DRG26303,L89621,"Pressure ulcer of left heel, stage 1"
-2760,DRG26303,L89622,"Pressure ulcer of left heel, stage 2"
-2761,DRG26303,L89623,"Pressure ulcer of left heel, stage 3"
-2762,DRG26303,L89624,"Pressure ulcer of left heel, stage 4"
-2763,DRG26303,L89629,"Pressure ulcer of left heel, unspecified stage"
-2764,DRG26303,L89810,"Pressure ulcer of head, unstageable"
-2765,DRG26303,L89811,"Pressure ulcer of head, stage 1"
-2766,DRG26303,L89812,"Pressure ulcer of head, stage 2"
-2767,DRG26303,L89813,"Pressure ulcer of head, stage 3"
-2768,DRG26303,L89814,"Pressure ulcer of head, stage 4"
-2769,DRG26303,L89819,"Pressure ulcer of head, unspecified stage"
-2770,DRG26303,L89890,"Pressure ulcer of other site, unstageable"
-2771,DRG26303,L89891,"Pressure ulcer of other site, stage 1"
-2772,DRG26303,L89892,"Pressure ulcer of other site, stage 2"
-2773,DRG26303,L89893,"Pressure ulcer of other site, stage 3"
-2774,DRG26303,L89894,"Pressure ulcer of other site, stage 4"
-2775,DRG26303,L89899,"Pressure ulcer of other site, unspecified stage"
-2776,DRG26303,L8990,"Pressure ulcer of unspecified site, unspecified stage"
-2777,DRG26303,L8991,"Pressure ulcer of unspecified site, stage 1"
-2778,DRG26303,L8992,"Pressure ulcer of unspecified site, stage 2"
-2779,DRG26303,L8993,"Pressure ulcer of unspecified site, stage 3"
-2780,DRG26303,L8994,"Pressure ulcer of unspecified site, stage 4"
-2781,DRG26303,L8995,"Pressure ulcer of unspecified site, unstageable"
-2782,DRG26303,L97101,Non-pressure chronic ulcer of unspecified thigh limited to breakdown of skin
-2783,DRG26303,L97102,Non-pressure chronic ulcer of unspecified thigh with fat layer exposed
-2784,DRG26303,L97103,Non-pressure chronic ulcer of unspecified thigh with necrosis of muscle
-2785,DRG26303,L97104,Non-pressure chronic ulcer of unspecified thigh with necrosis of bone
-2786,DRG26303,L97109,Non-pressure chronic ulcer of unspecified thigh with unspecified severity
-2787,DRG26303,L97111,Non-pressure chronic ulcer of right thigh limited to breakdown of skin
-2788,DRG26303,L97112,Non-pressure chronic ulcer of right thigh with fat layer exposed
-2789,DRG26303,L97113,Non-pressure chronic ulcer of right thigh with necrosis of muscle
-2790,DRG26303,L97114,Non-pressure chronic ulcer of right thigh with necrosis of bone
-2791,DRG26303,L97119,Non-pressure chronic ulcer of right thigh with unspecified severity
-2792,DRG26303,L97121,Non-pressure chronic ulcer of left thigh limited to breakdown of skin
-2793,DRG26303,L97122,Non-pressure chronic ulcer of left thigh with fat layer exposed
-2794,DRG26303,L97123,Non-pressure chronic ulcer of left thigh with necrosis of muscle
-2795,DRG26303,L97124,Non-pressure chronic ulcer of left thigh with necrosis of bone
-2796,DRG26303,L97129,Non-pressure chronic ulcer of left thigh with unspecified severity
-2797,DRG26303,L97201,Non-pressure chronic ulcer of unspecified calf limited to breakdown of skin
-2798,DRG26303,L97202,Non-pressure chronic ulcer of unspecified calf with fat layer exposed
-2799,DRG26303,L97203,Non-pressure chronic ulcer of unspecified calf with necrosis of muscle
-2800,DRG26303,L97204,Non-pressure chronic ulcer of unspecified calf with necrosis of bone
-2801,DRG26303,L97209,Non-pressure chronic ulcer of unspecified calf with unspecified severity
-2802,DRG26303,L97211,Non-pressure chronic ulcer of right calf limited to breakdown of skin
-2803,DRG26303,L97212,Non-pressure chronic ulcer of right calf with fat layer exposed
-2804,DRG26303,L97213,Non-pressure chronic ulcer of right calf with necrosis of muscle
-2805,DRG26303,L97214,Non-pressure chronic ulcer of right calf with necrosis of bone
-2806,DRG26303,L97219,Non-pressure chronic ulcer of right calf with unspecified severity
-2807,DRG26303,L97221,Non-pressure chronic ulcer of left calf limited to breakdown of skin
-2808,DRG26303,L97222,Non-pressure chronic ulcer of left calf with fat layer exposed
-2809,DRG26303,L97223,Non-pressure chronic ulcer of left calf with necrosis of muscle
-2810,DRG26303,L97224,Non-pressure chronic ulcer of left calf with necrosis of bone
-2811,DRG26303,L97229,Non-pressure chronic ulcer of left calf with unspecified severity
-2812,DRG26303,L97301,Non-pressure chronic ulcer of unspecified ankle limited to breakdown of skin
-2813,DRG26303,L97302,Non-pressure chronic ulcer of unspecified ankle with fat layer exposed
-2814,DRG26303,L97303,Non-pressure chronic ulcer of unspecified ankle with necrosis of muscle
-2815,DRG26303,L97304,Non-pressure chronic ulcer of unspecified ankle with necrosis of bone
-2816,DRG26303,L97309,Non-pressure chronic ulcer of unspecified ankle with unspecified severity
-2817,DRG26303,L97311,Non-pressure chronic ulcer of right ankle limited to breakdown of skin
-2818,DRG26303,L97312,Non-pressure chronic ulcer of right ankle with fat layer exposed
-2819,DRG26303,L97313,Non-pressure chronic ulcer of right ankle with necrosis of muscle
-2820,DRG26303,L97314,Non-pressure chronic ulcer of right ankle with necrosis of bone
-2821,DRG26303,L97319,Non-pressure chronic ulcer of right ankle with unspecified severity
-2822,DRG26303,L97321,Non-pressure chronic ulcer of left ankle limited to breakdown of skin
-2823,DRG26303,L97322,Non-pressure chronic ulcer of left ankle with fat layer exposed
-2824,DRG26303,L97323,Non-pressure chronic ulcer of left ankle with necrosis of muscle
-2825,DRG26303,L97324,Non-pressure chronic ulcer of left ankle with necrosis of bone
-2826,DRG26303,L97329,Non-pressure chronic ulcer of left ankle with unspecified severity
-2827,DRG26303,L97401,Non-pressure chronic ulcer of unspecified heel and midfoot limited to breakdown of skin
-2828,DRG26303,L97402,Non-pressure chronic ulcer of unspecified heel and midfoot with fat layer exposed
-2829,DRG26303,L97403,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of muscle
-2830,DRG26303,L97404,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of bone
-2831,DRG26303,L97409,Non-pressure chronic ulcer of unspecified heel and midfoot with unspecified severity
-2832,DRG26303,L97411,Non-pressure chronic ulcer of right heel and midfoot limited to breakdown of skin
-2833,DRG26303,L97412,Non-pressure chronic ulcer of right heel and midfoot with fat layer exposed
-2834,DRG26303,L97413,Non-pressure chronic ulcer of right heel and midfoot with necrosis of muscle
-2835,DRG26303,L97414,Non-pressure chronic ulcer of right heel and midfoot with necrosis of bone
-2836,DRG26303,L97419,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity
-2837,DRG26303,L97421,Non-pressure chronic ulcer of left heel and midfoot limited to breakdown of skin
-2838,DRG26303,L97422,Non-pressure chronic ulcer of left heel and midfoot with fat layer exposed
-2839,DRG26303,L97423,Non-pressure chronic ulcer of left heel and midfoot with necrosis of muscle
-2840,DRG26303,L97424,Non-pressure chronic ulcer of left heel and midfoot with necrosis of bone
-2841,DRG26303,L97429,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity
-2842,DRG26303,L97501,Non-pressure chronic ulcer of other part of unspecified foot limited to breakdown of skin
-2843,DRG26303,L97502,Non-pressure chronic ulcer of other part of unspecified foot with fat layer exposed
-2844,DRG26303,L97503,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of muscle
-2845,DRG26303,L97504,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of bone
-2846,DRG26303,L97509,Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity
-2847,DRG26303,L97511,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin
-2848,DRG26303,L97512,Non-pressure chronic ulcer of other part of right foot with fat layer exposed
-2849,DRG26303,L97513,Non-pressure chronic ulcer of other part of right foot with necrosis of muscle
-2850,DRG26303,L97514,Non-pressure chronic ulcer of other part of right foot with necrosis of bone
-2851,DRG26303,L97519,Non-pressure chronic ulcer of other part of right foot with unspecified severity
-2852,DRG26303,L97521,Non-pressure chronic ulcer of other part of left foot limited to breakdown of skin
-2853,DRG26303,L97522,Non-pressure chronic ulcer of other part of left foot with fat layer exposed
-2854,DRG26303,L97523,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle
-2855,DRG26303,L97524,Non-pressure chronic ulcer of other part of left foot with necrosis of bone
-2856,DRG26303,L97529,Non-pressure chronic ulcer of other part of left foot with unspecified severity
-2857,DRG26303,L97801,Non-pressure chronic ulcer of other part of unspecified lower leg limited to breakdown of skin
-2858,DRG26303,L97802,Non-pressure chronic ulcer of other part of unspecified lower leg with fat layer exposed
-2859,DRG26303,L97803,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of muscle
-2860,DRG26303,L97804,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of bone
-2861,DRG26303,L97809,Non-pressure chronic ulcer of other part of unspecified lower leg with unspecified severity
-2862,DRG26303,L97811,Non-pressure chronic ulcer of other part of right lower leg limited to breakdown of skin
-2863,DRG26303,L97812,Non-pressure chronic ulcer of other part of right lower leg with fat layer exposed
-2864,DRG26303,L97813,Non-pressure chronic ulcer of other part of right lower leg with necrosis of muscle
-2865,DRG26303,L97814,Non-pressure chronic ulcer of other part of right lower leg with necrosis of bone
-2866,DRG26303,L97819,Non-pressure chronic ulcer of other part of right lower leg with unspecified severity
-2867,DRG26303,L97821,Non-pressure chronic ulcer of other part of left lower leg limited to breakdown of skin
-2868,DRG26303,L97822,Non-pressure chronic ulcer of other part of left lower leg with fat layer exposed
-2869,DRG26303,L97823,Non-pressure chronic ulcer of other part of left lower leg with necrosis of muscle
-2870,DRG26303,L97824,Non-pressure chronic ulcer of other part of left lower leg with necrosis of bone
-2871,DRG26303,L97829,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity
-2872,DRG26303,L97901,Non-pressure chronic ulcer of unspecified part of unspecified lower leg limited to breakdown of skin
-2873,DRG26303,L97902,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with fat layer exposed
-2874,DRG26303,L97903,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of muscle
-2875,DRG26303,L97904,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of bone
-2876,DRG26303,L97909,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with unspecified severity
-2877,DRG26303,L97911,Non-pressure chronic ulcer of unspecified part of right lower leg limited to breakdown of skin
-2878,DRG26303,L97912,Non-pressure chronic ulcer of unspecified part of right lower leg with fat layer exposed
-2879,DRG26303,L97913,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of muscle
-2880,DRG26303,L97914,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of bone
-2881,DRG26303,L97919,Non-pressure chronic ulcer of unspecified part of right lower leg with unspecified severity
-2882,DRG26303,L97921,Non-pressure chronic ulcer of unspecified part of left lower leg limited to breakdown of skin
-2883,DRG26303,L97922,Non-pressure chronic ulcer of unspecified part of left lower leg with fat layer exposed
-2884,DRG26303,L97923,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of muscle
-2885,DRG26303,L97924,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of bone
-2886,DRG26303,L97929,Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity
-2887,DRG26303,L983,Eosinophilic cellulitis [Wells]
-2888,DRG26303,L98411,Non-pressure chronic ulcer of buttock limited to breakdown of skin
-2889,DRG26303,L98412,Non-pressure chronic ulcer of buttock with fat layer exposed
-2890,DRG26303,L98413,Non-pressure chronic ulcer of buttock with necrosis of muscle
-2891,DRG26303,L98414,Non-pressure chronic ulcer of buttock with necrosis of bone
-2892,DRG26303,L98419,Non-pressure chronic ulcer of buttock with unspecified severity
-2893,DRG26303,L98421,Non-pressure chronic ulcer of back limited to breakdown of skin
-2894,DRG26303,L98422,Non-pressure chronic ulcer of back with fat layer exposed
-2895,DRG26303,L98423,Non-pressure chronic ulcer of back with necrosis of muscle
-2896,DRG26303,L98424,Non-pressure chronic ulcer of back with necrosis of bone
-2897,DRG26303,L98429,Non-pressure chronic ulcer of back with unspecified severity
-2898,DRG26303,L98491,Non-pressure chronic ulcer of skin of other sites limited to breakdown of skin
-2899,DRG26303,L98492,Non-pressure chronic ulcer of skin of other sites with fat layer exposed
-2900,DRG26303,L98493,Non-pressure chronic ulcer of skin of other sites with necrosis of muscle
-2901,DRG26303,L98494,Non-pressure chronic ulcer of skin of other sites with necrosis of bone
-2902,DRG26303,L98499,Non-pressure chronic ulcer of skin of other sites with unspecified severity
-2905,DRG26303,0HB0XZZ,"Excision of Scalp Skin, External Approach"
-2906,DRG26303,0HB1XZZ,"Excision of Face Skin, External Approach"
-2907,DRG26303,0HB4XZZ,"Excision of Neck Skin, External Approach"
-2908,DRG26303,0HB5XZZ,"Excision of Chest Skin, External Approach"
-2909,DRG26303,0HB6XZZ,"Excision of Back Skin, External Approach"
-2910,DRG26303,0HB7XZZ,"Excision of Abdomen Skin, External Approach"
-2911,DRG26303,0HB8XZZ,"Excision of Buttock Skin, External Approach"
-2912,DRG26303,0HBAXZZ,"Excision of Genitalia Skin, External Approach"
-2913,DRG26303,0HBBXZZ,"Excision of Right Upper Arm Skin, External Approach"
-2914,DRG26303,0HBCXZZ,"Excision of Left Upper Arm Skin, External Approach"
-2915,DRG26303,0HBDXZZ,"Excision of Right Lower Arm Skin, External Approach"
-2916,DRG26303,0HBEXZZ,"Excision of Left Lower Arm Skin, External Approach"
-2917,DRG26303,0HBFXZZ,"Excision of Right Hand Skin, External Approach"
-2918,DRG26303,0HBGXZZ,"Excision of Left Hand Skin, External Approach"
-2919,DRG26303,0HBHXZZ,"Excision of Right Upper Leg Skin, External Approach"
-2920,DRG26303,0HBJXZZ,"Excision of Left Upper Leg Skin, External Approach"
-2921,DRG26303,0HBKXZZ,"Excision of Right Lower Leg Skin, External Approach"
-2922,DRG26303,0HBLXZZ,"Excision of Left Lower Leg Skin, External Approach"
-2923,DRG26303,0HBMXZZ,"Excision of Right Foot Skin, External Approach"
-2924,DRG26303,0HBNXZZ,"Excision of Left Foot Skin, External Approach"
-2925,DRG26303,0HR0X73,"Replacement of Scalp Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2926,DRG26303,0HR0X74,"Replacement of Scalp Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2927,DRG26303,0HR0XJ3,"Replacement of Scalp Skin with Synthetic Substitute, Full Thickness, External Approach"
-2928,DRG26303,0HR0XJ4,"Replacement of Scalp Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2929,DRG26303,0HR0XJZ,"Replacement of Scalp Skin with Synthetic Substitute, External Approach"
-2930,DRG26303,0HR0XK3,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2931,DRG26303,0HR0XK4,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2932,DRG26303,0HR1X73,"Replacement of Face Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2933,DRG26303,0HR1X74,"Replacement of Face Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2934,DRG26303,0HR1XJ3,"Replacement of Face Skin with Synthetic Substitute, Full Thickness, External Approach"
-2935,DRG26303,0HR1XJ4,"Replacement of Face Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2936,DRG26303,0HR1XJZ,"Replacement of Face Skin with Synthetic Substitute, External Approach"
-2937,DRG26303,0HR1XK3,"Replacement of Face Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2938,DRG26303,0HR1XK4,"Replacement of Face Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2939,DRG26303,0HR4X73,"Replacement of Neck Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2940,DRG26303,0HR4X74,"Replacement of Neck Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2941,DRG26303,0HR4XJ3,"Replacement of Neck Skin with Synthetic Substitute, Full Thickness, External Approach"
-2942,DRG26303,0HR4XJ4,"Replacement of Neck Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2943,DRG26303,0HR4XJZ,"Replacement of Neck Skin with Synthetic Substitute, External Approach"
-2944,DRG26303,0HR4XK3,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2945,DRG26303,0HR4XK4,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2946,DRG26303,0HR5X73,"Replacement of Chest Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2947,DRG26303,0HR5X74,"Replacement of Chest Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2948,DRG26303,0HR5XJ3,"Replacement of Chest Skin with Synthetic Substitute, Full Thickness, External Approach"
-2949,DRG26303,0HR5XJ4,"Replacement of Chest Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2950,DRG26303,0HR5XJZ,"Replacement of Chest Skin with Synthetic Substitute, External Approach"
-2951,DRG26303,0HR5XK3,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2952,DRG26303,0HR5XK4,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2953,DRG26303,0HR6X73,"Replacement of Back Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2954,DRG26303,0HR6X74,"Replacement of Back Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2955,DRG26303,0HR6XJ3,"Replacement of Back Skin with Synthetic Substitute, Full Thickness, External Approach"
-2956,DRG26303,0HR6XJ4,"Replacement of Back Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2957,DRG26303,0HR6XJZ,"Replacement of Back Skin with Synthetic Substitute, External Approach"
-2958,DRG26303,0HR6XK3,"Replacement of Back Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2959,DRG26303,0HR6XK4,"Replacement of Back Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2960,DRG26303,0HR7X73,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2961,DRG26303,0HR7X74,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2962,DRG26303,0HR7XJ3,"Replacement of Abdomen Skin with Synthetic Substitute, Full Thickness, External Approach"
-2963,DRG26303,0HR7XJ4,"Replacement of Abdomen Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2964,DRG26303,0HR7XJZ,"Replacement of Abdomen Skin with Synthetic Substitute, External Approach"
-2965,DRG26303,0HR7XK3,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2966,DRG26303,0HR7XK4,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2967,DRG26303,0HR8X73,"Replacement of Buttock Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2968,DRG26303,0HR8X74,"Replacement of Buttock Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2969,DRG26303,0HR8XJ3,"Replacement of Buttock Skin with Synthetic Substitute, Full Thickness, External Approach"
-2970,DRG26303,0HR8XJ4,"Replacement of Buttock Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2971,DRG26303,0HR8XJZ,"Replacement of Buttock Skin with Synthetic Substitute, External Approach"
-2972,DRG26303,0HR8XK3,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2973,DRG26303,0HR8XK4,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2974,DRG26303,0HRAX73,"Replacement of Genitalia Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2975,DRG26303,0HRAX74,"Replacement of Genitalia Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2976,DRG26303,0HRAXJ3,"Replacement of Genitalia Skin with Synthetic Substitute, Full Thickness, External Approach"
-2977,DRG26303,0HRAXJ4,"Replacement of Genitalia Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2978,DRG26303,0HRAXJZ,"Replacement of Genitalia Skin with Synthetic Substitute, External Approach"
-2979,DRG26303,0HRAXK3,"Replacement of Genitalia Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2980,DRG26303,0HRAXK4,"Replacement of Genitalia Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2981,DRG26303,0HRBX73,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2982,DRG26303,0HRBX74,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2983,DRG26303,0HRBXJ3,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
-2984,DRG26303,0HRBXJ4,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2985,DRG26303,0HRBXJZ,"Replacement of Right Upper Arm Skin with Synthetic Substitute, External Approach"
-2986,DRG26303,0HRBXK3,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2987,DRG26303,0HRBXK4,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2988,DRG26303,0HRCX73,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2989,DRG26303,0HRCX74,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2990,DRG26303,0HRCXJ3,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
-2991,DRG26303,0HRCXJ4,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2992,DRG26303,0HRCXJZ,"Replacement of Left Upper Arm Skin with Synthetic Substitute, External Approach"
-2993,DRG26303,0HRCXK3,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-2994,DRG26303,0HRCXK4,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-2995,DRG26303,0HRDX73,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-2996,DRG26303,0HRDX74,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-2997,DRG26303,0HRDXJ3,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
-2998,DRG26303,0HRDXJ4,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
-2999,DRG26303,0HRDXJZ,"Replacement of Right Lower Arm Skin with Synthetic Substitute, External Approach"
-3000,DRG26303,0HRDXK3,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3001,DRG26303,0HRDXK4,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3002,DRG26303,0HREX73,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3003,DRG26303,0HREX74,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3004,DRG26303,0HREXJ3,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
-3005,DRG26303,0HREXJ4,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3006,DRG26303,0HREXJZ,"Replacement of Left Lower Arm Skin with Synthetic Substitute, External Approach"
-3007,DRG26303,0HREXK3,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3008,DRG26303,0HREXK4,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3009,DRG26303,0HRFX73,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3010,DRG26303,0HRFX74,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3011,DRG26303,0HRFXJ3,"Replacement of Right Hand Skin with Synthetic Substitute, Full Thickness, External Approach"
-3012,DRG26303,0HRFXJ4,"Replacement of Right Hand Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3013,DRG26303,0HRFXJZ,"Replacement of Right Hand Skin with Synthetic Substitute, External Approach"
-3014,DRG26303,0HRFXK3,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3015,DRG26303,0HRFXK4,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3016,DRG26303,0HRGX73,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3017,DRG26303,0HRGX74,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3018,DRG26303,0HRGXJ3,"Replacement of Left Hand Skin with Synthetic Substitute, Full Thickness, External Approach"
-3019,DRG26303,0HRGXJ4,"Replacement of Left Hand Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3020,DRG26303,0HRGXJZ,"Replacement of Left Hand Skin with Synthetic Substitute, External Approach"
-3021,DRG26303,0HRGXK3,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3022,DRG26303,0HRGXK4,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3023,DRG26303,0HRHX73,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3024,DRG26303,0HRHX74,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3025,DRG26303,0HRHXJ3,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
-3026,DRG26303,0HRHXJ4,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3027,DRG26303,0HRHXJZ,"Replacement of Right Upper Leg Skin with Synthetic Substitute, External Approach"
-3028,DRG26303,0HRHXK3,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3029,DRG26303,0HRHXK4,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3030,DRG26303,0HRJX73,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3031,DRG26303,0HRJX74,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3032,DRG26303,0HRJXJ3,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
-3033,DRG26303,0HRJXJ4,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3034,DRG26303,0HRJXJZ,"Replacement of Left Upper Leg Skin with Synthetic Substitute, External Approach"
-3035,DRG26303,0HRJXK3,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3036,DRG26303,0HRJXK4,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3037,DRG26303,0HRKX73,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3038,DRG26303,0HRKX74,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3039,DRG26303,0HRKXJ3,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
-3040,DRG26303,0HRKXJ4,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3041,DRG26303,0HRKXJZ,"Replacement of Right Lower Leg Skin with Synthetic Substitute, External Approach"
-3042,DRG26303,0HRKXK3,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3043,DRG26303,0HRKXK4,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3044,DRG26303,0HRLX73,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3045,DRG26303,0HRLX74,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3046,DRG26303,0HRLXJ3,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
-3047,DRG26303,0HRLXJ4,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3048,DRG26303,0HRLXJZ,"Replacement of Left Lower Leg Skin with Synthetic Substitute, External Approach"
-3049,DRG26303,0HRLXK3,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3050,DRG26303,0HRLXK4,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3051,DRG26303,0HRMX73,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3052,DRG26303,0HRMX74,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3053,DRG26303,0HRMXJ3,"Replacement of Right Foot Skin with Synthetic Substitute, Full Thickness, External Approach"
-3054,DRG26303,0HRMXJ4,"Replacement of Right Foot Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3055,DRG26303,0HRMXJZ,"Replacement of Right Foot Skin with Synthetic Substitute, External Approach"
-3056,DRG26303,0HRMXK3,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3057,DRG26303,0HRMXK4,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3058,DRG26303,0HRNX73,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
-3059,DRG26303,0HRNX74,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
-3060,DRG26303,0HRNXJ3,"Replacement of Left Foot Skin with Synthetic Substitute, Full Thickness, External Approach"
-3061,DRG26303,0HRNXJ4,"Replacement of Left Foot Skin with Synthetic Substitute, Partial Thickness, External Approach"
-3062,DRG26303,0HRNXJZ,"Replacement of Left Foot Skin with Synthetic Substitute, External Approach"
-3063,DRG26303,0HRNXK3,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
-3064,DRG26303,0HRNXK4,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
-3065,DRG26303,0HRTX7Z,"Replacement of Right Breast with Autologous Tissue Substitute, External Approach"
-3066,DRG26303,0HRTXKZ,"Replacement of Right Breast with Nonautologous Tissue Substitute, External Approach"
-3067,DRG26303,0HRUX7Z,"Replacement of Left Breast with Autologous Tissue Substitute, External Approach"
-3068,DRG26303,0HRUXKZ,"Replacement of Left Breast with Nonautologous Tissue Substitute, External Approach"
-3069,DRG26303,0HRVX7Z,"Replacement of Bilateral Breast with Autologous Tissue Substitute, External Approach"
-3070,DRG26303,0HRVXKZ,"Replacement of Bilateral Breast with Nonautologous Tissue Substitute, External Approach"
-3071,DRG26303,0JB00ZZ,"Excision of Scalp Subcutaneous Tissue and Fascia, Open Approach"
-3072,DRG26303,0JB10ZZ,"Excision of Face Subcutaneous Tissue and Fascia, Open Approach"
-3073,DRG26303,0JB40ZZ,"Excision of Anterior Neck Subcutaneous Tissue and Fascia, Open Approach"
-3074,DRG26303,0JB50ZZ,"Excision of Posterior Neck Subcutaneous Tissue and Fascia, Open Approach"
-3075,DRG26303,0JB60ZZ,"Excision of Chest Subcutaneous Tissue and Fascia, Open Approach"
-3076,DRG26303,0JB70ZZ,"Excision of Back Subcutaneous Tissue and Fascia, Open Approach"
-3077,DRG26303,0JB80ZZ,"Excision of Abdomen Subcutaneous Tissue and Fascia, Open Approach"
-3078,DRG26303,0JB90ZZ,"Excision of Buttock Subcutaneous Tissue and Fascia, Open Approach"
-3079,DRG26303,0JBB0ZZ,"Excision of Perineum Subcutaneous Tissue and Fascia, Open Approach"
-3080,DRG26303,0JBC0ZZ,"Excision of Pelvic Region Subcutaneous Tissue and Fascia, Open Approach"
-3081,DRG26303,0JBD0ZZ,"Excision of Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
-3082,DRG26303,0JBF0ZZ,"Excision of Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
-3083,DRG26303,0JBG0ZZ,"Excision of Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
-3084,DRG26303,0JBH0ZZ,"Excision of Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
-3085,DRG26303,0JBL0ZZ,"Excision of Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
-3086,DRG26303,0JBM0ZZ,"Excision of Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
-3087,DRG26303,0JBN0ZZ,"Excision of Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
-3088,DRG26303,0JBP0ZZ,"Excision of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
-3089,DRG26303,0JBQ0ZZ,"Excision of Right Foot Subcutaneous Tissue and Fascia, Open Approach"
-3090,DRG26303,0JBR0ZZ,"Excision of Left Foot Subcutaneous Tissue and Fascia, Open Approach"
-3091,DRG26303,0JH00NZ,"Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Open Approach"
-3092,DRG26303,0JH03NZ,"Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3093,DRG26303,0JH10NZ,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Open Approach"
-3094,DRG26303,0JH13NZ,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3095,DRG26303,0JH40NZ,"Insertion of Tissue Expander into Anterior Neck Subcutaneous Tissue and Fascia, Open Approach"
-3096,DRG26303,0JH43NZ,"Insertion of Tissue Expander into Anterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3097,DRG26303,0JH50NZ,"Insertion of Tissue Expander into Posterior Neck Subcutaneous Tissue and Fascia, Open Approach"
-3098,DRG26303,0JH53NZ,"Insertion of Tissue Expander into Posterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3099,DRG26303,0JH60NZ,"Insertion of Tissue Expander into Chest Subcutaneous Tissue and Fascia, Open Approach"
-3100,DRG26303,0JH63NZ,"Insertion of Tissue Expander into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3101,DRG26303,0JH70NZ,"Insertion of Tissue Expander into Back Subcutaneous Tissue and Fascia, Open Approach"
-3102,DRG26303,0JH73NZ,"Insertion of Tissue Expander into Back Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3103,DRG26303,0JH80NZ,"Insertion of Tissue Expander into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
-3104,DRG26303,0JH83NZ,"Insertion of Tissue Expander into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3105,DRG26303,0JH90NZ,"Insertion of Tissue Expander into Buttock Subcutaneous Tissue and Fascia, Open Approach"
-3106,DRG26303,0JH93NZ,"Insertion of Tissue Expander into Buttock Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3107,DRG26303,0JHB0NZ,"Insertion of Tissue Expander into Perineum Subcutaneous Tissue and Fascia, Open Approach"
-3108,DRG26303,0JHB3NZ,"Insertion of Tissue Expander into Perineum Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3109,DRG26303,0JHC0NZ,"Insertion of Tissue Expander into Pelvic Region Subcutaneous Tissue and Fascia, Open Approach"
-3110,DRG26303,0JHC3NZ,"Insertion of Tissue Expander into Pelvic Region Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3111,DRG26303,0JHD0NZ,"Insertion of Tissue Expander into Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
-3112,DRG26303,0JHD3NZ,"Insertion of Tissue Expander into Right Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3113,DRG26303,0JHF0NZ,"Insertion of Tissue Expander into Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
-3114,DRG26303,0JHF3NZ,"Insertion of Tissue Expander into Left Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3115,DRG26303,0JHG0NZ,"Insertion of Tissue Expander into Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
-3116,DRG26303,0JHG3NZ,"Insertion of Tissue Expander into Right Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3117,DRG26303,0JHH0NZ,"Insertion of Tissue Expander into Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
-3118,DRG26303,0JHH3NZ,"Insertion of Tissue Expander into Left Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3119,DRG26303,0JHJ0NZ,"Insertion of Tissue Expander into Right Hand Subcutaneous Tissue and Fascia, Open Approach"
-3120,DRG26303,0JHJ3NZ,"Insertion of Tissue Expander into Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3121,DRG26303,0JHK0NZ,"Insertion of Tissue Expander into Left Hand Subcutaneous Tissue and Fascia, Open Approach"
-3122,DRG26303,0JHK3NZ,"Insertion of Tissue Expander into Left Hand Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3123,DRG26303,0JHL0NZ,"Insertion of Tissue Expander into Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
-3124,DRG26303,0JHL3NZ,"Insertion of Tissue Expander into Right Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3125,DRG26303,0JHM0NZ,"Insertion of Tissue Expander into Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
-3126,DRG26303,0JHM3NZ,"Insertion of Tissue Expander into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3127,DRG26303,0JHN0NZ,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
-3128,DRG26303,0JHN3NZ,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3129,DRG26303,0JHP0NZ,"Insertion of Tissue Expander into Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
-3130,DRG26303,0JHP3NZ,"Insertion of Tissue Expander into Left Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3131,DRG26303,0JHQ0NZ,"Insertion of Tissue Expander into Right Foot Subcutaneous Tissue and Fascia, Open Approach"
-3132,DRG26303,0JHQ3NZ,"Insertion of Tissue Expander into Right Foot Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3133,DRG26303,0JHR0NZ,"Insertion of Tissue Expander into Left Foot Subcutaneous Tissue and Fascia, Open Approach"
-3134,DRG26303,0JHR3NZ,"Insertion of Tissue Expander into Left Foot Subcutaneous Tissue and Fascia, Percutaneous Approach"
-3135,DRG26303,0WB00ZZ,"Excision of Head, Open Approach"
-3136,DRG26303,0WB03ZZ,"Excision of Head, Percutaneous Approach"
-3137,DRG26303,0WB04ZZ,"Excision of Head, Percutaneous Endoscopic Approach"
-3138,DRG26303,0WB0XZZ,"Excision of Head, External Approach"
-3139,DRG26303,0WB20ZZ,"Excision of Face, Open Approach"
-3140,DRG26303,0WB23ZZ,"Excision of Face, Percutaneous Approach"
-3141,DRG26303,0WB24ZZ,"Excision of Face, Percutaneous Endoscopic Approach"
-3142,DRG26303,0WB2XZZ,"Excision of Face, External Approach"
-3143,DRG26303,0WB40ZZ,"Excision of Upper Jaw, Open Approach"
-3144,DRG26303,0WB43ZZ,"Excision of Upper Jaw, Percutaneous Approach"
-3145,DRG26303,0WB44ZZ,"Excision of Upper Jaw, Percutaneous Endoscopic Approach"
-3146,DRG26303,0WB4XZZ,"Excision of Upper Jaw, External Approach"
-3147,DRG26303,0WB50ZZ,"Excision of Lower Jaw, Open Approach"
-3148,DRG26303,0WB53ZZ,"Excision of Lower Jaw, Percutaneous Approach"
-3149,DRG26303,0WB54ZZ,"Excision of Lower Jaw, Percutaneous Endoscopic Approach"
-3150,DRG26303,0WB5XZZ,"Excision of Lower Jaw, External Approach"
-3151,DRG26303,0WB60ZZ,"Excision of Neck, Open Approach"
-3152,DRG26303,0WB63ZZ,"Excision of Neck, Percutaneous Approach"
-3153,DRG26303,0WB64ZZ,"Excision of Neck, Percutaneous Endoscopic Approach"
-3154,DRG26303,0WB6XZZ,"Excision of Neck, External Approach"
-3155,DRG26303,0WBK0ZZ,"Excision of Upper Back, Open Approach"
-3156,DRG26303,0WBK3ZZ,"Excision of Upper Back, Percutaneous Approach"
-3157,DRG26303,0WBK4ZZ,"Excision of Upper Back, Percutaneous Endoscopic Approach"
-3158,DRG26303,0WBKXZZ,"Excision of Upper Back, External Approach"
-3159,DRG26303,0WBL0ZZ,"Excision of Lower Back, Open Approach"
-3160,DRG26303,0WBL3ZZ,"Excision of Lower Back, Percutaneous Approach"
-3161,DRG26303,0WBL4ZZ,"Excision of Lower Back, Percutaneous Endoscopic Approach"
-3162,DRG26303,0WBLXZZ,"Excision of Lower Back, External Approach"
-3163,DRG26303,0WBM0ZZ,"Excision of Male Perineum, Open Approach"
-3164,DRG26303,0WBM3ZZ,"Excision of Male Perineum, Percutaneous Approach"
-3165,DRG26303,0WBM4ZZ,"Excision of Male Perineum, Percutaneous Endoscopic Approach"
-3166,DRG26303,0WBMXZZ,"Excision of Male Perineum, External Approach"
-3167,DRG26303,0WU007Z,"Supplement Head with Autologous Tissue Substitute, Open Approach"
-3168,DRG26303,0WU047Z,"Supplement Head with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3169,DRG26303,0WU207Z,"Supplement Face with Autologous Tissue Substitute, Open Approach"
-3170,DRG26303,0WU247Z,"Supplement Face with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3171,DRG26303,0WU607Z,"Supplement Neck with Autologous Tissue Substitute, Open Approach"
-3172,DRG26303,0WU647Z,"Supplement Neck with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3173,DRG26303,0WUK07Z,"Supplement Upper Back with Autologous Tissue Substitute, Open Approach"
-3174,DRG26303,0WUK47Z,"Supplement Upper Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3175,DRG26303,0WUL07Z,"Supplement Lower Back with Autologous Tissue Substitute, Open Approach"
-3176,DRG26303,0WUL47Z,"Supplement Lower Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3177,DRG26303,0XB20ZZ,"Excision of Right Shoulder Region, Open Approach"
-3178,DRG26303,0XB23ZZ,"Excision of Right Shoulder Region, Percutaneous Approach"
-3179,DRG26303,0XB24ZZ,"Excision of Right Shoulder Region, Percutaneous Endoscopic Approach"
-3180,DRG26303,0XB30ZZ,"Excision of Left Shoulder Region, Open Approach"
-3181,DRG26303,0XB33ZZ,"Excision of Left Shoulder Region, Percutaneous Approach"
-3182,DRG26303,0XB34ZZ,"Excision of Left Shoulder Region, Percutaneous Endoscopic Approach"
-3183,DRG26303,0XB40ZZ,"Excision of Right Axilla, Open Approach"
-3184,DRG26303,0XB43ZZ,"Excision of Right Axilla, Percutaneous Approach"
-3185,DRG26303,0XB44ZZ,"Excision of Right Axilla, Percutaneous Endoscopic Approach"
-3186,DRG26303,0XB50ZZ,"Excision of Left Axilla, Open Approach"
-3187,DRG26303,0XB53ZZ,"Excision of Left Axilla, Percutaneous Approach"
-3188,DRG26303,0XB54ZZ,"Excision of Left Axilla, Percutaneous Endoscopic Approach"
-3189,DRG26303,0XB60ZZ,"Excision of Right Upper Extremity, Open Approach"
-3190,DRG26303,0XB63ZZ,"Excision of Right Upper Extremity, Percutaneous Approach"
-3191,DRG26303,0XB64ZZ,"Excision of Right Upper Extremity, Percutaneous Endoscopic Approach"
-3192,DRG26303,0XB70ZZ,"Excision of Left Upper Extremity, Open Approach"
-3193,DRG26303,0XB73ZZ,"Excision of Left Upper Extremity, Percutaneous Approach"
-3194,DRG26303,0XB74ZZ,"Excision of Left Upper Extremity, Percutaneous Endoscopic Approach"
-3195,DRG26303,0XB80ZZ,"Excision of Right Upper Arm, Open Approach"
-3196,DRG26303,0XB83ZZ,"Excision of Right Upper Arm, Percutaneous Approach"
-3197,DRG26303,0XB84ZZ,"Excision of Right Upper Arm, Percutaneous Endoscopic Approach"
-3198,DRG26303,0XB90ZZ,"Excision of Left Upper Arm, Open Approach"
-3199,DRG26303,0XB93ZZ,"Excision of Left Upper Arm, Percutaneous Approach"
-3200,DRG26303,0XB94ZZ,"Excision of Left Upper Arm, Percutaneous Endoscopic Approach"
-3201,DRG26303,0XBB0ZZ,"Excision of Right Elbow Region, Open Approach"
-3202,DRG26303,0XBB3ZZ,"Excision of Right Elbow Region, Percutaneous Approach"
-3203,DRG26303,0XBB4ZZ,"Excision of Right Elbow Region, Percutaneous Endoscopic Approach"
-3204,DRG26303,0XBC0ZZ,"Excision of Left Elbow Region, Open Approach"
-3205,DRG26303,0XBC3ZZ,"Excision of Left Elbow Region, Percutaneous Approach"
-3206,DRG26303,0XBC4ZZ,"Excision of Left Elbow Region, Percutaneous Endoscopic Approach"
-3207,DRG26303,0XBD0ZZ,"Excision of Right Lower Arm, Open Approach"
-3208,DRG26303,0XBD3ZZ,"Excision of Right Lower Arm, Percutaneous Approach"
-3209,DRG26303,0XBD4ZZ,"Excision of Right Lower Arm, Percutaneous Endoscopic Approach"
-3210,DRG26303,0XBF0ZZ,"Excision of Left Lower Arm, Open Approach"
-3211,DRG26303,0XBF3ZZ,"Excision of Left Lower Arm, Percutaneous Approach"
-3212,DRG26303,0XBF4ZZ,"Excision of Left Lower Arm, Percutaneous Endoscopic Approach"
-3213,DRG26303,0XBG0ZZ,"Excision of Right Wrist Region, Open Approach"
-3214,DRG26303,0XBG3ZZ,"Excision of Right Wrist Region, Percutaneous Approach"
-3215,DRG26303,0XBG4ZZ,"Excision of Right Wrist Region, Percutaneous Endoscopic Approach"
-3216,DRG26303,0XBH0ZZ,"Excision of Left Wrist Region, Open Approach"
-3217,DRG26303,0XBH3ZZ,"Excision of Left Wrist Region, Percutaneous Approach"
-3218,DRG26303,0XBH4ZZ,"Excision of Left Wrist Region, Percutaneous Endoscopic Approach"
-3219,DRG26303,0XBJ0ZZ,"Excision of Right Hand, Open Approach"
-3220,DRG26303,0XBJ3ZZ,"Excision of Right Hand, Percutaneous Approach"
-3221,DRG26303,0XBJ4ZZ,"Excision of Right Hand, Percutaneous Endoscopic Approach"
-3222,DRG26303,0XBK0ZZ,"Excision of Left Hand, Open Approach"
-3223,DRG26303,0XBK3ZZ,"Excision of Left Hand, Percutaneous Approach"
-3224,DRG26303,0XBK4ZZ,"Excision of Left Hand, Percutaneous Endoscopic Approach"
-3225,DRG26303,0XU207Z,"Supplement Right Shoulder Region with Autologous Tissue Substitute, Open Approach"
-3226,DRG26303,0XU247Z,"Supplement Right Shoulder Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3227,DRG26303,0XU307Z,"Supplement Left Shoulder Region with Autologous Tissue Substitute, Open Approach"
-3228,DRG26303,0XU347Z,"Supplement Left Shoulder Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3229,DRG26303,0XU407Z,"Supplement Right Axilla with Autologous Tissue Substitute, Open Approach"
-3230,DRG26303,0XU447Z,"Supplement Right Axilla with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3231,DRG26303,0XU507Z,"Supplement Left Axilla with Autologous Tissue Substitute, Open Approach"
-3232,DRG26303,0XU547Z,"Supplement Left Axilla with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3233,DRG26303,0XU607Z,"Supplement Right Upper Extremity with Autologous Tissue Substitute, Open Approach"
-3234,DRG26303,0XU647Z,"Supplement Right Upper Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3235,DRG26303,0XU707Z,"Supplement Left Upper Extremity with Autologous Tissue Substitute, Open Approach"
-3236,DRG26303,0XU747Z,"Supplement Left Upper Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3237,DRG26303,0XU807Z,"Supplement Right Upper Arm with Autologous Tissue Substitute, Open Approach"
-3238,DRG26303,0XU847Z,"Supplement Right Upper Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3239,DRG26303,0XU907Z,"Supplement Left Upper Arm with Autologous Tissue Substitute, Open Approach"
-3240,DRG26303,0XU947Z,"Supplement Left Upper Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3241,DRG26303,0XUB07Z,"Supplement Right Elbow Region with Autologous Tissue Substitute, Open Approach"
-3242,DRG26303,0XUB47Z,"Supplement Right Elbow Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3243,DRG26303,0XUC07Z,"Supplement Left Elbow Region with Autologous Tissue Substitute, Open Approach"
-3244,DRG26303,0XUC47Z,"Supplement Left Elbow Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3245,DRG26303,0XUD07Z,"Supplement Right Lower Arm with Autologous Tissue Substitute, Open Approach"
-3246,DRG26303,0XUD47Z,"Supplement Right Lower Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3247,DRG26303,0XUF07Z,"Supplement Left Lower Arm with Autologous Tissue Substitute, Open Approach"
-3248,DRG26303,0XUF47Z,"Supplement Left Lower Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3249,DRG26303,0XUG07Z,"Supplement Right Wrist Region with Autologous Tissue Substitute, Open Approach"
-3250,DRG26303,0XUG47Z,"Supplement Right Wrist Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3251,DRG26303,0XUH07Z,"Supplement Left Wrist Region with Autologous Tissue Substitute, Open Approach"
-3252,DRG26303,0XUH47Z,"Supplement Left Wrist Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3253,DRG26303,0XUJ07Z,"Supplement Right Hand with Autologous Tissue Substitute, Open Approach"
-3254,DRG26303,0XUJ47Z,"Supplement Right Hand with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3255,DRG26303,0XUK07Z,"Supplement Left Hand with Autologous Tissue Substitute, Open Approach"
-3256,DRG26303,0XUK47Z,"Supplement Left Hand with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3257,DRG26303,0XUL07Z,"Supplement Right Thumb with Autologous Tissue Substitute, Open Approach"
-3258,DRG26303,0XUL47Z,"Supplement Right Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3259,DRG26303,0XUM07Z,"Supplement Left Thumb with Autologous Tissue Substitute, Open Approach"
-3260,DRG26303,0XUM47Z,"Supplement Left Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3261,DRG26303,0XUN07Z,"Supplement Right Index Finger with Autologous Tissue Substitute, Open Approach"
-3262,DRG26303,0XUN47Z,"Supplement Right Index Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3263,DRG26303,0XUP07Z,"Supplement Left Index Finger with Autologous Tissue Substitute, Open Approach"
-3264,DRG26303,0XUP47Z,"Supplement Left Index Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3265,DRG26303,0XUQ07Z,"Supplement Right Middle Finger with Autologous Tissue Substitute, Open Approach"
-3266,DRG26303,0XUQ47Z,"Supplement Right Middle Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3267,DRG26303,0XUR07Z,"Supplement Left Middle Finger with Autologous Tissue Substitute, Open Approach"
-3268,DRG26303,0XUR47Z,"Supplement Left Middle Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3269,DRG26303,0XUS07Z,"Supplement Right Ring Finger with Autologous Tissue Substitute, Open Approach"
-3270,DRG26303,0XUS47Z,"Supplement Right Ring Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3271,DRG26303,0XUT07Z,"Supplement Left Ring Finger with Autologous Tissue Substitute, Open Approach"
-3272,DRG26303,0XUT47Z,"Supplement Left Ring Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3273,DRG26303,0XUV07Z,"Supplement Right Little Finger with Autologous Tissue Substitute, Open Approach"
-3274,DRG26303,0XUV47Z,"Supplement Right Little Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3275,DRG26303,0XUW07Z,"Supplement Left Little Finger with Autologous Tissue Substitute, Open Approach"
-3276,DRG26303,0XUW47Z,"Supplement Left Little Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
-3277,DRG26303,0YB00ZZ,"Excision of Right Buttock, Open Approach"
-3278,DRG26303,0YB03ZZ,"Excision of Right Buttock, Percutaneous Approach"
-3279,DRG26303,0YB04ZZ,"Excision of Right Buttock, Percutaneous Endoscopic Approach"
-3280,DRG26303,0YB10ZZ,"Excision of Left Buttock, Open Approach"
-3281,DRG26303,0YB13ZZ,"Excision of Left Buttock, Percutaneous Approach"
-3282,DRG26303,0YB14ZZ,"Excision of Left Buttock, Percutaneous Endoscopic Approach"
-3283,DRG26303,0YB90ZZ,"Excision of Right Lower Extremity, Open Approach"
-3284,DRG26303,0YB93ZZ,"Excision of Right Lower Extremity, Percutaneous Approach"
-3285,DRG26303,0YB94ZZ,"Excision of Right Lower Extremity, Percutaneous Endoscopic Approach"
-3286,DRG26303,0YBB0ZZ,"Excision of Left Lower Extremity, Open Approach"
-3287,DRG26303,0YBB3ZZ,"Excision of Left Lower Extremity, Percutaneous Approach"
-3288,DRG26303,0YBB4ZZ,"Excision of Left Lower Extremity, Percutaneous Endoscopic Approach"
-3289,DRG26303,0YBC0ZZ,"Excision of Right Upper Leg, Open Approach"
-3290,DRG26303,0YBC3ZZ,"Excision of Right Upper Leg, Percutaneous Approach"
-3291,DRG26303,0YBC4ZZ,"Excision of Right Upper Leg, Percutaneous Endoscopic Approach"
-3292,DRG26303,0YBD0ZZ,"Excision of Left Upper Leg, Open Approach"
-3293,DRG26303,0YBD3ZZ,"Excision of Left Upper Leg, Percutaneous Approach"
-3294,DRG26303,0YBD4ZZ,"Excision of Left Upper Leg, Percutaneous Endoscopic Approach"
-3295,DRG26303,0YBF0ZZ,"Excision of Right Knee Region, Open Approach"
-3296,DRG26303,0YBF3ZZ,"Excision of Right Knee Region, Percutaneous Approach"
-3297,DRG26303,0YBF4ZZ,"Excision of Right Knee Region, Percutaneous Endoscopic Approach"
-3298,DRG26303,0YBG0ZZ,"Excision of Left Knee Region, Open Approach"
-3299,DRG26303,0YBG3ZZ,"Excision of Left Knee Region, Percutaneous Approach"
-3300,DRG26303,0YBG4ZZ,"Excision of Left Knee Region, Percutaneous Endoscopic Approach"
-3301,DRG26303,0YBH0ZZ,"Excision of Right Lower Leg, Open Approach"
-3302,DRG26303,0YBH3ZZ,"Excision of Right Lower Leg, Percutaneous Approach"
-3303,DRG26303,0YBH4ZZ,"Excision of Right Lower Leg, Percutaneous Endoscopic Approach"
-3304,DRG26303,0YBJ0ZZ,"Excision of Left Lower Leg, Open Approach"
-3305,DRG26303,0YBJ3ZZ,"Excision of Left Lower Leg, Percutaneous Approach"
-3306,DRG26303,0YBJ4ZZ,"Excision of Left Lower Leg, Percutaneous Endoscopic Approach"
-3307,DRG26303,0YBK0ZZ,"Excision of Right Ankle Region, Open Approach"
-3308,DRG26303,0YBK3ZZ,"Excision of Right Ankle Region, Percutaneous Approach"
-3309,DRG26303,0YBK4ZZ,"Excision of Right Ankle Region, Percutaneous Endoscopic Approach"
-3310,DRG26303,0YBL0ZZ,"Excision of Left Ankle Region, Open Approach"
-3311,DRG26303,0YBL3ZZ,"Excision of Left Ankle Region, Percutaneous Approach"
-3312,DRG26303,0YBL4ZZ,"Excision of Left Ankle Region, Percutaneous Endoscopic Approach"
-3313,DRG26303,0YBM0ZZ,"Excision of Right Foot, Open Approach"
-3314,DRG26303,0YBM3ZZ,"Excision of Right Foot, Percutaneous Approach"
-3315,DRG26303,0YBM4ZZ,"Excision of Right Foot, Percutaneous Endoscopic Approach"
-3316,DRG26303,0YBN0ZZ,"Excision of Left Foot, Open Approach"
-3317,DRG26303,0YBN3ZZ,"Excision of Left Foot, Percutaneous Approach"
-3318,DRG26303,0YBN4ZZ,"Excision of Left Foot, Percutaneous Endoscopic Approach"
+DRG,CM-PCS,en
+DRG26303,L0201,Cutaneous abscess of face
+DRG26303,L0211,Cutaneous abscess of neck
+DRG26303,L02211,Cutaneous abscess of abdominal wall
+DRG26303,L02212,"Cutaneous abscess of back [any part, except buttock]"
+DRG26303,L02213,Cutaneous abscess of chest wall
+DRG26303,L02214,Cutaneous abscess of groin
+DRG26303,L02215,Cutaneous abscess of perineum
+DRG26303,L02216,Cutaneous abscess of umbilicus
+DRG26303,L02219,"Cutaneous abscess of trunk, unspecified"
+DRG26303,L0231,Cutaneous abscess of buttock
+DRG26303,L02411,Cutaneous abscess of right axilla
+DRG26303,L02412,Cutaneous abscess of left axilla
+DRG26303,L02413,Cutaneous abscess of right upper limb
+DRG26303,L02414,Cutaneous abscess of left upper limb
+DRG26303,L02415,Cutaneous abscess of right lower limb
+DRG26303,L02416,Cutaneous abscess of left lower limb
+DRG26303,L02419,"Cutaneous abscess of limb, unspecified"
+DRG26303,L02511,Cutaneous abscess of right hand
+DRG26303,L02512,Cutaneous abscess of left hand
+DRG26303,L02519,Cutaneous abscess of unspecified hand
+DRG26303,L02611,Cutaneous abscess of right foot
+DRG26303,L02612,Cutaneous abscess of left foot
+DRG26303,L02619,Cutaneous abscess of unspecified foot
+DRG26303,L02811,"Cutaneous abscess of head [any part, except face]"
+DRG26303,L02818,Cutaneous abscess of other sites
+DRG26303,L0291,"Cutaneous abscess, unspecified"
+DRG26303,L03011,Cellulitis of right finger
+DRG26303,L03012,Cellulitis of left finger
+DRG26303,L03019,Cellulitis of unspecified finger
+DRG26303,L03021,Acute lymphangitis of right finger
+DRG26303,L03022,Acute lymphangitis of left finger
+DRG26303,L03029,Acute lymphangitis of unspecified finger
+DRG26303,L03031,Cellulitis of right toe
+DRG26303,L03032,Cellulitis of left toe
+DRG26303,L03039,Cellulitis of unspecified toe
+DRG26303,L03041,Acute lymphangitis of right toe
+DRG26303,L03042,Acute lymphangitis of left toe
+DRG26303,L03049,Acute lymphangitis of unspecified toe
+DRG26303,L03111,Cellulitis of right axilla
+DRG26303,L03112,Cellulitis of left axilla
+DRG26303,L03113,Cellulitis of right upper limb
+DRG26303,L03114,Cellulitis of left upper limb
+DRG26303,L03115,Cellulitis of right lower limb
+DRG26303,L03116,Cellulitis of left lower limb
+DRG26303,L03119,Cellulitis of unspecified part of limb
+DRG26303,L03121,Acute lymphangitis of right axilla
+DRG26303,L03122,Acute lymphangitis of left axilla
+DRG26303,L03123,Acute lymphangitis of right upper limb
+DRG26303,L03124,Acute lymphangitis of left upper limb
+DRG26303,L03125,Acute lymphangitis of right lower limb
+DRG26303,L03126,Acute lymphangitis of left lower limb
+DRG26303,L03129,Acute lymphangitis of unspecified part of limb
+DRG26303,L03211,Cellulitis of face
+DRG26303,L03212,Acute lymphangitis of face
+DRG26303,L03221,Cellulitis of neck
+DRG26303,L03222,Acute lymphangitis of neck
+DRG26303,L03311,Cellulitis of abdominal wall
+DRG26303,L03312,Cellulitis of back [any part except buttock]
+DRG26303,L03313,Cellulitis of chest wall
+DRG26303,L03314,Cellulitis of groin
+DRG26303,L03315,Cellulitis of perineum
+DRG26303,L03316,Cellulitis of umbilicus
+DRG26303,L03317,Cellulitis of buttock
+DRG26303,L03319,"Cellulitis of trunk, unspecified"
+DRG26303,L03321,Acute lymphangitis of abdominal wall
+DRG26303,L03322,Acute lymphangitis of back [any part except buttock]
+DRG26303,L03323,Acute lymphangitis of chest wall
+DRG26303,L03324,Acute lymphangitis of groin
+DRG26303,L03325,Acute lymphangitis of perineum
+DRG26303,L03326,Acute lymphangitis of umbilicus
+DRG26303,L03327,Acute lymphangitis of buttock
+DRG26303,L03329,"Acute lymphangitis of trunk, unspecified"
+DRG26303,L03811,"Cellulitis of head [any part, except face]"
+DRG26303,L03818,Cellulitis of other sites
+DRG26303,L03891,"Acute lymphangitis of head [any part, except face]"
+DRG26303,L03898,Acute lymphangitis of other sites
+DRG26303,L0390,"Cellulitis, unspecified"
+DRG26303,L0391,"Acute lymphangitis, unspecified"
+DRG26303,L89000,"Pressure ulcer of unspecified elbow, unstageable"
+DRG26303,L89001,"Pressure ulcer of unspecified elbow, stage 1"
+DRG26303,L89002,"Pressure ulcer of unspecified elbow, stage 2"
+DRG26303,L89003,"Pressure ulcer of unspecified elbow, stage 3"
+DRG26303,L89004,"Pressure ulcer of unspecified elbow, stage 4"
+DRG26303,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
+DRG26303,L89010,"Pressure ulcer of right elbow, unstageable"
+DRG26303,L89011,"Pressure ulcer of right elbow, stage 1"
+DRG26303,L89012,"Pressure ulcer of right elbow, stage 2"
+DRG26303,L89013,"Pressure ulcer of right elbow, stage 3"
+DRG26303,L89014,"Pressure ulcer of right elbow, stage 4"
+DRG26303,L89020,"Pressure ulcer of left elbow, unstageable"
+DRG26303,L89021,"Pressure ulcer of left elbow, stage 1"
+DRG26303,L89022,"Pressure ulcer of left elbow, stage 2"
+DRG26303,L89023,"Pressure ulcer of left elbow, stage 3"
+DRG26303,L89024,"Pressure ulcer of left elbow, stage 4"
+DRG26303,L89100,"Pressure ulcer of unspecified part of back, unstageable"
+DRG26303,L89101,"Pressure ulcer of unspecified part of back, stage 1"
+DRG26303,L89102,"Pressure ulcer of unspecified part of back, stage 2"
+DRG26303,L89103,"Pressure ulcer of unspecified part of back, stage 3"
+DRG26303,L89104,"Pressure ulcer of unspecified part of back, stage 4"
+DRG26303,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
+DRG26303,L89110,"Pressure ulcer of right upper back, unstageable"
+DRG26303,L89111,"Pressure ulcer of right upper back, stage 1"
+DRG26303,L89112,"Pressure ulcer of right upper back, stage 2"
+DRG26303,L89113,"Pressure ulcer of right upper back, stage 3"
+DRG26303,L89114,"Pressure ulcer of right upper back, stage 4"
+DRG26303,L89119,"Pressure ulcer of right upper back, unspecified stage"
+DRG26303,L89120,"Pressure ulcer of left upper back, unstageable"
+DRG26303,L89121,"Pressure ulcer of left upper back, stage 1"
+DRG26303,L89122,"Pressure ulcer of left upper back, stage 2"
+DRG26303,L89123,"Pressure ulcer of left upper back, stage 3"
+DRG26303,L89124,"Pressure ulcer of left upper back, stage 4"
+DRG26303,L89129,"Pressure ulcer of left upper back, unspecified stage"
+DRG26303,L89130,"Pressure ulcer of right lower back, unstageable"
+DRG26303,L89131,"Pressure ulcer of right lower back, stage 1"
+DRG26303,L89132,"Pressure ulcer of right lower back, stage 2"
+DRG26303,L89133,"Pressure ulcer of right lower back, stage 3"
+DRG26303,L89134,"Pressure ulcer of right lower back, stage 4"
+DRG26303,L89139,"Pressure ulcer of right lower back, unspecified stage"
+DRG26303,L89140,"Pressure ulcer of left lower back, unstageable"
+DRG26303,L89141,"Pressure ulcer of left lower back, stage 1"
+DRG26303,L89142,"Pressure ulcer of left lower back, stage 2"
+DRG26303,L89143,"Pressure ulcer of left lower back, stage 3"
+DRG26303,L89144,"Pressure ulcer of left lower back, stage 4"
+DRG26303,L89149,"Pressure ulcer of left lower back, unspecified stage"
+DRG26303,L89150,"Pressure ulcer of sacral region, unstageable"
+DRG26303,L89151,"Pressure ulcer of sacral region, stage 1"
+DRG26303,L89152,"Pressure ulcer of sacral region, stage 2"
+DRG26303,L89153,"Pressure ulcer of sacral region, stage 3"
+DRG26303,L89154,"Pressure ulcer of sacral region, stage 4"
+DRG26303,L89159,"Pressure ulcer of sacral region, unspecified stage"
+DRG26303,L89200,"Pressure ulcer of unspecified hip, unstageable"
+DRG26303,L89201,"Pressure ulcer of unspecified hip, stage 1"
+DRG26303,L89202,"Pressure ulcer of unspecified hip, stage 2"
+DRG26303,L89203,"Pressure ulcer of unspecified hip, stage 3"
+DRG26303,L89204,"Pressure ulcer of unspecified hip, stage 4"
+DRG26303,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
+DRG26303,L89210,"Pressure ulcer of right hip, unstageable"
+DRG26303,L89211,"Pressure ulcer of right hip, stage 1"
+DRG26303,L89212,"Pressure ulcer of right hip, stage 2"
+DRG26303,L89213,"Pressure ulcer of right hip, stage 3"
+DRG26303,L89214,"Pressure ulcer of right hip, stage 4"
+DRG26303,L89219,"Pressure ulcer of right hip, unspecified stage"
+DRG26303,L89220,"Pressure ulcer of left hip, unstageable"
+DRG26303,L89221,"Pressure ulcer of left hip, stage 1"
+DRG26303,L89222,"Pressure ulcer of left hip, stage 2"
+DRG26303,L89223,"Pressure ulcer of left hip, stage 3"
+DRG26303,L89224,"Pressure ulcer of left hip, stage 4"
+DRG26303,L89229,"Pressure ulcer of left hip, unspecified stage"
+DRG26303,L89300,"Pressure ulcer of unspecified buttock, unstageable"
+DRG26303,L89301,"Pressure ulcer of unspecified buttock, stage 1"
+DRG26303,L89302,"Pressure ulcer of unspecified buttock, stage 2"
+DRG26303,L89303,"Pressure ulcer of unspecified buttock, stage 3"
+DRG26303,L89304,"Pressure ulcer of unspecified buttock, stage 4"
+DRG26303,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
+DRG26303,L89310,"Pressure ulcer of right buttock, unstageable"
+DRG26303,L89311,"Pressure ulcer of right buttock, stage 1"
+DRG26303,L89312,"Pressure ulcer of right buttock, stage 2"
+DRG26303,L89313,"Pressure ulcer of right buttock, stage 3"
+DRG26303,L89314,"Pressure ulcer of right buttock, stage 4"
+DRG26303,L89319,"Pressure ulcer of right buttock, unspecified stage"
+DRG26303,L89320,"Pressure ulcer of left buttock, unstageable"
+DRG26303,L89321,"Pressure ulcer of left buttock, stage 1"
+DRG26303,L89322,"Pressure ulcer of left buttock, stage 2"
+DRG26303,L89323,"Pressure ulcer of left buttock, stage 3"
+DRG26303,L89324,"Pressure ulcer of left buttock, stage 4"
+DRG26303,L89329,"Pressure ulcer of left buttock, unspecified stage"
+DRG26303,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
+DRG26303,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
+DRG26303,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
+DRG26303,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
+DRG26303,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
+DRG26303,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
+DRG26303,L89500,"Pressure ulcer of unspecified ankle, unstageable"
+DRG26303,L89501,"Pressure ulcer of unspecified ankle, stage 1"
+DRG26303,L89502,"Pressure ulcer of unspecified ankle, stage 2"
+DRG26303,L89503,"Pressure ulcer of unspecified ankle, stage 3"
+DRG26303,L89504,"Pressure ulcer of unspecified ankle, stage 4"
+DRG26303,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
+DRG26303,L89510,"Pressure ulcer of right ankle, unstageable"
+DRG26303,L89511,"Pressure ulcer of right ankle, stage 1"
+DRG26303,L89512,"Pressure ulcer of right ankle, stage 2"
+DRG26303,L89513,"Pressure ulcer of right ankle, stage 3"
+DRG26303,L89514,"Pressure ulcer of right ankle, stage 4"
+DRG26303,L89519,"Pressure ulcer of right ankle, unspecified stage"
+DRG26303,L89520,"Pressure ulcer of left ankle, unstageable"
+DRG26303,L89521,"Pressure ulcer of left ankle, stage 1"
+DRG26303,L89522,"Pressure ulcer of left ankle, stage 2"
+DRG26303,L89523,"Pressure ulcer of left ankle, stage 3"
+DRG26303,L89524,"Pressure ulcer of left ankle, stage 4"
+DRG26303,L89529,"Pressure ulcer of left ankle, unspecified stage"
+DRG26303,L89600,"Pressure ulcer of unspecified heel, unstageable"
+DRG26303,L89601,"Pressure ulcer of unspecified heel, stage 1"
+DRG26303,L89602,"Pressure ulcer of unspecified heel, stage 2"
+DRG26303,L89603,"Pressure ulcer of unspecified heel, stage 3"
+DRG26303,L89604,"Pressure ulcer of unspecified heel, stage 4"
+DRG26303,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
+DRG26303,L89610,"Pressure ulcer of right heel, unstageable"
+DRG26303,L89611,"Pressure ulcer of right heel, stage 1"
+DRG26303,L89612,"Pressure ulcer of right heel, stage 2"
+DRG26303,L89613,"Pressure ulcer of right heel, stage 3"
+DRG26303,L89614,"Pressure ulcer of right heel, stage 4"
+DRG26303,L89620,"Pressure ulcer of left heel, unstageable"
+DRG26303,L89621,"Pressure ulcer of left heel, stage 1"
+DRG26303,L89622,"Pressure ulcer of left heel, stage 2"
+DRG26303,L89623,"Pressure ulcer of left heel, stage 3"
+DRG26303,L89624,"Pressure ulcer of left heel, stage 4"
+DRG26303,L89629,"Pressure ulcer of left heel, unspecified stage"
+DRG26303,L89810,"Pressure ulcer of head, unstageable"
+DRG26303,L89811,"Pressure ulcer of head, stage 1"
+DRG26303,L89812,"Pressure ulcer of head, stage 2"
+DRG26303,L89813,"Pressure ulcer of head, stage 3"
+DRG26303,L89814,"Pressure ulcer of head, stage 4"
+DRG26303,L89819,"Pressure ulcer of head, unspecified stage"
+DRG26303,L89890,"Pressure ulcer of other site, unstageable"
+DRG26303,L89891,"Pressure ulcer of other site, stage 1"
+DRG26303,L89892,"Pressure ulcer of other site, stage 2"
+DRG26303,L89893,"Pressure ulcer of other site, stage 3"
+DRG26303,L89894,"Pressure ulcer of other site, stage 4"
+DRG26303,L89899,"Pressure ulcer of other site, unspecified stage"
+DRG26303,L8990,"Pressure ulcer of unspecified site, unspecified stage"
+DRG26303,L8991,"Pressure ulcer of unspecified site, stage 1"
+DRG26303,L8992,"Pressure ulcer of unspecified site, stage 2"
+DRG26303,L8993,"Pressure ulcer of unspecified site, stage 3"
+DRG26303,L8994,"Pressure ulcer of unspecified site, stage 4"
+DRG26303,L8995,"Pressure ulcer of unspecified site, unstageable"
+DRG26303,L97101,Non-pressure chronic ulcer of unspecified thigh limited to breakdown of skin
+DRG26303,L97102,Non-pressure chronic ulcer of unspecified thigh with fat layer exposed
+DRG26303,L97103,Non-pressure chronic ulcer of unspecified thigh with necrosis of muscle
+DRG26303,L97104,Non-pressure chronic ulcer of unspecified thigh with necrosis of bone
+DRG26303,L97109,Non-pressure chronic ulcer of unspecified thigh with unspecified severity
+DRG26303,L97111,Non-pressure chronic ulcer of right thigh limited to breakdown of skin
+DRG26303,L97112,Non-pressure chronic ulcer of right thigh with fat layer exposed
+DRG26303,L97113,Non-pressure chronic ulcer of right thigh with necrosis of muscle
+DRG26303,L97114,Non-pressure chronic ulcer of right thigh with necrosis of bone
+DRG26303,L97119,Non-pressure chronic ulcer of right thigh with unspecified severity
+DRG26303,L97121,Non-pressure chronic ulcer of left thigh limited to breakdown of skin
+DRG26303,L97122,Non-pressure chronic ulcer of left thigh with fat layer exposed
+DRG26303,L97123,Non-pressure chronic ulcer of left thigh with necrosis of muscle
+DRG26303,L97124,Non-pressure chronic ulcer of left thigh with necrosis of bone
+DRG26303,L97129,Non-pressure chronic ulcer of left thigh with unspecified severity
+DRG26303,L97201,Non-pressure chronic ulcer of unspecified calf limited to breakdown of skin
+DRG26303,L97202,Non-pressure chronic ulcer of unspecified calf with fat layer exposed
+DRG26303,L97203,Non-pressure chronic ulcer of unspecified calf with necrosis of muscle
+DRG26303,L97204,Non-pressure chronic ulcer of unspecified calf with necrosis of bone
+DRG26303,L97209,Non-pressure chronic ulcer of unspecified calf with unspecified severity
+DRG26303,L97211,Non-pressure chronic ulcer of right calf limited to breakdown of skin
+DRG26303,L97212,Non-pressure chronic ulcer of right calf with fat layer exposed
+DRG26303,L97213,Non-pressure chronic ulcer of right calf with necrosis of muscle
+DRG26303,L97214,Non-pressure chronic ulcer of right calf with necrosis of bone
+DRG26303,L97219,Non-pressure chronic ulcer of right calf with unspecified severity
+DRG26303,L97221,Non-pressure chronic ulcer of left calf limited to breakdown of skin
+DRG26303,L97222,Non-pressure chronic ulcer of left calf with fat layer exposed
+DRG26303,L97223,Non-pressure chronic ulcer of left calf with necrosis of muscle
+DRG26303,L97224,Non-pressure chronic ulcer of left calf with necrosis of bone
+DRG26303,L97229,Non-pressure chronic ulcer of left calf with unspecified severity
+DRG26303,L97301,Non-pressure chronic ulcer of unspecified ankle limited to breakdown of skin
+DRG26303,L97302,Non-pressure chronic ulcer of unspecified ankle with fat layer exposed
+DRG26303,L97303,Non-pressure chronic ulcer of unspecified ankle with necrosis of muscle
+DRG26303,L97304,Non-pressure chronic ulcer of unspecified ankle with necrosis of bone
+DRG26303,L97309,Non-pressure chronic ulcer of unspecified ankle with unspecified severity
+DRG26303,L97311,Non-pressure chronic ulcer of right ankle limited to breakdown of skin
+DRG26303,L97312,Non-pressure chronic ulcer of right ankle with fat layer exposed
+DRG26303,L97313,Non-pressure chronic ulcer of right ankle with necrosis of muscle
+DRG26303,L97314,Non-pressure chronic ulcer of right ankle with necrosis of bone
+DRG26303,L97319,Non-pressure chronic ulcer of right ankle with unspecified severity
+DRG26303,L97321,Non-pressure chronic ulcer of left ankle limited to breakdown of skin
+DRG26303,L97322,Non-pressure chronic ulcer of left ankle with fat layer exposed
+DRG26303,L97323,Non-pressure chronic ulcer of left ankle with necrosis of muscle
+DRG26303,L97324,Non-pressure chronic ulcer of left ankle with necrosis of bone
+DRG26303,L97329,Non-pressure chronic ulcer of left ankle with unspecified severity
+DRG26303,L97401,Non-pressure chronic ulcer of unspecified heel and midfoot limited to breakdown of skin
+DRG26303,L97402,Non-pressure chronic ulcer of unspecified heel and midfoot with fat layer exposed
+DRG26303,L97403,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of muscle
+DRG26303,L97404,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of bone
+DRG26303,L97409,Non-pressure chronic ulcer of unspecified heel and midfoot with unspecified severity
+DRG26303,L97411,Non-pressure chronic ulcer of right heel and midfoot limited to breakdown of skin
+DRG26303,L97412,Non-pressure chronic ulcer of right heel and midfoot with fat layer exposed
+DRG26303,L97413,Non-pressure chronic ulcer of right heel and midfoot with necrosis of muscle
+DRG26303,L97414,Non-pressure chronic ulcer of right heel and midfoot with necrosis of bone
+DRG26303,L97419,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity
+DRG26303,L97421,Non-pressure chronic ulcer of left heel and midfoot limited to breakdown of skin
+DRG26303,L97422,Non-pressure chronic ulcer of left heel and midfoot with fat layer exposed
+DRG26303,L97423,Non-pressure chronic ulcer of left heel and midfoot with necrosis of muscle
+DRG26303,L97424,Non-pressure chronic ulcer of left heel and midfoot with necrosis of bone
+DRG26303,L97429,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity
+DRG26303,L97501,Non-pressure chronic ulcer of other part of unspecified foot limited to breakdown of skin
+DRG26303,L97502,Non-pressure chronic ulcer of other part of unspecified foot with fat layer exposed
+DRG26303,L97503,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of muscle
+DRG26303,L97504,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of bone
+DRG26303,L97509,Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity
+DRG26303,L97511,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin
+DRG26303,L97512,Non-pressure chronic ulcer of other part of right foot with fat layer exposed
+DRG26303,L97513,Non-pressure chronic ulcer of other part of right foot with necrosis of muscle
+DRG26303,L97514,Non-pressure chronic ulcer of other part of right foot with necrosis of bone
+DRG26303,L97519,Non-pressure chronic ulcer of other part of right foot with unspecified severity
+DRG26303,L97521,Non-pressure chronic ulcer of other part of left foot limited to breakdown of skin
+DRG26303,L97522,Non-pressure chronic ulcer of other part of left foot with fat layer exposed
+DRG26303,L97523,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle
+DRG26303,L97524,Non-pressure chronic ulcer of other part of left foot with necrosis of bone
+DRG26303,L97529,Non-pressure chronic ulcer of other part of left foot with unspecified severity
+DRG26303,L97801,Non-pressure chronic ulcer of other part of unspecified lower leg limited to breakdown of skin
+DRG26303,L97802,Non-pressure chronic ulcer of other part of unspecified lower leg with fat layer exposed
+DRG26303,L97803,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of muscle
+DRG26303,L97804,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of bone
+DRG26303,L97809,Non-pressure chronic ulcer of other part of unspecified lower leg with unspecified severity
+DRG26303,L97811,Non-pressure chronic ulcer of other part of right lower leg limited to breakdown of skin
+DRG26303,L97812,Non-pressure chronic ulcer of other part of right lower leg with fat layer exposed
+DRG26303,L97813,Non-pressure chronic ulcer of other part of right lower leg with necrosis of muscle
+DRG26303,L97814,Non-pressure chronic ulcer of other part of right lower leg with necrosis of bone
+DRG26303,L97819,Non-pressure chronic ulcer of other part of right lower leg with unspecified severity
+DRG26303,L97821,Non-pressure chronic ulcer of other part of left lower leg limited to breakdown of skin
+DRG26303,L97822,Non-pressure chronic ulcer of other part of left lower leg with fat layer exposed
+DRG26303,L97823,Non-pressure chronic ulcer of other part of left lower leg with necrosis of muscle
+DRG26303,L97824,Non-pressure chronic ulcer of other part of left lower leg with necrosis of bone
+DRG26303,L97829,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity
+DRG26303,L97901,Non-pressure chronic ulcer of unspecified part of unspecified lower leg limited to breakdown of skin
+DRG26303,L97902,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with fat layer exposed
+DRG26303,L97903,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of muscle
+DRG26303,L97904,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of bone
+DRG26303,L97909,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with unspecified severity
+DRG26303,L97911,Non-pressure chronic ulcer of unspecified part of right lower leg limited to breakdown of skin
+DRG26303,L97912,Non-pressure chronic ulcer of unspecified part of right lower leg with fat layer exposed
+DRG26303,L97913,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of muscle
+DRG26303,L97914,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of bone
+DRG26303,L97919,Non-pressure chronic ulcer of unspecified part of right lower leg with unspecified severity
+DRG26303,L97921,Non-pressure chronic ulcer of unspecified part of left lower leg limited to breakdown of skin
+DRG26303,L97922,Non-pressure chronic ulcer of unspecified part of left lower leg with fat layer exposed
+DRG26303,L97923,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of muscle
+DRG26303,L97924,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of bone
+DRG26303,L97929,Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity
+DRG26303,L983,Eosinophilic cellulitis [Wells]
+DRG26303,L98411,Non-pressure chronic ulcer of buttock limited to breakdown of skin
+DRG26303,L98412,Non-pressure chronic ulcer of buttock with fat layer exposed
+DRG26303,L98413,Non-pressure chronic ulcer of buttock with necrosis of muscle
+DRG26303,L98414,Non-pressure chronic ulcer of buttock with necrosis of bone
+DRG26303,L98419,Non-pressure chronic ulcer of buttock with unspecified severity
+DRG26303,L98421,Non-pressure chronic ulcer of back limited to breakdown of skin
+DRG26303,L98422,Non-pressure chronic ulcer of back with fat layer exposed
+DRG26303,L98423,Non-pressure chronic ulcer of back with necrosis of muscle
+DRG26303,L98424,Non-pressure chronic ulcer of back with necrosis of bone
+DRG26303,L98429,Non-pressure chronic ulcer of back with unspecified severity
+DRG26303,L98491,Non-pressure chronic ulcer of skin of other sites limited to breakdown of skin
+DRG26303,L98492,Non-pressure chronic ulcer of skin of other sites with fat layer exposed
+DRG26303,L98493,Non-pressure chronic ulcer of skin of other sites with necrosis of muscle
+DRG26303,L98494,Non-pressure chronic ulcer of skin of other sites with necrosis of bone
+DRG26303,L98499,Non-pressure chronic ulcer of skin of other sites with unspecified severity
+DRG26303,0HB0XZZ,"Excision of Scalp Skin, External Approach"
+DRG26303,0HB1XZZ,"Excision of Face Skin, External Approach"
+DRG26303,0HB4XZZ,"Excision of Neck Skin, External Approach"
+DRG26303,0HB5XZZ,"Excision of Chest Skin, External Approach"
+DRG26303,0HB6XZZ,"Excision of Back Skin, External Approach"
+DRG26303,0HB7XZZ,"Excision of Abdomen Skin, External Approach"
+DRG26303,0HB8XZZ,"Excision of Buttock Skin, External Approach"
+DRG26303,0HBAXZZ,"Excision of Genitalia Skin, External Approach"
+DRG26303,0HBBXZZ,"Excision of Right Upper Arm Skin, External Approach"
+DRG26303,0HBCXZZ,"Excision of Left Upper Arm Skin, External Approach"
+DRG26303,0HBDXZZ,"Excision of Right Lower Arm Skin, External Approach"
+DRG26303,0HBEXZZ,"Excision of Left Lower Arm Skin, External Approach"
+DRG26303,0HBFXZZ,"Excision of Right Hand Skin, External Approach"
+DRG26303,0HBGXZZ,"Excision of Left Hand Skin, External Approach"
+DRG26303,0HBHXZZ,"Excision of Right Upper Leg Skin, External Approach"
+DRG26303,0HBJXZZ,"Excision of Left Upper Leg Skin, External Approach"
+DRG26303,0HBKXZZ,"Excision of Right Lower Leg Skin, External Approach"
+DRG26303,0HBLXZZ,"Excision of Left Lower Leg Skin, External Approach"
+DRG26303,0HBMXZZ,"Excision of Right Foot Skin, External Approach"
+DRG26303,0HBNXZZ,"Excision of Left Foot Skin, External Approach"
+DRG26303,0HR0X73,"Replacement of Scalp Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR0X74,"Replacement of Scalp Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR0XJ3,"Replacement of Scalp Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR0XJ4,"Replacement of Scalp Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR0XJZ,"Replacement of Scalp Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR0XK3,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR0XK4,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR1X73,"Replacement of Face Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR1X74,"Replacement of Face Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR1XJ3,"Replacement of Face Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR1XJ4,"Replacement of Face Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR1XJZ,"Replacement of Face Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR1XK3,"Replacement of Face Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR1XK4,"Replacement of Face Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR4X73,"Replacement of Neck Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR4X74,"Replacement of Neck Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR4XJ3,"Replacement of Neck Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR4XJ4,"Replacement of Neck Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR4XJZ,"Replacement of Neck Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR4XK3,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR4XK4,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR5X73,"Replacement of Chest Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR5X74,"Replacement of Chest Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR5XJ3,"Replacement of Chest Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR5XJ4,"Replacement of Chest Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR5XJZ,"Replacement of Chest Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR5XK3,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR5XK4,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR6X73,"Replacement of Back Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR6X74,"Replacement of Back Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR6XJ3,"Replacement of Back Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR6XJ4,"Replacement of Back Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR6XJZ,"Replacement of Back Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR6XK3,"Replacement of Back Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR6XK4,"Replacement of Back Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR7X73,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR7X74,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR7XJ3,"Replacement of Abdomen Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR7XJ4,"Replacement of Abdomen Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR7XJZ,"Replacement of Abdomen Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR7XK3,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR7XK4,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR8X73,"Replacement of Buttock Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR8X74,"Replacement of Buttock Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HR8XJ3,"Replacement of Buttock Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HR8XJ4,"Replacement of Buttock Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HR8XJZ,"Replacement of Buttock Skin with Synthetic Substitute, External Approach"
+DRG26303,0HR8XK3,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HR8XK4,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRAX73,"Replacement of Genitalia Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRAX74,"Replacement of Genitalia Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRAXJ3,"Replacement of Genitalia Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRAXJ4,"Replacement of Genitalia Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRAXJZ,"Replacement of Genitalia Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRAXK3,"Replacement of Genitalia Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRAXK4,"Replacement of Genitalia Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRBX73,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRBX74,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRBXJ3,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRBXJ4,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRBXJZ,"Replacement of Right Upper Arm Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRBXK3,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRBXK4,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRCX73,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRCX74,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRCXJ3,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRCXJ4,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRCXJZ,"Replacement of Left Upper Arm Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRCXK3,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRCXK4,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRDX73,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRDX74,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRDXJ3,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRDXJ4,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRDXJZ,"Replacement of Right Lower Arm Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRDXK3,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRDXK4,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HREX73,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HREX74,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HREXJ3,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HREXJ4,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HREXJZ,"Replacement of Left Lower Arm Skin with Synthetic Substitute, External Approach"
+DRG26303,0HREXK3,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HREXK4,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRFX73,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRFX74,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRFXJ3,"Replacement of Right Hand Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRFXJ4,"Replacement of Right Hand Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRFXJZ,"Replacement of Right Hand Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRFXK3,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRFXK4,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRGX73,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRGX74,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRGXJ3,"Replacement of Left Hand Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRGXJ4,"Replacement of Left Hand Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRGXJZ,"Replacement of Left Hand Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRGXK3,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRGXK4,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRHX73,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRHX74,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRHXJ3,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRHXJ4,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRHXJZ,"Replacement of Right Upper Leg Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRHXK3,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRHXK4,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRJX73,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRJX74,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRJXJ3,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRJXJ4,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRJXJZ,"Replacement of Left Upper Leg Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRJXK3,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRJXK4,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRKX73,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRKX74,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRKXJ3,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRKXJ4,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRKXJZ,"Replacement of Right Lower Leg Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRKXK3,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRKXK4,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRLX73,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRLX74,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRLXJ3,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRLXJ4,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRLXJZ,"Replacement of Left Lower Leg Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRLXK3,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRLXK4,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRMX73,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRMX74,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRMXJ3,"Replacement of Right Foot Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRMXJ4,"Replacement of Right Foot Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRMXJZ,"Replacement of Right Foot Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRMXK3,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRMXK4,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRNX73,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRNX74,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRNXJ3,"Replacement of Left Foot Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG26303,0HRNXJ4,"Replacement of Left Foot Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG26303,0HRNXJZ,"Replacement of Left Foot Skin with Synthetic Substitute, External Approach"
+DRG26303,0HRNXK3,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG26303,0HRNXK4,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG26303,0HRTX7Z,"Replacement of Right Breast with Autologous Tissue Substitute, External Approach"
+DRG26303,0HRTXKZ,"Replacement of Right Breast with Nonautologous Tissue Substitute, External Approach"
+DRG26303,0HRUX7Z,"Replacement of Left Breast with Autologous Tissue Substitute, External Approach"
+DRG26303,0HRUXKZ,"Replacement of Left Breast with Nonautologous Tissue Substitute, External Approach"
+DRG26303,0HRVX7Z,"Replacement of Bilateral Breast with Autologous Tissue Substitute, External Approach"
+DRG26303,0HRVXKZ,"Replacement of Bilateral Breast with Nonautologous Tissue Substitute, External Approach"
+DRG26303,0JB00ZZ,"Excision of Scalp Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB10ZZ,"Excision of Face Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB40ZZ,"Excision of Anterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB50ZZ,"Excision of Posterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB60ZZ,"Excision of Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB70ZZ,"Excision of Back Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB80ZZ,"Excision of Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JB90ZZ,"Excision of Buttock Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBB0ZZ,"Excision of Perineum Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBC0ZZ,"Excision of Pelvic Region Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBD0ZZ,"Excision of Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBF0ZZ,"Excision of Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBG0ZZ,"Excision of Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBH0ZZ,"Excision of Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBL0ZZ,"Excision of Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBM0ZZ,"Excision of Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBN0ZZ,"Excision of Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBP0ZZ,"Excision of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBQ0ZZ,"Excision of Right Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JBR0ZZ,"Excision of Left Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH00NZ,"Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH03NZ,"Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH10NZ,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH13NZ,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH40NZ,"Insertion of Tissue Expander into Anterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH43NZ,"Insertion of Tissue Expander into Anterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH50NZ,"Insertion of Tissue Expander into Posterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH53NZ,"Insertion of Tissue Expander into Posterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH60NZ,"Insertion of Tissue Expander into Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH63NZ,"Insertion of Tissue Expander into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH70NZ,"Insertion of Tissue Expander into Back Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH73NZ,"Insertion of Tissue Expander into Back Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH80NZ,"Insertion of Tissue Expander into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH83NZ,"Insertion of Tissue Expander into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JH90NZ,"Insertion of Tissue Expander into Buttock Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JH93NZ,"Insertion of Tissue Expander into Buttock Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHB0NZ,"Insertion of Tissue Expander into Perineum Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHB3NZ,"Insertion of Tissue Expander into Perineum Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHC0NZ,"Insertion of Tissue Expander into Pelvic Region Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHC3NZ,"Insertion of Tissue Expander into Pelvic Region Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHD0NZ,"Insertion of Tissue Expander into Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHD3NZ,"Insertion of Tissue Expander into Right Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHF0NZ,"Insertion of Tissue Expander into Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHF3NZ,"Insertion of Tissue Expander into Left Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHG0NZ,"Insertion of Tissue Expander into Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHG3NZ,"Insertion of Tissue Expander into Right Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHH0NZ,"Insertion of Tissue Expander into Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHH3NZ,"Insertion of Tissue Expander into Left Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHJ0NZ,"Insertion of Tissue Expander into Right Hand Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHJ3NZ,"Insertion of Tissue Expander into Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHK0NZ,"Insertion of Tissue Expander into Left Hand Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHK3NZ,"Insertion of Tissue Expander into Left Hand Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHL0NZ,"Insertion of Tissue Expander into Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHL3NZ,"Insertion of Tissue Expander into Right Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHM0NZ,"Insertion of Tissue Expander into Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHM3NZ,"Insertion of Tissue Expander into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHN0NZ,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHN3NZ,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHP0NZ,"Insertion of Tissue Expander into Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHP3NZ,"Insertion of Tissue Expander into Left Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHQ0NZ,"Insertion of Tissue Expander into Right Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHQ3NZ,"Insertion of Tissue Expander into Right Foot Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0JHR0NZ,"Insertion of Tissue Expander into Left Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG26303,0JHR3NZ,"Insertion of Tissue Expander into Left Foot Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG26303,0WB00ZZ,"Excision of Head, Open Approach"
+DRG26303,0WB03ZZ,"Excision of Head, Percutaneous Approach"
+DRG26303,0WB04ZZ,"Excision of Head, Percutaneous Endoscopic Approach"
+DRG26303,0WB0XZZ,"Excision of Head, External Approach"
+DRG26303,0WB20ZZ,"Excision of Face, Open Approach"
+DRG26303,0WB23ZZ,"Excision of Face, Percutaneous Approach"
+DRG26303,0WB24ZZ,"Excision of Face, Percutaneous Endoscopic Approach"
+DRG26303,0WB2XZZ,"Excision of Face, External Approach"
+DRG26303,0WB40ZZ,"Excision of Upper Jaw, Open Approach"
+DRG26303,0WB43ZZ,"Excision of Upper Jaw, Percutaneous Approach"
+DRG26303,0WB44ZZ,"Excision of Upper Jaw, Percutaneous Endoscopic Approach"
+DRG26303,0WB4XZZ,"Excision of Upper Jaw, External Approach"
+DRG26303,0WB50ZZ,"Excision of Lower Jaw, Open Approach"
+DRG26303,0WB53ZZ,"Excision of Lower Jaw, Percutaneous Approach"
+DRG26303,0WB54ZZ,"Excision of Lower Jaw, Percutaneous Endoscopic Approach"
+DRG26303,0WB5XZZ,"Excision of Lower Jaw, External Approach"
+DRG26303,0WB60ZZ,"Excision of Neck, Open Approach"
+DRG26303,0WB63ZZ,"Excision of Neck, Percutaneous Approach"
+DRG26303,0WB64ZZ,"Excision of Neck, Percutaneous Endoscopic Approach"
+DRG26303,0WB6XZZ,"Excision of Neck, External Approach"
+DRG26303,0WBK0ZZ,"Excision of Upper Back, Open Approach"
+DRG26303,0WBK3ZZ,"Excision of Upper Back, Percutaneous Approach"
+DRG26303,0WBK4ZZ,"Excision of Upper Back, Percutaneous Endoscopic Approach"
+DRG26303,0WBKXZZ,"Excision of Upper Back, External Approach"
+DRG26303,0WBL0ZZ,"Excision of Lower Back, Open Approach"
+DRG26303,0WBL3ZZ,"Excision of Lower Back, Percutaneous Approach"
+DRG26303,0WBL4ZZ,"Excision of Lower Back, Percutaneous Endoscopic Approach"
+DRG26303,0WBLXZZ,"Excision of Lower Back, External Approach"
+DRG26303,0WBM0ZZ,"Excision of Male Perineum, Open Approach"
+DRG26303,0WBM3ZZ,"Excision of Male Perineum, Percutaneous Approach"
+DRG26303,0WBM4ZZ,"Excision of Male Perineum, Percutaneous Endoscopic Approach"
+DRG26303,0WBMXZZ,"Excision of Male Perineum, External Approach"
+DRG26303,0WU007Z,"Supplement Head with Autologous Tissue Substitute, Open Approach"
+DRG26303,0WU047Z,"Supplement Head with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0WU207Z,"Supplement Face with Autologous Tissue Substitute, Open Approach"
+DRG26303,0WU247Z,"Supplement Face with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0WU607Z,"Supplement Neck with Autologous Tissue Substitute, Open Approach"
+DRG26303,0WU647Z,"Supplement Neck with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0WUK07Z,"Supplement Upper Back with Autologous Tissue Substitute, Open Approach"
+DRG26303,0WUK47Z,"Supplement Upper Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0WUL07Z,"Supplement Lower Back with Autologous Tissue Substitute, Open Approach"
+DRG26303,0WUL47Z,"Supplement Lower Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XB20ZZ,"Excision of Right Shoulder Region, Open Approach"
+DRG26303,0XB23ZZ,"Excision of Right Shoulder Region, Percutaneous Approach"
+DRG26303,0XB24ZZ,"Excision of Right Shoulder Region, Percutaneous Endoscopic Approach"
+DRG26303,0XB30ZZ,"Excision of Left Shoulder Region, Open Approach"
+DRG26303,0XB33ZZ,"Excision of Left Shoulder Region, Percutaneous Approach"
+DRG26303,0XB34ZZ,"Excision of Left Shoulder Region, Percutaneous Endoscopic Approach"
+DRG26303,0XB40ZZ,"Excision of Right Axilla, Open Approach"
+DRG26303,0XB43ZZ,"Excision of Right Axilla, Percutaneous Approach"
+DRG26303,0XB44ZZ,"Excision of Right Axilla, Percutaneous Endoscopic Approach"
+DRG26303,0XB50ZZ,"Excision of Left Axilla, Open Approach"
+DRG26303,0XB53ZZ,"Excision of Left Axilla, Percutaneous Approach"
+DRG26303,0XB54ZZ,"Excision of Left Axilla, Percutaneous Endoscopic Approach"
+DRG26303,0XB60ZZ,"Excision of Right Upper Extremity, Open Approach"
+DRG26303,0XB63ZZ,"Excision of Right Upper Extremity, Percutaneous Approach"
+DRG26303,0XB64ZZ,"Excision of Right Upper Extremity, Percutaneous Endoscopic Approach"
+DRG26303,0XB70ZZ,"Excision of Left Upper Extremity, Open Approach"
+DRG26303,0XB73ZZ,"Excision of Left Upper Extremity, Percutaneous Approach"
+DRG26303,0XB74ZZ,"Excision of Left Upper Extremity, Percutaneous Endoscopic Approach"
+DRG26303,0XB80ZZ,"Excision of Right Upper Arm, Open Approach"
+DRG26303,0XB83ZZ,"Excision of Right Upper Arm, Percutaneous Approach"
+DRG26303,0XB84ZZ,"Excision of Right Upper Arm, Percutaneous Endoscopic Approach"
+DRG26303,0XB90ZZ,"Excision of Left Upper Arm, Open Approach"
+DRG26303,0XB93ZZ,"Excision of Left Upper Arm, Percutaneous Approach"
+DRG26303,0XB94ZZ,"Excision of Left Upper Arm, Percutaneous Endoscopic Approach"
+DRG26303,0XBB0ZZ,"Excision of Right Elbow Region, Open Approach"
+DRG26303,0XBB3ZZ,"Excision of Right Elbow Region, Percutaneous Approach"
+DRG26303,0XBB4ZZ,"Excision of Right Elbow Region, Percutaneous Endoscopic Approach"
+DRG26303,0XBC0ZZ,"Excision of Left Elbow Region, Open Approach"
+DRG26303,0XBC3ZZ,"Excision of Left Elbow Region, Percutaneous Approach"
+DRG26303,0XBC4ZZ,"Excision of Left Elbow Region, Percutaneous Endoscopic Approach"
+DRG26303,0XBD0ZZ,"Excision of Right Lower Arm, Open Approach"
+DRG26303,0XBD3ZZ,"Excision of Right Lower Arm, Percutaneous Approach"
+DRG26303,0XBD4ZZ,"Excision of Right Lower Arm, Percutaneous Endoscopic Approach"
+DRG26303,0XBF0ZZ,"Excision of Left Lower Arm, Open Approach"
+DRG26303,0XBF3ZZ,"Excision of Left Lower Arm, Percutaneous Approach"
+DRG26303,0XBF4ZZ,"Excision of Left Lower Arm, Percutaneous Endoscopic Approach"
+DRG26303,0XBG0ZZ,"Excision of Right Wrist Region, Open Approach"
+DRG26303,0XBG3ZZ,"Excision of Right Wrist Region, Percutaneous Approach"
+DRG26303,0XBG4ZZ,"Excision of Right Wrist Region, Percutaneous Endoscopic Approach"
+DRG26303,0XBH0ZZ,"Excision of Left Wrist Region, Open Approach"
+DRG26303,0XBH3ZZ,"Excision of Left Wrist Region, Percutaneous Approach"
+DRG26303,0XBH4ZZ,"Excision of Left Wrist Region, Percutaneous Endoscopic Approach"
+DRG26303,0XBJ0ZZ,"Excision of Right Hand, Open Approach"
+DRG26303,0XBJ3ZZ,"Excision of Right Hand, Percutaneous Approach"
+DRG26303,0XBJ4ZZ,"Excision of Right Hand, Percutaneous Endoscopic Approach"
+DRG26303,0XBK0ZZ,"Excision of Left Hand, Open Approach"
+DRG26303,0XBK3ZZ,"Excision of Left Hand, Percutaneous Approach"
+DRG26303,0XBK4ZZ,"Excision of Left Hand, Percutaneous Endoscopic Approach"
+DRG26303,0XU207Z,"Supplement Right Shoulder Region with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU247Z,"Supplement Right Shoulder Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU307Z,"Supplement Left Shoulder Region with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU347Z,"Supplement Left Shoulder Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU407Z,"Supplement Right Axilla with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU447Z,"Supplement Right Axilla with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU507Z,"Supplement Left Axilla with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU547Z,"Supplement Left Axilla with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU607Z,"Supplement Right Upper Extremity with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU647Z,"Supplement Right Upper Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU707Z,"Supplement Left Upper Extremity with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU747Z,"Supplement Left Upper Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU807Z,"Supplement Right Upper Arm with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU847Z,"Supplement Right Upper Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XU907Z,"Supplement Left Upper Arm with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XU947Z,"Supplement Left Upper Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUB07Z,"Supplement Right Elbow Region with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUB47Z,"Supplement Right Elbow Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUC07Z,"Supplement Left Elbow Region with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUC47Z,"Supplement Left Elbow Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUD07Z,"Supplement Right Lower Arm with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUD47Z,"Supplement Right Lower Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUF07Z,"Supplement Left Lower Arm with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUF47Z,"Supplement Left Lower Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUG07Z,"Supplement Right Wrist Region with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUG47Z,"Supplement Right Wrist Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUH07Z,"Supplement Left Wrist Region with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUH47Z,"Supplement Left Wrist Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUJ07Z,"Supplement Right Hand with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUJ47Z,"Supplement Right Hand with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUK07Z,"Supplement Left Hand with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUK47Z,"Supplement Left Hand with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUL07Z,"Supplement Right Thumb with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUL47Z,"Supplement Right Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUM07Z,"Supplement Left Thumb with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUM47Z,"Supplement Left Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUN07Z,"Supplement Right Index Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUN47Z,"Supplement Right Index Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUP07Z,"Supplement Left Index Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUP47Z,"Supplement Left Index Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUQ07Z,"Supplement Right Middle Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUQ47Z,"Supplement Right Middle Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUR07Z,"Supplement Left Middle Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUR47Z,"Supplement Left Middle Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUS07Z,"Supplement Right Ring Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUS47Z,"Supplement Right Ring Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUT07Z,"Supplement Left Ring Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUT47Z,"Supplement Left Ring Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUV07Z,"Supplement Right Little Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUV47Z,"Supplement Right Little Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0XUW07Z,"Supplement Left Little Finger with Autologous Tissue Substitute, Open Approach"
+DRG26303,0XUW47Z,"Supplement Left Little Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG26303,0YB00ZZ,"Excision of Right Buttock, Open Approach"
+DRG26303,0YB03ZZ,"Excision of Right Buttock, Percutaneous Approach"
+DRG26303,0YB04ZZ,"Excision of Right Buttock, Percutaneous Endoscopic Approach"
+DRG26303,0YB10ZZ,"Excision of Left Buttock, Open Approach"
+DRG26303,0YB13ZZ,"Excision of Left Buttock, Percutaneous Approach"
+DRG26303,0YB14ZZ,"Excision of Left Buttock, Percutaneous Endoscopic Approach"
+DRG26303,0YB90ZZ,"Excision of Right Lower Extremity, Open Approach"
+DRG26303,0YB93ZZ,"Excision of Right Lower Extremity, Percutaneous Approach"
+DRG26303,0YB94ZZ,"Excision of Right Lower Extremity, Percutaneous Endoscopic Approach"
+DRG26303,0YBB0ZZ,"Excision of Left Lower Extremity, Open Approach"
+DRG26303,0YBB3ZZ,"Excision of Left Lower Extremity, Percutaneous Approach"
+DRG26303,0YBB4ZZ,"Excision of Left Lower Extremity, Percutaneous Endoscopic Approach"
+DRG26303,0YBC0ZZ,"Excision of Right Upper Leg, Open Approach"
+DRG26303,0YBC3ZZ,"Excision of Right Upper Leg, Percutaneous Approach"
+DRG26303,0YBC4ZZ,"Excision of Right Upper Leg, Percutaneous Endoscopic Approach"
+DRG26303,0YBD0ZZ,"Excision of Left Upper Leg, Open Approach"
+DRG26303,0YBD3ZZ,"Excision of Left Upper Leg, Percutaneous Approach"
+DRG26303,0YBD4ZZ,"Excision of Left Upper Leg, Percutaneous Endoscopic Approach"
+DRG26303,0YBF0ZZ,"Excision of Right Knee Region, Open Approach"
+DRG26303,0YBF3ZZ,"Excision of Right Knee Region, Percutaneous Approach"
+DRG26303,0YBF4ZZ,"Excision of Right Knee Region, Percutaneous Endoscopic Approach"
+DRG26303,0YBG0ZZ,"Excision of Left Knee Region, Open Approach"
+DRG26303,0YBG3ZZ,"Excision of Left Knee Region, Percutaneous Approach"
+DRG26303,0YBG4ZZ,"Excision of Left Knee Region, Percutaneous Endoscopic Approach"
+DRG26303,0YBH0ZZ,"Excision of Right Lower Leg, Open Approach"
+DRG26303,0YBH3ZZ,"Excision of Right Lower Leg, Percutaneous Approach"
+DRG26303,0YBH4ZZ,"Excision of Right Lower Leg, Percutaneous Endoscopic Approach"
+DRG26303,0YBJ0ZZ,"Excision of Left Lower Leg, Open Approach"
+DRG26303,0YBJ3ZZ,"Excision of Left Lower Leg, Percutaneous Approach"
+DRG26303,0YBJ4ZZ,"Excision of Left Lower Leg, Percutaneous Endoscopic Approach"
+DRG26303,0YBK0ZZ,"Excision of Right Ankle Region, Open Approach"
+DRG26303,0YBK3ZZ,"Excision of Right Ankle Region, Percutaneous Approach"
+DRG26303,0YBK4ZZ,"Excision of Right Ankle Region, Percutaneous Endoscopic Approach"
+DRG26303,0YBL0ZZ,"Excision of Left Ankle Region, Open Approach"
+DRG26303,0YBL3ZZ,"Excision of Left Ankle Region, Percutaneous Approach"
+DRG26303,0YBL4ZZ,"Excision of Left Ankle Region, Percutaneous Endoscopic Approach"
+DRG26303,0YBM0ZZ,"Excision of Right Foot, Open Approach"
+DRG26303,0YBM3ZZ,"Excision of Right Foot, Percutaneous Approach"
+DRG26303,0YBM4ZZ,"Excision of Right Foot, Percutaneous Endoscopic Approach"
+DRG26303,0YBN0ZZ,"Excision of Left Foot, Open Approach"
+DRG26303,0YBN3ZZ,"Excision of Left Foot, Percutaneous Approach"
+DRG26303,0YBN4ZZ,"Excision of Left Foot, Percutaneous Endoscopic Approach"

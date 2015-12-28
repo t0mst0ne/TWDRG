@@ -1,6 +1,6 @@
-,DRG,CM-PCS,en
-6560,DRG00346,D074,Carcinoma in situ of penis
-6561,DRG00346,D075,Carcinoma in situ of prostate
-6562,DRG00346,D0760,Carcinoma in situ of unspecified male genital organs
-6563,DRG00346,D0761,Carcinoma in situ of scrotum
-6564,DRG00346,D0769,Carcinoma in situ of other male genital organs
+DRG,CM-PCS,en
+DRG00346,D074,Carcinoma in situ of penis
+DRG00346,D075,Carcinoma in situ of prostate
+DRG00346,D0760,Carcinoma in situ of unspecified male genital organs
+DRG00346,D0761,Carcinoma in situ of scrotum
+DRG00346,D0769,Carcinoma in situ of other male genital organs

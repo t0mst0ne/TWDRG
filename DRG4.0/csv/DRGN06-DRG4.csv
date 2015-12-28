@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-110,N06,P0504,"Newborn light for gestational age, 1000-1249 grams"
-111,N06,P0505,"Newborn light for gestational age, 1250-1499 grams"
-112,N06,P0514,"Newborn small for gestational age, 1000-1249 grams"
-113,N06,P0515,"Newborn small for gestational age, 1250-1499 grams"
-114,N06,P0714,"Other low birth weight newborn, 1000-1249 grams"
-115,N06,P0715,"Other low birth weight newborn, 1250-1499 grams"
+DRG,CM-PCS,en
+N06,P0504,"Newborn light for gestational age, 1000-1249 grams"
+N06,P0505,"Newborn light for gestational age, 1250-1499 grams"
+N06,P0514,"Newborn small for gestational age, 1000-1249 grams"
+N06,P0515,"Newborn small for gestational age, 1250-1499 grams"
+N06,P0714,"Other low birth weight newborn, 1000-1249 grams"
+N06,P0715,"Other low birth weight newborn, 1250-1499 grams"

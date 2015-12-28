@@ -1,107 +1,107 @@
-,DRG,CM-PCS,en
-9792,DRG17937,K5100,Ulcerative (chronic) pancolitis without complications
-9793,DRG17937,K51011,Ulcerative (chronic) pancolitis with rectal bleeding
-9794,DRG17937,K51012,Ulcerative (chronic) pancolitis with intestinal obstruction
-9795,DRG17937,K51013,Ulcerative (chronic) pancolitis with fistula
-9796,DRG17937,K51014,Ulcerative (chronic) pancolitis with abscess
-9797,DRG17937,K51018,Ulcerative (chronic) pancolitis with other complication
-9798,DRG17937,K51019,Ulcerative (chronic) pancolitis with unspecified complications
-9799,DRG17937,K5120,Ulcerative (chronic) proctitis without complications
-9800,DRG17937,K51211,Ulcerative (chronic) proctitis with rectal bleeding
-9801,DRG17937,K51212,Ulcerative (chronic) proctitis with intestinal obstruction
-9802,DRG17937,K51213,Ulcerative (chronic) proctitis with fistula
-9803,DRG17937,K51214,Ulcerative (chronic) proctitis with abscess
-9804,DRG17937,K51218,Ulcerative (chronic) proctitis with other complication
-9805,DRG17937,K51219,Ulcerative (chronic) proctitis with unspecified complications
-9806,DRG17937,K5130,Ulcerative (chronic) rectosigmoiditis without complications
-9807,DRG17937,K51311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding
-9808,DRG17937,K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction
-9809,DRG17937,K51313,Ulcerative (chronic) rectosigmoiditis with fistula
-9810,DRG17937,K51314,Ulcerative (chronic) rectosigmoiditis with abscess
-9811,DRG17937,K51318,Ulcerative (chronic) rectosigmoiditis with other complication
-9812,DRG17937,K51319,Ulcerative (chronic) rectosigmoiditis with unspecified complications
-9813,DRG17937,K5140,Inflammatory polyps of colon without complications
-9814,DRG17937,K51411,Inflammatory polyps of colon with rectal bleeding
-9815,DRG17937,K51412,Inflammatory polyps of colon with intestinal obstruction
-9816,DRG17937,K51413,Inflammatory polyps of colon with fistula
-9817,DRG17937,K51414,Inflammatory polyps of colon with abscess
-9818,DRG17937,K51418,Inflammatory polyps of colon with other complication
-9819,DRG17937,K51419,Inflammatory polyps of colon with unspecified complications
-9820,DRG17937,K5150,Left sided colitis without complications
-9821,DRG17937,K51511,Left sided colitis with rectal bleeding
-9822,DRG17937,K51512,Left sided colitis with intestinal obstruction
-9823,DRG17937,K51513,Left sided colitis with fistula
-9824,DRG17937,K51514,Left sided colitis with abscess
-9825,DRG17937,K51518,Left sided colitis with other complication
-9826,DRG17937,K51519,Left sided colitis with unspecified complications
-9827,DRG17937,K5180,Other ulcerative colitis without complications
-9828,DRG17937,K51811,Other ulcerative colitis with rectal bleeding
-9829,DRG17937,K51812,Other ulcerative colitis with intestinal obstruction
-9830,DRG17937,K51813,Other ulcerative colitis with fistula
-9831,DRG17937,K51814,Other ulcerative colitis with abscess
-9832,DRG17937,K51818,Other ulcerative colitis with other complication
-9833,DRG17937,K51819,Other ulcerative colitis with unspecified complications
-9836,DRG17937,A400,"Sepsis due to streptococcus, group A"
-9837,DRG17937,A401,"Sepsis due to streptococcus, group B"
-9838,DRG17937,A408,Other streptococcal sepsis
-9839,DRG17937,A409,"Streptococcal sepsis, unspecified"
-9840,DRG17937,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
-9841,DRG17937,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
-9842,DRG17937,R6520,Severe sepsis without septic shock
-9843,DRG17937,A412,Sepsis due to unspecified staphylococcus
-9844,DRG17937,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
-9845,DRG17937,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
-9846,DRG17937,A411,Sepsis due to other specified staphylococcus
-9847,DRG17937,A403,Sepsis due to Streptococcus pneumoniae
-9848,DRG17937,A414,Sepsis due to anaerobes
-9849,DRG17937,A4150,"Gram-negative sepsis, unspecified"
-9850,DRG17937,A413,Sepsis due to Hemophilus influenzae
-9851,DRG17937,A4151,Sepsis due to Escherichia coli [E. coli]
-9852,DRG17937,A4152,Sepsis due to Pseudomonas
-9853,DRG17937,A4153,Sepsis due to Serratia
-9854,DRG17937,A4159,Other Gram-negative sepsis
-9855,DRG17937,A4181,Sepsis due to Enterococcus
-9856,DRG17937,A4189,Other specified sepsis
-9857,DRG17937,A419,"Sepsis, unspecified organism"
-9858,DRG17937,E440,Moderate protein-calorie malnutrition
-9859,DRG17937,E441,Mild protein-calorie malnutrition
-9860,DRG17937,E45,Retarded development following protein-calorie malnutrition
-9861,DRG17937,E46,Unspecified protein-calorie malnutrition
-9862,DRG17937,E640,Sequelae of protein-calorie malnutrition
-9863,DRG17937,K561,Intussusception
-9864,DRG17937,K560,Paralytic ileus
-9865,DRG17937,K567,"Ileus, unspecified"
-9866,DRG17937,K562,Volvulus
-9867,DRG17937,K5649,Other impaction of intestine
-9868,DRG17937,K563,Gallstone ileus
-9869,DRG17937,K5641,Fecal impaction
-9870,DRG17937,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
-9871,DRG17937,K5669,Other intestinal obstruction
-9872,DRG17937,K5660,Unspecified intestinal obstruction
-9873,DRG17937,K603,Anal fistula
-9874,DRG17937,K604,Rectal fistula
-9875,DRG17937,K605,Anorectal fistula
-9876,DRG17937,K632,Fistula of intestine
-9877,DRG17937,K920,Hematemesis
-9878,DRG17937,K921,Melena
-9879,DRG17937,K922,"Gastrointestinal hemorrhage, unspecified"
-9880,DRG17937,R000,"Tachycardia, unspecified"
-9881,DRG17937,R002,Palpitations
-9882,DRG17937,R010,Benign and innocent cardiac murmurs
-9883,DRG17937,R011,"Cardiac murmur, unspecified"
-9884,DRG17937,R008,Other abnormalities of heart beat
-9885,DRG17937,R009,Unspecified abnormalities of heart beat
-9886,DRG17937,R012,Other cardiac sounds
-9887,DRG17937,I96,"Gangrene, not elsewhere classified"
-9888,DRG17937,R579,"Shock, unspecified"
-9889,DRG17937,R570,Cardiogenic shock
-9890,DRG17937,H49811,"Kearns-Sayre syndrome, right eye"
-9891,DRG17937,H49812,"Kearns-Sayre syndrome, left eye"
-9892,DRG17937,H49813,"Kearns-Sayre syndrome, bilateral"
-9893,DRG17937,R571,Hypovolemic shock
-9894,DRG17937,R578,Other shock
-9895,DRG17937,R6521,Severe sepsis with septic shock
-9896,DRG17937,R590,Localized enlarged lymph nodes
-9897,DRG17937,R591,Generalized enlarged lymph nodes
-9898,DRG17937,R599,"Enlarged lymph nodes, unspecified"
-9899,DRG17937,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems
+DRG,CM-PCS,en
+DRG17937,K5100,Ulcerative (chronic) pancolitis without complications
+DRG17937,K51011,Ulcerative (chronic) pancolitis with rectal bleeding
+DRG17937,K51012,Ulcerative (chronic) pancolitis with intestinal obstruction
+DRG17937,K51013,Ulcerative (chronic) pancolitis with fistula
+DRG17937,K51014,Ulcerative (chronic) pancolitis with abscess
+DRG17937,K51018,Ulcerative (chronic) pancolitis with other complication
+DRG17937,K51019,Ulcerative (chronic) pancolitis with unspecified complications
+DRG17937,K5120,Ulcerative (chronic) proctitis without complications
+DRG17937,K51211,Ulcerative (chronic) proctitis with rectal bleeding
+DRG17937,K51212,Ulcerative (chronic) proctitis with intestinal obstruction
+DRG17937,K51213,Ulcerative (chronic) proctitis with fistula
+DRG17937,K51214,Ulcerative (chronic) proctitis with abscess
+DRG17937,K51218,Ulcerative (chronic) proctitis with other complication
+DRG17937,K51219,Ulcerative (chronic) proctitis with unspecified complications
+DRG17937,K5130,Ulcerative (chronic) rectosigmoiditis without complications
+DRG17937,K51311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding
+DRG17937,K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction
+DRG17937,K51313,Ulcerative (chronic) rectosigmoiditis with fistula
+DRG17937,K51314,Ulcerative (chronic) rectosigmoiditis with abscess
+DRG17937,K51318,Ulcerative (chronic) rectosigmoiditis with other complication
+DRG17937,K51319,Ulcerative (chronic) rectosigmoiditis with unspecified complications
+DRG17937,K5140,Inflammatory polyps of colon without complications
+DRG17937,K51411,Inflammatory polyps of colon with rectal bleeding
+DRG17937,K51412,Inflammatory polyps of colon with intestinal obstruction
+DRG17937,K51413,Inflammatory polyps of colon with fistula
+DRG17937,K51414,Inflammatory polyps of colon with abscess
+DRG17937,K51418,Inflammatory polyps of colon with other complication
+DRG17937,K51419,Inflammatory polyps of colon with unspecified complications
+DRG17937,K5150,Left sided colitis without complications
+DRG17937,K51511,Left sided colitis with rectal bleeding
+DRG17937,K51512,Left sided colitis with intestinal obstruction
+DRG17937,K51513,Left sided colitis with fistula
+DRG17937,K51514,Left sided colitis with abscess
+DRG17937,K51518,Left sided colitis with other complication
+DRG17937,K51519,Left sided colitis with unspecified complications
+DRG17937,K5180,Other ulcerative colitis without complications
+DRG17937,K51811,Other ulcerative colitis with rectal bleeding
+DRG17937,K51812,Other ulcerative colitis with intestinal obstruction
+DRG17937,K51813,Other ulcerative colitis with fistula
+DRG17937,K51814,Other ulcerative colitis with abscess
+DRG17937,K51818,Other ulcerative colitis with other complication
+DRG17937,K51819,Other ulcerative colitis with unspecified complications
+DRG17937,A400,"Sepsis due to streptococcus, group A"
+DRG17937,A401,"Sepsis due to streptococcus, group B"
+DRG17937,A408,Other streptococcal sepsis
+DRG17937,A409,"Streptococcal sepsis, unspecified"
+DRG17937,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG17937,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG17937,R6520,Severe sepsis without septic shock
+DRG17937,A412,Sepsis due to unspecified staphylococcus
+DRG17937,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG17937,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG17937,A411,Sepsis due to other specified staphylococcus
+DRG17937,A403,Sepsis due to Streptococcus pneumoniae
+DRG17937,A414,Sepsis due to anaerobes
+DRG17937,A4150,"Gram-negative sepsis, unspecified"
+DRG17937,A413,Sepsis due to Hemophilus influenzae
+DRG17937,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG17937,A4152,Sepsis due to Pseudomonas
+DRG17937,A4153,Sepsis due to Serratia
+DRG17937,A4159,Other Gram-negative sepsis
+DRG17937,A4181,Sepsis due to Enterococcus
+DRG17937,A4189,Other specified sepsis
+DRG17937,A419,"Sepsis, unspecified organism"
+DRG17937,E440,Moderate protein-calorie malnutrition
+DRG17937,E441,Mild protein-calorie malnutrition
+DRG17937,E45,Retarded development following protein-calorie malnutrition
+DRG17937,E46,Unspecified protein-calorie malnutrition
+DRG17937,E640,Sequelae of protein-calorie malnutrition
+DRG17937,K561,Intussusception
+DRG17937,K560,Paralytic ileus
+DRG17937,K567,"Ileus, unspecified"
+DRG17937,K562,Volvulus
+DRG17937,K5649,Other impaction of intestine
+DRG17937,K563,Gallstone ileus
+DRG17937,K5641,Fecal impaction
+DRG17937,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
+DRG17937,K5669,Other intestinal obstruction
+DRG17937,K5660,Unspecified intestinal obstruction
+DRG17937,K603,Anal fistula
+DRG17937,K604,Rectal fistula
+DRG17937,K605,Anorectal fistula
+DRG17937,K632,Fistula of intestine
+DRG17937,K920,Hematemesis
+DRG17937,K921,Melena
+DRG17937,K922,"Gastrointestinal hemorrhage, unspecified"
+DRG17937,R000,"Tachycardia, unspecified"
+DRG17937,R002,Palpitations
+DRG17937,R010,Benign and innocent cardiac murmurs
+DRG17937,R011,"Cardiac murmur, unspecified"
+DRG17937,R008,Other abnormalities of heart beat
+DRG17937,R009,Unspecified abnormalities of heart beat
+DRG17937,R012,Other cardiac sounds
+DRG17937,I96,"Gangrene, not elsewhere classified"
+DRG17937,R579,"Shock, unspecified"
+DRG17937,R570,Cardiogenic shock
+DRG17937,H49811,"Kearns-Sayre syndrome, right eye"
+DRG17937,H49812,"Kearns-Sayre syndrome, left eye"
+DRG17937,H49813,"Kearns-Sayre syndrome, bilateral"
+DRG17937,R571,Hypovolemic shock
+DRG17937,R578,Other shock
+DRG17937,R6521,Severe sepsis with septic shock
+DRG17937,R590,Localized enlarged lymph nodes
+DRG17937,R591,Generalized enlarged lymph nodes
+DRG17937,R599,"Enlarged lymph nodes, unspecified"
+DRG17937,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems

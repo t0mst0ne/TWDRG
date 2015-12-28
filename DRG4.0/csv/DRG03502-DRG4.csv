@@ -1,695 +1,695 @@
-,DRG,CM-PCS,en
-51656,DRG03502,A5219,Other symptomatic neurosyphilis
-51657,DRG03502,A881,Epidemic vertigo
-51658,DRG03502,B900,Sequelae of central nervous system tuberculosis
-51659,DRG03502,B91,Sequelae of poliomyelitis
-51660,DRG03502,B941,Sequelae of viral encephalitis
-51661,DRG03502,D1802,Hemangioma of intracranial structures
-51662,DRG03502,F950,Transient tic disorder
-51663,DRG03502,F951,Chronic motor or vocal tic disorder
-51664,DRG03502,F952,Tourette's disorder
-51665,DRG03502,F958,Other tic disorders
-51666,DRG03502,F959,"Tic disorder, unspecified"
-51667,DRG03502,G038,Meningitis due to other specified causes
-51668,DRG03502,G08,Intracranial and intraspinal phlebitis and thrombophlebitis
-51669,DRG03502,G09,Sequelae of inflammatory diseases of central nervous system
-51670,DRG03502,G14,Postpolio syndrome
-51671,DRG03502,G210,Malignant neuroleptic syndrome
-51672,DRG03502,G2401,Drug induced subacute dyskinesia
-51673,DRG03502,G243,Spasmodic torticollis
-51674,DRG03502,G244,Idiopathic orofacial dystonia
-51675,DRG03502,G249,"Dystonia, unspecified"
-51676,DRG03502,G250,Essential tremor
-51677,DRG03502,G251,Drug-induced tremor
-51678,DRG03502,G252,Other specified forms of tremor
-51679,DRG03502,G253,Myoclonus
-51680,DRG03502,G2561,Drug induced tics
-51681,DRG03502,G2569,Other tics of organic origin
-51682,DRG03502,G2582,Stiff-man syndrome
-51683,DRG03502,G2583,Benign shuddering attacks
-51684,DRG03502,G4700,"Insomnia, unspecified"
-51685,DRG03502,G4701,Insomnia due to medical condition
-51686,DRG03502,G4709,Other insomnia
-51687,DRG03502,G4710,"Hypersomnia, unspecified"
-51688,DRG03502,G4711,Idiopathic hypersomnia with long sleep time
-51689,DRG03502,G4712,Idiopathic hypersomnia without long sleep time
-51690,DRG03502,G4713,Recurrent hypersomnia
-51691,DRG03502,G4714,Hypersomnia due to medical condition
-51692,DRG03502,G4719,Other hypersomnia
-51693,DRG03502,G4720,"Circadian rhythm sleep disorder, unspecified type"
-51694,DRG03502,G4730,"Sleep apnea, unspecified"
-51695,DRG03502,G4731,Primary central sleep apnea
-51696,DRG03502,G4732,High altitude periodic breathing
-51697,DRG03502,G4733,Obstructive sleep apnea (adult) (pediatric)
-51698,DRG03502,G4734,Idiopathic sleep related nonobstructive alveolar hypoventilation
-51699,DRG03502,G4735,Congenital central alveolar hypoventilation syndrome
-51700,DRG03502,G4739,Other sleep apnea
-51701,DRG03502,G47411,Narcolepsy with cataplexy
-51702,DRG03502,G47419,Narcolepsy without cataplexy
-51703,DRG03502,G4752,REM sleep behavior disorder
-51704,DRG03502,G478,Other sleep disorders
-51705,DRG03502,G601,Refsum's disease
-51706,DRG03502,G652,Sequelae of toxic polyneuropathy
-51707,DRG03502,G710,Muscular dystrophy
-51708,DRG03502,G7111,Myotonic muscular dystrophy
-51709,DRG03502,G7112,Myotonia congenita
-51710,DRG03502,G7113,Myotonic chondrodystrophy
-51711,DRG03502,G7114,Drug induced myotonia
-51712,DRG03502,G7119,Other specified myotonic disorders
-51713,DRG03502,G712,Congenital myopathies
-51714,DRG03502,G713,"Mitochondrial myopathy, not elsewhere classified"
-51715,DRG03502,G718,Other primary disorders of muscles
-51716,DRG03502,G719,"Primary disorder of muscle, unspecified"
-51717,DRG03502,G720,Drug-induced myopathy
-51718,DRG03502,G721,Alcoholic myopathy
-51719,DRG03502,G722,Myopathy due to other toxic agents
-51720,DRG03502,G723,Periodic paralysis
-51721,DRG03502,G7241,Inclusion body myositis [IBM]
-51722,DRG03502,G7249,"Other inflammatory and immune myopathies, not elsewhere classified"
-51723,DRG03502,G7281,Critical illness myopathy
-51724,DRG03502,G7289,Other specified myopathies
-51725,DRG03502,G729,"Myopathy, unspecified"
-51726,DRG03502,G804,Ataxic cerebral palsy
-51727,DRG03502,G808,Other cerebral palsy
-51728,DRG03502,G809,"Cerebral palsy, unspecified"
-51729,DRG03502,G8310,Monoplegia of lower limb affecting unspecified side
-51730,DRG03502,G8311,Monoplegia of lower limb affecting right dominant side
-51731,DRG03502,G8312,Monoplegia of lower limb affecting left dominant side
-51732,DRG03502,G8313,Monoplegia of lower limb affecting right nondominant side
-51733,DRG03502,G8314,Monoplegia of lower limb affecting left nondominant side
-51734,DRG03502,G8320,Monoplegia of upper limb affecting unspecified side
-51735,DRG03502,G8321,Monoplegia of upper limb affecting right dominant side
-51736,DRG03502,G8322,Monoplegia of upper limb affecting left dominant side
-51737,DRG03502,G8323,Monoplegia of upper limb affecting right nondominant side
-51738,DRG03502,G8324,Monoplegia of upper limb affecting left nondominant side
-51739,DRG03502,G8330,"Monoplegia, unspecified affecting unspecified side"
-51740,DRG03502,G8331,"Monoplegia, unspecified affecting right dominant side"
-51741,DRG03502,G8332,"Monoplegia, unspecified affecting left dominant side"
-51742,DRG03502,G8333,"Monoplegia, unspecified affecting right nondominant side"
-51743,DRG03502,G8334,"Monoplegia, unspecified affecting left nondominant side"
-51744,DRG03502,G835,Locked-in state
-51745,DRG03502,G8381,Brown-Sequard syndrome
-51746,DRG03502,G8382,Anterior cord syndrome
-51747,DRG03502,G8383,Posterior cord syndrome
-51748,DRG03502,G8384,Todd's paralysis (postepileptic)
-51749,DRG03502,G8389,Other specified paralytic syndromes
-51750,DRG03502,G839,"Paralytic syndrome, unspecified"
-51751,DRG03502,G901,Familial dysautonomia [Riley-Day]
-51752,DRG03502,G92,Toxic encephalopathy
-51753,DRG03502,G930,Cerebral cysts
-51754,DRG03502,G931,"Anoxic brain damage, not elsewhere classified"
-51755,DRG03502,G937,Reye's syndrome
-51756,DRG03502,G9511,Acute infarction of spinal cord (embolic) (nonembolic)
-51757,DRG03502,G9519,Other vascular myelopathies
-51758,DRG03502,G9520,Unspecified cord compression
-51759,DRG03502,G9529,Other cord compression
-51760,DRG03502,G9581,Conus medullaris syndrome
-51761,DRG03502,G9589,Other specified diseases of spinal cord
-51762,DRG03502,G959,"Disease of spinal cord, unspecified"
-51763,DRG03502,G960,Cerebrospinal fluid leak
-51764,DRG03502,G9612,Meningeal adhesions (cerebral) (spinal)
-51765,DRG03502,G9619,"Other disorders of meninges, not elsewhere classified"
-51766,DRG03502,G970,Cerebrospinal fluid leak from spinal puncture
-51767,DRG03502,G972,Intracranial hypotension following ventricular shunting
-51768,DRG03502,G9731,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a nervous system procedure
-51769,DRG03502,G9732,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating other procedure
-51770,DRG03502,G9781,Other intraoperative complications of nervous system
-51771,DRG03502,G9782,Other postprocedural complications and disorders of nervous system
-51772,DRG03502,H4710,Unspecified papilledema
-51773,DRG03502,H4711,Papilledema associated with increased intracranial pressure
-51774,DRG03502,H47141,"Foster-Kennedy syndrome, right eye"
-51775,DRG03502,H47142,"Foster-Kennedy syndrome, left eye"
-51776,DRG03502,H47143,"Foster-Kennedy syndrome, bilateral"
-51777,DRG03502,H47149,"Foster-Kennedy syndrome, unspecified eye"
-51778,DRG03502,H4741,Disorders of optic chiasm in (due to) inflammatory disorders
-51779,DRG03502,H4742,Disorders of optic chiasm in (due to) neoplasm
-51780,DRG03502,H4743,Disorders of optic chiasm in (due to) vascular disorders
-51781,DRG03502,H4749,Disorders of optic chiasm in (due to) other disorders
-51782,DRG03502,H47511,"Disorders of visual pathways in (due to) inflammatory disorders, right side"
-51783,DRG03502,H47512,"Disorders of visual pathways in (due to) inflammatory disorders, left side"
-51784,DRG03502,H47519,"Disorders of visual pathways in (due to) inflammatory disorders, unspecified side"
-51785,DRG03502,H47521,"Disorders of visual pathways in (due to) neoplasm, right side"
-51786,DRG03502,H47522,"Disorders of visual pathways in (due to) neoplasm, left side"
-51787,DRG03502,H47529,"Disorders of visual pathways in (due to) neoplasm, unspecified side"
-51788,DRG03502,H47531,"Disorders of visual pathways in (due to) vascular disorders, right side"
-51789,DRG03502,H47532,"Disorders of visual pathways in (due to) vascular disorders, left side"
-51790,DRG03502,H47539,"Disorders of visual pathways in (due to) vascular disorders, unspecified side"
-51791,DRG03502,H47611,"Cortical blindness, right side of brain"
-51792,DRG03502,H47612,"Cortical blindness, left side of brain"
-51793,DRG03502,H47619,"Cortical blindness, unspecified side of brain"
-51794,DRG03502,H47621,"Disorders of visual cortex in (due to) inflammatory disorders, right side of brain"
-51795,DRG03502,H47622,"Disorders of visual cortex in (due to) inflammatory disorders, left side of brain"
-51796,DRG03502,H47629,"Disorders of visual cortex in (due to) inflammatory disorders, unspecified side of brain"
-51797,DRG03502,H47631,"Disorders of visual cortex in (due to) neoplasm, right side of brain"
-51798,DRG03502,H47632,"Disorders of visual cortex in (due to) neoplasm, left side of brain"
-51799,DRG03502,H47639,"Disorders of visual cortex in (due to) neoplasm, unspecified side of brain"
-51800,DRG03502,H47641,"Disorders of visual cortex in (due to) vascular disorders, right side of brain"
-51801,DRG03502,H47642,"Disorders of visual cortex in (due to) vascular disorders, left side of brain"
-51802,DRG03502,H47649,"Disorders of visual cortex in (due to) vascular disorders, unspecified side of brain"
-51803,DRG03502,H479,Unspecified disorder of visual pathways
-51804,DRG03502,H5120,"Internuclear ophthalmoplegia, unspecified eye"
-51805,DRG03502,H5121,"Internuclear ophthalmoplegia, right eye"
-51806,DRG03502,H5122,"Internuclear ophthalmoplegia, left eye"
-51807,DRG03502,H5123,"Internuclear ophthalmoplegia, bilateral"
-51808,DRG03502,I675,Moyamoya disease
-51809,DRG03502,I676,Nonpyogenic thrombosis of intracranial venous system
-51810,DRG03502,I97810,Intraoperative cerebrovascular infarction during cardiac surgery
-51811,DRG03502,I97811,Intraoperative cerebrovascular infarction during other surgery
-51812,DRG03502,I97820,Postprocedural cerebrovascular infarction during cardiac surgery
-51813,DRG03502,I97821,Postprocedural cerebrovascular infarction during other surgery
-51814,DRG03502,P912,Neonatal cerebral leukomalacia
-51815,DRG03502,Q000,Anencephaly
-51816,DRG03502,Q001,Craniorachischisis
-51817,DRG03502,Q002,Iniencephaly
-51818,DRG03502,Q010,Frontal encephalocele
-51819,DRG03502,Q011,Nasofrontal encephalocele
-51820,DRG03502,Q012,Occipital encephalocele
-51821,DRG03502,Q018,Encephalocele of other sites
-51822,DRG03502,Q019,"Encephalocele, unspecified"
-51823,DRG03502,Q02,Microcephaly
-51824,DRG03502,Q030,Malformations of aqueduct of Sylvius
-51825,DRG03502,Q031,Atresia of foramina of Magendie and Luschka
-51826,DRG03502,Q038,Other congenital hydrocephalus
-51827,DRG03502,Q039,"Congenital hydrocephalus, unspecified"
-51828,DRG03502,Q040,Congenital malformations of corpus callosum
-51829,DRG03502,Q041,Arhinencephaly
-51830,DRG03502,Q042,Holoprosencephaly
-51831,DRG03502,Q043,Other reduction deformities of brain
-51832,DRG03502,Q044,Septo-optic dysplasia of brain
-51833,DRG03502,Q045,Megalencephaly
-51834,DRG03502,Q046,Congenital cerebral cysts
-51835,DRG03502,Q048,Other specified congenital malformations of brain
-51836,DRG03502,Q049,"Congenital malformation of brain, unspecified"
-51837,DRG03502,Q050,Cervical spina bifida with hydrocephalus
-51838,DRG03502,Q051,Thoracic spina bifida with hydrocephalus
-51839,DRG03502,Q052,Lumbar spina bifida with hydrocephalus
-51840,DRG03502,Q053,Sacral spina bifida with hydrocephalus
-51841,DRG03502,Q054,Unspecified spina bifida with hydrocephalus
-51842,DRG03502,Q055,Cervical spina bifida without hydrocephalus
-51843,DRG03502,Q056,Thoracic spina bifida without hydrocephalus
-51844,DRG03502,Q057,Lumbar spina bifida without hydrocephalus
-51845,DRG03502,Q058,Sacral spina bifida without hydrocephalus
-51846,DRG03502,Q059,"Spina bifida, unspecified"
-51847,DRG03502,Q060,Amyelia
-51848,DRG03502,Q061,Hypoplasia and dysplasia of spinal cord
-51849,DRG03502,Q062,Diastematomyelia
-51850,DRG03502,Q063,Other congenital cauda equina malformations
-51851,DRG03502,Q064,Hydromyelia
-51852,DRG03502,Q068,Other specified congenital malformations of spinal cord
-51853,DRG03502,Q069,"Congenital malformation of spinal cord, unspecified"
-51854,DRG03502,Q0700,Arnold-Chiari syndrome without spina bifida or hydrocephalus
-51855,DRG03502,Q0701,Arnold-Chiari syndrome with spina bifida
-51856,DRG03502,Q0702,Arnold-Chiari syndrome with hydrocephalus
-51857,DRG03502,Q0703,Arnold-Chiari syndrome with spina bifida and hydrocephalus
-51858,DRG03502,Q078,Other specified congenital malformations of nervous system
-51859,DRG03502,Q079,"Congenital malformation of nervous system, unspecified"
-51860,DRG03502,Q282,Arteriovenous malformation of cerebral vessels
-51861,DRG03502,Q283,Other malformations of cerebral vessels
-51862,DRG03502,Q760,Spina bifida occulta
-51863,DRG03502,Q8500,"Neurofibromatosis, unspecified"
-51864,DRG03502,Q8501,"Neurofibromatosis, type 1"
-51865,DRG03502,Q8502,"Neurofibromatosis, type 2"
-51866,DRG03502,Q8503,Schwannomatosis
-51867,DRG03502,Q8509,Other neurofibromatosis
-51868,DRG03502,Q851,Tuberous sclerosis
-51869,DRG03502,R200,Anesthesia of skin
-51870,DRG03502,R201,Hypoesthesia of skin
-51871,DRG03502,R202,Paresthesia of skin
-51872,DRG03502,R203,Hyperesthesia
-51873,DRG03502,R208,Other disturbances of skin sensation
-51874,DRG03502,R209,Unspecified disturbances of skin sensation
-51875,DRG03502,R250,Abnormal head movements
-51876,DRG03502,R251,"Tremor, unspecified"
-51877,DRG03502,R252,Cramp and spasm
-51878,DRG03502,R253,Fasciculation
-51879,DRG03502,R258,Other abnormal involuntary movements
-51880,DRG03502,R259,Unspecified abnormal involuntary movements
-51881,DRG03502,R260,Ataxic gait
-51882,DRG03502,R261,Paralytic gait
-51883,DRG03502,R2681,Unsteadiness on feet
-51884,DRG03502,R2689,Other abnormalities of gait and mobility
-51885,DRG03502,R269,Unspecified abnormalities of gait and mobility
-51886,DRG03502,R270,"Ataxia, unspecified"
-51887,DRG03502,R278,Other lack of coordination
-51888,DRG03502,R279,Unspecified lack of coordination
-51889,DRG03502,R291,Meningismus
-51890,DRG03502,R292,Abnormal reflex
-51891,DRG03502,R293,Abnormal posture
-51892,DRG03502,R295,Transient paralysis
-51893,DRG03502,R296,Repeated falls
-51894,DRG03502,R29810,Facial weakness
-51895,DRG03502,R29818,Other symptoms and signs involving the nervous system
-51896,DRG03502,R29890,Loss of height
-51897,DRG03502,R2990,Unspecified symptoms and signs involving the nervous system
-51898,DRG03502,R2991,Unspecified symptoms and signs involving the musculoskeletal system
-51899,DRG03502,R414,Neurologic neglect syndrome
-51900,DRG03502,R41842,Visuospatial deficit
-51901,DRG03502,R430,Anosmia
-51902,DRG03502,R431,Parosmia
-51903,DRG03502,R432,Parageusia
-51904,DRG03502,R438,Other disturbances of smell and taste
-51905,DRG03502,R439,Unspecified disturbances of smell and taste
-51906,DRG03502,R4702,Dysphasia
-51907,DRG03502,R471,Dysarthria and anarthria
-51908,DRG03502,R4781,Slurred speech
-51909,DRG03502,R4789,Other speech disturbances
-51910,DRG03502,R479,Unspecified speech disturbances
-51911,DRG03502,R830,Abnormal level of enzymes in cerebrospinal fluid
-51912,DRG03502,R831,Abnormal level of hormones in cerebrospinal fluid
-51913,DRG03502,R832,"Abnormal level of other drugs, medicaments and biological substances in cerebrospinal fluid"
-51914,DRG03502,R833,Abnormal level of substances chiefly nonmedicinal as to source in cerebrospinal fluid
-51915,DRG03502,R834,Abnormal immunological findings in cerebrospinal fluid
-51916,DRG03502,R835,Abnormal microbiological findings in cerebrospinal fluid
-51917,DRG03502,R836,Abnormal cytological findings in cerebrospinal fluid
-51918,DRG03502,R838,Other abnormal findings in cerebrospinal fluid
-51919,DRG03502,R839,Unspecified abnormal finding in cerebrospinal fluid
-51920,DRG03502,R9081,Abnormal echoencephalogram
-51921,DRG03502,R9082,"White matter disease, unspecified"
-51922,DRG03502,R930,"Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified"
-51923,DRG03502,R9401,Abnormal electroencephalogram [EEG]
-51924,DRG03502,R9402,Abnormal brain scan
-51925,DRG03502,R9409,Abnormal results of other function studies of central nervous system
-51926,DRG03502,R94118,Abnormal results of other function studies of eye
-51927,DRG03502,R94128,Abnormal results of other function studies of ear and other special senses
-51928,DRG03502,R94130,"Abnormal response to nerve stimulation, unspecified"
-51929,DRG03502,R94138,Abnormal results of other function studies of peripheral nervous system
-51930,DRG03502,S020XXS,"Fracture of vault of skull, sequela"
-51931,DRG03502,S0210XS,"Unspecified fracture of base of skull, sequela"
-51932,DRG03502,S02110S,"Type I occipital condyle fracture, sequela"
-51933,DRG03502,S02111S,"Type II occipital condyle fracture, sequela"
-51934,DRG03502,S02112S,"Type III occipital condyle fracture, sequela"
-51935,DRG03502,S02113S,"Unspecified occipital condyle fracture, sequela"
-51936,DRG03502,S02118S,"Other fracture of occiput, sequela"
-51937,DRG03502,S02119S,"Unspecified fracture of occiput, sequela"
-51938,DRG03502,S0219XS,"Other fracture of base of skull, sequela"
-51939,DRG03502,S022XXS,"Fracture of nasal bones, sequela"
-51940,DRG03502,S023XXS,"Fracture of orbital floor, sequela"
-51941,DRG03502,S02400S,"Malar fracture unspecified, sequela"
-51942,DRG03502,S02401S,"Maxillary fracture, unspecified, sequela"
-51943,DRG03502,S02402S,"Zygomatic fracture, unspecified, sequela"
-51944,DRG03502,S02411S,"LeFort I fracture, sequela"
-51945,DRG03502,S02412S,"LeFort II fracture, sequela"
-51946,DRG03502,S02413S,"LeFort III fracture, sequela"
-51947,DRG03502,S0242XS,"Fracture of alveolus of maxilla, sequela"
-51948,DRG03502,S025XXS,"Fracture of tooth (traumatic), sequela"
-51949,DRG03502,S02600S,"Fracture of unspecified part of body of mandible, sequela"
-51950,DRG03502,S02609S,"Fracture of mandible, unspecified, sequela"
-51951,DRG03502,S0261XS,"Fracture of condylar process of mandible, sequela"
-51952,DRG03502,S0262XS,"Fracture of subcondylar process of mandible, sequela"
-51953,DRG03502,S0263XS,"Fracture of coronoid process of mandible, sequela"
-51954,DRG03502,S0264XS,"Fracture of ramus of mandible, sequela"
-51955,DRG03502,S0265XS,"Fracture of angle of mandible, sequela"
-51956,DRG03502,S0266XS,"Fracture of symphysis of mandible, sequela"
-51957,DRG03502,S0267XS,"Fracture of alveolus of mandible, sequela"
-51958,DRG03502,S0269XS,"Fracture of mandible of other specified site, sequela"
-51959,DRG03502,S028XXS,"Fractures of other specified skull and facial bones, sequela"
-51960,DRG03502,S0291XS,"Unspecified fracture of skull, sequela"
-51961,DRG03502,S0292XS,"Unspecified fracture of facial bones, sequela"
-51962,DRG03502,S04011S,"Injury of optic nerve, right eye, sequela"
-51963,DRG03502,S04012S,"Injury of optic nerve, left eye, sequela"
-51964,DRG03502,S04019S,"Injury of optic nerve, unspecified eye, sequela"
-51965,DRG03502,S0402XA,"Injury of optic chiasm, initial encounter"
-51966,DRG03502,S0402XS,"Injury of optic chiasm, sequela"
-51967,DRG03502,S04031A,"Injury of optic tract and pathways, right eye, initial encounter"
-51968,DRG03502,S04031S,"Injury of optic tract and pathways, right eye, sequela"
-51969,DRG03502,S04032A,"Injury of optic tract and pathways, left eye, initial encounter"
-51970,DRG03502,S04032S,"Injury of optic tract and pathways, left eye, sequela"
-51971,DRG03502,S04039A,"Injury of optic tract and pathways, unspecified eye, initial encounter"
-51972,DRG03502,S04039S,"Injury of optic tract and pathways, unspecified eye, sequela"
-51973,DRG03502,S04041A,"Injury of visual cortex, right eye, initial encounter"
-51974,DRG03502,S04041S,"Injury of visual cortex, right eye, sequela"
-51975,DRG03502,S04042A,"Injury of visual cortex, left eye, initial encounter"
-51976,DRG03502,S04042S,"Injury of visual cortex, left eye, sequela"
-51977,DRG03502,S04049A,"Injury of visual cortex, unspecified eye, initial encounter"
-51978,DRG03502,S04049S,"Injury of visual cortex, unspecified eye, sequela"
-51979,DRG03502,S0410XS,"Injury of oculomotor nerve, unspecified side, sequela"
-51980,DRG03502,S0411XS,"Injury of oculomotor nerve, right side, sequela"
-51981,DRG03502,S0412XS,"Injury of oculomotor nerve, left side, sequela"
-51982,DRG03502,S0420XS,"Injury of trochlear nerve, unspecified side, sequela"
-51983,DRG03502,S0421XS,"Injury of trochlear nerve, right side, sequela"
-51984,DRG03502,S0422XS,"Injury of trochlear nerve, left side, sequela"
-51985,DRG03502,S0430XS,"Injury of trigeminal nerve, unspecified side, sequela"
-51986,DRG03502,S0431XS,"Injury of trigeminal nerve, right side, sequela"
-51987,DRG03502,S0432XS,"Injury of trigeminal nerve, left side, sequela"
-51988,DRG03502,S0440XS,"Injury of abducent nerve, unspecified side, sequela"
-51989,DRG03502,S0441XS,"Injury of abducent nerve, right side, sequela"
-51990,DRG03502,S0442XS,"Injury of abducent nerve, left side, sequela"
-51991,DRG03502,S0450XS,"Injury of facial nerve, unspecified side, sequela"
-51992,DRG03502,S0451XS,"Injury of facial nerve, right side, sequela"
-51993,DRG03502,S0452XS,"Injury of facial nerve, left side, sequela"
-51994,DRG03502,S0460XS,"Injury of acoustic nerve, unspecified side, sequela"
-51995,DRG03502,S0461XS,"Injury of acoustic nerve, right side, sequela"
-51996,DRG03502,S0462XS,"Injury of acoustic nerve, left side, sequela"
-51997,DRG03502,S0470XS,"Injury of accessory nerve, unspecified side, sequela"
-51998,DRG03502,S0471XS,"Injury of accessory nerve, right side, sequela"
-51999,DRG03502,S0472XS,"Injury of accessory nerve, left side, sequela"
-52000,DRG03502,S04811S,"Injury of olfactory [1st ] nerve, right side, sequela"
-52001,DRG03502,S04812S,"Injury of olfactory [1st ] nerve, left side, sequela"
-52002,DRG03502,S04819S,"Injury of olfactory [1st ] nerve, unspecified side, sequela"
-52003,DRG03502,S04891S,"Injury of other cranial nerves, right side, sequela"
-52004,DRG03502,S04892S,"Injury of other cranial nerves, left side, sequela"
-52005,DRG03502,S04899S,"Injury of other cranial nerves, unspecified side, sequela"
-52006,DRG03502,S049XXS,"Injury of unspecified cranial nerve, sequela"
-52007,DRG03502,S060X0S,"Concussion without loss of consciousness, sequela"
-52008,DRG03502,S060X1S,"Concussion with loss of consciousness of 30 minutes or less, sequela"
-52009,DRG03502,S060X2S,"Concussion with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52010,DRG03502,S060X3S,"Concussion with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52011,DRG03502,S060X4S,"Concussion with loss of consciousness of 6 hours to 24 hours, sequela"
-52012,DRG03502,S060X5S,"Concussion with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52013,DRG03502,S060X6S,"Concussion with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52014,DRG03502,S060X7S,"Concussion with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52015,DRG03502,S060X8S,"Concussion with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52016,DRG03502,S060X9S,"Concussion with loss of consciousness of unspecified duration, sequela"
-52017,DRG03502,S061X0S,"Traumatic cerebral edema without loss of consciousness, sequela"
-52018,DRG03502,S061X1S,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, sequela"
-52019,DRG03502,S061X2S,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52020,DRG03502,S061X3S,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52021,DRG03502,S061X4S,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, sequela"
-52022,DRG03502,S061X5S,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52023,DRG03502,S061X6S,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52024,DRG03502,S061X7S,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52025,DRG03502,S061X8S,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52026,DRG03502,S061X9S,"Traumatic cerebral edema with loss of consciousness of unspecified duration, sequela"
-52027,DRG03502,S062X0S,"Diffuse traumatic brain injury without loss of consciousness, sequela"
-52028,DRG03502,S062X1S,"Diffuse traumatic brain injury with loss of consciousness of 30 minutes or less, sequela"
-52029,DRG03502,S062X2S,"Diffuse traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52030,DRG03502,S062X3S,"Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52031,DRG03502,S062X4S,"Diffuse traumatic brain injury with loss of consciousness of 6 hours to 24 hours, sequela"
-52032,DRG03502,S062X5S,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious levels, sequela"
-52033,DRG03502,S062X6S,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52034,DRG03502,S062X7S,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52035,DRG03502,S062X8S,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52036,DRG03502,S062X9S,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela"
-52037,DRG03502,S06300S,"Unspecified focal traumatic brain injury without loss of consciousness, sequela"
-52038,DRG03502,S06301S,"Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less, sequela"
-52039,DRG03502,S06302S,"Unspecified focal traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52040,DRG03502,S06303S,"Unspecified focal traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52041,DRG03502,S06304S,"Unspecified focal traumatic brain injury with loss of consciousness of 6 hours to 24 hours, sequela"
-52042,DRG03502,S06305S,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52043,DRG03502,S06306S,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52044,DRG03502,S06307S,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52045,DRG03502,S06308S,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52046,DRG03502,S06309S,"Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, sequela"
-52047,DRG03502,S06310S,"Contusion and laceration of right cerebrum without loss of consciousness, sequela"
-52048,DRG03502,S06311S,"Contusion and laceration of right cerebrum with loss of consciousness of 30 minutes or less, sequela"
-52049,DRG03502,S06312S,"Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52050,DRG03502,S06313S,"Contusion and laceration of right cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52051,DRG03502,S06314S,"Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
-52052,DRG03502,S06315S,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52053,DRG03502,S06316S,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52054,DRG03502,S06317S,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52055,DRG03502,S06318S,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52056,DRG03502,S06319S,"Contusion and laceration of right cerebrum with loss of consciousness of unspecified duration, sequela"
-52057,DRG03502,S06320S,"Contusion and laceration of left cerebrum without loss of consciousness, sequela"
-52058,DRG03502,S06321S,"Contusion and laceration of left cerebrum with loss of consciousness of 30 minutes or less, sequela"
-52059,DRG03502,S06322S,"Contusion and laceration of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52060,DRG03502,S06323S,"Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52061,DRG03502,S06324S,"Contusion and laceration of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
-52062,DRG03502,S06325S,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52063,DRG03502,S06326S,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52064,DRG03502,S06327S,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52065,DRG03502,S06328S,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52066,DRG03502,S06329S,"Contusion and laceration of left cerebrum with loss of consciousness of unspecified duration, sequela"
-52067,DRG03502,S06330S,"Contusion and laceration of cerebrum, unspecified, without loss of consciousness, sequela"
-52068,DRG03502,S06331S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, sequela"
-52069,DRG03502,S06332S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52070,DRG03502,S06333S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52071,DRG03502,S06334S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, sequela"
-52072,DRG03502,S06335S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52073,DRG03502,S06336S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52074,DRG03502,S06337S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52075,DRG03502,S06338S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52076,DRG03502,S06339S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of unspecified duration, sequela"
-52077,DRG03502,S06340S,"Traumatic hemorrhage of right cerebrum without loss of consciousness, sequela"
-52078,DRG03502,S06341S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less, sequela"
-52079,DRG03502,S06342S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52080,DRG03502,S06343S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela"
-52081,DRG03502,S06344S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
-52082,DRG03502,S06345S,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52083,DRG03502,S06346S,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52084,DRG03502,S06347S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52085,DRG03502,S06348S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52086,DRG03502,S06349S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration, sequela"
-52087,DRG03502,S06350S,"Traumatic hemorrhage of left cerebrum without loss of consciousness, sequela"
-52088,DRG03502,S06351S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less, sequela"
-52089,DRG03502,S06352S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52090,DRG03502,S06353S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela"
-52091,DRG03502,S06354S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
-52092,DRG03502,S06355S,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52093,DRG03502,S06356S,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52094,DRG03502,S06357S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52095,DRG03502,S06358S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52096,DRG03502,S06359S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of unspecified duration, sequela"
-52097,DRG03502,S06360S,"Traumatic hemorrhage of cerebrum, unspecified, without loss of consciousness, sequela"
-52098,DRG03502,S06361S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, sequela"
-52099,DRG03502,S06362S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52100,DRG03502,S06363S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela"
-52101,DRG03502,S06364S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, sequela"
-52102,DRG03502,S06365S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52103,DRG03502,S06366S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52104,DRG03502,S06367S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52105,DRG03502,S06368S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52106,DRG03502,S06369S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration, sequela"
-52107,DRG03502,S06370S,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness, sequela"
-52108,DRG03502,S06371S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 30 minutes or less, sequela"
-52109,DRG03502,S06372S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52110,DRG03502,S06373S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52111,DRG03502,S06374S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 6 hours to 24 hours, sequela"
-52112,DRG03502,S06375S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52113,DRG03502,S06376S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52114,DRG03502,S06377S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52115,DRG03502,S06378S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52116,DRG03502,S06379S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration, sequela"
-52117,DRG03502,S06380S,"Contusion, laceration, and hemorrhage of brainstem without loss of consciousness, sequela"
-52118,DRG03502,S06381S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less, sequela"
-52119,DRG03502,S06382S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52120,DRG03502,S06383S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52121,DRG03502,S06384S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 6 hours to 24 hours, sequela"
-52122,DRG03502,S06385S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52123,DRG03502,S06386S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52124,DRG03502,S06387S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52125,DRG03502,S06388S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52126,DRG03502,S06389S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of unspecified duration, sequela"
-52127,DRG03502,S064X0S,"Epidural hemorrhage without loss of consciousness, sequela"
-52128,DRG03502,S064X1S,"Epidural hemorrhage with loss of consciousness of 30 minutes or less, sequela"
-52129,DRG03502,S064X2S,"Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52130,DRG03502,S064X3S,"Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52131,DRG03502,S064X4S,"Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
-52132,DRG03502,S064X5S,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52133,DRG03502,S064X6S,"Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52134,DRG03502,S064X7S,"Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52135,DRG03502,S064X8S,"Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, sequela"
-52136,DRG03502,S064X9S,"Epidural hemorrhage with loss of consciousness of unspecified duration, sequela"
-52137,DRG03502,S065X0S,"Traumatic subdural hemorrhage without loss of consciousness, sequela"
-52138,DRG03502,S065X1S,"Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, sequela"
-52139,DRG03502,S065X2S,"Traumatic subdural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52140,DRG03502,S065X3S,"Traumatic subdural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52141,DRG03502,S065X4S,"Traumatic subdural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
-52142,DRG03502,S065X5S,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52143,DRG03502,S065X6S,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52144,DRG03502,S065X7S,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, sequela"
-52145,DRG03502,S065X8S,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, sequela"
-52146,DRG03502,S065X9S,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, sequela"
-52147,DRG03502,S066X0S,"Traumatic subarachnoid hemorrhage without loss of consciousness, sequela"
-52148,DRG03502,S066X1S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, sequela"
-52149,DRG03502,S066X2S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52150,DRG03502,S066X3S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52151,DRG03502,S066X4S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
-52152,DRG03502,S066X5S,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52153,DRG03502,S066X6S,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52154,DRG03502,S066X7S,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52155,DRG03502,S066X8S,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52156,DRG03502,S066X9S,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, sequela"
-52157,DRG03502,S06810S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, sequela"
-52158,DRG03502,S06811S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela"
-52159,DRG03502,S06812S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52160,DRG03502,S06813S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52161,DRG03502,S06814S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela"
-52162,DRG03502,S06815S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52163,DRG03502,S06816S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52164,DRG03502,S06817S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52165,DRG03502,S06818S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52166,DRG03502,S06819S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, sequela"
-52167,DRG03502,S06820S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, sequela"
-52168,DRG03502,S06821S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela"
-52169,DRG03502,S06822S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52170,DRG03502,S06823S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52171,DRG03502,S06824S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela"
-52172,DRG03502,S06825S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52173,DRG03502,S06826S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52174,DRG03502,S06827S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52175,DRG03502,S06828S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52176,DRG03502,S06829S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, sequela"
-52177,DRG03502,S06890S,"Other specified intracranial injury without loss of consciousness, sequela"
-52178,DRG03502,S06891S,"Other specified intracranial injury with loss of consciousness of 30 minutes or less, sequela"
-52179,DRG03502,S06892S,"Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52180,DRG03502,S06893S,"Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52181,DRG03502,S06894S,"Other specified intracranial injury with loss of consciousness of 6 hours to 24 hours, sequela"
-52182,DRG03502,S06895S,"Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52183,DRG03502,S06896S,"Other specified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52184,DRG03502,S06897S,"Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52185,DRG03502,S06898S,"Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52186,DRG03502,S06899S,"Other specified intracranial injury with loss of consciousness of unspecified duration, sequela"
-52187,DRG03502,S069X0S,"Unspecified intracranial injury without loss of consciousness, sequela"
-52188,DRG03502,S069X1S,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, sequela"
-52189,DRG03502,S069X2S,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
-52190,DRG03502,S069X3S,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
-52191,DRG03502,S069X4S,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, sequela"
-52192,DRG03502,S069X5S,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
-52193,DRG03502,S069X6S,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
-52194,DRG03502,S069X7S,"Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
-52195,DRG03502,S069X8S,"Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
-52196,DRG03502,S069X9S,"Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela"
-52197,DRG03502,S142XXS,"Injury of nerve root of cervical spine, sequela"
-52198,DRG03502,S143XXS,"Injury of brachial plexus, sequela"
-52199,DRG03502,S144XXS,"Injury of peripheral nerves of neck, sequela"
-52200,DRG03502,S145XXS,"Injury of cervical sympathetic nerves, sequela"
-52201,DRG03502,S148XXS,"Injury of other specified nerves of neck, sequela"
-52202,DRG03502,S149XXS,"Injury of unspecified nerves of neck, sequela"
-52203,DRG03502,S242XXS,"Injury of nerve root of thoracic spine, sequela"
-52204,DRG03502,S243XXS,"Injury of peripheral nerves of thorax, sequela"
-52205,DRG03502,S244XXS,"Injury of thoracic sympathetic nervous system, sequela"
-52206,DRG03502,S248XXS,"Injury of other specified nerves of thorax, sequela"
-52207,DRG03502,S249XXS,"Injury of unspecified nerve of thorax, sequela"
-52208,DRG03502,S3421XS,"Injury of nerve root of lumbar spine, sequela"
-52209,DRG03502,S3422XS,"Injury of nerve root of sacral spine, sequela"
-52210,DRG03502,S343XXS,"Injury of cauda equina, sequela"
-52211,DRG03502,S344XXS,"Injury of lumbosacral plexus, sequela"
-52212,DRG03502,S345XXS,"Injury of lumbar, sacral and pelvic sympathetic nerves, sequela"
-52213,DRG03502,S346XXS,"Injury of peripheral nerve(s) at abdomen, lower back and pelvis level, sequela"
-52214,DRG03502,S348XXS,"Injury of other nerves at abdomen, lower back and pelvis level, sequela"
-52215,DRG03502,S349XXS,"Injury of unspecified nerves at abdomen, lower back and pelvis level, sequela"
-52216,DRG03502,S4400XS,"Injury of ulnar nerve at upper arm level, unspecified arm, sequela"
-52217,DRG03502,S4401XS,"Injury of ulnar nerve at upper arm level, right arm, sequela"
-52218,DRG03502,S4402XS,"Injury of ulnar nerve at upper arm level, left arm, sequela"
-52219,DRG03502,S4410XS,"Injury of median nerve at upper arm level, unspecified arm, sequela"
-52220,DRG03502,S4411XS,"Injury of median nerve at upper arm level, right arm, sequela"
-52221,DRG03502,S4412XS,"Injury of median nerve at upper arm level, left arm, sequela"
-52222,DRG03502,S4420XS,"Injury of radial nerve at upper arm level, unspecified arm, sequela"
-52223,DRG03502,S4421XS,"Injury of radial nerve at upper arm level, right arm, sequela"
-52224,DRG03502,S4422XS,"Injury of radial nerve at upper arm level, left arm, sequela"
-52225,DRG03502,S4430XS,"Injury of axillary nerve, unspecified arm, sequela"
-52226,DRG03502,S4431XS,"Injury of axillary nerve, right arm, sequela"
-52227,DRG03502,S4432XS,"Injury of axillary nerve, left arm, sequela"
-52228,DRG03502,S4440XS,"Injury of musculocutaneous nerve, unspecified arm, sequela"
-52229,DRG03502,S4441XS,"Injury of musculocutaneous nerve, right arm, sequela"
-52230,DRG03502,S4442XS,"Injury of musculocutaneous nerve, left arm, sequela"
-52231,DRG03502,S4450XS,"Injury of cutaneous sensory nerve at shoulder and upper arm level, unspecified arm, sequela"
-52232,DRG03502,S4451XS,"Injury of cutaneous sensory nerve at shoulder and upper arm level, right arm, sequela"
-52233,DRG03502,S4452XS,"Injury of cutaneous sensory nerve at shoulder and upper arm level, left arm, sequela"
-52234,DRG03502,S448X1S,"Injury of other nerves at shoulder and upper arm level, right arm, sequela"
-52235,DRG03502,S448X2S,"Injury of other nerves at shoulder and upper arm level, left arm, sequela"
-52236,DRG03502,S448X9S,"Injury of other nerves at shoulder and upper arm level, unspecified arm, sequela"
-52237,DRG03502,S4490XS,"Injury of unspecified nerve at shoulder and upper arm level, unspecified arm, sequela"
-52238,DRG03502,S4491XS,"Injury of unspecified nerve at shoulder and upper arm level, right arm, sequela"
-52239,DRG03502,S4492XS,"Injury of unspecified nerve at shoulder and upper arm level, left arm, sequela"
-52240,DRG03502,S5400XS,"Injury of ulnar nerve at forearm level, unspecified arm, sequela"
-52241,DRG03502,S5401XS,"Injury of ulnar nerve at forearm level, right arm, sequela"
-52242,DRG03502,S5402XS,"Injury of ulnar nerve at forearm level, left arm, sequela"
-52243,DRG03502,S5410XS,"Injury of median nerve at forearm level, unspecified arm, sequela"
-52244,DRG03502,S5411XS,"Injury of median nerve at forearm level, right arm, sequela"
-52245,DRG03502,S5412XS,"Injury of median nerve at forearm level, left arm, sequela"
-52246,DRG03502,S5420XS,"Injury of radial nerve at forearm level, unspecified arm, sequela"
-52247,DRG03502,S5421XS,"Injury of radial nerve at forearm level, right arm, sequela"
-52248,DRG03502,S5422XS,"Injury of radial nerve at forearm level, left arm, sequela"
-52249,DRG03502,S5430XS,"Injury of cutaneous sensory nerve at forearm level, unspecified arm, sequela"
-52250,DRG03502,S5431XS,"Injury of cutaneous sensory nerve at forearm level, right arm, sequela"
-52251,DRG03502,S5432XS,"Injury of cutaneous sensory nerve at forearm level, left arm, sequela"
-52252,DRG03502,S548X1S,"Unspecified injury of other nerves at forearm level, right arm, sequela"
-52253,DRG03502,S548X2S,"Unspecified injury of other nerves at forearm level, left arm, sequela"
-52254,DRG03502,S548X9S,"Unspecified injury of other nerves at forearm level, unspecified arm, sequela"
-52255,DRG03502,S5490XS,"Injury of unspecified nerve at forearm level, unspecified arm, sequela"
-52256,DRG03502,S5491XS,"Injury of unspecified nerve at forearm level, right arm, sequela"
-52257,DRG03502,S5492XS,"Injury of unspecified nerve at forearm level, left arm, sequela"
-52258,DRG03502,S6400XS,"Injury of ulnar nerve at wrist and hand level of unspecified arm, sequela"
-52259,DRG03502,S6401XS,"Injury of ulnar nerve at wrist and hand level of right arm, sequela"
-52260,DRG03502,S6402XS,"Injury of ulnar nerve at wrist and hand level of left arm, sequela"
-52261,DRG03502,S6410XS,"Injury of median nerve at wrist and hand level of unspecified arm, sequela"
-52262,DRG03502,S6411XS,"Injury of median nerve at wrist and hand level of right arm, sequela"
-52263,DRG03502,S6412XS,"Injury of median nerve at wrist and hand level of left arm, sequela"
-52264,DRG03502,S6420XS,"Injury of radial nerve at wrist and hand level of unspecified arm, sequela"
-52265,DRG03502,S6421XS,"Injury of radial nerve at wrist and hand level of right arm, sequela"
-52266,DRG03502,S6422XS,"Injury of radial nerve at wrist and hand level of left arm, sequela"
-52267,DRG03502,S6430XS,"Injury of digital nerve of unspecified thumb, sequela"
-52268,DRG03502,S6431XS,"Injury of digital nerve of right thumb, sequela"
-52269,DRG03502,S6432XS,"Injury of digital nerve of left thumb, sequela"
-52270,DRG03502,S6440XS,"Injury of digital nerve of unspecified finger, sequela"
-52271,DRG03502,S64490S,"Injury of digital nerve of right index finger, sequela"
-52272,DRG03502,S64491S,"Injury of digital nerve of left index finger, sequela"
-52273,DRG03502,S64492S,"Injury of digital nerve of right middle finger, sequela"
-52274,DRG03502,S64493S,"Injury of digital nerve of left middle finger, sequela"
-52275,DRG03502,S64494S,"Injury of digital nerve of right ring finger, sequela"
-52276,DRG03502,S64495S,"Injury of digital nerve of left ring finger, sequela"
-52277,DRG03502,S64496S,"Injury of digital nerve of right little finger, sequela"
-52278,DRG03502,S64497S,"Injury of digital nerve of left little finger, sequela"
-52279,DRG03502,S64498S,"Injury of digital nerve of other finger, sequela"
-52280,DRG03502,S648X1S,"Injury of other nerves at wrist and hand level of right arm, sequela"
-52281,DRG03502,S648X2S,"Injury of other nerves at wrist and hand level of left arm, sequela"
-52282,DRG03502,S648X9S,"Injury of other nerves at wrist and hand level of unspecified arm, sequela"
-52283,DRG03502,S6490XS,"Injury of unspecified nerve at wrist and hand level of unspecified arm, sequela"
-52284,DRG03502,S6491XS,"Injury of unspecified nerve at wrist and hand level of right arm, sequela"
-52285,DRG03502,S6492XS,"Injury of unspecified nerve at wrist and hand level of left arm, sequela"
-52286,DRG03502,S7400XS,"Injury of sciatic nerve at hip and thigh level, unspecified leg, sequela"
-52287,DRG03502,S7401XS,"Injury of sciatic nerve at hip and thigh level, right leg, sequela"
-52288,DRG03502,S7402XS,"Injury of sciatic nerve at hip and thigh level, left leg, sequela"
-52289,DRG03502,S7410XS,"Injury of femoral nerve at hip and thigh level, unspecified leg, sequela"
-52290,DRG03502,S7411XS,"Injury of femoral nerve at hip and thigh level, right leg, sequela"
-52291,DRG03502,S7412XS,"Injury of femoral nerve at hip and thigh level, left leg, sequela"
-52292,DRG03502,S7420XS,"Injury of cutaneous sensory nerve at hip and thigh level, unspecified leg, sequela"
-52293,DRG03502,S7421XS,"Injury of cutaneous sensory nerve at hip and high level, right leg, sequela"
-52294,DRG03502,S7422XS,"Injury of cutaneous sensory nerve at hip and thigh level, left leg, sequela"
-52295,DRG03502,S748X1S,"Injury of other nerves at hip and thigh level, right leg, sequela"
-52296,DRG03502,S748X2S,"Injury of other nerves at hip and thigh level, left leg, sequela"
-52297,DRG03502,S748X9S,"Injury of other nerves at hip and thigh level, unspecified leg, sequela"
-52298,DRG03502,S7490XS,"Injury of unspecified nerve at hip and thigh level, unspecified leg, sequela"
-52299,DRG03502,S7491XS,"Injury of unspecified nerve at hip and thigh level, right leg, sequela"
-52300,DRG03502,S7492XS,"Injury of unspecified nerve at hip and thigh level, left leg, sequela"
-52301,DRG03502,S8400XS,"Injury of tibial nerve at lower leg level, unspecified leg, sequela"
-52302,DRG03502,S8401XS,"Injury of tibial nerve at lower leg level, right leg, sequela"
-52303,DRG03502,S8402XS,"Injury of tibial nerve at lower leg level, left leg, sequela"
-52304,DRG03502,S8410XS,"Injury of peroneal nerve at lower leg level, unspecified leg, sequela"
-52305,DRG03502,S8411XS,"Injury of peroneal nerve at lower leg level, right leg, sequela"
-52306,DRG03502,S8412XS,"Injury of peroneal nerve at lower leg level, left leg, sequela"
-52307,DRG03502,S8420XS,"Injury of cutaneous sensory nerve at lower leg level, unspecified leg, sequela"
-52308,DRG03502,S8421XS,"Injury of cutaneous sensory nerve at lower leg level, right leg, sequela"
-52309,DRG03502,S8422XS,"Injury of cutaneous sensory nerve at lower leg level, left leg, sequela"
-52310,DRG03502,S84801S,"Injury of other nerves at lower leg level, right leg, sequela"
-52311,DRG03502,S84802S,"Injury of other nerves at lower leg level, left leg, sequela"
-52312,DRG03502,S84809S,"Injury of other nerves at lower leg level, unspecified leg, sequela"
-52313,DRG03502,S8490XS,"Injury of unspecified nerve at lower leg level, unspecified leg, sequela"
-52314,DRG03502,S8491XS,"Injury of unspecified nerve at lower leg level, right leg, sequela"
-52315,DRG03502,S8492XS,"Injury of unspecified nerve at lower leg level, left leg, sequela"
-52316,DRG03502,S9400XS,"Injury of lateral plantar nerve, unspecified leg, sequela"
-52317,DRG03502,S9401XS,"Injury of lateral plantar nerve, right leg, sequela"
-52318,DRG03502,S9402XS,"Injury of lateral plantar nerve, left leg, sequela"
-52319,DRG03502,S9410XS,"Injury of medial plantar nerve, unspecified leg, sequela"
-52320,DRG03502,S9411XS,"Injury of medial plantar nerve, right leg, sequela"
-52321,DRG03502,S9412XS,"Injury of medial plantar nerve, left leg, sequela"
-52322,DRG03502,S9420XS,"Injury of deep peroneal nerve at ankle and foot level, unspecified leg, sequela"
-52323,DRG03502,S9421XS,"Injury of deep peroneal nerve at ankle and foot level, right leg, sequela"
-52324,DRG03502,S9422XS,"Injury of deep peroneal nerve at ankle and foot level, left leg, sequela"
-52325,DRG03502,S9430XS,"Injury of cutaneous sensory nerve at ankle and foot level, unspecified leg, sequela"
-52326,DRG03502,S9431XS,"Injury of cutaneous sensory nerve at ankle and foot level, right leg, sequela"
-52327,DRG03502,S9432XS,"Injury of cutaneous sensory nerve at ankle and foot level, left leg, sequela"
-52328,DRG03502,S948X1S,"Injury of other nerves at ankle and foot level, right leg, sequela"
-52329,DRG03502,S948X2S,"Injury of other nerves at ankle and foot level, left leg, sequela"
-52330,DRG03502,S948X9S,"Injury of other nerves at ankle and foot level, unspecified leg, sequela"
-52331,DRG03502,S9490XS,"Injury of unspecified nerve at ankle and foot level, unspecified leg, sequela"
-52332,DRG03502,S9491XS,"Injury of unspecified nerve at ankle and foot level, right leg, sequela"
-52333,DRG03502,S9492XS,"Injury of unspecified nerve at ankle and foot level, left leg, sequela"
-52334,DRG03502,T8501XA,"Breakdown (mechanical) of ventricular intracranial (communicating) shunt, initial encounter"
-52335,DRG03502,T8502XA,"Displacement of ventricular intracranial (communicating) shunt, initial encounter"
-52336,DRG03502,T8503XA,"Leakage of ventricular intracranial (communicating) shunt, initial encounter"
-52337,DRG03502,T8509XA,"Other mechanical complication of ventricular intracranial (communicating) shunt, initial encounter"
-52338,DRG03502,T85110A,"Breakdown (mechanical) of implanted electronic neurostimulator (electrode) of brain, initial encounter"
-52339,DRG03502,T85111A,"Breakdown (mechanical) of implanted electronic neurostimulator (electrode) of peripheral nerve, initial encounter"
-52340,DRG03502,T85112A,"Breakdown (mechanical) of implanted electronic neurostimulator (electrode) of spinal cord, initial encounter"
-52341,DRG03502,T85118A,"Breakdown (mechanical) of other implanted electronic stimulator of nervous system, initial encounter"
-52342,DRG03502,T85120A,"Displacement of implanted electronic neurostimulator (electrode) of brain, initial encounter"
-52343,DRG03502,T85121A,"Displacement of implanted electronic neurostimulator (electrode) of peripheral nerve, initial encounter"
-52344,DRG03502,T85122A,"Displacement of implanted electronic neurostimulator (electrode) of spinal cord, initial encounter"
-52345,DRG03502,T85128A,"Displacement of other implanted electronic stimulator of nervous system, initial encounter"
-52346,DRG03502,T85190A,"Other mechanical complication of implanted electronic neurostimulator (electrode) of brain, initial encounter"
-52347,DRG03502,T85191A,"Other mechanical complication of implanted electronic neurostimulator (electrode) of peripheral nerve, initial encounter"
-52348,DRG03502,T85192A,"Other mechanical complication of implanted electronic neurostimulator (electrode) of spinal cord, initial encounter"
-52349,DRG03502,T85199A,"Other mechanical complication of other implanted electronic stimulator of nervous system, initial encounter"
+DRG,CM-PCS,en
+DRG03502,A5219,Other symptomatic neurosyphilis
+DRG03502,A881,Epidemic vertigo
+DRG03502,B900,Sequelae of central nervous system tuberculosis
+DRG03502,B91,Sequelae of poliomyelitis
+DRG03502,B941,Sequelae of viral encephalitis
+DRG03502,D1802,Hemangioma of intracranial structures
+DRG03502,F950,Transient tic disorder
+DRG03502,F951,Chronic motor or vocal tic disorder
+DRG03502,F952,Tourette's disorder
+DRG03502,F958,Other tic disorders
+DRG03502,F959,"Tic disorder, unspecified"
+DRG03502,G038,Meningitis due to other specified causes
+DRG03502,G08,Intracranial and intraspinal phlebitis and thrombophlebitis
+DRG03502,G09,Sequelae of inflammatory diseases of central nervous system
+DRG03502,G14,Postpolio syndrome
+DRG03502,G210,Malignant neuroleptic syndrome
+DRG03502,G2401,Drug induced subacute dyskinesia
+DRG03502,G243,Spasmodic torticollis
+DRG03502,G244,Idiopathic orofacial dystonia
+DRG03502,G249,"Dystonia, unspecified"
+DRG03502,G250,Essential tremor
+DRG03502,G251,Drug-induced tremor
+DRG03502,G252,Other specified forms of tremor
+DRG03502,G253,Myoclonus
+DRG03502,G2561,Drug induced tics
+DRG03502,G2569,Other tics of organic origin
+DRG03502,G2582,Stiff-man syndrome
+DRG03502,G2583,Benign shuddering attacks
+DRG03502,G4700,"Insomnia, unspecified"
+DRG03502,G4701,Insomnia due to medical condition
+DRG03502,G4709,Other insomnia
+DRG03502,G4710,"Hypersomnia, unspecified"
+DRG03502,G4711,Idiopathic hypersomnia with long sleep time
+DRG03502,G4712,Idiopathic hypersomnia without long sleep time
+DRG03502,G4713,Recurrent hypersomnia
+DRG03502,G4714,Hypersomnia due to medical condition
+DRG03502,G4719,Other hypersomnia
+DRG03502,G4720,"Circadian rhythm sleep disorder, unspecified type"
+DRG03502,G4730,"Sleep apnea, unspecified"
+DRG03502,G4731,Primary central sleep apnea
+DRG03502,G4732,High altitude periodic breathing
+DRG03502,G4733,Obstructive sleep apnea (adult) (pediatric)
+DRG03502,G4734,Idiopathic sleep related nonobstructive alveolar hypoventilation
+DRG03502,G4735,Congenital central alveolar hypoventilation syndrome
+DRG03502,G4739,Other sleep apnea
+DRG03502,G47411,Narcolepsy with cataplexy
+DRG03502,G47419,Narcolepsy without cataplexy
+DRG03502,G4752,REM sleep behavior disorder
+DRG03502,G478,Other sleep disorders
+DRG03502,G601,Refsum's disease
+DRG03502,G652,Sequelae of toxic polyneuropathy
+DRG03502,G710,Muscular dystrophy
+DRG03502,G7111,Myotonic muscular dystrophy
+DRG03502,G7112,Myotonia congenita
+DRG03502,G7113,Myotonic chondrodystrophy
+DRG03502,G7114,Drug induced myotonia
+DRG03502,G7119,Other specified myotonic disorders
+DRG03502,G712,Congenital myopathies
+DRG03502,G713,"Mitochondrial myopathy, not elsewhere classified"
+DRG03502,G718,Other primary disorders of muscles
+DRG03502,G719,"Primary disorder of muscle, unspecified"
+DRG03502,G720,Drug-induced myopathy
+DRG03502,G721,Alcoholic myopathy
+DRG03502,G722,Myopathy due to other toxic agents
+DRG03502,G723,Periodic paralysis
+DRG03502,G7241,Inclusion body myositis [IBM]
+DRG03502,G7249,"Other inflammatory and immune myopathies, not elsewhere classified"
+DRG03502,G7281,Critical illness myopathy
+DRG03502,G7289,Other specified myopathies
+DRG03502,G729,"Myopathy, unspecified"
+DRG03502,G804,Ataxic cerebral palsy
+DRG03502,G808,Other cerebral palsy
+DRG03502,G809,"Cerebral palsy, unspecified"
+DRG03502,G8310,Monoplegia of lower limb affecting unspecified side
+DRG03502,G8311,Monoplegia of lower limb affecting right dominant side
+DRG03502,G8312,Monoplegia of lower limb affecting left dominant side
+DRG03502,G8313,Monoplegia of lower limb affecting right nondominant side
+DRG03502,G8314,Monoplegia of lower limb affecting left nondominant side
+DRG03502,G8320,Monoplegia of upper limb affecting unspecified side
+DRG03502,G8321,Monoplegia of upper limb affecting right dominant side
+DRG03502,G8322,Monoplegia of upper limb affecting left dominant side
+DRG03502,G8323,Monoplegia of upper limb affecting right nondominant side
+DRG03502,G8324,Monoplegia of upper limb affecting left nondominant side
+DRG03502,G8330,"Monoplegia, unspecified affecting unspecified side"
+DRG03502,G8331,"Monoplegia, unspecified affecting right dominant side"
+DRG03502,G8332,"Monoplegia, unspecified affecting left dominant side"
+DRG03502,G8333,"Monoplegia, unspecified affecting right nondominant side"
+DRG03502,G8334,"Monoplegia, unspecified affecting left nondominant side"
+DRG03502,G835,Locked-in state
+DRG03502,G8381,Brown-Sequard syndrome
+DRG03502,G8382,Anterior cord syndrome
+DRG03502,G8383,Posterior cord syndrome
+DRG03502,G8384,Todd's paralysis (postepileptic)
+DRG03502,G8389,Other specified paralytic syndromes
+DRG03502,G839,"Paralytic syndrome, unspecified"
+DRG03502,G901,Familial dysautonomia [Riley-Day]
+DRG03502,G92,Toxic encephalopathy
+DRG03502,G930,Cerebral cysts
+DRG03502,G931,"Anoxic brain damage, not elsewhere classified"
+DRG03502,G937,Reye's syndrome
+DRG03502,G9511,Acute infarction of spinal cord (embolic) (nonembolic)
+DRG03502,G9519,Other vascular myelopathies
+DRG03502,G9520,Unspecified cord compression
+DRG03502,G9529,Other cord compression
+DRG03502,G9581,Conus medullaris syndrome
+DRG03502,G9589,Other specified diseases of spinal cord
+DRG03502,G959,"Disease of spinal cord, unspecified"
+DRG03502,G960,Cerebrospinal fluid leak
+DRG03502,G9612,Meningeal adhesions (cerebral) (spinal)
+DRG03502,G9619,"Other disorders of meninges, not elsewhere classified"
+DRG03502,G970,Cerebrospinal fluid leak from spinal puncture
+DRG03502,G972,Intracranial hypotension following ventricular shunting
+DRG03502,G9731,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a nervous system procedure
+DRG03502,G9732,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating other procedure
+DRG03502,G9781,Other intraoperative complications of nervous system
+DRG03502,G9782,Other postprocedural complications and disorders of nervous system
+DRG03502,H4710,Unspecified papilledema
+DRG03502,H4711,Papilledema associated with increased intracranial pressure
+DRG03502,H47141,"Foster-Kennedy syndrome, right eye"
+DRG03502,H47142,"Foster-Kennedy syndrome, left eye"
+DRG03502,H47143,"Foster-Kennedy syndrome, bilateral"
+DRG03502,H47149,"Foster-Kennedy syndrome, unspecified eye"
+DRG03502,H4741,Disorders of optic chiasm in (due to) inflammatory disorders
+DRG03502,H4742,Disorders of optic chiasm in (due to) neoplasm
+DRG03502,H4743,Disorders of optic chiasm in (due to) vascular disorders
+DRG03502,H4749,Disorders of optic chiasm in (due to) other disorders
+DRG03502,H47511,"Disorders of visual pathways in (due to) inflammatory disorders, right side"
+DRG03502,H47512,"Disorders of visual pathways in (due to) inflammatory disorders, left side"
+DRG03502,H47519,"Disorders of visual pathways in (due to) inflammatory disorders, unspecified side"
+DRG03502,H47521,"Disorders of visual pathways in (due to) neoplasm, right side"
+DRG03502,H47522,"Disorders of visual pathways in (due to) neoplasm, left side"
+DRG03502,H47529,"Disorders of visual pathways in (due to) neoplasm, unspecified side"
+DRG03502,H47531,"Disorders of visual pathways in (due to) vascular disorders, right side"
+DRG03502,H47532,"Disorders of visual pathways in (due to) vascular disorders, left side"
+DRG03502,H47539,"Disorders of visual pathways in (due to) vascular disorders, unspecified side"
+DRG03502,H47611,"Cortical blindness, right side of brain"
+DRG03502,H47612,"Cortical blindness, left side of brain"
+DRG03502,H47619,"Cortical blindness, unspecified side of brain"
+DRG03502,H47621,"Disorders of visual cortex in (due to) inflammatory disorders, right side of brain"
+DRG03502,H47622,"Disorders of visual cortex in (due to) inflammatory disorders, left side of brain"
+DRG03502,H47629,"Disorders of visual cortex in (due to) inflammatory disorders, unspecified side of brain"
+DRG03502,H47631,"Disorders of visual cortex in (due to) neoplasm, right side of brain"
+DRG03502,H47632,"Disorders of visual cortex in (due to) neoplasm, left side of brain"
+DRG03502,H47639,"Disorders of visual cortex in (due to) neoplasm, unspecified side of brain"
+DRG03502,H47641,"Disorders of visual cortex in (due to) vascular disorders, right side of brain"
+DRG03502,H47642,"Disorders of visual cortex in (due to) vascular disorders, left side of brain"
+DRG03502,H47649,"Disorders of visual cortex in (due to) vascular disorders, unspecified side of brain"
+DRG03502,H479,Unspecified disorder of visual pathways
+DRG03502,H5120,"Internuclear ophthalmoplegia, unspecified eye"
+DRG03502,H5121,"Internuclear ophthalmoplegia, right eye"
+DRG03502,H5122,"Internuclear ophthalmoplegia, left eye"
+DRG03502,H5123,"Internuclear ophthalmoplegia, bilateral"
+DRG03502,I675,Moyamoya disease
+DRG03502,I676,Nonpyogenic thrombosis of intracranial venous system
+DRG03502,I97810,Intraoperative cerebrovascular infarction during cardiac surgery
+DRG03502,I97811,Intraoperative cerebrovascular infarction during other surgery
+DRG03502,I97820,Postprocedural cerebrovascular infarction during cardiac surgery
+DRG03502,I97821,Postprocedural cerebrovascular infarction during other surgery
+DRG03502,P912,Neonatal cerebral leukomalacia
+DRG03502,Q000,Anencephaly
+DRG03502,Q001,Craniorachischisis
+DRG03502,Q002,Iniencephaly
+DRG03502,Q010,Frontal encephalocele
+DRG03502,Q011,Nasofrontal encephalocele
+DRG03502,Q012,Occipital encephalocele
+DRG03502,Q018,Encephalocele of other sites
+DRG03502,Q019,"Encephalocele, unspecified"
+DRG03502,Q02,Microcephaly
+DRG03502,Q030,Malformations of aqueduct of Sylvius
+DRG03502,Q031,Atresia of foramina of Magendie and Luschka
+DRG03502,Q038,Other congenital hydrocephalus
+DRG03502,Q039,"Congenital hydrocephalus, unspecified"
+DRG03502,Q040,Congenital malformations of corpus callosum
+DRG03502,Q041,Arhinencephaly
+DRG03502,Q042,Holoprosencephaly
+DRG03502,Q043,Other reduction deformities of brain
+DRG03502,Q044,Septo-optic dysplasia of brain
+DRG03502,Q045,Megalencephaly
+DRG03502,Q046,Congenital cerebral cysts
+DRG03502,Q048,Other specified congenital malformations of brain
+DRG03502,Q049,"Congenital malformation of brain, unspecified"
+DRG03502,Q050,Cervical spina bifida with hydrocephalus
+DRG03502,Q051,Thoracic spina bifida with hydrocephalus
+DRG03502,Q052,Lumbar spina bifida with hydrocephalus
+DRG03502,Q053,Sacral spina bifida with hydrocephalus
+DRG03502,Q054,Unspecified spina bifida with hydrocephalus
+DRG03502,Q055,Cervical spina bifida without hydrocephalus
+DRG03502,Q056,Thoracic spina bifida without hydrocephalus
+DRG03502,Q057,Lumbar spina bifida without hydrocephalus
+DRG03502,Q058,Sacral spina bifida without hydrocephalus
+DRG03502,Q059,"Spina bifida, unspecified"
+DRG03502,Q060,Amyelia
+DRG03502,Q061,Hypoplasia and dysplasia of spinal cord
+DRG03502,Q062,Diastematomyelia
+DRG03502,Q063,Other congenital cauda equina malformations
+DRG03502,Q064,Hydromyelia
+DRG03502,Q068,Other specified congenital malformations of spinal cord
+DRG03502,Q069,"Congenital malformation of spinal cord, unspecified"
+DRG03502,Q0700,Arnold-Chiari syndrome without spina bifida or hydrocephalus
+DRG03502,Q0701,Arnold-Chiari syndrome with spina bifida
+DRG03502,Q0702,Arnold-Chiari syndrome with hydrocephalus
+DRG03502,Q0703,Arnold-Chiari syndrome with spina bifida and hydrocephalus
+DRG03502,Q078,Other specified congenital malformations of nervous system
+DRG03502,Q079,"Congenital malformation of nervous system, unspecified"
+DRG03502,Q282,Arteriovenous malformation of cerebral vessels
+DRG03502,Q283,Other malformations of cerebral vessels
+DRG03502,Q760,Spina bifida occulta
+DRG03502,Q8500,"Neurofibromatosis, unspecified"
+DRG03502,Q8501,"Neurofibromatosis, type 1"
+DRG03502,Q8502,"Neurofibromatosis, type 2"
+DRG03502,Q8503,Schwannomatosis
+DRG03502,Q8509,Other neurofibromatosis
+DRG03502,Q851,Tuberous sclerosis
+DRG03502,R200,Anesthesia of skin
+DRG03502,R201,Hypoesthesia of skin
+DRG03502,R202,Paresthesia of skin
+DRG03502,R203,Hyperesthesia
+DRG03502,R208,Other disturbances of skin sensation
+DRG03502,R209,Unspecified disturbances of skin sensation
+DRG03502,R250,Abnormal head movements
+DRG03502,R251,"Tremor, unspecified"
+DRG03502,R252,Cramp and spasm
+DRG03502,R253,Fasciculation
+DRG03502,R258,Other abnormal involuntary movements
+DRG03502,R259,Unspecified abnormal involuntary movements
+DRG03502,R260,Ataxic gait
+DRG03502,R261,Paralytic gait
+DRG03502,R2681,Unsteadiness on feet
+DRG03502,R2689,Other abnormalities of gait and mobility
+DRG03502,R269,Unspecified abnormalities of gait and mobility
+DRG03502,R270,"Ataxia, unspecified"
+DRG03502,R278,Other lack of coordination
+DRG03502,R279,Unspecified lack of coordination
+DRG03502,R291,Meningismus
+DRG03502,R292,Abnormal reflex
+DRG03502,R293,Abnormal posture
+DRG03502,R295,Transient paralysis
+DRG03502,R296,Repeated falls
+DRG03502,R29810,Facial weakness
+DRG03502,R29818,Other symptoms and signs involving the nervous system
+DRG03502,R29890,Loss of height
+DRG03502,R2990,Unspecified symptoms and signs involving the nervous system
+DRG03502,R2991,Unspecified symptoms and signs involving the musculoskeletal system
+DRG03502,R414,Neurologic neglect syndrome
+DRG03502,R41842,Visuospatial deficit
+DRG03502,R430,Anosmia
+DRG03502,R431,Parosmia
+DRG03502,R432,Parageusia
+DRG03502,R438,Other disturbances of smell and taste
+DRG03502,R439,Unspecified disturbances of smell and taste
+DRG03502,R4702,Dysphasia
+DRG03502,R471,Dysarthria and anarthria
+DRG03502,R4781,Slurred speech
+DRG03502,R4789,Other speech disturbances
+DRG03502,R479,Unspecified speech disturbances
+DRG03502,R830,Abnormal level of enzymes in cerebrospinal fluid
+DRG03502,R831,Abnormal level of hormones in cerebrospinal fluid
+DRG03502,R832,"Abnormal level of other drugs, medicaments and biological substances in cerebrospinal fluid"
+DRG03502,R833,Abnormal level of substances chiefly nonmedicinal as to source in cerebrospinal fluid
+DRG03502,R834,Abnormal immunological findings in cerebrospinal fluid
+DRG03502,R835,Abnormal microbiological findings in cerebrospinal fluid
+DRG03502,R836,Abnormal cytological findings in cerebrospinal fluid
+DRG03502,R838,Other abnormal findings in cerebrospinal fluid
+DRG03502,R839,Unspecified abnormal finding in cerebrospinal fluid
+DRG03502,R9081,Abnormal echoencephalogram
+DRG03502,R9082,"White matter disease, unspecified"
+DRG03502,R930,"Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified"
+DRG03502,R9401,Abnormal electroencephalogram [EEG]
+DRG03502,R9402,Abnormal brain scan
+DRG03502,R9409,Abnormal results of other function studies of central nervous system
+DRG03502,R94118,Abnormal results of other function studies of eye
+DRG03502,R94128,Abnormal results of other function studies of ear and other special senses
+DRG03502,R94130,"Abnormal response to nerve stimulation, unspecified"
+DRG03502,R94138,Abnormal results of other function studies of peripheral nervous system
+DRG03502,S020XXS,"Fracture of vault of skull, sequela"
+DRG03502,S0210XS,"Unspecified fracture of base of skull, sequela"
+DRG03502,S02110S,"Type I occipital condyle fracture, sequela"
+DRG03502,S02111S,"Type II occipital condyle fracture, sequela"
+DRG03502,S02112S,"Type III occipital condyle fracture, sequela"
+DRG03502,S02113S,"Unspecified occipital condyle fracture, sequela"
+DRG03502,S02118S,"Other fracture of occiput, sequela"
+DRG03502,S02119S,"Unspecified fracture of occiput, sequela"
+DRG03502,S0219XS,"Other fracture of base of skull, sequela"
+DRG03502,S022XXS,"Fracture of nasal bones, sequela"
+DRG03502,S023XXS,"Fracture of orbital floor, sequela"
+DRG03502,S02400S,"Malar fracture unspecified, sequela"
+DRG03502,S02401S,"Maxillary fracture, unspecified, sequela"
+DRG03502,S02402S,"Zygomatic fracture, unspecified, sequela"
+DRG03502,S02411S,"LeFort I fracture, sequela"
+DRG03502,S02412S,"LeFort II fracture, sequela"
+DRG03502,S02413S,"LeFort III fracture, sequela"
+DRG03502,S0242XS,"Fracture of alveolus of maxilla, sequela"
+DRG03502,S025XXS,"Fracture of tooth (traumatic), sequela"
+DRG03502,S02600S,"Fracture of unspecified part of body of mandible, sequela"
+DRG03502,S02609S,"Fracture of mandible, unspecified, sequela"
+DRG03502,S0261XS,"Fracture of condylar process of mandible, sequela"
+DRG03502,S0262XS,"Fracture of subcondylar process of mandible, sequela"
+DRG03502,S0263XS,"Fracture of coronoid process of mandible, sequela"
+DRG03502,S0264XS,"Fracture of ramus of mandible, sequela"
+DRG03502,S0265XS,"Fracture of angle of mandible, sequela"
+DRG03502,S0266XS,"Fracture of symphysis of mandible, sequela"
+DRG03502,S0267XS,"Fracture of alveolus of mandible, sequela"
+DRG03502,S0269XS,"Fracture of mandible of other specified site, sequela"
+DRG03502,S028XXS,"Fractures of other specified skull and facial bones, sequela"
+DRG03502,S0291XS,"Unspecified fracture of skull, sequela"
+DRG03502,S0292XS,"Unspecified fracture of facial bones, sequela"
+DRG03502,S04011S,"Injury of optic nerve, right eye, sequela"
+DRG03502,S04012S,"Injury of optic nerve, left eye, sequela"
+DRG03502,S04019S,"Injury of optic nerve, unspecified eye, sequela"
+DRG03502,S0402XA,"Injury of optic chiasm, initial encounter"
+DRG03502,S0402XS,"Injury of optic chiasm, sequela"
+DRG03502,S04031A,"Injury of optic tract and pathways, right eye, initial encounter"
+DRG03502,S04031S,"Injury of optic tract and pathways, right eye, sequela"
+DRG03502,S04032A,"Injury of optic tract and pathways, left eye, initial encounter"
+DRG03502,S04032S,"Injury of optic tract and pathways, left eye, sequela"
+DRG03502,S04039A,"Injury of optic tract and pathways, unspecified eye, initial encounter"
+DRG03502,S04039S,"Injury of optic tract and pathways, unspecified eye, sequela"
+DRG03502,S04041A,"Injury of visual cortex, right eye, initial encounter"
+DRG03502,S04041S,"Injury of visual cortex, right eye, sequela"
+DRG03502,S04042A,"Injury of visual cortex, left eye, initial encounter"
+DRG03502,S04042S,"Injury of visual cortex, left eye, sequela"
+DRG03502,S04049A,"Injury of visual cortex, unspecified eye, initial encounter"
+DRG03502,S04049S,"Injury of visual cortex, unspecified eye, sequela"
+DRG03502,S0410XS,"Injury of oculomotor nerve, unspecified side, sequela"
+DRG03502,S0411XS,"Injury of oculomotor nerve, right side, sequela"
+DRG03502,S0412XS,"Injury of oculomotor nerve, left side, sequela"
+DRG03502,S0420XS,"Injury of trochlear nerve, unspecified side, sequela"
+DRG03502,S0421XS,"Injury of trochlear nerve, right side, sequela"
+DRG03502,S0422XS,"Injury of trochlear nerve, left side, sequela"
+DRG03502,S0430XS,"Injury of trigeminal nerve, unspecified side, sequela"
+DRG03502,S0431XS,"Injury of trigeminal nerve, right side, sequela"
+DRG03502,S0432XS,"Injury of trigeminal nerve, left side, sequela"
+DRG03502,S0440XS,"Injury of abducent nerve, unspecified side, sequela"
+DRG03502,S0441XS,"Injury of abducent nerve, right side, sequela"
+DRG03502,S0442XS,"Injury of abducent nerve, left side, sequela"
+DRG03502,S0450XS,"Injury of facial nerve, unspecified side, sequela"
+DRG03502,S0451XS,"Injury of facial nerve, right side, sequela"
+DRG03502,S0452XS,"Injury of facial nerve, left side, sequela"
+DRG03502,S0460XS,"Injury of acoustic nerve, unspecified side, sequela"
+DRG03502,S0461XS,"Injury of acoustic nerve, right side, sequela"
+DRG03502,S0462XS,"Injury of acoustic nerve, left side, sequela"
+DRG03502,S0470XS,"Injury of accessory nerve, unspecified side, sequela"
+DRG03502,S0471XS,"Injury of accessory nerve, right side, sequela"
+DRG03502,S0472XS,"Injury of accessory nerve, left side, sequela"
+DRG03502,S04811S,"Injury of olfactory [1st ] nerve, right side, sequela"
+DRG03502,S04812S,"Injury of olfactory [1st ] nerve, left side, sequela"
+DRG03502,S04819S,"Injury of olfactory [1st ] nerve, unspecified side, sequela"
+DRG03502,S04891S,"Injury of other cranial nerves, right side, sequela"
+DRG03502,S04892S,"Injury of other cranial nerves, left side, sequela"
+DRG03502,S04899S,"Injury of other cranial nerves, unspecified side, sequela"
+DRG03502,S049XXS,"Injury of unspecified cranial nerve, sequela"
+DRG03502,S060X0S,"Concussion without loss of consciousness, sequela"
+DRG03502,S060X1S,"Concussion with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S060X2S,"Concussion with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S060X3S,"Concussion with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S060X4S,"Concussion with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S060X5S,"Concussion with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S060X6S,"Concussion with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S060X7S,"Concussion with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S060X8S,"Concussion with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S060X9S,"Concussion with loss of consciousness of unspecified duration, sequela"
+DRG03502,S061X0S,"Traumatic cerebral edema without loss of consciousness, sequela"
+DRG03502,S061X1S,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S061X2S,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S061X3S,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S061X4S,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S061X5S,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S061X6S,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S061X7S,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S061X8S,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S061X9S,"Traumatic cerebral edema with loss of consciousness of unspecified duration, sequela"
+DRG03502,S062X0S,"Diffuse traumatic brain injury without loss of consciousness, sequela"
+DRG03502,S062X1S,"Diffuse traumatic brain injury with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S062X2S,"Diffuse traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S062X3S,"Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S062X4S,"Diffuse traumatic brain injury with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S062X5S,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious levels, sequela"
+DRG03502,S062X6S,"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S062X7S,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S062X8S,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S062X9S,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06300S,"Unspecified focal traumatic brain injury without loss of consciousness, sequela"
+DRG03502,S06301S,"Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06302S,"Unspecified focal traumatic brain injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06303S,"Unspecified focal traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06304S,"Unspecified focal traumatic brain injury with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06305S,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06306S,"Unspecified focal traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06307S,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06308S,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06309S,"Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06310S,"Contusion and laceration of right cerebrum without loss of consciousness, sequela"
+DRG03502,S06311S,"Contusion and laceration of right cerebrum with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06312S,"Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06313S,"Contusion and laceration of right cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06314S,"Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06315S,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06316S,"Contusion and laceration of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06317S,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06318S,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06319S,"Contusion and laceration of right cerebrum with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06320S,"Contusion and laceration of left cerebrum without loss of consciousness, sequela"
+DRG03502,S06321S,"Contusion and laceration of left cerebrum with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06322S,"Contusion and laceration of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06323S,"Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06324S,"Contusion and laceration of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06325S,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06326S,"Contusion and laceration of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06327S,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06328S,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06329S,"Contusion and laceration of left cerebrum with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06330S,"Contusion and laceration of cerebrum, unspecified, without loss of consciousness, sequela"
+DRG03502,S06331S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06332S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06333S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06334S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06335S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06336S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06337S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06338S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06339S,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06340S,"Traumatic hemorrhage of right cerebrum without loss of consciousness, sequela"
+DRG03502,S06341S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06342S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06343S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela"
+DRG03502,S06344S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06345S,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06346S,"Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06347S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06348S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06349S,"Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06350S,"Traumatic hemorrhage of left cerebrum without loss of consciousness, sequela"
+DRG03502,S06351S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06352S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06353S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela"
+DRG03502,S06354S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06355S,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06356S,"Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06357S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06358S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06359S,"Traumatic hemorrhage of left cerebrum with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06360S,"Traumatic hemorrhage of cerebrum, unspecified, without loss of consciousness, sequela"
+DRG03502,S06361S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06362S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06363S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 1 hours to 5 hours 59 minutes, sequela"
+DRG03502,S06364S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06365S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06366S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06367S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06368S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06369S,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06370S,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness, sequela"
+DRG03502,S06371S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06372S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06373S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06374S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06375S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06376S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06377S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06378S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06379S,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06380S,"Contusion, laceration, and hemorrhage of brainstem without loss of consciousness, sequela"
+DRG03502,S06381S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06382S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06383S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06384S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06385S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06386S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06387S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06388S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06389S,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of unspecified duration, sequela"
+DRG03502,S064X0S,"Epidural hemorrhage without loss of consciousness, sequela"
+DRG03502,S064X1S,"Epidural hemorrhage with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S064X2S,"Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S064X3S,"Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S064X4S,"Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S064X5S,"Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S064X6S,"Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S064X7S,"Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S064X8S,"Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, sequela"
+DRG03502,S064X9S,"Epidural hemorrhage with loss of consciousness of unspecified duration, sequela"
+DRG03502,S065X0S,"Traumatic subdural hemorrhage without loss of consciousness, sequela"
+DRG03502,S065X1S,"Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S065X2S,"Traumatic subdural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S065X3S,"Traumatic subdural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S065X4S,"Traumatic subdural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S065X5S,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S065X6S,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S065X7S,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, sequela"
+DRG03502,S065X8S,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, sequela"
+DRG03502,S065X9S,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, sequela"
+DRG03502,S066X0S,"Traumatic subarachnoid hemorrhage without loss of consciousness, sequela"
+DRG03502,S066X1S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S066X2S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S066X3S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S066X4S,"Traumatic subarachnoid hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S066X5S,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S066X6S,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S066X7S,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S066X8S,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S066X9S,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06810S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, sequela"
+DRG03502,S06811S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06812S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06813S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06814S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06815S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06816S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06817S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06818S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06819S,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06820S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, sequela"
+DRG03502,S06821S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06822S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06823S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06824S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06825S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06826S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06827S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06828S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06829S,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of unspecified duration, sequela"
+DRG03502,S06890S,"Other specified intracranial injury without loss of consciousness, sequela"
+DRG03502,S06891S,"Other specified intracranial injury with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S06892S,"Other specified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S06893S,"Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S06894S,"Other specified intracranial injury with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S06895S,"Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S06896S,"Other specified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S06897S,"Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S06898S,"Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S06899S,"Other specified intracranial injury with loss of consciousness of unspecified duration, sequela"
+DRG03502,S069X0S,"Unspecified intracranial injury without loss of consciousness, sequela"
+DRG03502,S069X1S,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, sequela"
+DRG03502,S069X2S,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, sequela"
+DRG03502,S069X3S,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+DRG03502,S069X4S,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, sequela"
+DRG03502,S069X5S,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+DRG03502,S069X6S,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+DRG03502,S069X7S,"Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+DRG03502,S069X8S,"Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+DRG03502,S069X9S,"Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela"
+DRG03502,S142XXS,"Injury of nerve root of cervical spine, sequela"
+DRG03502,S143XXS,"Injury of brachial plexus, sequela"
+DRG03502,S144XXS,"Injury of peripheral nerves of neck, sequela"
+DRG03502,S145XXS,"Injury of cervical sympathetic nerves, sequela"
+DRG03502,S148XXS,"Injury of other specified nerves of neck, sequela"
+DRG03502,S149XXS,"Injury of unspecified nerves of neck, sequela"
+DRG03502,S242XXS,"Injury of nerve root of thoracic spine, sequela"
+DRG03502,S243XXS,"Injury of peripheral nerves of thorax, sequela"
+DRG03502,S244XXS,"Injury of thoracic sympathetic nervous system, sequela"
+DRG03502,S248XXS,"Injury of other specified nerves of thorax, sequela"
+DRG03502,S249XXS,"Injury of unspecified nerve of thorax, sequela"
+DRG03502,S3421XS,"Injury of nerve root of lumbar spine, sequela"
+DRG03502,S3422XS,"Injury of nerve root of sacral spine, sequela"
+DRG03502,S343XXS,"Injury of cauda equina, sequela"
+DRG03502,S344XXS,"Injury of lumbosacral plexus, sequela"
+DRG03502,S345XXS,"Injury of lumbar, sacral and pelvic sympathetic nerves, sequela"
+DRG03502,S346XXS,"Injury of peripheral nerve(s) at abdomen, lower back and pelvis level, sequela"
+DRG03502,S348XXS,"Injury of other nerves at abdomen, lower back and pelvis level, sequela"
+DRG03502,S349XXS,"Injury of unspecified nerves at abdomen, lower back and pelvis level, sequela"
+DRG03502,S4400XS,"Injury of ulnar nerve at upper arm level, unspecified arm, sequela"
+DRG03502,S4401XS,"Injury of ulnar nerve at upper arm level, right arm, sequela"
+DRG03502,S4402XS,"Injury of ulnar nerve at upper arm level, left arm, sequela"
+DRG03502,S4410XS,"Injury of median nerve at upper arm level, unspecified arm, sequela"
+DRG03502,S4411XS,"Injury of median nerve at upper arm level, right arm, sequela"
+DRG03502,S4412XS,"Injury of median nerve at upper arm level, left arm, sequela"
+DRG03502,S4420XS,"Injury of radial nerve at upper arm level, unspecified arm, sequela"
+DRG03502,S4421XS,"Injury of radial nerve at upper arm level, right arm, sequela"
+DRG03502,S4422XS,"Injury of radial nerve at upper arm level, left arm, sequela"
+DRG03502,S4430XS,"Injury of axillary nerve, unspecified arm, sequela"
+DRG03502,S4431XS,"Injury of axillary nerve, right arm, sequela"
+DRG03502,S4432XS,"Injury of axillary nerve, left arm, sequela"
+DRG03502,S4440XS,"Injury of musculocutaneous nerve, unspecified arm, sequela"
+DRG03502,S4441XS,"Injury of musculocutaneous nerve, right arm, sequela"
+DRG03502,S4442XS,"Injury of musculocutaneous nerve, left arm, sequela"
+DRG03502,S4450XS,"Injury of cutaneous sensory nerve at shoulder and upper arm level, unspecified arm, sequela"
+DRG03502,S4451XS,"Injury of cutaneous sensory nerve at shoulder and upper arm level, right arm, sequela"
+DRG03502,S4452XS,"Injury of cutaneous sensory nerve at shoulder and upper arm level, left arm, sequela"
+DRG03502,S448X1S,"Injury of other nerves at shoulder and upper arm level, right arm, sequela"
+DRG03502,S448X2S,"Injury of other nerves at shoulder and upper arm level, left arm, sequela"
+DRG03502,S448X9S,"Injury of other nerves at shoulder and upper arm level, unspecified arm, sequela"
+DRG03502,S4490XS,"Injury of unspecified nerve at shoulder and upper arm level, unspecified arm, sequela"
+DRG03502,S4491XS,"Injury of unspecified nerve at shoulder and upper arm level, right arm, sequela"
+DRG03502,S4492XS,"Injury of unspecified nerve at shoulder and upper arm level, left arm, sequela"
+DRG03502,S5400XS,"Injury of ulnar nerve at forearm level, unspecified arm, sequela"
+DRG03502,S5401XS,"Injury of ulnar nerve at forearm level, right arm, sequela"
+DRG03502,S5402XS,"Injury of ulnar nerve at forearm level, left arm, sequela"
+DRG03502,S5410XS,"Injury of median nerve at forearm level, unspecified arm, sequela"
+DRG03502,S5411XS,"Injury of median nerve at forearm level, right arm, sequela"
+DRG03502,S5412XS,"Injury of median nerve at forearm level, left arm, sequela"
+DRG03502,S5420XS,"Injury of radial nerve at forearm level, unspecified arm, sequela"
+DRG03502,S5421XS,"Injury of radial nerve at forearm level, right arm, sequela"
+DRG03502,S5422XS,"Injury of radial nerve at forearm level, left arm, sequela"
+DRG03502,S5430XS,"Injury of cutaneous sensory nerve at forearm level, unspecified arm, sequela"
+DRG03502,S5431XS,"Injury of cutaneous sensory nerve at forearm level, right arm, sequela"
+DRG03502,S5432XS,"Injury of cutaneous sensory nerve at forearm level, left arm, sequela"
+DRG03502,S548X1S,"Unspecified injury of other nerves at forearm level, right arm, sequela"
+DRG03502,S548X2S,"Unspecified injury of other nerves at forearm level, left arm, sequela"
+DRG03502,S548X9S,"Unspecified injury of other nerves at forearm level, unspecified arm, sequela"
+DRG03502,S5490XS,"Injury of unspecified nerve at forearm level, unspecified arm, sequela"
+DRG03502,S5491XS,"Injury of unspecified nerve at forearm level, right arm, sequela"
+DRG03502,S5492XS,"Injury of unspecified nerve at forearm level, left arm, sequela"
+DRG03502,S6400XS,"Injury of ulnar nerve at wrist and hand level of unspecified arm, sequela"
+DRG03502,S6401XS,"Injury of ulnar nerve at wrist and hand level of right arm, sequela"
+DRG03502,S6402XS,"Injury of ulnar nerve at wrist and hand level of left arm, sequela"
+DRG03502,S6410XS,"Injury of median nerve at wrist and hand level of unspecified arm, sequela"
+DRG03502,S6411XS,"Injury of median nerve at wrist and hand level of right arm, sequela"
+DRG03502,S6412XS,"Injury of median nerve at wrist and hand level of left arm, sequela"
+DRG03502,S6420XS,"Injury of radial nerve at wrist and hand level of unspecified arm, sequela"
+DRG03502,S6421XS,"Injury of radial nerve at wrist and hand level of right arm, sequela"
+DRG03502,S6422XS,"Injury of radial nerve at wrist and hand level of left arm, sequela"
+DRG03502,S6430XS,"Injury of digital nerve of unspecified thumb, sequela"
+DRG03502,S6431XS,"Injury of digital nerve of right thumb, sequela"
+DRG03502,S6432XS,"Injury of digital nerve of left thumb, sequela"
+DRG03502,S6440XS,"Injury of digital nerve of unspecified finger, sequela"
+DRG03502,S64490S,"Injury of digital nerve of right index finger, sequela"
+DRG03502,S64491S,"Injury of digital nerve of left index finger, sequela"
+DRG03502,S64492S,"Injury of digital nerve of right middle finger, sequela"
+DRG03502,S64493S,"Injury of digital nerve of left middle finger, sequela"
+DRG03502,S64494S,"Injury of digital nerve of right ring finger, sequela"
+DRG03502,S64495S,"Injury of digital nerve of left ring finger, sequela"
+DRG03502,S64496S,"Injury of digital nerve of right little finger, sequela"
+DRG03502,S64497S,"Injury of digital nerve of left little finger, sequela"
+DRG03502,S64498S,"Injury of digital nerve of other finger, sequela"
+DRG03502,S648X1S,"Injury of other nerves at wrist and hand level of right arm, sequela"
+DRG03502,S648X2S,"Injury of other nerves at wrist and hand level of left arm, sequela"
+DRG03502,S648X9S,"Injury of other nerves at wrist and hand level of unspecified arm, sequela"
+DRG03502,S6490XS,"Injury of unspecified nerve at wrist and hand level of unspecified arm, sequela"
+DRG03502,S6491XS,"Injury of unspecified nerve at wrist and hand level of right arm, sequela"
+DRG03502,S6492XS,"Injury of unspecified nerve at wrist and hand level of left arm, sequela"
+DRG03502,S7400XS,"Injury of sciatic nerve at hip and thigh level, unspecified leg, sequela"
+DRG03502,S7401XS,"Injury of sciatic nerve at hip and thigh level, right leg, sequela"
+DRG03502,S7402XS,"Injury of sciatic nerve at hip and thigh level, left leg, sequela"
+DRG03502,S7410XS,"Injury of femoral nerve at hip and thigh level, unspecified leg, sequela"
+DRG03502,S7411XS,"Injury of femoral nerve at hip and thigh level, right leg, sequela"
+DRG03502,S7412XS,"Injury of femoral nerve at hip and thigh level, left leg, sequela"
+DRG03502,S7420XS,"Injury of cutaneous sensory nerve at hip and thigh level, unspecified leg, sequela"
+DRG03502,S7421XS,"Injury of cutaneous sensory nerve at hip and high level, right leg, sequela"
+DRG03502,S7422XS,"Injury of cutaneous sensory nerve at hip and thigh level, left leg, sequela"
+DRG03502,S748X1S,"Injury of other nerves at hip and thigh level, right leg, sequela"
+DRG03502,S748X2S,"Injury of other nerves at hip and thigh level, left leg, sequela"
+DRG03502,S748X9S,"Injury of other nerves at hip and thigh level, unspecified leg, sequela"
+DRG03502,S7490XS,"Injury of unspecified nerve at hip and thigh level, unspecified leg, sequela"
+DRG03502,S7491XS,"Injury of unspecified nerve at hip and thigh level, right leg, sequela"
+DRG03502,S7492XS,"Injury of unspecified nerve at hip and thigh level, left leg, sequela"
+DRG03502,S8400XS,"Injury of tibial nerve at lower leg level, unspecified leg, sequela"
+DRG03502,S8401XS,"Injury of tibial nerve at lower leg level, right leg, sequela"
+DRG03502,S8402XS,"Injury of tibial nerve at lower leg level, left leg, sequela"
+DRG03502,S8410XS,"Injury of peroneal nerve at lower leg level, unspecified leg, sequela"
+DRG03502,S8411XS,"Injury of peroneal nerve at lower leg level, right leg, sequela"
+DRG03502,S8412XS,"Injury of peroneal nerve at lower leg level, left leg, sequela"
+DRG03502,S8420XS,"Injury of cutaneous sensory nerve at lower leg level, unspecified leg, sequela"
+DRG03502,S8421XS,"Injury of cutaneous sensory nerve at lower leg level, right leg, sequela"
+DRG03502,S8422XS,"Injury of cutaneous sensory nerve at lower leg level, left leg, sequela"
+DRG03502,S84801S,"Injury of other nerves at lower leg level, right leg, sequela"
+DRG03502,S84802S,"Injury of other nerves at lower leg level, left leg, sequela"
+DRG03502,S84809S,"Injury of other nerves at lower leg level, unspecified leg, sequela"
+DRG03502,S8490XS,"Injury of unspecified nerve at lower leg level, unspecified leg, sequela"
+DRG03502,S8491XS,"Injury of unspecified nerve at lower leg level, right leg, sequela"
+DRG03502,S8492XS,"Injury of unspecified nerve at lower leg level, left leg, sequela"
+DRG03502,S9400XS,"Injury of lateral plantar nerve, unspecified leg, sequela"
+DRG03502,S9401XS,"Injury of lateral plantar nerve, right leg, sequela"
+DRG03502,S9402XS,"Injury of lateral plantar nerve, left leg, sequela"
+DRG03502,S9410XS,"Injury of medial plantar nerve, unspecified leg, sequela"
+DRG03502,S9411XS,"Injury of medial plantar nerve, right leg, sequela"
+DRG03502,S9412XS,"Injury of medial plantar nerve, left leg, sequela"
+DRG03502,S9420XS,"Injury of deep peroneal nerve at ankle and foot level, unspecified leg, sequela"
+DRG03502,S9421XS,"Injury of deep peroneal nerve at ankle and foot level, right leg, sequela"
+DRG03502,S9422XS,"Injury of deep peroneal nerve at ankle and foot level, left leg, sequela"
+DRG03502,S9430XS,"Injury of cutaneous sensory nerve at ankle and foot level, unspecified leg, sequela"
+DRG03502,S9431XS,"Injury of cutaneous sensory nerve at ankle and foot level, right leg, sequela"
+DRG03502,S9432XS,"Injury of cutaneous sensory nerve at ankle and foot level, left leg, sequela"
+DRG03502,S948X1S,"Injury of other nerves at ankle and foot level, right leg, sequela"
+DRG03502,S948X2S,"Injury of other nerves at ankle and foot level, left leg, sequela"
+DRG03502,S948X9S,"Injury of other nerves at ankle and foot level, unspecified leg, sequela"
+DRG03502,S9490XS,"Injury of unspecified nerve at ankle and foot level, unspecified leg, sequela"
+DRG03502,S9491XS,"Injury of unspecified nerve at ankle and foot level, right leg, sequela"
+DRG03502,S9492XS,"Injury of unspecified nerve at ankle and foot level, left leg, sequela"
+DRG03502,T8501XA,"Breakdown (mechanical) of ventricular intracranial (communicating) shunt, initial encounter"
+DRG03502,T8502XA,"Displacement of ventricular intracranial (communicating) shunt, initial encounter"
+DRG03502,T8503XA,"Leakage of ventricular intracranial (communicating) shunt, initial encounter"
+DRG03502,T8509XA,"Other mechanical complication of ventricular intracranial (communicating) shunt, initial encounter"
+DRG03502,T85110A,"Breakdown (mechanical) of implanted electronic neurostimulator (electrode) of brain, initial encounter"
+DRG03502,T85111A,"Breakdown (mechanical) of implanted electronic neurostimulator (electrode) of peripheral nerve, initial encounter"
+DRG03502,T85112A,"Breakdown (mechanical) of implanted electronic neurostimulator (electrode) of spinal cord, initial encounter"
+DRG03502,T85118A,"Breakdown (mechanical) of other implanted electronic stimulator of nervous system, initial encounter"
+DRG03502,T85120A,"Displacement of implanted electronic neurostimulator (electrode) of brain, initial encounter"
+DRG03502,T85121A,"Displacement of implanted electronic neurostimulator (electrode) of peripheral nerve, initial encounter"
+DRG03502,T85122A,"Displacement of implanted electronic neurostimulator (electrode) of spinal cord, initial encounter"
+DRG03502,T85128A,"Displacement of other implanted electronic stimulator of nervous system, initial encounter"
+DRG03502,T85190A,"Other mechanical complication of implanted electronic neurostimulator (electrode) of brain, initial encounter"
+DRG03502,T85191A,"Other mechanical complication of implanted electronic neurostimulator (electrode) of peripheral nerve, initial encounter"
+DRG03502,T85192A,"Other mechanical complication of implanted electronic neurostimulator (electrode) of spinal cord, initial encounter"
+DRG03502,T85199A,"Other mechanical complication of other implanted electronic stimulator of nervous system, initial encounter"

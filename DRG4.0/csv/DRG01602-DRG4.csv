@@ -1,15 +1,15 @@
-,DRG,CM-PCS,en
-47921,DRG01602,G454,Transient global amnesia
-47922,DRG01602,G463,Brain stem stroke syndrome
-47923,DRG01602,G464,Cerebellar stroke syndrome
-47924,DRG01602,G465,Pure motor lacunar syndrome
-47925,DRG01602,G466,Pure sensory lacunar syndrome
-47926,DRG01602,G467,Other lacunar syndromes
-47927,DRG01602,G468,Other vascular syndromes of brain in cerebrovascular diseases
-47928,DRG01602,I672,Cerebral atherosclerosis
-47929,DRG01602,I6781,Acute cerebrovascular insufficiency
-47930,DRG01602,I6782,Cerebral ischemia
-47931,DRG01602,I679,"Cerebrovascular disease, unspecified"
-47934,DRG01602,F000001,Physical Therapy
-47935,DRG01602,F000002,Occupational Therapy
-47936,DRG01602,F000003,Communication Therapy
+DRG,CM-PCS,en
+DRG01602,G454,Transient global amnesia
+DRG01602,G463,Brain stem stroke syndrome
+DRG01602,G464,Cerebellar stroke syndrome
+DRG01602,G465,Pure motor lacunar syndrome
+DRG01602,G466,Pure sensory lacunar syndrome
+DRG01602,G467,Other lacunar syndromes
+DRG01602,G468,Other vascular syndromes of brain in cerebrovascular diseases
+DRG01602,I672,Cerebral atherosclerosis
+DRG01602,I6781,Acute cerebrovascular insufficiency
+DRG01602,I6782,Cerebral ischemia
+DRG01602,I679,"Cerebrovascular disease, unspecified"
+DRG01602,F000001,Physical Therapy
+DRG01602,F000002,Occupational Therapy
+DRG01602,F000003,Communication Therapy

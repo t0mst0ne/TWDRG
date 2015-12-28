@@ -1,181 +1,181 @@
-,DRG,CM-PCS,en
-24718,DRG29908,C965,Multifocal and unisystemic Langerhans-cell histiocytosis
-24719,DRG29908,C966,Unifocal Langerhans-cell histiocytosis
-24720,DRG29908,D813,Adenosine deaminase [ADA] deficiency
-24721,DRG29908,D815,Purine nucleoside phosphorylase [PNP] deficiency
-24722,DRG29908,D81810,Biotinidase deficiency
-24723,DRG29908,D841,Defects in the complement system
-24724,DRG29908,E700,Classical phenylketonuria
-24725,DRG29908,E701,Other hyperphenylalaninemias
-24726,DRG29908,E7020,"Disorder of tyrosine metabolism, unspecified"
-24727,DRG29908,E7021,Tyrosinemia
-24728,DRG29908,E7029,Other disorders of tyrosine metabolism
-24729,DRG29908,E7030,"Albinism, unspecified"
-24730,DRG29908,E70310,X-linked ocular albinism
-24731,DRG29908,E70311,Autosomal recessive ocular albinism
-24732,DRG29908,E70318,Other ocular albinism
-24733,DRG29908,E70319,"Ocular albinism, unspecified"
-24734,DRG29908,E70320,Tyrosinase negative oculocutaneous albinism
-24735,DRG29908,E70321,Tyrosinase positive oculocutaneous albinism
-24736,DRG29908,E70328,Other oculocutaneous albinism
-24737,DRG29908,E70329,"Oculocutaneous albinism, unspecified"
-24738,DRG29908,E70330,Chediak-Higashi syndrome
-24739,DRG29908,E70331,Hermansky-Pudlak syndrome
-24740,DRG29908,E70338,Other albinism with hematologic abnormality
-24741,DRG29908,E70339,"Albinism with hematologic abnormality, unspecified"
-24742,DRG29908,E7039,Other specified albinism
-24743,DRG29908,E7040,"Disorders of histidine metabolism, unspecified"
-24744,DRG29908,E7041,Histidinemia
-24745,DRG29908,E7049,Other disorders of histidine metabolism
-24746,DRG29908,E705,Disorders of tryptophan metabolism
-24747,DRG29908,E708,Other disorders of aromatic amino-acid metabolism
-24748,DRG29908,E709,"Disorder of aromatic amino-acid metabolism, unspecified"
-24749,DRG29908,E710,Maple-syrup-urine disease
-24750,DRG29908,E71110,Isovaleric acidemia
-24751,DRG29908,E71111,3-methylglutaconic aciduria
-24752,DRG29908,E71118,Other branched-chain organic acidurias
-24753,DRG29908,E71120,Methylmalonic acidemia
-24754,DRG29908,E71121,Propionic acidemia
-24755,DRG29908,E71128,Other disorders of propionate metabolism
-24756,DRG29908,E7119,Other disorders of branched-chain amino-acid metabolism
-24757,DRG29908,E712,"Disorder of branched-chain amino-acid metabolism, unspecified"
-24758,DRG29908,E7130,"Disorder of fatty-acid metabolism, unspecified"
-24759,DRG29908,E71310,Long chain/very long chain acyl CoA dehydrogenase deficiency
-24760,DRG29908,E71311,Medium chain acyl CoA dehydrogenase deficiency
-24761,DRG29908,E71312,Short chain acyl CoA dehydrogenase deficiency
-24762,DRG29908,E71313,Glutaric aciduria type II
-24763,DRG29908,E71314,Muscle carnitine palmitoyltransferase deficiency
-24764,DRG29908,E71318,Other disorders of fatty-acid oxidation
-24765,DRG29908,E7132,Disorders of ketone metabolism
-24766,DRG29908,E7139,Other disorders of fatty-acid metabolism
-24767,DRG29908,E7140,"Disorder of carnitine metabolism, unspecified"
-24768,DRG29908,E7141,Primary carnitine deficiency
-24769,DRG29908,E7142,Carnitine deficiency due to inborn errors of metabolism
-24770,DRG29908,E7143,Iatrogenic carnitine deficiency
-24771,DRG29908,E71440,Ruvalcaba-Myhre-Smith syndrome
-24772,DRG29908,E71448,Other secondary carnitine deficiency
-24773,DRG29908,E7150,"Peroxisomal disorder, unspecified"
-24774,DRG29908,E71510,Zellweger syndrome
-24775,DRG29908,E71511,Neonatal adrenoleukodystrophy
-24776,DRG29908,E71518,Other disorders of peroxisome biogenesis
-24777,DRG29908,E71520,Childhood cerebral X-linked adrenoleukodystrophy
-24778,DRG29908,E71521,Adolescent X-linked adrenoleukodystrophy
-24779,DRG29908,E71522,Adrenomyeloneuropathy
-24780,DRG29908,E71528,Other X-linked adrenoleukodystrophy
-24781,DRG29908,E71529,"X-linked adrenoleukodystrophy, unspecified type"
-24782,DRG29908,E7153,Other group 2 peroxisomal disorders
-24783,DRG29908,E71540,Rhizomelic chondrodysplasia punctata
-24784,DRG29908,E71541,Zellweger-like syndrome
-24785,DRG29908,E71542,Other group 3 peroxisomal disorders
-24786,DRG29908,E71548,Other peroxisomal disorders
-24787,DRG29908,E7200,"Disorders of amino-acid transport, unspecified"
-24788,DRG29908,E7201,Cystinuria
-24789,DRG29908,E7202,Hartnup's disease
-24790,DRG29908,E7203,Lowe's syndrome
-24791,DRG29908,E7204,Cystinosis
-24792,DRG29908,E7209,Other disorders of amino-acid transport
-24793,DRG29908,E7210,"Disorders of sulfur-bearing amino-acid metabolism, unspecified"
-24794,DRG29908,E7211,Homocystinuria
-24795,DRG29908,E7212,Methylenetetrahydrofolate reductase deficiency
-24796,DRG29908,E7219,Other disorders of sulfur-bearing amino-acid metabolism
-24797,DRG29908,E7220,"Disorder of urea cycle metabolism, unspecified"
-24798,DRG29908,E7221,Argininemia
-24799,DRG29908,E7222,Arginosuccinic aciduria
-24800,DRG29908,E7223,Citrullinemia
-24801,DRG29908,E7229,Other disorders of urea cycle metabolism
-24802,DRG29908,E723,Disorders of lysine and hydroxylysine metabolism
-24803,DRG29908,E724,Disorders of ornithine metabolism
-24804,DRG29908,E7250,"Disorder of glycine metabolism, unspecified"
-24805,DRG29908,E7251,Non-ketotic hyperglycinemia
-24806,DRG29908,E7252,Trimethylaminuria
-24807,DRG29908,E7253,Hyperoxaluria
-24808,DRG29908,E7259,Other disorders of glycine metabolism
-24809,DRG29908,E728,Other specified disorders of amino-acid metabolism
-24810,DRG29908,E729,"Disorder of amino-acid metabolism, unspecified"
-24811,DRG29908,E7400,"Glycogen storage disease, unspecified"
-24812,DRG29908,E7401,von Gierke disease
-24813,DRG29908,E7402,Pompe disease
-24814,DRG29908,E7403,Cori disease
-24815,DRG29908,E7404,McArdle disease
-24816,DRG29908,E7409,Other glycogen storage disease
-24817,DRG29908,E7420,"Disorders of galactose metabolism, unspecified"
-24818,DRG29908,E7421,Galactosemia
-24819,DRG29908,E7429,Other disorders of galactose metabolism
-24820,DRG29908,E744,Disorders of pyruvate metabolism and gluconeogenesis
-24821,DRG29908,E748,Other specified disorders of carbohydrate metabolism
-24822,DRG29908,E749,"Disorder of carbohydrate metabolism, unspecified"
-24823,DRG29908,E7521,Fabry (-Anderson) disease
-24824,DRG29908,E7522,Gaucher disease
-24825,DRG29908,E7523,Krabbe disease
-24826,DRG29908,E75240,Niemann-Pick disease type A
-24827,DRG29908,E75241,Niemann-Pick disease type B
-24828,DRG29908,E75242,Niemann-Pick disease type C
-24829,DRG29908,E75243,Niemann-Pick disease type D
-24830,DRG29908,E75248,Other Niemann-Pick disease
-24831,DRG29908,E75249,"Niemann-Pick disease, unspecified"
-24832,DRG29908,E753,"Sphingolipidosis, unspecified"
-24833,DRG29908,E755,Other lipid storage disorders
-24834,DRG29908,E756,"Lipid storage disorder, unspecified"
-24835,DRG29908,E7601,Hurler's syndrome
-24836,DRG29908,E7602,Hurler-Scheie syndrome
-24837,DRG29908,E7603,Scheie's syndrome
-24838,DRG29908,E761,"Mucopolysaccharidosis, type II"
-24839,DRG29908,E76210,Morquio A mucopolysaccharidoses
-24840,DRG29908,E76211,Morquio B mucopolysaccharidoses
-24841,DRG29908,E76219,"Morquio mucopolysaccharidoses, unspecified"
-24842,DRG29908,E7622,Sanfilippo mucopolysaccharidoses
-24843,DRG29908,E7629,Other mucopolysaccharidoses
-24844,DRG29908,E763,"Mucopolysaccharidosis, unspecified"
-24845,DRG29908,E768,Other disorders of glucosaminoglycan metabolism
-24846,DRG29908,E769,"Glucosaminoglycan metabolism disorder, unspecified"
-24847,DRG29908,E770,Defects in post-translational modification of lysosomal enzymes
-24848,DRG29908,E771,Defects in glycoprotein degradation
-24849,DRG29908,E778,Other disorders of glycoprotein metabolism
-24850,DRG29908,E779,"Disorder of glycoprotein metabolism, unspecified"
-24851,DRG29908,E785,"Hyperlipidemia, unspecified"
-24852,DRG29908,E786,Lipoprotein deficiency
-24853,DRG29908,E7870,"Disorder of bile acid and cholesterol metabolism, unspecified"
-24854,DRG29908,E7879,Other disorders of bile acid and cholesterol metabolism
-24855,DRG29908,E7881,Lipoid dermatoarthritis
-24856,DRG29908,E7889,Other lipoprotein metabolism disorders
-24857,DRG29908,E789,"Disorder of lipoprotein metabolism, unspecified"
-24858,DRG29908,E791,Lesch-Nyhan syndrome
-24859,DRG29908,E792,Myoadenylate deaminase deficiency
-24860,DRG29908,E798,Other disorders of purine and pyrimidine metabolism
-24861,DRG29908,E799,"Disorder of purine and pyrimidine metabolism, unspecified"
-24862,DRG29908,E800,Hereditary erythropoietic porphyria
-24863,DRG29908,E801,Porphyria cutanea tarda
-24864,DRG29908,E8020,Unspecified porphyria
-24865,DRG29908,E8021,Acute intermittent (hepatic) porphyria
-24866,DRG29908,E8029,Other porphyria
-24867,DRG29908,E803,Defects of catalase and peroxidase
-24868,DRG29908,E8300,"Disorder of copper metabolism, unspecified"
-24869,DRG29908,E8301,Wilson's disease
-24870,DRG29908,E8309,Other disorders of copper metabolism
-24871,DRG29908,E8310,"Disorder of iron metabolism, unspecified"
-24872,DRG29908,E83110,Hereditary hemochromatosis
-24873,DRG29908,E83111,Hemochromatosis due to repeated red blood cell transfusions
-24874,DRG29908,E83118,Other hemochromatosis
-24875,DRG29908,E83119,"Hemochromatosis, unspecified"
-24876,DRG29908,E8319,Other disorders of iron metabolism
-24877,DRG29908,E8330,"Disorder of phosphorus metabolism, unspecified"
-24878,DRG29908,E8331,Familial hypophosphatemia
-24879,DRG29908,E8332,Hereditary vitamin D-dependent rickets (type 1) (type 2)
-24880,DRG29908,E8339,Other disorders of phosphorus metabolism
-24881,DRG29908,E8389,Other disorders of mineral metabolism
-24882,DRG29908,E839,"Disorder of mineral metabolism, unspecified"
-24883,DRG29908,E8801,Alpha-1-antitrypsin deficiency
-24884,DRG29908,E8809,"Other disorders of plasma-protein metabolism, not elsewhere classified"
-24885,DRG29908,E881,"Lipodystrophy, not elsewhere classified"
-24886,DRG29908,E882,"Lipomatosis, not elsewhere classified"
-24887,DRG29908,E883,Tumor lysis syndrome
-24888,DRG29908,E8840,"Mitochondrial metabolism disorder, unspecified"
-24889,DRG29908,E8849,Other mitochondrial metabolism disorders
-24890,DRG29908,E8881,Metabolic syndrome
-24891,DRG29908,E8889,Other specified metabolic disorders
-24892,DRG29908,E889,"Metabolic disorder, unspecified"
-24893,DRG29908,H49811,"Kearns-Sayre syndrome, right eye"
-24894,DRG29908,H49812,"Kearns-Sayre syndrome, left eye"
-24895,DRG29908,H49813,"Kearns-Sayre syndrome, bilateral"
-24896,DRG29908,H49819,"Kearns-Sayre syndrome, unspecified eye"
-24897,DRG29908,J8482,Adult pulmonary Langerhans cell histiocytosis
+DRG,CM-PCS,en
+DRG29908,C965,Multifocal and unisystemic Langerhans-cell histiocytosis
+DRG29908,C966,Unifocal Langerhans-cell histiocytosis
+DRG29908,D813,Adenosine deaminase [ADA] deficiency
+DRG29908,D815,Purine nucleoside phosphorylase [PNP] deficiency
+DRG29908,D81810,Biotinidase deficiency
+DRG29908,D841,Defects in the complement system
+DRG29908,E700,Classical phenylketonuria
+DRG29908,E701,Other hyperphenylalaninemias
+DRG29908,E7020,"Disorder of tyrosine metabolism, unspecified"
+DRG29908,E7021,Tyrosinemia
+DRG29908,E7029,Other disorders of tyrosine metabolism
+DRG29908,E7030,"Albinism, unspecified"
+DRG29908,E70310,X-linked ocular albinism
+DRG29908,E70311,Autosomal recessive ocular albinism
+DRG29908,E70318,Other ocular albinism
+DRG29908,E70319,"Ocular albinism, unspecified"
+DRG29908,E70320,Tyrosinase negative oculocutaneous albinism
+DRG29908,E70321,Tyrosinase positive oculocutaneous albinism
+DRG29908,E70328,Other oculocutaneous albinism
+DRG29908,E70329,"Oculocutaneous albinism, unspecified"
+DRG29908,E70330,Chediak-Higashi syndrome
+DRG29908,E70331,Hermansky-Pudlak syndrome
+DRG29908,E70338,Other albinism with hematologic abnormality
+DRG29908,E70339,"Albinism with hematologic abnormality, unspecified"
+DRG29908,E7039,Other specified albinism
+DRG29908,E7040,"Disorders of histidine metabolism, unspecified"
+DRG29908,E7041,Histidinemia
+DRG29908,E7049,Other disorders of histidine metabolism
+DRG29908,E705,Disorders of tryptophan metabolism
+DRG29908,E708,Other disorders of aromatic amino-acid metabolism
+DRG29908,E709,"Disorder of aromatic amino-acid metabolism, unspecified"
+DRG29908,E710,Maple-syrup-urine disease
+DRG29908,E71110,Isovaleric acidemia
+DRG29908,E71111,3-methylglutaconic aciduria
+DRG29908,E71118,Other branched-chain organic acidurias
+DRG29908,E71120,Methylmalonic acidemia
+DRG29908,E71121,Propionic acidemia
+DRG29908,E71128,Other disorders of propionate metabolism
+DRG29908,E7119,Other disorders of branched-chain amino-acid metabolism
+DRG29908,E712,"Disorder of branched-chain amino-acid metabolism, unspecified"
+DRG29908,E7130,"Disorder of fatty-acid metabolism, unspecified"
+DRG29908,E71310,Long chain/very long chain acyl CoA dehydrogenase deficiency
+DRG29908,E71311,Medium chain acyl CoA dehydrogenase deficiency
+DRG29908,E71312,Short chain acyl CoA dehydrogenase deficiency
+DRG29908,E71313,Glutaric aciduria type II
+DRG29908,E71314,Muscle carnitine palmitoyltransferase deficiency
+DRG29908,E71318,Other disorders of fatty-acid oxidation
+DRG29908,E7132,Disorders of ketone metabolism
+DRG29908,E7139,Other disorders of fatty-acid metabolism
+DRG29908,E7140,"Disorder of carnitine metabolism, unspecified"
+DRG29908,E7141,Primary carnitine deficiency
+DRG29908,E7142,Carnitine deficiency due to inborn errors of metabolism
+DRG29908,E7143,Iatrogenic carnitine deficiency
+DRG29908,E71440,Ruvalcaba-Myhre-Smith syndrome
+DRG29908,E71448,Other secondary carnitine deficiency
+DRG29908,E7150,"Peroxisomal disorder, unspecified"
+DRG29908,E71510,Zellweger syndrome
+DRG29908,E71511,Neonatal adrenoleukodystrophy
+DRG29908,E71518,Other disorders of peroxisome biogenesis
+DRG29908,E71520,Childhood cerebral X-linked adrenoleukodystrophy
+DRG29908,E71521,Adolescent X-linked adrenoleukodystrophy
+DRG29908,E71522,Adrenomyeloneuropathy
+DRG29908,E71528,Other X-linked adrenoleukodystrophy
+DRG29908,E71529,"X-linked adrenoleukodystrophy, unspecified type"
+DRG29908,E7153,Other group 2 peroxisomal disorders
+DRG29908,E71540,Rhizomelic chondrodysplasia punctata
+DRG29908,E71541,Zellweger-like syndrome
+DRG29908,E71542,Other group 3 peroxisomal disorders
+DRG29908,E71548,Other peroxisomal disorders
+DRG29908,E7200,"Disorders of amino-acid transport, unspecified"
+DRG29908,E7201,Cystinuria
+DRG29908,E7202,Hartnup's disease
+DRG29908,E7203,Lowe's syndrome
+DRG29908,E7204,Cystinosis
+DRG29908,E7209,Other disorders of amino-acid transport
+DRG29908,E7210,"Disorders of sulfur-bearing amino-acid metabolism, unspecified"
+DRG29908,E7211,Homocystinuria
+DRG29908,E7212,Methylenetetrahydrofolate reductase deficiency
+DRG29908,E7219,Other disorders of sulfur-bearing amino-acid metabolism
+DRG29908,E7220,"Disorder of urea cycle metabolism, unspecified"
+DRG29908,E7221,Argininemia
+DRG29908,E7222,Arginosuccinic aciduria
+DRG29908,E7223,Citrullinemia
+DRG29908,E7229,Other disorders of urea cycle metabolism
+DRG29908,E723,Disorders of lysine and hydroxylysine metabolism
+DRG29908,E724,Disorders of ornithine metabolism
+DRG29908,E7250,"Disorder of glycine metabolism, unspecified"
+DRG29908,E7251,Non-ketotic hyperglycinemia
+DRG29908,E7252,Trimethylaminuria
+DRG29908,E7253,Hyperoxaluria
+DRG29908,E7259,Other disorders of glycine metabolism
+DRG29908,E728,Other specified disorders of amino-acid metabolism
+DRG29908,E729,"Disorder of amino-acid metabolism, unspecified"
+DRG29908,E7400,"Glycogen storage disease, unspecified"
+DRG29908,E7401,von Gierke disease
+DRG29908,E7402,Pompe disease
+DRG29908,E7403,Cori disease
+DRG29908,E7404,McArdle disease
+DRG29908,E7409,Other glycogen storage disease
+DRG29908,E7420,"Disorders of galactose metabolism, unspecified"
+DRG29908,E7421,Galactosemia
+DRG29908,E7429,Other disorders of galactose metabolism
+DRG29908,E744,Disorders of pyruvate metabolism and gluconeogenesis
+DRG29908,E748,Other specified disorders of carbohydrate metabolism
+DRG29908,E749,"Disorder of carbohydrate metabolism, unspecified"
+DRG29908,E7521,Fabry (-Anderson) disease
+DRG29908,E7522,Gaucher disease
+DRG29908,E7523,Krabbe disease
+DRG29908,E75240,Niemann-Pick disease type A
+DRG29908,E75241,Niemann-Pick disease type B
+DRG29908,E75242,Niemann-Pick disease type C
+DRG29908,E75243,Niemann-Pick disease type D
+DRG29908,E75248,Other Niemann-Pick disease
+DRG29908,E75249,"Niemann-Pick disease, unspecified"
+DRG29908,E753,"Sphingolipidosis, unspecified"
+DRG29908,E755,Other lipid storage disorders
+DRG29908,E756,"Lipid storage disorder, unspecified"
+DRG29908,E7601,Hurler's syndrome
+DRG29908,E7602,Hurler-Scheie syndrome
+DRG29908,E7603,Scheie's syndrome
+DRG29908,E761,"Mucopolysaccharidosis, type II"
+DRG29908,E76210,Morquio A mucopolysaccharidoses
+DRG29908,E76211,Morquio B mucopolysaccharidoses
+DRG29908,E76219,"Morquio mucopolysaccharidoses, unspecified"
+DRG29908,E7622,Sanfilippo mucopolysaccharidoses
+DRG29908,E7629,Other mucopolysaccharidoses
+DRG29908,E763,"Mucopolysaccharidosis, unspecified"
+DRG29908,E768,Other disorders of glucosaminoglycan metabolism
+DRG29908,E769,"Glucosaminoglycan metabolism disorder, unspecified"
+DRG29908,E770,Defects in post-translational modification of lysosomal enzymes
+DRG29908,E771,Defects in glycoprotein degradation
+DRG29908,E778,Other disorders of glycoprotein metabolism
+DRG29908,E779,"Disorder of glycoprotein metabolism, unspecified"
+DRG29908,E785,"Hyperlipidemia, unspecified"
+DRG29908,E786,Lipoprotein deficiency
+DRG29908,E7870,"Disorder of bile acid and cholesterol metabolism, unspecified"
+DRG29908,E7879,Other disorders of bile acid and cholesterol metabolism
+DRG29908,E7881,Lipoid dermatoarthritis
+DRG29908,E7889,Other lipoprotein metabolism disorders
+DRG29908,E789,"Disorder of lipoprotein metabolism, unspecified"
+DRG29908,E791,Lesch-Nyhan syndrome
+DRG29908,E792,Myoadenylate deaminase deficiency
+DRG29908,E798,Other disorders of purine and pyrimidine metabolism
+DRG29908,E799,"Disorder of purine and pyrimidine metabolism, unspecified"
+DRG29908,E800,Hereditary erythropoietic porphyria
+DRG29908,E801,Porphyria cutanea tarda
+DRG29908,E8020,Unspecified porphyria
+DRG29908,E8021,Acute intermittent (hepatic) porphyria
+DRG29908,E8029,Other porphyria
+DRG29908,E803,Defects of catalase and peroxidase
+DRG29908,E8300,"Disorder of copper metabolism, unspecified"
+DRG29908,E8301,Wilson's disease
+DRG29908,E8309,Other disorders of copper metabolism
+DRG29908,E8310,"Disorder of iron metabolism, unspecified"
+DRG29908,E83110,Hereditary hemochromatosis
+DRG29908,E83111,Hemochromatosis due to repeated red blood cell transfusions
+DRG29908,E83118,Other hemochromatosis
+DRG29908,E83119,"Hemochromatosis, unspecified"
+DRG29908,E8319,Other disorders of iron metabolism
+DRG29908,E8330,"Disorder of phosphorus metabolism, unspecified"
+DRG29908,E8331,Familial hypophosphatemia
+DRG29908,E8332,Hereditary vitamin D-dependent rickets (type 1) (type 2)
+DRG29908,E8339,Other disorders of phosphorus metabolism
+DRG29908,E8389,Other disorders of mineral metabolism
+DRG29908,E839,"Disorder of mineral metabolism, unspecified"
+DRG29908,E8801,Alpha-1-antitrypsin deficiency
+DRG29908,E8809,"Other disorders of plasma-protein metabolism, not elsewhere classified"
+DRG29908,E881,"Lipodystrophy, not elsewhere classified"
+DRG29908,E882,"Lipomatosis, not elsewhere classified"
+DRG29908,E883,Tumor lysis syndrome
+DRG29908,E8840,"Mitochondrial metabolism disorder, unspecified"
+DRG29908,E8849,Other mitochondrial metabolism disorders
+DRG29908,E8881,Metabolic syndrome
+DRG29908,E8889,Other specified metabolic disorders
+DRG29908,E889,"Metabolic disorder, unspecified"
+DRG29908,H49811,"Kearns-Sayre syndrome, right eye"
+DRG29908,H49812,"Kearns-Sayre syndrome, left eye"
+DRG29908,H49813,"Kearns-Sayre syndrome, bilateral"
+DRG29908,H49819,"Kearns-Sayre syndrome, unspecified eye"
+DRG29908,J8482,Adult pulmonary Langerhans cell histiocytosis

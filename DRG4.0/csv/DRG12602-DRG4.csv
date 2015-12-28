@@ -1,5 +1,5 @@
-,DRG,CM-PCS,en
-37113,DRG12602,A3951,Meningococcal endocarditis
-37114,DRG12602,B376,Candidal endocarditis
-37115,DRG12602,I330,Acute and subacute infective endocarditis
-37116,DRG12602,I339,"Acute and subacute endocarditis, unspecified"
+DRG,CM-PCS,en
+DRG12602,A3951,Meningococcal endocarditis
+DRG12602,B376,Candidal endocarditis
+DRG12602,I330,Acute and subacute infective endocarditis
+DRG12602,I339,"Acute and subacute endocarditis, unspecified"

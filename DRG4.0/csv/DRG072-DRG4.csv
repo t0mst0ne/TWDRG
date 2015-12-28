@@ -1,7 +1,7 @@
-,DRG,CM-PCS,en
-12618,DRG00072,J342,Deviated nasal septum
-12619,DRG00072,M950,Acquired deformity of nose
-12620,DRG00072,S022XXA,"Fracture of nasal bones, initial encounter for closed fracture"
-12621,DRG00072,S022XXB,"Fracture of nasal bones, initial encounter for open fracture"
-12622,DRG00072,T170XXA,"Foreign body in nasal sinus, initial encounter"
-12623,DRG00072,T171XXA,"Foreign body in nostril, initial encounter"
+DRG,CM-PCS,en
+DRG00072,J342,Deviated nasal septum
+DRG00072,M950,Acquired deformity of nose
+DRG00072,S022XXA,"Fracture of nasal bones, initial encounter for closed fracture"
+DRG00072,S022XXB,"Fracture of nasal bones, initial encounter for open fracture"
+DRG00072,T170XXA,"Foreign body in nasal sinus, initial encounter"
+DRG00072,T171XXA,"Foreign body in nostril, initial encounter"

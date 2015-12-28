@@ -1,38 +1,38 @@
-,DRG,CM-PCS,en
-11254,DRG33307,N050,Unspecified nephritic syndrome with minor glomerular abnormality
-11255,DRG33307,N051,Unspecified nephritic syndrome with focal and segmental glomerular lesions
-11256,DRG33307,N052,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis
-11257,DRG33307,N053,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
-11258,DRG33307,N054,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
-11259,DRG33307,N055,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
-11260,DRG33307,N056,Unspecified nephritic syndrome with dense deposit disease
-11261,DRG33307,N057,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis
-11262,DRG33307,N058,Unspecified nephritic syndrome with other morphologic changes
-11263,DRG33307,N059,Unspecified nephritic syndrome with unspecified morphologic changes
-11264,DRG33307,N060,Isolated proteinuria with minor glomerular abnormality
-11265,DRG33307,N061,Isolated proteinuria with focal and segmental glomerular lesions
-11266,DRG33307,N062,Isolated proteinuria with diffuse membranous glomerulonephritis
-11267,DRG33307,N063,Isolated proteinuria with diffuse mesangial proliferative glomerulonephritis
-11268,DRG33307,N064,Isolated proteinuria with diffuse endocapillary proliferative glomerulonephritis
-11269,DRG33307,N065,Isolated proteinuria with diffuse mesangiocapillary glomerulonephritis
-11270,DRG33307,N066,Isolated proteinuria with dense deposit disease
-11271,DRG33307,N067,Isolated proteinuria with diffuse crescentic glomerulonephritis
-11272,DRG33307,N068,Isolated proteinuria with other morphologic lesion
-11273,DRG33307,N069,Isolated proteinuria with unspecified morphologic lesion
-11274,DRG33307,N070,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality"
-11275,DRG33307,N071,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions"
-11276,DRG33307,N072,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis"
-11277,DRG33307,N073,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis"
-11278,DRG33307,N074,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis"
-11279,DRG33307,N075,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis"
-11280,DRG33307,N076,"Hereditary nephropathy, not elsewhere classified with dense deposit disease"
-11281,DRG33307,N077,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis"
-11282,DRG33307,N078,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions"
-11283,DRG33307,N079,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions"
-11284,DRG33307,N140,Analgesic nephropathy
-11285,DRG33307,N141,"Nephropathy induced by other drugs, medicaments and biological substances"
-11286,DRG33307,N142,"Nephropathy induced by unspecified drug, medicament or biological substance"
-11287,DRG33307,N143,Nephropathy induced by heavy metals
-11288,DRG33307,N144,"Toxic nephropathy, not elsewhere classified"
-11289,DRG33307,N150,Balkan nephropathy
-11290,DRG33307,N158,Other specified renal tubulo-interstitial diseases
+DRG,CM-PCS,en
+DRG33307,N050,Unspecified nephritic syndrome with minor glomerular abnormality
+DRG33307,N051,Unspecified nephritic syndrome with focal and segmental glomerular lesions
+DRG33307,N052,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis
+DRG33307,N053,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
+DRG33307,N054,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
+DRG33307,N055,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+DRG33307,N056,Unspecified nephritic syndrome with dense deposit disease
+DRG33307,N057,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis
+DRG33307,N058,Unspecified nephritic syndrome with other morphologic changes
+DRG33307,N059,Unspecified nephritic syndrome with unspecified morphologic changes
+DRG33307,N060,Isolated proteinuria with minor glomerular abnormality
+DRG33307,N061,Isolated proteinuria with focal and segmental glomerular lesions
+DRG33307,N062,Isolated proteinuria with diffuse membranous glomerulonephritis
+DRG33307,N063,Isolated proteinuria with diffuse mesangial proliferative glomerulonephritis
+DRG33307,N064,Isolated proteinuria with diffuse endocapillary proliferative glomerulonephritis
+DRG33307,N065,Isolated proteinuria with diffuse mesangiocapillary glomerulonephritis
+DRG33307,N066,Isolated proteinuria with dense deposit disease
+DRG33307,N067,Isolated proteinuria with diffuse crescentic glomerulonephritis
+DRG33307,N068,Isolated proteinuria with other morphologic lesion
+DRG33307,N069,Isolated proteinuria with unspecified morphologic lesion
+DRG33307,N070,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality"
+DRG33307,N071,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions"
+DRG33307,N072,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis"
+DRG33307,N073,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis"
+DRG33307,N074,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis"
+DRG33307,N075,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis"
+DRG33307,N076,"Hereditary nephropathy, not elsewhere classified with dense deposit disease"
+DRG33307,N077,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis"
+DRG33307,N078,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions"
+DRG33307,N079,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions"
+DRG33307,N140,Analgesic nephropathy
+DRG33307,N141,"Nephropathy induced by other drugs, medicaments and biological substances"
+DRG33307,N142,"Nephropathy induced by unspecified drug, medicament or biological substance"
+DRG33307,N143,Nephropathy induced by heavy metals
+DRG33307,N144,"Toxic nephropathy, not elsewhere classified"
+DRG33307,N150,Balkan nephropathy
+DRG33307,N158,Other specified renal tubulo-interstitial diseases

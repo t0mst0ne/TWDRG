@@ -1,649 +1,649 @@
-,DRG,CM-PCS,en
-4,DRG28503,E0800,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
-5,DRG28503,E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma
-6,DRG28503,E0810,Diabetes mellitus due to underlying condition with ketoacidosis without coma
-7,DRG28503,E08641,Diabetes mellitus due to underlying condition with hypoglycemia with coma
-8,DRG28503,E08649,Diabetes mellitus due to underlying condition with hypoglycemia without coma
-9,DRG28503,E0865,Diabetes mellitus due to underlying condition with hyperglycemia
-10,DRG28503,E0821,Diabetes mellitus due to underlying condition with diabetic nephropathy
-11,DRG28503,E0822,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
-12,DRG28503,E08621,Diabetes mellitus due to underlying condition with diabetic arthropathy
-13,DRG28503,E08610,Diabetes mellitus due to underlying condition with diabetic neuropathic arthropathy
-14,DRG28503,E088,Diabetes mellitus due to underlying condition with unspecified complications
-15,DRG28503,E0900,Drug or chemical induced diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
-16,DRG28503,E0901,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma
-17,DRG28503,E09641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma
-18,DRG28503,E0911,Drug or chemical induced diabetes mellitus with ketoacidosis with coma
-19,DRG28503,E09649,Drug or chemical induced diabetes mellitus with hypoglycemia without coma
-20,DRG28503,E0965,Drug or chemical induced diabetes mellitus with hyperglycemia
-21,DRG28503,E09620,Drug or chemical induced diabetes mellitus with diabetic dermatitis
-22,DRG28503,E098,Drug or chemical induced diabetes mellitus with unspecified complications
-23,DRG28503,E09610,Drug or chemical induced diabetes mellitus with diabetic neuropathic arthropathy
-24,DRG28503,E1010,Type 1 diabetes mellitus with ketoacidosis without coma
-25,DRG28503,E1011,Type 1 diabetes mellitus with ketoacidosis with coma
-26,DRG28503,E10618,Type 1 diabetes mellitus with other diabetic arthropathy
-27,DRG28503,E10620,Type 1 diabetes mellitus with diabetic dermatitis
-28,DRG28503,E10621,Type 1 diabetes mellitus with foot ulcer
-29,DRG28503,E10622,Type 1 diabetes mellitus with other skin ulcer
-30,DRG28503,E10628,Type 1 diabetes mellitus with other skin complications
-31,DRG28503,E10630,Type 1 diabetes mellitus with periodontal disease
-32,DRG28503,E10638,Type 1 diabetes mellitus with other oral complications
-33,DRG28503,E10641,Type 1 diabetes mellitus with hypoglycemia with coma
-34,DRG28503,E10649,Type 1 diabetes mellitus with hypoglycemia without coma
-35,DRG28503,E1065,Type 1 diabetes mellitus with hyperglycemia
-36,DRG28503,E1069,Type 1 diabetes mellitus with other specified complication
-37,DRG28503,E108,Type 1 diabetes mellitus with unspecified complications
-38,DRG28503,E109,Type 1 diabetes mellitus without complications
-39,DRG28503,E1100,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
-40,DRG28503,E1101,Type 2 diabetes mellitus with hyperosmolarity with coma
-41,DRG28503,E11610,Type 2 diabetes mellitus with diabetic neuropathic arthropathy
-42,DRG28503,E11618,Type 2 diabetes mellitus with other diabetic arthropathy
-43,DRG28503,E11620,Type 2 diabetes mellitus with diabetic dermatitis
-44,DRG28503,E11621,Type 2 diabetes mellitus with foot ulcer
-45,DRG28503,E11622,Type 2 diabetes mellitus with other skin ulcer
-46,DRG28503,E11628,Type 2 diabetes mellitus with other skin complications
-47,DRG28503,E11630,Type 2 diabetes mellitus with periodontal disease
-48,DRG28503,E11638,Type 2 diabetes mellitus with other oral complications
-49,DRG28503,E11641,Type 2 diabetes mellitus with hypoglycemia with coma
-50,DRG28503,E11649,Type 2 diabetes mellitus with hypoglycemia without coma
-51,DRG28503,E1165,Type 2 diabetes mellitus with hyperglycemia
-52,DRG28503,E1169,Type 2 diabetes mellitus with other specified complication
-53,DRG28503,E118,Type 2 diabetes mellitus with unspecified complications
-54,DRG28503,E119,Type 2 diabetes mellitus without complications
-55,DRG28503,E1300,Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
-56,DRG28503,E1301,Other specified diabetes mellitus with hyperosmolarity with coma
-57,DRG28503,E1310,Other specified diabetes mellitus with ketoacidosis without coma
-58,DRG28503,E1311,Other specified diabetes mellitus with ketoacidosis with coma
-59,DRG28503,E13618,Other specified diabetes mellitus with other diabetic arthropathy
-60,DRG28503,E13620,Other specified diabetes mellitus with diabetic dermatitis
-61,DRG28503,E13621,Other specified diabetes mellitus with foot ulcer
-62,DRG28503,E13622,Other specified diabetes mellitus with other skin ulcer
-63,DRG28503,E13628,Other specified diabetes mellitus with other skin complications
-64,DRG28503,E13630,Other specified diabetes mellitus with periodontal disease
-65,DRG28503,E13638,Other specified diabetes mellitus with other oral complications
-66,DRG28503,E13649,Other specified diabetes mellitus with hypoglycemia without coma
-67,DRG28503,E1365,Other specified diabetes mellitus with hyperglycemia
-68,DRG28503,E1369,Other specified diabetes mellitus with other specified complication
-69,DRG28503,E13641,Other specified diabetes mellitus with hypoglycemia with coma
-70,DRG28503,E138,Other specified diabetes mellitus with unspecified complications
-71,DRG28503,E139,Other specified diabetes mellitus without complications
-72,DRG28503,R81,Glycosuria
-75,DRG28503,A021,Salmonella sepsis
-76,DRG28503,A221,Pulmonary anthrax
-77,DRG28503,A3791,"Whooping cough, unspecified species with pneumonia"
-78,DRG28503,A400,"Sepsis due to streptococcus, group A"
-79,DRG28503,A401,"Sepsis due to streptococcus, group B"
-80,DRG28503,A403,Sepsis due to Streptococcus pneumoniae
-81,DRG28503,A408,Other streptococcal sepsis
-82,DRG28503,A409,"Streptococcal sepsis, unspecified"
-83,DRG28503,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
-84,DRG28503,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
-85,DRG28503,A411,Sepsis due to other specified staphylococcus
-86,DRG28503,A412,Sepsis due to unspecified staphylococcus
-87,DRG28503,A413,Sepsis due to Hemophilus influenzae
-88,DRG28503,A414,Sepsis due to anaerobes
-89,DRG28503,A4150,"Gram-negative sepsis, unspecified"
-90,DRG28503,A4151,Sepsis due to Escherichia coli [E. coli]
-91,DRG28503,A4152,Sepsis due to Pseudomonas
-92,DRG28503,A4153,Sepsis due to Serratia
-93,DRG28503,A4159,Other Gram-negative sepsis
-94,DRG28503,A4181,Sepsis due to Enterococcus
-95,DRG28503,A4189,Other specified sepsis
-96,DRG28503,A419,"Sepsis, unspecified organism"
-97,DRG28503,A481,Legionnaires' disease
-98,DRG28503,B250,Cytomegaloviral pneumonitis
-99,DRG28503,B252,Cytomegaloviral pancreatitis
-100,DRG28503,B440,Invasive pulmonary aspergillosis
-101,DRG28503,G450,Vertebro-basilar artery syndrome
-102,DRG28503,G451,Carotid artery syndrome (hemispheric)
-103,DRG28503,G452,Multiple and bilateral precerebral artery syndromes
-104,DRG28503,G454,Transient global amnesia
-105,DRG28503,G458,Other transient cerebral ischemic attacks and related syndromes
-106,DRG28503,G459,"Transient cerebral ischemic attack, unspecified"
-107,DRG28503,G460,Middle cerebral artery syndrome
-108,DRG28503,G461,Anterior cerebral artery syndrome
-109,DRG28503,G462,Posterior cerebral artery syndrome
-110,DRG28503,G463,Brain stem stroke syndrome
-111,DRG28503,G464,Cerebellar stroke syndrome
-112,DRG28503,G465,Pure motor lacunar syndrome
-113,DRG28503,G466,Pure sensory lacunar syndrome
-114,DRG28503,G467,Other lacunar syndromes
-115,DRG28503,G468,Other vascular syndromes of brain in cerebrovascular diseases
-116,DRG28503,H49811,"Kearns-Sayre syndrome, right eye"
-117,DRG28503,H49812,"Kearns-Sayre syndrome, left eye"
-118,DRG28503,H49813,"Kearns-Sayre syndrome, bilateral"
-119,DRG28503,I110,Hypertensive heart disease with heart failure
-120,DRG28503,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
-121,DRG28503,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
-122,DRG28503,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
-123,DRG28503,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
-124,DRG28503,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
-125,DRG28503,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
-126,DRG28503,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
-127,DRG28503,I2129,ST elevation (STEMI) myocardial infarction involving other sites
-128,DRG28503,I213,ST elevation (STEMI) myocardial infarction of unspecified site
-129,DRG28503,I214,Non-ST elevation (NSTEMI) myocardial infarction
-130,DRG28503,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
-131,DRG28503,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
-132,DRG28503,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
-133,DRG28503,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
-134,DRG28503,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
-135,DRG28503,I501,Left ventricular failure
-136,DRG28503,I5020,Unspecified systolic (congestive) heart failure
-137,DRG28503,I5021,Acute systolic (congestive) heart failure
-138,DRG28503,I5022,Chronic systolic (congestive) heart failure
-139,DRG28503,I5023,Acute on chronic systolic (congestive) heart failure
-140,DRG28503,I5030,Unspecified diastolic (congestive) heart failure
-141,DRG28503,I5031,Acute diastolic (congestive) heart failure
-142,DRG28503,I5032,Chronic diastolic (congestive) heart failure
-143,DRG28503,I5033,Acute on chronic diastolic (congestive) heart failure
-144,DRG28503,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
-145,DRG28503,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
-146,DRG28503,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
-147,DRG28503,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
-148,DRG28503,I509,"Heart failure, unspecified"
-149,DRG28503,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
-150,DRG28503,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
-151,DRG28503,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
-152,DRG28503,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
-153,DRG28503,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
-154,DRG28503,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
-155,DRG28503,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
-156,DRG28503,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
-157,DRG28503,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
-158,DRG28503,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
-159,DRG28503,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
-160,DRG28503,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
-161,DRG28503,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
-162,DRG28503,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
-163,DRG28503,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
-164,DRG28503,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
-165,DRG28503,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
-166,DRG28503,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
-167,DRG28503,I608,Other nontraumatic subarachnoid hemorrhage
-168,DRG28503,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
-169,DRG28503,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
-170,DRG28503,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
-171,DRG28503,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
-172,DRG28503,I613,Nontraumatic intracerebral hemorrhage in brain stem
-173,DRG28503,I614,Nontraumatic intracerebral hemorrhage in cerebellum
-174,DRG28503,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
-175,DRG28503,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
-176,DRG28503,I618,Other nontraumatic intracerebral hemorrhage
-177,DRG28503,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
-178,DRG28503,I6200,"Nontraumatic subdural hemorrhage, unspecified"
-179,DRG28503,I6201,Nontraumatic acute subdural hemorrhage
-180,DRG28503,I6202,Nontraumatic subacute subdural hemorrhage
-181,DRG28503,I6203,Nontraumatic chronic subdural hemorrhage
-182,DRG28503,I621,Nontraumatic extradural hemorrhage
-183,DRG28503,I629,"Nontraumatic intracranial hemorrhage, unspecified"
-184,DRG28503,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
-185,DRG28503,I63011,Cerebral infarction due to thrombosis of right vertebral artery
-186,DRG28503,I63012,Cerebral infarction due to thrombosis of left vertebral artery
-187,DRG28503,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
-188,DRG28503,I6302,Cerebral infarction due to thrombosis of basilar artery
-189,DRG28503,I63031,Cerebral infarction due to thrombosis of right carotid artery
-190,DRG28503,I63032,Cerebral infarction due to thrombosis of left carotid artery
-191,DRG28503,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
-192,DRG28503,I6309,Cerebral infarction due to thrombosis of other precerebral artery
-193,DRG28503,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
-194,DRG28503,I63111,Cerebral infarction due to embolism of right vertebral artery
-195,DRG28503,I63112,Cerebral infarction due to embolism of left vertebral artery
-196,DRG28503,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
-197,DRG28503,I6312,Cerebral infarction due to embolism of basilar artery
-198,DRG28503,I63131,Cerebral infarction due to embolism of right carotid artery
-199,DRG28503,I63132,Cerebral infarction due to embolism of left carotid artery
-200,DRG28503,I63139,Cerebral infarction due to embolism of unspecified carotid artery
-201,DRG28503,I6319,Cerebral infarction due to embolism of other precerebral artery
-202,DRG28503,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
-203,DRG28503,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
-204,DRG28503,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
-205,DRG28503,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
-206,DRG28503,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
-207,DRG28503,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
-208,DRG28503,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
-209,DRG28503,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
-210,DRG28503,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
-211,DRG28503,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
-212,DRG28503,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
-213,DRG28503,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
-214,DRG28503,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
-215,DRG28503,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
-216,DRG28503,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
-217,DRG28503,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
-218,DRG28503,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
-219,DRG28503,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
-220,DRG28503,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
-221,DRG28503,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
-222,DRG28503,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
-223,DRG28503,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
-224,DRG28503,I6339,Cerebral infarction due to thrombosis of other cerebral artery
-225,DRG28503,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
-226,DRG28503,I63411,Cerebral infarction due to embolism of right middle cerebral artery
-227,DRG28503,I63412,Cerebral infarction due to embolism of left middle cerebral artery
-228,DRG28503,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
-229,DRG28503,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
-230,DRG28503,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
-231,DRG28503,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
-232,DRG28503,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
-233,DRG28503,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
-234,DRG28503,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
-235,DRG28503,I63441,Cerebral infarction due to embolism of right cerebellar artery
-236,DRG28503,I63442,Cerebral infarction due to embolism of left cerebellar artery
-237,DRG28503,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
-238,DRG28503,I6349,Cerebral infarction due to embolism of other cerebral artery
-239,DRG28503,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
-240,DRG28503,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
-241,DRG28503,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
-242,DRG28503,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
-243,DRG28503,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
-244,DRG28503,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
-245,DRG28503,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
-246,DRG28503,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
-247,DRG28503,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
-248,DRG28503,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
-249,DRG28503,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
-250,DRG28503,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
-251,DRG28503,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
-252,DRG28503,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
-253,DRG28503,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
-254,DRG28503,I638,Other cerebral infarction
-255,DRG28503,I639,"Cerebral infarction, unspecified"
-256,DRG28503,I6501,Occlusion and stenosis of right vertebral artery
-257,DRG28503,I6502,Occlusion and stenosis of left vertebral artery
-258,DRG28503,I6503,Occlusion and stenosis of bilateral vertebral arteries
-259,DRG28503,I6509,Occlusion and stenosis of unspecified vertebral artery
-260,DRG28503,I651,Occlusion and stenosis of basilar artery
-261,DRG28503,I6521,Occlusion and stenosis of right carotid artery
-262,DRG28503,I6522,Occlusion and stenosis of left carotid artery
-263,DRG28503,I6523,Occlusion and stenosis of bilateral carotid arteries
-264,DRG28503,I6529,Occlusion and stenosis of unspecified carotid artery
-265,DRG28503,I658,Occlusion and stenosis of other precerebral arteries
-266,DRG28503,I659,Occlusion and stenosis of unspecified precerebral artery
-267,DRG28503,I6601,Occlusion and stenosis of right middle cerebral artery
-268,DRG28503,I6602,Occlusion and stenosis of left middle cerebral artery
-269,DRG28503,I6603,Occlusion and stenosis of bilateral middle cerebral arteries
-270,DRG28503,I6609,Occlusion and stenosis of unspecified middle cerebral artery
-271,DRG28503,I6611,Occlusion and stenosis of right anterior cerebral artery
-272,DRG28503,I6612,Occlusion and stenosis of left anterior cerebral artery
-273,DRG28503,I6613,Occlusion and stenosis of bilateral anterior cerebral arteries
-274,DRG28503,I6619,Occlusion and stenosis of unspecified anterior cerebral artery
-275,DRG28503,I6621,Occlusion and stenosis of right posterior cerebral artery
-276,DRG28503,I6622,Occlusion and stenosis of left posterior cerebral artery
-277,DRG28503,I6623,Occlusion and stenosis of bilateral posterior cerebral arteries
-278,DRG28503,I6629,Occlusion and stenosis of unspecified posterior cerebral artery
-279,DRG28503,I663,Occlusion and stenosis of cerebellar arteries
-280,DRG28503,I668,Occlusion and stenosis of other cerebral arteries
-281,DRG28503,I669,Occlusion and stenosis of unspecified cerebral artery
-282,DRG28503,I670,"Dissection of cerebral arteries, nonruptured"
-283,DRG28503,I671,"Cerebral aneurysm, nonruptured"
-284,DRG28503,I672,Cerebral atherosclerosis
-285,DRG28503,I674,Hypertensive encephalopathy
-286,DRG28503,I675,Moyamoya disease
-287,DRG28503,I676,Nonpyogenic thrombosis of intracranial venous system
-288,DRG28503,I677,"Cerebral arteritis, not elsewhere classified"
-289,DRG28503,I6781,Acute cerebrovascular insufficiency
-290,DRG28503,I6782,Cerebral ischemia
-291,DRG28503,I67841,Reversible cerebrovascular vasoconstriction syndrome
-292,DRG28503,I67848,Other cerebrovascular vasospasm and vasoconstriction
-293,DRG28503,I6789,Other cerebrovascular disease
-294,DRG28503,I679,"Cerebrovascular disease, unspecified"
-295,DRG28503,I680,Cerebral amyloid angiopathy
-296,DRG28503,I682,Cerebral arteritis in other diseases classified elsewhere
-297,DRG28503,I688,Other cerebrovascular disorders in diseases classified elsewhere
-298,DRG28503,J09X1,Influenza due to identified novel influenza A virus with pneumonia
-299,DRG28503,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
-300,DRG28503,J1008,Influenza due to other identified influenza virus with other specified pneumonia
-301,DRG28503,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
-302,DRG28503,J1108,Influenza due to unidentified influenza virus with specified pneumonia
-303,DRG28503,J120,Adenoviral pneumonia
-304,DRG28503,J121,Respiratory syncytial virus pneumonia
-305,DRG28503,J122,Parainfluenza virus pneumonia
-306,DRG28503,J123,Human metapneumovirus pneumonia
-307,DRG28503,J1281,Pneumonia due to SARS-associated coronavirus
-308,DRG28503,J1289,Other viral pneumonia
-309,DRG28503,J129,"Viral pneumonia, unspecified"
-310,DRG28503,J13,Pneumonia due to Streptococcus pneumoniae
-311,DRG28503,J14,Pneumonia due to Hemophilus influenzae
-312,DRG28503,J150,Pneumonia due to Klebsiella pneumoniae
-313,DRG28503,J151,Pneumonia due to Pseudomonas
-314,DRG28503,J1520,"Pneumonia due to staphylococcus, unspecified"
-315,DRG28503,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
-316,DRG28503,J1529,Pneumonia due to other staphylococcus
-317,DRG28503,J153,"Pneumonia due to streptococcus, group B"
-318,DRG28503,J154,Pneumonia due to other streptococci
-319,DRG28503,J155,Pneumonia due to Escherichia coli
-320,DRG28503,J156,Pneumonia due to other aerobic Gram-negative bacteria
-321,DRG28503,J157,Pneumonia due to Mycoplasma pneumoniae
-322,DRG28503,J158,Pneumonia due to other specified bacteria
-323,DRG28503,J159,Unspecified bacterial pneumonia
-324,DRG28503,J160,Chlamydial pneumonia
-325,DRG28503,J168,Pneumonia due to other specified infectious organisms
-326,DRG28503,J17,Pneumonia in diseases classified elsewhere
-327,DRG28503,J180,"Bronchopneumonia, unspecified organism"
-328,DRG28503,J181,"Lobar pneumonia, unspecified organism"
-329,DRG28503,J188,"Other pneumonia, unspecified organism"
-330,DRG28503,J189,"Pneumonia, unspecified organism"
-331,DRG28503,J80,Acute respiratory distress syndrome
-332,DRG28503,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-333,DRG28503,J9601,Acute respiratory failure with hypoxia
-334,DRG28503,J9602,Acute respiratory failure with hypercapnia
-335,DRG28503,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
-336,DRG28503,J9611,Chronic respiratory failure with hypoxia
-337,DRG28503,J9612,Chronic respiratory failure with hypercapnia
-338,DRG28503,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-339,DRG28503,J9691,"Respiratory failure, unspecified with hypoxia"
-340,DRG28503,J9692,"Respiratory failure, unspecified with hypercapnia"
-341,DRG28503,K122,Cellulitis and abscess of mouth
-342,DRG28503,K254,Chronic or unspecified gastric ulcer with hemorrhage
-343,DRG28503,K264,Chronic or unspecified duodenal ulcer with hemorrhage
-344,DRG28503,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
-345,DRG28503,K5660,Unspecified intestinal obstruction
-346,DRG28503,K750,Abscess of liver
-347,DRG28503,K810,Acute cholecystitis
-348,DRG28503,K850,Idiopathic acute pancreatitis
-349,DRG28503,K851,Biliary acute pancreatitis
-350,DRG28503,K852,Alcohol induced acute pancreatitis
-351,DRG28503,K853,Drug induced acute pancreatitis
-352,DRG28503,K858,Other acute pancreatitis
-353,DRG28503,K859,"Acute pancreatitis, unspecified"
-354,DRG28503,L0201,Cutaneous abscess of face
-355,DRG28503,L0211,Cutaneous abscess of neck
-356,DRG28503,L02211,Cutaneous abscess of abdominal wall
-357,DRG28503,L02212,"Cutaneous abscess of back [any part, except buttock]"
-358,DRG28503,L02213,Cutaneous abscess of chest wall
-359,DRG28503,L02214,Cutaneous abscess of groin
-360,DRG28503,L02215,Cutaneous abscess of perineum
-361,DRG28503,L02216,Cutaneous abscess of umbilicus
-362,DRG28503,L02219,"Cutaneous abscess of trunk, unspecified"
-363,DRG28503,L0231,Cutaneous abscess of buttock
-364,DRG28503,L02411,Cutaneous abscess of right axilla
-365,DRG28503,L02412,Cutaneous abscess of left axilla
-366,DRG28503,L02413,Cutaneous abscess of right upper limb
-367,DRG28503,L02414,Cutaneous abscess of left upper limb
-368,DRG28503,L02415,Cutaneous abscess of right lower limb
-369,DRG28503,L02416,Cutaneous abscess of left lower limb
-370,DRG28503,L02419,"Cutaneous abscess of limb, unspecified"
-371,DRG28503,L02511,Cutaneous abscess of right hand
-372,DRG28503,L02512,Cutaneous abscess of left hand
-373,DRG28503,L02519,Cutaneous abscess of unspecified hand
-374,DRG28503,L02611,Cutaneous abscess of right foot
-375,DRG28503,L02612,Cutaneous abscess of left foot
-376,DRG28503,L02619,Cutaneous abscess of unspecified foot
-377,DRG28503,L02811,"Cutaneous abscess of head [any part, except face]"
-378,DRG28503,L02818,Cutaneous abscess of other sites
-379,DRG28503,L0291,"Cutaneous abscess, unspecified"
-380,DRG28503,L03111,Cellulitis of right axilla
-381,DRG28503,L03112,Cellulitis of left axilla
-382,DRG28503,L03113,Cellulitis of right upper limb
-383,DRG28503,L03114,Cellulitis of left upper limb
-384,DRG28503,L03115,Cellulitis of right lower limb
-385,DRG28503,L03116,Cellulitis of left lower limb
-386,DRG28503,L03119,Cellulitis of unspecified part of limb
-387,DRG28503,L03121,Acute lymphangitis of right axilla
-388,DRG28503,L03122,Acute lymphangitis of left axilla
-389,DRG28503,L03123,Acute lymphangitis of right upper limb
-390,DRG28503,L03124,Acute lymphangitis of left upper limb
-391,DRG28503,L03125,Acute lymphangitis of right lower limb
-392,DRG28503,L03126,Acute lymphangitis of left lower limb
-393,DRG28503,L03129,Acute lymphangitis of unspecified part of limb
-394,DRG28503,L03211,Cellulitis of face
-395,DRG28503,L03212,Acute lymphangitis of face
-396,DRG28503,L03221,Cellulitis of neck
-397,DRG28503,L03222,Acute lymphangitis of neck
-398,DRG28503,L03311,Cellulitis of abdominal wall
-399,DRG28503,L03312,Cellulitis of back [any part except buttock]
-400,DRG28503,L03313,Cellulitis of chest wall
-401,DRG28503,L03314,Cellulitis of groin
-402,DRG28503,L03315,Cellulitis of perineum
-403,DRG28503,L03316,Cellulitis of umbilicus
-404,DRG28503,L03317,Cellulitis of buttock
-405,DRG28503,L03319,"Cellulitis of trunk, unspecified"
-406,DRG28503,L03321,Acute lymphangitis of abdominal wall
-407,DRG28503,L03322,Acute lymphangitis of back [any part except buttock]
-408,DRG28503,L03323,Acute lymphangitis of chest wall
-409,DRG28503,L03324,Acute lymphangitis of groin
-410,DRG28503,L03325,Acute lymphangitis of perineum
-411,DRG28503,L03326,Acute lymphangitis of umbilicus
-412,DRG28503,L03327,Acute lymphangitis of buttock
-413,DRG28503,L03329,"Acute lymphangitis of trunk, unspecified"
-414,DRG28503,L03811,"Cellulitis of head [any part, except face]"
-415,DRG28503,L03818,Cellulitis of other sites
-416,DRG28503,L03891,"Acute lymphangitis of head [any part, except face]"
-417,DRG28503,L03898,Acute lymphangitis of other sites
-418,DRG28503,L0390,"Cellulitis, unspecified"
-419,DRG28503,L0391,"Acute lymphangitis, unspecified"
-420,DRG28503,L89000,"Pressure ulcer of unspecified elbow, unstageable"
-421,DRG28503,L89001,"Pressure ulcer of unspecified elbow, stage 1"
-422,DRG28503,L89002,"Pressure ulcer of unspecified elbow, stage 2"
-423,DRG28503,L89003,"Pressure ulcer of unspecified elbow, stage 3"
-424,DRG28503,L89004,"Pressure ulcer of unspecified elbow, stage 4"
-425,DRG28503,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
-426,DRG28503,L89010,"Pressure ulcer of right elbow, unstageable"
-427,DRG28503,L89011,"Pressure ulcer of right elbow, stage 1"
-428,DRG28503,L89012,"Pressure ulcer of right elbow, stage 2"
-429,DRG28503,L89013,"Pressure ulcer of right elbow, stage 3"
-430,DRG28503,L89014,"Pressure ulcer of right elbow, stage 4"
-431,DRG28503,L89020,"Pressure ulcer of left elbow, unstageable"
-432,DRG28503,L89021,"Pressure ulcer of left elbow, stage 1"
-433,DRG28503,L89022,"Pressure ulcer of left elbow, stage 2"
-434,DRG28503,L89023,"Pressure ulcer of left elbow, stage 3"
-435,DRG28503,L89024,"Pressure ulcer of left elbow, stage 4"
-436,DRG28503,L89100,"Pressure ulcer of unspecified part of back, unstageable"
-437,DRG28503,L89101,"Pressure ulcer of unspecified part of back, stage 1"
-438,DRG28503,L89102,"Pressure ulcer of unspecified part of back, stage 2"
-439,DRG28503,L89103,"Pressure ulcer of unspecified part of back, stage 3"
-440,DRG28503,L89104,"Pressure ulcer of unspecified part of back, stage 4"
-441,DRG28503,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
-442,DRG28503,L89110,"Pressure ulcer of right upper back, unstageable"
-443,DRG28503,L89111,"Pressure ulcer of right upper back, stage 1"
-444,DRG28503,L89112,"Pressure ulcer of right upper back, stage 2"
-445,DRG28503,L89113,"Pressure ulcer of right upper back, stage 3"
-446,DRG28503,L89114,"Pressure ulcer of right upper back, stage 4"
-447,DRG28503,L89119,"Pressure ulcer of right upper back, unspecified stage"
-448,DRG28503,L89120,"Pressure ulcer of left upper back, unstageable"
-449,DRG28503,L89121,"Pressure ulcer of left upper back, stage 1"
-450,DRG28503,L89122,"Pressure ulcer of left upper back, stage 2"
-451,DRG28503,L89123,"Pressure ulcer of left upper back, stage 3"
-452,DRG28503,L89124,"Pressure ulcer of left upper back, stage 4"
-453,DRG28503,L89129,"Pressure ulcer of left upper back, unspecified stage"
-454,DRG28503,L89130,"Pressure ulcer of right lower back, unstageable"
-455,DRG28503,L89131,"Pressure ulcer of right lower back, stage 1"
-456,DRG28503,L89132,"Pressure ulcer of right lower back, stage 2"
-457,DRG28503,L89133,"Pressure ulcer of right lower back, stage 3"
-458,DRG28503,L89134,"Pressure ulcer of right lower back, stage 4"
-459,DRG28503,L89139,"Pressure ulcer of right lower back, unspecified stage"
-460,DRG28503,L89140,"Pressure ulcer of left lower back, unstageable"
-461,DRG28503,L89141,"Pressure ulcer of left lower back, stage 1"
-462,DRG28503,L89142,"Pressure ulcer of left lower back, stage 2"
-463,DRG28503,L89143,"Pressure ulcer of left lower back, stage 3"
-464,DRG28503,L89144,"Pressure ulcer of left lower back, stage 4"
-465,DRG28503,L89149,"Pressure ulcer of left lower back, unspecified stage"
-466,DRG28503,L89150,"Pressure ulcer of sacral region, unstageable"
-467,DRG28503,L89151,"Pressure ulcer of sacral region, stage 1"
-468,DRG28503,L89152,"Pressure ulcer of sacral region, stage 2"
-469,DRG28503,L89153,"Pressure ulcer of sacral region, stage 3"
-470,DRG28503,L89154,"Pressure ulcer of sacral region, stage 4"
-471,DRG28503,L89159,"Pressure ulcer of sacral region, unspecified stage"
-472,DRG28503,L89200,"Pressure ulcer of unspecified hip, unstageable"
-473,DRG28503,L89201,"Pressure ulcer of unspecified hip, stage 1"
-474,DRG28503,L89202,"Pressure ulcer of unspecified hip, stage 2"
-475,DRG28503,L89203,"Pressure ulcer of unspecified hip, stage 3"
-476,DRG28503,L89204,"Pressure ulcer of unspecified hip, stage 4"
-477,DRG28503,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
-478,DRG28503,L89210,"Pressure ulcer of right hip, unstageable"
-479,DRG28503,L89211,"Pressure ulcer of right hip, stage 1"
-480,DRG28503,L89212,"Pressure ulcer of right hip, stage 2"
-481,DRG28503,L89213,"Pressure ulcer of right hip, stage 3"
-482,DRG28503,L89214,"Pressure ulcer of right hip, stage 4"
-483,DRG28503,L89219,"Pressure ulcer of right hip, unspecified stage"
-484,DRG28503,L89220,"Pressure ulcer of left hip, unstageable"
-485,DRG28503,L89221,"Pressure ulcer of left hip, stage 1"
-486,DRG28503,L89222,"Pressure ulcer of left hip, stage 2"
-487,DRG28503,L89223,"Pressure ulcer of left hip, stage 3"
-488,DRG28503,L89224,"Pressure ulcer of left hip, stage 4"
-489,DRG28503,L89229,"Pressure ulcer of left hip, unspecified stage"
-490,DRG28503,L89300,"Pressure ulcer of unspecified buttock, unstageable"
-491,DRG28503,L89301,"Pressure ulcer of unspecified buttock, stage 1"
-492,DRG28503,L89302,"Pressure ulcer of unspecified buttock, stage 2"
-493,DRG28503,L89303,"Pressure ulcer of unspecified buttock, stage 3"
-494,DRG28503,L89304,"Pressure ulcer of unspecified buttock, stage 4"
-495,DRG28503,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
-496,DRG28503,L89310,"Pressure ulcer of right buttock, unstageable"
-497,DRG28503,L89311,"Pressure ulcer of right buttock, stage 1"
-498,DRG28503,L89312,"Pressure ulcer of right buttock, stage 2"
-499,DRG28503,L89313,"Pressure ulcer of right buttock, stage 3"
-500,DRG28503,L89314,"Pressure ulcer of right buttock, stage 4"
-501,DRG28503,L89319,"Pressure ulcer of right buttock, unspecified stage"
-502,DRG28503,L89320,"Pressure ulcer of left buttock, unstageable"
-503,DRG28503,L89321,"Pressure ulcer of left buttock, stage 1"
-504,DRG28503,L89322,"Pressure ulcer of left buttock, stage 2"
-505,DRG28503,L89323,"Pressure ulcer of left buttock, stage 3"
-506,DRG28503,L89324,"Pressure ulcer of left buttock, stage 4"
-507,DRG28503,L89329,"Pressure ulcer of left buttock, unspecified stage"
-508,DRG28503,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
-509,DRG28503,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
-510,DRG28503,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
-511,DRG28503,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
-512,DRG28503,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
-513,DRG28503,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
-514,DRG28503,L89500,"Pressure ulcer of unspecified ankle, unstageable"
-515,DRG28503,L89501,"Pressure ulcer of unspecified ankle, stage 1"
-516,DRG28503,L89502,"Pressure ulcer of unspecified ankle, stage 2"
-517,DRG28503,L89503,"Pressure ulcer of unspecified ankle, stage 3"
-518,DRG28503,L89504,"Pressure ulcer of unspecified ankle, stage 4"
-519,DRG28503,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
-520,DRG28503,L89510,"Pressure ulcer of right ankle, unstageable"
-521,DRG28503,L89511,"Pressure ulcer of right ankle, stage 1"
-522,DRG28503,L89512,"Pressure ulcer of right ankle, stage 2"
-523,DRG28503,L89513,"Pressure ulcer of right ankle, stage 3"
-524,DRG28503,L89514,"Pressure ulcer of right ankle, stage 4"
-525,DRG28503,L89519,"Pressure ulcer of right ankle, unspecified stage"
-526,DRG28503,L89520,"Pressure ulcer of left ankle, unstageable"
-527,DRG28503,L89521,"Pressure ulcer of left ankle, stage 1"
-528,DRG28503,L89522,"Pressure ulcer of left ankle, stage 2"
-529,DRG28503,L89523,"Pressure ulcer of left ankle, stage 3"
-530,DRG28503,L89524,"Pressure ulcer of left ankle, stage 4"
-531,DRG28503,L89529,"Pressure ulcer of left ankle, unspecified stage"
-532,DRG28503,L89600,"Pressure ulcer of unspecified heel, unstageable"
-533,DRG28503,L89601,"Pressure ulcer of unspecified heel, stage 1"
-534,DRG28503,L89602,"Pressure ulcer of unspecified heel, stage 2"
-535,DRG28503,L89603,"Pressure ulcer of unspecified heel, stage 3"
-536,DRG28503,L89604,"Pressure ulcer of unspecified heel, stage 4"
-537,DRG28503,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
-538,DRG28503,L89610,"Pressure ulcer of right heel, unstageable"
-539,DRG28503,L89611,"Pressure ulcer of right heel, stage 1"
-540,DRG28503,L89612,"Pressure ulcer of right heel, stage 2"
-541,DRG28503,L89613,"Pressure ulcer of right heel, stage 3"
-542,DRG28503,L89614,"Pressure ulcer of right heel, stage 4"
-543,DRG28503,L89620,"Pressure ulcer of left heel, unstageable"
-544,DRG28503,L89621,"Pressure ulcer of left heel, stage 1"
-545,DRG28503,L89622,"Pressure ulcer of left heel, stage 2"
-546,DRG28503,L89623,"Pressure ulcer of left heel, stage 3"
-547,DRG28503,L89624,"Pressure ulcer of left heel, stage 4"
-548,DRG28503,L89629,"Pressure ulcer of left heel, unspecified stage"
-549,DRG28503,L89810,"Pressure ulcer of head, unstageable"
-550,DRG28503,L89811,"Pressure ulcer of head, stage 1"
-551,DRG28503,L89812,"Pressure ulcer of head, stage 2"
-552,DRG28503,L89813,"Pressure ulcer of head, stage 3"
-553,DRG28503,L89814,"Pressure ulcer of head, stage 4"
-554,DRG28503,L89819,"Pressure ulcer of head, unspecified stage"
-555,DRG28503,L89890,"Pressure ulcer of other site, unstageable"
-556,DRG28503,L89891,"Pressure ulcer of other site, stage 1"
-557,DRG28503,L89892,"Pressure ulcer of other site, stage 2"
-558,DRG28503,L89893,"Pressure ulcer of other site, stage 3"
-559,DRG28503,L89894,"Pressure ulcer of other site, stage 4"
-560,DRG28503,L89899,"Pressure ulcer of other site, unspecified stage"
-561,DRG28503,L8990,"Pressure ulcer of unspecified site, unspecified stage"
-562,DRG28503,L8991,"Pressure ulcer of unspecified site, stage 1"
-563,DRG28503,L8992,"Pressure ulcer of unspecified site, stage 2"
-564,DRG28503,L8993,"Pressure ulcer of unspecified site, stage 3"
-565,DRG28503,L8994,"Pressure ulcer of unspecified site, stage 4"
-566,DRG28503,L8995,"Pressure ulcer of unspecified site, unstageable"
-567,DRG28503,L983,Eosinophilic cellulitis [Wells]
-568,DRG28503,N10,Acute tubulo-interstitial nephritis
-569,DRG28503,N179,"Acute kidney failure, unspecified"
-570,DRG28503,N390,"Urinary tract infection, site not specified"
-571,DRG28503,R570,Cardiogenic shock
-572,DRG28503,R571,Hypovolemic shock
-573,DRG28503,R578,Other shock
-574,DRG28503,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
-575,DRG28503,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
-576,DRG28503,R6520,Severe sepsis without septic shock
-577,DRG28503,R6521,Severe sepsis with septic shock
-580,DRG28503,0Y6C0Z1,"Detachment at Right Upper Leg, High, Open Approach"
-581,DRG28503,0Y6C0Z2,"Detachment at Right Upper Leg, Mid, Open Approach"
-582,DRG28503,0Y6C0Z3,"Detachment at Right Upper Leg, Low, Open Approach"
-583,DRG28503,0Y6D0Z1,"Detachment at Left Upper Leg, High, Open Approach"
-584,DRG28503,0Y6D0Z2,"Detachment at Left Upper Leg, Mid, Open Approach"
-585,DRG28503,0Y6D0Z3,"Detachment at Left Upper Leg, Low, Open Approach"
-586,DRG28503,0Y6F0ZZ,"Detachment at Right Knee Region, Open Approach"
-587,DRG28503,0Y6G0ZZ,"Detachment at Left Knee Region, Open Approach"
-588,DRG28503,0Y6H0Z1,"Detachment at Right Lower Leg, High, Open Approach"
-589,DRG28503,0Y6H0Z2,"Detachment at Right Lower Leg, Mid, Open Approach"
-590,DRG28503,0Y6H0Z3,"Detachment at Right Lower Leg, Low, Open Approach"
-591,DRG28503,0Y6J0Z1,"Detachment at Left Lower Leg, High, Open Approach"
-592,DRG28503,0Y6J0Z2,"Detachment at Left Lower Leg, Mid, Open Approach"
-593,DRG28503,0Y6J0Z3,"Detachment at Left Lower Leg, Low, Open Approach"
-594,DRG28503,0Y6M0Z0,"Detachment at Right Foot, Complete, Open Approach"
-595,DRG28503,0Y6M0Z4,"Detachment at Right Foot, Complete 1st Ray, Open Approach"
-596,DRG28503,0Y6M0Z5,"Detachment at Right Foot, Complete 2nd Ray, Open Approach"
-597,DRG28503,0Y6M0Z6,"Detachment at Right Foot, Complete 3rd Ray, Open Approach"
-598,DRG28503,0Y6M0Z7,"Detachment at Right Foot, Complete 4th Ray, Open Approach"
-599,DRG28503,0Y6M0Z8,"Detachment at Right Foot, Complete 5th Ray, Open Approach"
-600,DRG28503,0Y6M0Z9,"Detachment at Right Foot, Partial 1st Ray, Open Approach"
-601,DRG28503,0Y6M0ZB,"Detachment at Right Foot, Partial 2nd Ray, Open Approach"
-602,DRG28503,0Y6M0ZC,"Detachment at Right Foot, Partial 3rd Ray, Open Approach"
-603,DRG28503,0Y6M0ZD,"Detachment at Right Foot, Partial 4th Ray, Open Approach"
-604,DRG28503,0Y6M0ZF,"Detachment at Right Foot, Partial 5th Ray, Open Approach"
-605,DRG28503,0Y6N0Z0,"Detachment at Left Foot, Complete, Open Approach"
-606,DRG28503,0Y6N0Z4,"Detachment at Left Foot, Complete 1st Ray, Open Approach"
-607,DRG28503,0Y6N0Z5,"Detachment at Left Foot, Complete 2nd Ray, Open Approach"
-608,DRG28503,0Y6N0Z6,"Detachment at Left Foot, Complete 3rd Ray, Open Approach"
-609,DRG28503,0Y6N0Z7,"Detachment at Left Foot, Complete 4th Ray, Open Approach"
-610,DRG28503,0Y6N0Z8,"Detachment at Left Foot, Complete 5th Ray, Open Approach"
-611,DRG28503,0Y6N0Z9,"Detachment at Left Foot, Partial 1st Ray, Open Approach"
-612,DRG28503,0Y6N0ZB,"Detachment at Left Foot, Partial 2nd Ray, Open Approach"
-613,DRG28503,0Y6N0ZC,"Detachment at Left Foot, Partial 3rd Ray, Open Approach"
-614,DRG28503,0Y6N0ZD,"Detachment at Left Foot, Partial 4th Ray, Open Approach"
-615,DRG28503,0Y6N0ZF,"Detachment at Left Foot, Partial 5th Ray, Open Approach"
-616,DRG28503,0Y6P0Z0,"Detachment at Right 1st Toe, Complete, Open Approach"
-617,DRG28503,0Y6P0Z1,"Detachment at Right 1st Toe, High, Open Approach"
-618,DRG28503,0Y6P0Z2,"Detachment at Right 1st Toe, Mid, Open Approach"
-619,DRG28503,0Y6P0Z3,"Detachment at Right 1st Toe, Low, Open Approach"
-620,DRG28503,0Y6Q0Z0,"Detachment at Left 1st Toe, Complete, Open Approach"
-621,DRG28503,0Y6Q0Z1,"Detachment at Left 1st Toe, High, Open Approach"
-622,DRG28503,0Y6Q0Z2,"Detachment at Left 1st Toe, Mid, Open Approach"
-623,DRG28503,0Y6Q0Z3,"Detachment at Left 1st Toe, Low, Open Approach"
-624,DRG28503,0Y6R0Z0,"Detachment at Right 2nd Toe, Complete, Open Approach"
-625,DRG28503,0Y6R0Z1,"Detachment at Right 2nd Toe, High, Open Approach"
-626,DRG28503,0Y6R0Z2,"Detachment at Right 2nd Toe, Mid, Open Approach"
-627,DRG28503,0Y6R0Z3,"Detachment at Right 2nd Toe, Low, Open Approach"
-628,DRG28503,0Y6S0Z0,"Detachment at Left 2nd Toe, Complete, Open Approach"
-629,DRG28503,0Y6S0Z1,"Detachment at Left 2nd Toe, High, Open Approach"
-630,DRG28503,0Y6S0Z2,"Detachment at Left 2nd Toe, Mid, Open Approach"
-631,DRG28503,0Y6S0Z3,"Detachment at Left 2nd Toe, Low, Open Approach"
-632,DRG28503,0Y6T0Z0,"Detachment at Right 3rd Toe, Complete, Open Approach"
-633,DRG28503,0Y6T0Z1,"Detachment at Right 3rd Toe, High, Open Approach"
-634,DRG28503,0Y6T0Z2,"Detachment at Right 3rd Toe, Mid, Open Approach"
-635,DRG28503,0Y6T0Z3,"Detachment at Right 3rd Toe, Low, Open Approach"
-636,DRG28503,0Y6U0Z0,"Detachment at Left 3rd Toe, Complete, Open Approach"
-637,DRG28503,0Y6U0Z1,"Detachment at Left 3rd Toe, High, Open Approach"
-638,DRG28503,0Y6U0Z2,"Detachment at Left 3rd Toe, Mid, Open Approach"
-639,DRG28503,0Y6U0Z3,"Detachment at Left 3rd Toe, Low, Open Approach"
-640,DRG28503,0Y6V0Z0,"Detachment at Right 4th Toe, Complete, Open Approach"
-641,DRG28503,0Y6V0Z1,"Detachment at Right 4th Toe, High, Open Approach"
-642,DRG28503,0Y6V0Z2,"Detachment at Right 4th Toe, Mid, Open Approach"
-643,DRG28503,0Y6V0Z3,"Detachment at Right 4th Toe, Low, Open Approach"
-644,DRG28503,0Y6W0Z0,"Detachment at Left 4th Toe, Complete, Open Approach"
-645,DRG28503,0Y6W0Z1,"Detachment at Left 4th Toe, High, Open Approach"
-646,DRG28503,0Y6W0Z2,"Detachment at Left 4th Toe, Mid, Open Approach"
-647,DRG28503,0Y6W0Z3,"Detachment at Left 4th Toe, Low, Open Approach"
-648,DRG28503,0Y6X0Z0,"Detachment at Right 5th Toe, Complete, Open Approach"
-649,DRG28503,0Y6X0Z1,"Detachment at Right 5th Toe, High, Open Approach"
-650,DRG28503,0Y6X0Z2,"Detachment at Right 5th Toe, Mid, Open Approach"
-651,DRG28503,0Y6X0Z3,"Detachment at Right 5th Toe, Low, Open Approach"
-652,DRG28503,0Y6Y0Z0,"Detachment at Left 5th Toe, Complete, Open Approach"
-653,DRG28503,0Y6Y0Z1,"Detachment at Left 5th Toe, High, Open Approach"
-654,DRG28503,0Y6Y0Z2,"Detachment at Left 5th Toe, Mid, Open Approach"
-655,DRG28503,0Y6Y0Z3,"Detachment at Left 5th Toe, Low, Open Approach"
+DRG,CM-PCS,en
+DRG28503,E0800,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+DRG28503,E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma
+DRG28503,E0810,Diabetes mellitus due to underlying condition with ketoacidosis without coma
+DRG28503,E08641,Diabetes mellitus due to underlying condition with hypoglycemia with coma
+DRG28503,E08649,Diabetes mellitus due to underlying condition with hypoglycemia without coma
+DRG28503,E0865,Diabetes mellitus due to underlying condition with hyperglycemia
+DRG28503,E0821,Diabetes mellitus due to underlying condition with diabetic nephropathy
+DRG28503,E0822,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+DRG28503,E08621,Diabetes mellitus due to underlying condition with diabetic arthropathy
+DRG28503,E08610,Diabetes mellitus due to underlying condition with diabetic neuropathic arthropathy
+DRG28503,E088,Diabetes mellitus due to underlying condition with unspecified complications
+DRG28503,E0900,Drug or chemical induced diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+DRG28503,E0901,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma
+DRG28503,E09641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma
+DRG28503,E0911,Drug or chemical induced diabetes mellitus with ketoacidosis with coma
+DRG28503,E09649,Drug or chemical induced diabetes mellitus with hypoglycemia without coma
+DRG28503,E0965,Drug or chemical induced diabetes mellitus with hyperglycemia
+DRG28503,E09620,Drug or chemical induced diabetes mellitus with diabetic dermatitis
+DRG28503,E098,Drug or chemical induced diabetes mellitus with unspecified complications
+DRG28503,E09610,Drug or chemical induced diabetes mellitus with diabetic neuropathic arthropathy
+DRG28503,E1010,Type 1 diabetes mellitus with ketoacidosis without coma
+DRG28503,E1011,Type 1 diabetes mellitus with ketoacidosis with coma
+DRG28503,E10618,Type 1 diabetes mellitus with other diabetic arthropathy
+DRG28503,E10620,Type 1 diabetes mellitus with diabetic dermatitis
+DRG28503,E10621,Type 1 diabetes mellitus with foot ulcer
+DRG28503,E10622,Type 1 diabetes mellitus with other skin ulcer
+DRG28503,E10628,Type 1 diabetes mellitus with other skin complications
+DRG28503,E10630,Type 1 diabetes mellitus with periodontal disease
+DRG28503,E10638,Type 1 diabetes mellitus with other oral complications
+DRG28503,E10641,Type 1 diabetes mellitus with hypoglycemia with coma
+DRG28503,E10649,Type 1 diabetes mellitus with hypoglycemia without coma
+DRG28503,E1065,Type 1 diabetes mellitus with hyperglycemia
+DRG28503,E1069,Type 1 diabetes mellitus with other specified complication
+DRG28503,E108,Type 1 diabetes mellitus with unspecified complications
+DRG28503,E109,Type 1 diabetes mellitus without complications
+DRG28503,E1100,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+DRG28503,E1101,Type 2 diabetes mellitus with hyperosmolarity with coma
+DRG28503,E11610,Type 2 diabetes mellitus with diabetic neuropathic arthropathy
+DRG28503,E11618,Type 2 diabetes mellitus with other diabetic arthropathy
+DRG28503,E11620,Type 2 diabetes mellitus with diabetic dermatitis
+DRG28503,E11621,Type 2 diabetes mellitus with foot ulcer
+DRG28503,E11622,Type 2 diabetes mellitus with other skin ulcer
+DRG28503,E11628,Type 2 diabetes mellitus with other skin complications
+DRG28503,E11630,Type 2 diabetes mellitus with periodontal disease
+DRG28503,E11638,Type 2 diabetes mellitus with other oral complications
+DRG28503,E11641,Type 2 diabetes mellitus with hypoglycemia with coma
+DRG28503,E11649,Type 2 diabetes mellitus with hypoglycemia without coma
+DRG28503,E1165,Type 2 diabetes mellitus with hyperglycemia
+DRG28503,E1169,Type 2 diabetes mellitus with other specified complication
+DRG28503,E118,Type 2 diabetes mellitus with unspecified complications
+DRG28503,E119,Type 2 diabetes mellitus without complications
+DRG28503,E1300,Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+DRG28503,E1301,Other specified diabetes mellitus with hyperosmolarity with coma
+DRG28503,E1310,Other specified diabetes mellitus with ketoacidosis without coma
+DRG28503,E1311,Other specified diabetes mellitus with ketoacidosis with coma
+DRG28503,E13618,Other specified diabetes mellitus with other diabetic arthropathy
+DRG28503,E13620,Other specified diabetes mellitus with diabetic dermatitis
+DRG28503,E13621,Other specified diabetes mellitus with foot ulcer
+DRG28503,E13622,Other specified diabetes mellitus with other skin ulcer
+DRG28503,E13628,Other specified diabetes mellitus with other skin complications
+DRG28503,E13630,Other specified diabetes mellitus with periodontal disease
+DRG28503,E13638,Other specified diabetes mellitus with other oral complications
+DRG28503,E13649,Other specified diabetes mellitus with hypoglycemia without coma
+DRG28503,E1365,Other specified diabetes mellitus with hyperglycemia
+DRG28503,E1369,Other specified diabetes mellitus with other specified complication
+DRG28503,E13641,Other specified diabetes mellitus with hypoglycemia with coma
+DRG28503,E138,Other specified diabetes mellitus with unspecified complications
+DRG28503,E139,Other specified diabetes mellitus without complications
+DRG28503,R81,Glycosuria
+DRG28503,A021,Salmonella sepsis
+DRG28503,A221,Pulmonary anthrax
+DRG28503,A3791,"Whooping cough, unspecified species with pneumonia"
+DRG28503,A400,"Sepsis due to streptococcus, group A"
+DRG28503,A401,"Sepsis due to streptococcus, group B"
+DRG28503,A403,Sepsis due to Streptococcus pneumoniae
+DRG28503,A408,Other streptococcal sepsis
+DRG28503,A409,"Streptococcal sepsis, unspecified"
+DRG28503,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG28503,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG28503,A411,Sepsis due to other specified staphylococcus
+DRG28503,A412,Sepsis due to unspecified staphylococcus
+DRG28503,A413,Sepsis due to Hemophilus influenzae
+DRG28503,A414,Sepsis due to anaerobes
+DRG28503,A4150,"Gram-negative sepsis, unspecified"
+DRG28503,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG28503,A4152,Sepsis due to Pseudomonas
+DRG28503,A4153,Sepsis due to Serratia
+DRG28503,A4159,Other Gram-negative sepsis
+DRG28503,A4181,Sepsis due to Enterococcus
+DRG28503,A4189,Other specified sepsis
+DRG28503,A419,"Sepsis, unspecified organism"
+DRG28503,A481,Legionnaires' disease
+DRG28503,B250,Cytomegaloviral pneumonitis
+DRG28503,B252,Cytomegaloviral pancreatitis
+DRG28503,B440,Invasive pulmonary aspergillosis
+DRG28503,G450,Vertebro-basilar artery syndrome
+DRG28503,G451,Carotid artery syndrome (hemispheric)
+DRG28503,G452,Multiple and bilateral precerebral artery syndromes
+DRG28503,G454,Transient global amnesia
+DRG28503,G458,Other transient cerebral ischemic attacks and related syndromes
+DRG28503,G459,"Transient cerebral ischemic attack, unspecified"
+DRG28503,G460,Middle cerebral artery syndrome
+DRG28503,G461,Anterior cerebral artery syndrome
+DRG28503,G462,Posterior cerebral artery syndrome
+DRG28503,G463,Brain stem stroke syndrome
+DRG28503,G464,Cerebellar stroke syndrome
+DRG28503,G465,Pure motor lacunar syndrome
+DRG28503,G466,Pure sensory lacunar syndrome
+DRG28503,G467,Other lacunar syndromes
+DRG28503,G468,Other vascular syndromes of brain in cerebrovascular diseases
+DRG28503,H49811,"Kearns-Sayre syndrome, right eye"
+DRG28503,H49812,"Kearns-Sayre syndrome, left eye"
+DRG28503,H49813,"Kearns-Sayre syndrome, bilateral"
+DRG28503,I110,Hypertensive heart disease with heart failure
+DRG28503,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+DRG28503,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
+DRG28503,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+DRG28503,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+DRG28503,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
+DRG28503,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+DRG28503,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+DRG28503,I2129,ST elevation (STEMI) myocardial infarction involving other sites
+DRG28503,I213,ST elevation (STEMI) myocardial infarction of unspecified site
+DRG28503,I214,Non-ST elevation (NSTEMI) myocardial infarction
+DRG28503,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+DRG28503,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+DRG28503,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+DRG28503,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+DRG28503,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+DRG28503,I501,Left ventricular failure
+DRG28503,I5020,Unspecified systolic (congestive) heart failure
+DRG28503,I5021,Acute systolic (congestive) heart failure
+DRG28503,I5022,Chronic systolic (congestive) heart failure
+DRG28503,I5023,Acute on chronic systolic (congestive) heart failure
+DRG28503,I5030,Unspecified diastolic (congestive) heart failure
+DRG28503,I5031,Acute diastolic (congestive) heart failure
+DRG28503,I5032,Chronic diastolic (congestive) heart failure
+DRG28503,I5033,Acute on chronic diastolic (congestive) heart failure
+DRG28503,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+DRG28503,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+DRG28503,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG28503,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG28503,I509,"Heart failure, unspecified"
+DRG28503,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
+DRG28503,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
+DRG28503,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
+DRG28503,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
+DRG28503,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
+DRG28503,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
+DRG28503,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
+DRG28503,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
+DRG28503,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
+DRG28503,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
+DRG28503,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
+DRG28503,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
+DRG28503,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
+DRG28503,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
+DRG28503,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
+DRG28503,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
+DRG28503,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
+DRG28503,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
+DRG28503,I608,Other nontraumatic subarachnoid hemorrhage
+DRG28503,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
+DRG28503,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+DRG28503,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+DRG28503,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
+DRG28503,I613,Nontraumatic intracerebral hemorrhage in brain stem
+DRG28503,I614,Nontraumatic intracerebral hemorrhage in cerebellum
+DRG28503,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
+DRG28503,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
+DRG28503,I618,Other nontraumatic intracerebral hemorrhage
+DRG28503,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
+DRG28503,I6200,"Nontraumatic subdural hemorrhage, unspecified"
+DRG28503,I6201,Nontraumatic acute subdural hemorrhage
+DRG28503,I6202,Nontraumatic subacute subdural hemorrhage
+DRG28503,I6203,Nontraumatic chronic subdural hemorrhage
+DRG28503,I621,Nontraumatic extradural hemorrhage
+DRG28503,I629,"Nontraumatic intracranial hemorrhage, unspecified"
+DRG28503,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
+DRG28503,I63011,Cerebral infarction due to thrombosis of right vertebral artery
+DRG28503,I63012,Cerebral infarction due to thrombosis of left vertebral artery
+DRG28503,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
+DRG28503,I6302,Cerebral infarction due to thrombosis of basilar artery
+DRG28503,I63031,Cerebral infarction due to thrombosis of right carotid artery
+DRG28503,I63032,Cerebral infarction due to thrombosis of left carotid artery
+DRG28503,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
+DRG28503,I6309,Cerebral infarction due to thrombosis of other precerebral artery
+DRG28503,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
+DRG28503,I63111,Cerebral infarction due to embolism of right vertebral artery
+DRG28503,I63112,Cerebral infarction due to embolism of left vertebral artery
+DRG28503,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
+DRG28503,I6312,Cerebral infarction due to embolism of basilar artery
+DRG28503,I63131,Cerebral infarction due to embolism of right carotid artery
+DRG28503,I63132,Cerebral infarction due to embolism of left carotid artery
+DRG28503,I63139,Cerebral infarction due to embolism of unspecified carotid artery
+DRG28503,I6319,Cerebral infarction due to embolism of other precerebral artery
+DRG28503,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
+DRG28503,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+DRG28503,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+DRG28503,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
+DRG28503,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
+DRG28503,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+DRG28503,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
+DRG28503,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
+DRG28503,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+DRG28503,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
+DRG28503,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
+DRG28503,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
+DRG28503,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
+DRG28503,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
+DRG28503,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
+DRG28503,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+DRG28503,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
+DRG28503,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
+DRG28503,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
+DRG28503,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
+DRG28503,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
+DRG28503,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
+DRG28503,I6339,Cerebral infarction due to thrombosis of other cerebral artery
+DRG28503,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
+DRG28503,I63411,Cerebral infarction due to embolism of right middle cerebral artery
+DRG28503,I63412,Cerebral infarction due to embolism of left middle cerebral artery
+DRG28503,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
+DRG28503,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
+DRG28503,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
+DRG28503,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
+DRG28503,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
+DRG28503,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
+DRG28503,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
+DRG28503,I63441,Cerebral infarction due to embolism of right cerebellar artery
+DRG28503,I63442,Cerebral infarction due to embolism of left cerebellar artery
+DRG28503,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
+DRG28503,I6349,Cerebral infarction due to embolism of other cerebral artery
+DRG28503,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+DRG28503,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
+DRG28503,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+DRG28503,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+DRG28503,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
+DRG28503,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
+DRG28503,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
+DRG28503,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
+DRG28503,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
+DRG28503,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
+DRG28503,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
+DRG28503,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
+DRG28503,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
+DRG28503,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+DRG28503,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+DRG28503,I638,Other cerebral infarction
+DRG28503,I639,"Cerebral infarction, unspecified"
+DRG28503,I6501,Occlusion and stenosis of right vertebral artery
+DRG28503,I6502,Occlusion and stenosis of left vertebral artery
+DRG28503,I6503,Occlusion and stenosis of bilateral vertebral arteries
+DRG28503,I6509,Occlusion and stenosis of unspecified vertebral artery
+DRG28503,I651,Occlusion and stenosis of basilar artery
+DRG28503,I6521,Occlusion and stenosis of right carotid artery
+DRG28503,I6522,Occlusion and stenosis of left carotid artery
+DRG28503,I6523,Occlusion and stenosis of bilateral carotid arteries
+DRG28503,I6529,Occlusion and stenosis of unspecified carotid artery
+DRG28503,I658,Occlusion and stenosis of other precerebral arteries
+DRG28503,I659,Occlusion and stenosis of unspecified precerebral artery
+DRG28503,I6601,Occlusion and stenosis of right middle cerebral artery
+DRG28503,I6602,Occlusion and stenosis of left middle cerebral artery
+DRG28503,I6603,Occlusion and stenosis of bilateral middle cerebral arteries
+DRG28503,I6609,Occlusion and stenosis of unspecified middle cerebral artery
+DRG28503,I6611,Occlusion and stenosis of right anterior cerebral artery
+DRG28503,I6612,Occlusion and stenosis of left anterior cerebral artery
+DRG28503,I6613,Occlusion and stenosis of bilateral anterior cerebral arteries
+DRG28503,I6619,Occlusion and stenosis of unspecified anterior cerebral artery
+DRG28503,I6621,Occlusion and stenosis of right posterior cerebral artery
+DRG28503,I6622,Occlusion and stenosis of left posterior cerebral artery
+DRG28503,I6623,Occlusion and stenosis of bilateral posterior cerebral arteries
+DRG28503,I6629,Occlusion and stenosis of unspecified posterior cerebral artery
+DRG28503,I663,Occlusion and stenosis of cerebellar arteries
+DRG28503,I668,Occlusion and stenosis of other cerebral arteries
+DRG28503,I669,Occlusion and stenosis of unspecified cerebral artery
+DRG28503,I670,"Dissection of cerebral arteries, nonruptured"
+DRG28503,I671,"Cerebral aneurysm, nonruptured"
+DRG28503,I672,Cerebral atherosclerosis
+DRG28503,I674,Hypertensive encephalopathy
+DRG28503,I675,Moyamoya disease
+DRG28503,I676,Nonpyogenic thrombosis of intracranial venous system
+DRG28503,I677,"Cerebral arteritis, not elsewhere classified"
+DRG28503,I6781,Acute cerebrovascular insufficiency
+DRG28503,I6782,Cerebral ischemia
+DRG28503,I67841,Reversible cerebrovascular vasoconstriction syndrome
+DRG28503,I67848,Other cerebrovascular vasospasm and vasoconstriction
+DRG28503,I6789,Other cerebrovascular disease
+DRG28503,I679,"Cerebrovascular disease, unspecified"
+DRG28503,I680,Cerebral amyloid angiopathy
+DRG28503,I682,Cerebral arteritis in other diseases classified elsewhere
+DRG28503,I688,Other cerebrovascular disorders in diseases classified elsewhere
+DRG28503,J09X1,Influenza due to identified novel influenza A virus with pneumonia
+DRG28503,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
+DRG28503,J1008,Influenza due to other identified influenza virus with other specified pneumonia
+DRG28503,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+DRG28503,J1108,Influenza due to unidentified influenza virus with specified pneumonia
+DRG28503,J120,Adenoviral pneumonia
+DRG28503,J121,Respiratory syncytial virus pneumonia
+DRG28503,J122,Parainfluenza virus pneumonia
+DRG28503,J123,Human metapneumovirus pneumonia
+DRG28503,J1281,Pneumonia due to SARS-associated coronavirus
+DRG28503,J1289,Other viral pneumonia
+DRG28503,J129,"Viral pneumonia, unspecified"
+DRG28503,J13,Pneumonia due to Streptococcus pneumoniae
+DRG28503,J14,Pneumonia due to Hemophilus influenzae
+DRG28503,J150,Pneumonia due to Klebsiella pneumoniae
+DRG28503,J151,Pneumonia due to Pseudomonas
+DRG28503,J1520,"Pneumonia due to staphylococcus, unspecified"
+DRG28503,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
+DRG28503,J1529,Pneumonia due to other staphylococcus
+DRG28503,J153,"Pneumonia due to streptococcus, group B"
+DRG28503,J154,Pneumonia due to other streptococci
+DRG28503,J155,Pneumonia due to Escherichia coli
+DRG28503,J156,Pneumonia due to other aerobic Gram-negative bacteria
+DRG28503,J157,Pneumonia due to Mycoplasma pneumoniae
+DRG28503,J158,Pneumonia due to other specified bacteria
+DRG28503,J159,Unspecified bacterial pneumonia
+DRG28503,J160,Chlamydial pneumonia
+DRG28503,J168,Pneumonia due to other specified infectious organisms
+DRG28503,J17,Pneumonia in diseases classified elsewhere
+DRG28503,J180,"Bronchopneumonia, unspecified organism"
+DRG28503,J181,"Lobar pneumonia, unspecified organism"
+DRG28503,J188,"Other pneumonia, unspecified organism"
+DRG28503,J189,"Pneumonia, unspecified organism"
+DRG28503,J80,Acute respiratory distress syndrome
+DRG28503,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG28503,J9601,Acute respiratory failure with hypoxia
+DRG28503,J9602,Acute respiratory failure with hypercapnia
+DRG28503,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG28503,J9611,Chronic respiratory failure with hypoxia
+DRG28503,J9612,Chronic respiratory failure with hypercapnia
+DRG28503,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG28503,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG28503,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG28503,K122,Cellulitis and abscess of mouth
+DRG28503,K254,Chronic or unspecified gastric ulcer with hemorrhage
+DRG28503,K264,Chronic or unspecified duodenal ulcer with hemorrhage
+DRG28503,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
+DRG28503,K5660,Unspecified intestinal obstruction
+DRG28503,K750,Abscess of liver
+DRG28503,K810,Acute cholecystitis
+DRG28503,K850,Idiopathic acute pancreatitis
+DRG28503,K851,Biliary acute pancreatitis
+DRG28503,K852,Alcohol induced acute pancreatitis
+DRG28503,K853,Drug induced acute pancreatitis
+DRG28503,K858,Other acute pancreatitis
+DRG28503,K859,"Acute pancreatitis, unspecified"
+DRG28503,L0201,Cutaneous abscess of face
+DRG28503,L0211,Cutaneous abscess of neck
+DRG28503,L02211,Cutaneous abscess of abdominal wall
+DRG28503,L02212,"Cutaneous abscess of back [any part, except buttock]"
+DRG28503,L02213,Cutaneous abscess of chest wall
+DRG28503,L02214,Cutaneous abscess of groin
+DRG28503,L02215,Cutaneous abscess of perineum
+DRG28503,L02216,Cutaneous abscess of umbilicus
+DRG28503,L02219,"Cutaneous abscess of trunk, unspecified"
+DRG28503,L0231,Cutaneous abscess of buttock
+DRG28503,L02411,Cutaneous abscess of right axilla
+DRG28503,L02412,Cutaneous abscess of left axilla
+DRG28503,L02413,Cutaneous abscess of right upper limb
+DRG28503,L02414,Cutaneous abscess of left upper limb
+DRG28503,L02415,Cutaneous abscess of right lower limb
+DRG28503,L02416,Cutaneous abscess of left lower limb
+DRG28503,L02419,"Cutaneous abscess of limb, unspecified"
+DRG28503,L02511,Cutaneous abscess of right hand
+DRG28503,L02512,Cutaneous abscess of left hand
+DRG28503,L02519,Cutaneous abscess of unspecified hand
+DRG28503,L02611,Cutaneous abscess of right foot
+DRG28503,L02612,Cutaneous abscess of left foot
+DRG28503,L02619,Cutaneous abscess of unspecified foot
+DRG28503,L02811,"Cutaneous abscess of head [any part, except face]"
+DRG28503,L02818,Cutaneous abscess of other sites
+DRG28503,L0291,"Cutaneous abscess, unspecified"
+DRG28503,L03111,Cellulitis of right axilla
+DRG28503,L03112,Cellulitis of left axilla
+DRG28503,L03113,Cellulitis of right upper limb
+DRG28503,L03114,Cellulitis of left upper limb
+DRG28503,L03115,Cellulitis of right lower limb
+DRG28503,L03116,Cellulitis of left lower limb
+DRG28503,L03119,Cellulitis of unspecified part of limb
+DRG28503,L03121,Acute lymphangitis of right axilla
+DRG28503,L03122,Acute lymphangitis of left axilla
+DRG28503,L03123,Acute lymphangitis of right upper limb
+DRG28503,L03124,Acute lymphangitis of left upper limb
+DRG28503,L03125,Acute lymphangitis of right lower limb
+DRG28503,L03126,Acute lymphangitis of left lower limb
+DRG28503,L03129,Acute lymphangitis of unspecified part of limb
+DRG28503,L03211,Cellulitis of face
+DRG28503,L03212,Acute lymphangitis of face
+DRG28503,L03221,Cellulitis of neck
+DRG28503,L03222,Acute lymphangitis of neck
+DRG28503,L03311,Cellulitis of abdominal wall
+DRG28503,L03312,Cellulitis of back [any part except buttock]
+DRG28503,L03313,Cellulitis of chest wall
+DRG28503,L03314,Cellulitis of groin
+DRG28503,L03315,Cellulitis of perineum
+DRG28503,L03316,Cellulitis of umbilicus
+DRG28503,L03317,Cellulitis of buttock
+DRG28503,L03319,"Cellulitis of trunk, unspecified"
+DRG28503,L03321,Acute lymphangitis of abdominal wall
+DRG28503,L03322,Acute lymphangitis of back [any part except buttock]
+DRG28503,L03323,Acute lymphangitis of chest wall
+DRG28503,L03324,Acute lymphangitis of groin
+DRG28503,L03325,Acute lymphangitis of perineum
+DRG28503,L03326,Acute lymphangitis of umbilicus
+DRG28503,L03327,Acute lymphangitis of buttock
+DRG28503,L03329,"Acute lymphangitis of trunk, unspecified"
+DRG28503,L03811,"Cellulitis of head [any part, except face]"
+DRG28503,L03818,Cellulitis of other sites
+DRG28503,L03891,"Acute lymphangitis of head [any part, except face]"
+DRG28503,L03898,Acute lymphangitis of other sites
+DRG28503,L0390,"Cellulitis, unspecified"
+DRG28503,L0391,"Acute lymphangitis, unspecified"
+DRG28503,L89000,"Pressure ulcer of unspecified elbow, unstageable"
+DRG28503,L89001,"Pressure ulcer of unspecified elbow, stage 1"
+DRG28503,L89002,"Pressure ulcer of unspecified elbow, stage 2"
+DRG28503,L89003,"Pressure ulcer of unspecified elbow, stage 3"
+DRG28503,L89004,"Pressure ulcer of unspecified elbow, stage 4"
+DRG28503,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
+DRG28503,L89010,"Pressure ulcer of right elbow, unstageable"
+DRG28503,L89011,"Pressure ulcer of right elbow, stage 1"
+DRG28503,L89012,"Pressure ulcer of right elbow, stage 2"
+DRG28503,L89013,"Pressure ulcer of right elbow, stage 3"
+DRG28503,L89014,"Pressure ulcer of right elbow, stage 4"
+DRG28503,L89020,"Pressure ulcer of left elbow, unstageable"
+DRG28503,L89021,"Pressure ulcer of left elbow, stage 1"
+DRG28503,L89022,"Pressure ulcer of left elbow, stage 2"
+DRG28503,L89023,"Pressure ulcer of left elbow, stage 3"
+DRG28503,L89024,"Pressure ulcer of left elbow, stage 4"
+DRG28503,L89100,"Pressure ulcer of unspecified part of back, unstageable"
+DRG28503,L89101,"Pressure ulcer of unspecified part of back, stage 1"
+DRG28503,L89102,"Pressure ulcer of unspecified part of back, stage 2"
+DRG28503,L89103,"Pressure ulcer of unspecified part of back, stage 3"
+DRG28503,L89104,"Pressure ulcer of unspecified part of back, stage 4"
+DRG28503,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
+DRG28503,L89110,"Pressure ulcer of right upper back, unstageable"
+DRG28503,L89111,"Pressure ulcer of right upper back, stage 1"
+DRG28503,L89112,"Pressure ulcer of right upper back, stage 2"
+DRG28503,L89113,"Pressure ulcer of right upper back, stage 3"
+DRG28503,L89114,"Pressure ulcer of right upper back, stage 4"
+DRG28503,L89119,"Pressure ulcer of right upper back, unspecified stage"
+DRG28503,L89120,"Pressure ulcer of left upper back, unstageable"
+DRG28503,L89121,"Pressure ulcer of left upper back, stage 1"
+DRG28503,L89122,"Pressure ulcer of left upper back, stage 2"
+DRG28503,L89123,"Pressure ulcer of left upper back, stage 3"
+DRG28503,L89124,"Pressure ulcer of left upper back, stage 4"
+DRG28503,L89129,"Pressure ulcer of left upper back, unspecified stage"
+DRG28503,L89130,"Pressure ulcer of right lower back, unstageable"
+DRG28503,L89131,"Pressure ulcer of right lower back, stage 1"
+DRG28503,L89132,"Pressure ulcer of right lower back, stage 2"
+DRG28503,L89133,"Pressure ulcer of right lower back, stage 3"
+DRG28503,L89134,"Pressure ulcer of right lower back, stage 4"
+DRG28503,L89139,"Pressure ulcer of right lower back, unspecified stage"
+DRG28503,L89140,"Pressure ulcer of left lower back, unstageable"
+DRG28503,L89141,"Pressure ulcer of left lower back, stage 1"
+DRG28503,L89142,"Pressure ulcer of left lower back, stage 2"
+DRG28503,L89143,"Pressure ulcer of left lower back, stage 3"
+DRG28503,L89144,"Pressure ulcer of left lower back, stage 4"
+DRG28503,L89149,"Pressure ulcer of left lower back, unspecified stage"
+DRG28503,L89150,"Pressure ulcer of sacral region, unstageable"
+DRG28503,L89151,"Pressure ulcer of sacral region, stage 1"
+DRG28503,L89152,"Pressure ulcer of sacral region, stage 2"
+DRG28503,L89153,"Pressure ulcer of sacral region, stage 3"
+DRG28503,L89154,"Pressure ulcer of sacral region, stage 4"
+DRG28503,L89159,"Pressure ulcer of sacral region, unspecified stage"
+DRG28503,L89200,"Pressure ulcer of unspecified hip, unstageable"
+DRG28503,L89201,"Pressure ulcer of unspecified hip, stage 1"
+DRG28503,L89202,"Pressure ulcer of unspecified hip, stage 2"
+DRG28503,L89203,"Pressure ulcer of unspecified hip, stage 3"
+DRG28503,L89204,"Pressure ulcer of unspecified hip, stage 4"
+DRG28503,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
+DRG28503,L89210,"Pressure ulcer of right hip, unstageable"
+DRG28503,L89211,"Pressure ulcer of right hip, stage 1"
+DRG28503,L89212,"Pressure ulcer of right hip, stage 2"
+DRG28503,L89213,"Pressure ulcer of right hip, stage 3"
+DRG28503,L89214,"Pressure ulcer of right hip, stage 4"
+DRG28503,L89219,"Pressure ulcer of right hip, unspecified stage"
+DRG28503,L89220,"Pressure ulcer of left hip, unstageable"
+DRG28503,L89221,"Pressure ulcer of left hip, stage 1"
+DRG28503,L89222,"Pressure ulcer of left hip, stage 2"
+DRG28503,L89223,"Pressure ulcer of left hip, stage 3"
+DRG28503,L89224,"Pressure ulcer of left hip, stage 4"
+DRG28503,L89229,"Pressure ulcer of left hip, unspecified stage"
+DRG28503,L89300,"Pressure ulcer of unspecified buttock, unstageable"
+DRG28503,L89301,"Pressure ulcer of unspecified buttock, stage 1"
+DRG28503,L89302,"Pressure ulcer of unspecified buttock, stage 2"
+DRG28503,L89303,"Pressure ulcer of unspecified buttock, stage 3"
+DRG28503,L89304,"Pressure ulcer of unspecified buttock, stage 4"
+DRG28503,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
+DRG28503,L89310,"Pressure ulcer of right buttock, unstageable"
+DRG28503,L89311,"Pressure ulcer of right buttock, stage 1"
+DRG28503,L89312,"Pressure ulcer of right buttock, stage 2"
+DRG28503,L89313,"Pressure ulcer of right buttock, stage 3"
+DRG28503,L89314,"Pressure ulcer of right buttock, stage 4"
+DRG28503,L89319,"Pressure ulcer of right buttock, unspecified stage"
+DRG28503,L89320,"Pressure ulcer of left buttock, unstageable"
+DRG28503,L89321,"Pressure ulcer of left buttock, stage 1"
+DRG28503,L89322,"Pressure ulcer of left buttock, stage 2"
+DRG28503,L89323,"Pressure ulcer of left buttock, stage 3"
+DRG28503,L89324,"Pressure ulcer of left buttock, stage 4"
+DRG28503,L89329,"Pressure ulcer of left buttock, unspecified stage"
+DRG28503,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
+DRG28503,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
+DRG28503,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
+DRG28503,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
+DRG28503,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
+DRG28503,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
+DRG28503,L89500,"Pressure ulcer of unspecified ankle, unstageable"
+DRG28503,L89501,"Pressure ulcer of unspecified ankle, stage 1"
+DRG28503,L89502,"Pressure ulcer of unspecified ankle, stage 2"
+DRG28503,L89503,"Pressure ulcer of unspecified ankle, stage 3"
+DRG28503,L89504,"Pressure ulcer of unspecified ankle, stage 4"
+DRG28503,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
+DRG28503,L89510,"Pressure ulcer of right ankle, unstageable"
+DRG28503,L89511,"Pressure ulcer of right ankle, stage 1"
+DRG28503,L89512,"Pressure ulcer of right ankle, stage 2"
+DRG28503,L89513,"Pressure ulcer of right ankle, stage 3"
+DRG28503,L89514,"Pressure ulcer of right ankle, stage 4"
+DRG28503,L89519,"Pressure ulcer of right ankle, unspecified stage"
+DRG28503,L89520,"Pressure ulcer of left ankle, unstageable"
+DRG28503,L89521,"Pressure ulcer of left ankle, stage 1"
+DRG28503,L89522,"Pressure ulcer of left ankle, stage 2"
+DRG28503,L89523,"Pressure ulcer of left ankle, stage 3"
+DRG28503,L89524,"Pressure ulcer of left ankle, stage 4"
+DRG28503,L89529,"Pressure ulcer of left ankle, unspecified stage"
+DRG28503,L89600,"Pressure ulcer of unspecified heel, unstageable"
+DRG28503,L89601,"Pressure ulcer of unspecified heel, stage 1"
+DRG28503,L89602,"Pressure ulcer of unspecified heel, stage 2"
+DRG28503,L89603,"Pressure ulcer of unspecified heel, stage 3"
+DRG28503,L89604,"Pressure ulcer of unspecified heel, stage 4"
+DRG28503,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
+DRG28503,L89610,"Pressure ulcer of right heel, unstageable"
+DRG28503,L89611,"Pressure ulcer of right heel, stage 1"
+DRG28503,L89612,"Pressure ulcer of right heel, stage 2"
+DRG28503,L89613,"Pressure ulcer of right heel, stage 3"
+DRG28503,L89614,"Pressure ulcer of right heel, stage 4"
+DRG28503,L89620,"Pressure ulcer of left heel, unstageable"
+DRG28503,L89621,"Pressure ulcer of left heel, stage 1"
+DRG28503,L89622,"Pressure ulcer of left heel, stage 2"
+DRG28503,L89623,"Pressure ulcer of left heel, stage 3"
+DRG28503,L89624,"Pressure ulcer of left heel, stage 4"
+DRG28503,L89629,"Pressure ulcer of left heel, unspecified stage"
+DRG28503,L89810,"Pressure ulcer of head, unstageable"
+DRG28503,L89811,"Pressure ulcer of head, stage 1"
+DRG28503,L89812,"Pressure ulcer of head, stage 2"
+DRG28503,L89813,"Pressure ulcer of head, stage 3"
+DRG28503,L89814,"Pressure ulcer of head, stage 4"
+DRG28503,L89819,"Pressure ulcer of head, unspecified stage"
+DRG28503,L89890,"Pressure ulcer of other site, unstageable"
+DRG28503,L89891,"Pressure ulcer of other site, stage 1"
+DRG28503,L89892,"Pressure ulcer of other site, stage 2"
+DRG28503,L89893,"Pressure ulcer of other site, stage 3"
+DRG28503,L89894,"Pressure ulcer of other site, stage 4"
+DRG28503,L89899,"Pressure ulcer of other site, unspecified stage"
+DRG28503,L8990,"Pressure ulcer of unspecified site, unspecified stage"
+DRG28503,L8991,"Pressure ulcer of unspecified site, stage 1"
+DRG28503,L8992,"Pressure ulcer of unspecified site, stage 2"
+DRG28503,L8993,"Pressure ulcer of unspecified site, stage 3"
+DRG28503,L8994,"Pressure ulcer of unspecified site, stage 4"
+DRG28503,L8995,"Pressure ulcer of unspecified site, unstageable"
+DRG28503,L983,Eosinophilic cellulitis [Wells]
+DRG28503,N10,Acute tubulo-interstitial nephritis
+DRG28503,N179,"Acute kidney failure, unspecified"
+DRG28503,N390,"Urinary tract infection, site not specified"
+DRG28503,R570,Cardiogenic shock
+DRG28503,R571,Hypovolemic shock
+DRG28503,R578,Other shock
+DRG28503,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG28503,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG28503,R6520,Severe sepsis without septic shock
+DRG28503,R6521,Severe sepsis with septic shock
+DRG28503,0Y6C0Z1,"Detachment at Right Upper Leg, High, Open Approach"
+DRG28503,0Y6C0Z2,"Detachment at Right Upper Leg, Mid, Open Approach"
+DRG28503,0Y6C0Z3,"Detachment at Right Upper Leg, Low, Open Approach"
+DRG28503,0Y6D0Z1,"Detachment at Left Upper Leg, High, Open Approach"
+DRG28503,0Y6D0Z2,"Detachment at Left Upper Leg, Mid, Open Approach"
+DRG28503,0Y6D0Z3,"Detachment at Left Upper Leg, Low, Open Approach"
+DRG28503,0Y6F0ZZ,"Detachment at Right Knee Region, Open Approach"
+DRG28503,0Y6G0ZZ,"Detachment at Left Knee Region, Open Approach"
+DRG28503,0Y6H0Z1,"Detachment at Right Lower Leg, High, Open Approach"
+DRG28503,0Y6H0Z2,"Detachment at Right Lower Leg, Mid, Open Approach"
+DRG28503,0Y6H0Z3,"Detachment at Right Lower Leg, Low, Open Approach"
+DRG28503,0Y6J0Z1,"Detachment at Left Lower Leg, High, Open Approach"
+DRG28503,0Y6J0Z2,"Detachment at Left Lower Leg, Mid, Open Approach"
+DRG28503,0Y6J0Z3,"Detachment at Left Lower Leg, Low, Open Approach"
+DRG28503,0Y6M0Z0,"Detachment at Right Foot, Complete, Open Approach"
+DRG28503,0Y6M0Z4,"Detachment at Right Foot, Complete 1st Ray, Open Approach"
+DRG28503,0Y6M0Z5,"Detachment at Right Foot, Complete 2nd Ray, Open Approach"
+DRG28503,0Y6M0Z6,"Detachment at Right Foot, Complete 3rd Ray, Open Approach"
+DRG28503,0Y6M0Z7,"Detachment at Right Foot, Complete 4th Ray, Open Approach"
+DRG28503,0Y6M0Z8,"Detachment at Right Foot, Complete 5th Ray, Open Approach"
+DRG28503,0Y6M0Z9,"Detachment at Right Foot, Partial 1st Ray, Open Approach"
+DRG28503,0Y6M0ZB,"Detachment at Right Foot, Partial 2nd Ray, Open Approach"
+DRG28503,0Y6M0ZC,"Detachment at Right Foot, Partial 3rd Ray, Open Approach"
+DRG28503,0Y6M0ZD,"Detachment at Right Foot, Partial 4th Ray, Open Approach"
+DRG28503,0Y6M0ZF,"Detachment at Right Foot, Partial 5th Ray, Open Approach"
+DRG28503,0Y6N0Z0,"Detachment at Left Foot, Complete, Open Approach"
+DRG28503,0Y6N0Z4,"Detachment at Left Foot, Complete 1st Ray, Open Approach"
+DRG28503,0Y6N0Z5,"Detachment at Left Foot, Complete 2nd Ray, Open Approach"
+DRG28503,0Y6N0Z6,"Detachment at Left Foot, Complete 3rd Ray, Open Approach"
+DRG28503,0Y6N0Z7,"Detachment at Left Foot, Complete 4th Ray, Open Approach"
+DRG28503,0Y6N0Z8,"Detachment at Left Foot, Complete 5th Ray, Open Approach"
+DRG28503,0Y6N0Z9,"Detachment at Left Foot, Partial 1st Ray, Open Approach"
+DRG28503,0Y6N0ZB,"Detachment at Left Foot, Partial 2nd Ray, Open Approach"
+DRG28503,0Y6N0ZC,"Detachment at Left Foot, Partial 3rd Ray, Open Approach"
+DRG28503,0Y6N0ZD,"Detachment at Left Foot, Partial 4th Ray, Open Approach"
+DRG28503,0Y6N0ZF,"Detachment at Left Foot, Partial 5th Ray, Open Approach"
+DRG28503,0Y6P0Z0,"Detachment at Right 1st Toe, Complete, Open Approach"
+DRG28503,0Y6P0Z1,"Detachment at Right 1st Toe, High, Open Approach"
+DRG28503,0Y6P0Z2,"Detachment at Right 1st Toe, Mid, Open Approach"
+DRG28503,0Y6P0Z3,"Detachment at Right 1st Toe, Low, Open Approach"
+DRG28503,0Y6Q0Z0,"Detachment at Left 1st Toe, Complete, Open Approach"
+DRG28503,0Y6Q0Z1,"Detachment at Left 1st Toe, High, Open Approach"
+DRG28503,0Y6Q0Z2,"Detachment at Left 1st Toe, Mid, Open Approach"
+DRG28503,0Y6Q0Z3,"Detachment at Left 1st Toe, Low, Open Approach"
+DRG28503,0Y6R0Z0,"Detachment at Right 2nd Toe, Complete, Open Approach"
+DRG28503,0Y6R0Z1,"Detachment at Right 2nd Toe, High, Open Approach"
+DRG28503,0Y6R0Z2,"Detachment at Right 2nd Toe, Mid, Open Approach"
+DRG28503,0Y6R0Z3,"Detachment at Right 2nd Toe, Low, Open Approach"
+DRG28503,0Y6S0Z0,"Detachment at Left 2nd Toe, Complete, Open Approach"
+DRG28503,0Y6S0Z1,"Detachment at Left 2nd Toe, High, Open Approach"
+DRG28503,0Y6S0Z2,"Detachment at Left 2nd Toe, Mid, Open Approach"
+DRG28503,0Y6S0Z3,"Detachment at Left 2nd Toe, Low, Open Approach"
+DRG28503,0Y6T0Z0,"Detachment at Right 3rd Toe, Complete, Open Approach"
+DRG28503,0Y6T0Z1,"Detachment at Right 3rd Toe, High, Open Approach"
+DRG28503,0Y6T0Z2,"Detachment at Right 3rd Toe, Mid, Open Approach"
+DRG28503,0Y6T0Z3,"Detachment at Right 3rd Toe, Low, Open Approach"
+DRG28503,0Y6U0Z0,"Detachment at Left 3rd Toe, Complete, Open Approach"
+DRG28503,0Y6U0Z1,"Detachment at Left 3rd Toe, High, Open Approach"
+DRG28503,0Y6U0Z2,"Detachment at Left 3rd Toe, Mid, Open Approach"
+DRG28503,0Y6U0Z3,"Detachment at Left 3rd Toe, Low, Open Approach"
+DRG28503,0Y6V0Z0,"Detachment at Right 4th Toe, Complete, Open Approach"
+DRG28503,0Y6V0Z1,"Detachment at Right 4th Toe, High, Open Approach"
+DRG28503,0Y6V0Z2,"Detachment at Right 4th Toe, Mid, Open Approach"
+DRG28503,0Y6V0Z3,"Detachment at Right 4th Toe, Low, Open Approach"
+DRG28503,0Y6W0Z0,"Detachment at Left 4th Toe, Complete, Open Approach"
+DRG28503,0Y6W0Z1,"Detachment at Left 4th Toe, High, Open Approach"
+DRG28503,0Y6W0Z2,"Detachment at Left 4th Toe, Mid, Open Approach"
+DRG28503,0Y6W0Z3,"Detachment at Left 4th Toe, Low, Open Approach"
+DRG28503,0Y6X0Z0,"Detachment at Right 5th Toe, Complete, Open Approach"
+DRG28503,0Y6X0Z1,"Detachment at Right 5th Toe, High, Open Approach"
+DRG28503,0Y6X0Z2,"Detachment at Right 5th Toe, Mid, Open Approach"
+DRG28503,0Y6X0Z3,"Detachment at Right 5th Toe, Low, Open Approach"
+DRG28503,0Y6Y0Z0,"Detachment at Left 5th Toe, Complete, Open Approach"
+DRG28503,0Y6Y0Z1,"Detachment at Left 5th Toe, High, Open Approach"
+DRG28503,0Y6Y0Z2,"Detachment at Left 5th Toe, Mid, Open Approach"
+DRG28503,0Y6Y0Z3,"Detachment at Left 5th Toe, Low, Open Approach"

@@ -1,51 +1,51 @@
-,DRG,CM-PCS,en
-6860,DRG20417,B263,Mumps pancreatitis
-6861,DRG20417,D136,Benign neoplasm of pancreas
-6862,DRG20417,K860,Alcohol-induced chronic pancreatitis
-6863,DRG20417,K861,Other chronic pancreatitis
-6864,DRG20417,K862,Cyst of pancreas
-6865,DRG20417,K863,Pseudocyst of pancreas
-6866,DRG20417,K868,Other specified diseases of pancreas
-6867,DRG20417,K869,"Disease of pancreas, unspecified"
-6868,DRG20417,Q450,"Agenesis, aplasia and hypoplasia of pancreas"
-6869,DRG20417,Q451,Annular pancreas
-6870,DRG20417,Q452,Congenital pancreatic cyst
-6871,DRG20417,Q453,Other congenital malformations of pancreas and pancreatic duct
-6874,DRG20417,0D9S30Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Approach"
-6875,DRG20417,0D9S3ZZ,"Drainage of Greater Omentum, Percutaneous Approach"
-6876,DRG20417,0D9S40Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Endoscopic Approach"
-6877,DRG20417,0D9S4ZZ,"Drainage of Greater Omentum, Percutaneous Endoscopic Approach"
-6878,DRG20417,0D9T30Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Approach"
-6879,DRG20417,0D9T3ZZ,"Drainage of Lesser Omentum, Percutaneous Approach"
-6880,DRG20417,0D9T40Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Endoscopic Approach"
-6881,DRG20417,0D9T4ZZ,"Drainage of Lesser Omentum, Percutaneous Endoscopic Approach"
-6882,DRG20417,0D9V30Z,"Drainage of Mesentery with Drainage Device, Percutaneous Approach"
-6883,DRG20417,0D9V3ZZ,"Drainage of Mesentery, Percutaneous Approach"
-6884,DRG20417,0D9V40Z,"Drainage of Mesentery with Drainage Device, Percutaneous Endoscopic Approach"
-6885,DRG20417,0D9V4ZZ,"Drainage of Mesentery, Percutaneous Endoscopic Approach"
-6886,DRG20417,0D9W30Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Approach"
-6887,DRG20417,0D9W3ZZ,"Drainage of Peritoneum, Percutaneous Approach"
-6888,DRG20417,0D9W40Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Endoscopic Approach"
-6889,DRG20417,0D9W4ZZ,"Drainage of Peritoneum, Percutaneous Endoscopic Approach"
-6890,DRG20417,0F9D00Z,"Drainage of Pancreatic Duct with Drainage Device, Open Approach"
-6891,DRG20417,0F9D30Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
-6892,DRG20417,0F9D40Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
-6893,DRG20417,0F9D70Z,"Drainage of Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
-6894,DRG20417,0F9F00Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Open Approach"
-6895,DRG20417,0F9F30Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Approach"
-6896,DRG20417,0F9F40Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
-6897,DRG20417,0F9F70Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
-6898,DRG20417,0F9G00Z,"Drainage of Pancreas with Drainage Device, Open Approach"
-6899,DRG20417,0F9G30Z,"Drainage of Pancreas with Drainage Device, Percutaneous Approach"
-6900,DRG20417,0F9G40Z,"Drainage of Pancreas with Drainage Device, Percutaneous Endoscopic Approach"
-6901,DRG20417,0W9F30Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Approach"
-6902,DRG20417,0W9F3ZZ,"Drainage of Abdominal Wall, Percutaneous Approach"
-6903,DRG20417,0W9F40Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Endoscopic Approach"
-6904,DRG20417,0W9F4ZZ,"Drainage of Abdominal Wall, Percutaneous Endoscopic Approach"
-6905,DRG20417,0W9G30Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Approach"
-6906,DRG20417,0W9G3ZX,"Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic"
-6907,DRG20417,0W9G3ZZ,"Drainage of Peritoneal Cavity, Percutaneous Approach"
-6908,DRG20417,0W9G40Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Endoscopic Approach"
-6909,DRG20417,0W9G4ZZ,"Drainage of Peritoneal Cavity, Percutaneous Endoscopic Approach"
-6910,DRG20417,0W9J30Z,"Drainage of Pelvic Cavity with Drainage Device, Percutaneous Approach"
-6911,DRG20417,0W9J3ZZ,"Drainage of Pelvic Cavity, Percutaneous Approach"
+DRG,CM-PCS,en
+DRG20417,B263,Mumps pancreatitis
+DRG20417,D136,Benign neoplasm of pancreas
+DRG20417,K860,Alcohol-induced chronic pancreatitis
+DRG20417,K861,Other chronic pancreatitis
+DRG20417,K862,Cyst of pancreas
+DRG20417,K863,Pseudocyst of pancreas
+DRG20417,K868,Other specified diseases of pancreas
+DRG20417,K869,"Disease of pancreas, unspecified"
+DRG20417,Q450,"Agenesis, aplasia and hypoplasia of pancreas"
+DRG20417,Q451,Annular pancreas
+DRG20417,Q452,Congenital pancreatic cyst
+DRG20417,Q453,Other congenital malformations of pancreas and pancreatic duct
+DRG20417,0D9S30Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Approach"
+DRG20417,0D9S3ZZ,"Drainage of Greater Omentum, Percutaneous Approach"
+DRG20417,0D9S40Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0D9S4ZZ,"Drainage of Greater Omentum, Percutaneous Endoscopic Approach"
+DRG20417,0D9T30Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Approach"
+DRG20417,0D9T3ZZ,"Drainage of Lesser Omentum, Percutaneous Approach"
+DRG20417,0D9T40Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0D9T4ZZ,"Drainage of Lesser Omentum, Percutaneous Endoscopic Approach"
+DRG20417,0D9V30Z,"Drainage of Mesentery with Drainage Device, Percutaneous Approach"
+DRG20417,0D9V3ZZ,"Drainage of Mesentery, Percutaneous Approach"
+DRG20417,0D9V40Z,"Drainage of Mesentery with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0D9V4ZZ,"Drainage of Mesentery, Percutaneous Endoscopic Approach"
+DRG20417,0D9W30Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Approach"
+DRG20417,0D9W3ZZ,"Drainage of Peritoneum, Percutaneous Approach"
+DRG20417,0D9W40Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0D9W4ZZ,"Drainage of Peritoneum, Percutaneous Endoscopic Approach"
+DRG20417,0F9D00Z,"Drainage of Pancreatic Duct with Drainage Device, Open Approach"
+DRG20417,0F9D30Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
+DRG20417,0F9D40Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0F9D70Z,"Drainage of Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
+DRG20417,0F9F00Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Open Approach"
+DRG20417,0F9F30Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Approach"
+DRG20417,0F9F40Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0F9F70Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
+DRG20417,0F9G00Z,"Drainage of Pancreas with Drainage Device, Open Approach"
+DRG20417,0F9G30Z,"Drainage of Pancreas with Drainage Device, Percutaneous Approach"
+DRG20417,0F9G40Z,"Drainage of Pancreas with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0W9F30Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Approach"
+DRG20417,0W9F3ZZ,"Drainage of Abdominal Wall, Percutaneous Approach"
+DRG20417,0W9F40Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0W9F4ZZ,"Drainage of Abdominal Wall, Percutaneous Endoscopic Approach"
+DRG20417,0W9G30Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Approach"
+DRG20417,0W9G3ZX,"Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic"
+DRG20417,0W9G3ZZ,"Drainage of Peritoneal Cavity, Percutaneous Approach"
+DRG20417,0W9G40Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Endoscopic Approach"
+DRG20417,0W9G4ZZ,"Drainage of Peritoneal Cavity, Percutaneous Endoscopic Approach"
+DRG20417,0W9J30Z,"Drainage of Pelvic Cavity with Drainage Device, Percutaneous Approach"
+DRG20417,0W9J3ZZ,"Drainage of Pelvic Cavity, Percutaneous Approach"

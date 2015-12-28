@@ -1,8 +1,8 @@
-,DRG,CM-PCS,en
-6677,DRG20414,B252,Cytomegaloviral pancreatitis
-6678,DRG20414,K850,Idiopathic acute pancreatitis
-6679,DRG20414,K851,Biliary acute pancreatitis
-6680,DRG20414,K852,Alcohol induced acute pancreatitis
-6681,DRG20414,K853,Drug induced acute pancreatitis
-6682,DRG20414,K858,Other acute pancreatitis
-6683,DRG20414,K859,"Acute pancreatitis, unspecified"
+DRG,CM-PCS,en
+DRG20414,B252,Cytomegaloviral pancreatitis
+DRG20414,K850,Idiopathic acute pancreatitis
+DRG20414,K851,Biliary acute pancreatitis
+DRG20414,K852,Alcohol induced acute pancreatitis
+DRG20414,K853,Drug induced acute pancreatitis
+DRG20414,K858,Other acute pancreatitis
+DRG20414,K859,"Acute pancreatitis, unspecified"

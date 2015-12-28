@@ -1,4 +1,4 @@
-,DRG,CM-PCS,en
-2200,DRG39914,D761,Hemophagocytic lymphohistiocytosis
-2201,DRG39914,D762,"Hemophagocytic syndrome, infection-associated"
-2202,DRG39914,D763,Other histiocytosis syndromes
+DRG,CM-PCS,en
+DRG39914,D761,Hemophagocytic lymphohistiocytosis
+DRG39914,D762,"Hemophagocytic syndrome, infection-associated"
+DRG39914,D763,Other histiocytosis syndromes

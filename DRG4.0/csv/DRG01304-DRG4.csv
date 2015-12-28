@@ -1,4 +1,4 @@
-,DRG,CM-PCS,en
-46149,DRG01304,G35,Multiple sclerosis
-46152,DRG01304,6A550Z3,"Pheresis of Plasma, Single"
-46153,DRG01304,6A551Z3,"Pheresis of Plasma, Multiple"
+DRG,CM-PCS,en
+DRG01304,G35,Multiple sclerosis
+DRG01304,6A550Z3,"Pheresis of Plasma, Single"
+DRG01304,6A551Z3,"Pheresis of Plasma, Multiple"

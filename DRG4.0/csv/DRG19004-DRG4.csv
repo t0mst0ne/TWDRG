@@ -1,53 +1,53 @@
-,DRG,CM-PCS,en
-10524,DRG19004,K600,Acute anal fissure
-10525,DRG19004,K601,Chronic anal fissure
-10526,DRG19004,K602,"Anal fissure, unspecified"
-10527,DRG19004,K603,Anal fistula
-10528,DRG19004,K604,Rectal fistula
-10529,DRG19004,K605,Anorectal fistula
-10530,DRG19004,K610,Anal abscess
-10531,DRG19004,K611,Rectal abscess
-10532,DRG19004,K612,Anorectal abscess
-10533,DRG19004,K613,Ischiorectal abscess
-10534,DRG19004,K614,Intrasphincteric abscess
-10535,DRG19004,K620,Anal polyp
-10536,DRG19004,K621,Rectal polyp
-10537,DRG19004,K622,Anal prolapse
-10538,DRG19004,K623,Rectal prolapse
-10539,DRG19004,K624,Stenosis of anus and rectum
-10540,DRG19004,K626,Ulcer of anus and rectum
-10541,DRG19004,K627,Radiation proctitis
-10542,DRG19004,K6281,Anal sphincter tear (healed) (nontraumatic) (old)
-10543,DRG19004,K6282,Dysplasia of anus
-10544,DRG19004,K6289,Other specified diseases of anus and rectum
-10545,DRG19004,K629,"Disease of anus and rectum, unspecified"
-10546,DRG19004,K640,First degree hemorrhoids
-10547,DRG19004,K641,Second degree hemorrhoids
-10548,DRG19004,K642,Third degree hemorrhoids
-10549,DRG19004,K643,Fourth degree hemorrhoids
-10550,DRG19004,K644,Residual hemorrhoidal skin tags
-10551,DRG19004,K645,Perianal venous thrombosis
-10552,DRG19004,K648,Other hemorrhoids
-10553,DRG19004,K649,Unspecified hemorrhoids
-10554,DRG19004,S27812A,"Contusion of esophagus (thoracic part), initial encounter"
-10555,DRG19004,S27813A,"Laceration of esophagus (thoracic part), initial encounter"
-10556,DRG19004,S27818A,"Other injury of esophagus (thoracic part), initial encounter"
-10557,DRG19004,S27819A,"Unspecified injury of esophagus (thoracic part), initial encounter"
-10558,DRG19004,S3630XA,"Unspecified injury of stomach, initial encounter"
-10559,DRG19004,S3632XA,"Contusion of stomach, initial encounter"
-10560,DRG19004,S3633XA,"Laceration of stomach, initial encounter"
-10561,DRG19004,S3639XA,"Other injury of stomach, initial encounter"
-10562,DRG19004,S36400A,"Unspecified injury of duodenum, initial encounter"
-10563,DRG19004,S36409A,"Unspecified injury of unspecified part of small intestine, initial encounter"
-10564,DRG19004,S36410A,"Primary blast injury of duodenum, initial encounter"
-10565,DRG19004,S36419A,"Primary blast injury of unspecified part of small intestine, initial encounter"
-10566,DRG19004,S36420A,"Contusion of duodenum, initial encounter"
-10567,DRG19004,S36429A,"Contusion of unspecified part of small intestine, initial encounter"
-10568,DRG19004,S36430A,"Laceration of duodenum, initial encounter"
-10569,DRG19004,S36439A,"Laceration of unspecified part of small intestine, initial encounter"
-10570,DRG19004,S36490A,"Other injury of duodenum, initial encounter"
-10571,DRG19004,S36499A,"Other injury of unspecified part of small intestine, initial encounter"
-10572,DRG19004,Z431,Encounter for attention to gastrostomy
-10573,DRG19004,Z432,Encounter for attention to ileostomy
-10574,DRG19004,Z433,Encounter for attention to colostomy
-10575,DRG19004,Z434,Encounter for attention to other artificial openings of digestive tract
+DRG,CM-PCS,en
+DRG19004,K600,Acute anal fissure
+DRG19004,K601,Chronic anal fissure
+DRG19004,K602,"Anal fissure, unspecified"
+DRG19004,K603,Anal fistula
+DRG19004,K604,Rectal fistula
+DRG19004,K605,Anorectal fistula
+DRG19004,K610,Anal abscess
+DRG19004,K611,Rectal abscess
+DRG19004,K612,Anorectal abscess
+DRG19004,K613,Ischiorectal abscess
+DRG19004,K614,Intrasphincteric abscess
+DRG19004,K620,Anal polyp
+DRG19004,K621,Rectal polyp
+DRG19004,K622,Anal prolapse
+DRG19004,K623,Rectal prolapse
+DRG19004,K624,Stenosis of anus and rectum
+DRG19004,K626,Ulcer of anus and rectum
+DRG19004,K627,Radiation proctitis
+DRG19004,K6281,Anal sphincter tear (healed) (nontraumatic) (old)
+DRG19004,K6282,Dysplasia of anus
+DRG19004,K6289,Other specified diseases of anus and rectum
+DRG19004,K629,"Disease of anus and rectum, unspecified"
+DRG19004,K640,First degree hemorrhoids
+DRG19004,K641,Second degree hemorrhoids
+DRG19004,K642,Third degree hemorrhoids
+DRG19004,K643,Fourth degree hemorrhoids
+DRG19004,K644,Residual hemorrhoidal skin tags
+DRG19004,K645,Perianal venous thrombosis
+DRG19004,K648,Other hemorrhoids
+DRG19004,K649,Unspecified hemorrhoids
+DRG19004,S27812A,"Contusion of esophagus (thoracic part), initial encounter"
+DRG19004,S27813A,"Laceration of esophagus (thoracic part), initial encounter"
+DRG19004,S27818A,"Other injury of esophagus (thoracic part), initial encounter"
+DRG19004,S27819A,"Unspecified injury of esophagus (thoracic part), initial encounter"
+DRG19004,S3630XA,"Unspecified injury of stomach, initial encounter"
+DRG19004,S3632XA,"Contusion of stomach, initial encounter"
+DRG19004,S3633XA,"Laceration of stomach, initial encounter"
+DRG19004,S3639XA,"Other injury of stomach, initial encounter"
+DRG19004,S36400A,"Unspecified injury of duodenum, initial encounter"
+DRG19004,S36409A,"Unspecified injury of unspecified part of small intestine, initial encounter"
+DRG19004,S36410A,"Primary blast injury of duodenum, initial encounter"
+DRG19004,S36419A,"Primary blast injury of unspecified part of small intestine, initial encounter"
+DRG19004,S36420A,"Contusion of duodenum, initial encounter"
+DRG19004,S36429A,"Contusion of unspecified part of small intestine, initial encounter"
+DRG19004,S36430A,"Laceration of duodenum, initial encounter"
+DRG19004,S36439A,"Laceration of unspecified part of small intestine, initial encounter"
+DRG19004,S36490A,"Other injury of duodenum, initial encounter"
+DRG19004,S36499A,"Other injury of unspecified part of small intestine, initial encounter"
+DRG19004,Z431,Encounter for attention to gastrostomy
+DRG19004,Z432,Encounter for attention to ileostomy
+DRG19004,Z433,Encounter for attention to colostomy
+DRG19004,Z434,Encounter for attention to other artificial openings of digestive tract

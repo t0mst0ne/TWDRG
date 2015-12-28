@@ -1,494 +1,494 @@
-,DRG,CM-PCS,en
-35726,DRG12101,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
-35727,DRG12101,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
-35728,DRG12101,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
-35729,DRG12101,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
-35730,DRG12101,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
-35731,DRG12101,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
-35732,DRG12101,I2129,ST elevation (STEMI) myocardial infarction involving other sites
-35733,DRG12101,I213,ST elevation (STEMI) myocardial infarction of unspecified site
-35734,DRG12101,I214,Non-ST elevation (NSTEMI) myocardial infarction
-35735,DRG12101,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
-35736,DRG12101,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
-35737,DRG12101,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
-35738,DRG12101,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
-35739,DRG12101,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
-35742,DRG12101,A221,Pulmonary anthrax
-35743,DRG12101,A3791,"Whooping cough, unspecified species with pneumonia"
-35744,DRG12101,B250,Cytomegaloviral pneumonitis
-35745,DRG12101,B440,Invasive pulmonary aspergillosis
-35746,DRG12101,I0981,Rheumatic heart failure
-35747,DRG12101,I110,Hypertensive heart disease with heart failure
-35748,DRG12101,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
-35749,DRG12101,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
-35750,DRG12101,I234,Rupture of chordae tendineae as current complication following acute myocardial infarction
-35751,DRG12101,I235,Rupture of papillary muscle as current complication following acute myocardial infarction
-35752,DRG12101,I241,Dressler's syndrome
-35753,DRG12101,I253,Aneurysm of heart
-35754,DRG12101,I2541,Coronary artery aneurysm
-35755,DRG12101,I2542,Coronary artery dissection
-35756,DRG12101,I2690,Septic pulmonary embolism without acute cor pulmonale
-35757,DRG12101,I2692,Saddle embolus of pulmonary artery without acute cor pulmonale
-35758,DRG12101,I2699,Other pulmonary embolism without acute cor pulmonale
-35759,DRG12101,I270,Primary pulmonary hypertension
-35760,DRG12101,I2782,Chronic pulmonary embolism
-35761,DRG12101,I441,"Atrioventricular block, second degree"
-35762,DRG12101,I442,"Atrioventricular block, complete"
-35763,DRG12101,I4430,Unspecified atrioventricular block
-35764,DRG12101,I4439,Other atrioventricular block
-35765,DRG12101,I4460,Unspecified fascicular block
-35766,DRG12101,I447,"Left bundle-branch block, unspecified"
-35767,DRG12101,I452,Bifascicular block
-35768,DRG12101,I453,Trifascicular block
-35769,DRG12101,I462,Cardiac arrest due to underlying cardiac condition
-35770,DRG12101,I468,Cardiac arrest due to other underlying condition
-35771,DRG12101,I469,"Cardiac arrest, cause unspecified"
-35772,DRG12101,I470,Re-entry ventricular arrhythmia
-35773,DRG12101,I471,Supraventricular tachycardia
-35774,DRG12101,I472,Ventricular tachycardia
-35775,DRG12101,I479,"Paroxysmal tachycardia, unspecified"
-35776,DRG12101,I480,Paroxysmal atrial fibrillation
-35777,DRG12101,I481,Persistent atrial fibrillation
-35778,DRG12101,I482,Chronic atrial fibrillation
-35779,DRG12101,I483,Typical atrial flutter
-35780,DRG12101,I484,Atypical atrial flutter
-35781,DRG12101,I4891,Unspecified atrial fibrillation
-35782,DRG12101,I4892,Unspecified atrial flutter
-35783,DRG12101,I4901,Ventricular fibrillation
-35784,DRG12101,I4902,Ventricular flutter
-35785,DRG12101,I492,Junctional premature depolarization
-35786,DRG12101,I493,Ventricular premature depolarization
-35787,DRG12101,I501,Left ventricular failure
-35788,DRG12101,I5020,Unspecified systolic (congestive) heart failure
-35789,DRG12101,I5021,Acute systolic (congestive) heart failure
-35790,DRG12101,I5022,Chronic systolic (congestive) heart failure
-35791,DRG12101,I5023,Acute on chronic systolic (congestive) heart failure
-35792,DRG12101,I5030,Unspecified diastolic (congestive) heart failure
-35793,DRG12101,I5031,Acute diastolic (congestive) heart failure
-35794,DRG12101,I5032,Chronic diastolic (congestive) heart failure
-35795,DRG12101,I5033,Acute on chronic diastolic (congestive) heart failure
-35796,DRG12101,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
-35797,DRG12101,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
-35798,DRG12101,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
-35799,DRG12101,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
-35800,DRG12101,I509,"Heart failure, unspecified"
-35801,DRG12101,I511,"Rupture of chordae tendineae, not elsewhere classified"
-35802,DRG12101,I512,"Rupture of papillary muscle, not elsewhere classified"
-35803,DRG12101,I5189,Other ill-defined heart diseases
-35804,DRG12101,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
-35805,DRG12101,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
-35806,DRG12101,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
-35807,DRG12101,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
-35808,DRG12101,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
-35809,DRG12101,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
-35810,DRG12101,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
-35811,DRG12101,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
-35812,DRG12101,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
-35813,DRG12101,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
-35814,DRG12101,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
-35815,DRG12101,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
-35816,DRG12101,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
-35817,DRG12101,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
-35818,DRG12101,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
-35819,DRG12101,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
-35820,DRG12101,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
-35821,DRG12101,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
-35822,DRG12101,I608,Other nontraumatic subarachnoid hemorrhage
-35823,DRG12101,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
-35824,DRG12101,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
-35825,DRG12101,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
-35826,DRG12101,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
-35827,DRG12101,I613,Nontraumatic intracerebral hemorrhage in brain stem
-35828,DRG12101,I614,Nontraumatic intracerebral hemorrhage in cerebellum
-35829,DRG12101,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
-35830,DRG12101,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
-35831,DRG12101,I618,Other nontraumatic intracerebral hemorrhage
-35832,DRG12101,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
-35833,DRG12101,I6200,"Nontraumatic subdural hemorrhage, unspecified"
-35834,DRG12101,I6201,Nontraumatic acute subdural hemorrhage
-35835,DRG12101,I6202,Nontraumatic subacute subdural hemorrhage
-35836,DRG12101,I6203,Nontraumatic chronic subdural hemorrhage
-35837,DRG12101,I621,Nontraumatic extradural hemorrhage
-35838,DRG12101,I629,"Nontraumatic intracranial hemorrhage, unspecified"
-35839,DRG12101,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
-35840,DRG12101,I63011,Cerebral infarction due to thrombosis of right vertebral artery
-35841,DRG12101,I63012,Cerebral infarction due to thrombosis of left vertebral artery
-35842,DRG12101,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
-35843,DRG12101,I6302,Cerebral infarction due to thrombosis of basilar artery
-35844,DRG12101,I63031,Cerebral infarction due to thrombosis of right carotid artery
-35845,DRG12101,I63032,Cerebral infarction due to thrombosis of left carotid artery
-35846,DRG12101,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
-35847,DRG12101,I6309,Cerebral infarction due to thrombosis of other precerebral artery
-35848,DRG12101,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
-35849,DRG12101,I63111,Cerebral infarction due to embolism of right vertebral artery
-35850,DRG12101,I63112,Cerebral infarction due to embolism of left vertebral artery
-35851,DRG12101,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
-35852,DRG12101,I6312,Cerebral infarction due to embolism of basilar artery
-35853,DRG12101,I63131,Cerebral infarction due to embolism of right carotid artery
-35854,DRG12101,I63132,Cerebral infarction due to embolism of left carotid artery
-35855,DRG12101,I63139,Cerebral infarction due to embolism of unspecified carotid artery
-35856,DRG12101,I6319,Cerebral infarction due to embolism of other precerebral artery
-35857,DRG12101,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
-35858,DRG12101,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
-35859,DRG12101,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
-35860,DRG12101,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
-35861,DRG12101,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
-35862,DRG12101,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
-35863,DRG12101,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
-35864,DRG12101,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
-35865,DRG12101,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
-35866,DRG12101,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
-35867,DRG12101,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
-35868,DRG12101,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
-35869,DRG12101,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
-35870,DRG12101,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
-35871,DRG12101,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
-35872,DRG12101,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
-35873,DRG12101,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
-35874,DRG12101,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
-35875,DRG12101,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
-35876,DRG12101,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
-35877,DRG12101,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
-35878,DRG12101,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
-35879,DRG12101,I6339,Cerebral infarction due to thrombosis of other cerebral artery
-35880,DRG12101,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
-35881,DRG12101,I63411,Cerebral infarction due to embolism of right middle cerebral artery
-35882,DRG12101,I63412,Cerebral infarction due to embolism of left middle cerebral artery
-35883,DRG12101,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
-35884,DRG12101,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
-35885,DRG12101,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
-35886,DRG12101,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
-35887,DRG12101,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
-35888,DRG12101,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
-35889,DRG12101,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
-35890,DRG12101,I63441,Cerebral infarction due to embolism of right cerebellar artery
-35891,DRG12101,I63442,Cerebral infarction due to embolism of left cerebellar artery
-35892,DRG12101,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
-35893,DRG12101,I6349,Cerebral infarction due to embolism of other cerebral artery
-35894,DRG12101,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
-35895,DRG12101,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
-35896,DRG12101,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
-35897,DRG12101,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
-35898,DRG12101,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
-35899,DRG12101,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
-35900,DRG12101,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
-35901,DRG12101,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
-35902,DRG12101,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
-35903,DRG12101,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
-35904,DRG12101,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
-35905,DRG12101,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
-35906,DRG12101,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
-35907,DRG12101,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
-35908,DRG12101,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
-35909,DRG12101,I638,Other cerebral infarction
-35910,DRG12101,I639,"Cerebral infarction, unspecified"
-35911,DRG12101,I6601,Occlusion and stenosis of right middle cerebral artery
-35912,DRG12101,I6602,Occlusion and stenosis of left middle cerebral artery
-35913,DRG12101,I6603,Occlusion and stenosis of bilateral middle cerebral arteries
-35914,DRG12101,I6609,Occlusion and stenosis of unspecified middle cerebral artery
-35915,DRG12101,I6611,Occlusion and stenosis of right anterior cerebral artery
-35916,DRG12101,I6612,Occlusion and stenosis of left anterior cerebral artery
-35917,DRG12101,I6613,Occlusion and stenosis of bilateral anterior cerebral arteries
-35918,DRG12101,I6619,Occlusion and stenosis of unspecified anterior cerebral artery
-35919,DRG12101,I6621,Occlusion and stenosis of right posterior cerebral artery
-35920,DRG12101,I6622,Occlusion and stenosis of left posterior cerebral artery
-35921,DRG12101,I6623,Occlusion and stenosis of bilateral posterior cerebral arteries
-35922,DRG12101,I6629,Occlusion and stenosis of unspecified posterior cerebral artery
-35923,DRG12101,I663,Occlusion and stenosis of cerebellar arteries
-35924,DRG12101,I668,Occlusion and stenosis of other cerebral arteries
-35925,DRG12101,I669,Occlusion and stenosis of unspecified cerebral artery
-35926,DRG12101,I6789,Other cerebrovascular disease
-35927,DRG12101,I7100,Dissection of unspecified site of aorta
-35928,DRG12101,I7101,Dissection of thoracic aorta
-35929,DRG12101,I7102,Dissection of abdominal aorta
-35930,DRG12101,I7103,Dissection of thoracoabdominal aorta
-35931,DRG12101,I9589,Other hypotension
-35932,DRG12101,I959,"Hypotension, unspecified"
-35933,DRG12101,J09X1,Influenza due to identified novel influenza A virus with pneumonia
-35934,DRG12101,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
-35935,DRG12101,J1008,Influenza due to other identified influenza virus with other specified pneumonia
-35936,DRG12101,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
-35937,DRG12101,J1108,Influenza due to unidentified influenza virus with specified pneumonia
-35938,DRG12101,J13,Pneumonia due to Streptococcus pneumoniae
-35939,DRG12101,J14,Pneumonia due to Hemophilus influenzae
-35940,DRG12101,J150,Pneumonia due to Klebsiella pneumoniae
-35941,DRG12101,J151,Pneumonia due to Pseudomonas
-35942,DRG12101,J1520,"Pneumonia due to staphylococcus, unspecified"
-35943,DRG12101,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
-35944,DRG12101,J1529,Pneumonia due to other staphylococcus
-35945,DRG12101,J153,"Pneumonia due to streptococcus, group B"
-35946,DRG12101,J154,Pneumonia due to other streptococci
-35947,DRG12101,J155,Pneumonia due to Escherichia coli
-35948,DRG12101,J156,Pneumonia due to other aerobic Gram-negative bacteria
-35949,DRG12101,J157,Pneumonia due to Mycoplasma pneumoniae
-35950,DRG12101,J158,Pneumonia due to other specified bacteria
-35951,DRG12101,J159,Unspecified bacterial pneumonia
-35952,DRG12101,J160,Chlamydial pneumonia
-35953,DRG12101,J168,Pneumonia due to other specified infectious organisms
-35954,DRG12101,J17,Pneumonia in diseases classified elsewhere
-35955,DRG12101,J180,"Bronchopneumonia, unspecified organism"
-35956,DRG12101,J181,"Lobar pneumonia, unspecified organism"
-35957,DRG12101,J188,"Other pneumonia, unspecified organism"
-35958,DRG12101,J189,"Pneumonia, unspecified organism"
-35959,DRG12101,J690,Pneumonitis due to inhalation of food and vomit
-35960,DRG12101,J691,Pneumonitis due to inhalation of oils and essences
-35961,DRG12101,J698,Pneumonitis due to inhalation of other solids and liquids
-35962,DRG12101,J80,Acute respiratory distress syndrome
-35963,DRG12101,J951,Acute pulmonary insufficiency following thoracic surgery
-35964,DRG12101,J952,Acute pulmonary insufficiency following nonthoracic surgery
-35965,DRG12101,J953,Chronic pulmonary insufficiency following surgery
-35966,DRG12101,J95821,Acute postprocedural respiratory failure
-35967,DRG12101,J95822,Acute and chronic postprocedural respiratory failure
-35968,DRG12101,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
-35969,DRG12101,J9601,Acute respiratory failure with hypoxia
-35970,DRG12101,J9602,Acute respiratory failure with hypercapnia
-35971,DRG12101,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
-35972,DRG12101,J9611,Chronic respiratory failure with hypoxia
-35973,DRG12101,J9612,Chronic respiratory failure with hypercapnia
-35974,DRG12101,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
-35975,DRG12101,J9621,Acute and chronic respiratory failure with hypoxia
-35976,DRG12101,J9622,Acute and chronic respiratory failure with hypercapnia
-35977,DRG12101,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
-35978,DRG12101,J9691,"Respiratory failure, unspecified with hypoxia"
-35979,DRG12101,J9692,"Respiratory failure, unspecified with hypercapnia"
-35980,DRG12101,J9811,Atelectasis
-35981,DRG12101,J9819,Other pulmonary collapse
-35982,DRG12101,J984,Other disorders of lung
-35983,DRG12101,L89000,"Pressure ulcer of unspecified elbow, unstageable"
-35984,DRG12101,L89001,"Pressure ulcer of unspecified elbow, stage 1"
-35985,DRG12101,L89002,"Pressure ulcer of unspecified elbow, stage 2"
-35986,DRG12101,L89003,"Pressure ulcer of unspecified elbow, stage 3"
-35987,DRG12101,L89004,"Pressure ulcer of unspecified elbow, stage 4"
-35988,DRG12101,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
-35989,DRG12101,L89010,"Pressure ulcer of right elbow, unstageable"
-35990,DRG12101,L89011,"Pressure ulcer of right elbow, stage 1"
-35991,DRG12101,L89012,"Pressure ulcer of right elbow, stage 2"
-35992,DRG12101,L89013,"Pressure ulcer of right elbow, stage 3"
-35993,DRG12101,L89014,"Pressure ulcer of right elbow, stage 4"
-35994,DRG12101,L89020,"Pressure ulcer of left elbow, unstageable"
-35995,DRG12101,L89021,"Pressure ulcer of left elbow, stage 1"
-35996,DRG12101,L89022,"Pressure ulcer of left elbow, stage 2"
-35997,DRG12101,L89023,"Pressure ulcer of left elbow, stage 3"
-35998,DRG12101,L89024,"Pressure ulcer of left elbow, stage 4"
-35999,DRG12101,L89100,"Pressure ulcer of unspecified part of back, unstageable"
-36000,DRG12101,L89101,"Pressure ulcer of unspecified part of back, stage 1"
-36001,DRG12101,L89102,"Pressure ulcer of unspecified part of back, stage 2"
-36002,DRG12101,L89103,"Pressure ulcer of unspecified part of back, stage 3"
-36003,DRG12101,L89104,"Pressure ulcer of unspecified part of back, stage 4"
-36004,DRG12101,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
-36005,DRG12101,L89110,"Pressure ulcer of right upper back, unstageable"
-36006,DRG12101,L89111,"Pressure ulcer of right upper back, stage 1"
-36007,DRG12101,L89112,"Pressure ulcer of right upper back, stage 2"
-36008,DRG12101,L89113,"Pressure ulcer of right upper back, stage 3"
-36009,DRG12101,L89114,"Pressure ulcer of right upper back, stage 4"
-36010,DRG12101,L89119,"Pressure ulcer of right upper back, unspecified stage"
-36011,DRG12101,L89120,"Pressure ulcer of left upper back, unstageable"
-36012,DRG12101,L89121,"Pressure ulcer of left upper back, stage 1"
-36013,DRG12101,L89122,"Pressure ulcer of left upper back, stage 2"
-36014,DRG12101,L89123,"Pressure ulcer of left upper back, stage 3"
-36015,DRG12101,L89124,"Pressure ulcer of left upper back, stage 4"
-36016,DRG12101,L89129,"Pressure ulcer of left upper back, unspecified stage"
-36017,DRG12101,L89130,"Pressure ulcer of right lower back, unstageable"
-36018,DRG12101,L89131,"Pressure ulcer of right lower back, stage 1"
-36019,DRG12101,L89132,"Pressure ulcer of right lower back, stage 2"
-36020,DRG12101,L89133,"Pressure ulcer of right lower back, stage 3"
-36021,DRG12101,L89134,"Pressure ulcer of right lower back, stage 4"
-36022,DRG12101,L89139,"Pressure ulcer of right lower back, unspecified stage"
-36023,DRG12101,L89140,"Pressure ulcer of left lower back, unstageable"
-36024,DRG12101,L89141,"Pressure ulcer of left lower back, stage 1"
-36025,DRG12101,L89142,"Pressure ulcer of left lower back, stage 2"
-36026,DRG12101,L89143,"Pressure ulcer of left lower back, stage 3"
-36027,DRG12101,L89144,"Pressure ulcer of left lower back, stage 4"
-36028,DRG12101,L89149,"Pressure ulcer of left lower back, unspecified stage"
-36029,DRG12101,L89150,"Pressure ulcer of sacral region, unstageable"
-36030,DRG12101,L89151,"Pressure ulcer of sacral region, stage 1"
-36031,DRG12101,L89152,"Pressure ulcer of sacral region, stage 2"
-36032,DRG12101,L89153,"Pressure ulcer of sacral region, stage 3"
-36033,DRG12101,L89154,"Pressure ulcer of sacral region, stage 4"
-36034,DRG12101,L89159,"Pressure ulcer of sacral region, unspecified stage"
-36035,DRG12101,L89200,"Pressure ulcer of unspecified hip, unstageable"
-36036,DRG12101,L89201,"Pressure ulcer of unspecified hip, stage 1"
-36037,DRG12101,L89202,"Pressure ulcer of unspecified hip, stage 2"
-36038,DRG12101,L89203,"Pressure ulcer of unspecified hip, stage 3"
-36039,DRG12101,L89204,"Pressure ulcer of unspecified hip, stage 4"
-36040,DRG12101,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
-36041,DRG12101,L89210,"Pressure ulcer of right hip, unstageable"
-36042,DRG12101,L89211,"Pressure ulcer of right hip, stage 1"
-36043,DRG12101,L89212,"Pressure ulcer of right hip, stage 2"
-36044,DRG12101,L89213,"Pressure ulcer of right hip, stage 3"
-36045,DRG12101,L89214,"Pressure ulcer of right hip, stage 4"
-36046,DRG12101,L89219,"Pressure ulcer of right hip, unspecified stage"
-36047,DRG12101,L89220,"Pressure ulcer of left hip, unstageable"
-36048,DRG12101,L89221,"Pressure ulcer of left hip, stage 1"
-36049,DRG12101,L89222,"Pressure ulcer of left hip, stage 2"
-36050,DRG12101,L89223,"Pressure ulcer of left hip, stage 3"
-36051,DRG12101,L89224,"Pressure ulcer of left hip, stage 4"
-36052,DRG12101,L89229,"Pressure ulcer of left hip, unspecified stage"
-36053,DRG12101,L89300,"Pressure ulcer of unspecified buttock, unstageable"
-36054,DRG12101,L89301,"Pressure ulcer of unspecified buttock, stage 1"
-36055,DRG12101,L89302,"Pressure ulcer of unspecified buttock, stage 2"
-36056,DRG12101,L89303,"Pressure ulcer of unspecified buttock, stage 3"
-36057,DRG12101,L89304,"Pressure ulcer of unspecified buttock, stage 4"
-36058,DRG12101,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
-36059,DRG12101,L89310,"Pressure ulcer of right buttock, unstageable"
-36060,DRG12101,L89311,"Pressure ulcer of right buttock, stage 1"
-36061,DRG12101,L89312,"Pressure ulcer of right buttock, stage 2"
-36062,DRG12101,L89313,"Pressure ulcer of right buttock, stage 3"
-36063,DRG12101,L89314,"Pressure ulcer of right buttock, stage 4"
-36064,DRG12101,L89319,"Pressure ulcer of right buttock, unspecified stage"
-36065,DRG12101,L89320,"Pressure ulcer of left buttock, unstageable"
-36066,DRG12101,L89321,"Pressure ulcer of left buttock, stage 1"
-36067,DRG12101,L89322,"Pressure ulcer of left buttock, stage 2"
-36068,DRG12101,L89323,"Pressure ulcer of left buttock, stage 3"
-36069,DRG12101,L89324,"Pressure ulcer of left buttock, stage 4"
-36070,DRG12101,L89329,"Pressure ulcer of left buttock, unspecified stage"
-36071,DRG12101,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
-36072,DRG12101,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
-36073,DRG12101,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
-36074,DRG12101,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
-36075,DRG12101,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
-36076,DRG12101,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
-36077,DRG12101,L89500,"Pressure ulcer of unspecified ankle, unstageable"
-36078,DRG12101,L89501,"Pressure ulcer of unspecified ankle, stage 1"
-36079,DRG12101,L89502,"Pressure ulcer of unspecified ankle, stage 2"
-36080,DRG12101,L89503,"Pressure ulcer of unspecified ankle, stage 3"
-36081,DRG12101,L89504,"Pressure ulcer of unspecified ankle, stage 4"
-36082,DRG12101,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
-36083,DRG12101,L89510,"Pressure ulcer of right ankle, unstageable"
-36084,DRG12101,L89511,"Pressure ulcer of right ankle, stage 1"
-36085,DRG12101,L89512,"Pressure ulcer of right ankle, stage 2"
-36086,DRG12101,L89513,"Pressure ulcer of right ankle, stage 3"
-36087,DRG12101,L89514,"Pressure ulcer of right ankle, stage 4"
-36088,DRG12101,L89519,"Pressure ulcer of right ankle, unspecified stage"
-36089,DRG12101,L89520,"Pressure ulcer of left ankle, unstageable"
-36090,DRG12101,L89521,"Pressure ulcer of left ankle, stage 1"
-36091,DRG12101,L89522,"Pressure ulcer of left ankle, stage 2"
-36092,DRG12101,L89523,"Pressure ulcer of left ankle, stage 3"
-36093,DRG12101,L89524,"Pressure ulcer of left ankle, stage 4"
-36094,DRG12101,L89529,"Pressure ulcer of left ankle, unspecified stage"
-36095,DRG12101,L89600,"Pressure ulcer of unspecified heel, unstageable"
-36096,DRG12101,L89601,"Pressure ulcer of unspecified heel, stage 1"
-36097,DRG12101,L89602,"Pressure ulcer of unspecified heel, stage 2"
-36098,DRG12101,L89603,"Pressure ulcer of unspecified heel, stage 3"
-36099,DRG12101,L89604,"Pressure ulcer of unspecified heel, stage 4"
-36100,DRG12101,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
-36101,DRG12101,L89610,"Pressure ulcer of right heel, unstageable"
-36102,DRG12101,L89611,"Pressure ulcer of right heel, stage 1"
-36103,DRG12101,L89612,"Pressure ulcer of right heel, stage 2"
-36104,DRG12101,L89613,"Pressure ulcer of right heel, stage 3"
-36105,DRG12101,L89614,"Pressure ulcer of right heel, stage 4"
-36106,DRG12101,L89620,"Pressure ulcer of left heel, unstageable"
-36107,DRG12101,L89621,"Pressure ulcer of left heel, stage 1"
-36108,DRG12101,L89622,"Pressure ulcer of left heel, stage 2"
-36109,DRG12101,L89623,"Pressure ulcer of left heel, stage 3"
-36110,DRG12101,L89624,"Pressure ulcer of left heel, stage 4"
-36111,DRG12101,L89629,"Pressure ulcer of left heel, unspecified stage"
-36112,DRG12101,L89810,"Pressure ulcer of head, unstageable"
-36113,DRG12101,L89811,"Pressure ulcer of head, stage 1"
-36114,DRG12101,L89812,"Pressure ulcer of head, stage 2"
-36115,DRG12101,L89813,"Pressure ulcer of head, stage 3"
-36116,DRG12101,L89814,"Pressure ulcer of head, stage 4"
-36117,DRG12101,L89819,"Pressure ulcer of head, unspecified stage"
-36118,DRG12101,L89890,"Pressure ulcer of other site, unstageable"
-36119,DRG12101,L89891,"Pressure ulcer of other site, stage 1"
-36120,DRG12101,L89892,"Pressure ulcer of other site, stage 2"
-36121,DRG12101,L89893,"Pressure ulcer of other site, stage 3"
-36122,DRG12101,L89894,"Pressure ulcer of other site, stage 4"
-36123,DRG12101,L89899,"Pressure ulcer of other site, unspecified stage"
-36124,DRG12101,L8990,"Pressure ulcer of unspecified site, unspecified stage"
-36125,DRG12101,L8991,"Pressure ulcer of unspecified site, stage 1"
-36126,DRG12101,L8992,"Pressure ulcer of unspecified site, stage 2"
-36127,DRG12101,L8993,"Pressure ulcer of unspecified site, stage 3"
-36128,DRG12101,L8994,"Pressure ulcer of unspecified site, stage 4"
-36129,DRG12101,L8995,"Pressure ulcer of unspecified site, unstageable"
-36130,DRG12101,N170,Acute kidney failure with tubular necrosis
-36131,DRG12101,N171,Acute kidney failure with acute cortical necrosis
-36132,DRG12101,N172,Acute kidney failure with medullary necrosis
-36133,DRG12101,N178,Other acute kidney failure
-36134,DRG12101,N179,"Acute kidney failure, unspecified"
-36135,DRG12101,R570,Cardiogenic shock
-36136,DRG12101,R579,"Shock, unspecified"
-36137,DRG12101,T800XXA,"Air embolism following infusion, transfusion and therapeutic injection, initial encounter"
-36138,DRG12101,T80211A,"Bloodstream infection due to central venous catheter, initial encounter"
-36139,DRG12101,T80212A,"Local infection due to central venous catheter, initial encounter"
-36140,DRG12101,T80218A,"Other infection due to central venous catheter, initial encounter"
-36141,DRG12101,T80219A,"Unspecified infection due to central venous catheter, initial encounter"
-36142,DRG12101,T8022XA,"Acute infection following transfusion, infusion, or injection of blood and blood products, initial encounter"
-36143,DRG12101,T827XXA,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter"
-36144,DRG12101,T82817A,"Embolism of cardiac prosthetic devices, implants and grafts, initial encounter"
-36145,DRG12101,T82827A,"Fibrosis of cardiac prosthetic devices, implants and grafts, initial encounter"
-36146,DRG12101,T82837A,"Hemorrhage of cardiac prosthetic devices, implants and grafts, initial encounter"
-36147,DRG12101,T82847A,"Pain from cardiac prosthetic devices, implants and grafts, initial encounter"
-36148,DRG12101,T82857A,"Stenosis of cardiac prosthetic devices, implants and grafts, initial encounter"
-36149,DRG12101,T82867A,"Thrombosis of cardiac prosthetic devices, implants and grafts, initial encounter"
-36150,DRG12101,T82897A,"Other specified complication of cardiac prosthetic devices, implants and grafts, initial encounter"
-36151,DRG12101,T829XXA,"Unspecified complication of cardiac and vascular prosthetic device, implant and graft, initial encounter"
-36154,DRG12101,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
-36155,DRG12101,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
-36156,DRG12101,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
-36157,DRG12101,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
-36158,DRG12101,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
-36159,DRG12101,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
-36160,DRG12101,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
-36161,DRG12101,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
-36162,DRG12101,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
-36163,DRG12101,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
-36164,DRG12101,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
-36165,DRG12101,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
-36166,DRG12101,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
-36167,DRG12101,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
-36168,DRG12101,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
-36169,DRG12101,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
-36170,DRG12101,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
-36171,DRG12101,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
-36172,DRG12101,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
-36173,DRG12101,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
-36174,DRG12101,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
-36175,DRG12101,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
-36176,DRG12101,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
-36177,DRG12101,B204YZZ,Plain Radiography of Right Heart using Other Contrast
-36178,DRG12101,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
-36179,DRG12101,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
-36180,DRG12101,B205YZZ,Plain Radiography of Left Heart using Other Contrast
-36181,DRG12101,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
-36182,DRG12101,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
-36183,DRG12101,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
-36184,DRG12101,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
-36185,DRG12101,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
-36186,DRG12101,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
-36187,DRG12101,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
-36188,DRG12101,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
-36189,DRG12101,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
-36190,DRG12101,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
-36191,DRG12101,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
-36192,DRG12101,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
-36193,DRG12101,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
-36194,DRG12101,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
-36195,DRG12101,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
-36196,DRG12101,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
-36197,DRG12101,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
-36198,DRG12101,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
-36199,DRG12101,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
-36200,DRG12101,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
-36201,DRG12101,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
-36202,DRG12101,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
-36203,DRG12101,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
-36204,DRG12101,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
-36205,DRG12101,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
-36206,DRG12101,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
-36207,DRG12101,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
-36208,DRG12101,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
-36209,DRG12101,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
-36210,DRG12101,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
-36211,DRG12101,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
-36212,DRG12101,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
-36213,DRG12101,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
-36214,DRG12101,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
-36215,DRG12101,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
-36216,DRG12101,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
-36217,DRG12101,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
-36218,DRG12101,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
-36219,DRG12101,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
-36220,DRG12101,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
-36221,DRG12101,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
-36222,DRG12101,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast
+DRG,CM-PCS,en
+DRG12101,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
+DRG12101,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+DRG12101,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+DRG12101,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
+DRG12101,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+DRG12101,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+DRG12101,I2129,ST elevation (STEMI) myocardial infarction involving other sites
+DRG12101,I213,ST elevation (STEMI) myocardial infarction of unspecified site
+DRG12101,I214,Non-ST elevation (NSTEMI) myocardial infarction
+DRG12101,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+DRG12101,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+DRG12101,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+DRG12101,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+DRG12101,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+DRG12101,A221,Pulmonary anthrax
+DRG12101,A3791,"Whooping cough, unspecified species with pneumonia"
+DRG12101,B250,Cytomegaloviral pneumonitis
+DRG12101,B440,Invasive pulmonary aspergillosis
+DRG12101,I0981,Rheumatic heart failure
+DRG12101,I110,Hypertensive heart disease with heart failure
+DRG12101,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+DRG12101,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+DRG12101,I234,Rupture of chordae tendineae as current complication following acute myocardial infarction
+DRG12101,I235,Rupture of papillary muscle as current complication following acute myocardial infarction
+DRG12101,I241,Dressler's syndrome
+DRG12101,I253,Aneurysm of heart
+DRG12101,I2541,Coronary artery aneurysm
+DRG12101,I2542,Coronary artery dissection
+DRG12101,I2690,Septic pulmonary embolism without acute cor pulmonale
+DRG12101,I2692,Saddle embolus of pulmonary artery without acute cor pulmonale
+DRG12101,I2699,Other pulmonary embolism without acute cor pulmonale
+DRG12101,I270,Primary pulmonary hypertension
+DRG12101,I2782,Chronic pulmonary embolism
+DRG12101,I441,"Atrioventricular block, second degree"
+DRG12101,I442,"Atrioventricular block, complete"
+DRG12101,I4430,Unspecified atrioventricular block
+DRG12101,I4439,Other atrioventricular block
+DRG12101,I4460,Unspecified fascicular block
+DRG12101,I447,"Left bundle-branch block, unspecified"
+DRG12101,I452,Bifascicular block
+DRG12101,I453,Trifascicular block
+DRG12101,I462,Cardiac arrest due to underlying cardiac condition
+DRG12101,I468,Cardiac arrest due to other underlying condition
+DRG12101,I469,"Cardiac arrest, cause unspecified"
+DRG12101,I470,Re-entry ventricular arrhythmia
+DRG12101,I471,Supraventricular tachycardia
+DRG12101,I472,Ventricular tachycardia
+DRG12101,I479,"Paroxysmal tachycardia, unspecified"
+DRG12101,I480,Paroxysmal atrial fibrillation
+DRG12101,I481,Persistent atrial fibrillation
+DRG12101,I482,Chronic atrial fibrillation
+DRG12101,I483,Typical atrial flutter
+DRG12101,I484,Atypical atrial flutter
+DRG12101,I4891,Unspecified atrial fibrillation
+DRG12101,I4892,Unspecified atrial flutter
+DRG12101,I4901,Ventricular fibrillation
+DRG12101,I4902,Ventricular flutter
+DRG12101,I492,Junctional premature depolarization
+DRG12101,I493,Ventricular premature depolarization
+DRG12101,I501,Left ventricular failure
+DRG12101,I5020,Unspecified systolic (congestive) heart failure
+DRG12101,I5021,Acute systolic (congestive) heart failure
+DRG12101,I5022,Chronic systolic (congestive) heart failure
+DRG12101,I5023,Acute on chronic systolic (congestive) heart failure
+DRG12101,I5030,Unspecified diastolic (congestive) heart failure
+DRG12101,I5031,Acute diastolic (congestive) heart failure
+DRG12101,I5032,Chronic diastolic (congestive) heart failure
+DRG12101,I5033,Acute on chronic diastolic (congestive) heart failure
+DRG12101,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+DRG12101,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+DRG12101,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG12101,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG12101,I509,"Heart failure, unspecified"
+DRG12101,I511,"Rupture of chordae tendineae, not elsewhere classified"
+DRG12101,I512,"Rupture of papillary muscle, not elsewhere classified"
+DRG12101,I5189,Other ill-defined heart diseases
+DRG12101,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
+DRG12101,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
+DRG12101,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
+DRG12101,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
+DRG12101,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
+DRG12101,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
+DRG12101,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
+DRG12101,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
+DRG12101,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
+DRG12101,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
+DRG12101,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
+DRG12101,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
+DRG12101,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
+DRG12101,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
+DRG12101,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
+DRG12101,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
+DRG12101,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
+DRG12101,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
+DRG12101,I608,Other nontraumatic subarachnoid hemorrhage
+DRG12101,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
+DRG12101,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+DRG12101,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+DRG12101,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
+DRG12101,I613,Nontraumatic intracerebral hemorrhage in brain stem
+DRG12101,I614,Nontraumatic intracerebral hemorrhage in cerebellum
+DRG12101,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
+DRG12101,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
+DRG12101,I618,Other nontraumatic intracerebral hemorrhage
+DRG12101,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
+DRG12101,I6200,"Nontraumatic subdural hemorrhage, unspecified"
+DRG12101,I6201,Nontraumatic acute subdural hemorrhage
+DRG12101,I6202,Nontraumatic subacute subdural hemorrhage
+DRG12101,I6203,Nontraumatic chronic subdural hemorrhage
+DRG12101,I621,Nontraumatic extradural hemorrhage
+DRG12101,I629,"Nontraumatic intracranial hemorrhage, unspecified"
+DRG12101,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
+DRG12101,I63011,Cerebral infarction due to thrombosis of right vertebral artery
+DRG12101,I63012,Cerebral infarction due to thrombosis of left vertebral artery
+DRG12101,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
+DRG12101,I6302,Cerebral infarction due to thrombosis of basilar artery
+DRG12101,I63031,Cerebral infarction due to thrombosis of right carotid artery
+DRG12101,I63032,Cerebral infarction due to thrombosis of left carotid artery
+DRG12101,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
+DRG12101,I6309,Cerebral infarction due to thrombosis of other precerebral artery
+DRG12101,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
+DRG12101,I63111,Cerebral infarction due to embolism of right vertebral artery
+DRG12101,I63112,Cerebral infarction due to embolism of left vertebral artery
+DRG12101,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
+DRG12101,I6312,Cerebral infarction due to embolism of basilar artery
+DRG12101,I63131,Cerebral infarction due to embolism of right carotid artery
+DRG12101,I63132,Cerebral infarction due to embolism of left carotid artery
+DRG12101,I63139,Cerebral infarction due to embolism of unspecified carotid artery
+DRG12101,I6319,Cerebral infarction due to embolism of other precerebral artery
+DRG12101,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
+DRG12101,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+DRG12101,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+DRG12101,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
+DRG12101,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
+DRG12101,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+DRG12101,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
+DRG12101,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
+DRG12101,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+DRG12101,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
+DRG12101,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
+DRG12101,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
+DRG12101,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
+DRG12101,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
+DRG12101,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
+DRG12101,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+DRG12101,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
+DRG12101,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
+DRG12101,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
+DRG12101,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
+DRG12101,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
+DRG12101,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
+DRG12101,I6339,Cerebral infarction due to thrombosis of other cerebral artery
+DRG12101,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
+DRG12101,I63411,Cerebral infarction due to embolism of right middle cerebral artery
+DRG12101,I63412,Cerebral infarction due to embolism of left middle cerebral artery
+DRG12101,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
+DRG12101,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
+DRG12101,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
+DRG12101,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
+DRG12101,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
+DRG12101,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
+DRG12101,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
+DRG12101,I63441,Cerebral infarction due to embolism of right cerebellar artery
+DRG12101,I63442,Cerebral infarction due to embolism of left cerebellar artery
+DRG12101,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
+DRG12101,I6349,Cerebral infarction due to embolism of other cerebral artery
+DRG12101,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+DRG12101,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
+DRG12101,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+DRG12101,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+DRG12101,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
+DRG12101,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
+DRG12101,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
+DRG12101,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
+DRG12101,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
+DRG12101,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
+DRG12101,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
+DRG12101,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
+DRG12101,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
+DRG12101,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+DRG12101,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+DRG12101,I638,Other cerebral infarction
+DRG12101,I639,"Cerebral infarction, unspecified"
+DRG12101,I6601,Occlusion and stenosis of right middle cerebral artery
+DRG12101,I6602,Occlusion and stenosis of left middle cerebral artery
+DRG12101,I6603,Occlusion and stenosis of bilateral middle cerebral arteries
+DRG12101,I6609,Occlusion and stenosis of unspecified middle cerebral artery
+DRG12101,I6611,Occlusion and stenosis of right anterior cerebral artery
+DRG12101,I6612,Occlusion and stenosis of left anterior cerebral artery
+DRG12101,I6613,Occlusion and stenosis of bilateral anterior cerebral arteries
+DRG12101,I6619,Occlusion and stenosis of unspecified anterior cerebral artery
+DRG12101,I6621,Occlusion and stenosis of right posterior cerebral artery
+DRG12101,I6622,Occlusion and stenosis of left posterior cerebral artery
+DRG12101,I6623,Occlusion and stenosis of bilateral posterior cerebral arteries
+DRG12101,I6629,Occlusion and stenosis of unspecified posterior cerebral artery
+DRG12101,I663,Occlusion and stenosis of cerebellar arteries
+DRG12101,I668,Occlusion and stenosis of other cerebral arteries
+DRG12101,I669,Occlusion and stenosis of unspecified cerebral artery
+DRG12101,I6789,Other cerebrovascular disease
+DRG12101,I7100,Dissection of unspecified site of aorta
+DRG12101,I7101,Dissection of thoracic aorta
+DRG12101,I7102,Dissection of abdominal aorta
+DRG12101,I7103,Dissection of thoracoabdominal aorta
+DRG12101,I9589,Other hypotension
+DRG12101,I959,"Hypotension, unspecified"
+DRG12101,J09X1,Influenza due to identified novel influenza A virus with pneumonia
+DRG12101,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
+DRG12101,J1008,Influenza due to other identified influenza virus with other specified pneumonia
+DRG12101,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+DRG12101,J1108,Influenza due to unidentified influenza virus with specified pneumonia
+DRG12101,J13,Pneumonia due to Streptococcus pneumoniae
+DRG12101,J14,Pneumonia due to Hemophilus influenzae
+DRG12101,J150,Pneumonia due to Klebsiella pneumoniae
+DRG12101,J151,Pneumonia due to Pseudomonas
+DRG12101,J1520,"Pneumonia due to staphylococcus, unspecified"
+DRG12101,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
+DRG12101,J1529,Pneumonia due to other staphylococcus
+DRG12101,J153,"Pneumonia due to streptococcus, group B"
+DRG12101,J154,Pneumonia due to other streptococci
+DRG12101,J155,Pneumonia due to Escherichia coli
+DRG12101,J156,Pneumonia due to other aerobic Gram-negative bacteria
+DRG12101,J157,Pneumonia due to Mycoplasma pneumoniae
+DRG12101,J158,Pneumonia due to other specified bacteria
+DRG12101,J159,Unspecified bacterial pneumonia
+DRG12101,J160,Chlamydial pneumonia
+DRG12101,J168,Pneumonia due to other specified infectious organisms
+DRG12101,J17,Pneumonia in diseases classified elsewhere
+DRG12101,J180,"Bronchopneumonia, unspecified organism"
+DRG12101,J181,"Lobar pneumonia, unspecified organism"
+DRG12101,J188,"Other pneumonia, unspecified organism"
+DRG12101,J189,"Pneumonia, unspecified organism"
+DRG12101,J690,Pneumonitis due to inhalation of food and vomit
+DRG12101,J691,Pneumonitis due to inhalation of oils and essences
+DRG12101,J698,Pneumonitis due to inhalation of other solids and liquids
+DRG12101,J80,Acute respiratory distress syndrome
+DRG12101,J951,Acute pulmonary insufficiency following thoracic surgery
+DRG12101,J952,Acute pulmonary insufficiency following nonthoracic surgery
+DRG12101,J953,Chronic pulmonary insufficiency following surgery
+DRG12101,J95821,Acute postprocedural respiratory failure
+DRG12101,J95822,Acute and chronic postprocedural respiratory failure
+DRG12101,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG12101,J9601,Acute respiratory failure with hypoxia
+DRG12101,J9602,Acute respiratory failure with hypercapnia
+DRG12101,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG12101,J9611,Chronic respiratory failure with hypoxia
+DRG12101,J9612,Chronic respiratory failure with hypercapnia
+DRG12101,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG12101,J9621,Acute and chronic respiratory failure with hypoxia
+DRG12101,J9622,Acute and chronic respiratory failure with hypercapnia
+DRG12101,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG12101,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG12101,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG12101,J9811,Atelectasis
+DRG12101,J9819,Other pulmonary collapse
+DRG12101,J984,Other disorders of lung
+DRG12101,L89000,"Pressure ulcer of unspecified elbow, unstageable"
+DRG12101,L89001,"Pressure ulcer of unspecified elbow, stage 1"
+DRG12101,L89002,"Pressure ulcer of unspecified elbow, stage 2"
+DRG12101,L89003,"Pressure ulcer of unspecified elbow, stage 3"
+DRG12101,L89004,"Pressure ulcer of unspecified elbow, stage 4"
+DRG12101,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
+DRG12101,L89010,"Pressure ulcer of right elbow, unstageable"
+DRG12101,L89011,"Pressure ulcer of right elbow, stage 1"
+DRG12101,L89012,"Pressure ulcer of right elbow, stage 2"
+DRG12101,L89013,"Pressure ulcer of right elbow, stage 3"
+DRG12101,L89014,"Pressure ulcer of right elbow, stage 4"
+DRG12101,L89020,"Pressure ulcer of left elbow, unstageable"
+DRG12101,L89021,"Pressure ulcer of left elbow, stage 1"
+DRG12101,L89022,"Pressure ulcer of left elbow, stage 2"
+DRG12101,L89023,"Pressure ulcer of left elbow, stage 3"
+DRG12101,L89024,"Pressure ulcer of left elbow, stage 4"
+DRG12101,L89100,"Pressure ulcer of unspecified part of back, unstageable"
+DRG12101,L89101,"Pressure ulcer of unspecified part of back, stage 1"
+DRG12101,L89102,"Pressure ulcer of unspecified part of back, stage 2"
+DRG12101,L89103,"Pressure ulcer of unspecified part of back, stage 3"
+DRG12101,L89104,"Pressure ulcer of unspecified part of back, stage 4"
+DRG12101,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
+DRG12101,L89110,"Pressure ulcer of right upper back, unstageable"
+DRG12101,L89111,"Pressure ulcer of right upper back, stage 1"
+DRG12101,L89112,"Pressure ulcer of right upper back, stage 2"
+DRG12101,L89113,"Pressure ulcer of right upper back, stage 3"
+DRG12101,L89114,"Pressure ulcer of right upper back, stage 4"
+DRG12101,L89119,"Pressure ulcer of right upper back, unspecified stage"
+DRG12101,L89120,"Pressure ulcer of left upper back, unstageable"
+DRG12101,L89121,"Pressure ulcer of left upper back, stage 1"
+DRG12101,L89122,"Pressure ulcer of left upper back, stage 2"
+DRG12101,L89123,"Pressure ulcer of left upper back, stage 3"
+DRG12101,L89124,"Pressure ulcer of left upper back, stage 4"
+DRG12101,L89129,"Pressure ulcer of left upper back, unspecified stage"
+DRG12101,L89130,"Pressure ulcer of right lower back, unstageable"
+DRG12101,L89131,"Pressure ulcer of right lower back, stage 1"
+DRG12101,L89132,"Pressure ulcer of right lower back, stage 2"
+DRG12101,L89133,"Pressure ulcer of right lower back, stage 3"
+DRG12101,L89134,"Pressure ulcer of right lower back, stage 4"
+DRG12101,L89139,"Pressure ulcer of right lower back, unspecified stage"
+DRG12101,L89140,"Pressure ulcer of left lower back, unstageable"
+DRG12101,L89141,"Pressure ulcer of left lower back, stage 1"
+DRG12101,L89142,"Pressure ulcer of left lower back, stage 2"
+DRG12101,L89143,"Pressure ulcer of left lower back, stage 3"
+DRG12101,L89144,"Pressure ulcer of left lower back, stage 4"
+DRG12101,L89149,"Pressure ulcer of left lower back, unspecified stage"
+DRG12101,L89150,"Pressure ulcer of sacral region, unstageable"
+DRG12101,L89151,"Pressure ulcer of sacral region, stage 1"
+DRG12101,L89152,"Pressure ulcer of sacral region, stage 2"
+DRG12101,L89153,"Pressure ulcer of sacral region, stage 3"
+DRG12101,L89154,"Pressure ulcer of sacral region, stage 4"
+DRG12101,L89159,"Pressure ulcer of sacral region, unspecified stage"
+DRG12101,L89200,"Pressure ulcer of unspecified hip, unstageable"
+DRG12101,L89201,"Pressure ulcer of unspecified hip, stage 1"
+DRG12101,L89202,"Pressure ulcer of unspecified hip, stage 2"
+DRG12101,L89203,"Pressure ulcer of unspecified hip, stage 3"
+DRG12101,L89204,"Pressure ulcer of unspecified hip, stage 4"
+DRG12101,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
+DRG12101,L89210,"Pressure ulcer of right hip, unstageable"
+DRG12101,L89211,"Pressure ulcer of right hip, stage 1"
+DRG12101,L89212,"Pressure ulcer of right hip, stage 2"
+DRG12101,L89213,"Pressure ulcer of right hip, stage 3"
+DRG12101,L89214,"Pressure ulcer of right hip, stage 4"
+DRG12101,L89219,"Pressure ulcer of right hip, unspecified stage"
+DRG12101,L89220,"Pressure ulcer of left hip, unstageable"
+DRG12101,L89221,"Pressure ulcer of left hip, stage 1"
+DRG12101,L89222,"Pressure ulcer of left hip, stage 2"
+DRG12101,L89223,"Pressure ulcer of left hip, stage 3"
+DRG12101,L89224,"Pressure ulcer of left hip, stage 4"
+DRG12101,L89229,"Pressure ulcer of left hip, unspecified stage"
+DRG12101,L89300,"Pressure ulcer of unspecified buttock, unstageable"
+DRG12101,L89301,"Pressure ulcer of unspecified buttock, stage 1"
+DRG12101,L89302,"Pressure ulcer of unspecified buttock, stage 2"
+DRG12101,L89303,"Pressure ulcer of unspecified buttock, stage 3"
+DRG12101,L89304,"Pressure ulcer of unspecified buttock, stage 4"
+DRG12101,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
+DRG12101,L89310,"Pressure ulcer of right buttock, unstageable"
+DRG12101,L89311,"Pressure ulcer of right buttock, stage 1"
+DRG12101,L89312,"Pressure ulcer of right buttock, stage 2"
+DRG12101,L89313,"Pressure ulcer of right buttock, stage 3"
+DRG12101,L89314,"Pressure ulcer of right buttock, stage 4"
+DRG12101,L89319,"Pressure ulcer of right buttock, unspecified stage"
+DRG12101,L89320,"Pressure ulcer of left buttock, unstageable"
+DRG12101,L89321,"Pressure ulcer of left buttock, stage 1"
+DRG12101,L89322,"Pressure ulcer of left buttock, stage 2"
+DRG12101,L89323,"Pressure ulcer of left buttock, stage 3"
+DRG12101,L89324,"Pressure ulcer of left buttock, stage 4"
+DRG12101,L89329,"Pressure ulcer of left buttock, unspecified stage"
+DRG12101,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
+DRG12101,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
+DRG12101,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
+DRG12101,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
+DRG12101,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
+DRG12101,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
+DRG12101,L89500,"Pressure ulcer of unspecified ankle, unstageable"
+DRG12101,L89501,"Pressure ulcer of unspecified ankle, stage 1"
+DRG12101,L89502,"Pressure ulcer of unspecified ankle, stage 2"
+DRG12101,L89503,"Pressure ulcer of unspecified ankle, stage 3"
+DRG12101,L89504,"Pressure ulcer of unspecified ankle, stage 4"
+DRG12101,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
+DRG12101,L89510,"Pressure ulcer of right ankle, unstageable"
+DRG12101,L89511,"Pressure ulcer of right ankle, stage 1"
+DRG12101,L89512,"Pressure ulcer of right ankle, stage 2"
+DRG12101,L89513,"Pressure ulcer of right ankle, stage 3"
+DRG12101,L89514,"Pressure ulcer of right ankle, stage 4"
+DRG12101,L89519,"Pressure ulcer of right ankle, unspecified stage"
+DRG12101,L89520,"Pressure ulcer of left ankle, unstageable"
+DRG12101,L89521,"Pressure ulcer of left ankle, stage 1"
+DRG12101,L89522,"Pressure ulcer of left ankle, stage 2"
+DRG12101,L89523,"Pressure ulcer of left ankle, stage 3"
+DRG12101,L89524,"Pressure ulcer of left ankle, stage 4"
+DRG12101,L89529,"Pressure ulcer of left ankle, unspecified stage"
+DRG12101,L89600,"Pressure ulcer of unspecified heel, unstageable"
+DRG12101,L89601,"Pressure ulcer of unspecified heel, stage 1"
+DRG12101,L89602,"Pressure ulcer of unspecified heel, stage 2"
+DRG12101,L89603,"Pressure ulcer of unspecified heel, stage 3"
+DRG12101,L89604,"Pressure ulcer of unspecified heel, stage 4"
+DRG12101,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
+DRG12101,L89610,"Pressure ulcer of right heel, unstageable"
+DRG12101,L89611,"Pressure ulcer of right heel, stage 1"
+DRG12101,L89612,"Pressure ulcer of right heel, stage 2"
+DRG12101,L89613,"Pressure ulcer of right heel, stage 3"
+DRG12101,L89614,"Pressure ulcer of right heel, stage 4"
+DRG12101,L89620,"Pressure ulcer of left heel, unstageable"
+DRG12101,L89621,"Pressure ulcer of left heel, stage 1"
+DRG12101,L89622,"Pressure ulcer of left heel, stage 2"
+DRG12101,L89623,"Pressure ulcer of left heel, stage 3"
+DRG12101,L89624,"Pressure ulcer of left heel, stage 4"
+DRG12101,L89629,"Pressure ulcer of left heel, unspecified stage"
+DRG12101,L89810,"Pressure ulcer of head, unstageable"
+DRG12101,L89811,"Pressure ulcer of head, stage 1"
+DRG12101,L89812,"Pressure ulcer of head, stage 2"
+DRG12101,L89813,"Pressure ulcer of head, stage 3"
+DRG12101,L89814,"Pressure ulcer of head, stage 4"
+DRG12101,L89819,"Pressure ulcer of head, unspecified stage"
+DRG12101,L89890,"Pressure ulcer of other site, unstageable"
+DRG12101,L89891,"Pressure ulcer of other site, stage 1"
+DRG12101,L89892,"Pressure ulcer of other site, stage 2"
+DRG12101,L89893,"Pressure ulcer of other site, stage 3"
+DRG12101,L89894,"Pressure ulcer of other site, stage 4"
+DRG12101,L89899,"Pressure ulcer of other site, unspecified stage"
+DRG12101,L8990,"Pressure ulcer of unspecified site, unspecified stage"
+DRG12101,L8991,"Pressure ulcer of unspecified site, stage 1"
+DRG12101,L8992,"Pressure ulcer of unspecified site, stage 2"
+DRG12101,L8993,"Pressure ulcer of unspecified site, stage 3"
+DRG12101,L8994,"Pressure ulcer of unspecified site, stage 4"
+DRG12101,L8995,"Pressure ulcer of unspecified site, unstageable"
+DRG12101,N170,Acute kidney failure with tubular necrosis
+DRG12101,N171,Acute kidney failure with acute cortical necrosis
+DRG12101,N172,Acute kidney failure with medullary necrosis
+DRG12101,N178,Other acute kidney failure
+DRG12101,N179,"Acute kidney failure, unspecified"
+DRG12101,R570,Cardiogenic shock
+DRG12101,R579,"Shock, unspecified"
+DRG12101,T800XXA,"Air embolism following infusion, transfusion and therapeutic injection, initial encounter"
+DRG12101,T80211A,"Bloodstream infection due to central venous catheter, initial encounter"
+DRG12101,T80212A,"Local infection due to central venous catheter, initial encounter"
+DRG12101,T80218A,"Other infection due to central venous catheter, initial encounter"
+DRG12101,T80219A,"Unspecified infection due to central venous catheter, initial encounter"
+DRG12101,T8022XA,"Acute infection following transfusion, infusion, or injection of blood and blood products, initial encounter"
+DRG12101,T827XXA,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter"
+DRG12101,T82817A,"Embolism of cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T82827A,"Fibrosis of cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T82837A,"Hemorrhage of cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T82847A,"Pain from cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T82857A,"Stenosis of cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T82867A,"Thrombosis of cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T82897A,"Other specified complication of cardiac prosthetic devices, implants and grafts, initial encounter"
+DRG12101,T829XXA,"Unspecified complication of cardiac and vascular prosthetic device, implant and graft, initial encounter"
+DRG12101,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
+DRG12101,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
+DRG12101,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
+DRG12101,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+DRG12101,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
+DRG12101,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
+DRG12101,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
+DRG12101,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+DRG12101,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+DRG12101,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
+DRG12101,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
+DRG12101,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
+DRG12101,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
+DRG12101,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
+DRG12101,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
+DRG12101,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+DRG12101,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+DRG12101,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
+DRG12101,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+DRG12101,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+DRG12101,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
+DRG12101,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
+DRG12101,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
+DRG12101,B204YZZ,Plain Radiography of Right Heart using Other Contrast
+DRG12101,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
+DRG12101,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
+DRG12101,B205YZZ,Plain Radiography of Left Heart using Other Contrast
+DRG12101,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
+DRG12101,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
+DRG12101,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
+DRG12101,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG12101,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG12101,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
+DRG12101,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG12101,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG12101,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
+DRG12101,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
+DRG12101,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
+DRG12101,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
+DRG12101,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
+DRG12101,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
+DRG12101,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
+DRG12101,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
+DRG12101,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
+DRG12101,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
+DRG12101,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+DRG12101,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+DRG12101,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
+DRG12101,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+DRG12101,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+DRG12101,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
+DRG12101,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
+DRG12101,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
+DRG12101,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
+DRG12101,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
+DRG12101,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
+DRG12101,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
+DRG12101,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
+DRG12101,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
+DRG12101,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
+DRG12101,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG12101,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG12101,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
+DRG12101,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG12101,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG12101,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
+DRG12101,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
+DRG12101,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
+DRG12101,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast
