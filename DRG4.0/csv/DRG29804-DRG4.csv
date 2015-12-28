@@ -1,0 +1,82 @@
+,DRG,CM-PCS,en
+24623,DRG29804,D81818,Other biotin-dependent carboxylase deficiency
+24624,DRG29804,D81819,"Biotin-dependent carboxylase deficiency, unspecified"
+24625,DRG29804,E40,Kwashiorkor
+24626,DRG29804,E41,Nutritional marasmus
+24627,DRG29804,E42,Marasmic kwashiorkor
+24628,DRG29804,E43,Unspecified severe protein-calorie malnutrition
+24629,DRG29804,E440,Moderate protein-calorie malnutrition
+24630,DRG29804,E441,Mild protein-calorie malnutrition
+24631,DRG29804,E45,Retarded development following protein-calorie malnutrition
+24632,DRG29804,E46,Unspecified protein-calorie malnutrition
+24633,DRG29804,E508,Other manifestations of vitamin A deficiency
+24634,DRG29804,E509,"Vitamin A deficiency, unspecified"
+24635,DRG29804,E5111,Dry beriberi
+24636,DRG29804,E5112,Wet beriberi
+24637,DRG29804,E512,Wernicke's encephalopathy
+24638,DRG29804,E518,Other manifestations of thiamine deficiency
+24639,DRG29804,E519,"Thiamine deficiency, unspecified"
+24640,DRG29804,E52,Niacin deficiency [pellagra]
+24641,DRG29804,E530,Riboflavin deficiency
+24642,DRG29804,E531,Pyridoxine deficiency
+24643,DRG29804,E538,Deficiency of other specified B group vitamins
+24644,DRG29804,E539,"Vitamin B deficiency, unspecified"
+24645,DRG29804,E54,Ascorbic acid deficiency
+24646,DRG29804,E559,"Vitamin D deficiency, unspecified"
+24647,DRG29804,E560,Deficiency of vitamin E
+24648,DRG29804,E561,Deficiency of vitamin K
+24649,DRG29804,E568,Deficiency of other vitamins
+24650,DRG29804,E569,"Vitamin deficiency, unspecified"
+24651,DRG29804,E58,Dietary calcium deficiency
+24652,DRG29804,E59,Dietary selenium deficiency
+24653,DRG29804,E60,Dietary zinc deficiency
+24654,DRG29804,E610,Copper deficiency
+24655,DRG29804,E611,Iron deficiency
+24656,DRG29804,E612,Magnesium deficiency
+24657,DRG29804,E613,Manganese deficiency
+24658,DRG29804,E614,Chromium deficiency
+24659,DRG29804,E615,Molybdenum deficiency
+24660,DRG29804,E616,Vanadium deficiency
+24661,DRG29804,E617,Deficiency of multiple nutrient elements
+24662,DRG29804,E618,Deficiency of other specified nutrient elements
+24663,DRG29804,E619,"Deficiency of nutrient element, unspecified"
+24664,DRG29804,E630,Essential fatty acid [EFA] deficiency
+24665,DRG29804,E631,Imbalance of constituents of food intake
+24666,DRG29804,E638,Other specified nutritional deficiencies
+24667,DRG29804,E639,"Nutritional deficiency, unspecified"
+24668,DRG29804,E640,Sequelae of protein-calorie malnutrition
+24669,DRG29804,E641,Sequelae of vitamin A deficiency
+24670,DRG29804,E642,Sequelae of vitamin C deficiency
+24671,DRG29804,E648,Sequelae of other nutritional deficiencies
+24672,DRG29804,E649,Sequelae of unspecified nutritional deficiency
+24673,DRG29804,E670,Hypervitaminosis A
+24674,DRG29804,E671,Hypercarotinemia
+24675,DRG29804,E672,Megavitamin-B6 syndrome
+24676,DRG29804,E673,Hypervitaminosis D
+24677,DRG29804,E678,Other specified hyperalimentation
+24678,DRG29804,E68,Sequelae of hyperalimentation
+24679,DRG29804,E8340,"Disorders of magnesium metabolism, unspecified"
+24680,DRG29804,E8341,Hypermagnesemia
+24681,DRG29804,E8342,Hypomagnesemia
+24682,DRG29804,E8349,Other disorders of magnesium metabolism
+24683,DRG29804,E840,Cystic fibrosis with pulmonary manifestations
+24684,DRG29804,E8419,Cystic fibrosis with other intestinal manifestations
+24685,DRG29804,E848,Cystic fibrosis with other manifestations
+24686,DRG29804,E849,"Cystic fibrosis, unspecified"
+24687,DRG29804,E860,Dehydration
+24688,DRG29804,E861,Hypovolemia
+24689,DRG29804,E869,"Volume depletion, unspecified"
+24690,DRG29804,E8770,"Fluid overload, unspecified"
+24691,DRG29804,E8771,Transfusion associated circulatory overload
+24692,DRG29804,E8779,Other fluid overload
+24693,DRG29804,P926,Failure to thrive in newborn
+24694,DRG29804,R290,Tetany
+24695,DRG29804,R620,Delayed milestone in childhood
+24696,DRG29804,R6250,Unspecified lack of expected normal physiological development in childhood
+24697,DRG29804,R6251,Failure to thrive (child)
+24698,DRG29804,R6252,Short stature (child)
+24699,DRG29804,R6259,Other lack of expected normal physiological development in childhood
+24700,DRG29804,R627,Adult failure to thrive
+24701,DRG29804,R630,Anorexia
+24702,DRG29804,R633,Feeding difficulties
+24703,DRG29804,R638,Other symptoms and signs concerning food and fluid intake

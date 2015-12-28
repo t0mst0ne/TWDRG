@@ -1,0 +1,30 @@
+,DRG,CM-PCS,en
+6605,DRG10201,J22,Unspecified acute lower respiratory infection
+6606,DRG10201,J680,"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors"
+6607,DRG10201,J682,"Upper respiratory inflammation due to chemicals, gases, fumes and vapors, not elsewhere classified"
+6608,DRG10201,J683,"Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapors"
+6609,DRG10201,J700,Acute pulmonary manifestations due to radiation
+6610,DRG10201,J702,Acute drug-induced interstitial lung disorders
+6611,DRG10201,J703,Chronic drug-induced interstitial lung disorders
+6612,DRG10201,J704,"Drug-induced interstitial lung disorders, unspecified"
+6613,DRG10201,J708,Respiratory conditions due to other specified external agents
+6614,DRG10201,J709,Respiratory conditions due to unspecified external agent
+6615,DRG10201,J954,Chemical pneumonitis due to anesthesia
+6616,DRG10201,J955,Postprocedural subglottic stenosis
+6617,DRG10201,J9584,Transfusion-related acute lung injury (TRALI)
+6618,DRG10201,J95850,Mechanical complication of respirator
+6619,DRG10201,J95851,Ventilator associated pneumonia
+6620,DRG10201,J95859,Other complication of respirator [ventilator]
+6621,DRG10201,J9588,"Other intraoperative complications of respiratory system, not elsewhere classified"
+6622,DRG10201,J9589,"Other postprocedural complications and disorders of respiratory system, not elsewhere classified"
+6623,DRG10201,J9811,Atelectasis
+6624,DRG10201,J9819,Other pulmonary collapse
+6625,DRG10201,J983,Compensatory emphysema
+6626,DRG10201,J985,"Diseases of mediastinum, not elsewhere classified"
+6627,DRG10201,J986,Disorders of diaphragm
+6628,DRG10201,J988,Other specified respiratory disorders
+6629,DRG10201,J989,"Respiratory disorder, unspecified"
+6630,DRG10201,R683,Clubbing of fingers
+6631,DRG10201,R911,Solitary pulmonary nodule
+6632,DRG10201,R942,Abnormal results of pulmonary function studies
+6633,DRG10201,Z430,Encounter for attention to tracheostomy

@@ -1,0 +1,113 @@
+,DRG,CM-PCS,en
+46328,DRG01413,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
+46329,DRG01413,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
+46330,DRG01413,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
+46331,DRG01413,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
+46332,DRG01413,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
+46333,DRG01413,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
+46334,DRG01413,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
+46335,DRG01413,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
+46336,DRG01413,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
+46337,DRG01413,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
+46338,DRG01413,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
+46339,DRG01413,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
+46340,DRG01413,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
+46341,DRG01413,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
+46342,DRG01413,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
+46343,DRG01413,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
+46344,DRG01413,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
+46345,DRG01413,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
+46346,DRG01413,I608,Other nontraumatic subarachnoid hemorrhage
+46347,DRG01413,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
+46348,DRG01413,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+46349,DRG01413,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+46350,DRG01413,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
+46351,DRG01413,I613,Nontraumatic intracerebral hemorrhage in brain stem
+46352,DRG01413,I614,Nontraumatic intracerebral hemorrhage in cerebellum
+46353,DRG01413,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
+46354,DRG01413,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
+46355,DRG01413,I618,Other nontraumatic intracerebral hemorrhage
+46356,DRG01413,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
+46357,DRG01413,I6200,"Nontraumatic subdural hemorrhage, unspecified"
+46358,DRG01413,I6201,Nontraumatic acute subdural hemorrhage
+46359,DRG01413,I6202,Nontraumatic subacute subdural hemorrhage
+46360,DRG01413,I6203,Nontraumatic chronic subdural hemorrhage
+46361,DRG01413,I621,Nontraumatic extradural hemorrhage
+46362,DRG01413,I629,"Nontraumatic intracranial hemorrhage, unspecified"
+46363,DRG01413,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
+46364,DRG01413,I63011,Cerebral infarction due to thrombosis of right vertebral artery
+46365,DRG01413,I63012,Cerebral infarction due to thrombosis of left vertebral artery
+46366,DRG01413,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
+46367,DRG01413,I6302,Cerebral infarction due to thrombosis of basilar artery
+46368,DRG01413,I63031,Cerebral infarction due to thrombosis of right carotid artery
+46369,DRG01413,I63032,Cerebral infarction due to thrombosis of left carotid artery
+46370,DRG01413,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
+46371,DRG01413,I6309,Cerebral infarction due to thrombosis of other precerebral artery
+46372,DRG01413,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
+46373,DRG01413,I63111,Cerebral infarction due to embolism of right vertebral artery
+46374,DRG01413,I63112,Cerebral infarction due to embolism of left vertebral artery
+46375,DRG01413,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
+46376,DRG01413,I6312,Cerebral infarction due to embolism of basilar artery
+46377,DRG01413,I63131,Cerebral infarction due to embolism of right carotid artery
+46378,DRG01413,I63132,Cerebral infarction due to embolism of left carotid artery
+46379,DRG01413,I63139,Cerebral infarction due to embolism of unspecified carotid artery
+46380,DRG01413,I6319,Cerebral infarction due to embolism of other precerebral artery
+46381,DRG01413,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
+46382,DRG01413,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+46383,DRG01413,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+46384,DRG01413,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
+46385,DRG01413,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
+46386,DRG01413,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+46387,DRG01413,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
+46388,DRG01413,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
+46389,DRG01413,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+46390,DRG01413,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
+46391,DRG01413,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
+46392,DRG01413,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
+46393,DRG01413,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
+46394,DRG01413,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
+46395,DRG01413,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
+46396,DRG01413,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+46397,DRG01413,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
+46398,DRG01413,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
+46399,DRG01413,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
+46400,DRG01413,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
+46401,DRG01413,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
+46402,DRG01413,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
+46403,DRG01413,I6339,Cerebral infarction due to thrombosis of other cerebral artery
+46404,DRG01413,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
+46405,DRG01413,I63411,Cerebral infarction due to embolism of right middle cerebral artery
+46406,DRG01413,I63412,Cerebral infarction due to embolism of left middle cerebral artery
+46407,DRG01413,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
+46408,DRG01413,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
+46409,DRG01413,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
+46410,DRG01413,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
+46411,DRG01413,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
+46412,DRG01413,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
+46413,DRG01413,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
+46414,DRG01413,I63441,Cerebral infarction due to embolism of right cerebellar artery
+46415,DRG01413,I63442,Cerebral infarction due to embolism of left cerebellar artery
+46416,DRG01413,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
+46417,DRG01413,I6349,Cerebral infarction due to embolism of other cerebral artery
+46418,DRG01413,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+46419,DRG01413,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
+46420,DRG01413,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+46421,DRG01413,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+46422,DRG01413,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
+46423,DRG01413,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
+46424,DRG01413,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
+46425,DRG01413,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
+46426,DRG01413,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
+46427,DRG01413,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
+46428,DRG01413,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
+46429,DRG01413,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
+46430,DRG01413,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
+46431,DRG01413,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+46432,DRG01413,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+46433,DRG01413,I638,Other cerebral infarction
+46434,DRG01413,I639,"Cerebral infarction, unspecified"
+46435,DRG01413,I670,"Dissection of cerebral arteries, nonruptured"
+46436,DRG01413,I671,"Cerebral aneurysm, nonruptured"
+46437,DRG01413,I6789,Other cerebrovascular disease
+46438,DRG01413,R4701,Aphasia
+46441,DRG01413,3E00002,Thrombolytic agent 2 or  more unit

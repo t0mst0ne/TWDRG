@@ -1,0 +1,72 @@
+,DRG,CM-PCS,en
+7975,DRG20706,K8000,Calculus of gallbladder with acute cholecystitis without obstruction
+7976,DRG20706,K8001,Calculus of gallbladder with acute cholecystitis with obstruction
+7977,DRG20706,K8010,Calculus of gallbladder with chronic cholecystitis without obstruction
+7978,DRG20706,K8011,Calculus of gallbladder with chronic cholecystitis with obstruction
+7979,DRG20706,K8012,Calculus of gallbladder with acute and chronic cholecystitis without obstruction
+7980,DRG20706,K8013,Calculus of gallbladder with acute and chronic cholecystitis with obstruction
+7981,DRG20706,K8018,Calculus of gallbladder with other cholecystitis without obstruction
+7982,DRG20706,K8019,Calculus of gallbladder with other cholecystitis with obstruction
+7983,DRG20706,K8020,Calculus of gallbladder without cholecystitis without obstruction
+7984,DRG20706,K8021,Calculus of gallbladder without cholecystitis with obstruction
+7985,DRG20706,K8030,"Calculus of bile duct with cholangitis, unspecified, without obstruction"
+7986,DRG20706,K8031,"Calculus of bile duct with cholangitis, unspecified, with obstruction"
+7987,DRG20706,K8032,Calculus of bile duct with acute cholangitis without obstruction
+7988,DRG20706,K8033,Calculus of bile duct with acute cholangitis with obstruction
+7989,DRG20706,K8034,Calculus of bile duct with chronic cholangitis without obstruction
+7990,DRG20706,K8035,Calculus of bile duct with chronic cholangitis with obstruction
+7991,DRG20706,K8036,Calculus of bile duct with acute and chronic cholangitis without obstruction
+7992,DRG20706,K8037,Calculus of bile duct with acute and chronic cholangitis with obstruction
+7993,DRG20706,K8040,"Calculus of bile duct with cholecystitis, unspecified, without obstruction"
+7994,DRG20706,K8041,"Calculus of bile duct with cholecystitis, unspecified, with obstruction"
+7995,DRG20706,K8042,Calculus of bile duct with acute cholecystitis without obstruction
+7996,DRG20706,K8043,Calculus of bile duct with acute cholecystitis with obstruction
+7997,DRG20706,K8044,Calculus of bile duct with chronic cholecystitis without obstruction
+7998,DRG20706,K8045,Calculus of bile duct with chronic cholecystitis with obstruction
+7999,DRG20706,K8046,Calculus of bile duct with acute and chronic cholecystitis without obstruction
+8000,DRG20706,K8047,Calculus of bile duct with acute and chronic cholecystitis with obstruction
+8001,DRG20706,K8050,Calculus of bile duct without cholangitis or cholecystitis without obstruction
+8002,DRG20706,K8051,Calculus of bile duct without cholangitis or cholecystitis with obstruction
+8003,DRG20706,K8060,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction"
+8004,DRG20706,K8061,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, with obstruction"
+8005,DRG20706,K8062,Calculus of gallbladder and bile duct with acute cholecystitis without obstruction
+8006,DRG20706,K8063,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction
+8007,DRG20706,K8064,Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction
+8008,DRG20706,K8065,Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction
+8009,DRG20706,K8066,Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction
+8010,DRG20706,K8067,Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction
+8011,DRG20706,K8070,Calculus of gallbladder and bile duct without cholecystitis without obstruction
+8012,DRG20706,K8071,Calculus of gallbladder and bile duct without cholecystitis with obstruction
+8013,DRG20706,K8080,Other cholelithiasis without obstruction
+8014,DRG20706,K8081,Other cholelithiasis with obstruction
+8015,DRG20706,K810,Acute cholecystitis
+8016,DRG20706,K811,Chronic cholecystitis
+8017,DRG20706,K812,Acute cholecystitis with chronic cholecystitis
+8018,DRG20706,K819,"Cholecystitis, unspecified"
+8019,DRG20706,K820,Obstruction of gallbladder
+8020,DRG20706,K821,Hydrops of gallbladder
+8021,DRG20706,K822,Perforation of gallbladder
+8022,DRG20706,K823,Fistula of gallbladder
+8023,DRG20706,K824,Cholesterolosis of gallbladder
+8024,DRG20706,K828,Other specified diseases of gallbladder
+8025,DRG20706,K829,"Disease of gallbladder, unspecified"
+8026,DRG20706,K830,Cholangitis
+8027,DRG20706,K831,Obstruction of bile duct
+8028,DRG20706,K832,Perforation of bile duct
+8029,DRG20706,K833,Fistula of bile duct
+8030,DRG20706,K834,Spasm of sphincter of Oddi
+8031,DRG20706,K835,Biliary cyst
+8032,DRG20706,K838,Other specified diseases of biliary tract
+8033,DRG20706,K839,"Disease of biliary tract, unspecified"
+8034,DRG20706,K915,Postcholecystectomy syndrome
+8035,DRG20706,Q441,Other congenital malformations of gallbladder
+8036,DRG20706,Q442,Atresia of bile ducts
+8037,DRG20706,Q443,Congenital stenosis and stricture of bile ducts
+8038,DRG20706,Q445,Other congenital malformations of bile ducts
+8039,DRG20706,Q447,Other congenital malformations of liver
+8040,DRG20706,R932,Abnormal findings on diagnostic imaging of liver and biliary tract
+8041,DRG20706,S36122A,"Contusion of gallbladder, initial encounter"
+8042,DRG20706,S36123A,"Laceration of gallbladder, initial encounter"
+8043,DRG20706,S36128A,"Other injury of gallbladder, initial encounter"
+8044,DRG20706,S36129A,"Unspecified injury of gallbladder, initial encounter"
+8045,DRG20706,S3613XA,"Injury of bile duct, initial encounter"

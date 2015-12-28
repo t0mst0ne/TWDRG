@@ -1,0 +1,573 @@
+,DRG,CM-PCS,en
+23128,DRG29403,E0800,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23129,DRG29403,E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma
+23130,DRG29403,E0810,Diabetes mellitus due to underlying condition with ketoacidosis without coma
+23131,DRG29403,E08641,Diabetes mellitus due to underlying condition with hypoglycemia with coma
+23132,DRG29403,E08649,Diabetes mellitus due to underlying condition with hypoglycemia without coma
+23133,DRG29403,E0865,Diabetes mellitus due to underlying condition with hyperglycemia
+23134,DRG29403,E0821,Diabetes mellitus due to underlying condition with diabetic nephropathy
+23135,DRG29403,E0822,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+23136,DRG29403,E08621,Diabetes mellitus due to underlying condition with diabetic arthropathy
+23137,DRG29403,E08610,Diabetes mellitus due to underlying condition with diabetic neuropathic arthropathy
+23138,DRG29403,E088,Diabetes mellitus due to underlying condition with unspecified complications
+23139,DRG29403,E0900,Drug or chemical induced diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23140,DRG29403,E0901,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma
+23141,DRG29403,E09641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma
+23142,DRG29403,E0911,Drug or chemical induced diabetes mellitus with ketoacidosis with coma
+23143,DRG29403,E09649,Drug or chemical induced diabetes mellitus with hypoglycemia without coma
+23144,DRG29403,E0965,Drug or chemical induced diabetes mellitus with hyperglycemia
+23145,DRG29403,E09620,Drug or chemical induced diabetes mellitus with diabetic dermatitis
+23146,DRG29403,E098,Drug or chemical induced diabetes mellitus with unspecified complications
+23147,DRG29403,E09610,Drug or chemical induced diabetes mellitus with diabetic neuropathic arthropathy
+23148,DRG29403,E1010,Type 1 diabetes mellitus with ketoacidosis without coma
+23149,DRG29403,E1011,Type 1 diabetes mellitus with ketoacidosis with coma
+23150,DRG29403,E10618,Type 1 diabetes mellitus with other diabetic arthropathy
+23151,DRG29403,E10620,Type 1 diabetes mellitus with diabetic dermatitis
+23152,DRG29403,E10621,Type 1 diabetes mellitus with foot ulcer
+23153,DRG29403,E10622,Type 1 diabetes mellitus with other skin ulcer
+23154,DRG29403,E10628,Type 1 diabetes mellitus with other skin complications
+23155,DRG29403,E10630,Type 1 diabetes mellitus with periodontal disease
+23156,DRG29403,E10638,Type 1 diabetes mellitus with other oral complications
+23157,DRG29403,E10641,Type 1 diabetes mellitus with hypoglycemia with coma
+23158,DRG29403,E10649,Type 1 diabetes mellitus with hypoglycemia without coma
+23159,DRG29403,E1065,Type 1 diabetes mellitus with hyperglycemia
+23160,DRG29403,E1069,Type 1 diabetes mellitus with other specified complication
+23161,DRG29403,E108,Type 1 diabetes mellitus with unspecified complications
+23162,DRG29403,E109,Type 1 diabetes mellitus without complications
+23163,DRG29403,E1100,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23164,DRG29403,E1101,Type 2 diabetes mellitus with hyperosmolarity with coma
+23165,DRG29403,E11610,Type 2 diabetes mellitus with diabetic neuropathic arthropathy
+23166,DRG29403,E11618,Type 2 diabetes mellitus with other diabetic arthropathy
+23167,DRG29403,E11620,Type 2 diabetes mellitus with diabetic dermatitis
+23168,DRG29403,E11621,Type 2 diabetes mellitus with foot ulcer
+23169,DRG29403,E11622,Type 2 diabetes mellitus with other skin ulcer
+23170,DRG29403,E11628,Type 2 diabetes mellitus with other skin complications
+23171,DRG29403,E11630,Type 2 diabetes mellitus with periodontal disease
+23172,DRG29403,E11638,Type 2 diabetes mellitus with other oral complications
+23173,DRG29403,E11641,Type 2 diabetes mellitus with hypoglycemia with coma
+23174,DRG29403,E11649,Type 2 diabetes mellitus with hypoglycemia without coma
+23175,DRG29403,E1165,Type 2 diabetes mellitus with hyperglycemia
+23176,DRG29403,E1169,Type 2 diabetes mellitus with other specified complication
+23177,DRG29403,E118,Type 2 diabetes mellitus with unspecified complications
+23178,DRG29403,E119,Type 2 diabetes mellitus without complications
+23179,DRG29403,E1300,Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23180,DRG29403,E1301,Other specified diabetes mellitus with hyperosmolarity with coma
+23181,DRG29403,E1310,Other specified diabetes mellitus with ketoacidosis without coma
+23182,DRG29403,E1311,Other specified diabetes mellitus with ketoacidosis with coma
+23183,DRG29403,E13618,Other specified diabetes mellitus with other diabetic arthropathy
+23184,DRG29403,E13620,Other specified diabetes mellitus with diabetic dermatitis
+23185,DRG29403,E13621,Other specified diabetes mellitus with foot ulcer
+23186,DRG29403,E13622,Other specified diabetes mellitus with other skin ulcer
+23187,DRG29403,E13628,Other specified diabetes mellitus with other skin complications
+23188,DRG29403,E13630,Other specified diabetes mellitus with periodontal disease
+23189,DRG29403,E13638,Other specified diabetes mellitus with other oral complications
+23190,DRG29403,E13649,Other specified diabetes mellitus with hypoglycemia without coma
+23191,DRG29403,E1365,Other specified diabetes mellitus with hyperglycemia
+23192,DRG29403,E1369,Other specified diabetes mellitus with other specified complication
+23193,DRG29403,E13641,Other specified diabetes mellitus with hypoglycemia with coma
+23194,DRG29403,E138,Other specified diabetes mellitus with unspecified complications
+23195,DRG29403,E139,Other specified diabetes mellitus without complications
+23196,DRG29403,R81,Glycosuria
+23199,DRG29403,A021,Salmonella sepsis
+23200,DRG29403,A221,Pulmonary anthrax
+23201,DRG29403,A3791,"Whooping cough, unspecified species with pneumonia"
+23202,DRG29403,A400,"Sepsis due to streptococcus, group A"
+23203,DRG29403,A401,"Sepsis due to streptococcus, group B"
+23204,DRG29403,A403,Sepsis due to Streptococcus pneumoniae
+23205,DRG29403,A408,Other streptococcal sepsis
+23206,DRG29403,A409,"Streptococcal sepsis, unspecified"
+23207,DRG29403,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+23208,DRG29403,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+23209,DRG29403,A411,Sepsis due to other specified staphylococcus
+23210,DRG29403,A412,Sepsis due to unspecified staphylococcus
+23211,DRG29403,A413,Sepsis due to Hemophilus influenzae
+23212,DRG29403,A414,Sepsis due to anaerobes
+23213,DRG29403,A4150,"Gram-negative sepsis, unspecified"
+23214,DRG29403,A4151,Sepsis due to Escherichia coli [E. coli]
+23215,DRG29403,A4152,Sepsis due to Pseudomonas
+23216,DRG29403,A4153,Sepsis due to Serratia
+23217,DRG29403,A4159,Other Gram-negative sepsis
+23218,DRG29403,A4181,Sepsis due to Enterococcus
+23219,DRG29403,A4189,Other specified sepsis
+23220,DRG29403,A419,"Sepsis, unspecified organism"
+23221,DRG29403,A481,Legionnaires' disease
+23222,DRG29403,B250,Cytomegaloviral pneumonitis
+23223,DRG29403,B252,Cytomegaloviral pancreatitis
+23224,DRG29403,B440,Invasive pulmonary aspergillosis
+23225,DRG29403,G450,Vertebro-basilar artery syndrome
+23226,DRG29403,G451,Carotid artery syndrome (hemispheric)
+23227,DRG29403,G452,Multiple and bilateral precerebral artery syndromes
+23228,DRG29403,G454,Transient global amnesia
+23229,DRG29403,G458,Other transient cerebral ischemic attacks and related syndromes
+23230,DRG29403,G459,"Transient cerebral ischemic attack, unspecified"
+23231,DRG29403,G460,Middle cerebral artery syndrome
+23232,DRG29403,G461,Anterior cerebral artery syndrome
+23233,DRG29403,G462,Posterior cerebral artery syndrome
+23234,DRG29403,G463,Brain stem stroke syndrome
+23235,DRG29403,G464,Cerebellar stroke syndrome
+23236,DRG29403,G465,Pure motor lacunar syndrome
+23237,DRG29403,G466,Pure sensory lacunar syndrome
+23238,DRG29403,G467,Other lacunar syndromes
+23239,DRG29403,G468,Other vascular syndromes of brain in cerebrovascular diseases
+23240,DRG29403,H49811,"Kearns-Sayre syndrome, right eye"
+23241,DRG29403,H49812,"Kearns-Sayre syndrome, left eye"
+23242,DRG29403,H49813,"Kearns-Sayre syndrome, bilateral"
+23243,DRG29403,I110,Hypertensive heart disease with heart failure
+23244,DRG29403,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+23245,DRG29403,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
+23246,DRG29403,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+23247,DRG29403,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+23248,DRG29403,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
+23249,DRG29403,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+23250,DRG29403,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+23251,DRG29403,I2129,ST elevation (STEMI) myocardial infarction involving other sites
+23252,DRG29403,I213,ST elevation (STEMI) myocardial infarction of unspecified site
+23253,DRG29403,I214,Non-ST elevation (NSTEMI) myocardial infarction
+23254,DRG29403,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+23255,DRG29403,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+23256,DRG29403,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+23257,DRG29403,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+23258,DRG29403,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+23259,DRG29403,I501,Left ventricular failure
+23260,DRG29403,I5020,Unspecified systolic (congestive) heart failure
+23261,DRG29403,I5021,Acute systolic (congestive) heart failure
+23262,DRG29403,I5022,Chronic systolic (congestive) heart failure
+23263,DRG29403,I5023,Acute on chronic systolic (congestive) heart failure
+23264,DRG29403,I5030,Unspecified diastolic (congestive) heart failure
+23265,DRG29403,I5031,Acute diastolic (congestive) heart failure
+23266,DRG29403,I5032,Chronic diastolic (congestive) heart failure
+23267,DRG29403,I5033,Acute on chronic diastolic (congestive) heart failure
+23268,DRG29403,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+23269,DRG29403,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+23270,DRG29403,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+23271,DRG29403,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+23272,DRG29403,I509,"Heart failure, unspecified"
+23273,DRG29403,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation
+23274,DRG29403,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation
+23275,DRG29403,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation
+23276,DRG29403,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
+23277,DRG29403,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery
+23278,DRG29403,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery
+23279,DRG29403,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
+23280,DRG29403,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
+23281,DRG29403,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
+23282,DRG29403,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery
+23283,DRG29403,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery
+23284,DRG29403,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery
+23285,DRG29403,I604,Nontraumatic subarachnoid hemorrhage from basilar artery
+23286,DRG29403,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery
+23287,DRG29403,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery
+23288,DRG29403,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery
+23289,DRG29403,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries
+23290,DRG29403,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery
+23291,DRG29403,I608,Other nontraumatic subarachnoid hemorrhage
+23292,DRG29403,I609,"Nontraumatic subarachnoid hemorrhage, unspecified"
+23293,DRG29403,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+23294,DRG29403,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+23295,DRG29403,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
+23296,DRG29403,I613,Nontraumatic intracerebral hemorrhage in brain stem
+23297,DRG29403,I614,Nontraumatic intracerebral hemorrhage in cerebellum
+23298,DRG29403,I615,"Nontraumatic intracerebral hemorrhage, intraventricular"
+23299,DRG29403,I616,"Nontraumatic intracerebral hemorrhage, multiple localized"
+23300,DRG29403,I618,Other nontraumatic intracerebral hemorrhage
+23301,DRG29403,I619,"Nontraumatic intracerebral hemorrhage, unspecified"
+23302,DRG29403,I6200,"Nontraumatic subdural hemorrhage, unspecified"
+23303,DRG29403,I6201,Nontraumatic acute subdural hemorrhage
+23304,DRG29403,I6202,Nontraumatic subacute subdural hemorrhage
+23305,DRG29403,I6203,Nontraumatic chronic subdural hemorrhage
+23306,DRG29403,I621,Nontraumatic extradural hemorrhage
+23307,DRG29403,I629,"Nontraumatic intracranial hemorrhage, unspecified"
+23308,DRG29403,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
+23309,DRG29403,I63011,Cerebral infarction due to thrombosis of right vertebral artery
+23310,DRG29403,I63012,Cerebral infarction due to thrombosis of left vertebral artery
+23311,DRG29403,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
+23312,DRG29403,I6302,Cerebral infarction due to thrombosis of basilar artery
+23313,DRG29403,I63031,Cerebral infarction due to thrombosis of right carotid artery
+23314,DRG29403,I63032,Cerebral infarction due to thrombosis of left carotid artery
+23315,DRG29403,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
+23316,DRG29403,I6309,Cerebral infarction due to thrombosis of other precerebral artery
+23317,DRG29403,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
+23318,DRG29403,I63111,Cerebral infarction due to embolism of right vertebral artery
+23319,DRG29403,I63112,Cerebral infarction due to embolism of left vertebral artery
+23320,DRG29403,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
+23321,DRG29403,I6312,Cerebral infarction due to embolism of basilar artery
+23322,DRG29403,I63131,Cerebral infarction due to embolism of right carotid artery
+23323,DRG29403,I63132,Cerebral infarction due to embolism of left carotid artery
+23324,DRG29403,I63139,Cerebral infarction due to embolism of unspecified carotid artery
+23325,DRG29403,I6319,Cerebral infarction due to embolism of other precerebral artery
+23326,DRG29403,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
+23327,DRG29403,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+23328,DRG29403,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+23329,DRG29403,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
+23330,DRG29403,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
+23331,DRG29403,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+23332,DRG29403,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
+23333,DRG29403,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
+23334,DRG29403,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+23335,DRG29403,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
+23336,DRG29403,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
+23337,DRG29403,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
+23338,DRG29403,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
+23339,DRG29403,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
+23340,DRG29403,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
+23341,DRG29403,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+23342,DRG29403,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
+23343,DRG29403,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
+23344,DRG29403,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
+23345,DRG29403,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
+23346,DRG29403,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
+23347,DRG29403,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
+23348,DRG29403,I6339,Cerebral infarction due to thrombosis of other cerebral artery
+23349,DRG29403,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
+23350,DRG29403,I63411,Cerebral infarction due to embolism of right middle cerebral artery
+23351,DRG29403,I63412,Cerebral infarction due to embolism of left middle cerebral artery
+23352,DRG29403,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
+23353,DRG29403,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
+23354,DRG29403,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
+23355,DRG29403,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
+23356,DRG29403,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
+23357,DRG29403,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
+23358,DRG29403,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
+23359,DRG29403,I63441,Cerebral infarction due to embolism of right cerebellar artery
+23360,DRG29403,I63442,Cerebral infarction due to embolism of left cerebellar artery
+23361,DRG29403,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
+23362,DRG29403,I6349,Cerebral infarction due to embolism of other cerebral artery
+23363,DRG29403,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+23364,DRG29403,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
+23365,DRG29403,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+23366,DRG29403,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+23367,DRG29403,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
+23368,DRG29403,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
+23369,DRG29403,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
+23370,DRG29403,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
+23371,DRG29403,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
+23372,DRG29403,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
+23373,DRG29403,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
+23374,DRG29403,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
+23375,DRG29403,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
+23376,DRG29403,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+23377,DRG29403,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+23378,DRG29403,I638,Other cerebral infarction
+23379,DRG29403,I639,"Cerebral infarction, unspecified"
+23380,DRG29403,I6501,Occlusion and stenosis of right vertebral artery
+23381,DRG29403,I6502,Occlusion and stenosis of left vertebral artery
+23382,DRG29403,I6503,Occlusion and stenosis of bilateral vertebral arteries
+23383,DRG29403,I6509,Occlusion and stenosis of unspecified vertebral artery
+23384,DRG29403,I651,Occlusion and stenosis of basilar artery
+23385,DRG29403,I6521,Occlusion and stenosis of right carotid artery
+23386,DRG29403,I6522,Occlusion and stenosis of left carotid artery
+23387,DRG29403,I6523,Occlusion and stenosis of bilateral carotid arteries
+23388,DRG29403,I6529,Occlusion and stenosis of unspecified carotid artery
+23389,DRG29403,I658,Occlusion and stenosis of other precerebral arteries
+23390,DRG29403,I659,Occlusion and stenosis of unspecified precerebral artery
+23391,DRG29403,I6601,Occlusion and stenosis of right middle cerebral artery
+23392,DRG29403,I6602,Occlusion and stenosis of left middle cerebral artery
+23393,DRG29403,I6603,Occlusion and stenosis of bilateral middle cerebral arteries
+23394,DRG29403,I6609,Occlusion and stenosis of unspecified middle cerebral artery
+23395,DRG29403,I6611,Occlusion and stenosis of right anterior cerebral artery
+23396,DRG29403,I6612,Occlusion and stenosis of left anterior cerebral artery
+23397,DRG29403,I6613,Occlusion and stenosis of bilateral anterior cerebral arteries
+23398,DRG29403,I6619,Occlusion and stenosis of unspecified anterior cerebral artery
+23399,DRG29403,I6621,Occlusion and stenosis of right posterior cerebral artery
+23400,DRG29403,I6622,Occlusion and stenosis of left posterior cerebral artery
+23401,DRG29403,I6623,Occlusion and stenosis of bilateral posterior cerebral arteries
+23402,DRG29403,I6629,Occlusion and stenosis of unspecified posterior cerebral artery
+23403,DRG29403,I663,Occlusion and stenosis of cerebellar arteries
+23404,DRG29403,I668,Occlusion and stenosis of other cerebral arteries
+23405,DRG29403,I669,Occlusion and stenosis of unspecified cerebral artery
+23406,DRG29403,I670,"Dissection of cerebral arteries, nonruptured"
+23407,DRG29403,I671,"Cerebral aneurysm, nonruptured"
+23408,DRG29403,I672,Cerebral atherosclerosis
+23409,DRG29403,I674,Hypertensive encephalopathy
+23410,DRG29403,I675,Moyamoya disease
+23411,DRG29403,I676,Nonpyogenic thrombosis of intracranial venous system
+23412,DRG29403,I677,"Cerebral arteritis, not elsewhere classified"
+23413,DRG29403,I6781,Acute cerebrovascular insufficiency
+23414,DRG29403,I6782,Cerebral ischemia
+23415,DRG29403,I67841,Reversible cerebrovascular vasoconstriction syndrome
+23416,DRG29403,I67848,Other cerebrovascular vasospasm and vasoconstriction
+23417,DRG29403,I6789,Other cerebrovascular disease
+23418,DRG29403,I679,"Cerebrovascular disease, unspecified"
+23419,DRG29403,I680,Cerebral amyloid angiopathy
+23420,DRG29403,I682,Cerebral arteritis in other diseases classified elsewhere
+23421,DRG29403,I688,Other cerebrovascular disorders in diseases classified elsewhere
+23422,DRG29403,J09X1,Influenza due to identified novel influenza A virus with pneumonia
+23423,DRG29403,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
+23424,DRG29403,J1008,Influenza due to other identified influenza virus with other specified pneumonia
+23425,DRG29403,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+23426,DRG29403,J1108,Influenza due to unidentified influenza virus with specified pneumonia
+23427,DRG29403,J120,Adenoviral pneumonia
+23428,DRG29403,J121,Respiratory syncytial virus pneumonia
+23429,DRG29403,J122,Parainfluenza virus pneumonia
+23430,DRG29403,J123,Human metapneumovirus pneumonia
+23431,DRG29403,J1281,Pneumonia due to SARS-associated coronavirus
+23432,DRG29403,J1289,Other viral pneumonia
+23433,DRG29403,J129,"Viral pneumonia, unspecified"
+23434,DRG29403,J13,Pneumonia due to Streptococcus pneumoniae
+23435,DRG29403,J14,Pneumonia due to Hemophilus influenzae
+23436,DRG29403,J150,Pneumonia due to Klebsiella pneumoniae
+23437,DRG29403,J151,Pneumonia due to Pseudomonas
+23438,DRG29403,J1520,"Pneumonia due to staphylococcus, unspecified"
+23439,DRG29403,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
+23440,DRG29403,J1529,Pneumonia due to other staphylococcus
+23441,DRG29403,J153,"Pneumonia due to streptococcus, group B"
+23442,DRG29403,J154,Pneumonia due to other streptococci
+23443,DRG29403,J155,Pneumonia due to Escherichia coli
+23444,DRG29403,J156,Pneumonia due to other aerobic Gram-negative bacteria
+23445,DRG29403,J157,Pneumonia due to Mycoplasma pneumoniae
+23446,DRG29403,J158,Pneumonia due to other specified bacteria
+23447,DRG29403,J159,Unspecified bacterial pneumonia
+23448,DRG29403,J160,Chlamydial pneumonia
+23449,DRG29403,J168,Pneumonia due to other specified infectious organisms
+23450,DRG29403,J17,Pneumonia in diseases classified elsewhere
+23451,DRG29403,J180,"Bronchopneumonia, unspecified organism"
+23452,DRG29403,J181,"Lobar pneumonia, unspecified organism"
+23453,DRG29403,J188,"Other pneumonia, unspecified organism"
+23454,DRG29403,J189,"Pneumonia, unspecified organism"
+23455,DRG29403,J80,Acute respiratory distress syndrome
+23456,DRG29403,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+23457,DRG29403,J9601,Acute respiratory failure with hypoxia
+23458,DRG29403,J9602,Acute respiratory failure with hypercapnia
+23459,DRG29403,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+23460,DRG29403,J9611,Chronic respiratory failure with hypoxia
+23461,DRG29403,J9612,Chronic respiratory failure with hypercapnia
+23462,DRG29403,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+23463,DRG29403,J9691,"Respiratory failure, unspecified with hypoxia"
+23464,DRG29403,J9692,"Respiratory failure, unspecified with hypercapnia"
+23465,DRG29403,K122,Cellulitis and abscess of mouth
+23466,DRG29403,K254,Chronic or unspecified gastric ulcer with hemorrhage
+23467,DRG29403,K264,Chronic or unspecified duodenal ulcer with hemorrhage
+23468,DRG29403,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
+23469,DRG29403,K5660,Unspecified intestinal obstruction
+23470,DRG29403,K750,Abscess of liver
+23471,DRG29403,K810,Acute cholecystitis
+23472,DRG29403,K850,Idiopathic acute pancreatitis
+23473,DRG29403,K851,Biliary acute pancreatitis
+23474,DRG29403,K852,Alcohol induced acute pancreatitis
+23475,DRG29403,K853,Drug induced acute pancreatitis
+23476,DRG29403,K858,Other acute pancreatitis
+23477,DRG29403,K859,"Acute pancreatitis, unspecified"
+23478,DRG29403,L0201,Cutaneous abscess of face
+23479,DRG29403,L0211,Cutaneous abscess of neck
+23480,DRG29403,L02211,Cutaneous abscess of abdominal wall
+23481,DRG29403,L02212,"Cutaneous abscess of back [any part, except buttock]"
+23482,DRG29403,L02213,Cutaneous abscess of chest wall
+23483,DRG29403,L02214,Cutaneous abscess of groin
+23484,DRG29403,L02215,Cutaneous abscess of perineum
+23485,DRG29403,L02216,Cutaneous abscess of umbilicus
+23486,DRG29403,L02219,"Cutaneous abscess of trunk, unspecified"
+23487,DRG29403,L0231,Cutaneous abscess of buttock
+23488,DRG29403,L02411,Cutaneous abscess of right axilla
+23489,DRG29403,L02412,Cutaneous abscess of left axilla
+23490,DRG29403,L02413,Cutaneous abscess of right upper limb
+23491,DRG29403,L02414,Cutaneous abscess of left upper limb
+23492,DRG29403,L02415,Cutaneous abscess of right lower limb
+23493,DRG29403,L02416,Cutaneous abscess of left lower limb
+23494,DRG29403,L02419,"Cutaneous abscess of limb, unspecified"
+23495,DRG29403,L02511,Cutaneous abscess of right hand
+23496,DRG29403,L02512,Cutaneous abscess of left hand
+23497,DRG29403,L02519,Cutaneous abscess of unspecified hand
+23498,DRG29403,L02611,Cutaneous abscess of right foot
+23499,DRG29403,L02612,Cutaneous abscess of left foot
+23500,DRG29403,L02619,Cutaneous abscess of unspecified foot
+23501,DRG29403,L02811,"Cutaneous abscess of head [any part, except face]"
+23502,DRG29403,L02818,Cutaneous abscess of other sites
+23503,DRG29403,L0291,"Cutaneous abscess, unspecified"
+23504,DRG29403,L03111,Cellulitis of right axilla
+23505,DRG29403,L03112,Cellulitis of left axilla
+23506,DRG29403,L03113,Cellulitis of right upper limb
+23507,DRG29403,L03114,Cellulitis of left upper limb
+23508,DRG29403,L03115,Cellulitis of right lower limb
+23509,DRG29403,L03116,Cellulitis of left lower limb
+23510,DRG29403,L03119,Cellulitis of unspecified part of limb
+23511,DRG29403,L03121,Acute lymphangitis of right axilla
+23512,DRG29403,L03122,Acute lymphangitis of left axilla
+23513,DRG29403,L03123,Acute lymphangitis of right upper limb
+23514,DRG29403,L03124,Acute lymphangitis of left upper limb
+23515,DRG29403,L03125,Acute lymphangitis of right lower limb
+23516,DRG29403,L03126,Acute lymphangitis of left lower limb
+23517,DRG29403,L03129,Acute lymphangitis of unspecified part of limb
+23518,DRG29403,L03211,Cellulitis of face
+23519,DRG29403,L03212,Acute lymphangitis of face
+23520,DRG29403,L03221,Cellulitis of neck
+23521,DRG29403,L03222,Acute lymphangitis of neck
+23522,DRG29403,L03311,Cellulitis of abdominal wall
+23523,DRG29403,L03312,Cellulitis of back [any part except buttock]
+23524,DRG29403,L03313,Cellulitis of chest wall
+23525,DRG29403,L03314,Cellulitis of groin
+23526,DRG29403,L03315,Cellulitis of perineum
+23527,DRG29403,L03316,Cellulitis of umbilicus
+23528,DRG29403,L03317,Cellulitis of buttock
+23529,DRG29403,L03319,"Cellulitis of trunk, unspecified"
+23530,DRG29403,L03321,Acute lymphangitis of abdominal wall
+23531,DRG29403,L03322,Acute lymphangitis of back [any part except buttock]
+23532,DRG29403,L03323,Acute lymphangitis of chest wall
+23533,DRG29403,L03324,Acute lymphangitis of groin
+23534,DRG29403,L03325,Acute lymphangitis of perineum
+23535,DRG29403,L03326,Acute lymphangitis of umbilicus
+23536,DRG29403,L03327,Acute lymphangitis of buttock
+23537,DRG29403,L03329,"Acute lymphangitis of trunk, unspecified"
+23538,DRG29403,L03811,"Cellulitis of head [any part, except face]"
+23539,DRG29403,L03818,Cellulitis of other sites
+23540,DRG29403,L03891,"Acute lymphangitis of head [any part, except face]"
+23541,DRG29403,L03898,Acute lymphangitis of other sites
+23542,DRG29403,L0390,"Cellulitis, unspecified"
+23543,DRG29403,L0391,"Acute lymphangitis, unspecified"
+23544,DRG29403,L89000,"Pressure ulcer of unspecified elbow, unstageable"
+23545,DRG29403,L89001,"Pressure ulcer of unspecified elbow, stage 1"
+23546,DRG29403,L89002,"Pressure ulcer of unspecified elbow, stage 2"
+23547,DRG29403,L89003,"Pressure ulcer of unspecified elbow, stage 3"
+23548,DRG29403,L89004,"Pressure ulcer of unspecified elbow, stage 4"
+23549,DRG29403,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
+23550,DRG29403,L89010,"Pressure ulcer of right elbow, unstageable"
+23551,DRG29403,L89011,"Pressure ulcer of right elbow, stage 1"
+23552,DRG29403,L89012,"Pressure ulcer of right elbow, stage 2"
+23553,DRG29403,L89013,"Pressure ulcer of right elbow, stage 3"
+23554,DRG29403,L89014,"Pressure ulcer of right elbow, stage 4"
+23555,DRG29403,L89020,"Pressure ulcer of left elbow, unstageable"
+23556,DRG29403,L89021,"Pressure ulcer of left elbow, stage 1"
+23557,DRG29403,L89022,"Pressure ulcer of left elbow, stage 2"
+23558,DRG29403,L89023,"Pressure ulcer of left elbow, stage 3"
+23559,DRG29403,L89024,"Pressure ulcer of left elbow, stage 4"
+23560,DRG29403,L89100,"Pressure ulcer of unspecified part of back, unstageable"
+23561,DRG29403,L89101,"Pressure ulcer of unspecified part of back, stage 1"
+23562,DRG29403,L89102,"Pressure ulcer of unspecified part of back, stage 2"
+23563,DRG29403,L89103,"Pressure ulcer of unspecified part of back, stage 3"
+23564,DRG29403,L89104,"Pressure ulcer of unspecified part of back, stage 4"
+23565,DRG29403,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
+23566,DRG29403,L89110,"Pressure ulcer of right upper back, unstageable"
+23567,DRG29403,L89111,"Pressure ulcer of right upper back, stage 1"
+23568,DRG29403,L89112,"Pressure ulcer of right upper back, stage 2"
+23569,DRG29403,L89113,"Pressure ulcer of right upper back, stage 3"
+23570,DRG29403,L89114,"Pressure ulcer of right upper back, stage 4"
+23571,DRG29403,L89119,"Pressure ulcer of right upper back, unspecified stage"
+23572,DRG29403,L89120,"Pressure ulcer of left upper back, unstageable"
+23573,DRG29403,L89121,"Pressure ulcer of left upper back, stage 1"
+23574,DRG29403,L89122,"Pressure ulcer of left upper back, stage 2"
+23575,DRG29403,L89123,"Pressure ulcer of left upper back, stage 3"
+23576,DRG29403,L89124,"Pressure ulcer of left upper back, stage 4"
+23577,DRG29403,L89129,"Pressure ulcer of left upper back, unspecified stage"
+23578,DRG29403,L89130,"Pressure ulcer of right lower back, unstageable"
+23579,DRG29403,L89131,"Pressure ulcer of right lower back, stage 1"
+23580,DRG29403,L89132,"Pressure ulcer of right lower back, stage 2"
+23581,DRG29403,L89133,"Pressure ulcer of right lower back, stage 3"
+23582,DRG29403,L89134,"Pressure ulcer of right lower back, stage 4"
+23583,DRG29403,L89139,"Pressure ulcer of right lower back, unspecified stage"
+23584,DRG29403,L89140,"Pressure ulcer of left lower back, unstageable"
+23585,DRG29403,L89141,"Pressure ulcer of left lower back, stage 1"
+23586,DRG29403,L89142,"Pressure ulcer of left lower back, stage 2"
+23587,DRG29403,L89143,"Pressure ulcer of left lower back, stage 3"
+23588,DRG29403,L89144,"Pressure ulcer of left lower back, stage 4"
+23589,DRG29403,L89149,"Pressure ulcer of left lower back, unspecified stage"
+23590,DRG29403,L89150,"Pressure ulcer of sacral region, unstageable"
+23591,DRG29403,L89151,"Pressure ulcer of sacral region, stage 1"
+23592,DRG29403,L89152,"Pressure ulcer of sacral region, stage 2"
+23593,DRG29403,L89153,"Pressure ulcer of sacral region, stage 3"
+23594,DRG29403,L89154,"Pressure ulcer of sacral region, stage 4"
+23595,DRG29403,L89159,"Pressure ulcer of sacral region, unspecified stage"
+23596,DRG29403,L89200,"Pressure ulcer of unspecified hip, unstageable"
+23597,DRG29403,L89201,"Pressure ulcer of unspecified hip, stage 1"
+23598,DRG29403,L89202,"Pressure ulcer of unspecified hip, stage 2"
+23599,DRG29403,L89203,"Pressure ulcer of unspecified hip, stage 3"
+23600,DRG29403,L89204,"Pressure ulcer of unspecified hip, stage 4"
+23601,DRG29403,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
+23602,DRG29403,L89210,"Pressure ulcer of right hip, unstageable"
+23603,DRG29403,L89211,"Pressure ulcer of right hip, stage 1"
+23604,DRG29403,L89212,"Pressure ulcer of right hip, stage 2"
+23605,DRG29403,L89213,"Pressure ulcer of right hip, stage 3"
+23606,DRG29403,L89214,"Pressure ulcer of right hip, stage 4"
+23607,DRG29403,L89219,"Pressure ulcer of right hip, unspecified stage"
+23608,DRG29403,L89220,"Pressure ulcer of left hip, unstageable"
+23609,DRG29403,L89221,"Pressure ulcer of left hip, stage 1"
+23610,DRG29403,L89222,"Pressure ulcer of left hip, stage 2"
+23611,DRG29403,L89223,"Pressure ulcer of left hip, stage 3"
+23612,DRG29403,L89224,"Pressure ulcer of left hip, stage 4"
+23613,DRG29403,L89229,"Pressure ulcer of left hip, unspecified stage"
+23614,DRG29403,L89300,"Pressure ulcer of unspecified buttock, unstageable"
+23615,DRG29403,L89301,"Pressure ulcer of unspecified buttock, stage 1"
+23616,DRG29403,L89302,"Pressure ulcer of unspecified buttock, stage 2"
+23617,DRG29403,L89303,"Pressure ulcer of unspecified buttock, stage 3"
+23618,DRG29403,L89304,"Pressure ulcer of unspecified buttock, stage 4"
+23619,DRG29403,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
+23620,DRG29403,L89310,"Pressure ulcer of right buttock, unstageable"
+23621,DRG29403,L89311,"Pressure ulcer of right buttock, stage 1"
+23622,DRG29403,L89312,"Pressure ulcer of right buttock, stage 2"
+23623,DRG29403,L89313,"Pressure ulcer of right buttock, stage 3"
+23624,DRG29403,L89314,"Pressure ulcer of right buttock, stage 4"
+23625,DRG29403,L89319,"Pressure ulcer of right buttock, unspecified stage"
+23626,DRG29403,L89320,"Pressure ulcer of left buttock, unstageable"
+23627,DRG29403,L89321,"Pressure ulcer of left buttock, stage 1"
+23628,DRG29403,L89322,"Pressure ulcer of left buttock, stage 2"
+23629,DRG29403,L89323,"Pressure ulcer of left buttock, stage 3"
+23630,DRG29403,L89324,"Pressure ulcer of left buttock, stage 4"
+23631,DRG29403,L89329,"Pressure ulcer of left buttock, unspecified stage"
+23632,DRG29403,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
+23633,DRG29403,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
+23634,DRG29403,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
+23635,DRG29403,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
+23636,DRG29403,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
+23637,DRG29403,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
+23638,DRG29403,L89500,"Pressure ulcer of unspecified ankle, unstageable"
+23639,DRG29403,L89501,"Pressure ulcer of unspecified ankle, stage 1"
+23640,DRG29403,L89502,"Pressure ulcer of unspecified ankle, stage 2"
+23641,DRG29403,L89503,"Pressure ulcer of unspecified ankle, stage 3"
+23642,DRG29403,L89504,"Pressure ulcer of unspecified ankle, stage 4"
+23643,DRG29403,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
+23644,DRG29403,L89510,"Pressure ulcer of right ankle, unstageable"
+23645,DRG29403,L89511,"Pressure ulcer of right ankle, stage 1"
+23646,DRG29403,L89512,"Pressure ulcer of right ankle, stage 2"
+23647,DRG29403,L89513,"Pressure ulcer of right ankle, stage 3"
+23648,DRG29403,L89514,"Pressure ulcer of right ankle, stage 4"
+23649,DRG29403,L89519,"Pressure ulcer of right ankle, unspecified stage"
+23650,DRG29403,L89520,"Pressure ulcer of left ankle, unstageable"
+23651,DRG29403,L89521,"Pressure ulcer of left ankle, stage 1"
+23652,DRG29403,L89522,"Pressure ulcer of left ankle, stage 2"
+23653,DRG29403,L89523,"Pressure ulcer of left ankle, stage 3"
+23654,DRG29403,L89524,"Pressure ulcer of left ankle, stage 4"
+23655,DRG29403,L89529,"Pressure ulcer of left ankle, unspecified stage"
+23656,DRG29403,L89600,"Pressure ulcer of unspecified heel, unstageable"
+23657,DRG29403,L89601,"Pressure ulcer of unspecified heel, stage 1"
+23658,DRG29403,L89602,"Pressure ulcer of unspecified heel, stage 2"
+23659,DRG29403,L89603,"Pressure ulcer of unspecified heel, stage 3"
+23660,DRG29403,L89604,"Pressure ulcer of unspecified heel, stage 4"
+23661,DRG29403,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
+23662,DRG29403,L89610,"Pressure ulcer of right heel, unstageable"
+23663,DRG29403,L89611,"Pressure ulcer of right heel, stage 1"
+23664,DRG29403,L89612,"Pressure ulcer of right heel, stage 2"
+23665,DRG29403,L89613,"Pressure ulcer of right heel, stage 3"
+23666,DRG29403,L89614,"Pressure ulcer of right heel, stage 4"
+23667,DRG29403,L89620,"Pressure ulcer of left heel, unstageable"
+23668,DRG29403,L89621,"Pressure ulcer of left heel, stage 1"
+23669,DRG29403,L89622,"Pressure ulcer of left heel, stage 2"
+23670,DRG29403,L89623,"Pressure ulcer of left heel, stage 3"
+23671,DRG29403,L89624,"Pressure ulcer of left heel, stage 4"
+23672,DRG29403,L89629,"Pressure ulcer of left heel, unspecified stage"
+23673,DRG29403,L89810,"Pressure ulcer of head, unstageable"
+23674,DRG29403,L89811,"Pressure ulcer of head, stage 1"
+23675,DRG29403,L89812,"Pressure ulcer of head, stage 2"
+23676,DRG29403,L89813,"Pressure ulcer of head, stage 3"
+23677,DRG29403,L89814,"Pressure ulcer of head, stage 4"
+23678,DRG29403,L89819,"Pressure ulcer of head, unspecified stage"
+23679,DRG29403,L89890,"Pressure ulcer of other site, unstageable"
+23680,DRG29403,L89891,"Pressure ulcer of other site, stage 1"
+23681,DRG29403,L89892,"Pressure ulcer of other site, stage 2"
+23682,DRG29403,L89893,"Pressure ulcer of other site, stage 3"
+23683,DRG29403,L89894,"Pressure ulcer of other site, stage 4"
+23684,DRG29403,L89899,"Pressure ulcer of other site, unspecified stage"
+23685,DRG29403,L8990,"Pressure ulcer of unspecified site, unspecified stage"
+23686,DRG29403,L8991,"Pressure ulcer of unspecified site, stage 1"
+23687,DRG29403,L8992,"Pressure ulcer of unspecified site, stage 2"
+23688,DRG29403,L8993,"Pressure ulcer of unspecified site, stage 3"
+23689,DRG29403,L8994,"Pressure ulcer of unspecified site, stage 4"
+23690,DRG29403,L8995,"Pressure ulcer of unspecified site, unstageable"
+23691,DRG29403,L983,Eosinophilic cellulitis [Wells]
+23692,DRG29403,N10,Acute tubulo-interstitial nephritis
+23693,DRG29403,N179,"Acute kidney failure, unspecified"
+23694,DRG29403,N390,"Urinary tract infection, site not specified"
+23695,DRG29403,R570,Cardiogenic shock
+23696,DRG29403,R571,Hypovolemic shock
+23697,DRG29403,R578,Other shock
+23698,DRG29403,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+23699,DRG29403,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+23700,DRG29403,R6520,Severe sepsis without septic shock
+23701,DRG29403,R6521,Severe sepsis with septic shock

@@ -1,0 +1,20 @@
+,DRG,CM-PCS,en
+10843,DRG31608,I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease
+10844,DRG31608,I1311,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease"
+10845,DRG31608,N170,Acute kidney failure with tubular necrosis
+10846,DRG31608,N171,Acute kidney failure with acute cortical necrosis
+10847,DRG31608,N172,Acute kidney failure with medullary necrosis
+10848,DRG31608,N178,Other acute kidney failure
+10849,DRG31608,N179,"Acute kidney failure, unspecified"
+10850,DRG31608,N184,"Chronic kidney disease, stage 4 (severe)"
+10851,DRG31608,N185,"Chronic kidney disease, stage 5"
+10852,DRG31608,N186,End stage renal disease
+10853,DRG31608,N189,"Chronic kidney disease, unspecified"
+10854,DRG31608,N19,Unspecified kidney failure
+10855,DRG31608,R34,Anuria and oliguria
+10856,DRG31608,T795XXA,"Traumatic anuria, initial encounter"
+10859,DRG31608,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+10860,DRG31608,I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+10863,DRG31608,N184,"Chronic kidney disease, stage 4 (severe)"
+10866,DRG31608,5A1D00Z,"Performance of Urinary Filtration, Single"
+10867,DRG31608,5A1D60Z,"Performance of Urinary Filtration, Multiple"

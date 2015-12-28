@@ -1,0 +1,52 @@
+,DRG,CM-PCS,en
+6125,DRG20404,B252,Cytomegaloviral pancreatitis
+6126,DRG20404,K850,Idiopathic acute pancreatitis
+6127,DRG20404,K851,Biliary acute pancreatitis
+6128,DRG20404,K852,Alcohol induced acute pancreatitis
+6129,DRG20404,K853,Drug induced acute pancreatitis
+6130,DRG20404,K858,Other acute pancreatitis
+6131,DRG20404,K859,"Acute pancreatitis, unspecified"
+6134,DRG20404,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+6135,DRG20404,J9601,Acute respiratory failure with hypoxia
+6136,DRG20404,J9602,Acute respiratory failure with hypercapnia
+6137,DRG20404,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+6138,DRG20404,J9691,"Respiratory failure, unspecified with hypoxia"
+6139,DRG20404,J9692,"Respiratory failure, unspecified with hypercapnia"
+6142,DRG20404,A400,"Sepsis due to streptococcus, group A"
+6143,DRG20404,A401,"Sepsis due to streptococcus, group B"
+6144,DRG20404,A403,Sepsis due to Streptococcus pneumoniae
+6145,DRG20404,A408,Other streptococcal sepsis
+6146,DRG20404,A409,"Streptococcal sepsis, unspecified"
+6147,DRG20404,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+6148,DRG20404,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+6149,DRG20404,A411,Sepsis due to other specified staphylococcus
+6150,DRG20404,A412,Sepsis due to unspecified staphylococcus
+6151,DRG20404,A413,Sepsis due to Hemophilus influenzae
+6152,DRG20404,A414,Sepsis due to anaerobes
+6153,DRG20404,A4150,"Gram-negative sepsis, unspecified"
+6154,DRG20404,A4151,Sepsis due to Escherichia coli [E. coli]
+6155,DRG20404,A4152,Sepsis due to Pseudomonas
+6156,DRG20404,A4153,Sepsis due to Serratia
+6157,DRG20404,A4159,Other Gram-negative sepsis
+6158,DRG20404,A4181,Sepsis due to Enterococcus
+6159,DRG20404,A4189,Other specified sepsis
+6160,DRG20404,A419,"Sepsis, unspecified organism"
+6161,DRG20404,B377,Candidal sepsis
+6162,DRG20404,K650,Generalized (acute) peritonitis
+6163,DRG20404,K651,Peritoneal abscess
+6164,DRG20404,K652,Spontaneous bacterial peritonitis
+6165,DRG20404,K653,Choleperitonitis
+6166,DRG20404,K654,Sclerosing mesenteritis
+6167,DRG20404,K658,Other peritonitis
+6168,DRG20404,K659,"Peritonitis, unspecified"
+6169,DRG20404,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+6170,DRG20404,K6811,Postprocedural retroperitoneal abscess
+6171,DRG20404,K6819,Other retroperitoneal abscess
+6172,DRG20404,K689,Other disorders of retroperitoneum
+6173,DRG20404,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+6174,DRG20404,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+6175,DRG20404,R6520,Severe sepsis without septic shock
+6178,DRG20404,0F9C40Z,"Drainage of Ampulla of Vater with Drainage Device, Percutaneous Endoscopic Approach"
+6179,DRG20404,0F9C4ZZ,"Drainage of Ampulla of Vater, Percutaneous Endoscopic Approach"
+6180,DRG20404,0F9C80Z,"Drainage of Ampulla of Vater with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+6181,DRG20404,0F9C8ZZ,"Drainage of Ampulla of Vater, Via Natural or Artificial Opening Endoscopic"

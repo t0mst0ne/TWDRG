@@ -1,0 +1,152 @@
+,DRG,CM-PCS,en
+6741,DRG35204,D176,Benign lipomatous neoplasm of spermatic cord
+6742,DRG35204,D290,Benign neoplasm of penis
+6743,DRG35204,D291,Benign neoplasm of prostate
+6744,DRG35204,D2920,Benign neoplasm of unspecified testis
+6745,DRG35204,D2921,Benign neoplasm of right testis
+6746,DRG35204,D2922,Benign neoplasm of left testis
+6747,DRG35204,D2930,Benign neoplasm of unspecified epididymis
+6748,DRG35204,D2931,Benign neoplasm of right epididymis
+6749,DRG35204,D2932,Benign neoplasm of left epididymis
+6750,DRG35204,D294,Benign neoplasm of scrotum
+6751,DRG35204,D298,Benign neoplasm of other specified male genital organs
+6752,DRG35204,D299,"Benign neoplasm of male genital organ, unspecified"
+6753,DRG35204,I861,Scrotal varices
+6754,DRG35204,I862,Pelvic varices
+6755,DRG35204,L291,Pruritus scroti
+6756,DRG35204,L293,"Anogenital pruritus, unspecified"
+6757,DRG35204,N420,Calculus of prostate
+6758,DRG35204,N423,Dysplasia of prostate
+6759,DRG35204,N4281,Prostatodynia syndrome
+6760,DRG35204,N4282,Prostatosis syndrome
+6761,DRG35204,N4289,Other specified disorders of prostate
+6762,DRG35204,N429,"Disorder of prostate, unspecified"
+6763,DRG35204,N430,Encysted hydrocele
+6764,DRG35204,N432,Other hydrocele
+6765,DRG35204,N433,"Hydrocele, unspecified"
+6766,DRG35204,N4340,"Spermatocele of epididymis, unspecified"
+6767,DRG35204,N4341,"Spermatocele of epididymis, single"
+6768,DRG35204,N4342,"Spermatocele of epididymis, multiple"
+6769,DRG35204,N441,Cyst of tunica albuginea testis
+6770,DRG35204,N442,Benign cyst of testis
+6771,DRG35204,N448,Other noninflammatory disorders of the testis
+6772,DRG35204,N485,Ulcer of penis
+6773,DRG35204,N486,Induration penis plastica
+6774,DRG35204,N4881,Thrombosis of superficial vein of penis
+6775,DRG35204,N4882,Acquired torsion of penis
+6776,DRG35204,N4883,Acquired buried penis
+6777,DRG35204,N4889,Other specified disorders of penis
+6778,DRG35204,N489,"Disorder of penis, unspecified"
+6779,DRG35204,N503,Cyst of epididymis
+6780,DRG35204,N508,Other specified disorders of male genital organs
+6781,DRG35204,N509,"Disorder of male genital organs, unspecified"
+6782,DRG35204,N5201,Erectile dysfunction due to arterial insufficiency
+6783,DRG35204,N5202,Corporo-venous occlusive erectile dysfunction
+6784,DRG35204,N5203,Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+6785,DRG35204,N522,Drug-induced erectile dysfunction
+6786,DRG35204,N5231,Erectile dysfunction following radical prostatectomy
+6787,DRG35204,N5232,Erectile dysfunction following radical cystectomy
+6788,DRG35204,N5233,Erectile dysfunction following urethral surgery
+6789,DRG35204,N5234,Erectile dysfunction following simple prostatectomy
+6790,DRG35204,N5239,Other post-surgical erectile dysfunction
+6791,DRG35204,N528,Other male erectile dysfunction
+6792,DRG35204,N529,"Male erectile dysfunction, unspecified"
+6793,DRG35204,N5311,Retarded ejaculation
+6794,DRG35204,N5312,Painful ejaculation
+6795,DRG35204,N5313,Anejaculatory orgasm
+6796,DRG35204,N5314,Retrograde ejaculation
+6797,DRG35204,N5319,Other ejaculatory dysfunction
+6798,DRG35204,N538,Other male sexual dysfunction
+6799,DRG35204,N539,Unspecified male sexual dysfunction
+6800,DRG35204,Q5300,"Ectopic testis, unspecified"
+6801,DRG35204,Q5301,"Ectopic testis, unilateral"
+6802,DRG35204,Q5302,"Ectopic testes, bilateral"
+6803,DRG35204,Q5310,"Unspecified undescended testicle, unilateral"
+6804,DRG35204,Q5311,"Abdominal testis, unilateral"
+6805,DRG35204,Q5312,"Ectopic perineal testis, unilateral"
+6806,DRG35204,Q5320,"Undescended testicle, unspecified, bilateral"
+6807,DRG35204,Q5321,"Abdominal testis, bilateral"
+6808,DRG35204,Q5322,"Ectopic perineal testis, bilateral"
+6809,DRG35204,Q539,"Undescended testicle, unspecified"
+6810,DRG35204,Q540,"Hypospadias, balanic"
+6811,DRG35204,Q541,"Hypospadias, penile"
+6812,DRG35204,Q542,"Hypospadias, penoscrotal"
+6813,DRG35204,Q543,"Hypospadias, perineal"
+6814,DRG35204,Q544,Congenital chordee
+6815,DRG35204,Q548,Other hypospadias
+6816,DRG35204,Q549,"Hypospadias, unspecified"
+6817,DRG35204,Q550,Absence and aplasia of testis
+6818,DRG35204,Q551,Hypoplasia of testis and scrotum
+6819,DRG35204,Q5520,Unspecified congenital malformations of testis and scrotum
+6820,DRG35204,Q5521,Polyorchism
+6821,DRG35204,Q5522,Retractile testis
+6822,DRG35204,Q5523,Scrotal transposition
+6823,DRG35204,Q5529,Other congenital malformations of testis and scrotum
+6824,DRG35204,Q553,Atresia of vas deferens
+6825,DRG35204,Q554,"Other congenital malformations of vas deferens, epididymis, seminal vesicles and prostate"
+6826,DRG35204,Q555,Congenital absence and aplasia of penis
+6827,DRG35204,Q5561,Curvature of penis (lateral)
+6828,DRG35204,Q5562,Hypoplasia of penis
+6829,DRG35204,Q5563,Congenital torsion of penis
+6830,DRG35204,Q5564,Hidden penis
+6831,DRG35204,Q5569,Other congenital malformation of penis
+6832,DRG35204,Q557,Congenital vasocutaneous fistula
+6833,DRG35204,Q558,Other specified congenital malformations of male genital organs
+6834,DRG35204,Q559,"Congenital malformation of male genital organ, unspecified"
+6835,DRG35204,Q560,"Hermaphroditism, not elsewhere classified"
+6836,DRG35204,Q561,"Male pseudohermaphroditism, not elsewhere classified"
+6837,DRG35204,Q563,"Pseudohermaphroditism, unspecified"
+6838,DRG35204,Q564,"Indeterminate sex, unspecified"
+6839,DRG35204,Q640,Epispadias
+6840,DRG35204,Q980,"Klinefelter syndrome karyotype 47, XXY"
+6841,DRG35204,Q981,"Klinefelter syndrome, male with more than two X chromosomes"
+6842,DRG35204,Q983,"Other male with 46, XX karyotype"
+6843,DRG35204,Q984,"Klinefelter syndrome, unspecified"
+6844,DRG35204,Q985,"Karyotype 47, XYY"
+6845,DRG35204,Q986,Male with structurally abnormal sex chromosome
+6846,DRG35204,Q987,Male with sex chromosome mosaicism
+6847,DRG35204,Q988,"Other specified sex chromosome abnormalities, male phenotype"
+6848,DRG35204,Q989,"Sex chromosome abnormality, male phenotype, unspecified"
+6849,DRG35204,Q990,"Chimera 46, XX/46, XY"
+6850,DRG35204,Q991,"46, XX true hermaphrodite"
+6851,DRG35204,Q998,Other specified chromosome abnormalities
+6852,DRG35204,R860,Abnormal level of enzymes in specimens from male genital organs
+6853,DRG35204,R861,Abnormal level of hormones in specimens from male genital organs
+6854,DRG35204,R862,"Abnormal level of other drugs, medicaments and biological substances in specimens from male genital organs"
+6855,DRG35204,R863,Abnormal level of substances chiefly nonmedicinal as to source in specimens from male genital organs
+6856,DRG35204,R864,Abnormal immunological findings in specimens from male genital organs
+6857,DRG35204,R865,Abnormal microbiological findings in specimens from male genital organs
+6858,DRG35204,R866,Abnormal cytological findings in specimens from male genital organs
+6859,DRG35204,R867,Abnormal histological findings in specimens from male genital organs
+6860,DRG35204,R868,Other abnormal findings in specimens from male genital organs
+6861,DRG35204,R869,Unspecified abnormal finding in specimens from male genital organs
+6862,DRG35204,S30201A,"Contusion of unspecified external genital organ, male, initial encounter"
+6863,DRG35204,S3021XA,"Contusion of penis, initial encounter"
+6864,DRG35204,S3022XA,"Contusion of scrotum and testes, initial encounter"
+6865,DRG35204,S3120XA,"Unspecified open wound of penis, initial encounter"
+6866,DRG35204,S3121XA,"Laceration without foreign body of penis, initial encounter"
+6867,DRG35204,S3122XA,"Laceration with foreign body of penis, initial encounter"
+6868,DRG35204,S3123XA,"Puncture wound without foreign body of penis, initial encounter"
+6869,DRG35204,S3124XA,"Puncture wound with foreign body of penis, initial encounter"
+6870,DRG35204,S3125XA,"Open bite of penis, initial encounter"
+6871,DRG35204,S3130XA,"Unspecified open wound of scrotum and testes, initial encounter"
+6872,DRG35204,S3131XA,"Laceration without foreign body of scrotum and testes, initial encounter"
+6873,DRG35204,S3132XA,"Laceration with foreign body of scrotum and testes, initial encounter"
+6874,DRG35204,S3133XA,"Puncture wound without foreign body of scrotum and testes, initial encounter"
+6875,DRG35204,S3134XA,"Puncture wound with foreign body of scrotum and testes, initial encounter"
+6876,DRG35204,S3135XA,"Open bite of scrotum and testes, initial encounter"
+6877,DRG35204,S31501A,"Unspecified open wound of unspecified external genital organs, male, initial encounter"
+6878,DRG35204,S31511A,"Laceration without foreign body of unspecified external genital organs, male, initial encounter"
+6879,DRG35204,S31521A,"Laceration with foreign body of unspecified external genital organs, male, initial encounter"
+6880,DRG35204,S31531A,"Puncture wound without foreign body of unspecified external genital organs, male, initial encounter"
+6881,DRG35204,S31541A,"Puncture wound with foreign body of unspecified external genital organs, male, initial encounter"
+6882,DRG35204,S31551A,"Open bite of unspecified external genital organs, male, initial encounter"
+6883,DRG35204,S38001A,"Crushing injury of unspecified external genital organs, male, initial encounter"
+6884,DRG35204,S3801XA,"Crushing injury of penis, initial encounter"
+6885,DRG35204,S3802XA,"Crushing injury of scrotum and testis, initial encounter"
+6886,DRG35204,S38221A,"Complete traumatic amputation of penis, initial encounter"
+6887,DRG35204,S38222A,"Partial traumatic amputation of penis, initial encounter"
+6888,DRG35204,S38231A,"Complete traumatic amputation of scrotum and testis, initial encounter"
+6889,DRG35204,S38232A,"Partial traumatic amputation of scrotum and testis, initial encounter"
+6890,DRG35204,T194XXA,"Foreign body in penis, initial encounter"
+6891,DRG35204,Z310,Encounter for reversal of previous sterilization

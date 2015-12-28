@@ -1,0 +1,55 @@
+,DRG,CM-PCS,en
+11079,DRG32702,N393,Stress incontinence (female) (male)
+11080,DRG32702,N3941,Urge incontinence
+11081,DRG32702,N3942,Incontinence without sensory awareness
+11082,DRG32702,N3943,Post-void dribbling
+11083,DRG32702,N3944,Nocturnal enuresis
+11084,DRG32702,N3945,Continuous leakage
+11085,DRG32702,N3946,Mixed incontinence
+11086,DRG32702,N39490,Overflow incontinence
+11087,DRG32702,N39498,Other specified urinary incontinence
+11088,DRG32702,R300,Dysuria
+11089,DRG32702,R301,Vesical tenesmus
+11090,DRG32702,R309,"Painful micturition, unspecified"
+11091,DRG32702,R310,Gross hematuria
+11092,DRG32702,R311,Benign essential microscopic hematuria
+11093,DRG32702,R312,Other microscopic hematuria
+11094,DRG32702,R319,"Hematuria, unspecified"
+11095,DRG32702,R32,Unspecified urinary incontinence
+11096,DRG32702,R330,Drug induced retention of urine
+11097,DRG32702,R338,Other retention of urine
+11098,DRG32702,R339,"Retention of urine, unspecified"
+11099,DRG32702,R350,Frequency of micturition
+11100,DRG32702,R351,Nocturia
+11101,DRG32702,R358,Other polyuria
+11102,DRG32702,R360,Urethral discharge without blood
+11103,DRG32702,R369,"Urethral discharge, unspecified"
+11104,DRG32702,R390,Extravasation of urine
+11105,DRG32702,R3911,Hesitancy of micturition
+11106,DRG32702,R3912,Poor urinary stream
+11107,DRG32702,R3913,Splitting of urinary stream
+11108,DRG32702,R3914,Feeling of incomplete bladder emptying
+11109,DRG32702,R3915,Urgency of urination
+11110,DRG32702,R3916,Straining to void
+11111,DRG32702,R3919,Other difficulties with micturition
+11112,DRG32702,R392,Extrarenal uremia
+11113,DRG32702,R3981,Functional urinary incontinence
+11114,DRG32702,R3989,Other symptoms and signs involving the genitourinary system
+11115,DRG32702,R399,Unspecified symptoms and signs involving the genitourinary system
+11116,DRG32702,R800,Isolated proteinuria
+11117,DRG32702,R801,"Persistent proteinuria, unspecified"
+11118,DRG32702,R803,Bence Jones proteinuria
+11119,DRG32702,R808,Other proteinuria
+11120,DRG32702,R809,"Proteinuria, unspecified"
+11121,DRG32702,R820,Chyluria
+11122,DRG32702,R823,Hemoglobinuria
+11123,DRG32702,R825,"Elevated urine levels of drugs, medicaments and biological substances"
+11124,DRG32702,R826,Abnormal urine levels of substances chiefly nonmedicinal as to source
+11125,DRG32702,R827,Abnormal findings on microbiological examination of urine
+11126,DRG32702,R828,Abnormal findings on cytological and histological examination of urine
+11127,DRG32702,R8290,Unspecified abnormal findings in urine
+11128,DRG32702,R8291,Other chromoabnormalities of urine
+11129,DRG32702,R8299,Other abnormal findings in urine
+11130,DRG32702,R934,Abnormal findings on diagnostic imaging of urinary organs
+11131,DRG32702,R944,Abnormal results of kidney function studies
+11132,DRG32702,R948,Abnormal results of function studies of other organs and systems

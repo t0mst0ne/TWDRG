@@ -1,0 +1,69 @@
+,DRG,CM-PCS,en
+3124,DRG38102,O021,Missed abortion
+3125,DRG38102,O030,Genital tract and pelvic infection following incomplete spontaneous abortion
+3126,DRG38102,O031,Delayed or excessive hemorrhage following incomplete spontaneous abortion
+3127,DRG38102,O032,Embolism following incomplete spontaneous abortion
+3128,DRG38102,O0330,Unspecified complication following incomplete spontaneous abortion
+3129,DRG38102,O0331,Shock following incomplete spontaneous abortion
+3130,DRG38102,O0332,Renal failure following incomplete spontaneous abortion
+3131,DRG38102,O0333,Metabolic disorder following incomplete spontaneous abortion
+3132,DRG38102,O0334,Damage to pelvic organs following incomplete spontaneous abortion
+3133,DRG38102,O0335,Other venous complications following incomplete spontaneous abortion
+3134,DRG38102,O0336,Cardiac arrest following incomplete spontaneous abortion
+3135,DRG38102,O0337,Sepsis following incomplete spontaneous abortion
+3136,DRG38102,O0338,Urinary tract infection following incomplete spontaneous abortion
+3137,DRG38102,O0339,Incomplete spontaneous abortion with other complications
+3138,DRG38102,O034,Incomplete spontaneous abortion without complication
+3139,DRG38102,O035,Genital tract and pelvic infection following complete or unspecified spontaneous abortion
+3140,DRG38102,O036,Delayed or excessive hemorrhage following complete or unspecified spontaneous abortion
+3141,DRG38102,O037,Embolism following complete or unspecified spontaneous abortion
+3142,DRG38102,O0380,Unspecified complication following complete or unspecified spontaneous abortion
+3143,DRG38102,O0381,Shock following complete or unspecified spontaneous abortion
+3144,DRG38102,O0382,Renal failure following complete or unspecified spontaneous abortion
+3145,DRG38102,O0383,Metabolic disorder following complete or unspecified spontaneous abortion
+3146,DRG38102,O0384,Damage to pelvic organs following complete or unspecified spontaneous abortion
+3147,DRG38102,O0385,Other venous complications following complete or unspecified spontaneous abortion
+3148,DRG38102,O0386,Cardiac arrest following complete or unspecified spontaneous abortion
+3149,DRG38102,O0387,Sepsis following complete or unspecified spontaneous abortion
+3150,DRG38102,O0388,Urinary tract infection following complete or unspecified spontaneous abortion
+3151,DRG38102,O0389,Complete or unspecified spontaneous abortion with other complications
+3152,DRG38102,O039,Complete or unspecified spontaneous abortion without complication
+3153,DRG38102,O045,Genital tract and pelvic infection following (induced) termination of pregnancy
+3154,DRG38102,O046,Delayed or excessive hemorrhage following (induced) termination of pregnancy
+3155,DRG38102,O047,Embolism following (induced) termination of pregnancy
+3156,DRG38102,O0480,(Induced) termination of pregnancy with unspecified complications
+3157,DRG38102,O0481,Shock following (induced) termination of pregnancy
+3158,DRG38102,O0482,Renal failure following (induced) termination of pregnancy
+3159,DRG38102,O0483,Metabolic disorder following (induced) termination of pregnancy
+3160,DRG38102,O0484,Damage to pelvic organs following (induced) termination of pregnancy
+3161,DRG38102,O0485,Other venous complications following (induced) termination of pregnancy
+3162,DRG38102,O0486,Cardiac arrest following (induced) termination of pregnancy
+3163,DRG38102,O0487,Sepsis following (induced) termination of pregnancy
+3164,DRG38102,O0488,Urinary tract infection following (induced) termination of pregnancy
+3165,DRG38102,O0489,(Induced) termination of pregnancy with other complications
+3166,DRG38102,O070,Genital tract and pelvic infection following failed attempted termination of pregnancy
+3167,DRG38102,O071,Delayed or excessive hemorrhage following failed attempted termination of pregnancy
+3168,DRG38102,O072,Embolism following failed attempted termination of pregnancy
+3169,DRG38102,O0730,Failed attempted termination of pregnancy with unspecified complications
+3170,DRG38102,O0731,Shock following failed attempted termination of pregnancy
+3171,DRG38102,O0732,Renal failure following failed attempted termination of pregnancy
+3172,DRG38102,O0733,Metabolic disorder following failed attempted termination of pregnancy
+3173,DRG38102,O0734,Damage to pelvic organs following failed attempted termination of pregnancy
+3174,DRG38102,O0735,Other venous complications following failed attempted termination of pregnancy
+3175,DRG38102,O0736,Cardiac arrest following failed attempted termination of pregnancy
+3176,DRG38102,O0737,Sepsis following failed attempted termination of pregnancy
+3177,DRG38102,O0738,Urinary tract infection following failed attempted termination of pregnancy
+3178,DRG38102,O0739,Failed attempted termination of pregnancy with other complications
+3179,DRG38102,O074,Failed attempted termination of pregnancy without complication
+3180,DRG38102,Z332,Encounter for elective termination of pregnancy
+3183,DRG38102,0UDB7ZX,"Extraction of Endometrium, Via Natural or Artificial Opening, Diagnostic"
+3184,DRG38102,0UDB7ZZ,"Extraction of Endometrium, Via Natural or Artificial Opening"
+3185,DRG38102,0UDB8ZX,"Extraction of Endometrium, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+3186,DRG38102,0UDB8ZZ,"Extraction of Endometrium, Via Natural or Artificial Opening Endoscopic"
+3187,DRG38102,10A00ZZ,"Abortion of Products of Conception, Open Approach"
+3188,DRG38102,10A03ZZ,"Abortion of Products of Conception, Percutaneous Approach"
+3189,DRG38102,10A04ZZ,"Abortion of Products of Conception, Percutaneous Endoscopic Approach"
+3190,DRG38102,10A07ZZ,"Abortion of Products of Conception, Via Natural or Artificial Opening"
+3191,DRG38102,10A08ZZ,"Abortion of Products of Conception, Via Natural or Artificial Opening Endoscopic"
+3192,DRG38102,10D17ZZ,"Extraction of Products of Conception, Retained, Via Natural or Artificial Opening"
+3193,DRG38102,10D18ZZ,"Extraction of Products of Conception, Retained, Via Natural or Artificial Opening Endoscopic"

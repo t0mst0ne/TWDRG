@@ -1,0 +1,879 @@
+,DRG,CM-PCS,en
+13,DRG00372,O1002,Pre-existing essential hypertension complicating childbirth
+14,DRG00372,O1012,Pre-existing hypertensive heart disease complicating childbirth
+15,DRG00372,O1022,Pre-existing hypertensive chronic kidney disease complicating childbirth
+16,DRG00372,O1032,Pre-existing hypertensive heart and chronic kidney disease complicating childbirth
+17,DRG00372,O1042,Pre-existing secondary hypertension complicating childbirth
+18,DRG00372,O1092,Unspecified pre-existing hypertension complicating childbirth
+19,DRG00372,O151,Eclampsia in labor
+20,DRG00372,O2402,"Pre-existing diabetes mellitus, type 1, in childbirth"
+21,DRG00372,O2412,"Pre-existing diabetes mellitus, type 2, in childbirth"
+22,DRG00372,O2432,Unspecified pre-existing diabetes mellitus in childbirth
+23,DRG00372,O24420,"Gestational diabetes mellitus in childbirth, diet controlled"
+24,DRG00372,O24424,"Gestational diabetes mellitus in childbirth, insulin controlled"
+25,DRG00372,O24429,"Gestational diabetes mellitus in childbirth, unspecified control"
+26,DRG00372,O2482,Other pre-existing diabetes mellitus in childbirth
+27,DRG00372,O2492,Unspecified diabetes mellitus in childbirth
+28,DRG00372,O252,Malnutrition in childbirth
+29,DRG00372,O2662,Liver and biliary tract disorders in childbirth
+30,DRG00372,O2672,Subluxation of symphysis (pubis) in childbirth
+31,DRG00372,O6012X0,"Preterm labor second trimester with preterm delivery second trimester, not applicable or unspecified"
+32,DRG00372,O6012X1,"Preterm labor second trimester with preterm delivery second trimester, fetus 1"
+33,DRG00372,O6012X2,"Preterm labor second trimester with preterm delivery second trimester, fetus 2"
+34,DRG00372,O6012X3,"Preterm labor second trimester with preterm delivery second trimester, fetus 3"
+35,DRG00372,O6012X4,"Preterm labor second trimester with preterm delivery second trimester, fetus 4"
+36,DRG00372,O6012X5,"Preterm labor second trimester with preterm delivery second trimester, fetus 5"
+37,DRG00372,O6012X9,"Preterm labor second trimester with preterm delivery second trimester, other fetus"
+38,DRG00372,O6013X0,"Preterm labor second trimester with preterm delivery third trimester, not applicable or unspecified"
+39,DRG00372,O6013X1,"Preterm labor second trimester with preterm delivery third trimester, fetus 1"
+40,DRG00372,O6013X2,"Preterm labor second trimester with preterm delivery third trimester, fetus 2"
+41,DRG00372,O6013X3,"Preterm labor second trimester with preterm delivery third trimester, fetus 3"
+42,DRG00372,O6013X4,"Preterm labor second trimester with preterm delivery third trimester, fetus 4"
+43,DRG00372,O6013X5,"Preterm labor second trimester with preterm delivery third trimester, fetus 5"
+44,DRG00372,O6013X9,"Preterm labor second trimester with preterm delivery third trimester, other fetus"
+45,DRG00372,O6014X0,"Preterm labor third trimester with preterm delivery third trimester, not applicable or unspecified"
+46,DRG00372,O6014X1,"Preterm labor third trimester with preterm delivery third trimester, fetus 1"
+47,DRG00372,O6014X2,"Preterm labor third trimester with preterm delivery third trimester, fetus 2"
+48,DRG00372,O6014X3,"Preterm labor third trimester with preterm delivery third trimester, fetus 3"
+49,DRG00372,O6014X4,"Preterm labor third trimester with preterm delivery third trimester, fetus 4"
+50,DRG00372,O6014X5,"Preterm labor third trimester with preterm delivery third trimester, fetus 5"
+51,DRG00372,O6014X9,"Preterm labor third trimester with preterm delivery third trimester, other fetus"
+52,DRG00372,O6022X0,"Term delivery with preterm labor, second trimester, not applicable or unspecified"
+53,DRG00372,O6022X1,"Term delivery with preterm labor, second trimester, fetus 1"
+54,DRG00372,O6022X2,"Term delivery with preterm labor, second trimester, fetus 2"
+55,DRG00372,O6022X3,"Term delivery with preterm labor, second trimester, fetus 3"
+56,DRG00372,O6022X4,"Term delivery with preterm labor, second trimester, fetus 4"
+57,DRG00372,O6022X5,"Term delivery with preterm labor, second trimester, fetus 5"
+58,DRG00372,O6022X9,"Term delivery with preterm labor, second trimester, other fetus"
+59,DRG00372,O6023X0,"Term delivery with preterm labor, third trimester, not applicable or unspecified"
+60,DRG00372,O6023X1,"Term delivery with preterm labor, third trimester, fetus 1"
+61,DRG00372,O6023X2,"Term delivery with preterm labor, third trimester, fetus 2"
+62,DRG00372,O6023X3,"Term delivery with preterm labor, third trimester, fetus 3"
+63,DRG00372,O6023X4,"Term delivery with preterm labor, third trimester, fetus 4"
+64,DRG00372,O6023X5,"Term delivery with preterm labor, third trimester, fetus 5"
+65,DRG00372,O6023X9,"Term delivery with preterm labor, third trimester, other fetus"
+66,DRG00372,O610,Failed medical induction of labor
+67,DRG00372,O611,Failed instrumental induction of labor
+68,DRG00372,O618,Other failed induction of labor
+69,DRG00372,O619,"Failed induction of labor, unspecified"
+70,DRG00372,O620,Primary inadequate contractions
+71,DRG00372,O621,Secondary uterine inertia
+72,DRG00372,O622,Other uterine inertia
+73,DRG00372,O623,Precipitate labor
+74,DRG00372,O624,"Hypertonic, incoordinate, and prolonged uterine contractions"
+75,DRG00372,O628,Other abnormalities of forces of labor
+76,DRG00372,O629,"Abnormality of forces of labor, unspecified"
+77,DRG00372,O630,Prolonged first stage (of labor)
+78,DRG00372,O631,Prolonged second stage (of labor)
+79,DRG00372,O632,"Delayed delivery of second twin, triplet, etc."
+80,DRG00372,O639,"Long labor, unspecified"
+81,DRG00372,O640XX0,"Obstructed labor due to incomplete rotation of fetal head, not applicable or unspecified"
+82,DRG00372,O640XX1,"Obstructed labor due to incomplete rotation of fetal head, fetus 1"
+83,DRG00372,O640XX2,"Obstructed labor due to incomplete rotation of fetal head, fetus 2"
+84,DRG00372,O640XX3,"Obstructed labor due to incomplete rotation of fetal head, fetus 3"
+85,DRG00372,O640XX4,"Obstructed labor due to incomplete rotation of fetal head, fetus 4"
+86,DRG00372,O640XX5,"Obstructed labor due to incomplete rotation of fetal head, fetus 5"
+87,DRG00372,O640XX9,"Obstructed labor due to incomplete rotation of fetal head, other fetus"
+88,DRG00372,O641XX0,"Obstructed labor due to breech presentation, not applicable or unspecified"
+89,DRG00372,O641XX1,"Obstructed labor due to breech presentation, fetus 1"
+90,DRG00372,O641XX2,"Obstructed labor due to breech presentation, fetus 2"
+91,DRG00372,O641XX3,"Obstructed labor due to breech presentation, fetus 3"
+92,DRG00372,O641XX4,"Obstructed labor due to breech presentation, fetus 4"
+93,DRG00372,O641XX5,"Obstructed labor due to breech presentation, fetus 5"
+94,DRG00372,O641XX9,"Obstructed labor due to breech presentation, other fetus"
+95,DRG00372,O642XX0,"Obstructed labor due to face presentation, not applicable or unspecified"
+96,DRG00372,O642XX1,"Obstructed labor due to face presentation, fetus 1"
+97,DRG00372,O642XX2,"Obstructed labor due to face presentation, fetus 2"
+98,DRG00372,O642XX3,"Obstructed labor due to face presentation, fetus 3"
+99,DRG00372,O642XX4,"Obstructed labor due to face presentation, fetus 4"
+100,DRG00372,O642XX5,"Obstructed labor due to face presentation, fetus 5"
+101,DRG00372,O642XX9,"Obstructed labor due to face presentation, other fetus"
+102,DRG00372,O643XX0,"Obstructed labor due to brow presentation, not applicable or unspecified"
+103,DRG00372,O643XX1,"Obstructed labor due to brow presentation, fetus 1"
+104,DRG00372,O643XX2,"Obstructed labor due to brow presentation, fetus 2"
+105,DRG00372,O643XX3,"Obstructed labor due to brow presentation, fetus 3"
+106,DRG00372,O643XX4,"Obstructed labor due to brow presentation, fetus 4"
+107,DRG00372,O643XX5,"Obstructed labor due to brow presentation, fetus 5"
+108,DRG00372,O643XX9,"Obstructed labor due to brow presentation, other fetus"
+109,DRG00372,O644XX0,"Obstructed labor due to shoulder presentation, not applicable or unspecified"
+110,DRG00372,O644XX1,"Obstructed labor due to shoulder presentation, fetus 1"
+111,DRG00372,O644XX2,"Obstructed labor due to shoulder presentation, fetus 2"
+112,DRG00372,O644XX3,"Obstructed labor due to shoulder presentation, fetus 3"
+113,DRG00372,O644XX4,"Obstructed labor due to shoulder presentation, fetus 4"
+114,DRG00372,O644XX5,"Obstructed labor due to shoulder presentation, fetus 5"
+115,DRG00372,O644XX9,"Obstructed labor due to shoulder presentation, other fetus"
+116,DRG00372,O645XX0,"Obstructed labor due to compound presentation, not applicable or unspecified"
+117,DRG00372,O645XX1,"Obstructed labor due to compound presentation, fetus 1"
+118,DRG00372,O645XX2,"Obstructed labor due to compound presentation, fetus 2"
+119,DRG00372,O645XX3,"Obstructed labor due to compound presentation, fetus 3"
+120,DRG00372,O645XX4,"Obstructed labor due to compound presentation, fetus 4"
+121,DRG00372,O645XX5,"Obstructed labor due to compound presentation, fetus 5"
+122,DRG00372,O645XX9,"Obstructed labor due to compound presentation, other fetus"
+123,DRG00372,O648XX0,"Obstructed labor due to other malposition and malpresentation, not applicable or unspecified"
+124,DRG00372,O648XX1,"Obstructed labor due to other malposition and malpresentation, fetus 1"
+125,DRG00372,O648XX2,"Obstructed labor due to other malposition and malpresentation, fetus 2"
+126,DRG00372,O648XX3,"Obstructed labor due to other malposition and malpresentation, fetus 3"
+127,DRG00372,O648XX4,"Obstructed labor due to other malposition and malpresentation, fetus 4"
+128,DRG00372,O648XX5,"Obstructed labor due to other malposition and malpresentation, fetus 5"
+129,DRG00372,O648XX9,"Obstructed labor due to other malposition and malpresentation, other fetus"
+130,DRG00372,O649XX0,"Obstructed labor due to malposition and malpresentation, unspecified, not applicable or unspecified"
+131,DRG00372,O649XX1,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 1"
+132,DRG00372,O649XX2,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 2"
+133,DRG00372,O649XX3,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 3"
+134,DRG00372,O649XX4,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 4"
+135,DRG00372,O649XX5,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 5"
+136,DRG00372,O649XX9,"Obstructed labor due to malposition and malpresentation, unspecified, other fetus"
+137,DRG00372,O650,Obstructed labor due to deformed pelvis
+138,DRG00372,O651,Obstructed labor due to generally contracted pelvis
+139,DRG00372,O652,Obstructed labor due to pelvic inlet contraction
+140,DRG00372,O653,Obstructed labor due to pelvic outlet and mid-cavity contraction
+141,DRG00372,O654,"Obstructed labor due to fetopelvic disproportion, unspecified"
+142,DRG00372,O655,Obstructed labor due to abnormality of maternal pelvic organs
+143,DRG00372,O658,Obstructed labor due to other maternal pelvic abnormalities
+144,DRG00372,O659,"Obstructed labor due to maternal pelvic abnormality, unspecified"
+145,DRG00372,O660,Obstructed labor due to shoulder dystocia
+146,DRG00372,O661,Obstructed labor due to locked twins
+147,DRG00372,O662,Obstructed labor due to unusually large fetus
+148,DRG00372,O663,Obstructed labor due to other abnormalities of fetus
+149,DRG00372,O6641,Failed attempted vaginal birth after previous cesarean delivery
+150,DRG00372,O665,Attempted application of vacuum extractor and forceps
+151,DRG00372,O666,Obstructed labor due to other multiple fetuses
+152,DRG00372,O668,Other specified obstructed labor
+153,DRG00372,O669,"Obstructed labor, unspecified"
+154,DRG00372,O670,Intrapartum hemorrhage with coagulation defect
+155,DRG00372,O678,Other intrapartum hemorrhage
+156,DRG00372,O679,"Intrapartum hemorrhage, unspecified"
+157,DRG00372,O68,Labor and delivery complicated by abnormality of fetal acid-base balance
+158,DRG00372,O690XX0,"Labor and delivery complicated by prolapse of cord, not applicable or unspecified"
+159,DRG00372,O690XX1,"Labor and delivery complicated by prolapse of cord, fetus 1"
+160,DRG00372,O690XX2,"Labor and delivery complicated by prolapse of cord, fetus 2"
+161,DRG00372,O690XX3,"Labor and delivery complicated by prolapse of cord, fetus 3"
+162,DRG00372,O690XX4,"Labor and delivery complicated by prolapse of cord, fetus 4"
+163,DRG00372,O690XX5,"Labor and delivery complicated by prolapse of cord, fetus 5"
+164,DRG00372,O690XX9,"Labor and delivery complicated by prolapse of cord, other fetus"
+165,DRG00372,O691XX0,"Labor and delivery complicated by cord around neck, with compression, not applicable or unspecified"
+166,DRG00372,O691XX1,"Labor and delivery complicated by cord around neck, with compression, fetus 1"
+167,DRG00372,O691XX2,"Labor and delivery complicated by cord around neck, with compression, fetus 2"
+168,DRG00372,O691XX3,"Labor and delivery complicated by cord around neck, with compression, fetus 3"
+169,DRG00372,O691XX4,"Labor and delivery complicated by cord around neck, with compression, fetus 4"
+170,DRG00372,O691XX5,"Labor and delivery complicated by cord around neck, with compression, fetus 5"
+171,DRG00372,O691XX9,"Labor and delivery complicated by cord around neck, with compression, other fetus"
+172,DRG00372,O692XX0,"Labor and delivery complicated by other cord entanglement, with compression, not applicable or unspecified"
+173,DRG00372,O692XX1,"Labor and delivery complicated by other cord entanglement, with compression, fetus 1"
+174,DRG00372,O692XX2,"Labor and delivery complicated by other cord entanglement, with compression, fetus 2"
+175,DRG00372,O692XX3,"Labor and delivery complicated by other cord entanglement, with compression, fetus 3"
+176,DRG00372,O692XX4,"Labor and delivery complicated by other cord entanglement, with compression, fetus 4"
+177,DRG00372,O692XX5,"Labor and delivery complicated by other cord entanglement, with compression, fetus 5"
+178,DRG00372,O692XX9,"Labor and delivery complicated by other cord entanglement, with compression, other fetus"
+179,DRG00372,O693XX0,"Labor and delivery complicated by short cord, not applicable or unspecified"
+180,DRG00372,O693XX1,"Labor and delivery complicated by short cord, fetus 1"
+181,DRG00372,O693XX2,"Labor and delivery complicated by short cord, fetus 2"
+182,DRG00372,O693XX3,"Labor and delivery complicated by short cord, fetus 3"
+183,DRG00372,O693XX4,"Labor and delivery complicated by short cord, fetus 4"
+184,DRG00372,O693XX5,"Labor and delivery complicated by short cord, fetus 5"
+185,DRG00372,O693XX9,"Labor and delivery complicated by short cord, other fetus"
+186,DRG00372,O694XX0,"Labor and delivery complicated by vasa previa, not applicable or unspecified"
+187,DRG00372,O694XX1,"Labor and delivery complicated by vasa previa, fetus 1"
+188,DRG00372,O694XX2,"Labor and delivery complicated by vasa previa, fetus 2"
+189,DRG00372,O694XX3,"Labor and delivery complicated by vasa previa, fetus 3"
+190,DRG00372,O694XX4,"Labor and delivery complicated by vasa previa, fetus 4"
+191,DRG00372,O694XX5,"Labor and delivery complicated by vasa previa, fetus 5"
+192,DRG00372,O694XX9,"Labor and delivery complicated by vasa previa, other fetus"
+193,DRG00372,O695XX0,"Labor and delivery complicated by vascular lesion of cord, not applicable or unspecified"
+194,DRG00372,O695XX1,"Labor and delivery complicated by vascular lesion of cord, fetus 1"
+195,DRG00372,O695XX2,"Labor and delivery complicated by vascular lesion of cord, fetus 2"
+196,DRG00372,O695XX3,"Labor and delivery complicated by vascular lesion of cord, fetus 3"
+197,DRG00372,O695XX4,"Labor and delivery complicated by vascular lesion of cord, fetus 4"
+198,DRG00372,O695XX5,"Labor and delivery complicated by vascular lesion of cord, fetus 5"
+199,DRG00372,O695XX9,"Labor and delivery complicated by vascular lesion of cord, other fetus"
+200,DRG00372,O6981X1,"Labor and delivery complicated by cord around neck, without compression, fetus 1"
+201,DRG00372,O6981X2,"Labor and delivery complicated by cord around neck, without compression, fetus 2"
+202,DRG00372,O6981X3,"Labor and delivery complicated by cord around neck, without compression, fetus 3"
+203,DRG00372,O6981X4,"Labor and delivery complicated by cord around neck, without compression, fetus 4"
+204,DRG00372,O6981X5,"Labor and delivery complicated by cord around neck, without compression, fetus 5"
+205,DRG00372,O6981X9,"Labor and delivery complicated by cord around neck, without compression, other fetus"
+206,DRG00372,O6982X1,"Labor and delivery complicated by other cord entanglement, without compression, fetus 1"
+207,DRG00372,O6982X2,"Labor and delivery complicated by other cord entanglement, without compression, fetus 2"
+208,DRG00372,O6982X3,"Labor and delivery complicated by other cord entanglement, without compression, fetus 3"
+209,DRG00372,O6982X4,"Labor and delivery complicated by other cord entanglement, without compression, fetus 4"
+210,DRG00372,O6982X5,"Labor and delivery complicated by other cord entanglement, without compression, fetus 5"
+211,DRG00372,O6982X9,"Labor and delivery complicated by other cord entanglement, without compression, other fetus"
+212,DRG00372,O6989X1,"Labor and delivery complicated by other cord complications, fetus 1"
+213,DRG00372,O6989X2,"Labor and delivery complicated by other cord complications, fetus 2"
+214,DRG00372,O6989X3,"Labor and delivery complicated by other cord complications, fetus 3"
+215,DRG00372,O6989X4,"Labor and delivery complicated by other cord complications, fetus 4"
+216,DRG00372,O6989X5,"Labor and delivery complicated by other cord complications, fetus 5"
+217,DRG00372,O6989X9,"Labor and delivery complicated by other cord complications, other fetus"
+218,DRG00372,O699XX0,"Labor and delivery complicated by cord complication, unspecified, not applicable or unspecified"
+219,DRG00372,O699XX1,"Labor and delivery complicated by cord complication, unspecified, fetus 1"
+220,DRG00372,O699XX2,"Labor and delivery complicated by cord complication, unspecified, fetus 2"
+221,DRG00372,O699XX3,"Labor and delivery complicated by cord complication, unspecified, fetus 3"
+222,DRG00372,O699XX4,"Labor and delivery complicated by cord complication, unspecified, fetus 4"
+223,DRG00372,O699XX5,"Labor and delivery complicated by cord complication, unspecified, fetus 5"
+224,DRG00372,O699XX9,"Labor and delivery complicated by cord complication, unspecified, other fetus"
+225,DRG00372,O7100,"Rupture of uterus before onset of labor, unspecified trimester"
+226,DRG00372,O711,Rupture of uterus during labor
+227,DRG00372,O7181,"Laceration of uterus, not elsewhere classified"
+228,DRG00372,O720,Third-stage hemorrhage
+229,DRG00372,O721,Other immediate postpartum hemorrhage
+230,DRG00372,O740,Aspiration pneumonitis due to anesthesia during labor and delivery
+231,DRG00372,O741,Other pulmonary complications of anesthesia during labor and delivery
+232,DRG00372,O742,Cardiac complications of anesthesia during labor and delivery
+233,DRG00372,O743,Central nervous system complications of anesthesia during labor and delivery
+234,DRG00372,O744,Toxic reaction to local anesthesia during labor and delivery
+235,DRG00372,O745,Spinal and epidural anesthesia-induced headache during labor and delivery
+236,DRG00372,O746,Other complications of spinal and epidural anesthesia during labor and delivery
+237,DRG00372,O747,Failed or difficult intubation for anesthesia during labor and delivery
+238,DRG00372,O748,Other complications of anesthesia during labor and delivery
+239,DRG00372,O749,"Complication of anesthesia during labor and delivery, unspecified"
+240,DRG00372,O751,Shock during or following labor and delivery
+241,DRG00372,O754,Other complications of obstetric surgery and procedures
+242,DRG00372,O755,Delayed delivery after artificial rupture of membranes
+243,DRG00372,O7581,Maternal exhaustion complicating labor and delivery
+244,DRG00372,O7582,"Onset (spontaneous) of labor after 37 completed weeks of gestation but before 39 completed weeks gestation, with delivery by (planned) cesarean section"
+245,DRG00372,O770,Labor and delivery complicated by meconium in amniotic fluid
+246,DRG00372,O771,Fetal stress in labor or delivery due to drug administration
+247,DRG00372,O778,Labor and delivery complicated by other evidence of fetal stress
+248,DRG00372,O779,"Labor and delivery complicated by fetal stress, unspecified"
+249,DRG00372,O80,Encounter for full-term uncomplicated delivery
+250,DRG00372,O82,Encounter for cesarean delivery without indication
+251,DRG00372,O8802,Air embolism in childbirth
+252,DRG00372,O8812,Amniotic fluid embolism in childbirth
+253,DRG00372,O8822,Thromboembolism in childbirth
+254,DRG00372,O8832,Pyemic and septic embolism in childbirth
+255,DRG00372,O8882,Other embolism in childbirth
+256,DRG00372,O9802,Tuberculosis complicating childbirth
+257,DRG00372,O9812,Syphilis complicating childbirth
+258,DRG00372,O9822,Gonorrhea complicating childbirth
+259,DRG00372,O9832,Other infections with a predominantly sexual mode of transmission complicating childbirth
+260,DRG00372,O9842,Viral hepatitis complicating childbirth
+261,DRG00372,O9852,Other viral diseases complicating childbirth
+262,DRG00372,O9862,Protozoal diseases complicating childbirth
+263,DRG00372,O9872,Human immunodeficiency virus [HIV] disease complicating childbirth
+264,DRG00372,O9882,Other maternal infectious and parasitic diseases complicating childbirth
+265,DRG00372,O9892,Unspecified maternal infectious and parasitic disease complicating childbirth
+266,DRG00372,O9902,Anemia complicating childbirth
+267,DRG00372,O9912,Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating childbirth
+268,DRG00372,O99214,Obesity complicating childbirth
+269,DRG00372,O99284,"Endocrine, nutritional and metabolic diseases complicating childbirth"
+270,DRG00372,O99314,Alcohol use complicating childbirth
+271,DRG00372,O99324,Drug use complicating childbirth
+272,DRG00372,O99334,Smoking (tobacco) complicating childbirth
+273,DRG00372,O99344,Other mental disorders complicating childbirth
+274,DRG00372,O99354,Diseases of the nervous system complicating childbirth
+275,DRG00372,O9942,Diseases of the circulatory system complicating childbirth
+276,DRG00372,O9952,Diseases of the respiratory system complicating childbirth
+277,DRG00372,O9962,Diseases of the digestive system complicating childbirth
+278,DRG00372,O9972,Diseases of the skin and subcutaneous tissue complicating childbirth
+279,DRG00372,O99814,Abnormal glucose complicating childbirth
+280,DRG00372,O99824,Streptococcus B carrier state complicating childbirth
+281,DRG00372,O99834,Other infection carrier state complicating childbirth
+282,DRG00372,O99844,Bariatric surgery status complicating childbirth
+283,DRG00372,O9A12,Malignant neoplasm complicating childbirth
+284,DRG00372,O9A22,"Injury, poisoning and certain other consequences of external causes complicating childbirth"
+285,DRG00372,O9A32,Physical abuse complicating childbirth
+286,DRG00372,O9A42,Sexual abuse complicating childbirth
+287,DRG00372,O9A52,Psychological abuse complicating childbirth
+290,DRG00372,0DQP7ZZ,"Repair Rectum, Via Naturalor Artificial Opening"
+291,DRG00372,10A07Z6,"Abortion of Products of Conception, Vacuum, Via Natural or Artificial Opening"
+292,DRG00372,10D07Z3,"Extraction of Products of Conception, Low Forceps, Via Naturalor Artificial Opening"
+293,DRG00372,10D07Z4,"Extraction of Products of Conception, Mid Forceps, Via Natural or Artificial Opening"
+294,DRG00372,10D07Z5,"Extraction of Products of Conception, HighForceps, Via Natural or Artificial Opening"
+295,DRG00372,10D07Z6,"Extraction of Products of Conception, Vacuum, Via Natural or Artificial Opening"
+296,DRG00372,10D07Z7,"Extraction of Products of Conception, Internal Version, Via Natural or Artificial Opening"
+297,DRG00372,10D07Z8,"Extraction of Products of Conception, Other, ViaNatural or Artificial Opening"
+298,DRG00372,10E0XZZ,"Delivery of Products of Conception, External Approach"
+299,DRG00372,10S07ZZ,"Reposition Products of Conception, Via Natural or Artificial Opening"
+302,DRG00372,Z370,Single live birth
+303,DRG00372,Z371,Single stillbirth
+304,DRG00372,Z372,"Twins, both liveborn"
+305,DRG00372,Z373,"Twins, one liveborn and one stillborn"
+306,DRG00372,Z374,"Twins, both stillborn"
+307,DRG00372,Z3750,"Multiple births, unspecified, all liveborn"
+308,DRG00372,Z3751,"Triplets, all liveborn"
+309,DRG00372,Z3752,"Quadruplets, all liveborn"
+310,DRG00372,Z3753,"Quintuplets, all liveborn"
+311,DRG00372,Z3754,"Sextuplets, all liveborn"
+312,DRG00372,Z3759,"Other multiple births, all liveborn"
+313,DRG00372,Z3760,"Multiple births, unspecified, some liveborn"
+314,DRG00372,Z3761,"Triplets, some liveborn"
+315,DRG00372,Z3762,"Quadruplets, some liveborn"
+316,DRG00372,Z3763,"Quintuplets, some liveborn"
+317,DRG00372,Z3764,"Sextuplets, some liveborn"
+318,DRG00372,Z3769,"Other multiple births, some liveborn"
+319,DRG00372,Z377,"Other multiple births, all stillborn"
+320,DRG00372,Z379,"Outcome of delivery, unspecified"
+323,DRG00372,O10011,"Pre-existing essential hypertension complicating pregnancy, first trimester"
+324,DRG00372,O10012,"Pre-existing essential hypertension complicating pregnancy, second trimester"
+325,DRG00372,O10013,"Pre-existing essential hypertension complicating pregnancy, third trimester"
+326,DRG00372,O1002,Pre-existing essential hypertension complicating childbirth
+327,DRG00372,O1003,Pre-existing essential hypertension complicating the puerperium
+328,DRG00372,O10111,"Pre-existing hypertensive heart disease complicating pregnancy, first trimester"
+329,DRG00372,O10112,"Pre-existing hypertensive heart disease complicating pregnancy, second trimester"
+330,DRG00372,O10113,"Pre-existing hypertensive heart disease complicating pregnancy, third trimester"
+331,DRG00372,O1012,Pre-existing hypertensive heart disease complicating childbirth
+332,DRG00372,O1013,Pre-existing hypertensive heart disease complicating the puerperium
+333,DRG00372,O10211,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, first trimester"
+334,DRG00372,O10212,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, second trimester"
+335,DRG00372,O10213,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, third trimester"
+336,DRG00372,O1022,Pre-existing hypertensive chronic kidney disease complicating childbirth
+337,DRG00372,O10311,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, first trimester"
+338,DRG00372,O10312,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, second trimester"
+339,DRG00372,O10313,"Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, third trimester"
+340,DRG00372,O1032,Pre-existing hypertensive heart and chronic kidney disease complicating childbirth
+341,DRG00372,O10411,"Pre-existing secondary hypertension complicating pregnancy, first trimester"
+342,DRG00372,O10412,"Pre-existing secondary hypertension complicating pregnancy, second trimester"
+343,DRG00372,O10413,"Pre-existing secondary hypertension complicating pregnancy, third trimester"
+344,DRG00372,O1042,Pre-existing secondary hypertension complicating childbirth
+345,DRG00372,O1043,Pre-existing secondary hypertension complicating the puerperium
+346,DRG00372,O10911,"Unspecified pre-existing hypertension complicating pregnancy, first trimester"
+347,DRG00372,O10912,"Unspecified pre-existing hypertension complicating pregnancy, second trimester"
+348,DRG00372,O10913,"Unspecified pre-existing hypertension complicating pregnancy, third trimester"
+349,DRG00372,O1092,Unspecified pre-existing hypertension complicating childbirth
+350,DRG00372,O111,"Pre-existing hypertension with pre-eclampsia, first trimester"
+351,DRG00372,O112,"Pre-existing hypertension with pre-eclampsia, second trimester"
+352,DRG00372,O113,"Pre-existing hypertension with pre-eclampsia, third trimester"
+353,DRG00372,O1402,"Mild to moderate pre-eclampsia, second trimester"
+354,DRG00372,O1403,"Mild to moderate pre-eclampsia, third trimester"
+355,DRG00372,O1412,"Severe pre-eclampsia, second trimester"
+356,DRG00372,O1413,"Severe pre-eclampsia, third trimester"
+357,DRG00372,O1422,"HELLP syndrome (HELLP), second trimester"
+358,DRG00372,O1423,"HELLP syndrome (HELLP), third trimester"
+359,DRG00372,O1492,"Unspecified pre-eclampsia, second trimester"
+360,DRG00372,O1493,"Unspecified pre-eclampsia, third trimester"
+361,DRG00372,O1502,"Eclampsia in pregnancy, second trimester"
+362,DRG00372,O1503,"Eclampsia in pregnancy, third trimester"
+363,DRG00372,O151,Eclampsia in labor
+364,DRG00372,O152,Eclampsia in the puerperium
+365,DRG00372,O161,"Unspecified maternal hypertension, first trimester"
+366,DRG00372,O162,"Unspecified maternal hypertension, second trimester"
+367,DRG00372,O163,"Unspecified maternal hypertension, third trimester"
+368,DRG00372,O169,"Unspecified maternal hypertension, unspecified trimester"
+369,DRG00372,O2231,"Deep phlebothrombosis in pregnancy, first trimester"
+370,DRG00372,O2232,"Deep phlebothrombosis in pregnancy, second trimester"
+371,DRG00372,O2233,"Deep phlebothrombosis in pregnancy, third trimester"
+372,DRG00372,O2251,"Cerebral venous thrombosis in pregnancy, first trimester"
+373,DRG00372,O2252,"Cerebral venous thrombosis in pregnancy, second trimester"
+374,DRG00372,O2253,"Cerebral venous thrombosis in pregnancy, third trimester"
+375,DRG00372,O24011,"Pre-existing diabetes mellitus, type 1, in pregnancy, first trimester"
+376,DRG00372,O24012,"Pre-existing diabetes mellitus, type 1, in pregnancy, second trimester"
+377,DRG00372,O24013,"Pre-existing diabetes mellitus, type 1, in pregnancy, third trimester"
+378,DRG00372,O2402,"Pre-existing diabetes mellitus, type 1, in childbirth"
+379,DRG00372,O24111,"Pre-existing diabetes mellitus, type 2, in pregnancy, first trimester"
+380,DRG00372,O24112,"Pre-existing diabetes mellitus, type 2, in pregnancy, second trimester"
+381,DRG00372,O24113,"Pre-existing diabetes mellitus, type 2, in pregnancy, third trimester"
+382,DRG00372,O2412,"Pre-existing diabetes mellitus, type 2, in childbirth"
+383,DRG00372,O24311,"Unspecified pre-existing diabetes mellitus in pregnancy, first trimester"
+384,DRG00372,O24312,"Unspecified pre-existing diabetes mellitus in pregnancy, second trimester"
+385,DRG00372,O24313,"Unspecified pre-existing diabetes mellitus in pregnancy, third trimester"
+386,DRG00372,O2432,Unspecified pre-existing diabetes mellitus in childbirth
+387,DRG00372,O24811,"Other pre-existing diabetes mellitus in pregnancy, first trimester"
+388,DRG00372,O24812,"Other pre-existing diabetes mellitus in pregnancy, second trimester"
+389,DRG00372,O24813,"Other pre-existing diabetes mellitus in pregnancy, third trimester"
+390,DRG00372,O2482,Other pre-existing diabetes mellitus in childbirth
+391,DRG00372,O24911,"Unspecified diabetes mellitus in pregnancy, first trimester"
+392,DRG00372,O24912,"Unspecified diabetes mellitus in pregnancy, second trimester"
+393,DRG00372,O24913,"Unspecified diabetes mellitus in pregnancy, third trimester"
+394,DRG00372,O2492,Unspecified diabetes mellitus in childbirth
+395,DRG00372,O2493,Unspecified diabetes mellitus in the puerperium
+396,DRG00372,O43211,"Placenta accreta, first trimester"
+397,DRG00372,O43212,"Placenta accreta, second trimester"
+398,DRG00372,O43213,"Placenta accreta, third trimester"
+399,DRG00372,O43221,"Placenta increta, first trimester"
+400,DRG00372,O43222,"Placenta increta, second trimester"
+401,DRG00372,O43223,"Placenta increta, third trimester"
+402,DRG00372,O43231,"Placenta percreta, first trimester"
+403,DRG00372,O43232,"Placenta percreta, second trimester"
+404,DRG00372,O43233,"Placenta percreta, third trimester"
+405,DRG00372,O4401,"Placenta previa specified as without hemorrhage, first trimester"
+406,DRG00372,O4402,"Placenta previa specified as without hemorrhage, second trimester"
+407,DRG00372,O4403,"Placenta previa specified as without hemorrhage, third trimester"
+408,DRG00372,O4411,"Placenta previa with hemorrhage, first trimester"
+409,DRG00372,O4412,"Placenta previa with hemorrhage, second trimester"
+410,DRG00372,O4413,"Placenta previa with hemorrhage, third trimester"
+411,DRG00372,O45001,"Premature separation of placenta with coagulation defect, unspecified, first trimester"
+412,DRG00372,O45002,"Premature separation of placenta with coagulation defect, unspecified, second trimester"
+413,DRG00372,O45003,"Premature separation of placenta with coagulation defect, unspecified, third trimester"
+414,DRG00372,O45011,"Premature separation of placenta with afibrinogenemia, first trimester"
+415,DRG00372,O45012,"Premature separation of placenta with afibrinogenemia, second trimester"
+416,DRG00372,O45013,"Premature separation of placenta with afibrinogenemia, third trimester"
+417,DRG00372,O45021,"Premature separation of placenta with disseminated intravascular coagulation, first trimester"
+418,DRG00372,O45022,"Premature separation of placenta with disseminated intravascular coagulation, second trimester"
+419,DRG00372,O45023,"Premature separation of placenta with disseminated intravascular coagulation, third trimester"
+420,DRG00372,O45091,"Premature separation of placenta with other coagulation defect, first trimester"
+421,DRG00372,O45092,"Premature separation of placenta with other coagulation defect, second trimester"
+422,DRG00372,O45093,"Premature separation of placenta with other coagulation defect, third trimester"
+423,DRG00372,O458X1,"Other premature separation of placenta, first trimester"
+424,DRG00372,O458X2,"Other premature separation of placenta, second trimester"
+425,DRG00372,O458X3,"Other premature separation of placenta, third trimester"
+426,DRG00372,O4591,"Premature separation of placenta, unspecified, first trimester"
+427,DRG00372,O4592,"Premature separation of placenta, unspecified, second trimester"
+428,DRG00372,O4593,"Premature separation of placenta, unspecified, third trimester"
+429,DRG00372,O46001,"Antepartum hemorrhage with coagulation defect, unspecified, first trimester"
+430,DRG00372,O46002,"Antepartum hemorrhage with coagulation defect, unspecified, second trimester"
+431,DRG00372,O46003,"Antepartum hemorrhage with coagulation defect, unspecified, third trimester"
+432,DRG00372,O46011,"Antepartum hemorrhage with afibrinogenemia, first trimester"
+433,DRG00372,O46012,"Antepartum hemorrhage with afibrinogenemia, second trimester"
+434,DRG00372,O46013,"Antepartum hemorrhage with afibrinogenemia, third trimester"
+435,DRG00372,O46021,"Antepartum hemorrhage with disseminated intravascular coagulation, first trimester"
+436,DRG00372,O46022,"Antepartum hemorrhage with disseminated intravascular coagulation, second trimester"
+437,DRG00372,O46023,"Antepartum hemorrhage with disseminated intravascular coagulation, third trimester"
+438,DRG00372,O46091,"Antepartum hemorrhage with other coagulation defect, first trimester"
+439,DRG00372,O46092,"Antepartum hemorrhage with other coagulation defect, second trimester"
+440,DRG00372,O46093,"Antepartum hemorrhage with other coagulation defect, third trimester"
+441,DRG00372,O468X1,"Other antepartum hemorrhage, first trimester"
+442,DRG00372,O468X2,"Other antepartum hemorrhage, second trimester"
+443,DRG00372,O468X3,"Other antepartum hemorrhage, third trimester"
+444,DRG00372,O4691,"Antepartum hemorrhage, unspecified, first trimester"
+445,DRG00372,O4692,"Antepartum hemorrhage, unspecified, second trimester"
+446,DRG00372,O4693,"Antepartum hemorrhage, unspecified, third trimester"
+447,DRG00372,O670,Intrapartum hemorrhage with coagulation defect
+448,DRG00372,O678,Other intrapartum hemorrhage
+449,DRG00372,O679,"Intrapartum hemorrhage, unspecified"
+450,DRG00372,O720,Third-stage hemorrhage
+451,DRG00372,O721,Other immediate postpartum hemorrhage
+452,DRG00372,O722,Delayed and secondary postpartum hemorrhage
+453,DRG00372,O730,Retained placenta without hemorrhage
+454,DRG00372,O731,"Retained portions of placenta and membranes, without hemorrhage"
+455,DRG00372,O740,Aspiration pneumonitis due to anesthesia during labor and delivery
+456,DRG00372,O741,Other pulmonary complications of anesthesia during labor and delivery
+457,DRG00372,O742,Cardiac complications of anesthesia during labor and delivery
+458,DRG00372,O743,Central nervous system complications of anesthesia during labor and delivery
+459,DRG00372,O744,Toxic reaction to local anesthesia during labor and delivery
+460,DRG00372,O745,Spinal and epidural anesthesia-induced headache during labor and delivery
+461,DRG00372,O746,Other complications of spinal and epidural anesthesia during labor and delivery
+462,DRG00372,O747,Failed or difficult intubation for anesthesia during labor and delivery
+463,DRG00372,O748,Other complications of anesthesia during labor and delivery
+464,DRG00372,O749,"Complication of anesthesia during labor and delivery, unspecified"
+465,DRG00372,O751,Shock during or following labor and delivery
+466,DRG00372,O752,"Pyrexia during labor, not elsewhere classified"
+467,DRG00372,O753,Other infection during labor
+468,DRG00372,O754,Other complications of obstetric surgery and procedures
+469,DRG00372,O85,Puerperal sepsis
+470,DRG00372,O860,Infection of obstetric surgical wound
+471,DRG00372,O8612,Endometritis following delivery
+472,DRG00372,O864,Pyrexia of unknown origin following delivery
+473,DRG00372,O8681,Puerperal septic thrombophlebitis
+474,DRG00372,O8689,Other specified puerperal infections
+475,DRG00372,O871,Deep phlebothrombosis in the puerperium
+476,DRG00372,O873,Cerebral venous thrombosis in the puerperium
+477,DRG00372,O88011,"Air embolism in pregnancy, first trimester"
+478,DRG00372,O88012,"Air embolism in pregnancy, second trimester"
+479,DRG00372,O88013,"Air embolism in pregnancy, third trimester"
+480,DRG00372,O8802,Air embolism in childbirth
+481,DRG00372,O8803,Air embolism in the puerperium
+482,DRG00372,O88111,"Amniotic fluid embolism in pregnancy, first trimester"
+483,DRG00372,O88112,"Amniotic fluid embolism in pregnancy, second trimester"
+484,DRG00372,O88113,"Amniotic fluid embolism in pregnancy, third trimester"
+485,DRG00372,O8812,Amniotic fluid embolism in childbirth
+486,DRG00372,O8813,Amniotic fluid embolism in the puerperium
+487,DRG00372,O88211,"Thromboembolism in pregnancy, first trimester"
+488,DRG00372,O88212,"Thromboembolism in pregnancy, second trimester"
+489,DRG00372,O88213,"Thromboembolism in pregnancy, third trimester"
+490,DRG00372,O8822,Thromboembolism in childbirth
+491,DRG00372,O8823,Thromboembolism in the puerperium
+492,DRG00372,O88311,"Pyemic and septic embolism in pregnancy, first trimester"
+493,DRG00372,O88312,"Pyemic and septic embolism in pregnancy, second trimester"
+494,DRG00372,O88313,"Pyemic and septic embolism in pregnancy, third trimester"
+495,DRG00372,O8832,Pyemic and septic embolism in childbirth
+496,DRG00372,O8833,Pyemic and septic embolism in the puerperium
+497,DRG00372,O88811,"Other embolism in pregnancy, first trimester"
+498,DRG00372,O88812,"Other embolism in pregnancy, second trimester"
+499,DRG00372,O88813,"Other embolism in pregnancy, third trimester"
+500,DRG00372,O8882,Other embolism in childbirth
+501,DRG00372,O8883,Other embolism in the puerperium
+502,DRG00372,O8909,Other pulmonary complications of anesthesia during the puerperium
+503,DRG00372,O898,Other complications of anesthesia during the puerperium
+504,DRG00372,O899,"Complication of anesthesia during the puerperium, unspecified"
+505,DRG00372,O900,Disruption of cesarean delivery wound
+506,DRG00372,O901,Disruption of perineal obstetric wound
+507,DRG00372,O902,Hematoma of obstetric wound
+508,DRG00372,O903,Peripartum cardiomyopathy
+509,DRG00372,O9089,"Other complications of the puerperium, not elsewhere classified"
+510,DRG00372,O91011,"Infection of nipple associated with pregnancy, first trimester"
+511,DRG00372,O91012,"Infection of nipple associated with pregnancy, second trimester"
+512,DRG00372,O91013,"Infection of nipple associated with pregnancy, third trimester"
+513,DRG00372,O9102,Infection of nipple associated with the puerperium
+514,DRG00372,O91111,"Abscess of breast associated with pregnancy, first trimester"
+515,DRG00372,O91112,"Abscess of breast associated with pregnancy, second trimester"
+516,DRG00372,O91113,"Abscess of breast associated with pregnancy, third trimester"
+517,DRG00372,O9112,Abscess of breast associated with the puerperium
+518,DRG00372,O91211,"Nonpurulent mastitis associated with pregnancy, first trimester"
+519,DRG00372,O91212,"Nonpurulent mastitis associated with pregnancy, second trimester"
+520,DRG00372,O91213,"Nonpurulent mastitis associated with pregnancy, third trimester"
+521,DRG00372,O9122,Nonpurulent mastitis associated with the puerperium
+522,DRG00372,O98011,"Tuberculosis complicating pregnancy, first trimester"
+523,DRG00372,O98012,"Tuberculosis complicating pregnancy, second trimester"
+524,DRG00372,O98013,"Tuberculosis complicating pregnancy, third trimester"
+525,DRG00372,O9802,Tuberculosis complicating childbirth
+526,DRG00372,O9803,Tuberculosis complicating the puerperium
+527,DRG00372,O98111,"Syphilis complicating pregnancy, first trimester"
+528,DRG00372,O98112,"Syphilis complicating pregnancy, second trimester"
+529,DRG00372,O98113,"Syphilis complicating pregnancy, third trimester"
+530,DRG00372,O9812,Syphilis complicating childbirth
+531,DRG00372,O9813,Syphilis complicating the puerperium
+532,DRG00372,O98211,"Gonorrhea complicating pregnancy, first trimester"
+533,DRG00372,O98212,"Gonorrhea complicating pregnancy, second trimester"
+534,DRG00372,O98213,"Gonorrhea complicating pregnancy, third trimester"
+535,DRG00372,O9822,Gonorrhea complicating childbirth
+536,DRG00372,O9823,Gonorrhea complicating the puerperium
+537,DRG00372,O98311,"Other infections with a predominantly sexual mode of transmission complicating pregnancy, first trimester"
+538,DRG00372,O98312,"Other infections with a predominantly sexual mode of transmission complicating pregnancy, second trimester"
+539,DRG00372,O98313,"Other infections with a predominantly sexual mode of transmission complicating pregnancy, third trimester"
+540,DRG00372,O9832,Other infections with a predominantly sexual mode of transmission complicating childbirth
+541,DRG00372,O9833,Other infections with a predominantly sexual mode of transmission complicating the puerperium
+542,DRG00372,O98411,"Viral hepatitis complicating pregnancy, first trimester"
+543,DRG00372,O98412,"Viral hepatitis complicating pregnancy, second trimester"
+544,DRG00372,O98413,"Viral hepatitis complicating pregnancy, third trimester"
+545,DRG00372,O9842,Viral hepatitis complicating childbirth
+546,DRG00372,O9843,Viral hepatitis complicating the puerperium
+547,DRG00372,O98511,"Other viral diseases complicating pregnancy, first trimester"
+548,DRG00372,O98512,"Other viral diseases complicating pregnancy, second trimester"
+549,DRG00372,O98513,"Other viral diseases complicating pregnancy, third trimester"
+550,DRG00372,O9852,Other viral diseases complicating childbirth
+551,DRG00372,O9853,Other viral diseases complicating the puerperium
+552,DRG00372,O98611,"Protozoal diseases complicating pregnancy, first trimester"
+553,DRG00372,O98612,"Protozoal diseases complicating pregnancy, second trimester"
+554,DRG00372,O98613,"Protozoal diseases complicating pregnancy, third trimester"
+555,DRG00372,O9862,Protozoal diseases complicating childbirth
+556,DRG00372,O9863,Protozoal diseases complicating the puerperium
+557,DRG00372,O98711,"Human immunodeficiency virus [HIV] disease complicating pregnancy, first trimester"
+558,DRG00372,O98712,"Human immunodeficiency virus [HIV] disease complicating pregnancy, second trimester"
+559,DRG00372,O98713,"Human immunodeficiency virus [HIV] disease complicating pregnancy, third trimester"
+560,DRG00372,O9872,Human immunodeficiency virus [HIV] disease complicating childbirth
+561,DRG00372,O98811,"Other maternal infectious and parasitic diseases complicating pregnancy, first trimester"
+562,DRG00372,O98812,"Other maternal infectious and parasitic diseases complicating pregnancy, second trimester"
+563,DRG00372,O98813,"Other maternal infectious and parasitic diseases complicating pregnancy, third trimester"
+564,DRG00372,O9882,Other maternal infectious and parasitic diseases complicating childbirth
+565,DRG00372,O9883,Other maternal infectious and parasitic diseases complicating the puerperium
+566,DRG00372,O98911,"Unspecified maternal infectious and parasitic disease complicating pregnancy, first trimester"
+567,DRG00372,O98912,"Unspecified maternal infectious and parasitic disease complicating pregnancy, second trimester"
+568,DRG00372,O98913,"Unspecified maternal infectious and parasitic disease complicating pregnancy, third trimester"
+569,DRG00372,O9892,Unspecified maternal infectious and parasitic disease complicating childbirth
+570,DRG00372,O9893,Unspecified maternal infectious and parasitic disease complicating the puerperium
+571,DRG00372,O99411,"Diseases of the circulatory system complicating pregnancy, first trimester"
+572,DRG00372,O99412,"Diseases of the circulatory system complicating pregnancy, second trimester"
+573,DRG00372,O99413,"Diseases of the circulatory system complicating pregnancy, third trimester"
+574,DRG00372,O9942,Diseases of the circulatory system complicating childbirth
+575,DRG00372,O9943,Diseases of the circulatory system complicating the puerperium
+576,DRG00372,O99830,Other infection carrier state complicating pregnancy
+577,DRG00372,O99834,Other infection carrier state complicating childbirth
+578,DRG00372,O99835,Other infection carrier state complicating the puerperium
+581,DRG00372,O723,Postpartum coagulation defects
+584,DRG00372,0D8R0ZZ,"Division of Anal Sphincter, Open Approach"
+585,DRG00372,0D8R3ZZ,"Division of Anal Sphincter, Percutaneous Approach"
+586,DRG00372,0D9R00Z,"Drainage of Anal Sphincter with Drainage Device, Open Approach"
+587,DRG00372,0D9R0ZZ,"Drainage of Anal Sphincter, Open Approach"
+588,DRG00372,0D9R30Z,"Drainage of Anal Sphincter with Drainage Device, Percutaneous Approach"
+589,DRG00372,0D9R3ZZ,"Drainage of Anal Sphincter, Percutaneous Approach"
+590,DRG00372,0D9R40Z,"Drainage of Anal Sphincter with Drainage Device, Percutaneous Endoscopic Approach"
+591,DRG00372,0D9R4ZZ,"Drainage of Anal Sphincter, Percutaneous Endoscopic Approach"
+592,DRG00372,0DCR0ZZ,"Extirpation of Matter from Anal Sphincter, Open Approach"
+593,DRG00372,0DCR3ZZ,"Extirpation of Matter from Anal Sphincter, Percutaneous Approach"
+594,DRG00372,0DCR4ZZ,"Extirpation of Matter from Anal Sphincter, Percutaneous Endoscopic Approach"
+595,DRG00372,0DQP0ZZ,"Repair Rectum, Open Approach"
+596,DRG00372,0DQP3ZZ,"Repair Rectum, Percutaneous Approach"
+597,DRG00372,0DQP4ZZ,"Repair Rectum, Percutaneous Endoscopic Approach"
+598,DRG00372,0DQP7ZZ,"Repair Rectum, Via Natural or Artificial Opening"
+599,DRG00372,0DQP8ZZ,"Repair Rectum, Via Natural or Artificial Opening Endoscopic"
+600,DRG00372,0H89XZZ,"Division of Perineum Skin, External Approach"
+601,DRG00372,0H99X0Z,"Drainage of Perineum Skin with Drainage Device, External Approach"
+602,DRG00372,0H99XZZ,"Drainage of Perineum Skin, External Approach"
+603,DRG00372,0HQ9XZZ,"Repair Perineum Skin, External Approach"
+604,DRG00372,0HR9X73,"Replacement of Perineum Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+605,DRG00372,0HR9X74,"Replacement of Perineum Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+606,DRG00372,0HR9XJ3,"Replacement of Perineum Skin with Synthetic Substitute, Full Thickness, External Approach"
+607,DRG00372,0HR9XJ4,"Replacement of Perineum Skin with Synthetic Substitute, Partial Thickness, External Approach"
+608,DRG00372,0HR9XJZ,"Replacement of Perineum Skin with Synthetic Substitute, External Approach"
+609,DRG00372,0HR9XK3,"Replacement of Perineum Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+610,DRG00372,0HR9XK4,"Replacement of Perineum Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+611,DRG00372,0TQB0ZZ,"Repair Bladder, Open Approach"
+612,DRG00372,0TQB3ZZ,"Repair Bladder, Percutaneous Approach"
+613,DRG00372,0TQB4ZZ,"Repair Bladder, Percutaneous Endoscopic Approach"
+614,DRG00372,0TQB7ZZ,"Repair Bladder, Via Natural or Artificial Opening"
+615,DRG00372,0TQB8ZZ,"Repair Bladder, Via Natural or Artificial Opening Endoscopic"
+616,DRG00372,0TQD0ZZ,"Repair Urethra, Open Approach"
+617,DRG00372,0TQD3ZZ,"Repair Urethra, Percutaneous Approach"
+618,DRG00372,0TQD4ZZ,"Repair Urethra, Percutaneous Endoscopic Approach"
+619,DRG00372,0TQD7ZZ,"Repair Urethra, Via Natural or Artificial Opening"
+620,DRG00372,0TQD8ZZ,"Repair Urethra, Via Natural or Artificial Opening Endoscopic"
+621,DRG00372,0TQDXZZ,"Repair Urethra, External Approach"
+622,DRG00372,0U5G0ZZ,"Destruction of Vagina, Open Approach"
+623,DRG00372,0U5G3ZZ,"Destruction of Vagina, Percutaneous Approach"
+624,DRG00372,0U5G4ZZ,"Destruction of Vagina, Percutaneous Endoscopic Approach"
+625,DRG00372,0U5G7ZZ,"Destruction of Vagina, Via Natural or Artificial Opening"
+626,DRG00372,0U5G8ZZ,"Destruction of Vagina, Via Natural or Artificial Opening Endoscopic"
+627,DRG00372,0U5GXZZ,"Destruction of Vagina, External Approach"
+628,DRG00372,0U5K0ZZ,"Destruction of Hymen, Open Approach"
+629,DRG00372,0U5K3ZZ,"Destruction of Hymen, Percutaneous Approach"
+630,DRG00372,0U5K4ZZ,"Destruction of Hymen, Percutaneous Endoscopic Approach"
+631,DRG00372,0U5K7ZZ,"Destruction of Hymen, Via Natural or Artificial Opening"
+632,DRG00372,0U5K8ZZ,"Destruction of Hymen, Via Natural or Artificial Opening Endoscopic"
+633,DRG00372,0U5KXZZ,"Destruction of Vulva, External Approach"
+634,DRG00372,0U5M0ZZ,"Destruction of Vulva, Open Approach"
+635,DRG00372,0U5MXZZ,"Destruction of Vulva, External Approach"
+636,DRG00372,0U7G0DZ,"Dilation of Vagina with Intraluminal Device, Open Approach"
+637,DRG00372,0U7G0ZZ,"Dilation of Vagina, Open Approach"
+638,DRG00372,0U7G3DZ,"Dilation of Vagina with Intraluminal Device, Percutaneous Approach"
+639,DRG00372,0U7G3ZZ,"Dilation of Vagina, Percutaneous Approach"
+640,DRG00372,0U7G4DZ,"Dilation of Vagina with Intraluminal Device, Percutaneous Endoscopic Approach"
+641,DRG00372,0U7G4ZZ,"Dilation of Vagina, Percutaneous Endoscopic Approach"
+642,DRG00372,0U9G00Z,"Drainage of Vagina with Drainage Device, Open Approach"
+643,DRG00372,0U9G0ZX,"Drainage of Vagina, Open Approach, Diagnostic"
+644,DRG00372,0U9G0ZZ,"Drainage of Vagina, Open Approach"
+645,DRG00372,0U9G30Z,"Drainage of Vagina with Drainage Device, Percutaneous Approach"
+646,DRG00372,0U9G3ZX,"Drainage of Vagina, Percutaneous Approach, Diagnostic"
+647,DRG00372,0U9G3ZZ,"Drainage of Vagina, Percutaneous Approach"
+648,DRG00372,0U9G40Z,"Drainage of Vagina with Drainage Device, Percutaneous Endoscopic Approach"
+649,DRG00372,0U9G4ZX,"Drainage of Vagina, Percutaneous Endoscopic Approach, Diagnostic"
+650,DRG00372,0U9G4ZZ,"Drainage of Vagina, Percutaneous Endoscopic Approach"
+651,DRG00372,0U9G70Z,"Drainage of Vagina with Drainage Device, Via Natural or Artificial Opening"
+652,DRG00372,0U9G7ZX,"Drainage of Vagina, Via Natural or Artificial Opening, Diagnostic"
+653,DRG00372,0U9G7ZZ,"Drainage of Vagina, Via Natural or Artificial Opening"
+654,DRG00372,0U9G80Z,"Drainage of Vagina with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+655,DRG00372,0U9G8ZX,"Drainage of Vagina, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+656,DRG00372,0U9G8ZZ,"Drainage of Vagina, Via Natural or Artificial Opening Endoscopic"
+657,DRG00372,0U9GX0Z,"Drainage of Vagina with Drainage Device, External Approach"
+658,DRG00372,0U9GXZX,"Drainage of Vagina, External Approach, Diagnostic"
+659,DRG00372,0U9GXZZ,"Drainage of Vagina, External Approach"
+660,DRG00372,0U9J0ZX,"Drainage of Clitoris, Open Approach, Diagnostic"
+661,DRG00372,0U9JXZX,"Drainage of Clitoris, External Approach, Diagnostic"
+662,DRG00372,0U9M00Z,"Drainage of Vulva with Drainage Device, Open Approach"
+663,DRG00372,0U9M0ZX,"Drainage of Vulva, Open Approach, Diagnostic"
+664,DRG00372,0U9M0ZZ,"Drainage of Vulva, Open Approach"
+665,DRG00372,0U9MX0Z,"Drainage of Vulva with Drainage Device, External Approach"
+666,DRG00372,0U9MXZX,"Drainage of Vulva, External Approach, Diagnostic"
+667,DRG00372,0U9MXZZ,"Drainage of Vulva, External Approach"
+668,DRG00372,0UBG0ZX,"Excision of Vagina, Open Approach, Diagnostic"
+669,DRG00372,0UBG0ZZ,"Excision of Vagina, Open Approach"
+670,DRG00372,0UBG3ZX,"Excision of Vagina, Percutaneous Approach, Diagnostic"
+671,DRG00372,0UBG3ZZ,"Excision of Vagina, Percutaneous Approach"
+672,DRG00372,0UBG4ZX,"Excision of Vagina, Percutaneous Endoscopic Approach, Diagnostic"
+673,DRG00372,0UBG4ZZ,"Excision of Vagina, Percutaneous Endoscopic Approach"
+674,DRG00372,0UBG7ZX,"Excision of Vagina, Via Natural or Artificial Opening, Diagnostic"
+675,DRG00372,0UBG7ZZ,"Excision of Vagina, Via Natural or Artificial Opening"
+676,DRG00372,0UBG8ZX,"Excision of Vagina, Via Natural or Artificial Opening Endoscopic, Diagnostic"
+677,DRG00372,0UBG8ZZ,"Excision of Vagina, Via Natural or Artificial Opening Endoscopic"
+678,DRG00372,0UBGXZX,"Excision of Vagina, External Approach, Diagnostic"
+679,DRG00372,0UBGXZZ,"Excision of Vagina, External Approach"
+680,DRG00372,0UBK0ZZ,"Excision of Hymen, Open Approach"
+681,DRG00372,0UBK3ZZ,"Excision of Hymen, Percutaneous Approach"
+682,DRG00372,0UBK4ZZ,"Excision of Hymen, Percutaneous Endoscopic Approach"
+683,DRG00372,0UBK7ZZ,"Excision of Hymen, Via Natural or Artificial Opening"
+684,DRG00372,0UBK8ZZ,"Excision of Hymen, Via Natural or Artificial Opening Endoscopic"
+685,DRG00372,0UBKXZZ,"Excision of Hymen, External Approach"
+686,DRG00372,0UBM0ZX,"Excision of Vulva, Open Approach, Diagnostic"
+687,DRG00372,0UBMXZX,"Excision of Vulva, External Approach, Diagnostic"
+688,DRG00372,0UCG0ZZ,"Extirpation of Matter from Vagina, Open Approach"
+689,DRG00372,0UCG3ZZ,"Extirpation of Matter from Vagina, Percutaneous Approach"
+690,DRG00372,0UCG4ZZ,"Extirpation of Matter from Vagina, Percutaneous Endoscopic Approach"
+691,DRG00372,0UCM0ZZ,"Extirpation of Matter from Vulva, Open Approach"
+692,DRG00372,0UHH03Z,"Insertion of Infusion Device into Vagina and Cul-de-sac, Open Approach"
+693,DRG00372,0UHH33Z,"Insertion of Infusion Device into Vagina and Cul-de-sac, Percutaneous Approach"
+694,DRG00372,0UHH43Z,"Insertion of Infusion Device into Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+695,DRG00372,0UHH73Z,"Insertion of Infusion Device into Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+696,DRG00372,0UHH83Z,"Insertion of Infusion Device into Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+697,DRG00372,0UJM0ZZ,"Inspection of Vulva, Open Approach"
+698,DRG00372,0UMG0ZZ,"Reattachment of Vagina, Open Approach"
+699,DRG00372,0UMG4ZZ,"Reattachment of Vagina, Percutaneous Endoscopic Approach"
+700,DRG00372,0UMMXZZ,"Reattachment of Vulva, External Approach"
+701,DRG00372,0UNG0ZZ,"Release Vagina, Open Approach"
+702,DRG00372,0UNG3ZZ,"Release Vagina, Percutaneous Approach"
+703,DRG00372,0UNG4ZZ,"Release Vagina, Percutaneous Endoscopic Approach"
+704,DRG00372,0UNG7ZZ,"Release Vagina, Via Natural or Artificial Opening"
+705,DRG00372,0UNG8ZZ,"Release Vagina, Via Natural or Artificial Opening Endoscopic"
+706,DRG00372,0UNGXZZ,"Release Vagina, External Approach"
+707,DRG00372,0UNM0ZZ,"Release Vulva, Open Approach"
+708,DRG00372,0UNMXZZ,"Release Vulva, External Approach"
+709,DRG00372,0UPH00Z,"Removal of Drainage Device from Vagina and Cul-de-sac, Open Approach"
+710,DRG00372,0UPH01Z,"Removal of Radioactive Element from Vagina and Cul-de-sac, Open Approach"
+711,DRG00372,0UPH03Z,"Removal of Infusion Device from Vagina and Cul-de-sac, Open Approach"
+712,DRG00372,0UPH07Z,"Removal of Autologous Tissue Substitute from Vagina and Cul-de-sac, Open Approach"
+713,DRG00372,0UPH0DZ,"Removal of Intraluminal Device from Vagina and Cul-de-sac, Open Approach"
+714,DRG00372,0UPH0JZ,"Removal of Synthetic Substitute from Vagina and Cul-de-sac, Open Approach"
+715,DRG00372,0UPH0KZ,"Removal of Nonautologous Tissue Substitute from Vagina and Cul-de-sac, Open Approach"
+716,DRG00372,0UPH30Z,"Removal of Drainage Device from Vagina and Cul-de-sac, Percutaneous Approach"
+717,DRG00372,0UPH31Z,"Removal of Radioactive Element from Vagina and Cul-de-sac, Percutaneous Approach"
+718,DRG00372,0UPH33Z,"Removal of Infusion Device from Vagina and Cul-de-sac, Percutaneous Approach"
+719,DRG00372,0UPH37Z,"Removal of Autologous Tissue Substitute from Vagina and Cul-de-sac, Percutaneous Approach"
+720,DRG00372,0UPH3DZ,"Removal of Intraluminal Device from Vagina and Cul-de-sac, Percutaneous Approach"
+721,DRG00372,0UPH3JZ,"Removal of Synthetic Substitute from Vagina and Cul-de-sac, Percutaneous Approach"
+722,DRG00372,0UPH3KZ,"Removal of Nonautologous Tissue Substitute from Vagina and Cul-de-sac, Percutaneous Approach"
+723,DRG00372,0UPH40Z,"Removal of Drainage Device from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+724,DRG00372,0UPH41Z,"Removal of Radioactive Element from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+725,DRG00372,0UPH43Z,"Removal of Infusion Device from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+726,DRG00372,0UPH47Z,"Removal of Autologous Tissue Substitute from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+727,DRG00372,0UPH4DZ,"Removal of Intraluminal Device from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+728,DRG00372,0UPH4JZ,"Removal of Synthetic Substitute from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+729,DRG00372,0UPH4KZ,"Removal of Nonautologous Tissue Substitute from Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+730,DRG00372,0UPH70Z,"Removal of Drainage Device from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+731,DRG00372,0UPH71Z,"Removal of Radioactive Element from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+732,DRG00372,0UPH73Z,"Removal of Infusion Device from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+733,DRG00372,0UPH77Z,"Removal of Autologous Tissue Substitute from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+734,DRG00372,0UPH7DZ,"Removal of Intraluminal Device from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+735,DRG00372,0UPH7JZ,"Removal of Synthetic Substitute from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+736,DRG00372,0UPH7KZ,"Removal of Nonautologous Tissue Substitute from Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+737,DRG00372,0UPH80Z,"Removal of Drainage Device from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+738,DRG00372,0UPH81Z,"Removal of Radioactive Element from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+739,DRG00372,0UPH83Z,"Removal of Infusion Device from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+740,DRG00372,0UPH87Z,"Removal of Autologous Tissue Substitute from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+741,DRG00372,0UPH8DZ,"Removal of Intraluminal Device from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+742,DRG00372,0UPH8JZ,"Removal of Synthetic Substitute from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+743,DRG00372,0UPH8KZ,"Removal of Nonautologous Tissue Substitute from Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+744,DRG00372,0UPM00Z,"Removal of Drainage Device from Vulva, Open Approach"
+745,DRG00372,0UPM07Z,"Removal of Autologous Tissue Substitute from Vulva, Open Approach"
+746,DRG00372,0UPM0JZ,"Removal of Synthetic Substitute from Vulva, Open Approach"
+747,DRG00372,0UPM0KZ,"Removal of Nonautologous Tissue Substitute from Vulva, Open Approach"
+748,DRG00372,0UQC0ZZ,"Repair Cervix, Open Approach"
+749,DRG00372,0UQC3ZZ,"Repair Cervix, Percutaneous Approach"
+750,DRG00372,0UQC4ZZ,"Repair Cervix, Percutaneous Endoscopic Approach"
+751,DRG00372,0UQC7ZZ,"Repair Cervix, Via Natural or Artificial Opening"
+752,DRG00372,0UQC8ZZ,"Repair Cervix, Via Natural or Artificial Opening Endoscopic"
+753,DRG00372,0UQG0ZZ,"Repair Vagina, Open Approach"
+754,DRG00372,0UTK0ZZ,"Resection of Hymen, Open Approach"
+755,DRG00372,0UTK4ZZ,"Resection of Hymen, Percutaneous Endoscopic Approach"
+756,DRG00372,0UTK7ZZ,"Resection of Hymen, Via Natural or Artificial Opening"
+757,DRG00372,0UTK8ZZ,"Resection of Hymen, Via Natural or Artificial Opening Endoscopic"
+758,DRG00372,0UTKXZZ,"Resection of Hymen, External Approach"
+759,DRG00372,0UUM07Z,"Supplement Vulva with Autologous Tissue Substitute, Open Approach"
+760,DRG00372,0UUM0JZ,"Supplement Vulva with Synthetic Substitute, Open Approach"
+761,DRG00372,0UUM0KZ,"Supplement Vulva with Nonautologous Tissue Substitute, Open Approach"
+762,DRG00372,0UUMX7Z,"Supplement Vulva with Autologous Tissue Substitute, External Approach"
+763,DRG00372,0UUMXJZ,"Supplement Vulva with Synthetic Substitute, External Approach"
+764,DRG00372,0UUMXKZ,"Supplement Vulva with Nonautologous Tissue Substitute, External Approach"
+765,DRG00372,0UVC0CZ,"Restriction of Cervix with Extraluminal Device, Open Approach"
+766,DRG00372,0UVC0DZ,"Restriction of Cervix with Intraluminal Device, Open Approach"
+767,DRG00372,0UVC0ZZ,"Restriction of Cervix, Open Approach"
+768,DRG00372,0UVC3CZ,"Restriction of Cervix with Extraluminal Device, Percutaneous Approach"
+769,DRG00372,0UVC3DZ,"Restriction of Cervix with Intraluminal Device, Percutaneous Approach"
+770,DRG00372,0UVC3ZZ,"Restriction of Cervix, Percutaneous Approach"
+771,DRG00372,0UVC4CZ,"Restriction of Cervix with Extraluminal Device, Percutaneous Endoscopic Approach"
+772,DRG00372,0UVC4DZ,"Restriction of Cervix with Intraluminal Device, Percutaneous Endoscopic Approach"
+773,DRG00372,0UVC4ZZ,"Restriction of Cervix, Percutaneous Endoscopic Approach"
+774,DRG00372,0UVC7DZ,"Restriction of Cervix with Intraluminal Device, Via Natural or Artificial Opening"
+775,DRG00372,0UVC7ZZ,"Restriction of Cervix, Via Natural or Artificial Opening"
+776,DRG00372,0UVC8DZ,"Restriction of Cervix with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+777,DRG00372,0UVC8ZZ,"Restriction of Cervix, Via Natural or Artificial Opening Endoscopic"
+778,DRG00372,0UWH00Z,"Revision of Drainage Device in Vagina and Cul-de-sac, Open Approach"
+779,DRG00372,0UWH01Z,"Revision of Radioactive Element in Vagina and Cul-de-sac, Open Approach"
+780,DRG00372,0UWH03Z,"Revision of Infusion Device in Vagina and Cul-de-sac, Open Approach"
+781,DRG00372,0UWH07Z,"Revision of Autologous Tissue Substitute in Vagina and Cul-de-sac, Open Approach"
+782,DRG00372,0UWH0DZ,"Revision of Intraluminal Device in Vagina and Cul-de-sac, Open Approach"
+783,DRG00372,0UWH0JZ,"Revision of Synthetic Substitute in Vagina and Cul-de-sac, Open Approach"
+784,DRG00372,0UWH0KZ,"Revision of Nonautologous Tissue Substitute in Vagina and Cul-de-sac, Open Approach"
+785,DRG00372,0UWH30Z,"Revision of Drainage Device in Vagina and Cul-de-sac, Percutaneous Approach"
+786,DRG00372,0UWH31Z,"Revision of Radioactive Element in Vagina and Cul-de-sac, Percutaneous Approach"
+787,DRG00372,0UWH33Z,"Revision of Infusion Device in Vagina and Cul-de-sac, Percutaneous Approach"
+788,DRG00372,0UWH37Z,"Revision of Autologous Tissue Substitute in Vagina and Cul-de-sac, Percutaneous Approach"
+789,DRG00372,0UWH3DZ,"Revision of Intraluminal Device in Vagina and Cul-de-sac, Percutaneous Approach"
+790,DRG00372,0UWH3JZ,"Revision of Synthetic Substitute in Vagina and Cul-de-sac, Percutaneous Approach"
+791,DRG00372,0UWH3KZ,"Revision of Nonautologous Tissue Substitute in Vagina and Cul-de-sac, Percutaneous Approach"
+792,DRG00372,0UWH40Z,"Revision of Drainage Device in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+793,DRG00372,0UWH41Z,"Revision of Radioactive Element in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+794,DRG00372,0UWH43Z,"Revision of Infusion Device in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+795,DRG00372,0UWH47Z,"Revision of Autologous Tissue Substitute in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+796,DRG00372,0UWH4DZ,"Revision of Intraluminal Device in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+797,DRG00372,0UWH4JZ,"Revision of Synthetic Substitute in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+798,DRG00372,0UWH4KZ,"Revision of Nonautologous Tissue Substitute in Vagina and Cul-de-sac, Percutaneous Endoscopic Approach"
+799,DRG00372,0UWH70Z,"Revision of Drainage Device in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+800,DRG00372,0UWH71Z,"Revision of Radioactive Element in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+801,DRG00372,0UWH73Z,"Revision of Infusion Device in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+802,DRG00372,0UWH77Z,"Revision of Autologous Tissue Substitute in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+803,DRG00372,0UWH7DZ,"Revision of Intraluminal Device in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+804,DRG00372,0UWH7JZ,"Revision of Synthetic Substitute in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+805,DRG00372,0UWH7KZ,"Revision of Nonautologous Tissue Substitute in Vagina and Cul-de-sac, Via Natural or Artificial Opening"
+806,DRG00372,0UWH80Z,"Revision of Drainage Device in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+807,DRG00372,0UWH81Z,"Revision of Radioactive Element in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+808,DRG00372,0UWH83Z,"Revision of Infusion Device in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+809,DRG00372,0UWH87Z,"Revision of Autologous Tissue Substitute in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+810,DRG00372,0UWH8DZ,"Revision of Intraluminal Device in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+811,DRG00372,0UWH8JZ,"Revision of Synthetic Substitute in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+812,DRG00372,0UWH8KZ,"Revision of Nonautologous Tissue Substitute in Vagina and Cul-de-sac, Via Natural or Artificial Opening Endoscopic"
+813,DRG00372,0UWM00Z,"Revision of Drainage Device in Vulva, Open Approach"
+814,DRG00372,0UWM07Z,"Revision of Autologous Tissue Substitute in Vulva, Open Approach"
+815,DRG00372,0UWM0JZ,"Revision of Synthetic Substitute in Vulva, Open Approach"
+816,DRG00372,0UWM0KZ,"Revision of Nonautologous Tissue Substitute in Vulva, Open Approach"
+817,DRG00372,0W0N07Z,"Alteration of Female Perineum with Autologous Tissue Substitute, Open Approach"
+818,DRG00372,0W0N0JZ,"Alteration of Female Perineum with Synthetic Substitute, Open Approach"
+819,DRG00372,0W0N0KZ,"Alteration of Female Perineum with Nonautologous Tissue Substitute, Open Approach"
+820,DRG00372,0W0N0ZZ,"Alteration of Female Perineum, Open Approach"
+821,DRG00372,0W0N37Z,"Alteration of Female Perineum with Autologous Tissue Substitute, Percutaneous Approach"
+822,DRG00372,0W0N3JZ,"Alteration of Female Perineum with Synthetic Substitute, Percutaneous Approach"
+823,DRG00372,0W0N3KZ,"Alteration of Female Perineum with Nonautologous Tissue Substitute, Percutaneous Approach"
+824,DRG00372,0W0N3ZZ,"Alteration of Female Perineum, Percutaneous Approach"
+825,DRG00372,0W0N47Z,"Alteration of Female Perineum with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+826,DRG00372,0W0N4JZ,"Alteration of Female Perineum with Synthetic Substitute, Percutaneous Endoscopic Approach"
+827,DRG00372,0W0N4KZ,"Alteration of Female Perineum with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+828,DRG00372,0W0N4ZZ,"Alteration of Female Perineum, Percutaneous Endoscopic Approach"
+829,DRG00372,0W9N00Z,"Drainage of Female Perineum with Drainage Device, Open Approach"
+830,DRG00372,0W9N0ZZ,"Drainage of Female Perineum, Open Approach"
+831,DRG00372,0W9N30Z,"Drainage of Female Perineum with Drainage Device, Percutaneous Approach"
+832,DRG00372,0W9N3ZZ,"Drainage of Female Perineum, Percutaneous Approach"
+833,DRG00372,0W9N40Z,"Drainage of Female Perineum with Drainage Device, Percutaneous Endoscopic Approach"
+834,DRG00372,0W9N4ZZ,"Drainage of Female Perineum, Percutaneous Endoscopic Approach"
+835,DRG00372,0WBN0ZX,"Excision of Female Perineum, Open Approach, Diagnostic"
+836,DRG00372,0WBN0ZZ,"Excision of Female Perineum, Open Approach"
+837,DRG00372,0WBN3ZX,"Excision of Female Perineum, Percutaneous Approach, Diagnostic"
+838,DRG00372,0WBN3ZZ,"Excision of Female Perineum, Percutaneous Approach"
+839,DRG00372,0WBN4ZX,"Excision of Female Perineum, Percutaneous Endoscopic Approach, Diagnostic"
+840,DRG00372,0WBN4ZZ,"Excision of Female Perineum, Percutaneous Endoscopic Approach"
+841,DRG00372,0WBNXZX,"Excision of Female Perineum, External Approach, Diagnostic"
+842,DRG00372,0WBNXZZ,"Excision of Female Perineum, External Approach"
+843,DRG00372,0WHN03Z,"Insertion of Infusion Device into Female Perineum, Open Approach"
+844,DRG00372,0WHN0YZ,"Insertion of Other Device into Female Perineum, Open Approach"
+845,DRG00372,0WHN33Z,"Insertion of Infusion Device into Female Perineum, Percutaneous Approach"
+846,DRG00372,0WHN3YZ,"Insertion of Other Device into Female Perineum, Percutaneous Approach"
+847,DRG00372,0WHN43Z,"Insertion of Infusion Device into Female Perineum, Percutaneous Endoscopic Approach"
+848,DRG00372,0WHN4YZ,"Insertion of Other Device into Female Perineum, Percutaneous Endoscopic Approach"
+849,DRG00372,0WMN0ZZ,"Reattachment of Female Perineum, Open Approach"
+850,DRG00372,0WPN00Z,"Removal of Drainage Device from Female Perineum, Open Approach"
+851,DRG00372,0WPN01Z,"Removal of Radioactive Element from Female Perineum, Open Approach"
+852,DRG00372,0WPN03Z,"Removal of Infusion Device from Female Perineum, Open Approach"
+853,DRG00372,0WPN07Z,"Removal of Autologous Tissue Substitute from Female Perineum, Open Approach"
+854,DRG00372,0WPN0JZ,"Removal of Synthetic Substitute from Female Perineum, Open Approach"
+855,DRG00372,0WPN0KZ,"Removal of Nonautologous Tissue Substitute from Female Perineum, Open Approach"
+856,DRG00372,0WPN0YZ,"Removal of Other Device from Female Perineum, Open Approach"
+857,DRG00372,0WPN30Z,"Removal of Drainage Device from Female Perineum, Percutaneous Approach"
+858,DRG00372,0WPN31Z,"Removal of Radioactive Element from Female Perineum, Percutaneous Approach"
+859,DRG00372,0WPN33Z,"Removal of Infusion Device from Female Perineum, Percutaneous Approach"
+860,DRG00372,0WPN37Z,"Removal of Autologous Tissue Substitute from Female Perineum, Percutaneous Approach"
+861,DRG00372,0WPN3JZ,"Removal of Synthetic Substitute from Female Perineum, Percutaneous Approach"
+862,DRG00372,0WPN3KZ,"Removal of Nonautologous Tissue Substitute from Female Perineum, Percutaneous Approach"
+863,DRG00372,0WPN3YZ,"Removal of Other Device from Female Perineum, Percutaneous Approach"
+864,DRG00372,0WPN40Z,"Removal of Drainage Device from Female Perineum, Percutaneous Endoscopic Approach"
+865,DRG00372,0WPN41Z,"Removal of Radioactive Element from Female Perineum, Percutaneous Endoscopic Approach"
+866,DRG00372,0WPN43Z,"Removal of Infusion Device from Female Perineum, Percutaneous Endoscopic Approach"
+867,DRG00372,0WPN47Z,"Removal of Autologous Tissue Substitute from Female Perineum, Percutaneous Endoscopic Approach"
+868,DRG00372,0WPN4JZ,"Removal of Synthetic Substitute from Female Perineum, Percutaneous Endoscopic Approach"
+869,DRG00372,0WPN4KZ,"Removal of Nonautologous Tissue Substitute from Female Perineum, Percutaneous Endoscopic Approach"
+870,DRG00372,0WPN4YZ,"Removal of Other Device from Female Perineum, Percutaneous Endoscopic Approach"
+871,DRG00372,0WQN0ZZ,"Repair Female Perineum, Open Approach"
+872,DRG00372,0WQN3ZZ,"Repair Female Perineum, Percutaneous Approach"
+873,DRG00372,0WQN4ZZ,"Repair Female Perineum, Percutaneous Endoscopic Approach"
+874,DRG00372,0WUN07Z,"Supplement Female Perineum with Autologous Tissue Substitute, Open Approach"
+875,DRG00372,0WUN0JZ,"Supplement Female Perineum with Synthetic Substitute, Open Approach"
+876,DRG00372,0WUN0KZ,"Supplement Female Perineum with Nonautologous Tissue Substitute, Open Approach"
+877,DRG00372,0WUN47Z,"Supplement Female Perineum with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+878,DRG00372,0WUN4JZ,"Supplement Female Perineum with Synthetic Substitute, Percutaneous Endoscopic Approach"
+879,DRG00372,0WUN4KZ,"Supplement Female Perineum with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+880,DRG00372,0WWN00Z,"Revision of Drainage Device in Female Perineum, Open Approach"
+881,DRG00372,0WWN01Z,"Revision of Radioactive Element in Female Perineum, Open Approach"
+882,DRG00372,0WWN03Z,"Revision of Infusion Device in Female Perineum, Open Approach"
+883,DRG00372,0WWN07Z,"Revision of Autologous Tissue Substitute in Female Perineum, Open Approach"
+884,DRG00372,0WWN0JZ,"Revision of Synthetic Substitute in Female Perineum, Open Approach"
+885,DRG00372,0WWN0KZ,"Revision of Nonautologous Tissue Substitute in Female Perineum, Open Approach"
+886,DRG00372,0WWN0YZ,"Revision of Other Device in Female Perineum, Open Approach"
+887,DRG00372,0WWN30Z,"Revision of Drainage Device in Female Perineum, Percutaneous Approach"
+888,DRG00372,0WWN31Z,"Revision of Radioactive Element in Female Perineum, Percutaneous Approach"
+889,DRG00372,0WWN33Z,"Revision of Infusion Device in Female Perineum, Percutaneous Approach"
+890,DRG00372,0WWN37Z,"Revision of Autologous Tissue Substitute in Female Perineum, Percutaneous Approach"
+891,DRG00372,0WWN3JZ,"Revision of Synthetic Substitute in Female Perineum, Percutaneous Approach"
+892,DRG00372,0WWN3KZ,"Revision of Nonautologous Tissue Substitute in Female Perineum, Percutaneous Approach"
+893,DRG00372,0WWN3YZ,"Revision of Other Device in Female Perineum, Percutaneous Approach"
+894,DRG00372,0WWN40Z,"Revision of Drainage Device in Female Perineum, Percutaneous Endoscopic Approach"
+895,DRG00372,0WWN41Z,"Revision of Radioactive Element in Female Perineum, Percutaneous Endoscopic Approach"
+896,DRG00372,0WWN43Z,"Revision of Infusion Device in Female Perineum, Percutaneous Endoscopic Approach"
+897,DRG00372,0WWN47Z,"Revision of Autologous Tissue Substitute in Female Perineum, Percutaneous Endoscopic Approach"
+898,DRG00372,0WWN4JZ,"Revision of Synthetic Substitute in Female Perineum, Percutaneous Endoscopic Approach"
+899,DRG00372,0WWN4KZ,"Revision of Nonautologous Tissue Substitute in Female Perineum, Percutaneous Endoscopic Approach"
+900,DRG00372,0WWN4YZ,"Revision of Other Device in Female Perineum, Percutaneous Endoscopic Approach"

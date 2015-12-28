@@ -1,0 +1,86 @@
+,DRG,CM-PCS,en
+9572,DRG17918,K5000,Crohn's disease of small intestine without complications
+9573,DRG17918,K50011,Crohn's disease of small intestine with rectal bleeding
+9574,DRG17918,K50012,Crohn's disease of small intestine with intestinal obstruction
+9575,DRG17918,K50013,Crohn's disease of small intestine with fistula
+9576,DRG17918,K50014,Crohn's disease of small intestine with abscess
+9577,DRG17918,K50018,Crohn's disease of small intestine with other complication
+9578,DRG17918,K50019,Crohn's disease of small intestine with unspecified complications
+9579,DRG17918,K5010,Crohn's disease of large intestine without complications
+9580,DRG17918,K50111,Crohn's disease of large intestine with rectal bleeding
+9581,DRG17918,K50112,Crohn's disease of large intestine with intestinal obstruction
+9582,DRG17918,K50113,Crohn's disease of large intestine with fistula
+9583,DRG17918,K50114,Crohn's disease of large intestine with abscess
+9584,DRG17918,K50118,Crohn's disease of large intestine with other complication
+9585,DRG17918,K50119,Crohn's disease of large intestine with unspecified complications
+9586,DRG17918,K5080,Crohn's disease of both small and large intestine without complications
+9587,DRG17918,K50811,Crohn's disease of both small and large intestine with rectal bleeding
+9588,DRG17918,K50812,Crohn's disease of both small and large intestine with intestinal obstruction
+9589,DRG17918,K50813,Crohn's disease of both small and large intestine with fistula
+9590,DRG17918,K50814,Crohn's disease of both small and large intestine with abscess
+9591,DRG17918,K50818,Crohn's disease of both small and large intestine with other complication
+9592,DRG17918,K50819,Crohn's disease of both small and large intestine with unspecified complications
+9595,DRG17918,A400,"Sepsis due to streptococcus, group A"
+9596,DRG17918,A401,"Sepsis due to streptococcus, group B"
+9597,DRG17918,A408,Other streptococcal sepsis
+9598,DRG17918,A409,"Streptococcal sepsis, unspecified"
+9599,DRG17918,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+9600,DRG17918,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+9601,DRG17918,R6520,Severe sepsis without septic shock
+9602,DRG17918,A412,Sepsis due to unspecified staphylococcus
+9603,DRG17918,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+9604,DRG17918,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+9605,DRG17918,A411,Sepsis due to other specified staphylococcus
+9606,DRG17918,A403,Sepsis due to Streptococcus pneumoniae
+9607,DRG17918,A414,Sepsis due to anaerobes
+9608,DRG17918,A4150,"Gram-negative sepsis, unspecified"
+9609,DRG17918,A413,Sepsis due to Hemophilus influenzae
+9610,DRG17918,A4151,Sepsis due to Escherichia coli [E. coli]
+9611,DRG17918,A4152,Sepsis due to Pseudomonas
+9612,DRG17918,A4153,Sepsis due to Serratia
+9613,DRG17918,A4159,Other Gram-negative sepsis
+9614,DRG17918,A4181,Sepsis due to Enterococcus
+9615,DRG17918,A4189,Other specified sepsis
+9616,DRG17918,A419,"Sepsis, unspecified organism"
+9617,DRG17918,E440,Moderate protein-calorie malnutrition
+9618,DRG17918,E441,Mild protein-calorie malnutrition
+9619,DRG17918,E45,Retarded development following protein-calorie malnutrition
+9620,DRG17918,E46,Unspecified protein-calorie malnutrition
+9621,DRG17918,E640,Sequelae of protein-calorie malnutrition
+9622,DRG17918,K561,Intussusception
+9623,DRG17918,K560,Paralytic ileus
+9624,DRG17918,K567,"Ileus, unspecified"
+9625,DRG17918,K562,Volvulus
+9626,DRG17918,K5649,Other impaction of intestine
+9627,DRG17918,K563,Gallstone ileus
+9628,DRG17918,K5641,Fecal impaction
+9629,DRG17918,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
+9630,DRG17918,K5669,Other intestinal obstruction
+9631,DRG17918,K5660,Unspecified intestinal obstruction
+9632,DRG17918,K603,Anal fistula
+9633,DRG17918,K604,Rectal fistula
+9634,DRG17918,K605,Anorectal fistula
+9635,DRG17918,K632,Fistula of intestine
+9636,DRG17918,K920,Hematemesis
+9637,DRG17918,K921,Melena
+9638,DRG17918,K922,"Gastrointestinal hemorrhage, unspecified"
+9639,DRG17918,R000,"Tachycardia, unspecified"
+9640,DRG17918,R002,Palpitations
+9641,DRG17918,R010,Benign and innocent cardiac murmurs
+9642,DRG17918,R011,"Cardiac murmur, unspecified"
+9643,DRG17918,R008,Other abnormalities of heart beat
+9644,DRG17918,R009,Unspecified abnormalities of heart beat
+9645,DRG17918,R012,Other cardiac sounds
+9646,DRG17918,I96,"Gangrene, not elsewhere classified"
+9647,DRG17918,R579,"Shock, unspecified"
+9648,DRG17918,R570,Cardiogenic shock
+9649,DRG17918,H49811,"Kearns-Sayre syndrome, right eye"
+9650,DRG17918,H49812,"Kearns-Sayre syndrome, left eye"
+9651,DRG17918,H49813,"Kearns-Sayre syndrome, bilateral"
+9652,DRG17918,R571,Hypovolemic shock
+9653,DRG17918,R578,Other shock
+9654,DRG17918,R6521,Severe sepsis with septic shock
+9655,DRG17918,R590,Localized enlarged lymph nodes
+9656,DRG17918,R591,Generalized enlarged lymph nodes
+9657,DRG17918,R599,"Enlarged lymph nodes, unspecified"
+9658,DRG17918,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems

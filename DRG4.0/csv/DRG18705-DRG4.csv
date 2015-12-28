@@ -1,0 +1,126 @@
+,DRG,CM-PCS,en
+14438,DRG18705,B002,Herpesviral gingivostomatitis and pharyngotonsillitis
+14439,DRG18705,B370,Candidal stomatitis
+14440,DRG18705,B3783,Candidal cheilitis
+14441,DRG18705,D100,Benign neoplasm of lip
+14442,DRG18705,D101,Benign neoplasm of tongue
+14443,DRG18705,D102,Benign neoplasm of floor of mouth
+14444,DRG18705,D1030,Benign neoplasm of unspecified part of mouth
+14445,DRG18705,D1039,Benign neoplasm of other parts of mouth
+14446,DRG18705,D165,Benign neoplasm of lower jaw bone
+14447,DRG18705,K098,"Other cysts of oral region, not elsewhere classified"
+14448,DRG18705,K099,"Cyst of oral region, unspecified"
+14449,DRG18705,K120,Recurrent oral aphthae
+14450,DRG18705,K121,Other forms of stomatitis
+14451,DRG18705,K122,Cellulitis and abscess of mouth
+14452,DRG18705,K1230,"Oral mucositis (ulcerative), unspecified"
+14453,DRG18705,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+14454,DRG18705,K1232,Oral mucositis (ulcerative) due to other drugs
+14455,DRG18705,K1233,Oral mucositis (ulcerative) due to radiation
+14456,DRG18705,K1239,Other oral mucositis (ulcerative)
+14457,DRG18705,K130,Diseases of lips
+14458,DRG18705,K131,Cheek and lip biting
+14459,DRG18705,K1321,"Leukoplakia of oral mucosa, including tongue"
+14460,DRG18705,K1322,Minimal keratinized residual ridge mucosa
+14461,DRG18705,K1323,Excessive keratinized residual ridge mucosa
+14462,DRG18705,K1324,Leukokeratosis nicotina palati
+14463,DRG18705,K1329,"Other disturbances of oral epithelium, including tongue"
+14464,DRG18705,K133,Hairy leukoplakia
+14465,DRG18705,K134,Granuloma and granuloma-like lesions of oral mucosa
+14466,DRG18705,K135,Oral submucous fibrosis
+14467,DRG18705,K136,Irritative hyperplasia of oral mucosa
+14468,DRG18705,K1370,Unspecified lesions of oral mucosa
+14469,DRG18705,K1379,Other lesions of oral mucosa
+14470,DRG18705,K140,Glossitis
+14471,DRG18705,K141,Geographic tongue
+14472,DRG18705,K142,Median rhomboid glossitis
+14473,DRG18705,K143,Hypertrophy of tongue papillae
+14474,DRG18705,K144,Atrophy of tongue papillae
+14475,DRG18705,K145,Plicated tongue
+14476,DRG18705,K146,Glossodynia
+14477,DRG18705,K148,Other diseases of tongue
+14478,DRG18705,K149,"Disease of tongue, unspecified"
+14481,DRG18705,0CBW0Z0,"Excision of Upper Tooth, Open Approach, Single"
+14482,DRG18705,0CBW0Z1,"Excision of Upper Tooth, Open Approach, Multiple"
+14483,DRG18705,0CBW0Z2,"Excision of Upper Tooth, Open Approach, All"
+14484,DRG18705,0CBWXZ0,"Excision of Upper Tooth, External Approach, Single"
+14485,DRG18705,0CBWXZ1,"Excision of Upper Tooth, External Approach, Multiple"
+14486,DRG18705,0CBWXZ2,"Excision of Upper Tooth, External Approach, All"
+14487,DRG18705,0CBX0Z0,"Excision of Lower Tooth, Open Approach, Single"
+14488,DRG18705,0CBX0Z1,"Excision of Lower Tooth, Open Approach, Multiple"
+14489,DRG18705,0CBX0Z2,"Excision of Lower Tooth, Open Approach, All"
+14490,DRG18705,0CBXXZ0,"Excision of Lower Tooth, External Approach, Single"
+14491,DRG18705,0CBXXZ1,"Excision of Lower Tooth, External Approach, Multiple"
+14492,DRG18705,0CBXXZ2,"Excision of Lower Tooth, External Approach, All"
+14493,DRG18705,0CDWXZ0,"Extraction of Upper Tooth, Single, External Approach"
+14494,DRG18705,0CDWXZ1,"Extraction of Upper Tooth, Multiple, External Approach"
+14495,DRG18705,0CDWXZ2,"Extraction of Upper Tooth, All, External Approach"
+14496,DRG18705,0CDXXZ0,"Extraction of Lower Tooth, Single, External Approach"
+14497,DRG18705,0CDXXZ1,"Extraction of Lower Tooth, Multiple, External Approach"
+14498,DRG18705,0CDXXZ2,"Extraction of Lower Tooth, All, External Approach"
+14499,DRG18705,0CMW0Z0,"Reattachment of Upper Tooth, Single, Open Approach"
+14500,DRG18705,0CMW0Z1,"Reattachment of Upper Tooth, Multiple, Open Approach"
+14501,DRG18705,0CMW0Z2,"Reattachment of Upper Tooth, All, Open Approach"
+14502,DRG18705,0CMWXZ0,"Reattachment of Upper Tooth, Single, External Approach"
+14503,DRG18705,0CMWXZ1,"Reattachment of Upper Tooth, Multiple, External Approach"
+14504,DRG18705,0CMWXZ2,"Reattachment of Upper Tooth, All, External Approach"
+14505,DRG18705,0CMX0Z0,"Reattachment of Lower Tooth, Single, Open Approach"
+14506,DRG18705,0CMX0Z1,"Reattachment of Lower Tooth, Multiple, Open Approach"
+14507,DRG18705,0CMX0Z2,"Reattachment of Lower Tooth, All, Open Approach"
+14508,DRG18705,0CMXXZ0,"Reattachment of Lower Tooth, Single, External Approach"
+14509,DRG18705,0CMXXZ1,"Reattachment of Lower Tooth, Multiple, External Approach"
+14510,DRG18705,0CMXXZ2,"Reattachment of Lower Tooth, All, External Approach"
+14511,DRG18705,0CQW0Z0,"Repair of Upper Tooth, Single, Open Approach"
+14512,DRG18705,0CQW0Z1,"Repair of Upper Tooth, Multiple, Open Approach"
+14513,DRG18705,0CQW0Z2,"Repair of Upper Tooth, All, Open Approach"
+14514,DRG18705,0CQWXZ0,"Repair of Upper Tooth, Single, External Approach"
+14515,DRG18705,0CQWXZ1,"Repair of Upper Tooth, Multiple, External Approach"
+14516,DRG18705,0CQWXZ2,"Repair of Upper Tooth, All, External Approach"
+14517,DRG18705,0CQX0Z0,"Repair of Lower Tooth, Single, Open Approach"
+14518,DRG18705,0CQX0Z1,"Repair of Lower Tooth, Multiple, Open Approach"
+14519,DRG18705,0CQX0Z2,"Repair of Lower Tooth, All, Open Approach"
+14520,DRG18705,0CQXXZ0,"Repair of Lower Tooth, Single, External Approach"
+14521,DRG18705,0CQXXZ1,"Repair of Lower Tooth, Multiple, External Approach"
+14522,DRG18705,0CQXXZ2,"Repair of Lower Tooth, All, External Approach"
+14523,DRG18705,0CRW070,"Replacement of Upper Tooth, Single, with Autologous Tissue Substitute, Open Approach"
+14524,DRG18705,0CRW071,"Replacement of Upper Tooth, Multiple, with Autologous Tissue Substitute, Open Approach"
+14525,DRG18705,0CRW072,"Replacement of Upper Tooth, All, with Autologous Tissue Substitute, Open Approach"
+14526,DRG18705,0CRW0J0,"Replacement of Upper Tooth, Single, with Synthetic Substitute, Open Approach"
+14527,DRG18705,0CRW0J1,"Replacement of Upper Tooth, Multiple, with Synthetic Substitute, Open Approach"
+14528,DRG18705,0CRW0J2,"Replacement of Upper Tooth, All, with Synthetic Substitute, Open Approach"
+14529,DRG18705,0CRW0K0,"Replacement of Upper Tooth, Single, with Nonautologous Tissue Substitute, Open Approach"
+14530,DRG18705,0CRW0K1,"Replacement of Upper Tooth, Multiple, with Nonautologous Tissue Substitute, Open Approach"
+14531,DRG18705,0CRW0K2,"Replacement of Upper Tooth, All, with Nonautologous Tissue Substitute, Open Approach"
+14532,DRG18705,0CRWX70,"Replacement of Upper Tooth, Single, with Autologous Tissue Substitute, External Approach"
+14533,DRG18705,0CRWX71,"Replacement of Upper Tooth, Multiple, with Autologous Tissue Substitute, External Approach"
+14534,DRG18705,0CRWX72,"Replacement of Upper Tooth, All, with Autologous Tissue Substitute, External Approach"
+14535,DRG18705,0CRWXJ0,"Replacement of Upper Tooth, Single, with Synthetic Substitute, External Approach"
+14536,DRG18705,0CRWXJ1,"Replacement of Upper Tooth, Multiple, with Synthetic Substitute, External Approach"
+14537,DRG18705,0CRWXJ2,"Replacement of Upper Tooth, All, with Synthetic Substitute, External Approach"
+14538,DRG18705,0CRWXK0,"Replacement of Upper Tooth, Single, with Nonautologous Tissue Substitute, External Approach"
+14539,DRG18705,0CRWXK1,"Replacement of Upper Tooth, Multiple, with Nonautologous Tissue Substitute, External Approach"
+14540,DRG18705,0CRWXK2,"Replacement of Upper Tooth, All, with Nonautologous Tissue Substitute, External Approach"
+14541,DRG18705,0CRX070,"Replacement of Lower Tooth, Single, with Autologous Tissue Substitute, Open Approach"
+14542,DRG18705,0CRX071,"Replacement of Lower Tooth, Multiple, with Autologous Tissue Substitute, Open Approach"
+14543,DRG18705,0CRX072,"Replacement of Lower Tooth, All, with Autologous Tissue Substitute, Open Approach"
+14544,DRG18705,0CRX0J0,"Replacement of Lower Tooth, Single, with Synthetic Substitute, Open Approach"
+14545,DRG18705,0CRX0J1,"Replacement of Lower Tooth, Multiple, with Synthetic Substitute, Open Approach"
+14546,DRG18705,0CRX0J2,"Replacement of Lower Tooth, All, with Synthetic Substitute, Open Approach"
+14547,DRG18705,0CRX0K0,"Replacement of Lower Tooth, Single, with Nonautologous Tissue Substitute, Open Approach"
+14548,DRG18705,0CRX0K1,"Replacement of Lower Tooth, Multiple, with Nonautologous Tissue Substitute, Open Approach"
+14549,DRG18705,0CRX0K2,"Replacement of Lower Tooth, All, with Nonautologous Tissue Substitute, Open Approach"
+14550,DRG18705,0CRXX70,"Replacement of Lower Tooth, Single, with Autologous Tissue Substitute, External Approach"
+14551,DRG18705,0CRXX71,"Replacement of Lower Tooth, Multiple, with Autologous Tissue Substitute, External Approach"
+14552,DRG18705,0CRXX72,"Replacement of Lower Tooth, All, with Autologous Tissue Substitute, External Approach"
+14553,DRG18705,0CRXXJ0,"Replacement of Lower Tooth, Single, with Synthetic Substitute, External Approach"
+14554,DRG18705,0CRXXJ1,"Replacement of Lower Tooth, Multiple, with Synthetic Substitute, External Approach"
+14555,DRG18705,0CRXXJ2,"Replacement of Lower Tooth, All, with Synthetic Substitute, External Approach"
+14556,DRG18705,0CRXXK0,"Replacement of Lower Tooth, Single, with Nonautologous Tissue Substitute, External Approach"
+14557,DRG18705,0CRXXK1,"Replacement of Lower Tooth, Multiple, with Nonautologous Tissue Substitute, External Approach"
+14558,DRG18705,0CRXXK2,"Replacement of Lower Tooth, All, with Nonautologous Tissue Substitute, External Approach"
+14559,DRG18705,0CTW0Z0,"Resection of Upper Tooth, Single, Open Approach"
+14560,DRG18705,0CTW0Z1,"Resection of Upper Tooth, Multiple, Open Approach"
+14561,DRG18705,0CTW0Z2,"Resection of Upper Tooth, All, Open Approach"
+14562,DRG18705,0CTX0Z0,"Resection of Lower Tooth, Single, Open Approach"
+14563,DRG18705,0CTX0Z1,"Resection of Lower Tooth, Multiple, Open Approach"
+14564,DRG18705,0CTX0Z2,"Resection of Lower Tooth, All, Open Approach"

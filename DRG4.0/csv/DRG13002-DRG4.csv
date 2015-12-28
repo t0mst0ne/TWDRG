@@ -1,0 +1,1108 @@
+,DRG,CM-PCS,en
+37377,DRG13002,E0851,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy without gangrene
+37378,DRG13002,E0852,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy with gangrene
+37379,DRG13002,E0859,Diabetes mellitus due to underlying condition with other circulatory complications
+37380,DRG13002,E0951,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy without gangrene
+37381,DRG13002,E0952,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy with gangrene
+37382,DRG13002,E0959,Drug or chemical induced diabetes mellitus with other circulatory complications
+37383,DRG13002,E1051,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene
+37384,DRG13002,E1052,Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene
+37385,DRG13002,E1059,Type 1 diabetes mellitus with other circulatory complications
+37386,DRG13002,E1151,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene
+37387,DRG13002,E1152,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene
+37388,DRG13002,E1159,Type 2 diabetes mellitus with other circulatory complications
+37389,DRG13002,E1351,Other specified diabetes mellitus with diabetic peripheral angiopathy without gangrene
+37390,DRG13002,E1352,Other specified diabetes mellitus with diabetic peripheral angiopathy with gangrene
+37391,DRG13002,E1359,Other specified diabetes mellitus with other circulatory complications
+37392,DRG13002,I700,Atherosclerosis of aorta
+37393,DRG13002,I70201,"Unspecified atherosclerosis of native arteries of extremities, right leg"
+37394,DRG13002,I70202,"Unspecified atherosclerosis of native arteries of extremities, left leg"
+37395,DRG13002,I70203,"Unspecified atherosclerosis of native arteries of extremities, bilateral legs"
+37396,DRG13002,I70208,"Unspecified atherosclerosis of native arteries of extremities, other extremity"
+37397,DRG13002,I70209,"Unspecified atherosclerosis of native arteries of extremities, unspecified extremity"
+37398,DRG13002,I70211,"Atherosclerosis of native arteries of extremities with intermittent claudication, right leg"
+37399,DRG13002,I70212,"Atherosclerosis of native arteries of extremities with intermittent claudication, left leg"
+37400,DRG13002,I70213,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs"
+37401,DRG13002,I70218,"Atherosclerosis of native arteries of extremities with intermittent claudication, other extremity"
+37402,DRG13002,I70219,"Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity"
+37403,DRG13002,I70221,"Atherosclerosis of native arteries of extremities with rest pain, right leg"
+37404,DRG13002,I70222,"Atherosclerosis of native arteries of extremities with rest pain, left leg"
+37405,DRG13002,I70223,"Atherosclerosis of native arteries of extremities with rest pain, bilateral legs"
+37406,DRG13002,I70228,"Atherosclerosis of native arteries of extremities with rest pain, other extremity"
+37407,DRG13002,I70229,"Atherosclerosis of native arteries of extremities with rest pain, unspecified extremity"
+37408,DRG13002,I70231,Atherosclerosis of native arteries of right leg with ulceration of thigh
+37409,DRG13002,I70232,Atherosclerosis of native arteries of right leg with ulceration of calf
+37410,DRG13002,I70233,Atherosclerosis of native arteries of right leg with ulceration of ankle
+37411,DRG13002,I70234,Atherosclerosis of native arteries of right leg with ulceration of heel and midfoot
+37412,DRG13002,I70235,Atherosclerosis of native arteries of right leg with ulceration of other part of foot
+37413,DRG13002,I70238,Atherosclerosis of native arteries of right leg with ulceration of other part of lower right leg
+37414,DRG13002,I70239,Atherosclerosis of native arteries of right leg with ulceration of unspecified site
+37415,DRG13002,I70241,Atherosclerosis of native arteries of left leg with ulceration of thigh
+37416,DRG13002,I70242,Atherosclerosis of native arteries of left leg with ulceration of calf
+37417,DRG13002,I70243,Atherosclerosis of native arteries of left leg with ulceration of ankle
+37418,DRG13002,I70244,Atherosclerosis of native arteries of left leg with ulceration of heel and midfoot
+37419,DRG13002,I70245,Atherosclerosis of native arteries of left leg with ulceration of other part of foot
+37420,DRG13002,I70248,Atherosclerosis of native arteries of left leg with ulceration of other part of lower left leg
+37421,DRG13002,I70249,Atherosclerosis of native arteries of left leg with ulceration of unspecified site
+37422,DRG13002,I7025,Atherosclerosis of native arteries of other extremities with ulceration
+37423,DRG13002,I70261,"Atherosclerosis of native arteries of extremities with gangrene, right leg"
+37424,DRG13002,I70262,"Atherosclerosis of native arteries of extremities with gangrene, left leg"
+37425,DRG13002,I70263,"Atherosclerosis of native arteries of extremities with gangrene, bilateral legs"
+37426,DRG13002,I70268,"Atherosclerosis of native arteries of extremities with gangrene, other extremity"
+37427,DRG13002,I70269,"Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity"
+37428,DRG13002,I70291,"Other atherosclerosis of native arteries of extremities, right leg"
+37429,DRG13002,I70292,"Other atherosclerosis of native arteries of extremities, left leg"
+37430,DRG13002,I70293,"Other atherosclerosis of native arteries of extremities, bilateral legs"
+37431,DRG13002,I70298,"Other atherosclerosis of native arteries of extremities, other extremity"
+37432,DRG13002,I70299,"Other atherosclerosis of native arteries of extremities, unspecified extremity"
+37433,DRG13002,I70301,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg"
+37434,DRG13002,I70302,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg"
+37435,DRG13002,I70303,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs"
+37436,DRG13002,I70308,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity"
+37437,DRG13002,I70309,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity"
+37438,DRG13002,I70311,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, right leg"
+37439,DRG13002,I70312,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, left leg"
+37440,DRG13002,I70313,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+37441,DRG13002,I70318,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, other extremity"
+37442,DRG13002,I70319,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+37443,DRG13002,I70321,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, right leg"
+37444,DRG13002,I70322,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, left leg"
+37445,DRG13002,I70323,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, bilateral legs"
+37446,DRG13002,I70328,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, other extremity"
+37447,DRG13002,I70329,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, unspecified extremity"
+37448,DRG13002,I70331,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of thigh
+37449,DRG13002,I70332,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of calf
+37450,DRG13002,I70333,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of ankle
+37451,DRG13002,I70334,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of heel and midfoot
+37452,DRG13002,I70335,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of foot
+37453,DRG13002,I70338,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of lower leg
+37454,DRG13002,I70339,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of unspecified site
+37455,DRG13002,I70341,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of thigh
+37456,DRG13002,I70342,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of calf
+37457,DRG13002,I70343,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of ankle
+37458,DRG13002,I70344,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of heel and midfoot
+37459,DRG13002,I70345,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of foot
+37460,DRG13002,I70348,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of lower leg
+37461,DRG13002,I70349,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of unspecified site
+37462,DRG13002,I7035,Atherosclerosis of unspecified type of bypass graft(s) of other extremity with ulceration
+37463,DRG13002,I70361,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg"
+37464,DRG13002,I70362,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg"
+37465,DRG13002,I70363,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs"
+37466,DRG13002,I70368,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity"
+37467,DRG13002,I70369,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity"
+37468,DRG13002,I70391,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg"
+37469,DRG13002,I70392,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg"
+37470,DRG13002,I70393,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs"
+37471,DRG13002,I70398,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity"
+37472,DRG13002,I70399,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity"
+37473,DRG13002,I70401,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg"
+37474,DRG13002,I70402,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg"
+37475,DRG13002,I70403,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs"
+37476,DRG13002,I70408,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity"
+37477,DRG13002,I70409,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity"
+37478,DRG13002,I70411,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, right leg"
+37479,DRG13002,I70412,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, left leg"
+37480,DRG13002,I70413,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+37481,DRG13002,I70418,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, other extremity"
+37482,DRG13002,I70419,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+37483,DRG13002,I70421,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, right leg"
+37484,DRG13002,I70422,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, left leg"
+37485,DRG13002,I70423,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, bilateral legs"
+37486,DRG13002,I70428,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity"
+37487,DRG13002,I70429,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, unspecified extremity"
+37488,DRG13002,I70431,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of thigh
+37489,DRG13002,I70432,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of calf
+37490,DRG13002,I70433,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of ankle
+37491,DRG13002,I70434,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of heel and midfoot
+37492,DRG13002,I70435,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of foot
+37493,DRG13002,I70438,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of lower leg
+37494,DRG13002,I70439,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of unspecified site
+37495,DRG13002,I70441,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of thigh
+37496,DRG13002,I70442,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of calf
+37497,DRG13002,I70443,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of ankle
+37498,DRG13002,I70444,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of heel and midfoot
+37499,DRG13002,I70445,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of foot
+37500,DRG13002,I70448,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of lower leg
+37501,DRG13002,I70449,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of unspecified site
+37502,DRG13002,I7045,Atherosclerosis of autologous vein bypass graft(s) of other extremity with ulceration
+37503,DRG13002,I70461,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg"
+37504,DRG13002,I70462,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg"
+37505,DRG13002,I70463,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs"
+37506,DRG13002,I70468,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity"
+37507,DRG13002,I70469,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity"
+37508,DRG13002,I70491,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg"
+37509,DRG13002,I70492,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg"
+37510,DRG13002,I70493,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs"
+37511,DRG13002,I70498,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity"
+37512,DRG13002,I70499,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity"
+37513,DRG13002,I70501,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg"
+37514,DRG13002,I70502,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg"
+37515,DRG13002,I70503,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs"
+37516,DRG13002,I70508,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity"
+37517,DRG13002,I70509,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity"
+37518,DRG13002,I70511,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, right leg"
+37519,DRG13002,I70512,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, left leg"
+37520,DRG13002,I70513,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+37521,DRG13002,I70518,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, other extremity"
+37522,DRG13002,I70519,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+37523,DRG13002,I70521,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, right leg"
+37524,DRG13002,I70522,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, left leg"
+37525,DRG13002,I70523,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, bilateral legs"
+37526,DRG13002,I70528,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, other extremity"
+37527,DRG13002,I70529,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, unspecified extremity"
+37528,DRG13002,I70531,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of thigh
+37529,DRG13002,I70532,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of calf
+37530,DRG13002,I70533,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of ankle
+37531,DRG13002,I70534,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of heel and midfoot
+37532,DRG13002,I70535,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of foot
+37533,DRG13002,I70538,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of lower leg
+37534,DRG13002,I70539,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of unspecified site
+37535,DRG13002,I70541,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of thigh
+37536,DRG13002,I70542,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of calf
+37537,DRG13002,I70543,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of ankle
+37538,DRG13002,I70544,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of heel and midfoot
+37539,DRG13002,I70545,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of foot
+37540,DRG13002,I70548,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of lower leg
+37541,DRG13002,I70549,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of unspecified site
+37542,DRG13002,I7055,Atherosclerosis of nonautologous biological bypass graft(s) of other extremity with ulceration
+37543,DRG13002,I70561,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg"
+37544,DRG13002,I70562,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg"
+37545,DRG13002,I70563,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs"
+37546,DRG13002,I70568,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity"
+37547,DRG13002,I70569,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity"
+37548,DRG13002,I70591,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg"
+37549,DRG13002,I70592,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg"
+37550,DRG13002,I70593,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs"
+37551,DRG13002,I70598,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity"
+37552,DRG13002,I70599,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity"
+37553,DRG13002,I70601,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg"
+37554,DRG13002,I70602,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg"
+37555,DRG13002,I70603,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs"
+37556,DRG13002,I70608,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity"
+37557,DRG13002,I70609,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity"
+37558,DRG13002,I70611,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, right leg"
+37559,DRG13002,I70612,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, left leg"
+37560,DRG13002,I70613,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+37561,DRG13002,I70618,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, other extremity"
+37562,DRG13002,I70619,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+37563,DRG13002,I70621,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, right leg"
+37564,DRG13002,I70622,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, left leg"
+37565,DRG13002,I70623,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, bilateral legs"
+37566,DRG13002,I70628,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, other extremity"
+37567,DRG13002,I70629,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, unspecified extremity"
+37568,DRG13002,I70631,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of thigh
+37569,DRG13002,I70632,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of calf
+37570,DRG13002,I70633,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of ankle
+37571,DRG13002,I70634,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of heel and midfoot
+37572,DRG13002,I70635,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of foot
+37573,DRG13002,I70638,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of lower leg
+37574,DRG13002,I70639,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of unspecified site
+37575,DRG13002,I70641,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of thigh
+37576,DRG13002,I70642,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of calf
+37577,DRG13002,I70643,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of ankle
+37578,DRG13002,I70644,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of heel and midfoot
+37579,DRG13002,I70645,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of foot
+37580,DRG13002,I70648,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of lower leg
+37581,DRG13002,I70649,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of unspecified site
+37582,DRG13002,I7065,Atherosclerosis of nonbiological bypass graft(s) of other extremity with ulceration
+37583,DRG13002,I70661,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg"
+37584,DRG13002,I70662,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg"
+37585,DRG13002,I70663,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs"
+37586,DRG13002,I70668,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity"
+37587,DRG13002,I70669,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity"
+37588,DRG13002,I70691,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg"
+37589,DRG13002,I70692,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg"
+37590,DRG13002,I70693,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs"
+37591,DRG13002,I70698,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity"
+37592,DRG13002,I70699,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity"
+37593,DRG13002,I70701,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, right leg"
+37594,DRG13002,I70702,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, left leg"
+37595,DRG13002,I70703,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs"
+37596,DRG13002,I70708,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, other extremity"
+37597,DRG13002,I70709,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity"
+37598,DRG13002,I70711,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, right leg"
+37599,DRG13002,I70712,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, left leg"
+37600,DRG13002,I70713,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+37601,DRG13002,I70718,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, other extremity"
+37602,DRG13002,I70719,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+37603,DRG13002,I70721,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, right leg"
+37604,DRG13002,I70722,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, left leg"
+37605,DRG13002,I70723,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, bilateral legs"
+37606,DRG13002,I70728,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, other extremity"
+37607,DRG13002,I70729,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, unspecified extremity"
+37608,DRG13002,I70731,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of thigh
+37609,DRG13002,I70732,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of calf
+37610,DRG13002,I70733,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of ankle
+37611,DRG13002,I70734,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of heel and midfoot
+37612,DRG13002,I70735,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of foot
+37613,DRG13002,I70738,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of lower leg
+37614,DRG13002,I70739,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of unspecified site
+37615,DRG13002,I70741,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of thigh
+37616,DRG13002,I70742,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of calf
+37617,DRG13002,I70743,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of ankle
+37618,DRG13002,I70744,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of heel and midfoot
+37619,DRG13002,I70745,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of foot
+37620,DRG13002,I70748,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of lower leg
+37621,DRG13002,I70749,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of unspecified site
+37622,DRG13002,I7075,Atherosclerosis of other type of bypass graft(s) of other extremity with ulceration
+37623,DRG13002,I70761,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg"
+37624,DRG13002,I70762,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg"
+37625,DRG13002,I70763,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs"
+37626,DRG13002,I70768,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity"
+37627,DRG13002,I70769,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity"
+37628,DRG13002,I70791,"Other atherosclerosis of other type of bypass graft(s) of the extremities, right leg"
+37629,DRG13002,I70792,"Other atherosclerosis of other type of bypass graft(s) of the extremities, left leg"
+37630,DRG13002,I70793,"Other atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs"
+37631,DRG13002,I70798,"Other atherosclerosis of other type of bypass graft(s) of the extremities, other extremity"
+37632,DRG13002,I70799,"Other atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity"
+37633,DRG13002,I708,Atherosclerosis of other arteries
+37634,DRG13002,I7090,Unspecified atherosclerosis
+37635,DRG13002,I7091,Generalized atherosclerosis
+37636,DRG13002,I721,Aneurysm of artery of upper extremity
+37637,DRG13002,I723,Aneurysm of iliac artery
+37638,DRG13002,I724,Aneurysm of artery of lower extremity
+37639,DRG13002,I728,Aneurysm of other specified arteries
+37640,DRG13002,I729,Aneurysm of unspecified site
+37641,DRG13002,I731,Thromboangiitis obliterans [Buerger's disease]
+37642,DRG13002,I7381,Erythromelalgia
+37643,DRG13002,I7389,Other specified peripheral vascular diseases
+37644,DRG13002,I739,"Peripheral vascular disease, unspecified"
+37645,DRG13002,I7401,Saddle embolus of abdominal aorta
+37646,DRG13002,I7409,Other arterial embolism and thrombosis of abdominal aorta
+37647,DRG13002,I7411,Embolism and thrombosis of thoracic aorta
+37648,DRG13002,I742,Embolism and thrombosis of arteries of the upper extremities
+37649,DRG13002,I743,Embolism and thrombosis of arteries of the lower extremities
+37650,DRG13002,I744,"Embolism and thrombosis of arteries of extremities, unspecified"
+37651,DRG13002,I745,Embolism and thrombosis of iliac artery
+37652,DRG13002,I748,Embolism and thrombosis of other arteries
+37653,DRG13002,I749,Embolism and thrombosis of unspecified artery
+37654,DRG13002,I75011,Atheroembolism of right upper extremity
+37655,DRG13002,I75012,Atheroembolism of left upper extremity
+37656,DRG13002,I75013,Atheroembolism of bilateral upper extremities
+37657,DRG13002,I75019,Atheroembolism of unspecified upper extremity
+37658,DRG13002,I75021,Atheroembolism of right lower extremity
+37659,DRG13002,I75022,Atheroembolism of left lower extremity
+37660,DRG13002,I75023,Atheroembolism of bilateral lower extremities
+37661,DRG13002,I75029,Atheroembolism of unspecified lower extremity
+37662,DRG13002,I7589,Atheroembolism of other site
+37663,DRG13002,I770,"Arteriovenous fistula, acquired"
+37664,DRG13002,I771,Stricture of artery
+37665,DRG13002,I772,Rupture of artery
+37666,DRG13002,I773,Arterial fibromuscular dysplasia
+37667,DRG13002,I775,Necrosis of artery
+37668,DRG13002,I7772,Dissection of iliac artery
+37669,DRG13002,I7774,Dissection of vertebral artery
+37670,DRG13002,I7779,Dissection of other artery
+37671,DRG13002,I7789,Other specified disorders of arteries and arterioles
+37672,DRG13002,I779,"Disorder of arteries and arterioles, unspecified"
+37673,DRG13002,I780,Hereditary hemorrhagic telangiectasia
+37674,DRG13002,I788,Other diseases of capillaries
+37675,DRG13002,I789,"Disease of capillaries, unspecified"
+37676,DRG13002,I8000,Phlebitis and thrombophlebitis of superficial vessels of unspecified lower extremity
+37677,DRG13002,I8001,Phlebitis and thrombophlebitis of superficial vessels of right lower extremity
+37678,DRG13002,I8002,Phlebitis and thrombophlebitis of superficial vessels of left lower extremity
+37679,DRG13002,I8003,"Phlebitis and thrombophlebitis of superficial vessels of lower extremities, bilateral"
+37680,DRG13002,I808,Phlebitis and thrombophlebitis of other sites
+37681,DRG13002,I809,Phlebitis and thrombophlebitis of unspecified site
+37682,DRG13002,I821,Thrombophlebitis migrans
+37683,DRG13002,I82210,Acute embolism and thrombosis of superior vena cava
+37684,DRG13002,I82211,Chronic embolism and thrombosis of superior vena cava
+37685,DRG13002,I82290,Acute embolism and thrombosis of other thoracic veins
+37686,DRG13002,I82291,Chronic embolism and thrombosis of other thoracic veins
+37687,DRG13002,I82401,Acute embolism and thrombosis of unspecified deep veins of right lower extremity
+37688,DRG13002,I82402,Acute embolism and thrombosis of unspecified deep veins of left lower extremity
+37689,DRG13002,I82403,"Acute embolism and thrombosis of unspecified deep veins of lower extremity, bilateral"
+37690,DRG13002,I82409,Acute embolism and thrombosis of unspecified deep veins of unspecified lower extremity
+37691,DRG13002,I82411,Acute embolism and thrombosis of right femoral vein
+37692,DRG13002,I82412,Acute embolism and thrombosis of left femoral vein
+37693,DRG13002,I82413,"Acute embolism and thrombosis of femoral vein, bilateral"
+37694,DRG13002,I82419,Acute embolism and thrombosis of unspecified femoral vein
+37695,DRG13002,I82421,Acute embolism and thrombosis of right iliac vein
+37696,DRG13002,I82422,Acute embolism and thrombosis of left iliac vein
+37697,DRG13002,I82423,"Acute embolism and thrombosis of iliac vein, bilateral"
+37698,DRG13002,I82429,Acute embolism and thrombosis of unspecified iliac vein
+37699,DRG13002,I82431,Acute embolism and thrombosis of right popliteal vein
+37700,DRG13002,I82432,Acute embolism and thrombosis of left popliteal vein
+37701,DRG13002,I82433,"Acute embolism and thrombosis of popliteal vein, bilateral"
+37702,DRG13002,I82439,Acute embolism and thrombosis of unspecified popliteal vein
+37703,DRG13002,I82441,Acute embolism and thrombosis of right tibial vein
+37704,DRG13002,I82442,Acute embolism and thrombosis of left tibial vein
+37705,DRG13002,I82443,"Acute embolism and thrombosis of tibial vein, bilateral"
+37706,DRG13002,I82449,Acute embolism and thrombosis of unspecified tibial vein
+37707,DRG13002,I82491,Acute embolism and thrombosis of other specified deep vein of right lower extremity
+37708,DRG13002,I82492,Acute embolism and thrombosis of other specified deep vein of left lower extremity
+37709,DRG13002,I82493,"Acute embolism and thrombosis of other specified deep vein of lower extremity, bilateral"
+37710,DRG13002,I82499,Acute embolism and thrombosis of other specified deep vein of unspecified lower extremity
+37711,DRG13002,I824Y1,Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity
+37712,DRG13002,I824Y2,Acute embolism and thrombosis of unspecified deep veins of left proximal lower extremity
+37713,DRG13002,I824Y3,"Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral"
+37714,DRG13002,I824Y9,Acute embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity
+37715,DRG13002,I824Z1,Acute embolism and thrombosis of unspecified deep veins of right distal lower extremity
+37716,DRG13002,I824Z2,Acute embolism and thrombosis of unspecified deep veins of left distal lower extremity
+37717,DRG13002,I824Z3,"Acute embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral"
+37718,DRG13002,I824Z9,Acute embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity
+37719,DRG13002,I82501,Chronic embolism and thrombosis of unspecified deep veins of right lower extremity
+37720,DRG13002,I82502,Chronic embolism and thrombosis of unspecified deep veins of left lower extremity
+37721,DRG13002,I82503,"Chronic embolism and thrombosis of unspecified deep veins of lower extremity, bilateral"
+37722,DRG13002,I82509,Chronic embolism and thrombosis of unspecified deep veins of unspecified lower extremity
+37723,DRG13002,I82511,Chronic embolism and thrombosis of right femoral vein
+37724,DRG13002,I82512,Chronic embolism and thrombosis of left femoral vein
+37725,DRG13002,I82513,"Chronic embolism and thrombosis of femoral vein, bilateral"
+37726,DRG13002,I82519,Chronic embolism and thrombosis of unspecified femoral vein
+37727,DRG13002,I82521,Chronic embolism and thrombosis of right iliac vein
+37728,DRG13002,I82522,Chronic embolism and thrombosis of left iliac vein
+37729,DRG13002,I82523,"Chronic embolism and thrombosis of iliac vein, bilateral"
+37730,DRG13002,I82529,Chronic embolism and thrombosis of unspecified iliac vein
+37731,DRG13002,I82531,Chronic embolism and thrombosis of right popliteal vein
+37732,DRG13002,I82532,Chronic embolism and thrombosis of left popliteal vein
+37733,DRG13002,I82533,"Chronic embolism and thrombosis of popliteal vein, bilateral"
+37734,DRG13002,I82539,Chronic embolism and thrombosis of unspecified popliteal vein
+37735,DRG13002,I82541,Chronic embolism and thrombosis of right tibial vein
+37736,DRG13002,I82542,Chronic embolism and thrombosis of left tibial vein
+37737,DRG13002,I82543,"Chronic embolism and thrombosis of tibial vein, bilateral"
+37738,DRG13002,I82549,Chronic embolism and thrombosis of unspecified tibial vein
+37739,DRG13002,I82591,Chronic embolism and thrombosis of other specified deep vein of right lower extremity
+37740,DRG13002,I82592,Chronic embolism and thrombosis of other specified deep vein of left lower extremity
+37741,DRG13002,I82593,"Chronic embolism and thrombosis of other specified deep vein of lower extremity, bilateral"
+37742,DRG13002,I82599,Chronic embolism and thrombosis of other specified deep vein of unspecified lower extremity
+37743,DRG13002,I825Y1,Chronic embolism and thrombosis of unspecified deep veins of right proximal lower extremity
+37744,DRG13002,I825Y2,Chronic embolism and thrombosis of unspecified deep veins of left proximal lower extremity
+37745,DRG13002,I825Y3,"Chronic embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral"
+37746,DRG13002,I825Y9,Chronic embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity
+37747,DRG13002,I825Z1,Chronic embolism and thrombosis of unspecified deep veins of right distal lower extremity
+37748,DRG13002,I825Z2,Chronic embolism and thrombosis of unspecified deep veins of left distal lower extremity
+37749,DRG13002,I825Z3,"Chronic embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral"
+37750,DRG13002,I825Z9,Chronic embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity
+37751,DRG13002,I82601,Acute embolism and thrombosis of unspecified veins of right upper extremity
+37752,DRG13002,I82602,Acute embolism and thrombosis of unspecified veins of left upper extremity
+37753,DRG13002,I82603,"Acute embolism and thrombosis of unspecified veins of upper extremity, bilateral"
+37754,DRG13002,I82609,Acute embolism and thrombosis of unspecified veins of unspecified upper extremity
+37755,DRG13002,I82611,Acute embolism and thrombosis of superficial veins of right upper extremity
+37756,DRG13002,I82612,Acute embolism and thrombosis of superficial veins of left upper extremity
+37757,DRG13002,I82613,"Acute embolism and thrombosis of superficial veins of upper extremity, bilateral"
+37758,DRG13002,I82619,Acute embolism and thrombosis of superficial veins of unspecified upper extremity
+37759,DRG13002,I82621,Acute embolism and thrombosis of deep veins of right upper extremity
+37760,DRG13002,I82622,Acute embolism and thrombosis of deep veins of left upper extremity
+37761,DRG13002,I82623,"Acute embolism and thrombosis of deep veins of upper extremity, bilateral"
+37762,DRG13002,I82629,Acute embolism and thrombosis of deep veins of unspecified upper extremity
+37763,DRG13002,I82701,Chronic embolism and thrombosis of unspecified veins of right upper extremity
+37764,DRG13002,I82702,Chronic embolism and thrombosis of unspecified veins of left upper extremity
+37765,DRG13002,I82703,"Chronic embolism and thrombosis of unspecified veins of upper extremity, bilateral"
+37766,DRG13002,I82709,Chronic embolism and thrombosis of unspecified veins of unspecified upper extremity
+37767,DRG13002,I82711,Chronic embolism and thrombosis of superficial veins of right upper extremity
+37768,DRG13002,I82712,Chronic embolism and thrombosis of superficial veins of left upper extremity
+37769,DRG13002,I82713,"Chronic embolism and thrombosis of superficial veins of upper extremity, bilateral"
+37770,DRG13002,I82719,Chronic embolism and thrombosis of superficial veins of unspecified upper extremity
+37771,DRG13002,I82721,Chronic embolism and thrombosis of deep veins of right upper extremity
+37772,DRG13002,I82722,Chronic embolism and thrombosis of deep veins of left upper extremity
+37773,DRG13002,I82723,"Chronic embolism and thrombosis of deep veins of upper extremity, bilateral"
+37774,DRG13002,I82729,Chronic embolism and thrombosis of deep veins of unspecified upper extremity
+37775,DRG13002,I82811,Embolism and thrombosis of superficial veins of right lower extremities
+37776,DRG13002,I82812,Embolism and thrombosis of superficial veins of left lower extremities
+37777,DRG13002,I82813,"Embolism and thrombosis of superficial veins of lower extremities, bilateral"
+37778,DRG13002,I82819,Embolism and thrombosis of superficial veins of unspecified lower extremities
+37779,DRG13002,I82890,Acute embolism and thrombosis of other specified veins
+37780,DRG13002,I82891,Chronic embolism and thrombosis of other specified veins
+37781,DRG13002,I8290,Acute embolism and thrombosis of unspecified vein
+37782,DRG13002,I8291,Chronic embolism and thrombosis of unspecified vein
+37783,DRG13002,I82A11,Acute embolism and thrombosis of right axillary vein
+37784,DRG13002,I82A12,Acute embolism and thrombosis of left axillary vein
+37785,DRG13002,I82A13,"Acute embolism and thrombosis of axillary vein, bilateral"
+37786,DRG13002,I82A19,Acute embolism and thrombosis of unspecified axillary vein
+37787,DRG13002,I82A21,Chronic embolism and thrombosis of right axillary vein
+37788,DRG13002,I82A22,Chronic embolism and thrombosis of left axillary vein
+37789,DRG13002,I82A23,"Chronic embolism and thrombosis of axillary vein, bilateral"
+37790,DRG13002,I82A29,Chronic embolism and thrombosis of unspecified axillary vein
+37791,DRG13002,I82B11,Acute embolism and thrombosis of right subclavian vein
+37792,DRG13002,I82B12,Acute embolism and thrombosis of left subclavian vein
+37793,DRG13002,I82B13,"Acute embolism and thrombosis of subclavian vein, bilateral"
+37794,DRG13002,I82B19,Acute embolism and thrombosis of unspecified subclavian vein
+37795,DRG13002,I82B21,Chronic embolism and thrombosis of right subclavian vein
+37796,DRG13002,I82B22,Chronic embolism and thrombosis of left subclavian vein
+37797,DRG13002,I82B23,"Chronic embolism and thrombosis of subclavian vein, bilateral"
+37798,DRG13002,I82B29,Chronic embolism and thrombosis of unspecified subclavian vein
+37799,DRG13002,I82C11,Acute embolism and thrombosis of right internal jugular vein
+37800,DRG13002,I82C12,Acute embolism and thrombosis of left internal jugular vein
+37801,DRG13002,I82C13,"Acute embolism and thrombosis of internal jugular vein, bilateral"
+37802,DRG13002,I82C19,Acute embolism and thrombosis of unspecified internal jugular vein
+37803,DRG13002,I82C21,Chronic embolism and thrombosis of right internal jugular vein
+37804,DRG13002,I82C22,Chronic embolism and thrombosis of left internal jugular vein
+37805,DRG13002,I82C23,"Chronic embolism and thrombosis of internal jugular vein, bilateral"
+37806,DRG13002,I82C29,Chronic embolism and thrombosis of unspecified internal jugular vein
+37807,DRG13002,I83001,Varicose veins of unspecified lower extremity with ulcer of thigh
+37808,DRG13002,I83002,Varicose veins of unspecified lower extremity with ulcer of calf
+37809,DRG13002,I83003,Varicose veins of unspecified lower extremity with ulcer of ankle
+37810,DRG13002,I83004,Varicose veins of unspecified lower extremity with ulcer of heel and midfoot
+37811,DRG13002,I83005,Varicose veins of unspecified lower extremity with ulcer other part of foot
+37812,DRG13002,I83008,Varicose veins of unspecified lower extremity with ulcer other part of lower leg
+37813,DRG13002,I83009,Varicose veins of unspecified lower extremity with ulcer of unspecified site
+37814,DRG13002,I83011,Varicose veins of right lower extremity with ulcer of thigh
+37815,DRG13002,I83012,Varicose veins of right lower extremity with ulcer of calf
+37816,DRG13002,I83013,Varicose veins of right lower extremity with ulcer of ankle
+37817,DRG13002,I83014,Varicose veins of right lower extremity with ulcer of heel and midfoot
+37818,DRG13002,I83015,Varicose veins of right lower extremity with ulcer other part of foot
+37819,DRG13002,I83018,Varicose veins of right lower extremity with ulcer other part of lower leg
+37820,DRG13002,I83019,Varicose veins of right lower extremity with ulcer of unspecified site
+37821,DRG13002,I83021,Varicose veins of left lower extremity with ulcer of thigh
+37822,DRG13002,I83022,Varicose veins of left lower extremity with ulcer of calf
+37823,DRG13002,I83023,Varicose veins of left lower extremity with ulcer of ankle
+37824,DRG13002,I83024,Varicose veins of left lower extremity with ulcer of heel and midfoot
+37825,DRG13002,I83025,Varicose veins of left lower extremity with ulcer other part of foot
+37826,DRG13002,I83028,Varicose veins of left lower extremity with ulcer other part of lower leg
+37827,DRG13002,I83029,Varicose veins of left lower extremity with ulcer of unspecified site
+37828,DRG13002,I8310,Varicose veins of unspecified lower extremity with inflammation
+37829,DRG13002,I8311,Varicose veins of right lower extremity with inflammation
+37830,DRG13002,I8312,Varicose veins of left lower extremity with inflammation
+37831,DRG13002,I83201,Varicose veins of unspecified lower extremity with both ulcer of thigh and inflammation
+37832,DRG13002,I83202,Varicose veins of unspecified lower extremity with both ulcer of calf and inflammation
+37833,DRG13002,I83203,Varicose veins of unspecified lower extremity with both ulcer of ankle and inflammation
+37834,DRG13002,I83204,Varicose veins of unspecified lower extremity with both ulcer of heel and midfoot and inflammation
+37835,DRG13002,I83205,Varicose veins of unspecified lower extremity with both ulcer other part of foot and inflammation
+37836,DRG13002,I83208,Varicose veins of unspecified lower extremity with both ulcer of other part of lower extremity and inflammation
+37837,DRG13002,I83209,Varicose veins of unspecified lower extremity with both ulcer of unspecified site and inflammation
+37838,DRG13002,I83211,Varicose veins of right lower extremity with both ulcer of thigh and inflammation
+37839,DRG13002,I83212,Varicose veins of right lower extremity with both ulcer of calf and inflammation
+37840,DRG13002,I83213,Varicose veins of right lower extremity with both ulcer of ankle and inflammation
+37841,DRG13002,I83214,Varicose veins of right lower extremity with both ulcer of heel and midfoot and inflammation
+37842,DRG13002,I83215,Varicose veins of right lower extremity with both ulcer other part of foot and inflammation
+37843,DRG13002,I83218,Varicose veins of right lower extremity with both ulcer of other part of lower extremity and inflammation
+37844,DRG13002,I83219,Varicose veins of right lower extremity with both ulcer of unspecified site and inflammation
+37845,DRG13002,I83221,Varicose veins of left lower extremity with both ulcer of thigh and inflammation
+37846,DRG13002,I83222,Varicose veins of left lower extremity with both ulcer of calf and inflammation
+37847,DRG13002,I83223,Varicose veins of left lower extremity with both ulcer of ankle and inflammation
+37848,DRG13002,I83224,Varicose veins of left lower extremity with both ulcer of heel and midfoot and inflammation
+37849,DRG13002,I83225,Varicose veins of left lower extremity with both ulcer other part of foot and inflammation
+37850,DRG13002,I83228,Varicose veins of left lower extremity with both ulcer of other part of lower extremity and inflammation
+37851,DRG13002,I83229,Varicose veins of left lower extremity with both ulcer of unspecified site and inflammation
+37852,DRG13002,I83811,Varicose veins of right lower extremities with pain
+37853,DRG13002,I83812,Varicose veins of left lower extremities with pain
+37854,DRG13002,I83813,Varicose veins of bilateral lower extremities with pain
+37855,DRG13002,I83819,Varicose veins of unspecified lower extremities with pain
+37856,DRG13002,I83891,Varicose veins of right lower extremities with other complications
+37857,DRG13002,I83892,Varicose veins of left lower extremities with other complications
+37858,DRG13002,I83893,Varicose veins of bilateral lower extremities with other complications
+37859,DRG13002,I83899,Varicose veins of unspecified lower extremities with other complications
+37860,DRG13002,I8390,Asymptomatic varicose veins of unspecified lower extremity
+37861,DRG13002,I8391,Asymptomatic varicose veins of right lower extremity
+37862,DRG13002,I8392,Asymptomatic varicose veins of left lower extremity
+37863,DRG13002,I8393,Asymptomatic varicose veins of bilateral lower extremities
+37864,DRG13002,I860,Sublingual varices
+37865,DRG13002,I864,Gastric varices
+37866,DRG13002,I868,Varicose veins of other specified sites
+37867,DRG13002,I87001,Postthrombotic syndrome without complications of right lower extremity
+37868,DRG13002,I87002,Postthrombotic syndrome without complications of left lower extremity
+37869,DRG13002,I87003,Postthrombotic syndrome without complications of bilateral lower extremity
+37870,DRG13002,I87009,Postthrombotic syndrome without complications of unspecified extremity
+37871,DRG13002,I87011,Postthrombotic syndrome with ulcer of right lower extremity
+37872,DRG13002,I87012,Postthrombotic syndrome with ulcer of left lower extremity
+37873,DRG13002,I87013,Postthrombotic syndrome with ulcer of bilateral lower extremity
+37874,DRG13002,I87019,Postthrombotic syndrome with ulcer of unspecified lower extremity
+37875,DRG13002,I87021,Postthrombotic syndrome with inflammation of right lower extremity
+37876,DRG13002,I87022,Postthrombotic syndrome with inflammation of left lower extremity
+37877,DRG13002,I87023,Postthrombotic syndrome with inflammation of bilateral lower extremity
+37878,DRG13002,I87029,Postthrombotic syndrome with inflammation of unspecified lower extremity
+37879,DRG13002,I87031,Postthrombotic syndrome with ulcer and inflammation of right lower extremity
+37880,DRG13002,I87032,Postthrombotic syndrome with ulcer and inflammation of left lower extremity
+37881,DRG13002,I87033,Postthrombotic syndrome with ulcer and inflammation of bilateral lower extremity
+37882,DRG13002,I87039,Postthrombotic syndrome with ulcer and inflammation of unspecified lower extremity
+37883,DRG13002,I87091,Postthrombotic syndrome with other complications of right lower extremity
+37884,DRG13002,I87092,Postthrombotic syndrome with other complications of left lower extremity
+37885,DRG13002,I87093,Postthrombotic syndrome with other complications of bilateral lower extremity
+37886,DRG13002,I87099,Postthrombotic syndrome with other complications of unspecified lower extremity
+37887,DRG13002,I871,Compression of vein
+37888,DRG13002,I872,Venous insufficiency (chronic) (peripheral)
+37889,DRG13002,I96,"Gangrene, not elsewhere classified"
+37890,DRG13002,M318,Other specified necrotizing vasculopathies
+37891,DRG13002,M319,"Necrotizing vasculopathy, unspecified"
+37892,DRG13002,Q265,Anomalous portal venous connection
+37893,DRG13002,Q266,Portal vein-hepatic artery fistula
+37894,DRG13002,Q270,Congenital absence and hypoplasia of umbilical artery
+37895,DRG13002,Q271,Congenital renal artery stenosis
+37896,DRG13002,Q272,Other congenital malformations of renal artery
+37897,DRG13002,Q2730,"Arteriovenous malformation, site unspecified"
+37898,DRG13002,Q2731,Arteriovenous malformation of vessel of upper limb
+37899,DRG13002,Q2732,Arteriovenous malformation of vessel of lower limb
+37900,DRG13002,Q2733,Arteriovenous malformation of digestive system vessel
+37901,DRG13002,Q2734,Arteriovenous malformation of renal vessel
+37902,DRG13002,Q2739,"Arteriovenous malformation, other site"
+37903,DRG13002,Q274,Congenital phlebectasia
+37904,DRG13002,Q278,Other specified congenital malformations of peripheral vascular system
+37905,DRG13002,Q279,"Congenital malformation of peripheral vascular system, unspecified"
+37906,DRG13002,Q280,Arteriovenous malformation of precerebral vessels
+37907,DRG13002,Q281,Other malformations of precerebral vessels
+37908,DRG13002,Q288,Other specified congenital malformations of circulatory system
+37909,DRG13002,Q289,"Congenital malformation of circulatory system, unspecified"
+37910,DRG13002,S090XXS,"Injury of blood vessels of head, not elsewhere classified, sequela"
+37911,DRG13002,S15001S,"Unspecified injury of right carotid artery, sequela"
+37912,DRG13002,S15002S,"Unspecified injury of left carotid artery, sequela"
+37913,DRG13002,S15009S,"Unspecified injury of unspecified carotid artery, sequela"
+37914,DRG13002,S15011S,"Minor laceration of right carotid artery, sequela"
+37915,DRG13002,S15012S,"Minor laceration of left carotid artery, sequela"
+37916,DRG13002,S15019S,"Minor laceration of unspecified carotid artery, sequela"
+37917,DRG13002,S15021S,"Major laceration of right carotid artery, sequela"
+37918,DRG13002,S15022S,"Major laceration of left carotid artery, sequela"
+37919,DRG13002,S15029S,"Major laceration of unspecified carotid artery, sequela"
+37920,DRG13002,S15091S,"Other specified injury of right carotid artery, sequela"
+37921,DRG13002,S15092S,"Other specified injury of left carotid artery, sequela"
+37922,DRG13002,S15099S,"Other specified injury of unspecified carotid artery, sequela"
+37923,DRG13002,S15101S,"Unspecified injury of right vertebral artery, sequela"
+37924,DRG13002,S15102S,"Unspecified injury of left vertebral artery, sequela"
+37925,DRG13002,S15109S,"Unspecified injury of unspecified vertebral artery, sequela"
+37926,DRG13002,S15111S,"Minor laceration of right vertebral artery, sequela"
+37927,DRG13002,S15112S,"Minor laceration of left vertebral artery, sequela"
+37928,DRG13002,S15119S,"Minor laceration of unspecified vertebral artery, sequela"
+37929,DRG13002,S15121S,"Major laceration of right vertebral artery, sequela"
+37930,DRG13002,S15122S,"Major laceration of left vertebral artery, sequela"
+37931,DRG13002,S15129S,"Major laceration of unspecified vertebral artery, sequela"
+37932,DRG13002,S15191S,"Other specified injury of right vertebral artery, sequela"
+37933,DRG13002,S15192S,"Other specified injury of left vertebral artery, sequela"
+37934,DRG13002,S15199S,"Other specified injury of unspecified vertebral artery, sequela"
+37935,DRG13002,S15201S,"Unspecified injury of right external jugular vein, sequela"
+37936,DRG13002,S15202S,"Unspecified injury of left external jugular vein, sequela"
+37937,DRG13002,S15209S,"Unspecified injury of unspecified external jugular vein, sequela"
+37938,DRG13002,S15211S,"Minor laceration of right external jugular vein, sequela"
+37939,DRG13002,S15212S,"Minor laceration of left external jugular vein, sequela"
+37940,DRG13002,S15219S,"Minor laceration of unspecified external jugular vein, sequela"
+37941,DRG13002,S15221S,"Major laceration of right external jugular vein, sequela"
+37942,DRG13002,S15222S,"Major laceration of left external jugular vein, sequela"
+37943,DRG13002,S15229S,"Major laceration of unspecified external jugular vein, sequela"
+37944,DRG13002,S15291S,"Other specified injury of right external jugular vein, sequela"
+37945,DRG13002,S15292S,"Other specified injury of left external jugular vein, sequela"
+37946,DRG13002,S15299S,"Other specified injury of unspecified external jugular vein, sequela"
+37947,DRG13002,S15301S,"Unspecified injury of right internal jugular vein, sequela"
+37948,DRG13002,S15302S,"Unspecified injury of left internal jugular vein, sequela"
+37949,DRG13002,S15309S,"Unspecified injury of unspecified internal jugular vein, sequela"
+37950,DRG13002,S15311S,"Minor laceration of right internal jugular vein, sequela"
+37951,DRG13002,S15312S,"Minor laceration of left internal jugular vein, sequela"
+37952,DRG13002,S15319S,"Minor laceration of unspecified internal jugular vein, sequela"
+37953,DRG13002,S15321S,"Major laceration of right internal jugular vein, sequela"
+37954,DRG13002,S15322S,"Major laceration of left internal jugular vein, sequela"
+37955,DRG13002,S15329S,"Major laceration of unspecified internal jugular vein, sequela"
+37956,DRG13002,S15391S,"Other specified injury of right internal jugular vein, sequela"
+37957,DRG13002,S15392S,"Other specified injury of left internal jugular vein, sequela"
+37958,DRG13002,S15399S,"Other specified injury of unspecified internal jugular vein, sequela"
+37959,DRG13002,S158XXS,"Injury of other specified blood vessels at neck level, sequela"
+37960,DRG13002,S159XXS,"Injury of unspecified blood vessel at neck level, sequela"
+37961,DRG13002,S2500XS,"Unspecified injury of thoracic aorta, sequela"
+37962,DRG13002,S2501XS,"Minor laceration of thoracic aorta, sequela"
+37963,DRG13002,S2502XS,"Major laceration of thoracic aorta, sequela"
+37964,DRG13002,S2509XS,"Other specified injury of thoracic aorta, sequela"
+37965,DRG13002,S25101S,"Unspecified injury of right innominate or subclavian artery, sequela"
+37966,DRG13002,S25102S,"Unspecified injury of left innominate or subclavian artery, sequela"
+37967,DRG13002,S25109S,"Unspecified injury of unspecified innominate or subclavian artery, sequela"
+37968,DRG13002,S25111S,"Minor laceration of right innominate or subclavian artery, sequela"
+37969,DRG13002,S25112S,"Minor laceration of left innominate or subclavian artery, sequela"
+37970,DRG13002,S25119S,"Minor laceration of unspecified innominate or subclavian artery, sequela"
+37971,DRG13002,S25121S,"Major laceration of right innominate or subclavian artery, sequela"
+37972,DRG13002,S25122S,"Major laceration of left innominate or subclavian artery, sequela"
+37973,DRG13002,S25129S,"Major laceration of unspecified innominate or subclavian artery, sequela"
+37974,DRG13002,S25191S,"Other specified injury of right innominate or subclavian artery, sequela"
+37975,DRG13002,S25192S,"Other specified injury of left innominate or subclavian artery, sequela"
+37976,DRG13002,S25199S,"Other specified injury of unspecified innominate or subclavian artery, sequela"
+37977,DRG13002,S2520XS,"Unspecified injury of superior vena cava, sequela"
+37978,DRG13002,S2521XS,"Minor laceration of superior vena cava, sequela"
+37979,DRG13002,S2522XS,"Major laceration of superior vena cava, sequela"
+37980,DRG13002,S2529XS,"Other specified injury of superior vena cava, sequela"
+37981,DRG13002,S25301S,"Unspecified injury of right innominate or subclavian vein, sequela"
+37982,DRG13002,S25302S,"Unspecified injury of left innominate or subclavian vein, sequela"
+37983,DRG13002,S25309S,"Unspecified injury of unspecified innominate or subclavian vein, sequela"
+37984,DRG13002,S25311S,"Minor laceration of right innominate or subclavian vein, sequela"
+37985,DRG13002,S25312S,"Minor laceration of left innominate or subclavian vein, sequela"
+37986,DRG13002,S25319S,"Minor laceration of unspecified innominate or subclavian vein, sequela"
+37987,DRG13002,S25321S,"Major laceration of right innominate or subclavian vein, sequela"
+37988,DRG13002,S25322S,"Major laceration of left innominate or subclavian vein, sequela"
+37989,DRG13002,S25329S,"Major laceration of unspecified innominate or subclavian vein, sequela"
+37990,DRG13002,S25391S,"Other specified injury of right innominate or subclavian vein, sequela"
+37991,DRG13002,S25392S,"Other specified injury of left innominate or subclavian vein, sequela"
+37992,DRG13002,S25399S,"Other specified injury of unspecified innominate or subclavian vein, sequela"
+37993,DRG13002,S25401S,"Unspecified injury of right pulmonary blood vessels, sequela"
+37994,DRG13002,S25402S,"Unspecified injury of left pulmonary blood vessels, sequela"
+37995,DRG13002,S25409S,"Unspecified injury of unspecified pulmonary blood vessels, sequela"
+37996,DRG13002,S25411S,"Minor laceration of right pulmonary blood vessels, sequela"
+37997,DRG13002,S25412S,"Minor laceration of left pulmonary blood vessels, sequela"
+37998,DRG13002,S25419S,"Minor laceration of unspecified pulmonary blood vessels, sequela"
+37999,DRG13002,S25421S,"Major laceration of right pulmonary blood vessels, sequela"
+38000,DRG13002,S25422S,"Major laceration of left pulmonary blood vessels, sequela"
+38001,DRG13002,S25429S,"Major laceration of unspecified pulmonary blood vessels, sequela"
+38002,DRG13002,S25491S,"Other specified injury of right pulmonary blood vessels, sequela"
+38003,DRG13002,S25492S,"Other specified injury of left pulmonary blood vessels, sequela"
+38004,DRG13002,S25499S,"Other specified injury of unspecified pulmonary blood vessels, sequela"
+38005,DRG13002,S25501S,"Unspecified injury of intercostal blood vessels, right side, sequela"
+38006,DRG13002,S25502S,"Unspecified injury of intercostal blood vessels, left side, sequela"
+38007,DRG13002,S25509S,"Unspecified injury of intercostal blood vessels, unspecified side, sequela"
+38008,DRG13002,S25511S,"Laceration of intercostal blood vessels, right side, sequela"
+38009,DRG13002,S25512S,"Laceration of intercostal blood vessels, left side, sequela"
+38010,DRG13002,S25519S,"Laceration of intercostal blood vessels, unspecified side, sequela"
+38011,DRG13002,S25591S,"Other specified injury of intercostal blood vessels, right side, sequela"
+38012,DRG13002,S25592S,"Other specified injury of intercostal blood vessels, left side, sequela"
+38013,DRG13002,S25599S,"Other specified injury of intercostal blood vessels, unspecified side, sequela"
+38014,DRG13002,S25801S,"Unspecified injury of other blood vessels of thorax, right side, sequela"
+38015,DRG13002,S25802S,"Unspecified injury of other blood vessels of thorax, left side, sequela"
+38016,DRG13002,S25809S,"Unspecified injury of other blood vessels of thorax, unspecified side, sequela"
+38017,DRG13002,S25811S,"Laceration of other blood vessels of thorax, right side, sequela"
+38018,DRG13002,S25812S,"Laceration of other blood vessels of thorax, left side, sequela"
+38019,DRG13002,S25819S,"Laceration of other blood vessels of thorax, unspecified side, sequela"
+38020,DRG13002,S25891S,"Other specified injury of other blood vessels of thorax, right side, sequela"
+38021,DRG13002,S25892S,"Other specified injury of other blood vessels of thorax, left side, sequela"
+38022,DRG13002,S25899S,"Other specified injury of other blood vessels of thorax, unspecified side, sequela"
+38023,DRG13002,S2590XS,"Unspecified injury of unspecified blood vessel of thorax, sequela"
+38024,DRG13002,S2591XS,"Laceration of unspecified blood vessel of thorax, sequela"
+38025,DRG13002,S2599XS,"Other specified injury of unspecified blood vessel of thorax, sequela"
+38026,DRG13002,S3500XS,"Unspecified injury of abdominal aorta, sequela"
+38027,DRG13002,S3501XS,"Minor laceration of abdominal aorta, sequela"
+38028,DRG13002,S3502XS,"Major laceration of abdominal aorta, sequela"
+38029,DRG13002,S3509XS,"Other injury of abdominal aorta, sequela"
+38030,DRG13002,S3510XS,"Unspecified injury of inferior vena cava, sequela"
+38031,DRG13002,S3511XS,"Minor laceration of inferior vena cava, sequela"
+38032,DRG13002,S3512XS,"Major laceration of inferior vena cava, sequela"
+38033,DRG13002,S3519XS,"Other injury of inferior vena cava, sequela"
+38034,DRG13002,S35211S,"Minor laceration of celiac artery, sequela"
+38035,DRG13002,S35212S,"Major laceration of celiac artery, sequela"
+38036,DRG13002,S35218S,"Other injury of celiac artery, sequela"
+38037,DRG13002,S35219S,"Unspecified injury of celiac artery, sequela"
+38038,DRG13002,S35221S,"Minor laceration of superior mesenteric artery, sequela"
+38039,DRG13002,S35222S,"Major laceration of superior mesenteric artery, sequela"
+38040,DRG13002,S35228S,"Other injury of superior mesenteric artery, sequela"
+38041,DRG13002,S35229S,"Unspecified injury of superior mesenteric artery, sequela"
+38042,DRG13002,S35231S,"Minor laceration of inferior mesenteric artery, sequela"
+38043,DRG13002,S35232S,"Major laceration of inferior mesenteric artery, sequela"
+38044,DRG13002,S35238S,"Other injury of inferior mesenteric artery, sequela"
+38045,DRG13002,S35239S,"Unspecified injury of inferior mesenteric artery, sequela"
+38046,DRG13002,S35291S,"Minor laceration of branches of celiac and mesenteric artery, sequela"
+38047,DRG13002,S35292S,"Major laceration of branches of celiac and mesenteric artery, sequela"
+38048,DRG13002,S35298S,"Other injury of branches of celiac and mesenteric artery, sequela"
+38049,DRG13002,S35299S,"Unspecified injury of branches of celiac and mesenteric artery, sequela"
+38050,DRG13002,S35311S,"Laceration of portal vein, sequela"
+38051,DRG13002,S35318S,"Other specified injury of portal vein, sequela"
+38052,DRG13002,S35319S,"Unspecified injury of portal vein, sequela"
+38053,DRG13002,S35321S,"Laceration of splenic vein, sequela"
+38054,DRG13002,S35328S,"Other specified injury of splenic vein, sequela"
+38055,DRG13002,S35329S,"Unspecified injury of splenic vein, sequela"
+38056,DRG13002,S35331S,"Laceration of superior mesenteric vein, sequela"
+38057,DRG13002,S35338S,"Other specified injury of superior mesenteric vein, sequela"
+38058,DRG13002,S35339S,"Unspecified injury of superior mesenteric vein, sequela"
+38059,DRG13002,S35341S,"Laceration of inferior mesenteric vein, sequela"
+38060,DRG13002,S35348S,"Other specified injury of inferior mesenteric vein, sequela"
+38061,DRG13002,S35349S,"Unspecified injury of inferior mesenteric vein, sequela"
+38062,DRG13002,S35401S,"Unspecified injury of right renal artery, sequela"
+38063,DRG13002,S35402S,"Unspecified injury of left renal artery, sequela"
+38064,DRG13002,S35403S,"Unspecified injury of unspecified renal artery, sequela"
+38065,DRG13002,S35404S,"Unspecified injury of right renal vein, sequela"
+38066,DRG13002,S35405S,"Unspecified injury of left renal vein, sequela"
+38067,DRG13002,S35406S,"Unspecified injury of unspecified renal vein, sequela"
+38068,DRG13002,S35411S,"Laceration of right renal artery, sequela"
+38069,DRG13002,S35412S,"Laceration of left renal artery, sequela"
+38070,DRG13002,S35413S,"Laceration of unspecified renal artery, sequela"
+38071,DRG13002,S35414S,"Laceration of right renal vein, sequela"
+38072,DRG13002,S35415S,"Laceration of left renal vein, sequela"
+38073,DRG13002,S35416S,"Laceration of unspecified renal vein, sequela"
+38074,DRG13002,S35491S,"Other specified injury of right renal artery, sequela"
+38075,DRG13002,S35492S,"Other specified injury of left renal artery, sequela"
+38076,DRG13002,S35493S,"Other specified injury of unspecified renal artery, sequela"
+38077,DRG13002,S35494S,"Other specified injury of right renal vein, sequela"
+38078,DRG13002,S35495S,"Other specified injury of left renal vein, sequela"
+38079,DRG13002,S35496S,"Other specified injury of unspecified renal vein, sequela"
+38080,DRG13002,S3550XS,"Injury of unspecified iliac blood vessel(s), sequela"
+38081,DRG13002,S35511S,"Injury of right iliac artery, sequela"
+38082,DRG13002,S35512S,"Injury of left iliac artery, sequela"
+38083,DRG13002,S35513S,"Injury of unspecified iliac artery, sequela"
+38084,DRG13002,S35514S,"Injury of right iliac vein, sequela"
+38085,DRG13002,S35515S,"Injury of left iliac vein, sequela"
+38086,DRG13002,S35516S,"Injury of unspecified iliac vein, sequela"
+38087,DRG13002,S35531S,"Injury of right uterine artery, sequela"
+38088,DRG13002,S35532S,"Injury of left uterine artery, sequela"
+38089,DRG13002,S35533S,"Injury of unspecified uterine artery, sequela"
+38090,DRG13002,S35534S,"Injury of right uterine vein, sequela"
+38091,DRG13002,S35535S,"Injury of left uterine vein, sequela"
+38092,DRG13002,S35536S,"Injury of unspecified uterine vein, sequela"
+38093,DRG13002,S3559XS,"Injury of other iliac blood vessels, sequela"
+38094,DRG13002,S358X1S,"Laceration of other blood vessels at abdomen, lower back and pelvis level, sequela"
+38095,DRG13002,S358X8S,"Other specified injury of other blood vessels at abdomen, lower back and pelvis level, sequela"
+38096,DRG13002,S358X9S,"Unspecified injury of other blood vessels at abdomen, lower back and pelvis level, sequela"
+38097,DRG13002,S3590XS,"Unspecified injury of unspecified blood vessel at abdomen, lower back and pelvis level, sequela"
+38098,DRG13002,S3591XS,"Laceration of unspecified blood vessel at abdomen, lower back and pelvis level, sequela"
+38099,DRG13002,S3599XS,"Other specified injury of unspecified blood vessel at abdomen, lower back and pelvis level, sequela"
+38100,DRG13002,S45001S,"Unspecified injury of axillary artery, right side, sequela"
+38101,DRG13002,S45002S,"Unspecified injury of axillary artery, left side, sequela"
+38102,DRG13002,S45009S,"Unspecified injury of axillary artery, unspecified side, sequela"
+38103,DRG13002,S45011S,"Laceration of axillary artery, right side, sequela"
+38104,DRG13002,S45012S,"Laceration of axillary artery, left side, sequela"
+38105,DRG13002,S45019S,"Laceration of axillary artery, unspecified side, sequela"
+38106,DRG13002,S45091S,"Other specified injury of axillary artery, right side, sequela"
+38107,DRG13002,S45092S,"Other specified injury of axillary artery, left side, sequela"
+38108,DRG13002,S45099S,"Other specified injury of axillary artery, unspecified side, sequela"
+38109,DRG13002,S45101S,"Unspecified injury of brachial artery, right side, sequela"
+38110,DRG13002,S45102S,"Unspecified injury of brachial artery, left side, sequela"
+38111,DRG13002,S45109S,"Unspecified injury of brachial artery, unspecified side, sequela"
+38112,DRG13002,S45111S,"Laceration of brachial artery, right side, sequela"
+38113,DRG13002,S45112S,"Laceration of brachial artery, left side, sequela"
+38114,DRG13002,S45119S,"Laceration of brachial artery, unspecified side, sequela"
+38115,DRG13002,S45191S,"Other specified injury of brachial artery, right side, sequela"
+38116,DRG13002,S45192S,"Other specified injury of brachial artery, left side, sequela"
+38117,DRG13002,S45199S,"Other specified injury of brachial artery, unspecified side, sequela"
+38118,DRG13002,S45201S,"Unspecified injury of axillary or brachial vein, right side, sequela"
+38119,DRG13002,S45202S,"Unspecified injury of axillary or brachial vein, left side, sequela"
+38120,DRG13002,S45209S,"Unspecified injury of axillary or brachial vein, unspecified side, sequela"
+38121,DRG13002,S45211S,"Laceration of axillary or brachial vein, right side, sequela"
+38122,DRG13002,S45212S,"Laceration of axillary or brachial vein, left side, sequela"
+38123,DRG13002,S45219S,"Laceration of axillary or brachial vein, unspecified side, sequela"
+38124,DRG13002,S45291S,"Other specified injury of axillary or brachial vein, right side, sequela"
+38125,DRG13002,S45292S,"Other specified injury of axillary or brachial vein, left side, sequela"
+38126,DRG13002,S45299S,"Other specified injury of axillary or brachial vein, unspecified side, sequela"
+38127,DRG13002,S45301S,"Unspecified injury of superficial vein at shoulder and upper arm level, right arm, sequela"
+38128,DRG13002,S45302S,"Unspecified injury of superficial vein at shoulder and upper arm level, left arm, sequela"
+38129,DRG13002,S45309S,"Unspecified injury of superficial vein at shoulder and upper arm level, unspecified arm, sequela"
+38130,DRG13002,S45311S,"Laceration of superficial vein at shoulder and upper arm level, right arm, sequela"
+38131,DRG13002,S45312S,"Laceration of superficial vein at shoulder and upper arm level, left arm, sequela"
+38132,DRG13002,S45319S,"Laceration of superficial vein at shoulder and upper arm level, unspecified arm, sequela"
+38133,DRG13002,S45391S,"Other specified injury of superficial vein at shoulder and upper arm level, right arm, sequela"
+38134,DRG13002,S45392S,"Other specified injury of superficial vein at shoulder and upper arm level, left arm, sequela"
+38135,DRG13002,S45399S,"Other specified injury of superficial vein at shoulder and upper arm level, unspecified arm, sequela"
+38136,DRG13002,S45801S,"Unspecified injury of other specified blood vessels at shoulder and upper arm level, right arm, sequela"
+38137,DRG13002,S45802S,"Unspecified injury of other specified blood vessels at shoulder and upper arm level, left arm, sequela"
+38138,DRG13002,S45809S,"Unspecified injury of other specified blood vessels at shoulder and upper arm level, unspecified arm, sequela"
+38139,DRG13002,S45811S,"Laceration of other specified blood vessels at shoulder and upper arm level, right arm, sequela"
+38140,DRG13002,S45812S,"Laceration of other specified blood vessels at shoulder and upper arm level, left arm, sequela"
+38141,DRG13002,S45819S,"Laceration of other specified blood vessels at shoulder and upper arm level, unspecified arm, sequela"
+38142,DRG13002,S45891S,"Other specified injury of other specified blood vessels at shoulder and upper arm level, right arm, sequela"
+38143,DRG13002,S45892S,"Other specified injury of other specified blood vessels at shoulder and upper arm level, left arm, sequela"
+38144,DRG13002,S45899S,"Other specified injury of other specified blood vessels at shoulder and upper arm level, unspecified arm, sequela"
+38145,DRG13002,S45901S,"Unspecified injury of unspecified blood vessel at shoulder and upper arm level, right arm, sequela"
+38146,DRG13002,S45902S,"Unspecified injury of unspecified blood vessel at shoulder and upper arm level, left arm, sequela"
+38147,DRG13002,S45909S,"Unspecified injury of unspecified blood vessel at shoulder and upper arm level, unspecified arm, sequela"
+38148,DRG13002,S45911S,"Laceration of unspecified blood vessel at shoulder and upper arm level, right arm, sequela"
+38149,DRG13002,S45912S,"Laceration of unspecified blood vessel at shoulder and upper arm level, left arm, sequela"
+38150,DRG13002,S45919S,"Laceration of unspecified blood vessel at shoulder and upper arm level, unspecified arm, sequela"
+38151,DRG13002,S45991S,"Other specified injury of unspecified blood vessel at shoulder and upper arm level, right arm, sequela"
+38152,DRG13002,S45992S,"Other specified injury of unspecified blood vessel at shoulder and upper arm level, left arm, sequela"
+38153,DRG13002,S45999S,"Other specified injury of unspecified blood vessel at shoulder and upper arm level, unspecified arm, sequela"
+38154,DRG13002,S55001S,"Unspecified injury of ulnar artery at forearm level, right arm, sequela"
+38155,DRG13002,S55002S,"Unspecified injury of ulnar artery at forearm level, left arm, sequela"
+38156,DRG13002,S55009S,"Unspecified injury of ulnar artery at forearm level, unspecified arm, sequela"
+38157,DRG13002,S55011S,"Laceration of ulnar artery at forearm level, right arm, sequela"
+38158,DRG13002,S55012S,"Laceration of ulnar artery at forearm level, left arm, sequela"
+38159,DRG13002,S55019S,"Laceration of ulnar artery at forearm level, unspecified arm, sequela"
+38160,DRG13002,S55091S,"Other specified injury of ulnar artery at forearm level, right arm, sequela"
+38161,DRG13002,S55092S,"Other specified injury of ulnar artery at forearm level, left arm, sequela"
+38162,DRG13002,S55099S,"Other specified injury of ulnar artery at forearm level, unspecified arm, sequela"
+38163,DRG13002,S55101S,"Unspecified injury of radial artery at forearm level, right arm, sequela"
+38164,DRG13002,S55102S,"Unspecified injury of radial artery at forearm level, left arm, sequela"
+38165,DRG13002,S55109S,"Unspecified injury of radial artery at forearm level, unspecified arm, sequela"
+38166,DRG13002,S55111S,"Laceration of radial artery at forearm level, right arm, sequela"
+38167,DRG13002,S55112S,"Laceration of radial artery at forearm level, left arm, sequela"
+38168,DRG13002,S55119S,"Laceration of radial artery at forearm level, unspecified arm, sequela"
+38169,DRG13002,S55191S,"Other specified injury of radial artery at forearm level, right arm, sequela"
+38170,DRG13002,S55192S,"Other specified injury of radial artery at forearm level, left arm, sequela"
+38171,DRG13002,S55199S,"Other specified injury of radial artery at forearm level, unspecified arm, sequela"
+38172,DRG13002,S55201S,"Unspecified injury of vein at forearm level, right arm, sequela"
+38173,DRG13002,S55202S,"Unspecified injury of vein at forearm level, left arm, sequela"
+38174,DRG13002,S55209S,"Unspecified injury of vein at forearm level, unspecified arm, sequela"
+38175,DRG13002,S55211S,"Laceration of vein at forearm level, right arm, sequela"
+38176,DRG13002,S55212S,"Laceration of vein at forearm level, left arm, sequela"
+38177,DRG13002,S55219S,"Laceration of vein at forearm level, unspecified arm, sequela"
+38178,DRG13002,S55291S,"Other specified injury of vein at forearm level, right arm, sequela"
+38179,DRG13002,S55292S,"Other specified injury of vein at forearm level, left arm, sequela"
+38180,DRG13002,S55299S,"Other specified injury of vein at forearm level, unspecified arm, sequela"
+38181,DRG13002,S55801S,"Unspecified injury of other blood vessels at forearm level, right arm, sequela"
+38182,DRG13002,S55802S,"Unspecified injury of other blood vessels at forearm level, left arm, sequela"
+38183,DRG13002,S55809S,"Unspecified injury of other blood vessels at forearm level, unspecified arm, sequela"
+38184,DRG13002,S55811S,"Laceration of other blood vessels at forearm level, right arm, sequela"
+38185,DRG13002,S55812S,"Laceration of other blood vessels at forearm level, left arm, sequela"
+38186,DRG13002,S55819S,"Laceration of other blood vessels at forearm level, unspecified arm, sequela"
+38187,DRG13002,S55891S,"Other specified injury of other blood vessels at forearm level, right arm, sequela"
+38188,DRG13002,S55892S,"Other specified injury of other blood vessels at forearm level, left arm, sequela"
+38189,DRG13002,S55899S,"Other specified injury of other blood vessels at forearm level, unspecified arm, sequela"
+38190,DRG13002,S55901S,"Unspecified injury of unspecified blood vessel at forearm level, right arm, sequela"
+38191,DRG13002,S55902S,"Unspecified injury of unspecified blood vessel at forearm level, left arm, sequela"
+38192,DRG13002,S55909S,"Unspecified injury of unspecified blood vessel at forearm level, unspecified arm, sequela"
+38193,DRG13002,S55911S,"Laceration of unspecified blood vessel at forearm level, right arm, sequela"
+38194,DRG13002,S55912S,"Laceration of unspecified blood vessel at forearm level, left arm, sequela"
+38195,DRG13002,S55919S,"Laceration of unspecified blood vessel at forearm level, unspecified arm, sequela"
+38196,DRG13002,S55991S,"Other specified injury of unspecified blood vessel at forearm level, right arm, sequela"
+38197,DRG13002,S55992S,"Other specified injury of unspecified blood vessel at forearm level, left arm, sequela"
+38198,DRG13002,S55999S,"Other specified injury of unspecified blood vessel at forearm level, unspecified arm, sequela"
+38199,DRG13002,S65001S,"Unspecified injury of ulnar artery at wrist and hand level of right arm, sequela"
+38200,DRG13002,S65002S,"Unspecified injury of ulnar artery at wrist and hand level of left arm, sequela"
+38201,DRG13002,S65009S,"Unspecified injury of ulnar artery at wrist and hand level of unspecified arm, sequela"
+38202,DRG13002,S65011S,"Laceration of ulnar artery at wrist and hand level of right arm, sequela"
+38203,DRG13002,S65012S,"Laceration of ulnar artery at wrist and hand level of left arm, sequela"
+38204,DRG13002,S65019S,"Laceration of ulnar artery at wrist and hand level of unspecified arm, sequela"
+38205,DRG13002,S65091S,"Other specified injury of ulnar artery at wrist and hand level of right arm, sequela"
+38206,DRG13002,S65092S,"Other specified injury of ulnar artery at wrist and hand level of left arm, sequela"
+38207,DRG13002,S65099S,"Other specified injury of ulnar artery at wrist and hand level of unspecified arm, sequela"
+38208,DRG13002,S65101S,"Unspecified injury of radial artery at wrist and hand level of right arm, sequela"
+38209,DRG13002,S65102S,"Unspecified injury of radial artery at wrist and hand level of left arm, sequela"
+38210,DRG13002,S65109S,"Unspecified injury of radial artery at wrist and hand level of unspecified arm, sequela"
+38211,DRG13002,S65111S,"Laceration of radial artery at wrist and hand level of right arm, sequela"
+38212,DRG13002,S65112S,"Laceration of radial artery at wrist and hand level of left arm, sequela"
+38213,DRG13002,S65119S,"Laceration of radial artery at wrist and hand level of unspecified arm, sequela"
+38214,DRG13002,S65191S,"Other specified injury of radial artery at wrist and hand level of right arm, sequela"
+38215,DRG13002,S65192S,"Other specified injury of radial artery at wrist and hand level of left arm, sequela"
+38216,DRG13002,S65199S,"Other specified injury of radial artery at wrist and hand level of unspecified arm, sequela"
+38217,DRG13002,S65201S,"Unspecified injury of superficial palmar arch of right hand, sequela"
+38218,DRG13002,S65202S,"Unspecified injury of superficial palmar arch of left hand, sequela"
+38219,DRG13002,S65209S,"Unspecified injury of superficial palmar arch of unspecified hand, sequela"
+38220,DRG13002,S65211S,"Laceration of superficial palmar arch of right hand, sequela"
+38221,DRG13002,S65212S,"Laceration of superficial palmar arch of left hand, sequela"
+38222,DRG13002,S65219S,"Laceration of superficial palmar arch of unspecified hand, sequela"
+38223,DRG13002,S65291S,"Other specified injury of superficial palmar arch of right hand, sequela"
+38224,DRG13002,S65292S,"Other specified injury of superficial palmar arch of left hand, sequela"
+38225,DRG13002,S65299S,"Other specified injury of superficial palmar arch of unspecified hand, sequela"
+38226,DRG13002,S65301S,"Unspecified injury of deep palmar arch of right hand, sequela"
+38227,DRG13002,S65302S,"Unspecified injury of deep palmar arch of left hand, sequela"
+38228,DRG13002,S65309S,"Unspecified injury of deep palmar arch of unspecified hand, sequela"
+38229,DRG13002,S65311S,"Laceration of deep palmar arch of right hand, sequela"
+38230,DRG13002,S65312S,"Laceration of deep palmar arch of left hand, sequela"
+38231,DRG13002,S65319S,"Laceration of deep palmar arch of unspecified hand, sequela"
+38232,DRG13002,S65391S,"Other specified injury of deep palmar arch of right hand, sequela"
+38233,DRG13002,S65392S,"Other specified injury of deep palmar arch of left hand, sequela"
+38234,DRG13002,S65399S,"Other specified injury of deep palmar arch of unspecified hand, sequela"
+38235,DRG13002,S65401S,"Unspecified injury of blood vessel of right thumb, sequela"
+38236,DRG13002,S65402S,"Unspecified injury of blood vessel of left thumb, sequela"
+38237,DRG13002,S65409S,"Unspecified injury of blood vessel of unspecified thumb, sequela"
+38238,DRG13002,S65411S,"Laceration of blood vessel of right thumb, sequela"
+38239,DRG13002,S65412S,"Laceration of blood vessel of left thumb, sequela"
+38240,DRG13002,S65419S,"Laceration of blood vessel of unspecified thumb, sequela"
+38241,DRG13002,S65491S,"Other specified injury of blood vessel of right thumb, sequela"
+38242,DRG13002,S65492S,"Other specified injury of blood vessel of left thumb, sequela"
+38243,DRG13002,S65499S,"Other specified injury of blood vessel of unspecified thumb, sequela"
+38244,DRG13002,S65500S,"Unspecified injury of blood vessel of right index finger, sequela"
+38245,DRG13002,S65501S,"Unspecified injury of blood vessel of left index finger, sequela"
+38246,DRG13002,S65502S,"Unspecified injury of blood vessel of right middle finger, sequela"
+38247,DRG13002,S65503S,"Unspecified injury of blood vessel of left middle finger, sequela"
+38248,DRG13002,S65504S,"Unspecified injury of blood vessel of right ring finger, sequela"
+38249,DRG13002,S65505S,"Unspecified injury of blood vessel of left ring finger, sequela"
+38250,DRG13002,S65506S,"Unspecified injury of blood vessel of right little finger, sequela"
+38251,DRG13002,S65507S,"Unspecified injury of blood vessel of left little finger, sequela"
+38252,DRG13002,S65508S,"Unspecified injury of blood vessel of other finger, sequela"
+38253,DRG13002,S65509S,"Unspecified injury of blood vessel of unspecified finger, sequela"
+38254,DRG13002,S65510S,"Laceration of blood vessel of right index finger, sequela"
+38255,DRG13002,S65511S,"Laceration of blood vessel of left index finger, sequela"
+38256,DRG13002,S65512S,"Laceration of blood vessel of right middle finger, sequela"
+38257,DRG13002,S65513S,"Laceration of blood vessel of left middle finger, sequela"
+38258,DRG13002,S65514S,"Laceration of blood vessel of right ring finger, sequela"
+38259,DRG13002,S65515S,"Laceration of blood vessel of left ring finger, sequela"
+38260,DRG13002,S65516S,"Laceration of blood vessel of right little finger, sequela"
+38261,DRG13002,S65517S,"Laceration of blood vessel of left little finger, sequela"
+38262,DRG13002,S65518S,"Laceration of blood vessel of other finger, sequela"
+38263,DRG13002,S65519S,"Laceration of blood vessel of unspecified finger, sequela"
+38264,DRG13002,S65590S,"Other specified injury of blood vessel of right index finger, sequela"
+38265,DRG13002,S65591S,"Other specified injury of blood vessel of left index finger, sequela"
+38266,DRG13002,S65592S,"Other specified injury of blood vessel of right middle finger, sequela"
+38267,DRG13002,S65593S,"Other specified injury of blood vessel of left middle finger, sequela"
+38268,DRG13002,S65594S,"Other specified injury of blood vessel of right ring finger, sequela"
+38269,DRG13002,S65595S,"Other specified injury of blood vessel of left ring finger, sequela"
+38270,DRG13002,S65596S,"Other specified injury of blood vessel of right little finger, sequela"
+38271,DRG13002,S65597S,"Other specified injury of blood vessel of left little finger, sequela"
+38272,DRG13002,S65598S,"Other specified injury of blood vessel of other finger, sequela"
+38273,DRG13002,S65599S,"Other specified injury of blood vessel of unspecified finger, sequela"
+38274,DRG13002,S65801S,"Unspecified injury of other blood vessels at wrist and hand level of right arm, sequela"
+38275,DRG13002,S65802S,"Unspecified injury of other blood vessels at wrist and hand level of left arm, sequela"
+38276,DRG13002,S65809S,"Unspecified injury of other blood vessels at wrist and hand level of unspecified arm, sequela"
+38277,DRG13002,S65811S,"Laceration of other blood vessels at wrist and hand level of right arm, sequela"
+38278,DRG13002,S65812S,"Laceration of other blood vessels at wrist and hand level of left arm, sequela"
+38279,DRG13002,S65819S,"Laceration of other blood vessels at wrist and hand level of unspecified arm, sequela"
+38280,DRG13002,S65891S,"Other specified injury of other blood vessels at wrist and hand level of right arm, sequela"
+38281,DRG13002,S65892S,"Other specified injury of other blood vessels at wrist and hand level of left arm, sequela"
+38282,DRG13002,S65899S,"Other specified injury of other blood vessels at wrist and hand level of unspecified arm, sequela"
+38283,DRG13002,S65901S,"Unspecified injury of unspecified blood vessel at wrist and hand level of right arm, sequela"
+38284,DRG13002,S65902S,"Unspecified injury of unspecified blood vessel at wrist and hand level of left arm, sequela"
+38285,DRG13002,S65909S,"Unspecified injury of unspecified blood vessel at wrist and hand level of unspecified arm, sequela"
+38286,DRG13002,S65911S,"Laceration of unspecified blood vessel at wrist and hand level of right arm, sequela"
+38287,DRG13002,S65912S,"Laceration of unspecified blood vessel at wrist and hand level of left arm, sequela"
+38288,DRG13002,S65919S,"Laceration of unspecified blood vessel at wrist and hand level of unspecified arm, sequela"
+38289,DRG13002,S65991S,"Other specified injury of unspecified blood vessel at wrist and hand of right arm, sequela"
+38290,DRG13002,S65992S,"Other specified injury of unspecified blood vessel at wrist and hand of left arm, sequela"
+38291,DRG13002,S65999S,"Other specified injury of unspecified blood vessel at wrist and hand of unspecified arm, sequela"
+38292,DRG13002,S75001S,"Unspecified injury of femoral artery, right leg, sequela"
+38293,DRG13002,S75002S,"Unspecified injury of femoral artery, left leg, sequela"
+38294,DRG13002,S75009S,"Unspecified injury of femoral artery, unspecified leg, sequela"
+38295,DRG13002,S75011S,"Minor laceration of femoral artery, right leg, sequela"
+38296,DRG13002,S75012S,"Minor laceration of femoral artery, left leg, sequela"
+38297,DRG13002,S75019S,"Minor laceration of femoral artery, unspecified leg, sequela"
+38298,DRG13002,S75021S,"Major laceration of femoral artery, right leg, sequela"
+38299,DRG13002,S75022S,"Major laceration of femoral artery, left leg, sequela"
+38300,DRG13002,S75029S,"Major laceration of femoral artery, unspecified leg, sequela"
+38301,DRG13002,S75091S,"Other specified injury of femoral artery, right leg, sequela"
+38302,DRG13002,S75092S,"Other specified injury of femoral artery, left leg, sequela"
+38303,DRG13002,S75099S,"Other specified injury of femoral artery, unspecified leg, sequela"
+38304,DRG13002,S75101S,"Unspecified injury of femoral vein at hip and thigh level, right leg, sequela"
+38305,DRG13002,S75102S,"Unspecified injury of femoral vein at hip and thigh level, left leg, sequela"
+38306,DRG13002,S75109S,"Unspecified injury of femoral vein at hip and thigh level, unspecified leg, sequela"
+38307,DRG13002,S75111S,"Minor laceration of femoral vein at hip and thigh level, right leg, sequela"
+38308,DRG13002,S75112S,"Minor laceration of femoral vein at hip and thigh level, left leg, sequela"
+38309,DRG13002,S75119S,"Minor laceration of femoral vein at hip and thigh level, unspecified leg, sequela"
+38310,DRG13002,S75121S,"Major laceration of femoral vein at hip and thigh level, right leg, sequela"
+38311,DRG13002,S75122S,"Major laceration of femoral vein at hip and thigh level, left leg, sequela"
+38312,DRG13002,S75129S,"Major laceration of femoral vein at hip and thigh level, unspecified leg, sequela"
+38313,DRG13002,S75191S,"Other specified injury of femoral vein at hip and thigh level, right leg, sequela"
+38314,DRG13002,S75192S,"Other specified injury of femoral vein at hip and thigh level, left leg, sequela"
+38315,DRG13002,S75199S,"Other specified injury of femoral vein at hip and thigh level, unspecified leg, sequela"
+38316,DRG13002,S75201S,"Unspecified injury of greater saphenous vein at hip and thigh level, right leg, sequela"
+38317,DRG13002,S75202S,"Unspecified injury of greater saphenous vein at hip and thigh level, left leg, sequela"
+38318,DRG13002,S75209S,"Unspecified injury of greater saphenous vein at hip and thigh level, unspecified leg, sequela"
+38319,DRG13002,S75211S,"Minor laceration of greater saphenous vein at hip and thigh level, right leg, sequela"
+38320,DRG13002,S75212S,"Minor laceration of greater saphenous vein at hip and thigh level, left leg, sequela"
+38321,DRG13002,S75219S,"Minor laceration of greater saphenous vein at hip and thigh level, unspecified leg, sequela"
+38322,DRG13002,S75221S,"Major laceration of greater saphenous vein at hip and thigh level, right leg, sequela"
+38323,DRG13002,S75222S,"Major laceration of greater saphenous vein at hip and thigh level, left leg, sequela"
+38324,DRG13002,S75229S,"Major laceration of greater saphenous vein at hip and thigh level, unspecified leg, sequela"
+38325,DRG13002,S75291S,"Other specified injury of greater saphenous vein at hip and thigh level, right leg, sequela"
+38326,DRG13002,S75292S,"Other specified injury of greater saphenous vein at hip and thigh level, left leg, sequela"
+38327,DRG13002,S75299S,"Other specified injury of greater saphenous vein at hip and thigh level, unspecified leg, sequela"
+38328,DRG13002,S75801S,"Unspecified injury of other blood vessels at hip and thigh level, right leg, sequela"
+38329,DRG13002,S75802S,"Unspecified injury of other blood vessels at hip and thigh level, left leg, sequela"
+38330,DRG13002,S75809S,"Unspecified injury of other blood vessels at hip and thigh level, unspecified leg, sequela"
+38331,DRG13002,S75811S,"Laceration of other blood vessels at hip and thigh level, right leg, sequela"
+38332,DRG13002,S75812S,"Laceration of other blood vessels at hip and thigh level, left leg, sequela"
+38333,DRG13002,S75819S,"Laceration of other blood vessels at hip and thigh level, unspecified leg, sequela"
+38334,DRG13002,S75891S,"Other specified injury of other blood vessels at hip and thigh level, right leg, sequela"
+38335,DRG13002,S75892S,"Other specified injury of other blood vessels at hip and thigh level, left leg, sequela"
+38336,DRG13002,S75899S,"Other specified injury of other blood vessels at hip and thigh level, unspecified leg, sequela"
+38337,DRG13002,S75901S,"Unspecified injury of unspecified blood vessel at hip and thigh level, right leg, sequela"
+38338,DRG13002,S75902S,"Unspecified injury of unspecified blood vessel at hip and thigh level, left leg, sequela"
+38339,DRG13002,S75909S,"Unspecified injury of unspecified blood vessel at hip and thigh level, unspecified leg, sequela"
+38340,DRG13002,S75911S,"Laceration of unspecified blood vessel at hip and thigh level, right leg, sequela"
+38341,DRG13002,S75912S,"Laceration of unspecified blood vessel at hip and thigh level, left leg, sequela"
+38342,DRG13002,S75919S,"Laceration of unspecified blood vessel at hip and thigh level, unspecified leg, sequela"
+38343,DRG13002,S75991S,"Other specified injury of unspecified blood vessel at hip and thigh level, right leg, sequela"
+38344,DRG13002,S75992S,"Other specified injury of unspecified blood vessel at hip and thigh level, left leg, sequela"
+38345,DRG13002,S75999S,"Other specified injury of unspecified blood vessel at hip and thigh level, unspecified leg, sequela"
+38346,DRG13002,S85001S,"Unspecified injury of popliteal artery, right leg, sequela"
+38347,DRG13002,S85002S,"Unspecified injury of popliteal artery, left leg, sequela"
+38348,DRG13002,S85009S,"Unspecified injury of popliteal artery, unspecified leg, sequela"
+38349,DRG13002,S85011S,"Laceration of popliteal artery, right leg, sequela"
+38350,DRG13002,S85012S,"Laceration of popliteal artery, left leg, sequela"
+38351,DRG13002,S85019S,"Laceration of popliteal artery, unspecified leg, sequela"
+38352,DRG13002,S85091S,"Other specified injury of popliteal artery, right leg, sequela"
+38353,DRG13002,S85092S,"Other specified injury of popliteal artery, left leg, sequela"
+38354,DRG13002,S85099S,"Other specified injury of popliteal artery, unspecified leg, sequela"
+38355,DRG13002,S85101S,"Unspecified injury of unspecified tibial artery, right leg, sequela"
+38356,DRG13002,S85102S,"Unspecified injury of unspecified tibial artery, left leg, sequela"
+38357,DRG13002,S85109S,"Unspecified injury of unspecified tibial artery, unspecified leg, sequela"
+38358,DRG13002,S85111S,"Laceration of unspecified tibial artery, right leg, sequela"
+38359,DRG13002,S85112S,"Laceration of unspecified tibial artery, left leg, sequela"
+38360,DRG13002,S85119S,"Laceration of unspecified tibial artery, unspecified leg, sequela"
+38361,DRG13002,S85121S,"Other specified injury of unspecified tibial artery, right leg, sequela"
+38362,DRG13002,S85122S,"Other specified injury of unspecified tibial artery, left leg, sequela"
+38363,DRG13002,S85129S,"Other specified injury of unspecified tibial artery, unspecified leg, sequela"
+38364,DRG13002,S85131S,"Unspecified injury of anterior tibial artery, right leg, sequela"
+38365,DRG13002,S85132S,"Unspecified injury of anterior tibial artery, left leg, sequela"
+38366,DRG13002,S85139S,"Unspecified injury of anterior tibial artery, unspecified leg, sequela"
+38367,DRG13002,S85141S,"Laceration of anterior tibial artery, right leg, sequela"
+38368,DRG13002,S85142S,"Laceration of anterior tibial artery, left leg, sequela"
+38369,DRG13002,S85149S,"Laceration of anterior tibial artery, unspecified leg, sequela"
+38370,DRG13002,S85151S,"Other specified injury of anterior tibial artery, right leg, sequela"
+38371,DRG13002,S85152S,"Other specified injury of anterior tibial artery, left leg, sequela"
+38372,DRG13002,S85159S,"Other specified injury of anterior tibial artery, unspecified leg, sequela"
+38373,DRG13002,S85161S,"Unspecified injury of posterior tibial artery, right leg, sequela"
+38374,DRG13002,S85162S,"Unspecified injury of posterior tibial artery, left leg, sequela"
+38375,DRG13002,S85169S,"Unspecified injury of posterior tibial artery, unspecified leg, sequela"
+38376,DRG13002,S85171S,"Laceration of posterior tibial artery, right leg, sequela"
+38377,DRG13002,S85172S,"Laceration of posterior tibial artery, left leg, sequela"
+38378,DRG13002,S85179S,"Laceration of posterior tibial artery, unspecified leg, sequela"
+38379,DRG13002,S85181S,"Other specified injury of posterior tibial artery, right leg, sequela"
+38380,DRG13002,S85182S,"Other specified injury of posterior tibial artery, left leg, sequela"
+38381,DRG13002,S85189S,"Other specified injury of posterior tibial artery, unspecified leg, sequela"
+38382,DRG13002,S85201S,"Unspecified injury of peroneal artery, right leg, sequela"
+38383,DRG13002,S85202S,"Unspecified injury of peroneal artery, left leg, sequela"
+38384,DRG13002,S85209S,"Unspecified injury of peroneal artery, unspecified leg, sequela"
+38385,DRG13002,S85211S,"Laceration of peroneal artery, right leg, sequela"
+38386,DRG13002,S85212S,"Laceration of peroneal artery, left leg, sequela"
+38387,DRG13002,S85219S,"Laceration of peroneal artery, unspecified leg, sequela"
+38388,DRG13002,S85291S,"Other specified injury of peroneal artery, right leg, sequela"
+38389,DRG13002,S85292S,"Other specified injury of peroneal artery, left leg, sequela"
+38390,DRG13002,S85299S,"Other specified injury of peroneal artery, unspecified leg, sequela"
+38391,DRG13002,S85301S,"Unspecified injury of greater saphenous vein at lower leg level, right leg, sequela"
+38392,DRG13002,S85302S,"Unspecified injury of greater saphenous vein at lower leg level, left leg, sequela"
+38393,DRG13002,S85309S,"Unspecified injury of greater saphenous vein at lower leg level, unspecified leg, sequela"
+38394,DRG13002,S85311S,"Laceration of greater saphenous vein at lower leg level, right leg, sequela"
+38395,DRG13002,S85312S,"Laceration of greater saphenous vein at lower leg level, left leg, sequela"
+38396,DRG13002,S85319S,"Laceration of greater saphenous vein at lower leg level, unspecified leg, sequela"
+38397,DRG13002,S85391S,"Other specified injury of greater saphenous vein at lower leg level, right leg, sequela"
+38398,DRG13002,S85392S,"Other specified injury of greater saphenous vein at lower leg level, left leg, sequela"
+38399,DRG13002,S85399S,"Other specified injury of greater saphenous vein at lower leg level, unspecified leg, sequela"
+38400,DRG13002,S85401S,"Unspecified injury of lesser saphenous vein at lower leg level, right leg, sequela"
+38401,DRG13002,S85402S,"Unspecified injury of lesser saphenous vein at lower leg level, left leg, sequela"
+38402,DRG13002,S85409S,"Unspecified injury of lesser saphenous vein at lower leg level, unspecified leg, sequela"
+38403,DRG13002,S85411S,"Laceration of lesser saphenous vein at lower leg level, right leg, sequela"
+38404,DRG13002,S85412S,"Laceration of lesser saphenous vein at lower leg level, left leg, sequela"
+38405,DRG13002,S85419S,"Laceration of lesser saphenous vein at lower leg level, unspecified leg, sequela"
+38406,DRG13002,S85491S,"Other specified injury of lesser saphenous vein at lower leg level, right leg, sequela"
+38407,DRG13002,S85492S,"Other specified injury of lesser saphenous vein at lower leg level, left leg, sequela"
+38408,DRG13002,S85499S,"Other specified injury of lesser saphenous vein at lower leg level, unspecified leg, sequela"
+38409,DRG13002,S85501S,"Unspecified injury of popliteal vein, right leg, sequela"
+38410,DRG13002,S85502S,"Unspecified injury of popliteal vein, left leg, sequela"
+38411,DRG13002,S85509S,"Unspecified injury of popliteal vein, unspecified leg, sequela"
+38412,DRG13002,S85511S,"Laceration of popliteal vein, right leg, sequela"
+38413,DRG13002,S85512S,"Laceration of popliteal vein, left leg, sequela"
+38414,DRG13002,S85519S,"Laceration of popliteal vein, unspecified leg, sequela"
+38415,DRG13002,S85591S,"Other specified injury of popliteal vein, right leg, sequela"
+38416,DRG13002,S85592S,"Other specified injury of popliteal vein, left leg, sequela"
+38417,DRG13002,S85599S,"Other specified injury of popliteal vein, unspecified leg, sequela"
+38418,DRG13002,S85801S,"Unspecified injury of other blood vessels at lower leg level, right leg, sequela"
+38419,DRG13002,S85802S,"Unspecified injury of other blood vessels at lower leg level, left leg, sequela"
+38420,DRG13002,S85809S,"Unspecified injury of other blood vessels at lower leg level, unspecified leg, sequela"
+38421,DRG13002,S85811S,"Laceration of other blood vessels at lower leg level, right leg, sequela"
+38422,DRG13002,S85812S,"Laceration of other blood vessels at lower leg level, left leg, sequela"
+38423,DRG13002,S85819S,"Laceration of other blood vessels at lower leg level, unspecified leg, sequela"
+38424,DRG13002,S85891S,"Other specified injury of other blood vessels at lower leg level, right leg, sequela"
+38425,DRG13002,S85892S,"Other specified injury of other blood vessels at lower leg level, left leg, sequela"
+38426,DRG13002,S85899S,"Other specified injury of other blood vessels at lower leg level, unspecified leg, sequela"
+38427,DRG13002,S85901S,"Unspecified injury of unspecified blood vessel at lower leg level, right leg, sequela"
+38428,DRG13002,S85902S,"Unspecified injury of unspecified blood vessel at lower leg level, left leg, sequela"
+38429,DRG13002,S85909S,"Unspecified injury of unspecified blood vessel at lower leg level, unspecified leg, sequela"
+38430,DRG13002,S85911S,"Laceration of unspecified blood vessel at lower leg level, right leg, sequela"
+38431,DRG13002,S85912S,"Laceration of unspecified blood vessel at lower leg level, left leg, sequela"
+38432,DRG13002,S85919S,"Laceration of unspecified blood vessel at lower leg level, unspecified leg, sequela"
+38433,DRG13002,S85991S,"Other specified injury of unspecified blood vessel at lower leg level, right leg, sequela"
+38434,DRG13002,S85992S,"Other specified injury of unspecified blood vessel at lower leg level, left leg, sequela"
+38435,DRG13002,S85999S,"Other specified injury of unspecified blood vessel at lower leg level, unspecified leg, sequela"
+38436,DRG13002,S95001S,"Unspecified injury of dorsal artery of right foot, sequela"
+38437,DRG13002,S95002S,"Unspecified injury of dorsal artery of left foot, sequela"
+38438,DRG13002,S95009S,"Unspecified injury of dorsal artery of unspecified foot, sequela"
+38439,DRG13002,S95011S,"Laceration of dorsal artery of right foot, sequela"
+38440,DRG13002,S95012S,"Laceration of dorsal artery of left foot, sequela"
+38441,DRG13002,S95019S,"Laceration of dorsal artery of unspecified foot, sequela"
+38442,DRG13002,S95091S,"Other specified injury of dorsal artery of right foot, sequela"
+38443,DRG13002,S95092S,"Other specified injury of dorsal artery of left foot, sequela"
+38444,DRG13002,S95099S,"Other specified injury of dorsal artery of unspecified foot, sequela"
+38445,DRG13002,S95101S,"Unspecified injury of plantar artery of right foot, sequela"
+38446,DRG13002,S95102S,"Unspecified injury of plantar artery of left foot, sequela"
+38447,DRG13002,S95109S,"Unspecified injury of plantar artery of unspecified foot, sequela"
+38448,DRG13002,S95111S,"Laceration of plantar artery of right foot, sequela"
+38449,DRG13002,S95112S,"Laceration of plantar artery of left foot, sequela"
+38450,DRG13002,S95119S,"Laceration of plantar artery of unspecified foot, sequela"
+38451,DRG13002,S95191S,"Other specified injury of plantar artery of right foot, sequela"
+38452,DRG13002,S95192S,"Other specified injury of plantar artery of left foot, sequela"
+38453,DRG13002,S95199S,"Other specified injury of plantar artery of unspecified foot, sequela"
+38454,DRG13002,S95201S,"Unspecified injury of dorsal vein of right foot, sequela"
+38455,DRG13002,S95202S,"Unspecified injury of dorsal vein of left foot, sequela"
+38456,DRG13002,S95209S,"Unspecified injury of dorsal vein of unspecified foot, sequela"
+38457,DRG13002,S95211S,"Laceration of dorsal vein of right foot, sequela"
+38458,DRG13002,S95212S,"Laceration of dorsal vein of left foot, sequela"
+38459,DRG13002,S95219S,"Laceration of dorsal vein of unspecified foot, sequela"
+38460,DRG13002,S95291S,"Other specified injury of dorsal vein of right foot, sequela"
+38461,DRG13002,S95292S,"Other specified injury of dorsal vein of left foot, sequela"
+38462,DRG13002,S95299S,"Other specified injury of dorsal vein of unspecified foot, sequela"
+38463,DRG13002,S95801S,"Unspecified injury of other blood vessels at ankle and foot level, right leg, sequela"
+38464,DRG13002,S95802S,"Unspecified injury of other blood vessels at ankle and foot level, left leg, sequela"
+38465,DRG13002,S95809S,"Unspecified injury of other blood vessels at ankle and foot level, unspecified leg, sequela"
+38466,DRG13002,S95811S,"Laceration of other blood vessels at ankle and foot level, right leg, sequela"
+38467,DRG13002,S95812S,"Laceration of other blood vessels at ankle and foot level, left leg, sequela"
+38468,DRG13002,S95819S,"Laceration of other blood vessels at ankle and foot level, unspecified leg, sequela"
+38469,DRG13002,S95891S,"Other specified injury of other blood vessels at ankle and foot level, right leg, sequela"
+38470,DRG13002,S95892S,"Other specified injury of other blood vessels at ankle and foot level, left leg, sequela"
+38471,DRG13002,S95899S,"Other specified injury of other blood vessels at ankle and foot level, unspecified leg, sequela"
+38472,DRG13002,S95901S,"Unspecified injury of unspecified blood vessel at ankle and foot level, right leg, sequela"
+38473,DRG13002,S95902S,"Unspecified injury of unspecified blood vessel at ankle and foot level, left leg, sequela"
+38474,DRG13002,S95909S,"Unspecified injury of unspecified blood vessel at ankle and foot level, unspecified leg, sequela"
+38475,DRG13002,S95911S,"Laceration of unspecified blood vessel at ankle and foot level, right leg, sequela"
+38476,DRG13002,S95912S,"Laceration of unspecified blood vessel at ankle and foot level, left leg, sequela"
+38477,DRG13002,S95919S,"Laceration of unspecified blood vessel at ankle and foot level, unspecified leg, sequela"
+38478,DRG13002,S95991S,"Other specified injury of unspecified blood vessel at ankle and foot level, right leg, sequela"
+38479,DRG13002,S95992S,"Other specified injury of unspecified blood vessel at ankle and foot level, left leg, sequela"
+38480,DRG13002,S95999S,"Other specified injury of unspecified blood vessel at ankle and foot level, unspecified leg, sequela"
+38481,DRG13002,T81718A,"Complication of other artery following a procedure, not elsewhere classified, initial encounter"
+38482,DRG13002,T81719A,"Complication of unspecified artery following a procedure, not elsewhere classified, initial encounter"
+38483,DRG13002,T8172XA,"Complication of vein following a procedure, not elsewhere classified, initial encounter"

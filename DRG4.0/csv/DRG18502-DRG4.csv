@@ -1,0 +1,324 @@
+,DRG,CM-PCS,en
+13619,DRG18502,A4852,Wound botulism
+13620,DRG18502,D100,Benign neoplasm of lip
+13621,DRG18502,D101,Benign neoplasm of tongue
+13622,DRG18502,D102,Benign neoplasm of floor of mouth
+13623,DRG18502,D1030,Benign neoplasm of unspecified part of mouth
+13624,DRG18502,D1039,Benign neoplasm of other parts of mouth
+13625,DRG18502,D165,Benign neoplasm of lower jaw bone
+13626,DRG18502,K000,Anodontia
+13627,DRG18502,K001,Supernumerary teeth
+13628,DRG18502,K002,Abnormalities of size and form of teeth
+13629,DRG18502,K003,Mottled teeth
+13630,DRG18502,K004,Disturbances in tooth formation
+13631,DRG18502,K005,"Hereditary disturbances in tooth structure, not elsewhere classified"
+13632,DRG18502,K006,Disturbances in tooth eruption
+13633,DRG18502,K007,Teething syndrome
+13634,DRG18502,K008,Other disorders of tooth development
+13635,DRG18502,K009,"Disorder of tooth development, unspecified"
+13636,DRG18502,K010,Embedded teeth
+13637,DRG18502,K011,Impacted teeth
+13638,DRG18502,K023,Arrested dental caries
+13639,DRG18502,K0251,Dental caries on pit and fissure surface limited to enamel
+13640,DRG18502,K0252,Dental caries on pit and fissure surface penetrating into dentin
+13641,DRG18502,K0253,Dental caries on pit and fissure surface penetrating into pulp
+13642,DRG18502,K0261,Dental caries on smooth surface limited to enamel
+13643,DRG18502,K0262,Dental caries on smooth surface penetrating into dentin
+13644,DRG18502,K0263,Dental caries on smooth surface penetrating into pulp
+13645,DRG18502,K027,Dental root caries
+13646,DRG18502,K029,"Dental caries, unspecified"
+13647,DRG18502,K030,Excessive attrition of teeth
+13648,DRG18502,K031,Abrasion of teeth
+13649,DRG18502,K032,Erosion of teeth
+13650,DRG18502,K033,Pathological resorption of teeth
+13651,DRG18502,K034,Hypercementosis
+13652,DRG18502,K035,Ankylosis of teeth
+13653,DRG18502,K036,Deposits [accretions] on teeth
+13654,DRG18502,K037,Posteruptive color changes of dental hard tissues
+13655,DRG18502,K0381,Cracked tooth
+13656,DRG18502,K0389,Other specified diseases of hard tissues of teeth
+13657,DRG18502,K039,"Disease of hard tissues of teeth, unspecified"
+13658,DRG18502,K040,Pulpitis
+13659,DRG18502,K041,Necrosis of pulp
+13660,DRG18502,K042,Pulp degeneration
+13661,DRG18502,K043,Abnormal hard tissue formation in pulp
+13662,DRG18502,K044,Acute apical periodontitis of pulpal origin
+13663,DRG18502,K045,Chronic apical periodontitis
+13664,DRG18502,K046,Periapical abscess with sinus
+13665,DRG18502,K047,Periapical abscess without sinus
+13666,DRG18502,K048,Radicular cyst
+13667,DRG18502,K0490,Unspecified diseases of pulp and periapical tissues
+13668,DRG18502,K0499,Other diseases of pulp and periapical tissues
+13669,DRG18502,K0500,"Acute gingivitis, plaque induced"
+13670,DRG18502,K0501,"Acute gingivitis, non-plaque induced"
+13671,DRG18502,K0510,"Chronic gingivitis, plaque induced"
+13672,DRG18502,K0511,"Chronic gingivitis, non-plaque induced"
+13673,DRG18502,K0520,"Aggressive periodontitis, unspecified"
+13674,DRG18502,K0521,"Aggressive periodontitis, localized"
+13675,DRG18502,K0522,"Aggressive periodontitis, generalized"
+13676,DRG18502,K0530,"Chronic periodontitis, unspecified"
+13677,DRG18502,K0531,"Chronic periodontitis, localized"
+13678,DRG18502,K0532,"Chronic periodontitis, generalized"
+13679,DRG18502,K054,Periodontosis
+13680,DRG18502,K055,Other periodontal diseases
+13681,DRG18502,K056,"Periodontal disease, unspecified"
+13682,DRG18502,K060,Gingival recession
+13683,DRG18502,K061,Gingival enlargement
+13684,DRG18502,K062,Gingival and edentulous alveolar ridge lesions associated with trauma
+13685,DRG18502,K068,Other specified disorders of gingiva and edentulous alveolar ridge
+13686,DRG18502,K069,"Disorder of gingiva and edentulous alveolar ridge, unspecified"
+13687,DRG18502,K080,Exfoliation of teeth due to systemic causes
+13688,DRG18502,K08101,"Complete loss of teeth, unspecified cause, class I"
+13689,DRG18502,K08102,"Complete loss of teeth, unspecified cause, class II"
+13690,DRG18502,K08103,"Complete loss of teeth, unspecified cause, class III"
+13691,DRG18502,K08104,"Complete loss of teeth, unspecified cause, class IV"
+13692,DRG18502,K08109,"Complete loss of teeth, unspecified cause, unspecified class"
+13693,DRG18502,K08111,"Complete loss of teeth due to trauma, class I"
+13694,DRG18502,K08112,"Complete loss of teeth due to trauma, class II"
+13695,DRG18502,K08113,"Complete loss of teeth due to trauma, class III"
+13696,DRG18502,K08114,"Complete loss of teeth due to trauma, class IV"
+13697,DRG18502,K08119,"Complete loss of teeth due to trauma, unspecified class"
+13698,DRG18502,K08121,"Complete loss of teeth due to periodontal diseases, class I"
+13699,DRG18502,K08122,"Complete loss of teeth due to periodontal diseases, class II"
+13700,DRG18502,K08123,"Complete loss of teeth due to periodontal diseases, class III"
+13701,DRG18502,K08124,"Complete loss of teeth due to periodontal diseases, class IV"
+13702,DRG18502,K08129,"Complete loss of teeth due to periodontal diseases, unspecified class"
+13703,DRG18502,K08131,"Complete loss of teeth due to caries, class I"
+13704,DRG18502,K08132,"Complete loss of teeth due to caries, class II"
+13705,DRG18502,K08133,"Complete loss of teeth due to caries, class III"
+13706,DRG18502,K08134,"Complete loss of teeth due to caries, class IV"
+13707,DRG18502,K08139,"Complete loss of teeth due to caries, unspecified class"
+13708,DRG18502,K08191,"Complete loss of teeth due to other specified cause, class I"
+13709,DRG18502,K08192,"Complete loss of teeth due to other specified cause, class II"
+13710,DRG18502,K08193,"Complete loss of teeth due to other specified cause, class III"
+13711,DRG18502,K08194,"Complete loss of teeth due to other specified cause, class IV"
+13712,DRG18502,K08199,"Complete loss of teeth due to other specified cause, unspecified class"
+13713,DRG18502,K0820,Unspecified atrophy of edentulous alveolar ridge
+13714,DRG18502,K0821,Minimal atrophy of the mandible
+13715,DRG18502,K0822,Moderate atrophy of the mandible
+13716,DRG18502,K0823,Severe atrophy of the mandible
+13717,DRG18502,K0824,Minimal atrophy of maxilla
+13718,DRG18502,K0825,Moderate atrophy of the maxilla
+13719,DRG18502,K0826,Severe atrophy of the maxilla
+13720,DRG18502,K083,Retained dental root
+13721,DRG18502,K08401,"Partial loss of teeth, unspecified cause, class I"
+13722,DRG18502,K08402,"Partial loss of teeth, unspecified cause, class II"
+13723,DRG18502,K08403,"Partial loss of teeth, unspecified cause, class III"
+13724,DRG18502,K08404,"Partial loss of teeth, unspecified cause, class IV"
+13725,DRG18502,K08409,"Partial loss of teeth, unspecified cause, unspecified class"
+13726,DRG18502,K08411,"Partial loss of teeth due to trauma, class I"
+13727,DRG18502,K08412,"Partial loss of teeth due to trauma, class II"
+13728,DRG18502,K08413,"Partial loss of teeth due to trauma, class III"
+13729,DRG18502,K08414,"Partial loss of teeth due to trauma, class IV"
+13730,DRG18502,K08419,"Partial loss of teeth due to trauma, unspecified class"
+13731,DRG18502,K08421,"Partial loss of teeth due to periodontal diseases, class I"
+13732,DRG18502,K08422,"Partial loss of teeth due to periodontal diseases, class II"
+13733,DRG18502,K08423,"Partial loss of teeth due to periodontal diseases, class III"
+13734,DRG18502,K08424,"Partial loss of teeth due to periodontal diseases, class IV"
+13735,DRG18502,K08429,"Partial loss of teeth due to periodontal diseases, unspecified class"
+13736,DRG18502,K08431,"Partial loss of teeth due to caries, class I"
+13737,DRG18502,K08432,"Partial loss of teeth due to caries, class II"
+13738,DRG18502,K08433,"Partial loss of teeth due to caries, class III"
+13739,DRG18502,K08434,"Partial loss of teeth due to caries, class IV"
+13740,DRG18502,K08439,"Partial loss of teeth due to caries, unspecified class"
+13741,DRG18502,K08491,"Partial loss of teeth due to other specified cause, class I"
+13742,DRG18502,K08492,"Partial loss of teeth due to other specified cause, class II"
+13743,DRG18502,K08493,"Partial loss of teeth due to other specified cause, class III"
+13744,DRG18502,K08494,"Partial loss of teeth due to other specified cause, class IV"
+13745,DRG18502,K08499,"Partial loss of teeth due to other specified cause, unspecified class"
+13746,DRG18502,K0850,"Unsatisfactory restoration of tooth, unspecified"
+13747,DRG18502,K0851,Open restoration margins of tooth
+13748,DRG18502,K0852,Unrepairable overhanging of dental restorative materials
+13749,DRG18502,K08530,Fractured dental restorative material without loss of material
+13750,DRG18502,K08531,Fractured dental restorative material with loss of material
+13751,DRG18502,K08539,"Fractured dental restorative material, unspecified"
+13752,DRG18502,K0854,Contour of existing restoration of tooth biologically incompatible with oral health
+13753,DRG18502,K0855,Allergy to existing dental restorative material
+13754,DRG18502,K0856,Poor aesthetic of existing restoration of tooth
+13755,DRG18502,K0859,Other unsatisfactory restoration of tooth
+13756,DRG18502,K088,Other specified disorders of teeth and supporting structures
+13757,DRG18502,K089,"Disorder of teeth and supporting structures, unspecified"
+13758,DRG18502,K090,Developmental odontogenic cysts
+13759,DRG18502,K091,Developmental (nonodontogenic) cysts of oral region
+13760,DRG18502,K098,"Other cysts of oral region, not elsewhere classified"
+13761,DRG18502,K099,"Cyst of oral region, unspecified"
+13762,DRG18502,K120,Recurrent oral aphthae
+13763,DRG18502,K121,Other forms of stomatitis
+13764,DRG18502,K122,Cellulitis and abscess of mouth
+13765,DRG18502,K1230,"Oral mucositis (ulcerative), unspecified"
+13766,DRG18502,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+13767,DRG18502,K1232,Oral mucositis (ulcerative) due to other drugs
+13768,DRG18502,K1233,Oral mucositis (ulcerative) due to radiation
+13769,DRG18502,K1239,Other oral mucositis (ulcerative)
+13770,DRG18502,K130,Diseases of lips
+13771,DRG18502,K131,Cheek and lip biting
+13772,DRG18502,K1321,"Leukoplakia of oral mucosa, including tongue"
+13773,DRG18502,K1322,Minimal keratinized residual ridge mucosa
+13774,DRG18502,K1323,Excessive keratinized residual ridge mucosa
+13775,DRG18502,K1324,Leukokeratosis nicotina palati
+13776,DRG18502,K1329,"Other disturbances of oral epithelium, including tongue"
+13777,DRG18502,K133,Hairy leukoplakia
+13778,DRG18502,K134,Granuloma and granuloma-like lesions of oral mucosa
+13779,DRG18502,K135,Oral submucous fibrosis
+13780,DRG18502,K136,Irritative hyperplasia of oral mucosa
+13781,DRG18502,K1370,Unspecified lesions of oral mucosa
+13782,DRG18502,K1379,Other lesions of oral mucosa
+13783,DRG18502,K140,Glossitis
+13784,DRG18502,K141,Geographic tongue
+13785,DRG18502,K142,Median rhomboid glossitis
+13786,DRG18502,K143,Hypertrophy of tongue papillae
+13787,DRG18502,K144,Atrophy of tongue papillae
+13788,DRG18502,K145,Plicated tongue
+13789,DRG18502,K146,Glossodynia
+13790,DRG18502,K148,Other diseases of tongue
+13791,DRG18502,K149,"Disease of tongue, unspecified"
+13792,DRG18502,M2600,Unspecified anomaly of jaw size
+13793,DRG18502,M2601,Maxillary hyperplasia
+13794,DRG18502,M2602,Maxillary hypoplasia
+13795,DRG18502,M2603,Mandibular hyperplasia
+13796,DRG18502,M2604,Mandibular hypoplasia
+13797,DRG18502,M2605,Macrogenia
+13798,DRG18502,M2606,Microgenia
+13799,DRG18502,M2607,Excessive tuberosity of jaw
+13800,DRG18502,M2609,Other specified anomalies of jaw size
+13801,DRG18502,M2610,Unspecified anomaly of jaw-cranial base relationship
+13802,DRG18502,M2611,Maxillary asymmetry
+13803,DRG18502,M2612,Other jaw asymmetry
+13804,DRG18502,M2619,Other specified anomalies of jaw-cranial base relationship
+13805,DRG18502,M2620,Unspecified anomaly of dental arch relationship
+13806,DRG18502,M26211,"Malocclusion, Angle's class I"
+13807,DRG18502,M26212,"Malocclusion, Angle's class II"
+13808,DRG18502,M26213,"Malocclusion, Angle's class III"
+13809,DRG18502,M26219,"Malocclusion, Angle's class, unspecified"
+13810,DRG18502,M26220,Open anterior occlusal relationship
+13811,DRG18502,M26221,Open posterior occlusal relationship
+13812,DRG18502,M2623,Excessive horizontal overlap
+13813,DRG18502,M2624,Reverse articulation
+13814,DRG18502,M2625,Anomalies of interarch distance
+13815,DRG18502,M2629,Other anomalies of dental arch relationship
+13816,DRG18502,M2630,Unspecified anomaly of tooth position of fully erupted tooth or teeth
+13817,DRG18502,M2631,Crowding of fully erupted teeth
+13818,DRG18502,M2632,Excessive spacing of fully erupted teeth
+13819,DRG18502,M2633,Horizontal displacement of fully erupted tooth or teeth
+13820,DRG18502,M2634,Vertical displacement of fully erupted tooth or teeth
+13821,DRG18502,M2635,Rotation of fully erupted tooth or teeth
+13822,DRG18502,M2636,Insufficient interocclusal distance of fully erupted teeth (ridge)
+13823,DRG18502,M2637,Excessive interocclusal distance of fully erupted teeth
+13824,DRG18502,M2639,Other anomalies of tooth position of fully erupted tooth or teeth
+13825,DRG18502,M264,"Malocclusion, unspecified"
+13826,DRG18502,M2650,"Dentofacial functional abnormalities, unspecified"
+13827,DRG18502,M2651,Abnormal jaw closure
+13828,DRG18502,M2652,Limited mandibular range of motion
+13829,DRG18502,M2653,Deviation in opening and closing of the mandible
+13830,DRG18502,M2654,Insufficient anterior guidance
+13831,DRG18502,M2655,Centric occlusion maximum intercuspation discrepancy
+13832,DRG18502,M2656,Non-working side interference
+13833,DRG18502,M2657,Lack of posterior occlusal support
+13834,DRG18502,M2659,Other dentofacial functional abnormalities
+13835,DRG18502,M2660,"Temporomandibular joint disorder, unspecified"
+13836,DRG18502,M2661,Adhesions and ankylosis of temporomandibular joint
+13837,DRG18502,M2662,Arthralgia of temporomandibular joint
+13838,DRG18502,M2663,Articular disc disorder of temporomandibular joint
+13839,DRG18502,M2669,Other specified disorders of temporomandibular joint
+13840,DRG18502,M2670,Unspecified alveolar anomaly
+13841,DRG18502,M2671,Alveolar maxillary hyperplasia
+13842,DRG18502,M2672,Alveolar mandibular hyperplasia
+13843,DRG18502,M2673,Alveolar maxillary hypoplasia
+13844,DRG18502,M2674,Alveolar mandibular hypoplasia
+13845,DRG18502,M2679,Other specified alveolar anomalies
+13846,DRG18502,M2681,Anterior soft tissue impingement
+13847,DRG18502,M2682,Posterior soft tissue impingement
+13848,DRG18502,M2689,Other dentofacial anomalies
+13849,DRG18502,M269,"Dentofacial anomaly, unspecified"
+13850,DRG18502,M270,Developmental disorders of jaws
+13851,DRG18502,M271,"Giant cell granuloma, central"
+13852,DRG18502,M272,Inflammatory conditions of jaws
+13853,DRG18502,M273,Alveolitis of jaws
+13854,DRG18502,M2740,Unspecified cyst of jaw
+13855,DRG18502,M2749,Other cysts of jaw
+13856,DRG18502,M2751,Perforation of root canal space due to endodontic treatment
+13857,DRG18502,M2752,Endodontic overfill
+13858,DRG18502,M2753,Endodontic underfill
+13859,DRG18502,M2759,Other periradicular pathology associated with previous endodontic treatment
+13860,DRG18502,M2761,Osseointegration failure of dental implant
+13861,DRG18502,M2762,Post-osseointegration biological failure of dental implant
+13862,DRG18502,M2763,Post-osseointegration mechanical failure of dental implant
+13863,DRG18502,M2769,Other endosseous dental implant failure
+13864,DRG18502,M278,Other specified diseases of jaws
+13865,DRG18502,M279,"Disease of jaws, unspecified"
+13866,DRG18502,Q184,Macrostomia
+13867,DRG18502,Q185,Microstomia
+13868,DRG18502,Q186,Macrocheilia
+13869,DRG18502,Q187,Microcheilia
+13870,DRG18502,Q351,Cleft hard palate
+13871,DRG18502,Q353,Cleft soft palate
+13872,DRG18502,Q355,Cleft hard palate with cleft soft palate
+13873,DRG18502,Q357,Cleft uvula
+13874,DRG18502,Q359,"Cleft palate, unspecified"
+13875,DRG18502,Q360,"Cleft lip, bilateral"
+13876,DRG18502,Q361,"Cleft lip, median"
+13877,DRG18502,Q369,"Cleft lip, unilateral"
+13878,DRG18502,Q370,Cleft hard palate with bilateral cleft lip
+13879,DRG18502,Q371,Cleft hard palate with unilateral cleft lip
+13880,DRG18502,Q372,Cleft soft palate with bilateral cleft lip
+13881,DRG18502,Q373,Cleft soft palate with unilateral cleft lip
+13882,DRG18502,Q374,Cleft hard and soft palate with bilateral cleft lip
+13883,DRG18502,Q375,Cleft hard and soft palate with unilateral cleft lip
+13884,DRG18502,Q378,Unspecified cleft palate with bilateral cleft lip
+13885,DRG18502,Q379,Unspecified cleft palate with unilateral cleft lip
+13886,DRG18502,Q380,"Congenital malformations of lips, not elsewhere classified"
+13887,DRG18502,Q381,Ankyloglossia
+13888,DRG18502,Q382,Macroglossia
+13889,DRG18502,Q383,Other congenital malformations of tongue
+13890,DRG18502,Q386,Other congenital malformations of mouth
+13891,DRG18502,R6884,Jaw pain
+13892,DRG18502,S01501A,"Unspecified open wound of lip, initial encounter"
+13893,DRG18502,S01502A,"Unspecified open wound of oral cavity, initial encounter"
+13894,DRG18502,S01511A,"Laceration without foreign body of lip, initial encounter"
+13895,DRG18502,S01512A,"Laceration without foreign body of oral cavity, initial encounter"
+13896,DRG18502,S01521A,"Laceration with foreign body of lip, initial encounter"
+13897,DRG18502,S01522A,"Laceration with foreign body of oral cavity, initial encounter"
+13898,DRG18502,S01531A,"Puncture wound without foreign body of lip, initial encounter"
+13899,DRG18502,S01532A,"Puncture wound without foreign body of oral cavity, initial encounter"
+13900,DRG18502,S01541A,"Puncture wound with foreign body of lip, initial encounter"
+13901,DRG18502,S01542A,"Puncture wound with foreign body of oral cavity, initial encounter"
+13902,DRG18502,S01551A,"Open bite of lip, initial encounter"
+13903,DRG18502,S01552A,"Open bite of oral cavity, initial encounter"
+13904,DRG18502,S02400A,"Malar fracture unspecified, initial encounter for closed fracture"
+13905,DRG18502,S02400B,"Malar fracture unspecified, initial encounter for open fracture"
+13906,DRG18502,S02401A,"Maxillary fracture, unspecified, initial encounter for closed fracture"
+13907,DRG18502,S02401B,"Maxillary fracture, unspecified, initial encounter for open fracture"
+13908,DRG18502,S02402A,"Zygomatic fracture, unspecified, initial encounter for closed fracture"
+13909,DRG18502,S02402B,"Zygomatic fracture, unspecified, initial encounter for open fracture"
+13910,DRG18502,S02411A,"LeFort I fracture, initial encounter for closed fracture"
+13911,DRG18502,S02411B,"LeFort I fracture, initial encounter for open fracture"
+13912,DRG18502,S02412A,"LeFort II fracture, initial encounter for closed fracture"
+13913,DRG18502,S02412B,"LeFort II fracture, initial encounter for open fracture"
+13914,DRG18502,S02413A,"LeFort III fracture, initial encounter for closed fracture"
+13915,DRG18502,S02413B,"LeFort III fracture, initial encounter for open fracture"
+13916,DRG18502,S025XXA,"Fracture of tooth (traumatic), initial encounter for closed fracture"
+13917,DRG18502,S025XXB,"Fracture of tooth (traumatic), initial encounter for open fracture"
+13918,DRG18502,S02600A,"Fracture of unspecified part of body of mandible, initial encounter for closed fracture"
+13919,DRG18502,S02600B,"Fracture of unspecified part of body of mandible, initial encounter for open fracture"
+13920,DRG18502,S02609A,"Fracture of mandible, unspecified, initial encounter for closed fracture"
+13921,DRG18502,S02609B,"Fracture of mandible, unspecified, initial encounter for open fracture"
+13922,DRG18502,S0261XA,"Fracture of condylar process of mandible, initial encounter for closed fracture"
+13923,DRG18502,S0261XB,"Fracture of condylar process of mandible, initial encounter for open fracture"
+13924,DRG18502,S0262XA,"Fracture of subcondylar process of mandible, initial encounter for closed fracture"
+13925,DRG18502,S0262XB,"Fracture of subcondylar process of mandible, initial encounter for open fracture"
+13926,DRG18502,S0263XA,"Fracture of coronoid process of mandible, initial encounter for closed fracture"
+13927,DRG18502,S0263XB,"Fracture of coronoid process of mandible, initial encounter for open fracture"
+13928,DRG18502,S0264XA,"Fracture of ramus of mandible, initial encounter for closed fracture"
+13929,DRG18502,S0264XB,"Fracture of ramus of mandible, initial encounter for open fracture"
+13930,DRG18502,S0265XA,"Fracture of angle of mandible, initial encounter for closed fracture"
+13931,DRG18502,S0265XB,"Fracture of angle of mandible, initial encounter for open fracture"
+13932,DRG18502,S0266XA,"Fracture of symphysis of mandible, initial encounter for closed fracture"
+13933,DRG18502,S0266XB,"Fracture of symphysis of mandible, initial encounter for open fracture"
+13934,DRG18502,S0267XA,"Fracture of alveolus of mandible, initial encounter for closed fracture"
+13935,DRG18502,S0267XB,"Fracture of alveolus of mandible, initial encounter for open fracture"
+13936,DRG18502,S0269XA,"Fracture of mandible of other specified site, initial encounter for closed fracture"
+13937,DRG18502,S0269XB,"Fracture of mandible of other specified site, initial encounter for open fracture"
+13938,DRG18502,S030XXA,"Dislocation of jaw, initial encounter"
+13939,DRG18502,S032XXA,"Dislocation of tooth, initial encounter"
+13940,DRG18502,S034XXA,"Sprain of jaw, initial encounter"
+13941,DRG18502,T180XXA,"Foreign body in mouth, initial encounter"

@@ -1,0 +1,348 @@
+,DRG,CM-PCS,en
+48320,DRG01802,B020,Zoster encephalitis
+48321,DRG01802,B0221,Postherpetic geniculate ganglionitis
+48322,DRG01802,B0222,Postherpetic trigeminal neuralgia
+48323,DRG01802,B0223,Postherpetic polyneuropathy
+48324,DRG01802,B0224,Postherpetic myelitis
+48325,DRG01802,B0229,Other postherpetic nervous system involvement
+48326,DRG01802,B0600,"Rubella with neurological complication, unspecified"
+48327,DRG01802,B2684,Mumps polyneuropathy
+48328,DRG01802,E0840,"Diabetes mellitus due to underlying condition with diabetic neuropathy, unspecified"
+48329,DRG01802,E0841,Diabetes mellitus due to underlying condition with diabetic mononeuropathy
+48330,DRG01802,E0842,Diabetes mellitus due to underlying condition with diabetic polyneuropathy
+48331,DRG01802,E0843,Diabetes mellitus due to underlying condition with diabetic autonomic (poly)neuropathy
+48332,DRG01802,E0844,Diabetes mellitus due to underlying condition with diabetic amyotrophy
+48333,DRG01802,E0849,Diabetes mellitus due to underlying condition with other diabetic neurological complication
+48334,DRG01802,E0940,"Drug or chemical induced diabetes mellitus with neurological complications with diabetic neuropathy, unspecified"
+48335,DRG01802,E0941,Drug or chemical induced diabetes mellitus with neurological complications with diabetic mononeuropathy
+48336,DRG01802,E0942,Drug or chemical induced diabetes mellitus with neurological complications with diabetic polyneuropathy
+48337,DRG01802,E0943,Drug or chemical induced diabetes mellitus with neurological complications with diabetic autonomic (poly)neuropathy
+48338,DRG01802,E0944,Drug or chemical induced diabetes mellitus with neurological complications with diabetic amyotrophy
+48339,DRG01802,E0949,Drug or chemical induced diabetes mellitus with neurological complications with other diabetic neurological complication
+48340,DRG01802,E1040,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified"
+48341,DRG01802,E1041,Type 1 diabetes mellitus with diabetic mononeuropathy
+48342,DRG01802,E1042,Type 1 diabetes mellitus with diabetic polyneuropathy
+48343,DRG01802,E1043,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy
+48344,DRG01802,E1044,Type 1 diabetes mellitus with diabetic amyotrophy
+48345,DRG01802,E1049,Type 1 diabetes mellitus with other diabetic neurological complication
+48346,DRG01802,E10610,Type 1 diabetes mellitus with diabetic neuropathic arthropathy
+48347,DRG01802,E1140,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified"
+48348,DRG01802,E1141,Type 2 diabetes mellitus with diabetic mononeuropathy
+48349,DRG01802,E1142,Type 2 diabetes mellitus with diabetic polyneuropathy
+48350,DRG01802,E1143,Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy
+48351,DRG01802,E1144,Type 2 diabetes mellitus with diabetic amyotrophy
+48352,DRG01802,E1149,Type 2 diabetes mellitus with other diabetic neurological complication
+48353,DRG01802,E1340,"Other specified diabetes mellitus with diabetic neuropathy, unspecified"
+48354,DRG01802,E1341,Other specified diabetes mellitus with diabetic mononeuropathy
+48355,DRG01802,E1342,Other specified diabetes mellitus with diabetic polyneuropathy
+48356,DRG01802,E1343,Other specified diabetes mellitus with diabetic autonomic (poly)neuropathy
+48357,DRG01802,E1344,Other specified diabetes mellitus with diabetic amyotrophy
+48358,DRG01802,E1349,Other specified diabetes mellitus with other diabetic neurological complication
+48359,DRG01802,E13610,Other specified diabetes mellitus with diabetic neuropathic arthropathy
+48360,DRG01802,G500,Trigeminal neuralgia
+48361,DRG01802,G501,Atypical facial pain
+48362,DRG01802,G508,Other disorders of trigeminal nerve
+48363,DRG01802,G509,"Disorder of trigeminal nerve, unspecified"
+48364,DRG01802,G510,Bell's palsy
+48365,DRG01802,G511,Geniculate ganglionitis
+48366,DRG01802,G512,Melkersson's syndrome
+48367,DRG01802,G513,Clonic hemifacial spasm
+48368,DRG01802,G514,Facial myokymia
+48369,DRG01802,G518,Other disorders of facial nerve
+48370,DRG01802,G519,"Disorder of facial nerve, unspecified"
+48371,DRG01802,G520,Disorders of olfactory nerve
+48372,DRG01802,G521,Disorders of glossopharyngeal nerve
+48373,DRG01802,G522,Disorders of vagus nerve
+48374,DRG01802,G523,Disorders of hypoglossal nerve
+48375,DRG01802,G527,Disorders of multiple cranial nerves
+48376,DRG01802,G528,Disorders of other specified cranial nerves
+48377,DRG01802,G529,"Cranial nerve disorder, unspecified"
+48378,DRG01802,G540,Brachial plexus disorders
+48379,DRG01802,G541,Lumbosacral plexus disorders
+48380,DRG01802,G542,"Cervical root disorders, not elsewhere classified"
+48381,DRG01802,G544,"Lumbosacral root disorders, not elsewhere classified"
+48382,DRG01802,G545,Neuralgic amyotrophy
+48383,DRG01802,G546,Phantom limb syndrome with pain
+48384,DRG01802,G547,Phantom limb syndrome without pain
+48385,DRG01802,G548,Other nerve root and plexus disorders
+48386,DRG01802,G549,"Nerve root and plexus disorder, unspecified"
+48387,DRG01802,G5600,"Carpal tunnel syndrome, unspecified upper limb"
+48388,DRG01802,G5601,"Carpal tunnel syndrome, right upper limb"
+48389,DRG01802,G5602,"Carpal tunnel syndrome, left upper limb"
+48390,DRG01802,G5610,"Other lesions of median nerve, unspecified upper limb"
+48391,DRG01802,G5611,"Other lesions of median nerve, right upper limb"
+48392,DRG01802,G5612,"Other lesions of median nerve, left upper limb"
+48393,DRG01802,G5620,"Lesion of ulnar nerve, unspecified upper limb"
+48394,DRG01802,G5621,"Lesion of ulnar nerve, right upper limb"
+48395,DRG01802,G5622,"Lesion of ulnar nerve, left upper limb"
+48396,DRG01802,G5630,"Lesion of radial nerve, unspecified upper limb"
+48397,DRG01802,G5631,"Lesion of radial nerve, right upper limb"
+48398,DRG01802,G5632,"Lesion of radial nerve, left upper limb"
+48399,DRG01802,G5640,Causalgia of unspecified upper limb
+48400,DRG01802,G5641,Causalgia of right upper limb
+48401,DRG01802,G5642,Causalgia of left upper limb
+48402,DRG01802,G5680,Other specified mononeuropathies of unspecified upper limb
+48403,DRG01802,G5681,Other specified mononeuropathies of right upper limb
+48404,DRG01802,G5682,Other specified mononeuropathies of left upper limb
+48405,DRG01802,G5690,Unspecified mononeuropathy of unspecified upper limb
+48406,DRG01802,G5691,Unspecified mononeuropathy of right upper limb
+48407,DRG01802,G5692,Unspecified mononeuropathy of left upper limb
+48408,DRG01802,G5700,"Lesion of sciatic nerve, unspecified lower limb"
+48409,DRG01802,G5701,"Lesion of sciatic nerve, right lower limb"
+48410,DRG01802,G5702,"Lesion of sciatic nerve, left lower limb"
+48411,DRG01802,G5710,"Meralgia paresthetica, unspecified lower limb"
+48412,DRG01802,G5711,"Meralgia paresthetica, right lower limb"
+48413,DRG01802,G5712,"Meralgia paresthetica, left lower limb"
+48414,DRG01802,G5720,"Lesion of femoral nerve, unspecified lower limb"
+48415,DRG01802,G5721,"Lesion of femoral nerve, right lower limb"
+48416,DRG01802,G5722,"Lesion of femoral nerve, left lower limb"
+48417,DRG01802,G5730,"Lesion of lateral popliteal nerve, unspecified lower limb"
+48418,DRG01802,G5731,"Lesion of lateral popliteal nerve, right lower limb"
+48419,DRG01802,G5732,"Lesion of lateral popliteal nerve, left lower limb"
+48420,DRG01802,G5740,"Lesion of medial popliteal nerve, unspecified lower limb"
+48421,DRG01802,G5741,"Lesion of medial popliteal nerve, right lower limb"
+48422,DRG01802,G5742,"Lesion of medial popliteal nerve, left lower limb"
+48423,DRG01802,G5750,"Tarsal tunnel syndrome, unspecified lower limb"
+48424,DRG01802,G5751,"Tarsal tunnel syndrome, right lower limb"
+48425,DRG01802,G5752,"Tarsal tunnel syndrome, left lower limb"
+48426,DRG01802,G5760,"Lesion of plantar nerve, unspecified lower limb"
+48427,DRG01802,G5761,"Lesion of plantar nerve, right lower limb"
+48428,DRG01802,G5762,"Lesion of plantar nerve, left lower limb"
+48429,DRG01802,G5770,Causalgia of unspecified lower limb
+48430,DRG01802,G5771,Causalgia of right lower limb
+48431,DRG01802,G5772,Causalgia of left lower limb
+48432,DRG01802,G5780,Other specified mononeuropathies of unspecified lower limb
+48433,DRG01802,G5781,Other specified mononeuropathies of right lower limb
+48434,DRG01802,G5782,Other specified mononeuropathies of left lower limb
+48435,DRG01802,G5790,Unspecified mononeuropathy of unspecified lower limb
+48436,DRG01802,G5791,Unspecified mononeuropathy of right lower limb
+48437,DRG01802,G5792,Unspecified mononeuropathy of left lower limb
+48438,DRG01802,G580,Intercostal neuropathy
+48439,DRG01802,G587,Mononeuritis multiplex
+48440,DRG01802,G588,Other specified mononeuropathies
+48441,DRG01802,G589,"Mononeuropathy, unspecified"
+48442,DRG01802,G600,Hereditary motor and sensory neuropathy
+48443,DRG01802,G602,Neuropathy in association with hereditary ataxia
+48444,DRG01802,G603,Idiopathic progressive neuropathy
+48445,DRG01802,G608,Other hereditary and idiopathic neuropathies
+48446,DRG01802,G609,"Hereditary and idiopathic neuropathy, unspecified"
+48447,DRG01802,G611,Serum neuropathy
+48448,DRG01802,G6181,Chronic inflammatory demyelinating polyneuritis
+48449,DRG01802,G6189,Other inflammatory polyneuropathies
+48450,DRG01802,G619,"Inflammatory polyneuropathy, unspecified"
+48451,DRG01802,G620,Drug-induced polyneuropathy
+48452,DRG01802,G621,Alcoholic polyneuropathy
+48453,DRG01802,G622,Polyneuropathy due to other toxic agents
+48454,DRG01802,G6281,Critical illness polyneuropathy
+48455,DRG01802,G6282,Radiation-induced polyneuropathy
+48456,DRG01802,G6289,Other specified polyneuropathies
+48457,DRG01802,G629,"Polyneuropathy, unspecified"
+48458,DRG01802,G64,Other disorders of peripheral nervous system
+48459,DRG01802,G701,Toxic myoneural disorders
+48460,DRG01802,G702,Congenital and developmental myasthenia
+48461,DRG01802,G7089,Other specified myoneural disorders
+48462,DRG01802,G709,"Myoneural disorder, unspecified"
+48463,DRG01802,G834,Cauda equina syndrome
+48464,DRG01802,G9001,Carotid sinus syncope
+48465,DRG01802,G9009,Other idiopathic peripheral autonomic neuropathy
+48466,DRG01802,G902,Horner's syndrome
+48467,DRG01802,G904,Autonomic dysreflexia
+48468,DRG01802,G9050,"Complex regional pain syndrome I, unspecified"
+48469,DRG01802,G90511,Complex regional pain syndrome I of right upper limb
+48470,DRG01802,G90512,Complex regional pain syndrome I of left upper limb
+48471,DRG01802,G90513,"Complex regional pain syndrome I of upper limb, bilateral"
+48472,DRG01802,G90519,Complex regional pain syndrome I of unspecified upper limb
+48473,DRG01802,G90521,Complex regional pain syndrome I of right lower limb
+48474,DRG01802,G90522,Complex regional pain syndrome I of left lower limb
+48475,DRG01802,G90523,"Complex regional pain syndrome I of lower limb, bilateral"
+48476,DRG01802,G90529,Complex regional pain syndrome I of unspecified lower limb
+48477,DRG01802,G9059,Complex regional pain syndrome I of other specified site
+48478,DRG01802,G908,Other disorders of autonomic nervous system
+48479,DRG01802,G909,"Disorder of the autonomic nervous system, unspecified"
+48480,DRG01802,M21331,"Wrist drop, right wrist"
+48481,DRG01802,M21332,"Wrist drop, left wrist"
+48482,DRG01802,M21339,"Wrist drop, unspecified wrist"
+48483,DRG01802,M21511,"Acquired clawhand, right hand"
+48484,DRG01802,M21512,"Acquired clawhand, left hand"
+48485,DRG01802,M21519,"Acquired clawhand, unspecified hand"
+48486,DRG01802,M21521,"Acquired clubhand, right hand"
+48487,DRG01802,M21522,"Acquired clubhand, left hand"
+48488,DRG01802,M21529,"Acquired clubhand, unspecified hand"
+48489,DRG01802,M21531,"Acquired clawfoot, right foot"
+48490,DRG01802,M21532,"Acquired clawfoot, left foot"
+48491,DRG01802,M21539,"Acquired clawfoot, unspecified foot"
+48492,DRG01802,M5010,"Cervical disc disorder with radiculopathy, unspecified cervical region"
+48493,DRG01802,M5011,"Cervical disc disorder with radiculopathy,  high cervical region"
+48494,DRG01802,M5012,"Cervical disc disorder with radiculopathy, mid-cervical region"
+48495,DRG01802,M5013,"Cervical disc disorder with radiculopathy, cervicothoracic region"
+48496,DRG01802,M530,Cervicocranial syndrome
+48497,DRG01802,M531,Cervicobrachial syndrome
+48498,DRG01802,M5410,"Radiculopathy, site unspecified"
+48499,DRG01802,M5411,"Radiculopathy, occipito-atlanto-axial region"
+48500,DRG01802,M5412,"Radiculopathy, cervical region"
+48501,DRG01802,M5413,"Radiculopathy, cervicothoracic region"
+48502,DRG01802,M5418,"Radiculopathy, sacral and sacrococcygeal region"
+48503,DRG01802,M792,"Neuralgia and neuritis, unspecified"
+48504,DRG01802,S0410XA,"Injury of oculomotor nerve, unspecified side, initial encounter"
+48505,DRG01802,S0411XA,"Injury of oculomotor nerve, right side, initial encounter"
+48506,DRG01802,S0412XA,"Injury of oculomotor nerve, left side, initial encounter"
+48507,DRG01802,S0420XA,"Injury of trochlear nerve, unspecified side, initial encounter"
+48508,DRG01802,S0421XA,"Injury of trochlear nerve, right side, initial encounter"
+48509,DRG01802,S0422XA,"Injury of trochlear nerve, left side, initial encounter"
+48510,DRG01802,S0430XA,"Injury of trigeminal nerve, unspecified side, initial encounter"
+48511,DRG01802,S0431XA,"Injury of trigeminal nerve, right side, initial encounter"
+48512,DRG01802,S0432XA,"Injury of trigeminal nerve, left side, initial encounter"
+48513,DRG01802,S0440XA,"Injury of abducent nerve, unspecified side, initial encounter"
+48514,DRG01802,S0441XA,"Injury of abducent nerve, right side, initial encounter"
+48515,DRG01802,S0442XA,"Injury of abducent nerve, left side, initial encounter"
+48516,DRG01802,S0450XA,"Injury of facial nerve, unspecified side, initial encounter"
+48517,DRG01802,S0451XA,"Injury of facial nerve, right side, initial encounter"
+48518,DRG01802,S0452XA,"Injury of facial nerve, left side, initial encounter"
+48519,DRG01802,S0470XA,"Injury of accessory nerve, unspecified side, initial encounter"
+48520,DRG01802,S0471XA,"Injury of accessory nerve, right side, initial encounter"
+48521,DRG01802,S0472XA,"Injury of accessory nerve, left side, initial encounter"
+48522,DRG01802,S04811A,"Injury of olfactory [1st ] nerve, right side, initial encounter"
+48523,DRG01802,S04812A,"Injury of olfactory [1st ] nerve, left side, initial encounter"
+48524,DRG01802,S04819A,"Injury of olfactory [1st ] nerve, unspecified side, initial encounter"
+48525,DRG01802,S04891A,"Injury of other cranial nerves, right side, initial encounter"
+48526,DRG01802,S04892A,"Injury of other cranial nerves, left side, initial encounter"
+48527,DRG01802,S04899A,"Injury of other cranial nerves, unspecified side, initial encounter"
+48528,DRG01802,S049XXA,"Injury of unspecified cranial nerve, initial encounter"
+48529,DRG01802,S142XXA,"Injury of nerve root of cervical spine, initial encounter"
+48530,DRG01802,S143XXA,"Injury of brachial plexus, initial encounter"
+48531,DRG01802,S144XXA,"Injury of peripheral nerves of neck, initial encounter"
+48532,DRG01802,S145XXA,"Injury of cervical sympathetic nerves, initial encounter"
+48533,DRG01802,S148XXA,"Injury of other specified nerves of neck, initial encounter"
+48534,DRG01802,S149XXA,"Injury of unspecified nerves of neck, initial encounter"
+48535,DRG01802,S242XXA,"Injury of nerve root of thoracic spine, initial encounter"
+48536,DRG01802,S243XXA,"Injury of peripheral nerves of thorax, initial encounter"
+48537,DRG01802,S244XXA,"Injury of thoracic sympathetic nervous system, initial encounter"
+48538,DRG01802,S248XXA,"Injury of other specified nerves of thorax, initial encounter"
+48539,DRG01802,S249XXA,"Injury of unspecified nerve of thorax, initial encounter"
+48540,DRG01802,S3421XA,"Injury of nerve root of lumbar spine, initial encounter"
+48541,DRG01802,S3422XA,"Injury of nerve root of sacral spine, initial encounter"
+48542,DRG01802,S344XXA,"Injury of lumbosacral plexus, initial encounter"
+48543,DRG01802,S345XXA,"Injury of lumbar, sacral and pelvic sympathetic nerves, initial encounter"
+48544,DRG01802,S346XXA,"Injury of peripheral nerve(s) at abdomen, lower back and pelvis level, initial encounter"
+48545,DRG01802,S348XXA,"Injury of other nerves at abdomen, lower back and pelvis level, initial encounter"
+48546,DRG01802,S349XXA,"Injury of unspecified nerves at abdomen, lower back and pelvis level, initial encounter"
+48547,DRG01802,S4400XA,"Injury of ulnar nerve at upper arm level, unspecified arm, initial encounter"
+48548,DRG01802,S4401XA,"Injury of ulnar nerve at upper arm level, right arm, initial encounter"
+48549,DRG01802,S4402XA,"Injury of ulnar nerve at upper arm level, left arm, initial encounter"
+48550,DRG01802,S4410XA,"Injury of median nerve at upper arm level, unspecified arm, initial encounter"
+48551,DRG01802,S4411XA,"Injury of median nerve at upper arm level, right arm, initial encounter"
+48552,DRG01802,S4412XA,"Injury of median nerve at upper arm level, left arm, initial encounter"
+48553,DRG01802,S4420XA,"Injury of radial nerve at upper arm level, unspecified arm, initial encounter"
+48554,DRG01802,S4421XA,"Injury of radial nerve at upper arm level, right arm, initial encounter"
+48555,DRG01802,S4422XA,"Injury of radial nerve at upper arm level, left arm, initial encounter"
+48556,DRG01802,S4430XA,"Injury of axillary nerve, unspecified arm, initial encounter"
+48557,DRG01802,S4431XA,"Injury of axillary nerve, right arm, initial encounter"
+48558,DRG01802,S4432XA,"Injury of axillary nerve, left arm, initial encounter"
+48559,DRG01802,S4440XA,"Injury of musculocutaneous nerve, unspecified arm, initial encounter"
+48560,DRG01802,S4441XA,"Injury of musculocutaneous nerve, right arm, initial encounter"
+48561,DRG01802,S4442XA,"Injury of musculocutaneous nerve, left arm, initial encounter"
+48562,DRG01802,S4450XA,"Injury of cutaneous sensory nerve at shoulder and upper arm level, unspecified arm, initial encounter"
+48563,DRG01802,S4451XA,"Injury of cutaneous sensory nerve at shoulder and upper arm level, right arm, initial encounter"
+48564,DRG01802,S4452XA,"Injury of cutaneous sensory nerve at shoulder and upper arm level, left arm, initial encounter"
+48565,DRG01802,S448X1A,"Injury of other nerves at shoulder and upper arm level, right arm, initial encounter"
+48566,DRG01802,S448X2A,"Injury of other nerves at shoulder and upper arm level, left arm, initial encounter"
+48567,DRG01802,S448X9A,"Injury of other nerves at shoulder and upper arm level, unspecified arm, initial encounter"
+48568,DRG01802,S4490XA,"Injury of unspecified nerve at shoulder and upper arm level, unspecified arm, initial encounter"
+48569,DRG01802,S4491XA,"Injury of unspecified nerve at shoulder and upper arm level, right arm, initial encounter"
+48570,DRG01802,S4492XA,"Injury of unspecified nerve at shoulder and upper arm level, left arm, initial encounter"
+48571,DRG01802,S5400XA,"Injury of ulnar nerve at forearm level, unspecified arm, initial encounter"
+48572,DRG01802,S5401XA,"Injury of ulnar nerve at forearm level, right arm, initial encounter"
+48573,DRG01802,S5402XA,"Injury of ulnar nerve at forearm level, left arm, initial encounter"
+48574,DRG01802,S5410XA,"Injury of median nerve at forearm level, unspecified arm, initial encounter"
+48575,DRG01802,S5411XA,"Injury of median nerve at forearm level, right arm, initial encounter"
+48576,DRG01802,S5412XA,"Injury of median nerve at forearm level, left arm, initial encounter"
+48577,DRG01802,S5420XA,"Injury of radial nerve at forearm level, unspecified arm, initial encounter"
+48578,DRG01802,S5421XA,"Injury of radial nerve at forearm level, right arm, initial encounter"
+48579,DRG01802,S5422XA,"Injury of radial nerve at forearm level, left arm, initial encounter"
+48580,DRG01802,S5430XA,"Injury of cutaneous sensory nerve at forearm level, unspecified arm, initial encounter"
+48581,DRG01802,S5431XA,"Injury of cutaneous sensory nerve at forearm level, right arm, initial encounter"
+48582,DRG01802,S5432XA,"Injury of cutaneous sensory nerve at forearm level, left arm, initial encounter"
+48583,DRG01802,S548X1A,"Unspecified injury of other nerves at forearm level, right arm, initial encounter"
+48584,DRG01802,S548X2A,"Unspecified injury of other nerves at forearm level, left arm, initial encounter"
+48585,DRG01802,S548X9A,"Unspecified injury of other nerves at forearm level, unspecified arm, initial encounter"
+48586,DRG01802,S5490XA,"Injury of unspecified nerve at forearm level, unspecified arm, initial encounter"
+48587,DRG01802,S5491XA,"Injury of unspecified nerve at forearm level, right arm, initial encounter"
+48588,DRG01802,S5492XA,"Injury of unspecified nerve at forearm level, left arm, initial encounter"
+48589,DRG01802,S6400XA,"Injury of ulnar nerve at wrist and hand level of unspecified arm, initial encounter"
+48590,DRG01802,S6401XA,"Injury of ulnar nerve at wrist and hand level of right arm, initial encounter"
+48591,DRG01802,S6402XA,"Injury of ulnar nerve at wrist and hand level of left arm, initial encounter"
+48592,DRG01802,S6410XA,"Injury of median nerve at wrist and hand level of unspecified arm, initial encounter"
+48593,DRG01802,S6411XA,"Injury of median nerve at wrist and hand level of right arm, initial encounter"
+48594,DRG01802,S6412XA,"Injury of median nerve at wrist and hand level of left arm, initial encounter"
+48595,DRG01802,S6420XA,"Injury of radial nerve at wrist and hand level of unspecified arm, initial encounter"
+48596,DRG01802,S6421XA,"Injury of radial nerve at wrist and hand level of right arm, initial encounter"
+48597,DRG01802,S6422XA,"Injury of radial nerve at wrist and hand level of left arm, initial encounter"
+48598,DRG01802,S6430XA,"Injury of digital nerve of unspecified thumb, initial encounter"
+48599,DRG01802,S6431XA,"Injury of digital nerve of right thumb, initial encounter"
+48600,DRG01802,S6432XA,"Injury of digital nerve of left thumb, initial encounter"
+48601,DRG01802,S6440XA,"Injury of digital nerve of unspecified finger, initial encounter"
+48602,DRG01802,S64490A,"Injury of digital nerve of right index finger, initial encounter"
+48603,DRG01802,S64491A,"Injury of digital nerve of left index finger, initial encounter"
+48604,DRG01802,S64492A,"Injury of digital nerve of right middle finger, initial encounter"
+48605,DRG01802,S64493A,"Injury of digital nerve of left middle finger, initial encounter"
+48606,DRG01802,S64494A,"Injury of digital nerve of right ring finger, initial encounter"
+48607,DRG01802,S64495A,"Injury of digital nerve of left ring finger, initial encounter"
+48608,DRG01802,S64496A,"Injury of digital nerve of right little finger, initial encounter"
+48609,DRG01802,S64497A,"Injury of digital nerve of left little finger, initial encounter"
+48610,DRG01802,S64498A,"Injury of digital nerve of other finger, initial encounter"
+48611,DRG01802,S648X1A,"Injury of other nerves at wrist and hand level of right arm, initial encounter"
+48612,DRG01802,S648X2A,"Injury of other nerves at wrist and hand level of left arm, initial encounter"
+48613,DRG01802,S648X9A,"Injury of other nerves at wrist and hand level of unspecified arm, initial encounter"
+48614,DRG01802,S6490XA,"Injury of unspecified nerve at wrist and hand level of unspecified arm, initial encounter"
+48615,DRG01802,S6491XA,"Injury of unspecified nerve at wrist and hand level of right arm, initial encounter"
+48616,DRG01802,S6492XA,"Injury of unspecified nerve at wrist and hand level of left arm, initial encounter"
+48617,DRG01802,S7400XA,"Injury of sciatic nerve at hip and thigh level, unspecified leg, initial encounter"
+48618,DRG01802,S7401XA,"Injury of sciatic nerve at hip and thigh level, right leg, initial encounter"
+48619,DRG01802,S7402XA,"Injury of sciatic nerve at hip and thigh level, left leg, initial encounter"
+48620,DRG01802,S7410XA,"Injury of femoral nerve at hip and thigh level, unspecified leg, initial encounter"
+48621,DRG01802,S7411XA,"Injury of femoral nerve at hip and thigh level, right leg, initial encounter"
+48622,DRG01802,S7412XA,"Injury of femoral nerve at hip and thigh level, left leg, initial encounter"
+48623,DRG01802,S7420XA,"Injury of cutaneous sensory nerve at hip and thigh level, unspecified leg, initial encounter"
+48624,DRG01802,S7421XA,"Injury of cutaneous sensory nerve at hip and high level, right leg, initial encounter"
+48625,DRG01802,S7422XA,"Injury of cutaneous sensory nerve at hip and thigh level, left leg, initial encounter"
+48626,DRG01802,S748X1A,"Injury of other nerves at hip and thigh level, right leg, initial encounter"
+48627,DRG01802,S748X2A,"Injury of other nerves at hip and thigh level, left leg, initial encounter"
+48628,DRG01802,S748X9A,"Injury of other nerves at hip and thigh level, unspecified leg, initial encounter"
+48629,DRG01802,S7490XA,"Injury of unspecified nerve at hip and thigh level, unspecified leg, initial encounter"
+48630,DRG01802,S7491XA,"Injury of unspecified nerve at hip and thigh level, right leg, initial encounter"
+48631,DRG01802,S7492XA,"Injury of unspecified nerve at hip and thigh level, left leg, initial encounter"
+48632,DRG01802,S8400XA,"Injury of tibial nerve at lower leg level, unspecified leg, initial encounter"
+48633,DRG01802,S8401XA,"Injury of tibial nerve at lower leg level, right leg, initial encounter"
+48634,DRG01802,S8402XA,"Injury of tibial nerve at lower leg level, left leg, initial encounter"
+48635,DRG01802,S8410XA,"Injury of peroneal nerve at lower leg level, unspecified leg, initial encounter"
+48636,DRG01802,S8411XA,"Injury of peroneal nerve at lower leg level, right leg, initial encounter"
+48637,DRG01802,S8412XA,"Injury of peroneal nerve at lower leg level, left leg, initial encounter"
+48638,DRG01802,S8420XA,"Injury of cutaneous sensory nerve at lower leg level, unspecified leg, initial encounter"
+48639,DRG01802,S8421XA,"Injury of cutaneous sensory nerve at lower leg level, right leg, initial encounter"
+48640,DRG01802,S8422XA,"Injury of cutaneous sensory nerve at lower leg level, left leg, initial encounter"
+48641,DRG01802,S84801A,"Injury of other nerves at lower leg level, right leg, initial encounter"
+48642,DRG01802,S84802A,"Injury of other nerves at lower leg level, left leg, initial encounter"
+48643,DRG01802,S84809A,"Injury of other nerves at lower leg level, unspecified leg, initial encounter"
+48644,DRG01802,S8490XA,"Injury of unspecified nerve at lower leg level, unspecified leg, initial encounter"
+48645,DRG01802,S8491XA,"Injury of unspecified nerve at lower leg level, right leg, initial encounter"
+48646,DRG01802,S8492XA,"Injury of unspecified nerve at lower leg level, left leg, initial encounter"
+48647,DRG01802,S9400XA,"Injury of lateral plantar nerve, unspecified leg, initial encounter"
+48648,DRG01802,S9401XA,"Injury of lateral plantar nerve, right leg, initial encounter"
+48649,DRG01802,S9402XA,"Injury of lateral plantar nerve, left leg, initial encounter"
+48650,DRG01802,S9410XA,"Injury of medial plantar nerve, unspecified leg, initial encounter"
+48651,DRG01802,S9411XA,"Injury of medial plantar nerve, right leg, initial encounter"
+48652,DRG01802,S9412XA,"Injury of medial plantar nerve, left leg, initial encounter"
+48653,DRG01802,S9420XA,"Injury of deep peroneal nerve at ankle and foot level, unspecified leg, initial encounter"
+48654,DRG01802,S9421XA,"Injury of deep peroneal nerve at ankle and foot level, right leg, initial encounter"
+48655,DRG01802,S9422XA,"Injury of deep peroneal nerve at ankle and foot level, left leg, initial encounter"
+48656,DRG01802,S9430XA,"Injury of cutaneous sensory nerve at ankle and foot level, unspecified leg, initial encounter"
+48657,DRG01802,S9431XA,"Injury of cutaneous sensory nerve at ankle and foot level, right leg, initial encounter"
+48658,DRG01802,S9432XA,"Injury of cutaneous sensory nerve at ankle and foot level, left leg, initial encounter"
+48659,DRG01802,S948X1A,"Injury of other nerves at ankle and foot level, right leg, initial encounter"
+48660,DRG01802,S948X2A,"Injury of other nerves at ankle and foot level, left leg, initial encounter"
+48661,DRG01802,S948X9A,"Injury of other nerves at ankle and foot level, unspecified leg, initial encounter"
+48662,DRG01802,S9490XA,"Injury of unspecified nerve at ankle and foot level, unspecified leg, initial encounter"
+48663,DRG01802,S9491XA,"Injury of unspecified nerve at ankle and foot level, right leg, initial encounter"
+48664,DRG01802,S9492XA,"Injury of unspecified nerve at ankle and foot level, left leg, initial encounter"
+48667,DRG01802,6A550Z3,"Pheresis of Plasma, Single"
+48668,DRG01802,6A551Z3,"Pheresis of Plasma, Multiple"

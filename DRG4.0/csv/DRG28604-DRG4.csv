@@ -1,0 +1,14 @@
+,DRG,CM-PCS,en
+744,DRG28604,D352,Benign neoplasm of pituitary gland
+745,DRG28604,D353,Benign neoplasm of craniopharyngeal duct
+748,DRG28604,0G500ZZ,"Destruction of Pituitary Gland, Open Approach"
+749,DRG28604,0G503ZZ,"Destruction of Pituitary Gland, Percutaneous Approach"
+750,DRG28604,0G504ZZ,"Destruction of Pituitary Gland, Percutaneous Endoscopic Approach"
+751,DRG28604,0G800ZZ,"Division of Pituitary Gland, Open Approach"
+752,DRG28604,0G803ZZ,"Division of Pituitary Gland, Percutaneous Approach"
+753,DRG28604,0G804ZZ,"Division of Pituitary Gland, Percutaneous Endoscopic Approach"
+754,DRG28604,0GB00ZZ,"Excision of Pituitary Gland, Open Approach"
+755,DRG28604,0GB03ZZ,"Excision of Pituitary Gland, Percutaneous Approach"
+756,DRG28604,0GB04ZZ,"Excision of Pituitary Gland, Percutaneous Endoscopic Approach"
+757,DRG28604,0GT00ZZ,"Resection of Pituitary Gland, Open Approach"
+758,DRG28604,0GT04ZZ,"Resection of Pituitary Gland, Percutaneous Endoscopic Approach"

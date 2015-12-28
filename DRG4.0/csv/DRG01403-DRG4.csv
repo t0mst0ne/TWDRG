@@ -1,0 +1,35 @@
+,DRG,CM-PCS,en
+47483,DRG01403,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery
+47484,DRG01403,I63011,Cerebral infarction due to thrombosis of right vertebral artery
+47485,DRG01403,I63012,Cerebral infarction due to thrombosis of left vertebral artery
+47486,DRG01403,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery
+47487,DRG01403,I6302,Cerebral infarction due to thrombosis of basilar artery
+47488,DRG01403,I63031,Cerebral infarction due to thrombosis of right carotid artery
+47489,DRG01403,I63032,Cerebral infarction due to thrombosis of left carotid artery
+47490,DRG01403,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery
+47491,DRG01403,I6309,Cerebral infarction due to thrombosis of other precerebral artery
+47492,DRG01403,I6310,Cerebral infarction due to embolism of unspecified precerebral artery
+47493,DRG01403,I63111,Cerebral infarction due to embolism of right vertebral artery
+47494,DRG01403,I63112,Cerebral infarction due to embolism of left vertebral artery
+47495,DRG01403,I63119,Cerebral infarction due to embolism of unspecified vertebral artery
+47496,DRG01403,I6312,Cerebral infarction due to embolism of basilar artery
+47497,DRG01403,I63131,Cerebral infarction due to embolism of right carotid artery
+47498,DRG01403,I63132,Cerebral infarction due to embolism of left carotid artery
+47499,DRG01403,I63139,Cerebral infarction due to embolism of unspecified carotid artery
+47500,DRG01403,I6319,Cerebral infarction due to embolism of other precerebral artery
+47501,DRG01403,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
+47502,DRG01403,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+47503,DRG01403,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+47504,DRG01403,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries
+47505,DRG01403,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
+47506,DRG01403,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+47507,DRG01403,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
+47508,DRG01403,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries
+47509,DRG01403,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+47510,DRG01403,R4701,Aphasia
+47513,DRG01403,I600000,Modified ranking scale 0
+47514,DRG01403,I600001,Modified ranking scale 1
+47515,DRG01403,I600002,Modified ranking scale 2
+47516,DRG01403,I600003,Modified ranking scale 3
+47517,DRG01403,I600004,Modified ranking scale 4
+47518,DRG01403,I600005,Modified ranking scale 5

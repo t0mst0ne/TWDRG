@@ -1,0 +1,192 @@
+,DRG,CM-PCS,en
+5856,DRG00402,C880,Waldenstrom macroglobulinemia
+5857,DRG00402,D891,Cryoglobulinemia
+5862,DRG00402,D020DZZ,Stereotactic Other Photon Radiosurgery of Brain
+5863,DRG00402,D020HZZ,Stereotactic Particulate Radiosurgery of Brain
+5864,DRG00402,D020JZZ,Stereotactic Gamma Beam Radiosurgery of Brain
+5865,DRG00402,D021DZZ,Stereotactic Other Photon Radiosurgery of Brain Stem
+5866,DRG00402,D021HZZ,Stereotactic Particulate Radiosurgery of Brain Stem
+5867,DRG00402,D021JZZ,Stereotactic Gamma Beam Radiosurgery of Brain Stem
+5868,DRG00402,D026DZZ,Stereotactic Other Photon Radiosurgery of Spinal Cord
+5869,DRG00402,D026HZZ,Stereotactic Particulate Radiosurgery of Spinal Cord
+5870,DRG00402,D026JZZ,Stereotactic Gamma Beam Radiosurgery of Spinal Cord
+5871,DRG00402,D027DZZ,Stereotactic Other Photon Radiosurgery of Peripheral Nerve
+5872,DRG00402,D027HZZ,Stereotactic Particulate Radiosurgery of Peripheral Nerve
+5873,DRG00402,D027JZZ,Stereotactic Gamma Beam Radiosurgery of Peripheral Nerve
+5874,DRG00402,D720DZZ,Stereotactic Other Photon Radiosurgery of Bone Marrow
+5875,DRG00402,D720HZZ,Stereotactic Particulate Radiosurgery of Bone Marrow
+5876,DRG00402,D720JZZ,Stereotactic Gamma Beam Radiosurgery of Bone Marrow
+5877,DRG00402,D721DZZ,Stereotactic Other Photon Radiosurgery of Thymus
+5878,DRG00402,D721HZZ,Stereotactic Particulate Radiosurgery of Thymus
+5879,DRG00402,D721JZZ,Stereotactic Gamma Beam Radiosurgery of Thymus
+5880,DRG00402,D722DZZ,Stereotactic Other Photon Radiosurgery of Spleen
+5881,DRG00402,D722HZZ,Stereotactic Particulate Radiosurgery of Spleen
+5882,DRG00402,D722JZZ,Stereotactic Gamma Beam Radiosurgery of Spleen
+5883,DRG00402,D723DZZ,Stereotactic Other Photon Radiosurgery of Neck Lymphatics
+5884,DRG00402,D723HZZ,Stereotactic Particulate Radiosurgery of Neck Lymphatics
+5885,DRG00402,D723JZZ,Stereotactic Gamma Beam Radiosurgery of Neck Lymphatics
+5886,DRG00402,D724DZZ,Stereotactic Other Photon Radiosurgery of Axillary Lymphatics
+5887,DRG00402,D724HZZ,Stereotactic Particulate Radiosurgery of Axillary Lymphatics
+5888,DRG00402,D724JZZ,Stereotactic Gamma Beam Radiosurgery of Axillary Lymphatics
+5889,DRG00402,D725DZZ,Stereotactic Other Photon Radiosurgery of Thorax Lymphatics
+5890,DRG00402,D725HZZ,Stereotactic Particulate Radiosurgery of Thorax Lymphatics
+5891,DRG00402,D725JZZ,Stereotactic Gamma Beam Radiosurgery of Thorax Lymphatics
+5892,DRG00402,D726DZZ,Stereotactic Other Photon Radiosurgery of Abdomen Lymphatics
+5893,DRG00402,D726HZZ,Stereotactic Particulate Radiosurgery of Abdomen Lymphatics
+5894,DRG00402,D726JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen Lymphatics
+5895,DRG00402,D727DZZ,Stereotactic Other Photon Radiosurgery of Pelvis Lymphatics
+5896,DRG00402,D727HZZ,Stereotactic Particulate Radiosurgery of Pelvis Lymphatics
+5897,DRG00402,D727JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvis Lymphatics
+5898,DRG00402,D728DZZ,Stereotactic Other Photon Radiosurgery of Inguinal Lymphatics
+5899,DRG00402,D728HZZ,Stereotactic Particulate Radiosurgery of Inguinal Lymphatics
+5900,DRG00402,D728JZZ,Stereotactic Gamma Beam Radiosurgery of Inguinal Lymphatics
+5901,DRG00402,D820DZZ,Stereotactic Other Photon Radiosurgery of Eye
+5902,DRG00402,D820HZZ,Stereotactic Particulate Radiosurgery of Eye
+5903,DRG00402,D820JZZ,Stereotactic Gamma Beam Radiosurgery of Eye
+5904,DRG00402,D920DZZ,Stereotactic Other Photon Radiosurgery of Ear
+5905,DRG00402,D920HZZ,Stereotactic Particulate Radiosurgery of Ear
+5906,DRG00402,D920JZZ,Stereotactic Gamma Beam Radiosurgery of Ear
+5907,DRG00402,D921DZZ,Stereotactic Other Photon Radiosurgery of Nose
+5908,DRG00402,D921HZZ,Stereotactic Particulate Radiosurgery of Nose
+5909,DRG00402,D921JZZ,Stereotactic Gamma Beam Radiosurgery of Nose
+5910,DRG00402,D924DZZ,Stereotactic Other Photon Radiosurgery of Mouth
+5911,DRG00402,D924HZZ,Stereotactic Particulate Radiosurgery of Mouth
+5912,DRG00402,D924JZZ,Stereotactic Gamma Beam Radiosurgery of Mouth
+5913,DRG00402,D925DZZ,Stereotactic Other Photon Radiosurgery of Tongue
+5914,DRG00402,D925HZZ,Stereotactic Particulate Radiosurgery of Tongue
+5915,DRG00402,D925JZZ,Stereotactic Gamma Beam Radiosurgery of Tongue
+5916,DRG00402,D926DZZ,Stereotactic Other Photon Radiosurgery of Salivary Glands
+5917,DRG00402,D926HZZ,Stereotactic Particulate Radiosurgery of Salivary Glands
+5918,DRG00402,D926JZZ,Stereotactic Gamma Beam Radiosurgery of Salivary Glands
+5919,DRG00402,D927DZZ,Stereotactic Other Photon Radiosurgery of Sinuses
+5920,DRG00402,D927HZZ,Stereotactic Particulate Radiosurgery of Sinuses
+5921,DRG00402,D927JZZ,Stereotactic Gamma Beam Radiosurgery of Sinuses
+5922,DRG00402,D928DZZ,Stereotactic Other Photon Radiosurgery of Hard Palate
+5923,DRG00402,D928HZZ,Stereotactic Particulate Radiosurgery of Hard Palate
+5924,DRG00402,D928JZZ,Stereotactic Gamma Beam Radiosurgery of Hard Palate
+5925,DRG00402,D929DZZ,Stereotactic Other Photon Radiosurgery of Soft Palate
+5926,DRG00402,D929HZZ,Stereotactic Particulate Radiosurgery of Soft Palate
+5927,DRG00402,D929JZZ,Stereotactic Gamma Beam Radiosurgery of Soft Palate
+5928,DRG00402,D92BDZZ,Stereotactic Other Photon Radiosurgery of Larynx
+5929,DRG00402,D92BHZZ,Stereotactic Particulate Radiosurgery of Larynx
+5930,DRG00402,D92BJZZ,Stereotactic Gamma Beam Radiosurgery of Larynx
+5931,DRG00402,D92CDZZ,Stereotactic Other Photon Radiosurgery of Pharynx
+5932,DRG00402,D92CHZZ,Stereotactic Particulate Radiosurgery of Pharynx
+5933,DRG00402,D92CJZZ,Stereotactic Gamma Beam Radiosurgery of Pharynx
+5934,DRG00402,D92DDZZ,Stereotactic Other Photon Radiosurgery of Nasopharynx
+5935,DRG00402,D92DHZZ,Stereotactic Particulate Radiosurgery of Nasopharynx
+5936,DRG00402,D92DJZZ,Stereotactic Gamma Beam Radiosurgery of Nasopharynx
+5937,DRG00402,DB20DZZ,Stereotactic Other Photon Radiosurgery of Trachea
+5938,DRG00402,DB20HZZ,Stereotactic Particulate Radiosurgery of Trachea
+5939,DRG00402,DB20JZZ,Stereotactic Gamma Beam Radiosurgery of Trachea
+5940,DRG00402,DB21DZZ,Stereotactic Other Photon Radiosurgery of Bronchus
+5941,DRG00402,DB21HZZ,Stereotactic Particulate Radiosurgery of Bronchus
+5942,DRG00402,DB21JZZ,Stereotactic Gamma Beam Radiosurgery of Bronchus
+5943,DRG00402,DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung
+5944,DRG00402,DB22HZZ,Stereotactic Particulate Radiosurgery of Lung
+5945,DRG00402,DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung
+5946,DRG00402,DB25DZZ,Stereotactic Other Photon Radiosurgery of Pleura
+5947,DRG00402,DB25HZZ,Stereotactic Particulate Radiosurgery of Pleura
+5948,DRG00402,DB25JZZ,Stereotactic Gamma Beam Radiosurgery of Pleura
+5949,DRG00402,DB26DZZ,Stereotactic Other Photon Radiosurgery of Mediastinum
+5950,DRG00402,DB26HZZ,Stereotactic Particulate Radiosurgery of Mediastinum
+5951,DRG00402,DB26JZZ,Stereotactic Gamma Beam Radiosurgery of Mediastinum
+5952,DRG00402,DB27DZZ,Stereotactic Other Photon Radiosurgery of Chest Wall
+5953,DRG00402,DB27HZZ,Stereotactic Particulate Radiosurgery of Chest Wall
+5954,DRG00402,DB27JZZ,Stereotactic Gamma Beam Radiosurgery of Chest Wall
+5955,DRG00402,DB28DZZ,Stereotactic Other Photon Radiosurgery of Diaphragm
+5956,DRG00402,DB28HZZ,Stereotactic Particulate Radiosurgery of Diaphragm
+5957,DRG00402,DB28JZZ,Stereotactic Gamma Beam Radiosurgery of Diaphragm
+5958,DRG00402,DD20DZZ,Stereotactic Other Photon Radiosurgery of Esophagus
+5959,DRG00402,DD20HZZ,Stereotactic Particulate Radiosurgery of Esophagus
+5960,DRG00402,DD20JZZ,Stereotactic Gamma Beam Radiosurgery of Esophagus
+5961,DRG00402,DD21DZZ,Stereotactic Other Photon Radiosurgery of Stomach
+5962,DRG00402,DD21HZZ,Stereotactic Particulate Radiosurgery of Stomach
+5963,DRG00402,DD21JZZ,Stereotactic Gamma Beam Radiosurgery of Stomach
+5964,DRG00402,DD22DZZ,Stereotactic Other Photon Radiosurgery of Duodenum
+5965,DRG00402,DD22HZZ,Stereotactic Particulate Radiosurgery of Duodenum
+5966,DRG00402,DD22JZZ,Stereotactic Gamma Beam Radiosurgery of Duodenum
+5967,DRG00402,DD23DZZ,Stereotactic Other Photon Radiosurgery of Jejunum
+5968,DRG00402,DD23HZZ,Stereotactic Particulate Radiosurgery of Jejunum
+5969,DRG00402,DD23JZZ,Stereotactic Gamma Beam Radiosurgery of Jejunum
+5970,DRG00402,DD24DZZ,Stereotactic Other Photon Radiosurgery of Ileum
+5971,DRG00402,DD24HZZ,Stereotactic Particulate Radiosurgery of Ileum
+5972,DRG00402,DD24JZZ,Stereotactic Gamma Beam Radiosurgery of Ileum
+5973,DRG00402,DD25DZZ,Stereotactic Other Photon Radiosurgery of Colon
+5974,DRG00402,DD25HZZ,Stereotactic Particulate Radiosurgery of Colon
+5975,DRG00402,DD25JZZ,Stereotactic Gamma Beam Radiosurgery of Colon
+5976,DRG00402,DD27DZZ,Stereotactic Other Photon Radiosurgery of Rectum
+5977,DRG00402,DD27HZZ,Stereotactic Particulate Radiosurgery of Rectum
+5978,DRG00402,DD27JZZ,Stereotactic Gamma Beam Radiosurgery of Rectum
+5979,DRG00402,DF20DZZ,Stereotactic Other Photon Radiosurgery of Liver
+5980,DRG00402,DF20HZZ,Stereotactic Particulate Radiosurgery of Liver
+5981,DRG00402,DF20JZZ,Stereotactic Gamma Beam Radiosurgery of Liver
+5982,DRG00402,DF21DZZ,Stereotactic Other Photon Radiosurgery of Gallbladder
+5983,DRG00402,DF21HZZ,Stereotactic Particulate Radiosurgery of Gallbladder
+5984,DRG00402,DF21JZZ,Stereotactic Gamma Beam Radiosurgery of Gallbladder
+5985,DRG00402,DF22DZZ,Stereotactic Other Photon Radiosurgery of Bile Ducts
+5986,DRG00402,DF22HZZ,Stereotactic Particulate Radiosurgery of Bile Ducts
+5987,DRG00402,DF22JZZ,Stereotactic Gamma Beam Radiosurgery of Bile Ducts
+5988,DRG00402,DF23DZZ,Stereotactic Other Photon Radiosurgery of Pancreas
+5989,DRG00402,DF23HZZ,Stereotactic Particulate Radiosurgery of Pancreas
+5990,DRG00402,DF23JZZ,Stereotactic Gamma Beam Radiosurgery of Pancreas
+5991,DRG00402,DG20DZZ,Stereotactic Other Photon Radiosurgery of Pituitary Gland
+5992,DRG00402,DG20HZZ,Stereotactic Particulate Radiosurgery of Pituitary Gland
+5993,DRG00402,DG20JZZ,Stereotactic Gamma Beam Radiosurgery of Pituitary Gland
+5994,DRG00402,DG21DZZ,Stereotactic Other Photon Radiosurgery of Pineal Body
+5995,DRG00402,DG21HZZ,Stereotactic Particulate Radiosurgery of Pineal Body
+5996,DRG00402,DG21JZZ,Stereotactic Gamma Beam Radiosurgery of Pineal Body
+5997,DRG00402,DG22DZZ,Stereotactic Other Photon Radiosurgery of Adrenal Glands
+5998,DRG00402,DG22HZZ,Stereotactic Particulate Radiosurgery of Adrenal Glands
+5999,DRG00402,DG22JZZ,Stereotactic Gamma Beam Radiosurgery of Adrenal Glands
+6000,DRG00402,DG24DZZ,Stereotactic Other Photon Radiosurgery of Parathyroid Glands
+6001,DRG00402,DG24HZZ,Stereotactic Particulate Radiosurgery of Parathyroid Glands
+6002,DRG00402,DG24JZZ,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands
+6003,DRG00402,DG25DZZ,Stereotactic Other Photon Radiosurgery of Thyroid
+6004,DRG00402,DG25HZZ,Stereotactic Particulate Radiosurgery of Thyroid
+6005,DRG00402,DG25JZZ,Stereotactic Gamma Beam Radiosurgery of Thyroid
+6006,DRG00402,DM20DZZ,Stereotactic Other Photon Radiosurgery of Left Breast
+6007,DRG00402,DM20HZZ,Stereotactic Particulate Radiosurgery of Left Breast
+6008,DRG00402,DM20JZZ,Stereotactic Gamma Beam Radiosurgery of Left Breast
+6009,DRG00402,DM21DZZ,Stereotactic Other Photon Radiosurgery of Right Breast
+6010,DRG00402,DM21HZZ,Stereotactic Particulate Radiosurgery of Right Breast
+6011,DRG00402,DM21JZZ,Stereotactic Gamma Beam Radiosurgery of Right Breast
+6012,DRG00402,DT20DZZ,Stereotactic Other Photon Radiosurgery of Kidney
+6013,DRG00402,DT20HZZ,Stereotactic Particulate Radiosurgery of Kidney
+6014,DRG00402,DT20JZZ,Stereotactic Gamma Beam Radiosurgery of Kidney
+6015,DRG00402,DT21DZZ,Stereotactic Other Photon Radiosurgery of Ureter
+6016,DRG00402,DT21HZZ,Stereotactic Particulate Radiosurgery of Ureter
+6017,DRG00402,DT21JZZ,Stereotactic Gamma Beam Radiosurgery of Ureter
+6018,DRG00402,DT22DZZ,Stereotactic Other Photon Radiosurgery of Bladder
+6019,DRG00402,DT22HZZ,Stereotactic Particulate Radiosurgery of Bladder
+6020,DRG00402,DT22JZZ,Stereotactic Gamma Beam Radiosurgery of Bladder
+6021,DRG00402,DT23DZZ,Stereotactic Other Photon Radiosurgery of Urethra
+6022,DRG00402,DT23HZZ,Stereotactic Particulate Radiosurgery of Urethra
+6023,DRG00402,DT23JZZ,Stereotactic Gamma Beam Radiosurgery of Urethra
+6024,DRG00402,DU20DZZ,Stereotactic Other Photon Radiosurgery of Ovary
+6025,DRG00402,DU20HZZ,Stereotactic Particulate Radiosurgery of Ovary
+6026,DRG00402,DU20JZZ,Stereotactic Gamma Beam Radiosurgery of Ovary
+6027,DRG00402,DU21DZZ,Stereotactic Other Photon Radiosurgery of Cervix
+6028,DRG00402,DU21HZZ,Stereotactic Particulate Radiosurgery of Cervix
+6029,DRG00402,DU21JZZ,Stereotactic Gamma Beam Radiosurgery of Cervix
+6030,DRG00402,DU22DZZ,Stereotactic Other Photon Radiosurgery of Uterus
+6031,DRG00402,DU22HZZ,Stereotactic Particulate Radiosurgery of Uterus
+6032,DRG00402,DU22JZZ,Stereotactic Gamma Beam Radiosurgery of Uterus
+6033,DRG00402,DV20DZZ,Stereotactic Other Photon Radiosurgery of Prostate
+6034,DRG00402,DV20HZZ,Stereotactic Particulate Radiosurgery of Prostate
+6035,DRG00402,DV20JZZ,Stereotactic Gamma Beam Radiosurgery of Prostate
+6036,DRG00402,DV21DZZ,Stereotactic Other Photon Radiosurgery of Testis
+6037,DRG00402,DV21HZZ,Stereotactic Particulate Radiosurgery of Testis
+6038,DRG00402,DV21JZZ,Stereotactic Gamma Beam Radiosurgery of Testis
+6039,DRG00402,DW21DZZ,Stereotactic Other Photon Radiosurgery of Head and Neck
+6040,DRG00402,DW21HZZ,Stereotactic Particulate Radiosurgery of Head and Neck
+6041,DRG00402,DW21JZZ,Stereotactic Gamma Beam Radiosurgery of Head and Neck
+6042,DRG00402,DW22DZZ,Stereotactic Other Photon Radiosurgery of Chest
+6043,DRG00402,DW22HZZ,Stereotactic Particulate Radiosurgery of Chest
+6044,DRG00402,DW22JZZ,Stereotactic Gamma Beam Radiosurgery of Chest
+6045,DRG00402,DW23DZZ,Stereotactic Other Photon Radiosurgery of Abdomen
+6046,DRG00402,DW23HZZ,Stereotactic Particulate Radiosurgery of Abdomen
+6047,DRG00402,DW23JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen
+6048,DRG00402,DW26DZZ,Stereotactic Other Photon Radiosurgery of Pelvic Region
+6049,DRG00402,DW26HZZ,Stereotactic Particulate Radiosurgery of Pelvic Region
+6050,DRG00402,DW26JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvic Region

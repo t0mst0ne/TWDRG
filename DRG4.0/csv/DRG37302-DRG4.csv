@@ -1,0 +1,228 @@
+,DRG,CM-PCS,en
+1421,DRG37302,O24420,"Gestational diabetes mellitus in childbirth, diet controlled"
+1422,DRG37302,O24424,"Gestational diabetes mellitus in childbirth, insulin controlled"
+1423,DRG37302,O24429,"Gestational diabetes mellitus in childbirth, unspecified control"
+1424,DRG37302,O252,Malnutrition in childbirth
+1425,DRG37302,O2662,Liver and biliary tract disorders in childbirth
+1426,DRG37302,O2672,Subluxation of symphysis (pubis) in childbirth
+1427,DRG37302,O6012X0,"Preterm labor second trimester with preterm delivery second trimester, not applicable or unspecified"
+1428,DRG37302,O6012X1,"Preterm labor second trimester with preterm delivery second trimester, fetus 1"
+1429,DRG37302,O6012X2,"Preterm labor second trimester with preterm delivery second trimester, fetus 2"
+1430,DRG37302,O6012X3,"Preterm labor second trimester with preterm delivery second trimester, fetus 3"
+1431,DRG37302,O6012X4,"Preterm labor second trimester with preterm delivery second trimester, fetus 4"
+1432,DRG37302,O6012X5,"Preterm labor second trimester with preterm delivery second trimester, fetus 5"
+1433,DRG37302,O6012X9,"Preterm labor second trimester with preterm delivery second trimester, other fetus"
+1434,DRG37302,O6013X0,"Preterm labor second trimester with preterm delivery third trimester, not applicable or unspecified"
+1435,DRG37302,O6013X1,"Preterm labor second trimester with preterm delivery third trimester, fetus 1"
+1436,DRG37302,O6013X2,"Preterm labor second trimester with preterm delivery third trimester, fetus 2"
+1437,DRG37302,O6013X3,"Preterm labor second trimester with preterm delivery third trimester, fetus 3"
+1438,DRG37302,O6013X4,"Preterm labor second trimester with preterm delivery third trimester, fetus 4"
+1439,DRG37302,O6013X5,"Preterm labor second trimester with preterm delivery third trimester, fetus 5"
+1440,DRG37302,O6013X9,"Preterm labor second trimester with preterm delivery third trimester, other fetus"
+1441,DRG37302,O6014X0,"Preterm labor third trimester with preterm delivery third trimester, not applicable or unspecified"
+1442,DRG37302,O6014X1,"Preterm labor third trimester with preterm delivery third trimester, fetus 1"
+1443,DRG37302,O6014X2,"Preterm labor third trimester with preterm delivery third trimester, fetus 2"
+1444,DRG37302,O6014X3,"Preterm labor third trimester with preterm delivery third trimester, fetus 3"
+1445,DRG37302,O6014X4,"Preterm labor third trimester with preterm delivery third trimester, fetus 4"
+1446,DRG37302,O6014X5,"Preterm labor third trimester with preterm delivery third trimester, fetus 5"
+1447,DRG37302,O6014X9,"Preterm labor third trimester with preterm delivery third trimester, other fetus"
+1448,DRG37302,O6022X0,"Term delivery with preterm labor, second trimester, not applicable or unspecified"
+1449,DRG37302,O6022X1,"Term delivery with preterm labor, second trimester, fetus 1"
+1450,DRG37302,O6022X2,"Term delivery with preterm labor, second trimester, fetus 2"
+1451,DRG37302,O6022X3,"Term delivery with preterm labor, second trimester, fetus 3"
+1452,DRG37302,O6022X4,"Term delivery with preterm labor, second trimester, fetus 4"
+1453,DRG37302,O6022X5,"Term delivery with preterm labor, second trimester, fetus 5"
+1454,DRG37302,O6022X9,"Term delivery with preterm labor, second trimester, other fetus"
+1455,DRG37302,O6023X0,"Term delivery with preterm labor, third trimester, not applicable or unspecified"
+1456,DRG37302,O6023X1,"Term delivery with preterm labor, third trimester, fetus 1"
+1457,DRG37302,O6023X2,"Term delivery with preterm labor, third trimester, fetus 2"
+1458,DRG37302,O6023X3,"Term delivery with preterm labor, third trimester, fetus 3"
+1459,DRG37302,O6023X4,"Term delivery with preterm labor, third trimester, fetus 4"
+1460,DRG37302,O6023X5,"Term delivery with preterm labor, third trimester, fetus 5"
+1461,DRG37302,O6023X9,"Term delivery with preterm labor, third trimester, other fetus"
+1462,DRG37302,O640XX0,"Obstructed labor due to incomplete rotation of fetal head, not applicable or unspecified"
+1463,DRG37302,O640XX1,"Obstructed labor due to incomplete rotation of fetal head, fetus 1"
+1464,DRG37302,O640XX2,"Obstructed labor due to incomplete rotation of fetal head, fetus 2"
+1465,DRG37302,O640XX3,"Obstructed labor due to incomplete rotation of fetal head, fetus 3"
+1466,DRG37302,O640XX4,"Obstructed labor due to incomplete rotation of fetal head, fetus 4"
+1467,DRG37302,O640XX5,"Obstructed labor due to incomplete rotation of fetal head, fetus 5"
+1468,DRG37302,O640XX9,"Obstructed labor due to incomplete rotation of fetal head, other fetus"
+1469,DRG37302,O641XX0,"Obstructed labor due to breech presentation, not applicable or unspecified"
+1470,DRG37302,O641XX1,"Obstructed labor due to breech presentation, fetus 1"
+1471,DRG37302,O641XX2,"Obstructed labor due to breech presentation, fetus 2"
+1472,DRG37302,O641XX3,"Obstructed labor due to breech presentation, fetus 3"
+1473,DRG37302,O641XX4,"Obstructed labor due to breech presentation, fetus 4"
+1474,DRG37302,O641XX5,"Obstructed labor due to breech presentation, fetus 5"
+1475,DRG37302,O641XX9,"Obstructed labor due to breech presentation, other fetus"
+1476,DRG37302,O642XX0,"Obstructed labor due to face presentation, not applicable or unspecified"
+1477,DRG37302,O642XX1,"Obstructed labor due to face presentation, fetus 1"
+1478,DRG37302,O642XX2,"Obstructed labor due to face presentation, fetus 2"
+1479,DRG37302,O642XX3,"Obstructed labor due to face presentation, fetus 3"
+1480,DRG37302,O642XX4,"Obstructed labor due to face presentation, fetus 4"
+1481,DRG37302,O642XX5,"Obstructed labor due to face presentation, fetus 5"
+1482,DRG37302,O642XX9,"Obstructed labor due to face presentation, other fetus"
+1483,DRG37302,O643XX0,"Obstructed labor due to brow presentation, not applicable or unspecified"
+1484,DRG37302,O643XX1,"Obstructed labor due to brow presentation, fetus 1"
+1485,DRG37302,O643XX2,"Obstructed labor due to brow presentation, fetus 2"
+1486,DRG37302,O643XX3,"Obstructed labor due to brow presentation, fetus 3"
+1487,DRG37302,O643XX4,"Obstructed labor due to brow presentation, fetus 4"
+1488,DRG37302,O643XX5,"Obstructed labor due to brow presentation, fetus 5"
+1489,DRG37302,O643XX9,"Obstructed labor due to brow presentation, other fetus"
+1490,DRG37302,O644XX0,"Obstructed labor due to shoulder presentation, not applicable or unspecified"
+1491,DRG37302,O644XX1,"Obstructed labor due to shoulder presentation, fetus 1"
+1492,DRG37302,O644XX2,"Obstructed labor due to shoulder presentation, fetus 2"
+1493,DRG37302,O644XX3,"Obstructed labor due to shoulder presentation, fetus 3"
+1494,DRG37302,O644XX4,"Obstructed labor due to shoulder presentation, fetus 4"
+1495,DRG37302,O644XX5,"Obstructed labor due to shoulder presentation, fetus 5"
+1496,DRG37302,O644XX9,"Obstructed labor due to shoulder presentation, other fetus"
+1497,DRG37302,O645XX0,"Obstructed labor due to compound presentation, not applicable or unspecified"
+1498,DRG37302,O645XX1,"Obstructed labor due to compound presentation, fetus 1"
+1499,DRG37302,O645XX2,"Obstructed labor due to compound presentation, fetus 2"
+1500,DRG37302,O645XX3,"Obstructed labor due to compound presentation, fetus 3"
+1501,DRG37302,O645XX4,"Obstructed labor due to compound presentation, fetus 4"
+1502,DRG37302,O645XX5,"Obstructed labor due to compound presentation, fetus 5"
+1503,DRG37302,O645XX9,"Obstructed labor due to compound presentation, other fetus"
+1504,DRG37302,O648XX0,"Obstructed labor due to other malposition and malpresentation, not applicable or unspecified"
+1505,DRG37302,O648XX1,"Obstructed labor due to other malposition and malpresentation, fetus 1"
+1506,DRG37302,O648XX2,"Obstructed labor due to other malposition and malpresentation, fetus 2"
+1507,DRG37302,O648XX3,"Obstructed labor due to other malposition and malpresentation, fetus 3"
+1508,DRG37302,O648XX4,"Obstructed labor due to other malposition and malpresentation, fetus 4"
+1509,DRG37302,O648XX5,"Obstructed labor due to other malposition and malpresentation, fetus 5"
+1510,DRG37302,O648XX9,"Obstructed labor due to other malposition and malpresentation, other fetus"
+1511,DRG37302,O649XX0,"Obstructed labor due to malposition and malpresentation, unspecified, not applicable or unspecified"
+1512,DRG37302,O649XX1,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 1"
+1513,DRG37302,O649XX2,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 2"
+1514,DRG37302,O649XX3,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 3"
+1515,DRG37302,O649XX4,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 4"
+1516,DRG37302,O649XX5,"Obstructed labor due to malposition and malpresentation, unspecified, fetus 5"
+1517,DRG37302,O649XX9,"Obstructed labor due to malposition and malpresentation, unspecified, other fetus"
+1518,DRG37302,O650,Obstructed labor due to deformed pelvis
+1519,DRG37302,O651,Obstructed labor due to generally contracted pelvis
+1520,DRG37302,O652,Obstructed labor due to pelvic inlet contraction
+1521,DRG37302,O653,Obstructed labor due to pelvic outlet and mid-cavity contraction
+1522,DRG37302,O654,"Obstructed labor due to fetopelvic disproportion, unspecified"
+1523,DRG37302,O655,Obstructed labor due to abnormality of maternal pelvic organs
+1524,DRG37302,O658,Obstructed labor due to other maternal pelvic abnormalities
+1525,DRG37302,O659,"Obstructed labor due to maternal pelvic abnormality, unspecified"
+1526,DRG37302,O660,Obstructed labor due to shoulder dystocia
+1527,DRG37302,O661,Obstructed labor due to locked twins
+1528,DRG37302,O662,Obstructed labor due to unusually large fetus
+1529,DRG37302,O663,Obstructed labor due to other abnormalities of fetus
+1530,DRG37302,O6641,Failed attempted vaginal birth after previous cesarean delivery
+1531,DRG37302,O665,Attempted application of vacuum extractor and forceps
+1532,DRG37302,O666,Obstructed labor due to other multiple fetuses
+1533,DRG37302,O668,Other specified obstructed labor
+1534,DRG37302,O669,"Obstructed labor, unspecified"
+1535,DRG37302,O68,Labor and delivery complicated by abnormality of fetal acid-base balance
+1536,DRG37302,O690XX0,"Labor and delivery complicated by prolapse of cord, not applicable or unspecified"
+1537,DRG37302,O690XX1,"Labor and delivery complicated by prolapse of cord, fetus 1"
+1538,DRG37302,O690XX2,"Labor and delivery complicated by prolapse of cord, fetus 2"
+1539,DRG37302,O690XX3,"Labor and delivery complicated by prolapse of cord, fetus 3"
+1540,DRG37302,O690XX4,"Labor and delivery complicated by prolapse of cord, fetus 4"
+1541,DRG37302,O690XX5,"Labor and delivery complicated by prolapse of cord, fetus 5"
+1542,DRG37302,O690XX9,"Labor and delivery complicated by prolapse of cord, other fetus"
+1543,DRG37302,O691XX0,"Labor and delivery complicated by cord around neck, with compression, not applicable or unspecified"
+1544,DRG37302,O691XX1,"Labor and delivery complicated by cord around neck, with compression, fetus 1"
+1545,DRG37302,O691XX2,"Labor and delivery complicated by cord around neck, with compression, fetus 2"
+1546,DRG37302,O691XX3,"Labor and delivery complicated by cord around neck, with compression, fetus 3"
+1547,DRG37302,O691XX4,"Labor and delivery complicated by cord around neck, with compression, fetus 4"
+1548,DRG37302,O691XX5,"Labor and delivery complicated by cord around neck, with compression, fetus 5"
+1549,DRG37302,O691XX9,"Labor and delivery complicated by cord around neck, with compression, other fetus"
+1550,DRG37302,O692XX0,"Labor and delivery complicated by other cord entanglement, with compression, not applicable or unspecified"
+1551,DRG37302,O692XX1,"Labor and delivery complicated by other cord entanglement, with compression, fetus 1"
+1552,DRG37302,O692XX2,"Labor and delivery complicated by other cord entanglement, with compression, fetus 2"
+1553,DRG37302,O692XX3,"Labor and delivery complicated by other cord entanglement, with compression, fetus 3"
+1554,DRG37302,O692XX4,"Labor and delivery complicated by other cord entanglement, with compression, fetus 4"
+1555,DRG37302,O692XX5,"Labor and delivery complicated by other cord entanglement, with compression, fetus 5"
+1556,DRG37302,O692XX9,"Labor and delivery complicated by other cord entanglement, with compression, other fetus"
+1557,DRG37302,O693XX0,"Labor and delivery complicated by short cord, not applicable or unspecified"
+1558,DRG37302,O693XX1,"Labor and delivery complicated by short cord, fetus 1"
+1559,DRG37302,O693XX2,"Labor and delivery complicated by short cord, fetus 2"
+1560,DRG37302,O693XX3,"Labor and delivery complicated by short cord, fetus 3"
+1561,DRG37302,O693XX4,"Labor and delivery complicated by short cord, fetus 4"
+1562,DRG37302,O693XX5,"Labor and delivery complicated by short cord, fetus 5"
+1563,DRG37302,O693XX9,"Labor and delivery complicated by short cord, other fetus"
+1564,DRG37302,O694XX0,"Labor and delivery complicated by vasa previa, not applicable or unspecified"
+1565,DRG37302,O694XX1,"Labor and delivery complicated by vasa previa, fetus 1"
+1566,DRG37302,O694XX2,"Labor and delivery complicated by vasa previa, fetus 2"
+1567,DRG37302,O694XX3,"Labor and delivery complicated by vasa previa, fetus 3"
+1568,DRG37302,O694XX4,"Labor and delivery complicated by vasa previa, fetus 4"
+1569,DRG37302,O694XX5,"Labor and delivery complicated by vasa previa, fetus 5"
+1570,DRG37302,O694XX9,"Labor and delivery complicated by vasa previa, other fetus"
+1571,DRG37302,O695XX0,"Labor and delivery complicated by vascular lesion of cord, not applicable or unspecified"
+1572,DRG37302,O695XX1,"Labor and delivery complicated by vascular lesion of cord, fetus 1"
+1573,DRG37302,O695XX2,"Labor and delivery complicated by vascular lesion of cord, fetus 2"
+1574,DRG37302,O695XX3,"Labor and delivery complicated by vascular lesion of cord, fetus 3"
+1575,DRG37302,O695XX4,"Labor and delivery complicated by vascular lesion of cord, fetus 4"
+1576,DRG37302,O695XX5,"Labor and delivery complicated by vascular lesion of cord, fetus 5"
+1577,DRG37302,O695XX9,"Labor and delivery complicated by vascular lesion of cord, other fetus"
+1578,DRG37302,O6981X1,"Labor and delivery complicated by cord around neck, without compression, fetus 1"
+1579,DRG37302,O6981X2,"Labor and delivery complicated by cord around neck, without compression, fetus 2"
+1580,DRG37302,O6981X3,"Labor and delivery complicated by cord around neck, without compression, fetus 3"
+1581,DRG37302,O6981X4,"Labor and delivery complicated by cord around neck, without compression, fetus 4"
+1582,DRG37302,O6981X5,"Labor and delivery complicated by cord around neck, without compression, fetus 5"
+1583,DRG37302,O6981X9,"Labor and delivery complicated by cord around neck, without compression, other fetus"
+1584,DRG37302,O6982X1,"Labor and delivery complicated by other cord entanglement, without compression, fetus 1"
+1585,DRG37302,O6982X2,"Labor and delivery complicated by other cord entanglement, without compression, fetus 2"
+1586,DRG37302,O6982X3,"Labor and delivery complicated by other cord entanglement, without compression, fetus 3"
+1587,DRG37302,O6982X4,"Labor and delivery complicated by other cord entanglement, without compression, fetus 4"
+1588,DRG37302,O6982X5,"Labor and delivery complicated by other cord entanglement, without compression, fetus 5"
+1589,DRG37302,O6982X9,"Labor and delivery complicated by other cord entanglement, without compression, other fetus"
+1590,DRG37302,O6989X1,"Labor and delivery complicated by other cord complications, fetus 1"
+1591,DRG37302,O6989X2,"Labor and delivery complicated by other cord complications, fetus 2"
+1592,DRG37302,O6989X3,"Labor and delivery complicated by other cord complications, fetus 3"
+1593,DRG37302,O6989X4,"Labor and delivery complicated by other cord complications, fetus 4"
+1594,DRG37302,O6989X5,"Labor and delivery complicated by other cord complications, fetus 5"
+1595,DRG37302,O6989X9,"Labor and delivery complicated by other cord complications, other fetus"
+1596,DRG37302,O699XX0,"Labor and delivery complicated by cord complication, unspecified, not applicable or unspecified"
+1597,DRG37302,O699XX1,"Labor and delivery complicated by cord complication, unspecified, fetus 1"
+1598,DRG37302,O699XX2,"Labor and delivery complicated by cord complication, unspecified, fetus 2"
+1599,DRG37302,O699XX3,"Labor and delivery complicated by cord complication, unspecified, fetus 3"
+1600,DRG37302,O699XX4,"Labor and delivery complicated by cord complication, unspecified, fetus 4"
+1601,DRG37302,O699XX5,"Labor and delivery complicated by cord complication, unspecified, fetus 5"
+1602,DRG37302,O699XX9,"Labor and delivery complicated by cord complication, unspecified, other fetus"
+1603,DRG37302,O7100,"Rupture of uterus before onset of labor, unspecified trimester"
+1604,DRG37302,O711,Rupture of uterus during labor
+1605,DRG37302,O7181,"Laceration of uterus, not elsewhere classified"
+1606,DRG37302,O755,Delayed delivery after artificial rupture of membranes
+1607,DRG37302,O7581,Maternal exhaustion complicating labor and delivery
+1608,DRG37302,O7582,"Onset (spontaneous) of labor after 37 completed weeks of gestation but before 39 completed weeks gestation, with delivery by (planned) cesarean section"
+1609,DRG37302,O770,Labor and delivery complicated by meconium in amniotic fluid
+1610,DRG37302,O771,Fetal stress in labor or delivery due to drug administration
+1611,DRG37302,O778,Labor and delivery complicated by other evidence of fetal stress
+1612,DRG37302,O779,"Labor and delivery complicated by fetal stress, unspecified"
+1613,DRG37302,O80,Encounter for full-term uncomplicated delivery
+1614,DRG37302,O82,Encounter for cesarean delivery without indication
+1615,DRG37302,O9902,Anemia complicating childbirth
+1616,DRG37302,O9912,Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating childbirth
+1617,DRG37302,O99214,Obesity complicating childbirth
+1618,DRG37302,O99284,"Endocrine, nutritional and metabolic diseases complicating childbirth"
+1619,DRG37302,O99314,Alcohol use complicating childbirth
+1620,DRG37302,O99324,Drug use complicating childbirth
+1621,DRG37302,O99334,Smoking (tobacco) complicating childbirth
+1622,DRG37302,O99344,Other mental disorders complicating childbirth
+1623,DRG37302,O99354,Diseases of the nervous system complicating childbirth
+1624,DRG37302,O9952,Diseases of the respiratory system complicating childbirth
+1625,DRG37302,O9962,Diseases of the digestive system complicating childbirth
+1626,DRG37302,O9972,Diseases of the skin and subcutaneous tissue complicating childbirth
+1627,DRG37302,O99814,Abnormal glucose complicating childbirth
+1628,DRG37302,O99824,Streptococcus B carrier state complicating childbirth
+1629,DRG37302,O99844,Bariatric surgery status complicating childbirth
+1630,DRG37302,O9A12,Malignant neoplasm complicating childbirth
+1631,DRG37302,O9A22,"Injury, poisoning and certain other consequences of external causes complicating childbirth"
+1632,DRG37302,O9A32,Physical abuse complicating childbirth
+1633,DRG37302,O9A42,Sexual abuse complicating childbirth
+1634,DRG37302,O9A52,Psychological abuse complicating childbirth
+1637,DRG37302,0DQP7ZZ,"Repair Rectum, Via Naturalor Artificial Opening"
+1638,DRG37302,10A07Z6,"Abortion of Products of Conception, Vacuum, Via Natural or Artificial Opening"
+1639,DRG37302,10D07Z3,"Extraction of Products of Conception, Low Forceps, Via Naturalor Artificial Opening"
+1640,DRG37302,10D07Z4,"Extraction of Products of Conception, Mid Forceps, Via Natural or Artificial Opening"
+1641,DRG37302,10D07Z5,"Extraction of Products of Conception, HighForceps, Via Natural or Artificial Opening"
+1642,DRG37302,10D07Z6,"Extraction of Products of Conception, Vacuum, Via Natural or Artificial Opening"
+1643,DRG37302,10D07Z7,"Extraction of Products of Conception, Internal Version, Via Natural or Artificial Opening"
+1644,DRG37302,10D07Z8,"Extraction of Products of Conception, Other, ViaNatural or Artificial Opening"
+1645,DRG37302,10E0XZZ,"Delivery of Products of Conception, External Approach"
+1646,DRG37302,10S07ZZ,"Reposition Products of Conception, Via Natural or Artificial Opening"
+1649,DRG37302,Z370,Single live birth
+1650,DRG37302,Z371,Single stillbirth
+1651,DRG37302,Z379,"Outcome of delivery, unspecified"

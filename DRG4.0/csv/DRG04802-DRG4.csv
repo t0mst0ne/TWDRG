@@ -1,0 +1,2345 @@
+,DRG,CM-PCS,en
+3888,DRG04802,A1850,"Tuberculosis of eye, unspecified"
+3889,DRG04802,A1851,Tuberculous episcleritis
+3890,DRG04802,A1852,Tuberculous keratitis
+3891,DRG04802,A1853,Tuberculous chorioretinitis
+3892,DRG04802,A1854,Tuberculous iridocyclitis
+3893,DRG04802,A1859,Other tuberculosis of eye
+3894,DRG04802,A3686,Diphtheritic conjunctivitis
+3895,DRG04802,A5031,Late congenital syphilitic interstitial keratitis
+3896,DRG04802,A5143,Secondary syphilitic oculopathy
+3897,DRG04802,A5271,Late syphilitic oculopathy
+3898,DRG04802,A5430,"Gonococcal infection of eye, unspecified"
+3899,DRG04802,A5431,Gonococcal conjunctivitis
+3900,DRG04802,A5432,Gonococcal iridocyclitis
+3901,DRG04802,A5433,Gonococcal keratitis
+3902,DRG04802,A5439,Other gonococcal eye infection
+3903,DRG04802,A710,Initial stage of trachoma
+3904,DRG04802,A711,Active stage of trachoma
+3905,DRG04802,A719,"Trachoma, unspecified"
+3906,DRG04802,A740,Chlamydial conjunctivitis
+3907,DRG04802,B0581,Measles keratitis and keratoconjunctivitis
+3908,DRG04802,B300,Keratoconjunctivitis due to adenovirus
+3909,DRG04802,B301,Conjunctivitis due to adenovirus
+3910,DRG04802,B302,Viral pharyngoconjunctivitis
+3911,DRG04802,B303,Acute epidemic hemorrhagic conjunctivitis (enteroviral)
+3912,DRG04802,B308,Other viral conjunctivitis
+3913,DRG04802,B309,"Viral conjunctivitis, unspecified"
+3914,DRG04802,B5801,Toxoplasma chorioretinitis
+3915,DRG04802,B5809,Other toxoplasma oculopathy
+3916,DRG04802,B940,Sequelae of trachoma
+3917,DRG04802,D0410,"Carcinoma in situ of skin of unspecified eyelid, including canthus"
+3918,DRG04802,D0411,"Carcinoma in situ of skin of right eyelid, including canthus"
+3919,DRG04802,D0412,"Carcinoma in situ of skin of left eyelid, including canthus"
+3920,DRG04802,D0920,Carcinoma in situ of unspecified eye
+3921,DRG04802,D0921,Carcinoma in situ of right eye
+3922,DRG04802,D0922,Carcinoma in situ of left eye
+3923,DRG04802,D2210,"Melanocytic nevi of unspecified eyelid, including canthus"
+3924,DRG04802,D2211,"Melanocytic nevi of right eyelid, including canthus"
+3925,DRG04802,D2212,"Melanocytic nevi of left eyelid, including canthus"
+3926,DRG04802,D2310,"Other benign neoplasm of skin of unspecified eyelid, including canthus"
+3927,DRG04802,D2311,"Other benign neoplasm of skin of right eyelid, including canthus"
+3928,DRG04802,D2312,"Other benign neoplasm of skin of left eyelid, including canthus"
+3929,DRG04802,D3100,Benign neoplasm of unspecified conjunctiva
+3930,DRG04802,D3101,Benign neoplasm of right conjunctiva
+3931,DRG04802,D3102,Benign neoplasm of left conjunctiva
+3932,DRG04802,D3110,Benign neoplasm of unspecified cornea
+3933,DRG04802,D3111,Benign neoplasm of right cornea
+3934,DRG04802,D3112,Benign neoplasm of left cornea
+3935,DRG04802,D3120,Benign neoplasm of unspecified retina
+3936,DRG04802,D3121,Benign neoplasm of right retina
+3937,DRG04802,D3122,Benign neoplasm of left retina
+3938,DRG04802,D3130,Benign neoplasm of unspecified choroid
+3939,DRG04802,D3131,Benign neoplasm of right choroid
+3940,DRG04802,D3132,Benign neoplasm of left choroid
+3941,DRG04802,D3140,Benign neoplasm of unspecified ciliary body
+3942,DRG04802,D3141,Benign neoplasm of right ciliary body
+3943,DRG04802,D3142,Benign neoplasm of left ciliary body
+3944,DRG04802,D3150,Benign neoplasm of unspecified lacrimal gland and duct
+3945,DRG04802,D3151,Benign neoplasm of right lacrimal gland and duct
+3946,DRG04802,D3152,Benign neoplasm of left lacrimal gland and duct
+3947,DRG04802,D3160,Benign neoplasm of unspecified site of unspecified orbit
+3948,DRG04802,D3161,Benign neoplasm of unspecified site of right orbit
+3949,DRG04802,D3162,Benign neoplasm of unspecified site of left orbit
+3950,DRG04802,D3190,Benign neoplasm of unspecified part of unspecified eye
+3951,DRG04802,D3191,Benign neoplasm of unspecified part of right eye
+3952,DRG04802,D3192,Benign neoplasm of unspecified part of left eye
+3953,DRG04802,E08311,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy with macular edema
+3954,DRG04802,E08319,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy without macular edema
+3955,DRG04802,E08321,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema
+3956,DRG04802,E08329,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema
+3957,DRG04802,E08331,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema
+3958,DRG04802,E08339,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema
+3959,DRG04802,E08341,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema
+3960,DRG04802,E08349,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema
+3961,DRG04802,E08351,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema
+3962,DRG04802,E08359,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema
+3963,DRG04802,E0836,Diabetes mellitus due to underlying condition with diabetic cataract
+3964,DRG04802,E0839,Diabetes mellitus due to underlying condition with other diabetic ophthalmic complication
+3965,DRG04802,E09311,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy with macular edema
+3966,DRG04802,E09319,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy without macular edema
+3967,DRG04802,E09321,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+3968,DRG04802,E09329,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+3969,DRG04802,E09331,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+3970,DRG04802,E09339,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+3971,DRG04802,E09341,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+3972,DRG04802,E09349,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+3973,DRG04802,E09351,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema
+3974,DRG04802,E09359,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema
+3975,DRG04802,E0936,Drug or chemical induced diabetes mellitus with diabetic cataract
+3976,DRG04802,E0939,Drug or chemical induced diabetes mellitus with other diabetic ophthalmic complication
+3977,DRG04802,E10311,Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema
+3978,DRG04802,E10319,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema
+3979,DRG04802,E10321,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+3980,DRG04802,E10329,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+3981,DRG04802,E10331,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+3982,DRG04802,E10339,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+3983,DRG04802,E10341,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+3984,DRG04802,E10349,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+3985,DRG04802,E10351,Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+3986,DRG04802,E10359,Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+3987,DRG04802,E1036,Type 1 diabetes mellitus with diabetic cataract
+3988,DRG04802,E1039,Type 1 diabetes mellitus with other diabetic ophthalmic complication
+3989,DRG04802,E11311,Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema
+3990,DRG04802,E11319,Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema
+3991,DRG04802,E11321,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+3992,DRG04802,E11329,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+3993,DRG04802,E11331,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+3994,DRG04802,E11339,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+3995,DRG04802,E11341,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+3996,DRG04802,E11349,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+3997,DRG04802,E11351,Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+3998,DRG04802,E11359,Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+3999,DRG04802,E1136,Type 2 diabetes mellitus with diabetic cataract
+4000,DRG04802,E1139,Type 2 diabetes mellitus with other diabetic ophthalmic complication
+4001,DRG04802,E13311,Other specified diabetes mellitus with unspecified diabetic retinopathy with macular edema
+4002,DRG04802,E13319,Other specified diabetes mellitus with unspecified diabetic retinopathy without macular edema
+4003,DRG04802,E13321,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+4004,DRG04802,E13329,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+4005,DRG04802,E13331,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+4006,DRG04802,E13339,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+4007,DRG04802,E13341,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+4008,DRG04802,E13349,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+4009,DRG04802,E13351,Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema
+4010,DRG04802,E13359,Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema
+4011,DRG04802,E1336,Other specified diabetes mellitus with diabetic cataract
+4012,DRG04802,E1339,Other specified diabetes mellitus with other diabetic ophthalmic complication
+4013,DRG04802,E500,Vitamin A deficiency with conjunctival xerosis
+4014,DRG04802,E501,Vitamin A deficiency with Bitot's spot and conjunctival xerosis
+4015,DRG04802,E502,Vitamin A deficiency with corneal xerosis
+4016,DRG04802,E503,Vitamin A deficiency with corneal ulceration and xerosis
+4017,DRG04802,E504,Vitamin A deficiency with keratomalacia
+4018,DRG04802,E505,Vitamin A deficiency with night blindness
+4019,DRG04802,E506,Vitamin A deficiency with xerophthalmic scars of cornea
+4020,DRG04802,E507,Other ocular manifestations of vitamin A deficiency
+4021,DRG04802,G245,Blepharospasm
+4022,DRG04802,H00011,Hordeolum externum right upper eyelid
+4023,DRG04802,H00012,Hordeolum externum right lower eyelid
+4024,DRG04802,H00013,"Hordeolum externum right eye, unspecified eyelid"
+4025,DRG04802,H00014,Hordeolum externum left upper eyelid
+4026,DRG04802,H00015,Hordeolum externum left lower eyelid
+4027,DRG04802,H00016,"Hordeolum externum left eye, unspecified eyelid"
+4028,DRG04802,H00019,"Hordeolum externum unspecified eye, unspecified eyelid"
+4029,DRG04802,H00021,Hordeolum internum right upper eyelid
+4030,DRG04802,H00022,Hordeolum internum right lower eyelid
+4031,DRG04802,H00023,"Hordeolum internum right eye, unspecified eyelid"
+4032,DRG04802,H00024,Hordeolum internum left upper eyelid
+4033,DRG04802,H00025,Hordeolum internum left lower eyelid
+4034,DRG04802,H00026,"Hordeolum internum left eye, unspecified eyelid"
+4035,DRG04802,H00029,"Hordeolum internum unspecified eye, unspecified eyelid"
+4036,DRG04802,H00031,Abscess of right upper eyelid
+4037,DRG04802,H00032,Abscess of right lower eyelid
+4038,DRG04802,H00033,"Abscess of eyelid right eye, unspecified eyelid"
+4039,DRG04802,H00034,Abscess of left upper eyelid
+4040,DRG04802,H00035,Abscess of left lower eyelid
+4041,DRG04802,H00036,"Abscess of eyelid left eye, unspecified eyelid"
+4042,DRG04802,H00039,"Abscess of eyelid unspecified eye, unspecified eyelid"
+4043,DRG04802,H0011,Chalazion right upper eyelid
+4044,DRG04802,H0012,Chalazion right lower eyelid
+4045,DRG04802,H0013,"Chalazion right eye, unspecified eyelid"
+4046,DRG04802,H0014,Chalazion left upper eyelid
+4047,DRG04802,H0015,Chalazion left lower eyelid
+4048,DRG04802,H0016,"Chalazion left eye, unspecified eyelid"
+4049,DRG04802,H0019,"Chalazion unspecified eye, unspecified eyelid"
+4050,DRG04802,H01001,Unspecified blepharitis right upper eyelid
+4051,DRG04802,H01002,Unspecified blepharitis right lower eyelid
+4052,DRG04802,H01003,"Unspecified blepharitis right eye, unspecified eyelid"
+4053,DRG04802,H01004,Unspecified blepharitis left upper eyelid
+4054,DRG04802,H01005,Unspecified blepharitis left lower eyelid
+4055,DRG04802,H01006,"Unspecified blepharitis left eye, unspecified eyelid"
+4056,DRG04802,H01009,"Unspecified blepharitis unspecified eye, unspecified eyelid"
+4057,DRG04802,H01011,Ulcerative blepharitis right upper eyelid
+4058,DRG04802,H01012,Ulcerative blepharitis right lower eyelid
+4059,DRG04802,H01013,"Ulcerative blepharitis right eye, unspecified eyelid"
+4060,DRG04802,H01014,Ulcerative blepharitis left upper eyelid
+4061,DRG04802,H01015,Ulcerative blepharitis left lower eyelid
+4062,DRG04802,H01016,"Ulcerative blepharitis left eye, unspecified eyelid"
+4063,DRG04802,H01019,"Ulcerative blepharitis unspecified eye, unspecified eyelid"
+4064,DRG04802,H01021,Squamous blepharitis right upper eyelid
+4065,DRG04802,H01022,Squamous blepharitis right lower eyelid
+4066,DRG04802,H01023,"Squamous blepharitis right eye, unspecified eyelid"
+4067,DRG04802,H01024,Squamous blepharitis left upper eyelid
+4068,DRG04802,H01025,Squamous blepharitis left lower eyelid
+4069,DRG04802,H01026,"Squamous blepharitis left eye, unspecified eyelid"
+4070,DRG04802,H01029,"Squamous blepharitis unspecified eye, unspecified eyelid"
+4071,DRG04802,H01111,Allergic dermatitis of right upper eyelid
+4072,DRG04802,H01112,Allergic dermatitis of right lower eyelid
+4073,DRG04802,H01113,"Allergic dermatitis of right eye, unspecified eyelid"
+4074,DRG04802,H01114,Allergic dermatitis of left upper eyelid
+4075,DRG04802,H01115,Allergic dermatitis of left lower eyelid
+4076,DRG04802,H01116,"Allergic dermatitis of left eye, unspecified eyelid"
+4077,DRG04802,H01119,"Allergic dermatitis of unspecified eye, unspecified eyelid"
+4078,DRG04802,H01121,Discoid lupus erythematosus of right upper eyelid
+4079,DRG04802,H01122,Discoid lupus erythematosus of right lower eyelid
+4080,DRG04802,H01123,"Discoid lupus erythematosus of right eye, unspecified eyelid"
+4081,DRG04802,H01124,Discoid lupus erythematosus of left upper eyelid
+4082,DRG04802,H01125,Discoid lupus erythematosus of left lower eyelid
+4083,DRG04802,H01126,"Discoid lupus erythematosus of left eye, unspecified eyelid"
+4084,DRG04802,H01129,"Discoid lupus erythematosus of unspecified eye, unspecified eyelid"
+4085,DRG04802,H01131,Eczematous dermatitis of right upper eyelid
+4086,DRG04802,H01132,Eczematous dermatitis of right lower eyelid
+4087,DRG04802,H01133,"Eczematous dermatitis of right eye, unspecified eyelid"
+4088,DRG04802,H01134,Eczematous dermatitis of left upper eyelid
+4089,DRG04802,H01135,Eczematous dermatitis of left lower eyelid
+4090,DRG04802,H01136,"Eczematous dermatitis of left eye, unspecified eyelid"
+4091,DRG04802,H01139,"Eczematous dermatitis of unspecified eye, unspecified eyelid"
+4092,DRG04802,H01141,Xeroderma of right upper eyelid
+4093,DRG04802,H01142,Xeroderma of right lower eyelid
+4094,DRG04802,H01143,"Xeroderma of right eye, unspecified eyelid"
+4095,DRG04802,H01144,Xeroderma of left upper eyelid
+4096,DRG04802,H01145,Xeroderma of left lower eyelid
+4097,DRG04802,H01146,"Xeroderma of left eye, unspecified eyelid"
+4098,DRG04802,H01149,"Xeroderma of unspecified eye, unspecified eyelid"
+4099,DRG04802,H018,Other specified inflammations of eyelid
+4100,DRG04802,H019,Unspecified inflammation of eyelid
+4101,DRG04802,H02001,Unspecified entropion of right upper eyelid
+4102,DRG04802,H02002,Unspecified entropion of right lower eyelid
+4103,DRG04802,H02003,"Unspecified entropion of right eye, unspecified eyelid"
+4104,DRG04802,H02004,Unspecified entropion of left upper eyelid
+4105,DRG04802,H02005,Unspecified entropion of left lower eyelid
+4106,DRG04802,H02006,"Unspecified entropion of left eye, unspecified eyelid"
+4107,DRG04802,H02009,"Unspecified entropion of unspecified eye, unspecified eyelid"
+4108,DRG04802,H02011,Cicatricial entropion of right upper eyelid
+4109,DRG04802,H02012,Cicatricial entropion of right lower eyelid
+4110,DRG04802,H02013,"Cicatricial entropion of right eye, unspecified eyelid"
+4111,DRG04802,H02014,Cicatricial entropion of left upper eyelid
+4112,DRG04802,H02015,Cicatricial entropion of left lower eyelid
+4113,DRG04802,H02016,"Cicatricial entropion of left eye, unspecified eyelid"
+4114,DRG04802,H02019,"Cicatricial entropion of unspecified eye, unspecified eyelid"
+4115,DRG04802,H02021,Mechanical entropion of right upper eyelid
+4116,DRG04802,H02022,Mechanical entropion of right lower eyelid
+4117,DRG04802,H02023,"Mechanical entropion of right eye, unspecified eyelid"
+4118,DRG04802,H02024,Mechanical entropion of left upper eyelid
+4119,DRG04802,H02025,Mechanical entropion of left lower eyelid
+4120,DRG04802,H02026,"Mechanical entropion of left eye, unspecified eyelid"
+4121,DRG04802,H02029,"Mechanical entropion of unspecified eye, unspecified eyelid"
+4122,DRG04802,H02031,Senile entropion of right upper eyelid
+4123,DRG04802,H02032,Senile entropion of right lower eyelid
+4124,DRG04802,H02033,"Senile entropion of right eye, unspecified eyelid"
+4125,DRG04802,H02034,Senile entropion of left upper eyelid
+4126,DRG04802,H02035,Senile entropion of left lower eyelid
+4127,DRG04802,H02036,"Senile entropion of left eye, unspecified eyelid"
+4128,DRG04802,H02039,"Senile entropion of unspecified eye, unspecified eyelid"
+4129,DRG04802,H02041,Spastic entropion of right upper eyelid
+4130,DRG04802,H02042,Spastic entropion of right lower eyelid
+4131,DRG04802,H02043,"Spastic entropion of right eye, unspecified eyelid"
+4132,DRG04802,H02044,Spastic entropion of left upper eyelid
+4133,DRG04802,H02045,Spastic entropion of left lower eyelid
+4134,DRG04802,H02046,"Spastic entropion of left eye, unspecified eyelid"
+4135,DRG04802,H02049,"Spastic entropion of unspecified eye, unspecified eyelid"
+4136,DRG04802,H02051,Trichiasis without entropian right upper eyelid
+4137,DRG04802,H02052,Trichiasis without entropian right lower eyelid
+4138,DRG04802,H02053,"Trichiasis without entropian right eye, unspecified eyelid"
+4139,DRG04802,H02054,Trichiasis without entropian left upper eyelid
+4140,DRG04802,H02055,Trichiasis without entropian left lower eyelid
+4141,DRG04802,H02056,"Trichiasis without entropian left eye, unspecified eyelid"
+4142,DRG04802,H02059,"Trichiasis without entropian unspecified eye, unspecified eyelid"
+4143,DRG04802,H02101,Unspecified ectropion of right upper eyelid
+4144,DRG04802,H02102,Unspecified ectropion of right lower eyelid
+4145,DRG04802,H02103,"Unspecified ectropion of right eye, unspecified eyelid"
+4146,DRG04802,H02104,Unspecified ectropion of left upper eyelid
+4147,DRG04802,H02105,Unspecified ectropion of left lower eyelid
+4148,DRG04802,H02106,"Unspecified ectropion of left eye, unspecified eyelid"
+4149,DRG04802,H02109,"Unspecified ectropion of unspecified eye, unspecified eyelid"
+4150,DRG04802,H02111,Cicatricial ectropion of right upper eyelid
+4151,DRG04802,H02112,Cicatricial ectropion of right lower eyelid
+4152,DRG04802,H02113,"Cicatricial ectropion of right eye, unspecified eyelid"
+4153,DRG04802,H02114,Cicatricial ectropion of left upper eyelid
+4154,DRG04802,H02115,Cicatricial ectropion of left lower eyelid
+4155,DRG04802,H02116,"Cicatricial ectropion of left eye, unspecified eyelid"
+4156,DRG04802,H02119,"Cicatricial ectropion of unspecified eye, unspecified eyelid"
+4157,DRG04802,H02121,Mechanical ectropion of right upper eyelid
+4158,DRG04802,H02122,Mechanical ectropion of right lower eyelid
+4159,DRG04802,H02123,"Mechanical ectropion of right eye, unspecified eyelid"
+4160,DRG04802,H02124,Mechanical ectropion of left upper eyelid
+4161,DRG04802,H02125,Mechanical ectropion of left lower eyelid
+4162,DRG04802,H02126,"Mechanical ectropion of left eye, unspecified eyelid"
+4163,DRG04802,H02129,"Mechanical ectropion of unspecified eye, unspecified eyelid"
+4164,DRG04802,H02131,Senile ectropion of right upper eyelid
+4165,DRG04802,H02132,Senile ectropion of right lower eyelid
+4166,DRG04802,H02133,"Senile ectropion of right eye, unspecified eyelid"
+4167,DRG04802,H02134,Senile ectropion of left upper eyelid
+4168,DRG04802,H02135,Senile ectropion of left lower eyelid
+4169,DRG04802,H02136,"Senile ectropion of left eye, unspecified eyelid"
+4170,DRG04802,H02139,"Senile ectropion of unspecified eye, unspecified eyelid"
+4171,DRG04802,H02141,Spastic ectropion of right upper eyelid
+4172,DRG04802,H02142,Spastic ectropion of right lower eyelid
+4173,DRG04802,H02143,"Spastic ectropion of right eye, unspecified eyelid"
+4174,DRG04802,H02144,Spastic ectropion of left upper eyelid
+4175,DRG04802,H02145,Spastic ectropion of left lower eyelid
+4176,DRG04802,H02146,"Spastic ectropion of left eye, unspecified eyelid"
+4177,DRG04802,H02149,"Spastic ectropion of unspecified eye, unspecified eyelid"
+4178,DRG04802,H02201,Unspecified lagophthalmos right upper eyelid
+4179,DRG04802,H02202,Unspecified lagophthalmos right lower eyelid
+4180,DRG04802,H02203,"Unspecified lagophthalmos right eye, unspecified eyelid"
+4181,DRG04802,H02204,Unspecified lagophthalmos left upper eyelid
+4182,DRG04802,H02205,Unspecified lagophthalmos left lower eyelid
+4183,DRG04802,H02206,"Unspecified lagophthalmos left eye, unspecified eyelid"
+4184,DRG04802,H02209,"Unspecified lagophthalmos unspecified eye, unspecified eyelid"
+4185,DRG04802,H02211,Cicatricial lagophthalmos right upper eyelid
+4186,DRG04802,H02212,Cicatricial lagophthalmos right lower eyelid
+4187,DRG04802,H02213,"Cicatricial lagophthalmos right eye, unspecified eyelid"
+4188,DRG04802,H02214,Cicatricial lagophthalmos left upper eyelid
+4189,DRG04802,H02215,Cicatricial lagophthalmos left lower eyelid
+4190,DRG04802,H02216,"Cicatricial lagophthalmos left eye, unspecified eyelid"
+4191,DRG04802,H02219,"Cicatricial lagophthalmos unspecified eye, unspecified eyelid"
+4192,DRG04802,H02221,Mechanical lagophthalmos right upper eyelid
+4193,DRG04802,H02222,Mechanical lagophthalmos right lower eyelid
+4194,DRG04802,H02223,"Mechanical lagophthalmos right eye, unspecified eyelid"
+4195,DRG04802,H02224,Mechanical lagophthalmos left upper eyelid
+4196,DRG04802,H02225,Mechanical lagophthalmos left lower eyelid
+4197,DRG04802,H02226,"Mechanical lagophthalmos left eye, unspecified eyelid"
+4198,DRG04802,H02229,"Mechanical lagophthalmos unspecified eye, unspecified eyelid"
+4199,DRG04802,H02231,Paralytic lagophthalmos right upper eyelid
+4200,DRG04802,H02232,Paralytic lagophthalmos right lower eyelid
+4201,DRG04802,H02233,"Paralytic lagophthalmos right eye, unspecified eyelid"
+4202,DRG04802,H02234,Paralytic lagophthalmos left upper eyelid
+4203,DRG04802,H02235,Paralytic lagophthalmos left lower eyelid
+4204,DRG04802,H02236,"Paralytic lagophthalmos left eye, unspecified eyelid"
+4205,DRG04802,H02239,"Paralytic lagophthalmos unspecified eye, unspecified eyelid"
+4206,DRG04802,H0230,"Blepharochalasis unspecified eye, unspecified eyelid"
+4207,DRG04802,H0231,Blepharochalasis right upper eyelid
+4208,DRG04802,H0232,Blepharochalasis right lower eyelid
+4209,DRG04802,H0233,"Blepharochalasis right eye, unspecified eyelid"
+4210,DRG04802,H0234,Blepharochalasis left upper eyelid
+4211,DRG04802,H0235,Blepharochalasis left lower eyelid
+4212,DRG04802,H0236,"Blepharochalasis left eye, unspecified eyelid"
+4213,DRG04802,H02411,Mechanical ptosis of right eyelid
+4214,DRG04802,H02412,Mechanical ptosis of left eyelid
+4215,DRG04802,H02413,Mechanical ptosis of bilateral eyelids
+4216,DRG04802,H02419,Mechanical ptosis of unspecified eyelid
+4217,DRG04802,H02511,Abnormal innervation syndrome right upper eyelid
+4218,DRG04802,H02512,Abnormal innervation syndrome right lower eyelid
+4219,DRG04802,H02513,"Abnormal innervation syndrome right eye, unspecified eyelid"
+4220,DRG04802,H02514,Abnormal innervation syndrome left upper eyelid
+4221,DRG04802,H02515,Abnormal innervation syndrome left lower eyelid
+4222,DRG04802,H02516,"Abnormal innervation syndrome left eye, unspecified eyelid"
+4223,DRG04802,H02519,"Abnormal innervation syndrome unspecified eye, unspecified eyelid"
+4224,DRG04802,H02521,Blepharophimosis right upper eyelid
+4225,DRG04802,H02522,Blepharophimosis right lower eyelid
+4226,DRG04802,H02523,"Blepharophimosis right eye, unspecified eyelid"
+4227,DRG04802,H02524,Blepharophimosis left upper eyelid
+4228,DRG04802,H02525,Blepharophimosis left lower eyelid
+4229,DRG04802,H02526,"Blepharophimosis left eye, unspecified eyelid"
+4230,DRG04802,H02529,"Blepharophimosis unspecified eye, unspecified lid"
+4231,DRG04802,H02531,Eyelid retraction right upper eyelid
+4232,DRG04802,H02532,Eyelid retraction right lower eyelid
+4233,DRG04802,H02533,"Eyelid retraction right eye, unspecified eyelid"
+4234,DRG04802,H02534,Eyelid retraction left upper eyelid
+4235,DRG04802,H02535,Eyelid retraction left lower eyelid
+4236,DRG04802,H02536,"Eyelid retraction left eye, unspecified eyelid"
+4237,DRG04802,H02539,"Eyelid retraction unspecified eye, unspecified lid"
+4238,DRG04802,H0259,Other disorders affecting eyelid function
+4239,DRG04802,H0270,Unspecified degenerative disorders of eyelid and periocular area
+4240,DRG04802,H02711,Chloasma of right upper eyelid and periocular area
+4241,DRG04802,H02712,Chloasma of right lower eyelid and periocular area
+4242,DRG04802,H02713,"Chloasma of right eye, unspecified eyelid and periocular area"
+4243,DRG04802,H02714,Chloasma of left upper eyelid and periocular area
+4244,DRG04802,H02715,Chloasma of left lower eyelid and periocular area
+4245,DRG04802,H02716,"Chloasma of left eye, unspecified eyelid and periocular area"
+4246,DRG04802,H02719,"Chloasma of unspecified eye, unspecified eyelid and periocular area"
+4247,DRG04802,H02721,Madarosis of right upper eyelid and periocular area
+4248,DRG04802,H02722,Madarosis of right lower eyelid and periocular area
+4249,DRG04802,H02723,"Madarosis of right eye, unspecified eyelid and periocular area"
+4250,DRG04802,H02724,Madarosis of left upper eyelid and periocular area
+4251,DRG04802,H02725,Madarosis of left lower eyelid and periocular area
+4252,DRG04802,H02726,"Madarosis of left eye, unspecified eyelid and periocular area"
+4253,DRG04802,H02729,"Madarosis of unspecified eye, unspecified eyelid and periocular area"
+4254,DRG04802,H02731,Vitiligo of right upper eyelid and periocular area
+4255,DRG04802,H02732,Vitiligo of right lower eyelid and periocular area
+4256,DRG04802,H02733,"Vitiligo of right eye, unspecified eyelid and periocular area"
+4257,DRG04802,H02734,Vitiligo of left upper eyelid and periocular area
+4258,DRG04802,H02735,Vitiligo of left lower eyelid and periocular area
+4259,DRG04802,H02736,"Vitiligo of left eye, unspecified eyelid and periocular area"
+4260,DRG04802,H02739,"Vitiligo of unspecified eye, unspecified eyelid and periocular area"
+4261,DRG04802,H0279,Other degenerative disorders of eyelid and periocular area
+4262,DRG04802,H02811,Retained foreign body in right upper eyelid
+4263,DRG04802,H02812,Retained foreign body in right lower eyelid
+4264,DRG04802,H02813,"Retained foreign body in right eye, unspecified eyelid"
+4265,DRG04802,H02814,Retained foreign body in left upper eyelid
+4266,DRG04802,H02815,Retained foreign body in left lower eyelid
+4267,DRG04802,H02816,"Retained foreign body in left eye, unspecified eyelid"
+4268,DRG04802,H02819,"Retained foreign body in unspecified eye, unspecified eyelid"
+4269,DRG04802,H02821,Cysts of right upper eyelid
+4270,DRG04802,H02822,Cysts of right lower eyelid
+4271,DRG04802,H02823,"Cysts of right eye, unspecified eyelid"
+4272,DRG04802,H02824,Cysts of left upper eyelid
+4273,DRG04802,H02825,Cysts of left lower eyelid
+4274,DRG04802,H02826,"Cysts of left eye, unspecified eyelid"
+4275,DRG04802,H02829,"Cysts of unspecified eye, unspecified eyelid"
+4276,DRG04802,H02831,Dermatochalasis of right upper eyelid
+4277,DRG04802,H02832,Dermatochalasis of right lower eyelid
+4278,DRG04802,H02833,"Dermatochalasis of right eye, unspecified eyelid"
+4279,DRG04802,H02834,Dermatochalasis of left upper eyelid
+4280,DRG04802,H02835,Dermatochalasis of left lower eyelid
+4281,DRG04802,H02836,"Dermatochalasis of left eye, unspecified eyelid"
+4282,DRG04802,H02839,"Dermatochalasis of unspecified eye, unspecified eyelid"
+4283,DRG04802,H02841,Edema of right upper eyelid
+4284,DRG04802,H02842,Edema of right lower eyelid
+4285,DRG04802,H02843,"Edema of right eye, unspecified eyelid"
+4286,DRG04802,H02844,Edema of left upper eyelid
+4287,DRG04802,H02845,Edema of left lower eyelid
+4288,DRG04802,H02846,"Edema of left eye, unspecified eyelid"
+4289,DRG04802,H02849,"Edema of unspecified eye, unspecified eyelid"
+4290,DRG04802,H02851,Elephantiasis of right upper eyelid
+4291,DRG04802,H02852,Elephantiasis of right lower eyelid
+4292,DRG04802,H02853,"Elephantiasis of right eye, unspecified eyelid"
+4293,DRG04802,H02854,Elephantiasis of left upper eyelid
+4294,DRG04802,H02855,Elephantiasis of left lower eyelid
+4295,DRG04802,H02856,"Elephantiasis of left eye, unspecified eyelid"
+4296,DRG04802,H02859,"Elephantiasis of unspecified eye, unspecified eyelid"
+4297,DRG04802,H02861,Hypertrichosis of right upper eyelid
+4298,DRG04802,H02862,Hypertrichosis of right lower eyelid
+4299,DRG04802,H02863,"Hypertrichosis of right eye, unspecified eyelid"
+4300,DRG04802,H02864,Hypertrichosis of left upper eyelid
+4301,DRG04802,H02865,Hypertrichosis of left lower eyelid
+4302,DRG04802,H02866,"Hypertrichosis of left eye, unspecified eyelid"
+4303,DRG04802,H02869,"Hypertrichosis of unspecified eye, unspecified eyelid"
+4304,DRG04802,H02871,Vascular anomalies of right upper eyelid
+4305,DRG04802,H02872,Vascular anomalies of right lower eyelid
+4306,DRG04802,H02873,"Vascular anomalies of right eye, unspecified eyelid"
+4307,DRG04802,H02874,Vascular anomalies of left upper eyelid
+4308,DRG04802,H02875,Vascular anomalies of left lower eyelid
+4309,DRG04802,H02876,"Vascular anomalies of left eye, unspecified eyelid"
+4310,DRG04802,H02879,"Vascular anomalies of unspecified eye, unspecified eyelid"
+4311,DRG04802,H0289,Other specified disorders of eyelid
+4312,DRG04802,H029,Unspecified disorder of eyelid
+4313,DRG04802,H04001,"Unspecified dacryoadenitis, right lacrimal gland"
+4314,DRG04802,H04002,"Unspecified dacryoadenitis, left lacrimal gland"
+4315,DRG04802,H04003,"Unspecified dacryoadenitis, bilateral lacrimal glands"
+4316,DRG04802,H04009,"Unspecified dacryoadenitis, unspecified lacrimal gland"
+4317,DRG04802,H04021,"Chronic dacryoadenitis, right lacrimal gland"
+4318,DRG04802,H04022,"Chronic dacryoadenitis, left lacrimal gland"
+4319,DRG04802,H04023,"Chronic dacryoadenitis, bilateral lacrimal gland"
+4320,DRG04802,H04029,"Chronic dacryoadenitis, unspecified lacrimal gland"
+4321,DRG04802,H04031,Chronic enlargement of right lacrimal gland
+4322,DRG04802,H04032,Chronic enlargement of left lacrimal gland
+4323,DRG04802,H04033,Chronic enlargement of bilateral lacrimal glands
+4324,DRG04802,H04039,Chronic enlargement of unspecified lacrimal gland
+4325,DRG04802,H04111,Dacryops of right lacrimal gland
+4326,DRG04802,H04112,Dacryops of left lacrimal gland
+4327,DRG04802,H04113,Dacryops of bilateral lacrimal glands
+4328,DRG04802,H04119,Dacryops of unspecified lacrimal gland
+4329,DRG04802,H04121,Dry eye syndrome of right lacrimal gland
+4330,DRG04802,H04122,Dry eye syndrome of left lacrimal gland
+4331,DRG04802,H04123,Dry eye syndrome of bilateral lacrimal glands
+4332,DRG04802,H04129,Dry eye syndrome of unspecified lacrimal gland
+4333,DRG04802,H04131,"Lacrimal cyst, right lacrimal gland"
+4334,DRG04802,H04132,"Lacrimal cyst, left lacrimal gland"
+4335,DRG04802,H04133,"Lacrimal cyst, bilateral lacrimal glands"
+4336,DRG04802,H04139,"Lacrimal cyst, unspecified lacrimal gland"
+4337,DRG04802,H04141,"Primary lacrimal gland atrophy, right lacrimal gland"
+4338,DRG04802,H04142,"Primary lacrimal gland atrophy, left lacrimal gland"
+4339,DRG04802,H04143,"Primary lacrimal gland atrophy, bilateral lacrimal glands"
+4340,DRG04802,H04149,"Primary lacrimal gland atrophy, unspecified lacrimal gland"
+4341,DRG04802,H04151,"Secondary lacrimal gland atrophy, right lacrimal gland"
+4342,DRG04802,H04152,"Secondary lacrimal gland atrophy, left lacrimal gland"
+4343,DRG04802,H04153,"Secondary lacrimal gland atrophy, bilateral lacrimal glands"
+4344,DRG04802,H04159,"Secondary lacrimal gland atrophy, unspecified lacrimal gland"
+4345,DRG04802,H04161,"Lacrimal gland dislocation, right lacrimal gland"
+4346,DRG04802,H04162,"Lacrimal gland dislocation, left lacrimal gland"
+4347,DRG04802,H04163,"Lacrimal gland dislocation, bilateral lacrimal glands"
+4348,DRG04802,H04169,"Lacrimal gland dislocation, unspecified lacrimal gland"
+4349,DRG04802,H0419,Other specified disorders of lacrimal gland
+4350,DRG04802,H04201,"Unspecified epiphora, right lacrimal gland"
+4351,DRG04802,H04202,"Unspecified epiphora, left lacrimal gland"
+4352,DRG04802,H04203,"Unspecified epiphora, bilateral lacrimal glands"
+4353,DRG04802,H04209,"Unspecified epiphora, unspecified lacrimal gland"
+4354,DRG04802,H04211,"Epiphora due to excess lacrimation, right lacrimal gland"
+4355,DRG04802,H04212,"Epiphora due to excess lacrimation, left lacrimal gland"
+4356,DRG04802,H04213,"Epiphora due to excess lacrimation, bilateral lacrimal glands"
+4357,DRG04802,H04219,"Epiphora due to excess lacrimation, unspecified lacrimal gland"
+4358,DRG04802,H04221,"Epiphora due to insufficient drainage, right lacrimal gland"
+4359,DRG04802,H04222,"Epiphora due to insufficient drainage, left lacrimal gland"
+4360,DRG04802,H04223,"Epiphora due to insufficient drainage, bilateral lacrimal glands"
+4361,DRG04802,H04229,"Epiphora due to insufficient drainage, unspecified lacrimal gland"
+4362,DRG04802,H04301,Unspecified dacryocystitis of right lacrimal passage
+4363,DRG04802,H04302,Unspecified dacryocystitis of left lacrimal passage
+4364,DRG04802,H04303,Unspecified dacryocystitis of bilateral lacrimal passages
+4365,DRG04802,H04309,Unspecified dacryocystitis of unspecified lacrimal passage
+4366,DRG04802,H04311,Phlegmonous dacryocystitis of right lacrimal passage
+4367,DRG04802,H04312,Phlegmonous dacryocystitis of left lacrimal passage
+4368,DRG04802,H04313,Phlegmonous dacryocystitis of bilateral lacrimal passages
+4369,DRG04802,H04319,Phlegmonous dacryocystitis of unspecified lacrimal passage
+4370,DRG04802,H04411,Chronic dacryocystitis of right lacrimal passage
+4371,DRG04802,H04412,Chronic dacryocystitis of left lacrimal passage
+4372,DRG04802,H04413,Chronic dacryocystitis of bilateral lacrimal passages
+4373,DRG04802,H04419,Chronic dacryocystitis of unspecified lacrimal passage
+4374,DRG04802,H04421,Chronic lacrimal canaliculitis of right lacrimal passage
+4375,DRG04802,H04422,Chronic lacrimal canaliculitis of left lacrimal passage
+4376,DRG04802,H04423,Chronic lacrimal canaliculitis of bilateral lacrimal passages
+4377,DRG04802,H04429,Chronic lacrimal canaliculitis of unspecified lacrimal passage
+4378,DRG04802,H04431,Chronic lacrimal mucocele of right lacrimal passage
+4379,DRG04802,H04432,Chronic lacrimal mucocele of left lacrimal passage
+4380,DRG04802,H04433,Chronic lacrimal mucocele of bilateral lacrimal passages
+4381,DRG04802,H04439,Chronic lacrimal mucocele of unspecified lacrimal passage
+4382,DRG04802,H04511,Dacryolith of right lacrimal passage
+4383,DRG04802,H04512,Dacryolith of left lacrimal passage
+4384,DRG04802,H04513,Dacryolith of bilateral lacrimal passages
+4385,DRG04802,H04519,Dacryolith of unspecified lacrimal passage
+4386,DRG04802,H04521,Eversion of right lacrimal punctum
+4387,DRG04802,H04522,Eversion of left lacrimal punctum
+4388,DRG04802,H04523,Eversion of bilateral lacrimal punctum
+4389,DRG04802,H04529,Eversion of unspecified lacrimal punctum
+4390,DRG04802,H04531,Neonatal obstruction of right nasolacrimal duct
+4391,DRG04802,H04532,Neonatal obstruction of left nasolacrimal duct
+4392,DRG04802,H04533,Neonatal obstruction of bilateral nasolacrimal duct
+4393,DRG04802,H04539,Neonatal obstruction of unspecified nasolacrimal duct
+4394,DRG04802,H04541,Stenosis of right lacrimal canaliculi
+4395,DRG04802,H04542,Stenosis of left lacrimal canaliculi
+4396,DRG04802,H04543,Stenosis of bilateral lacrimal canaliculi
+4397,DRG04802,H04549,Stenosis of unspecified lacrimal canaliculi
+4398,DRG04802,H04551,Acquired stenosis of right nasolacrimal duct
+4399,DRG04802,H04552,Acquired stenosis of left nasolacrimal duct
+4400,DRG04802,H04553,Acquired stenosis of bilateral nasolacrimal duct
+4401,DRG04802,H04559,Acquired stenosis of unspecified nasolacrimal duct
+4402,DRG04802,H04561,Stenosis of right lacrimal punctum
+4403,DRG04802,H04562,Stenosis of left lacrimal punctum
+4404,DRG04802,H04563,Stenosis of bilateral lacrimal punctum
+4405,DRG04802,H04569,Stenosis of unspecified lacrimal punctum
+4406,DRG04802,H04571,Stenosis of right lacrimal sac
+4407,DRG04802,H04572,Stenosis of left lacrimal sac
+4408,DRG04802,H04573,Stenosis of bilateral lacrimal sac
+4409,DRG04802,H04579,Stenosis of unspecified lacrimal sac
+4410,DRG04802,H04611,Lacrimal fistula right lacrimal passage
+4411,DRG04802,H04612,Lacrimal fistula left lacrimal passage
+4412,DRG04802,H04613,Lacrimal fistula bilateral lacrimal passages
+4413,DRG04802,H04619,Lacrimal fistula unspecified lacrimal passage
+4414,DRG04802,H0469,Other changes of lacrimal passages
+4415,DRG04802,H04811,Granuloma of right lacrimal passage
+4416,DRG04802,H04812,Granuloma of left lacrimal passage
+4417,DRG04802,H04813,Granuloma of bilateral lacrimal passages
+4418,DRG04802,H04819,Granuloma of unspecified lacrimal passage
+4419,DRG04802,H0489,Other disorders of lacrimal system
+4420,DRG04802,H049,"Disorder of lacrimal system, unspecified"
+4421,DRG04802,H0500,Unspecified acute inflammation of orbit
+4422,DRG04802,H0510,Unspecified chronic inflammatory disorders of orbit
+4423,DRG04802,H05111,Granuloma of right orbit
+4424,DRG04802,H05112,Granuloma of left orbit
+4425,DRG04802,H05113,Granuloma of bilateral orbits
+4426,DRG04802,H05119,Granuloma of unspecified orbit
+4427,DRG04802,H05121,"Orbital myositis, right orbit"
+4428,DRG04802,H05122,"Orbital myositis, left orbit"
+4429,DRG04802,H05123,"Orbital myositis, bilateral"
+4430,DRG04802,H05129,"Orbital myositis, unspecified orbit"
+4431,DRG04802,H0520,Unspecified exophthalmos
+4432,DRG04802,H05221,Edema of right orbit
+4433,DRG04802,H05222,Edema of left orbit
+4434,DRG04802,H05223,Edema of bilateral orbit
+4435,DRG04802,H05229,Edema of unspecified orbit
+4436,DRG04802,H05231,Hemorrhage of right orbit
+4437,DRG04802,H05232,Hemorrhage of left orbit
+4438,DRG04802,H05233,Hemorrhage of bilateral orbit
+4439,DRG04802,H05239,Hemorrhage of unspecified orbit
+4440,DRG04802,H05241,"Constant exophthalmos, right eye"
+4441,DRG04802,H05242,"Constant exophthalmos, left eye"
+4442,DRG04802,H05243,"Constant exophthalmos, bilateral"
+4443,DRG04802,H05249,"Constant exophthalmos, unspecified eye"
+4444,DRG04802,H0530,Unspecified deformity of orbit
+4445,DRG04802,H05311,Atrophy of right orbit
+4446,DRG04802,H05312,Atrophy of left orbit
+4447,DRG04802,H05313,Atrophy of bilateral orbit
+4448,DRG04802,H05319,Atrophy of unspecified orbit
+4449,DRG04802,H05321,Deformity of right orbit due to bone disease
+4450,DRG04802,H05322,Deformity of left orbit due to bone disease
+4451,DRG04802,H05323,Deformity of bilateral orbits due to bone disease
+4452,DRG04802,H05329,Deformity of unspecified orbit due to bone disease
+4453,DRG04802,H05331,Deformity of right orbit due to trauma or surgery
+4454,DRG04802,H05332,Deformity of left orbit due to trauma or surgery
+4455,DRG04802,H05333,Deformity of bilateral orbits due to trauma or surgery
+4456,DRG04802,H05339,Deformity of unspecified orbit due to trauma or surgery
+4457,DRG04802,H05341,Enlargement of right orbit
+4458,DRG04802,H05342,Enlargement of left orbit
+4459,DRG04802,H05343,Enlargement of bilateral orbits
+4460,DRG04802,H05349,Enlargement of unspecified orbit
+4461,DRG04802,H05351,Exostosis of right orbit
+4462,DRG04802,H05352,Exostosis of left orbit
+4463,DRG04802,H05353,Exostosis of bilateral orbits
+4464,DRG04802,H05359,Exostosis of unspecified orbit
+4465,DRG04802,H05401,"Unspecified enophthalmos, right eye"
+4466,DRG04802,H05402,"Unspecified enophthalmos, left eye"
+4467,DRG04802,H05403,"Unspecified enophthalmos, bilateral"
+4468,DRG04802,H05409,"Unspecified enophthalmos, unspecified eye"
+4469,DRG04802,H05411,"Enophthalmos due to atrophy of orbital tissue, right eye"
+4470,DRG04802,H05412,"Enophthalmos due to atrophy of orbital tissue, left eye"
+4471,DRG04802,H05413,"Enophthalmos due to atrophy of orbital tissue, bilateral"
+4472,DRG04802,H05419,"Enophthalmos due to atrophy of orbital tissue, unspecified eye"
+4473,DRG04802,H05421,"Enophthalmos due to trauma or surgery, right eye"
+4474,DRG04802,H05422,"Enophthalmos due to trauma or surgery, left eye"
+4475,DRG04802,H05423,"Enophthalmos due to trauma or surgery, bilateral"
+4476,DRG04802,H05429,"Enophthalmos due to trauma or surgery, unspecified eye"
+4477,DRG04802,H0550,Retained (old) foreign body following penetrating wound of unspecified orbit
+4478,DRG04802,H0551,Retained (old) foreign body following penetrating wound of right orbit
+4479,DRG04802,H0552,Retained (old) foreign body following penetrating wound of left orbit
+4480,DRG04802,H0553,Retained (old) foreign body following penetrating wound of bilateral orbits
+4481,DRG04802,H05811,Cyst of right orbit
+4482,DRG04802,H05812,Cyst of left orbit
+4483,DRG04802,H05813,Cyst of bilateral orbits
+4484,DRG04802,H05819,Cyst of unspecified orbit
+4485,DRG04802,H0589,Other disorders of orbit
+4486,DRG04802,H059,Unspecified disorder of orbit
+4487,DRG04802,H10011,"Acute follicular conjunctivitis, right eye"
+4488,DRG04802,H10012,"Acute follicular conjunctivitis, left eye"
+4489,DRG04802,H10013,"Acute follicular conjunctivitis, bilateral"
+4490,DRG04802,H10019,"Acute follicular conjunctivitis, unspecified eye"
+4491,DRG04802,H10021,"Other mucopurulent conjunctivitis, right eye"
+4492,DRG04802,H10022,"Other mucopurulent conjunctivitis, left eye"
+4493,DRG04802,H10023,"Other mucopurulent conjunctivitis, bilateral"
+4494,DRG04802,H10029,"Other mucopurulent conjunctivitis, unspecified eye"
+4495,DRG04802,H1010,"Acute atopic conjunctivitis, unspecified eye"
+4496,DRG04802,H1011,"Acute atopic conjunctivitis, right eye"
+4497,DRG04802,H1012,"Acute atopic conjunctivitis, left eye"
+4498,DRG04802,H1013,"Acute atopic conjunctivitis, bilateral"
+4499,DRG04802,H10211,"Acute toxic conjunctivitis, right eye"
+4500,DRG04802,H10212,"Acute toxic conjunctivitis, left eye"
+4501,DRG04802,H10213,"Acute toxic conjunctivitis, bilateral"
+4502,DRG04802,H10219,"Acute toxic conjunctivitis, unspecified eye"
+4503,DRG04802,H10221,"Pseudomembranous conjunctivitis, right eye"
+4504,DRG04802,H10222,"Pseudomembranous conjunctivitis, left eye"
+4505,DRG04802,H10223,"Pseudomembranous conjunctivitis, bilateral"
+4506,DRG04802,H10229,"Pseudomembranous conjunctivitis, unspecified eye"
+4507,DRG04802,H10231,"Serous conjunctivitis, except viral, right eye"
+4508,DRG04802,H10232,"Serous conjunctivitis, except viral, left eye"
+4509,DRG04802,H10233,"Serous conjunctivitis, except viral, bilateral"
+4510,DRG04802,H10239,"Serous conjunctivitis, except viral, unspecified eye"
+4511,DRG04802,H1030,"Unspecified acute conjunctivitis, unspecified eye"
+4512,DRG04802,H1031,"Unspecified acute conjunctivitis, right eye"
+4513,DRG04802,H1032,"Unspecified acute conjunctivitis, left eye"
+4514,DRG04802,H1033,"Unspecified acute conjunctivitis, bilateral"
+4515,DRG04802,H10401,"Unspecified chronic conjunctivitis, right eye"
+4516,DRG04802,H10402,"Unspecified chronic conjunctivitis, left eye"
+4517,DRG04802,H10403,"Unspecified chronic conjunctivitis, bilateral"
+4518,DRG04802,H10409,"Unspecified chronic conjunctivitis, unspecified eye"
+4519,DRG04802,H10411,"Chronic giant papillary conjunctivitis, right eye"
+4520,DRG04802,H10412,"Chronic giant papillary conjunctivitis, left eye"
+4521,DRG04802,H10413,"Chronic giant papillary conjunctivitis, bilateral"
+4522,DRG04802,H10419,"Chronic giant papillary conjunctivitis, unspecified eye"
+4523,DRG04802,H10421,"Simple chronic conjunctivitis, right eye"
+4524,DRG04802,H10422,"Simple chronic conjunctivitis, left eye"
+4525,DRG04802,H10423,"Simple chronic conjunctivitis, bilateral"
+4526,DRG04802,H10429,"Simple chronic conjunctivitis, unspecified eye"
+4527,DRG04802,H10431,"Chronic follicular conjunctivitis, right eye"
+4528,DRG04802,H10432,"Chronic follicular conjunctivitis, left eye"
+4529,DRG04802,H10433,"Chronic follicular conjunctivitis, bilateral"
+4530,DRG04802,H10439,"Chronic follicular conjunctivitis, unspecified eye"
+4531,DRG04802,H1044,Vernal conjunctivitis
+4532,DRG04802,H1045,Other chronic allergic conjunctivitis
+4533,DRG04802,H10501,"Unspecified blepharoconjunctivitis, right eye"
+4534,DRG04802,H10502,"Unspecified blepharoconjunctivitis, left eye"
+4535,DRG04802,H10503,"Unspecified blepharoconjunctivitis, bilateral"
+4536,DRG04802,H10509,"Unspecified blepharoconjunctivitis, unspecified eye"
+4537,DRG04802,H10511,"Ligneous conjunctivitis, right eye"
+4538,DRG04802,H10512,"Ligneous conjunctivitis, left eye"
+4539,DRG04802,H10513,"Ligneous conjunctivitis, bilateral"
+4540,DRG04802,H10519,"Ligneous conjunctivitis, unspecified eye"
+4541,DRG04802,H10521,"Angular blepharoconjunctivitis, right eye"
+4542,DRG04802,H10522,"Angular blepharoconjunctivitis, left eye"
+4543,DRG04802,H10523,"Angular blepharoconjunctivitis, bilateral"
+4544,DRG04802,H10529,"Angular blepharoconjunctivitis, unspecified eye"
+4545,DRG04802,H10531,"Contact blepharoconjunctivitis, right eye"
+4546,DRG04802,H10532,"Contact blepharoconjunctivitis, left eye"
+4547,DRG04802,H10533,"Contact blepharoconjunctivitis, bilateral"
+4548,DRG04802,H10539,"Contact blepharoconjunctivitis, unspecified eye"
+4549,DRG04802,H10811,"Pingueculitis, right eye"
+4550,DRG04802,H10812,"Pingueculitis, left eye"
+4551,DRG04802,H10813,"Pingueculitis, bilateral"
+4552,DRG04802,H10819,"Pingueculitis, unspecified eye"
+4553,DRG04802,H1089,Other conjunctivitis
+4554,DRG04802,H109,Unspecified conjunctivitis
+4555,DRG04802,H11001,Unspecified pterygium of right eye
+4556,DRG04802,H11002,Unspecified pterygium of left eye
+4557,DRG04802,H11003,"Unspecified pterygium of eye, bilateral"
+4558,DRG04802,H11009,Unspecified pterygium of unspecified eye
+4559,DRG04802,H11011,Amyloid pterygium of right eye
+4560,DRG04802,H11012,Amyloid pterygium of left eye
+4561,DRG04802,H11013,"Amyloid pterygium of eye, bilateral"
+4562,DRG04802,H11019,Amyloid pterygium of unspecified eye
+4563,DRG04802,H11021,Central pterygium of right eye
+4564,DRG04802,H11022,Central pterygium of left eye
+4565,DRG04802,H11023,"Central pterygium of eye, bilateral"
+4566,DRG04802,H11029,Central pterygium of unspecified eye
+4567,DRG04802,H11031,Double pterygium of right eye
+4568,DRG04802,H11032,Double pterygium of left eye
+4569,DRG04802,H11033,"Double pterygium of eye, bilateral"
+4570,DRG04802,H11039,Double pterygium of unspecified eye
+4571,DRG04802,H11041,"Peripheral pterygium, stationary, right eye"
+4572,DRG04802,H11042,"Peripheral pterygium, stationary, left eye"
+4573,DRG04802,H11043,"Peripheral pterygium, stationary, bilateral"
+4574,DRG04802,H11049,"Peripheral pterygium, stationary, unspecified eye"
+4575,DRG04802,H11051,"Peripheral pterygium, progressive, right eye"
+4576,DRG04802,H11052,"Peripheral pterygium, progressive, left eye"
+4577,DRG04802,H11053,"Peripheral pterygium, progressive, bilateral"
+4578,DRG04802,H11059,"Peripheral pterygium, progressive, unspecified eye"
+4579,DRG04802,H11061,Recurrent pterygium of right eye
+4580,DRG04802,H11062,Recurrent pterygium of left eye
+4581,DRG04802,H11063,"Recurrent pterygium of eye, bilateral"
+4582,DRG04802,H11069,Recurrent pterygium of unspecified eye
+4583,DRG04802,H1110,Unspecified conjunctival degenerations
+4584,DRG04802,H11111,"Conjunctival deposits, right eye"
+4585,DRG04802,H11112,"Conjunctival deposits, left eye"
+4586,DRG04802,H11113,"Conjunctival deposits, bilateral"
+4587,DRG04802,H11119,"Conjunctival deposits, unspecified eye"
+4588,DRG04802,H11121,"Conjunctival concretions, right eye"
+4589,DRG04802,H11122,"Conjunctival concretions, left eye"
+4590,DRG04802,H11123,"Conjunctival concretions, bilateral"
+4591,DRG04802,H11129,"Conjunctival concretions, unspecified eye"
+4592,DRG04802,H11131,"Conjunctival pigmentations, right eye"
+4593,DRG04802,H11132,"Conjunctival pigmentations, left eye"
+4594,DRG04802,H11133,"Conjunctival pigmentations, bilateral"
+4595,DRG04802,H11139,"Conjunctival pigmentations, unspecified eye"
+4596,DRG04802,H11141,"Conjunctival xerosis, unspecified, right eye"
+4597,DRG04802,H11142,"Conjunctival xerosis, unspecified, left eye"
+4598,DRG04802,H11143,"Conjunctival xerosis, unspecified, bilateral"
+4599,DRG04802,H11149,"Conjunctival xerosis, unspecified, unspecified eye"
+4600,DRG04802,H11151,"Pinguecula, right eye"
+4601,DRG04802,H11152,"Pinguecula, left eye"
+4602,DRG04802,H11153,"Pinguecula, bilateral"
+4603,DRG04802,H11159,"Pinguecula, unspecified eye"
+4604,DRG04802,H11211,"Conjunctival adhesions and strands (localized), right eye"
+4605,DRG04802,H11212,"Conjunctival adhesions and strands (localized), left eye"
+4606,DRG04802,H11213,"Conjunctival adhesions and strands (localized), bilateral"
+4607,DRG04802,H11219,"Conjunctival adhesions and strands (localized), unspecified eye"
+4608,DRG04802,H11221,"Conjunctival granuloma, right eye"
+4609,DRG04802,H11222,"Conjunctival granuloma, left eye"
+4610,DRG04802,H11223,"Conjunctival granuloma, bilateral"
+4611,DRG04802,H11229,"Conjunctival granuloma, unspecified"
+4612,DRG04802,H11231,"Symblepharon, right eye"
+4613,DRG04802,H11232,"Symblepharon, left eye"
+4614,DRG04802,H11233,"Symblepharon, bilateral"
+4615,DRG04802,H11239,"Symblepharon, unspecified eye"
+4616,DRG04802,H11241,"Scarring of conjunctiva, right eye"
+4617,DRG04802,H11242,"Scarring of conjunctiva, left eye"
+4618,DRG04802,H11243,"Scarring of conjunctiva, bilateral"
+4619,DRG04802,H11249,"Scarring of conjunctiva, unspecified eye"
+4620,DRG04802,H1130,"Conjunctival hemorrhage, unspecified eye"
+4621,DRG04802,H1131,"Conjunctival hemorrhage, right eye"
+4622,DRG04802,H1132,"Conjunctival hemorrhage, left eye"
+4623,DRG04802,H1133,"Conjunctival hemorrhage, bilateral"
+4624,DRG04802,H11411,"Vascular abnormalities of conjunctiva, right eye"
+4625,DRG04802,H11412,"Vascular abnormalities of conjunctiva, left eye"
+4626,DRG04802,H11413,"Vascular abnormalities of conjunctiva, bilateral"
+4627,DRG04802,H11419,"Vascular abnormalities of conjunctiva, unspecified eye"
+4628,DRG04802,H11421,"Conjunctival edema, right eye"
+4629,DRG04802,H11422,"Conjunctival edema, left eye"
+4630,DRG04802,H11423,"Conjunctival edema, bilateral"
+4631,DRG04802,H11429,"Conjunctival edema, unspecified eye"
+4632,DRG04802,H11431,"Conjunctival hyperemia, right eye"
+4633,DRG04802,H11432,"Conjunctival hyperemia, left eye"
+4634,DRG04802,H11433,"Conjunctival hyperemia, bilateral"
+4635,DRG04802,H11439,"Conjunctival hyperemia, unspecified eye"
+4636,DRG04802,H11441,"Conjunctival cysts, right eye"
+4637,DRG04802,H11442,"Conjunctival cysts, left eye"
+4638,DRG04802,H11443,"Conjunctival cysts, bilateral"
+4639,DRG04802,H11449,"Conjunctival cysts, unspecified eye"
+4640,DRG04802,H11811,"Pseudopterygium of conjunctiva, right eye"
+4641,DRG04802,H11812,"Pseudopterygium of conjunctiva, left eye"
+4642,DRG04802,H11813,"Pseudopterygium of conjunctiva, bilateral"
+4643,DRG04802,H11819,"Pseudopterygium of conjunctiva, unspecified eye"
+4644,DRG04802,H11821,"Conjunctivochalasis, right eye"
+4645,DRG04802,H11822,"Conjunctivochalasis, left eye"
+4646,DRG04802,H11823,"Conjunctivochalasis, bilateral"
+4647,DRG04802,H11829,"Conjunctivochalasis, unspecified eye"
+4648,DRG04802,H1189,Other specified disorders of conjunctiva
+4649,DRG04802,H119,Unspecified disorder of conjunctiva
+4650,DRG04802,H15001,"Unspecified scleritis, right eye"
+4651,DRG04802,H15002,"Unspecified scleritis, left eye"
+4652,DRG04802,H15003,"Unspecified scleritis, bilateral"
+4653,DRG04802,H15009,"Unspecified scleritis, unspecified eye"
+4654,DRG04802,H15011,"Anterior scleritis, right eye"
+4655,DRG04802,H15012,"Anterior scleritis, left eye"
+4656,DRG04802,H15013,"Anterior scleritis, bilateral"
+4657,DRG04802,H15019,"Anterior scleritis, unspecified eye"
+4658,DRG04802,H15021,"Brawny scleritis, right eye"
+4659,DRG04802,H15022,"Brawny scleritis, left eye"
+4660,DRG04802,H15023,"Brawny scleritis, bilateral"
+4661,DRG04802,H15029,"Brawny scleritis, unspecified eye"
+4662,DRG04802,H15031,"Posterior scleritis, right eye"
+4663,DRG04802,H15032,"Posterior scleritis, left eye"
+4664,DRG04802,H15033,"Posterior scleritis, bilateral"
+4665,DRG04802,H15039,"Posterior scleritis, unspecified eye"
+4666,DRG04802,H15041,"Scleritis with corneal involvement, right eye"
+4667,DRG04802,H15042,"Scleritis with corneal involvement, left eye"
+4668,DRG04802,H15043,"Scleritis with corneal involvement, bilateral"
+4669,DRG04802,H15049,"Scleritis with corneal involvement, unspecified eye"
+4670,DRG04802,H15051,"Scleromalacia perforans, right eye"
+4671,DRG04802,H15052,"Scleromalacia perforans, left eye"
+4672,DRG04802,H15053,"Scleromalacia perforans, bilateral"
+4673,DRG04802,H15059,"Scleromalacia perforans, unspecified eye"
+4674,DRG04802,H15091,"Other scleritis, right eye"
+4675,DRG04802,H15092,"Other scleritis, left eye"
+4676,DRG04802,H15093,"Other scleritis, bilateral"
+4677,DRG04802,H15099,"Other scleritis, unspecified eye"
+4678,DRG04802,H15101,"Unspecified episcleritis, right eye"
+4679,DRG04802,H15102,"Unspecified episcleritis, left eye"
+4680,DRG04802,H15103,"Unspecified episcleritis, bilateral"
+4681,DRG04802,H15109,"Unspecified episcleritis, unspecified eye"
+4682,DRG04802,H15111,"Episcleritis periodica fugax, right eye"
+4683,DRG04802,H15112,"Episcleritis periodica fugax, left eye"
+4684,DRG04802,H15113,"Episcleritis periodica fugax, bilateral"
+4685,DRG04802,H15119,"Episcleritis periodica fugax, unspecified eye"
+4686,DRG04802,H15121,"Nodular episcleritis, right eye"
+4687,DRG04802,H15122,"Nodular episcleritis, left eye"
+4688,DRG04802,H15123,"Nodular episcleritis, bilateral"
+4689,DRG04802,H15129,"Nodular episcleritis, unspecified eye"
+4690,DRG04802,H15811,"Equatorial staphyloma, right eye"
+4691,DRG04802,H15812,"Equatorial staphyloma, left eye"
+4692,DRG04802,H15813,"Equatorial staphyloma, bilateral"
+4693,DRG04802,H15819,"Equatorial staphyloma, unspecified eye"
+4694,DRG04802,H15821,"Localized anterior staphyloma, right eye"
+4695,DRG04802,H15822,"Localized anterior staphyloma, left eye"
+4696,DRG04802,H15823,"Localized anterior staphyloma, bilateral"
+4697,DRG04802,H15829,"Localized anterior staphyloma, unspecified eye"
+4698,DRG04802,H15831,"Staphyloma posticum, right eye"
+4699,DRG04802,H15832,"Staphyloma posticum, left eye"
+4700,DRG04802,H15833,"Staphyloma posticum, bilateral"
+4701,DRG04802,H15839,"Staphyloma posticum, unspecified eye"
+4702,DRG04802,H15841,"Scleral ectasia, right eye"
+4703,DRG04802,H15842,"Scleral ectasia, left eye"
+4704,DRG04802,H15843,"Scleral ectasia, bilateral"
+4705,DRG04802,H15849,"Scleral ectasia, unspecified eye"
+4706,DRG04802,H15851,"Ring staphyloma, right eye"
+4707,DRG04802,H15852,"Ring staphyloma, left eye"
+4708,DRG04802,H15853,"Ring staphyloma, bilateral"
+4709,DRG04802,H15859,"Ring staphyloma, unspecified eye"
+4710,DRG04802,H1589,Other disorders of sclera
+4711,DRG04802,H159,Unspecified disorder of sclera
+4712,DRG04802,H16021,"Ring corneal ulcer, right eye"
+4713,DRG04802,H16022,"Ring corneal ulcer, left eye"
+4714,DRG04802,H16023,"Ring corneal ulcer, bilateral"
+4715,DRG04802,H16029,"Ring corneal ulcer, unspecified eye"
+4716,DRG04802,H16041,"Marginal corneal ulcer, right eye"
+4717,DRG04802,H16042,"Marginal corneal ulcer, left eye"
+4718,DRG04802,H16043,"Marginal corneal ulcer, bilateral"
+4719,DRG04802,H16049,"Marginal corneal ulcer, unspecified eye"
+4720,DRG04802,H16051,"Mooren's corneal ulcer, right eye"
+4721,DRG04802,H16052,"Mooren's corneal ulcer, left eye"
+4722,DRG04802,H16053,"Mooren's corneal ulcer, bilateral"
+4723,DRG04802,H16059,"Mooren's corneal ulcer, unspecified eye"
+4724,DRG04802,H16101,"Unspecified superficial keratitis, right eye"
+4725,DRG04802,H16102,"Unspecified superficial keratitis, left eye"
+4726,DRG04802,H16103,"Unspecified superficial keratitis, bilateral"
+4727,DRG04802,H16109,"Unspecified superficial keratitis, unspecified eye"
+4728,DRG04802,H16111,"Macular keratitis, right eye"
+4729,DRG04802,H16112,"Macular keratitis, left eye"
+4730,DRG04802,H16113,"Macular keratitis, bilateral"
+4731,DRG04802,H16119,"Macular keratitis, unspecified eye"
+4732,DRG04802,H16121,"Filamentary keratitis, right eye"
+4733,DRG04802,H16122,"Filamentary keratitis, left eye"
+4734,DRG04802,H16123,"Filamentary keratitis, bilateral"
+4735,DRG04802,H16129,"Filamentary keratitis, unspecified eye"
+4736,DRG04802,H16131,"Photokeratitis, right eye"
+4737,DRG04802,H16132,"Photokeratitis, left eye"
+4738,DRG04802,H16133,"Photokeratitis, bilateral"
+4739,DRG04802,H16139,"Photokeratitis, unspecified eye"
+4740,DRG04802,H16141,"Punctate keratitis, right eye"
+4741,DRG04802,H16142,"Punctate keratitis, left eye"
+4742,DRG04802,H16143,"Punctate keratitis, bilateral"
+4743,DRG04802,H16149,"Punctate keratitis, unspecified eye"
+4744,DRG04802,H16201,"Unspecified keratoconjunctivitis, right eye"
+4745,DRG04802,H16202,"Unspecified keratoconjunctivitis, left eye"
+4746,DRG04802,H16203,"Unspecified keratoconjunctivitis, bilateral"
+4747,DRG04802,H16209,"Unspecified keratoconjunctivitis, unspecified eye"
+4748,DRG04802,H16211,"Exposure keratoconjunctivitis, right eye"
+4749,DRG04802,H16212,"Exposure keratoconjunctivitis, left eye"
+4750,DRG04802,H16213,"Exposure keratoconjunctivitis, bilateral"
+4751,DRG04802,H16219,"Exposure keratoconjunctivitis, unspecified eye"
+4752,DRG04802,H16221,"Keratoconjunctivitis sicca, not specified as Sjogren's, right eye"
+4753,DRG04802,H16222,"Keratoconjunctivitis sicca, not specified as Sjogren's, left eye"
+4754,DRG04802,H16223,"Keratoconjunctivitis sicca, not specified as Sjogren's, bilateral"
+4755,DRG04802,H16229,"Keratoconjunctivitis sicca, not specified as Sjogren's, unspecified eye"
+4756,DRG04802,H16231,"Neurotrophic keratoconjunctivitis, right eye"
+4757,DRG04802,H16232,"Neurotrophic keratoconjunctivitis, left eye"
+4758,DRG04802,H16233,"Neurotrophic keratoconjunctivitis, bilateral"
+4759,DRG04802,H16239,"Neurotrophic keratoconjunctivitis, unspecified eye"
+4760,DRG04802,H16241,"Ophthalmia nodosa, right eye"
+4761,DRG04802,H16242,"Ophthalmia nodosa, left eye"
+4762,DRG04802,H16243,"Ophthalmia nodosa, bilateral"
+4763,DRG04802,H16249,"Ophthalmia nodosa, unspecified eye"
+4764,DRG04802,H16251,"Phlyctenular keratoconjunctivitis, right eye"
+4765,DRG04802,H16252,"Phlyctenular keratoconjunctivitis, left eye"
+4766,DRG04802,H16253,"Phlyctenular keratoconjunctivitis, bilateral"
+4767,DRG04802,H16259,"Phlyctenular keratoconjunctivitis, unspecified eye"
+4768,DRG04802,H16261,"Vernal keratoconjunctivitis, with limbar and corneal involvement, right eye"
+4769,DRG04802,H16262,"Vernal keratoconjunctivitis, with limbar and corneal involvement, left eye"
+4770,DRG04802,H16263,"Vernal keratoconjunctivitis, with limbar and corneal involvement, bilateral"
+4771,DRG04802,H16269,"Vernal keratoconjunctivitis, with limbar and corneal involvement, unspecified eye"
+4772,DRG04802,H16291,"Other keratoconjunctivitis, right eye"
+4773,DRG04802,H16292,"Other keratoconjunctivitis, left eye"
+4774,DRG04802,H16293,"Other keratoconjunctivitis, bilateral"
+4775,DRG04802,H16299,"Other keratoconjunctivitis, unspecified eye"
+4776,DRG04802,H16301,"Unspecified interstitial keratitis, right eye"
+4777,DRG04802,H16302,"Unspecified interstitial keratitis, left eye"
+4778,DRG04802,H16303,"Unspecified interstitial keratitis, bilateral"
+4779,DRG04802,H16309,"Unspecified interstitial keratitis, unspecified eye"
+4780,DRG04802,H16321,"Diffuse interstitial keratitis, right eye"
+4781,DRG04802,H16322,"Diffuse interstitial keratitis, left eye"
+4782,DRG04802,H16323,"Diffuse interstitial keratitis, bilateral"
+4783,DRG04802,H16329,"Diffuse interstitial keratitis, unspecified eye"
+4784,DRG04802,H16331,"Sclerosing keratitis, right eye"
+4785,DRG04802,H16332,"Sclerosing keratitis, left eye"
+4786,DRG04802,H16333,"Sclerosing keratitis, bilateral"
+4787,DRG04802,H16339,"Sclerosing keratitis, unspecified eye"
+4788,DRG04802,H16391,"Other interstitial and deep keratitis, right eye"
+4789,DRG04802,H16392,"Other interstitial and deep keratitis, left eye"
+4790,DRG04802,H16393,"Other interstitial and deep keratitis, bilateral"
+4791,DRG04802,H16399,"Other interstitial and deep keratitis, unspecified eye"
+4792,DRG04802,H16401,"Unspecified corneal neovascularization, right eye"
+4793,DRG04802,H16402,"Unspecified corneal neovascularization, left eye"
+4794,DRG04802,H16403,"Unspecified corneal neovascularization, bilateral"
+4795,DRG04802,H16409,"Unspecified corneal neovascularization, unspecified eye"
+4796,DRG04802,H16411,"Ghost vessels (corneal), right eye"
+4797,DRG04802,H16412,"Ghost vessels (corneal), left eye"
+4798,DRG04802,H16413,"Ghost vessels (corneal), bilateral"
+4799,DRG04802,H16419,"Ghost vessels (corneal), unspecified eye"
+4800,DRG04802,H16421,"Pannus (corneal), right eye"
+4801,DRG04802,H16422,"Pannus (corneal), left eye"
+4802,DRG04802,H16423,"Pannus (corneal), bilateral"
+4803,DRG04802,H16429,"Pannus (corneal), unspecified eye"
+4804,DRG04802,H16431,"Localized vascularization of cornea, right eye"
+4805,DRG04802,H16432,"Localized vascularization of cornea, left eye"
+4806,DRG04802,H16433,"Localized vascularization of cornea, bilateral"
+4807,DRG04802,H16439,"Localized vascularization of cornea, unspecified eye"
+4808,DRG04802,H16441,"Deep vascularization of cornea, right eye"
+4809,DRG04802,H16442,"Deep vascularization of cornea, left eye"
+4810,DRG04802,H16443,"Deep vascularization of cornea, bilateral"
+4811,DRG04802,H16449,"Deep vascularization of cornea, unspecified eye"
+4812,DRG04802,H169,Unspecified keratitis
+4813,DRG04802,H1700,"Adherent leukoma, unspecified eye"
+4814,DRG04802,H1701,"Adherent leukoma, right eye"
+4815,DRG04802,H1702,"Adherent leukoma, left eye"
+4816,DRG04802,H1703,"Adherent leukoma, bilateral"
+4817,DRG04802,H1710,"Central corneal opacity, unspecified eye"
+4818,DRG04802,H1711,"Central corneal opacity, right eye"
+4819,DRG04802,H1712,"Central corneal opacity, left eye"
+4820,DRG04802,H1713,"Central corneal opacity, bilateral"
+4821,DRG04802,H17811,"Minor opacity of cornea, right eye"
+4822,DRG04802,H17812,"Minor opacity of cornea, left eye"
+4823,DRG04802,H17813,"Minor opacity of cornea, bilateral"
+4824,DRG04802,H17819,"Minor opacity of cornea, unspecified eye"
+4825,DRG04802,H17821,"Peripheral opacity of cornea, right eye"
+4826,DRG04802,H17822,"Peripheral opacity of cornea, left eye"
+4827,DRG04802,H17823,"Peripheral opacity of cornea, bilateral"
+4828,DRG04802,H17829,"Peripheral opacity of cornea, unspecified eye"
+4829,DRG04802,H1789,Other corneal scars and opacities
+4830,DRG04802,H179,Unspecified corneal scar and opacity
+4831,DRG04802,H18001,"Unspecified corneal deposit, right eye"
+4832,DRG04802,H18002,"Unspecified corneal deposit, left eye"
+4833,DRG04802,H18003,"Unspecified corneal deposit, bilateral"
+4834,DRG04802,H18009,"Unspecified corneal deposit, unspecified eye"
+4835,DRG04802,H18011,"Anterior corneal pigmentations, right eye"
+4836,DRG04802,H18012,"Anterior corneal pigmentations, left eye"
+4837,DRG04802,H18013,"Anterior corneal pigmentations, bilateral"
+4838,DRG04802,H18019,"Anterior corneal pigmentations, unspecified eye"
+4839,DRG04802,H18021,"Argentous corneal deposits, right eye"
+4840,DRG04802,H18022,"Argentous corneal deposits, left eye"
+4841,DRG04802,H18023,"Argentous corneal deposits, bilateral"
+4842,DRG04802,H18029,"Argentous corneal deposits, unspecified eye"
+4843,DRG04802,H18031,"Corneal deposits in metabolic disorders, right eye"
+4844,DRG04802,H18032,"Corneal deposits in metabolic disorders, left eye"
+4845,DRG04802,H18033,"Corneal deposits in metabolic disorders, bilateral"
+4846,DRG04802,H18039,"Corneal deposits in metabolic disorders, unspecified eye"
+4847,DRG04802,H18041,"Kayser-Fleischer ring, right eye"
+4848,DRG04802,H18042,"Kayser-Fleischer ring, left eye"
+4849,DRG04802,H18043,"Kayser-Fleischer ring, bilateral"
+4850,DRG04802,H18049,"Kayser-Fleischer ring, unspecified eye"
+4851,DRG04802,H18051,"Posterior corneal pigmentations, right eye"
+4852,DRG04802,H18052,"Posterior corneal pigmentations, left eye"
+4853,DRG04802,H18053,"Posterior corneal pigmentations, bilateral"
+4854,DRG04802,H18059,"Posterior corneal pigmentations, unspecified eye"
+4855,DRG04802,H18061,"Stromal corneal pigmentations, right eye"
+4856,DRG04802,H18062,"Stromal corneal pigmentations, left eye"
+4857,DRG04802,H18063,"Stromal corneal pigmentations, bilateral"
+4858,DRG04802,H18069,"Stromal corneal pigmentations, unspecified eye"
+4859,DRG04802,H1810,"Bullous keratopathy, unspecified eye"
+4860,DRG04802,H1811,"Bullous keratopathy, right eye"
+4861,DRG04802,H1812,"Bullous keratopathy, left eye"
+4862,DRG04802,H1813,"Bullous keratopathy, bilateral"
+4863,DRG04802,H1820,Unspecified corneal edema
+4864,DRG04802,H18211,"Corneal edema secondary to contact lens, right eye"
+4865,DRG04802,H18212,"Corneal edema secondary to contact lens, left eye"
+4866,DRG04802,H18213,"Corneal edema secondary to contact lens, bilateral"
+4867,DRG04802,H18219,"Corneal edema secondary to contact lens, unspecified eye"
+4868,DRG04802,H18221,"Idiopathic corneal edema, right eye"
+4869,DRG04802,H18222,"Idiopathic corneal edema, left eye"
+4870,DRG04802,H18223,"Idiopathic corneal edema, bilateral"
+4871,DRG04802,H18229,"Idiopathic corneal edema, unspecified eye"
+4872,DRG04802,H18231,"Secondary corneal edema, right eye"
+4873,DRG04802,H18232,"Secondary corneal edema, left eye"
+4874,DRG04802,H18233,"Secondary corneal edema, bilateral"
+4875,DRG04802,H18239,"Secondary corneal edema, unspecified eye"
+4876,DRG04802,H1830,Unspecified corneal membrane change
+4877,DRG04802,H18311,"Folds and rupture in Bowman's membrane, right eye"
+4878,DRG04802,H18312,"Folds and rupture in Bowman's membrane, left eye"
+4879,DRG04802,H18313,"Folds and rupture in Bowman's membrane, bilateral"
+4880,DRG04802,H18319,"Folds and rupture in Bowman's membrane, unspecified eye"
+4881,DRG04802,H18321,"Folds in Descemet's membrane, right eye"
+4882,DRG04802,H18322,"Folds in Descemet's membrane, left eye"
+4883,DRG04802,H18323,"Folds in Descemet's membrane, bilateral"
+4884,DRG04802,H18329,"Folds in Descemet's membrane, unspecified eye"
+4885,DRG04802,H18331,"Rupture in Descemet's membrane, right eye"
+4886,DRG04802,H18332,"Rupture in Descemet's membrane, left eye"
+4887,DRG04802,H18333,"Rupture in Descemet's membrane, bilateral"
+4888,DRG04802,H18339,"Rupture in Descemet's membrane, unspecified eye"
+4889,DRG04802,H1840,Unspecified corneal degeneration
+4890,DRG04802,H18411,"Arcus senilis, right eye"
+4891,DRG04802,H18412,"Arcus senilis, left eye"
+4892,DRG04802,H18413,"Arcus senilis, bilateral"
+4893,DRG04802,H18419,"Arcus senilis, unspecified eye"
+4894,DRG04802,H18421,"Band keratopathy, right eye"
+4895,DRG04802,H18422,"Band keratopathy, left eye"
+4896,DRG04802,H18423,"Band keratopathy, bilateral"
+4897,DRG04802,H18429,"Band keratopathy, unspecified eye"
+4898,DRG04802,H1843,Other calcerous corneal degeneration
+4899,DRG04802,H18441,"Keratomalacia, right eye"
+4900,DRG04802,H18442,"Keratomalacia, left eye"
+4901,DRG04802,H18443,"Keratomalacia, bilateral"
+4902,DRG04802,H18449,"Keratomalacia, unspecified eye"
+4903,DRG04802,H18451,"Nodular corneal degeneration, right eye"
+4904,DRG04802,H18452,"Nodular corneal degeneration, left eye"
+4905,DRG04802,H18453,"Nodular corneal degeneration, bilateral"
+4906,DRG04802,H18459,"Nodular corneal degeneration, unspecified eye"
+4907,DRG04802,H18461,"Peripheral corneal degeneration, right eye"
+4908,DRG04802,H18462,"Peripheral corneal degeneration, left eye"
+4909,DRG04802,H18463,"Peripheral corneal degeneration, bilateral"
+4910,DRG04802,H18469,"Peripheral corneal degeneration, unspecified eye"
+4911,DRG04802,H1849,Other corneal degeneration
+4912,DRG04802,H1850,Unspecified hereditary corneal dystrophies
+4913,DRG04802,H1851,Endothelial corneal dystrophy
+4914,DRG04802,H1852,Epithelial (juvenile) corneal dystrophy
+4915,DRG04802,H1853,Granular corneal dystrophy
+4916,DRG04802,H1854,Lattice corneal dystrophy
+4917,DRG04802,H1855,Macular corneal dystrophy
+4918,DRG04802,H1859,Other hereditary corneal dystrophies
+4919,DRG04802,H18601,"Keratoconus, unspecified, right eye"
+4920,DRG04802,H18602,"Keratoconus, unspecified, left eye"
+4921,DRG04802,H18603,"Keratoconus, unspecified, bilateral"
+4922,DRG04802,H18609,"Keratoconus, unspecified, unspecified eye"
+4923,DRG04802,H18611,"Keratoconus, stable, right eye"
+4924,DRG04802,H18612,"Keratoconus, stable, left eye"
+4925,DRG04802,H18613,"Keratoconus, stable, bilateral"
+4926,DRG04802,H18619,"Keratoconus, stable, unspecified eye"
+4927,DRG04802,H18621,"Keratoconus, unstable, right eye"
+4928,DRG04802,H18622,"Keratoconus, unstable, left eye"
+4929,DRG04802,H18623,"Keratoconus, unstable, bilateral"
+4930,DRG04802,H18629,"Keratoconus, unstable, unspecified eye"
+4931,DRG04802,H1870,Unspecified corneal deformity
+4932,DRG04802,H18711,"Corneal ectasia, right eye"
+4933,DRG04802,H18712,"Corneal ectasia, left eye"
+4934,DRG04802,H18713,"Corneal ectasia, bilateral"
+4935,DRG04802,H18719,"Corneal ectasia, unspecified eye"
+4936,DRG04802,H18721,"Corneal staphyloma, right eye"
+4937,DRG04802,H18722,"Corneal staphyloma, left eye"
+4938,DRG04802,H18723,"Corneal staphyloma, bilateral"
+4939,DRG04802,H18729,"Corneal staphyloma, unspecified eye"
+4940,DRG04802,H18731,"Descemetocele, right eye"
+4941,DRG04802,H18732,"Descemetocele, left eye"
+4942,DRG04802,H18733,"Descemetocele, bilateral"
+4943,DRG04802,H18739,"Descemetocele, unspecified eye"
+4944,DRG04802,H18791,"Other corneal deformities, right eye"
+4945,DRG04802,H18792,"Other corneal deformities, left eye"
+4946,DRG04802,H18793,"Other corneal deformities, bilateral"
+4947,DRG04802,H18799,"Other corneal deformities, unspecified eye"
+4948,DRG04802,H18811,"Anesthesia and hypoesthesia of cornea, right eye"
+4949,DRG04802,H18812,"Anesthesia and hypoesthesia of cornea, left eye"
+4950,DRG04802,H18813,"Anesthesia and hypoesthesia of cornea, bilateral"
+4951,DRG04802,H18819,"Anesthesia and hypoesthesia of cornea, unspecified eye"
+4952,DRG04802,H18821,"Corneal disorder due to contact lens, right eye"
+4953,DRG04802,H18822,"Corneal disorder due to contact lens, left eye"
+4954,DRG04802,H18823,"Corneal disorder due to contact lens, bilateral"
+4955,DRG04802,H18829,"Corneal disorder due to contact lens, unspecified eye"
+4956,DRG04802,H18831,"Recurrent erosion of cornea, right eye"
+4957,DRG04802,H18832,"Recurrent erosion of cornea, left eye"
+4958,DRG04802,H18833,"Recurrent erosion of cornea, bilateral"
+4959,DRG04802,H18839,"Recurrent erosion of cornea, unspecified eye"
+4960,DRG04802,H18891,"Other specified disorders of cornea, right eye"
+4961,DRG04802,H18892,"Other specified disorders of cornea, left eye"
+4962,DRG04802,H18893,"Other specified disorders of cornea, bilateral"
+4963,DRG04802,H18899,"Other specified disorders of cornea, unspecified eye"
+4964,DRG04802,H189,Unspecified disorder of cornea
+4965,DRG04802,H2000,Unspecified acute and subacute iridocyclitis
+4966,DRG04802,H20011,"Primary iridocyclitis, right eye"
+4967,DRG04802,H20012,"Primary iridocyclitis, left eye"
+4968,DRG04802,H20013,"Primary iridocyclitis, bilateral"
+4969,DRG04802,H20019,"Primary iridocyclitis, unspecified eye"
+4970,DRG04802,H20021,"Recurrent acute iridocyclitis, right eye"
+4971,DRG04802,H20022,"Recurrent acute iridocyclitis, left eye"
+4972,DRG04802,H20023,"Recurrent acute iridocyclitis, bilateral"
+4973,DRG04802,H20029,"Recurrent acute iridocyclitis, unspecified eye"
+4974,DRG04802,H20031,"Secondary infectious iridocyclitis, right eye"
+4975,DRG04802,H20032,"Secondary infectious iridocyclitis, left eye"
+4976,DRG04802,H20033,"Secondary infectious iridocyclitis, bilateral"
+4977,DRG04802,H20039,"Secondary infectious iridocyclitis, unspecified eye"
+4978,DRG04802,H20041,"Secondary noninfectious iridocyclitis, right eye"
+4979,DRG04802,H20042,"Secondary noninfectious iridocyclitis, left eye"
+4980,DRG04802,H20043,"Secondary noninfectious iridocyclitis, bilateral"
+4981,DRG04802,H20049,"Secondary noninfectious iridocyclitis, unspecified eye"
+4982,DRG04802,H20051,"Hypopyon, right eye"
+4983,DRG04802,H20052,"Hypopyon, left eye"
+4984,DRG04802,H20053,"Hypopyon, bilateral"
+4985,DRG04802,H20059,"Hypopyon, unspecified eye"
+4986,DRG04802,H2010,"Chronic iridocyclitis, unspecified eye"
+4987,DRG04802,H2011,"Chronic iridocyclitis, right eye"
+4988,DRG04802,H2012,"Chronic iridocyclitis, left eye"
+4989,DRG04802,H2013,"Chronic iridocyclitis, bilateral"
+4990,DRG04802,H2020,"Lens-induced iridocyclitis, unspecified eye"
+4991,DRG04802,H2021,"Lens-induced iridocyclitis, right eye"
+4992,DRG04802,H2022,"Lens-induced iridocyclitis, left eye"
+4993,DRG04802,H2023,"Lens-induced iridocyclitis, bilateral"
+4994,DRG04802,H20811,"Fuchs' heterochromic cyclitis, right eye"
+4995,DRG04802,H20812,"Fuchs' heterochromic cyclitis, left eye"
+4996,DRG04802,H20813,"Fuchs' heterochromic cyclitis, bilateral"
+4997,DRG04802,H20819,"Fuchs' heterochromic cyclitis, unspecified eye"
+4998,DRG04802,H20821,"Vogt-Koyanagi syndrome, right eye"
+4999,DRG04802,H20822,"Vogt-Koyanagi syndrome, left eye"
+5000,DRG04802,H20823,"Vogt-Koyanagi syndrome, bilateral"
+5001,DRG04802,H20829,"Vogt-Koyanagi syndrome, unspecified eye"
+5002,DRG04802,H209,Unspecified iridocyclitis
+5003,DRG04802,H211X1,"Other vascular disorders of iris and ciliary body, right eye"
+5004,DRG04802,H211X2,"Other vascular disorders of iris and ciliary body, left eye"
+5005,DRG04802,H211X3,"Other vascular disorders of iris and ciliary body, bilateral"
+5006,DRG04802,H211X9,"Other vascular disorders of iris and ciliary body, unspecified eye"
+5007,DRG04802,H21211,"Degeneration of chamber angle, right eye"
+5008,DRG04802,H21212,"Degeneration of chamber angle, left eye"
+5009,DRG04802,H21213,"Degeneration of chamber angle, bilateral"
+5010,DRG04802,H21219,"Degeneration of chamber angle, unspecified eye"
+5011,DRG04802,H21221,"Degeneration of ciliary body, right eye"
+5012,DRG04802,H21222,"Degeneration of ciliary body, left eye"
+5013,DRG04802,H21223,"Degeneration of ciliary body, bilateral"
+5014,DRG04802,H21229,"Degeneration of ciliary body, unspecified eye"
+5015,DRG04802,H21231,"Degeneration of iris (pigmentary), right eye"
+5016,DRG04802,H21232,"Degeneration of iris (pigmentary), left eye"
+5017,DRG04802,H21233,"Degeneration of iris (pigmentary), bilateral"
+5018,DRG04802,H21239,"Degeneration of iris (pigmentary), unspecified eye"
+5019,DRG04802,H21241,"Degeneration of pupillary margin, right eye"
+5020,DRG04802,H21242,"Degeneration of pupillary margin, left eye"
+5021,DRG04802,H21243,"Degeneration of pupillary margin, bilateral"
+5022,DRG04802,H21249,"Degeneration of pupillary margin, unspecified eye"
+5023,DRG04802,H21251,"Iridoschisis, right eye"
+5024,DRG04802,H21252,"Iridoschisis, left eye"
+5025,DRG04802,H21253,"Iridoschisis, bilateral"
+5026,DRG04802,H21259,"Iridoschisis, unspecified eye"
+5027,DRG04802,H21261,"Iris atrophy (essential) (progressive), right eye"
+5028,DRG04802,H21262,"Iris atrophy (essential) (progressive), left eye"
+5029,DRG04802,H21263,"Iris atrophy (essential) (progressive), bilateral"
+5030,DRG04802,H21269,"Iris atrophy (essential) (progressive), unspecified eye"
+5031,DRG04802,H21271,"Miotic pupillary cyst, right eye"
+5032,DRG04802,H21272,"Miotic pupillary cyst, left eye"
+5033,DRG04802,H21273,"Miotic pupillary cyst, bilateral"
+5034,DRG04802,H21279,"Miotic pupillary cyst, unspecified eye"
+5035,DRG04802,H2129,Other iris atrophy
+5036,DRG04802,H21301,"Idiopathic cysts of iris, ciliary body or anterior chamber, right eye"
+5037,DRG04802,H21302,"Idiopathic cysts of iris, ciliary body or anterior chamber, left eye"
+5038,DRG04802,H21303,"Idiopathic cysts of iris, ciliary body or anterior chamber, bilateral"
+5039,DRG04802,H21309,"Idiopathic cysts of iris, ciliary body or anterior chamber, unspecified eye"
+5040,DRG04802,H21311,"Exudative cysts of iris or anterior chamber, right eye"
+5041,DRG04802,H21312,"Exudative cysts of iris or anterior chamber, left eye"
+5042,DRG04802,H21313,"Exudative cysts of iris or anterior chamber, bilateral"
+5043,DRG04802,H21319,"Exudative cysts of iris or anterior chamber, unspecified eye"
+5044,DRG04802,H21321,"Implantation cysts of iris, ciliary body or anterior chamber, right eye"
+5045,DRG04802,H21322,"Implantation cysts of iris, ciliary body or anterior chamber, left eye"
+5046,DRG04802,H21323,"Implantation cysts of iris, ciliary body or anterior chamber, bilateral"
+5047,DRG04802,H21329,"Implantation cysts of iris, ciliary body or anterior chamber, unspecified eye"
+5048,DRG04802,H21341,"Primary cyst of pars plana, right eye"
+5049,DRG04802,H21342,"Primary cyst of pars plana, left eye"
+5050,DRG04802,H21343,"Primary cyst of pars plana, bilateral"
+5051,DRG04802,H21349,"Primary cyst of pars plana, unspecified eye"
+5052,DRG04802,H21351,"Exudative cyst of pars plana, right eye"
+5053,DRG04802,H21352,"Exudative cyst of pars plana, left eye"
+5054,DRG04802,H21353,"Exudative cyst of pars plana, bilateral"
+5055,DRG04802,H21359,"Exudative cyst of pars plana, unspecified eye"
+5056,DRG04802,H2140,"Pupillary membranes, unspecified eye"
+5057,DRG04802,H2141,"Pupillary membranes, right eye"
+5058,DRG04802,H2142,"Pupillary membranes, left eye"
+5059,DRG04802,H2143,"Pupillary membranes, bilateral"
+5060,DRG04802,H21501,"Unspecified adhesions of iris, right eye"
+5061,DRG04802,H21502,"Unspecified adhesions of iris, left eye"
+5062,DRG04802,H21503,"Unspecified adhesions of iris, bilateral"
+5063,DRG04802,H21509,"Unspecified adhesions of iris and ciliary body, unspecified eye"
+5064,DRG04802,H21511,"Anterior synechiae (iris), right eye"
+5065,DRG04802,H21512,"Anterior synechiae (iris), left eye"
+5066,DRG04802,H21513,"Anterior synechiae (iris), bilateral"
+5067,DRG04802,H21519,"Anterior synechiae (iris), unspecified eye"
+5068,DRG04802,H21521,"Goniosynechiae, right eye"
+5069,DRG04802,H21522,"Goniosynechiae, left eye"
+5070,DRG04802,H21523,"Goniosynechiae, bilateral"
+5071,DRG04802,H21529,"Goniosynechiae, unspecified eye"
+5072,DRG04802,H21531,"Iridodialysis, right eye"
+5073,DRG04802,H21532,"Iridodialysis, left eye"
+5074,DRG04802,H21533,"Iridodialysis, bilateral"
+5075,DRG04802,H21539,"Iridodialysis, unspecified eye"
+5076,DRG04802,H21541,"Posterior synechiae (iris), right eye"
+5077,DRG04802,H21542,"Posterior synechiae (iris), left eye"
+5078,DRG04802,H21543,"Posterior synechiae (iris), bilateral"
+5079,DRG04802,H21549,"Posterior synechiae (iris), unspecified eye"
+5080,DRG04802,H21551,"Recession of chamber angle, right eye"
+5081,DRG04802,H21552,"Recession of chamber angle, left eye"
+5082,DRG04802,H21553,"Recession of chamber angle, bilateral"
+5083,DRG04802,H21559,"Recession of chamber angle, unspecified eye"
+5084,DRG04802,H21561,"Pupillary abnormality, right eye"
+5085,DRG04802,H21562,"Pupillary abnormality, left eye"
+5086,DRG04802,H21563,"Pupillary abnormality, bilateral"
+5087,DRG04802,H21569,"Pupillary abnormality, unspecified eye"
+5088,DRG04802,H2181,Floppy iris syndrome
+5089,DRG04802,H2182,Plateau iris syndrome (post-iridectomy) (postprocedural)
+5090,DRG04802,H2189,Other specified disorders of iris and ciliary body
+5091,DRG04802,H219,Unspecified disorder of iris and ciliary body
+5092,DRG04802,H25011,"Cortical age-related cataract, right eye"
+5093,DRG04802,H25012,"Cortical age-related cataract, left eye"
+5094,DRG04802,H25013,"Cortical age-related cataract, bilateral"
+5095,DRG04802,H25019,"Cortical age-related cataract, unspecified eye"
+5096,DRG04802,H25031,"Anterior subcapsular polar age-related cataract, right eye"
+5097,DRG04802,H25032,"Anterior subcapsular polar age-related cataract, left eye"
+5098,DRG04802,H25033,"Anterior subcapsular polar age-related cataract, bilateral"
+5099,DRG04802,H25039,"Anterior subcapsular polar age-related cataract, unspecified eye"
+5100,DRG04802,H25041,"Posterior subcapsular polar age-related cataract, right eye"
+5101,DRG04802,H25042,"Posterior subcapsular polar age-related cataract, left eye"
+5102,DRG04802,H25043,"Posterior subcapsular polar age-related cataract, bilateral"
+5103,DRG04802,H25049,"Posterior subcapsular polar age-related cataract, unspecified eye"
+5104,DRG04802,H25091,"Other age-related incipient cataract, right eye"
+5105,DRG04802,H25092,"Other age-related incipient cataract, left eye"
+5106,DRG04802,H25093,"Other age-related incipient cataract, bilateral"
+5107,DRG04802,H25099,"Other age-related incipient cataract, unspecified eye"
+5108,DRG04802,H2510,"Age-related nuclear cataract, unspecified eye"
+5109,DRG04802,H2511,"Age-related nuclear cataract, right eye"
+5110,DRG04802,H2512,"Age-related nuclear cataract, left eye"
+5111,DRG04802,H2513,"Age-related nuclear cataract, bilateral"
+5112,DRG04802,H2520,"Age-related cataract, morgagnian type, unspecified eye"
+5113,DRG04802,H2521,"Age-related cataract, morgagnian type, right eye"
+5114,DRG04802,H2522,"Age-related cataract, morgagnian type, left eye"
+5115,DRG04802,H2523,"Age-related cataract, morgagnian type, bilateral"
+5116,DRG04802,H25811,"Combined forms of age-related cataract, right eye"
+5117,DRG04802,H25812,"Combined forms of age-related cataract, left eye"
+5118,DRG04802,H25813,"Combined forms of age-related cataract, bilateral"
+5119,DRG04802,H25819,"Combined forms of age-related cataract, unspecified eye"
+5120,DRG04802,H2589,Other age-related cataract
+5121,DRG04802,H259,Unspecified age-related cataract
+5122,DRG04802,H26001,"Unspecified infantile and juvenile cataract, right eye"
+5123,DRG04802,H26002,"Unspecified infantile and juvenile cataract, left eye"
+5124,DRG04802,H26003,"Unspecified infantile and juvenile cataract, bilateral"
+5125,DRG04802,H26009,"Unspecified infantile and juvenile cataract, unspecified eye"
+5126,DRG04802,H26011,"Infantile and juvenile cortical, lamellar, or zonular cataract, right eye"
+5127,DRG04802,H26012,"Infantile and juvenile cortical, lamellar, or zonular cataract, left eye"
+5128,DRG04802,H26013,"Infantile and juvenile cortical, lamellar, or zonular cataract, bilateral"
+5129,DRG04802,H26019,"Infantile and juvenile cortical, lamellar, or zonular cataract, unspecified eye"
+5130,DRG04802,H26031,"Infantile and juvenile nuclear cataract, right eye"
+5131,DRG04802,H26032,"Infantile and juvenile nuclear cataract, left eye"
+5132,DRG04802,H26033,"Infantile and juvenile nuclear cataract, bilateral"
+5133,DRG04802,H26039,"Infantile and juvenile nuclear cataract, unspecified eye"
+5134,DRG04802,H26041,"Anterior subcapsular polar infantile and juvenile cataract, right eye"
+5135,DRG04802,H26042,"Anterior subcapsular polar infantile and juvenile cataract, left eye"
+5136,DRG04802,H26043,"Anterior subcapsular polar infantile and juvenile cataract, bilateral"
+5137,DRG04802,H26049,"Anterior subcapsular polar infantile and juvenile cataract, unspecified eye"
+5138,DRG04802,H26051,"Posterior subcapsular polar infantile and juvenile cataract, right eye"
+5139,DRG04802,H26052,"Posterior subcapsular polar infantile and juvenile cataract, left eye"
+5140,DRG04802,H26053,"Posterior subcapsular polar infantile and juvenile cataract, bilateral"
+5141,DRG04802,H26059,"Posterior subcapsular polar infantile and juvenile cataract, unspecified eye"
+5142,DRG04802,H26061,"Combined forms of infantile and juvenile cataract, right eye"
+5143,DRG04802,H26062,"Combined forms of infantile and juvenile cataract, left eye"
+5144,DRG04802,H26063,"Combined forms of infantile and juvenile cataract, bilateral"
+5145,DRG04802,H26069,"Combined forms of infantile and juvenile cataract, unspecified eye"
+5146,DRG04802,H2609,Other infantile and juvenile cataract
+5147,DRG04802,H26101,"Unspecified traumatic cataract, right eye"
+5148,DRG04802,H26102,"Unspecified traumatic cataract, left eye"
+5149,DRG04802,H26103,"Unspecified traumatic cataract, bilateral"
+5150,DRG04802,H26109,"Unspecified traumatic cataract, unspecified eye"
+5151,DRG04802,H26111,"Localized traumatic opacities, right eye"
+5152,DRG04802,H26112,"Localized traumatic opacities, left eye"
+5153,DRG04802,H26113,"Localized traumatic opacities, bilateral"
+5154,DRG04802,H26119,"Localized traumatic opacities, unspecified eye"
+5155,DRG04802,H26121,"Partially resolved traumatic cataract, right eye"
+5156,DRG04802,H26122,"Partially resolved traumatic cataract, left eye"
+5157,DRG04802,H26123,"Partially resolved traumatic cataract, bilateral"
+5158,DRG04802,H26129,"Partially resolved traumatic cataract, unspecified eye"
+5159,DRG04802,H26131,"Total traumatic cataract, right eye"
+5160,DRG04802,H26132,"Total traumatic cataract, left eye"
+5161,DRG04802,H26133,"Total traumatic cataract, bilateral"
+5162,DRG04802,H26139,"Total traumatic cataract, unspecified eye"
+5163,DRG04802,H2620,Unspecified complicated cataract
+5164,DRG04802,H26211,"Cataract with neovascularization, right eye"
+5165,DRG04802,H26212,"Cataract with neovascularization, left eye"
+5166,DRG04802,H26213,"Cataract with neovascularization, bilateral"
+5167,DRG04802,H26219,"Cataract with neovascularization, unspecified eye"
+5168,DRG04802,H26221,"Cataract secondary to ocular disorders (degenerative) (inflammatory), right eye"
+5169,DRG04802,H26222,"Cataract secondary to ocular disorders (degenerative) (inflammatory), left eye"
+5170,DRG04802,H26223,"Cataract secondary to ocular disorders (degenerative) (inflammatory), bilateral"
+5171,DRG04802,H26229,"Cataract secondary to ocular disorders (degenerative) (inflammatory), unspecified eye"
+5172,DRG04802,H26231,"Glaucomatous flecks (subcapsular), right eye"
+5173,DRG04802,H26232,"Glaucomatous flecks (subcapsular), left eye"
+5174,DRG04802,H26233,"Glaucomatous flecks (subcapsular), bilateral"
+5175,DRG04802,H26239,"Glaucomatous flecks (subcapsular), unspecified eye"
+5176,DRG04802,H2630,"Drug-induced cataract, unspecified eye"
+5177,DRG04802,H2631,"Drug-induced cataract, right eye"
+5178,DRG04802,H2632,"Drug-induced cataract, left eye"
+5179,DRG04802,H2633,"Drug-induced cataract, bilateral"
+5180,DRG04802,H2640,Unspecified secondary cataract
+5181,DRG04802,H26411,"Soemmering's ring, right eye"
+5182,DRG04802,H26412,"Soemmering's ring, left eye"
+5183,DRG04802,H26413,"Soemmering's ring, bilateral"
+5184,DRG04802,H26419,"Soemmering's ring, unspecified eye"
+5185,DRG04802,H26491,"Other secondary cataract, right eye"
+5186,DRG04802,H26492,"Other secondary cataract, left eye"
+5187,DRG04802,H26493,"Other secondary cataract, bilateral"
+5188,DRG04802,H26499,"Other secondary cataract, unspecified eye"
+5189,DRG04802,H268,Other specified cataract
+5190,DRG04802,H269,Unspecified cataract
+5191,DRG04802,H2700,"Aphakia, unspecified eye"
+5192,DRG04802,H2701,"Aphakia, right eye"
+5193,DRG04802,H2702,"Aphakia, left eye"
+5194,DRG04802,H2703,"Aphakia, bilateral"
+5195,DRG04802,H2710,Unspecified dislocation of lens
+5196,DRG04802,H27111,"Subluxation of lens, right eye"
+5197,DRG04802,H27112,"Subluxation of lens, left eye"
+5198,DRG04802,H27113,"Subluxation of lens, bilateral"
+5199,DRG04802,H27119,"Subluxation of lens, unspecified eye"
+5200,DRG04802,H27121,"Anterior dislocation of lens, right eye"
+5201,DRG04802,H27122,"Anterior dislocation of lens, left eye"
+5202,DRG04802,H27123,"Anterior dislocation of lens, bilateral"
+5203,DRG04802,H27129,"Anterior dislocation of lens, unspecified eye"
+5204,DRG04802,H27131,"Posterior dislocation of lens, right eye"
+5205,DRG04802,H27132,"Posterior dislocation of lens, left eye"
+5206,DRG04802,H27133,"Posterior dislocation of lens, bilateral"
+5207,DRG04802,H27139,"Posterior dislocation of lens, unspecified eye"
+5208,DRG04802,H278,Other specified disorders of lens
+5209,DRG04802,H279,Unspecified disorder of lens
+5210,DRG04802,H30001,"Unspecified focal chorioretinal inflammation, right eye"
+5211,DRG04802,H30002,"Unspecified focal chorioretinal inflammation, left eye"
+5212,DRG04802,H30003,"Unspecified focal chorioretinal inflammation, bilateral"
+5213,DRG04802,H30009,"Unspecified focal chorioretinal inflammation, unspecified eye"
+5214,DRG04802,H30011,"Focal chorioretinal inflammation, juxtapapillary, right eye"
+5215,DRG04802,H30012,"Focal chorioretinal inflammation, juxtapapillary, left eye"
+5216,DRG04802,H30013,"Focal chorioretinal inflammation, juxtapapillary, bilateral"
+5217,DRG04802,H30019,"Focal chorioretinal inflammation, juxtapapillary, unspecified eye"
+5218,DRG04802,H30021,"Focal chorioretinal inflammation of posterior pole, right eye"
+5219,DRG04802,H30022,"Focal chorioretinal inflammation of posterior pole, left eye"
+5220,DRG04802,H30023,"Focal chorioretinal inflammation of posterior pole, bilateral"
+5221,DRG04802,H30029,"Focal chorioretinal inflammation of posterior pole, unspecified eye"
+5222,DRG04802,H30031,"Focal chorioretinal inflammation, peripheral, right eye"
+5223,DRG04802,H30032,"Focal chorioretinal inflammation, peripheral, left eye"
+5224,DRG04802,H30033,"Focal chorioretinal inflammation, peripheral, bilateral"
+5225,DRG04802,H30039,"Focal chorioretinal inflammation, peripheral, unspecified eye"
+5226,DRG04802,H30041,"Focal chorioretinal inflammation, macular or paramacular, right eye"
+5227,DRG04802,H30042,"Focal chorioretinal inflammation, macular or paramacular, left eye"
+5228,DRG04802,H30043,"Focal chorioretinal inflammation, macular or paramacular, bilateral"
+5229,DRG04802,H30049,"Focal chorioretinal inflammation, macular or paramacular, unspecified eye"
+5230,DRG04802,H30101,"Unspecified disseminated chorioretinal inflammation, right eye"
+5231,DRG04802,H30102,"Unspecified disseminated chorioretinal inflammation, left eye"
+5232,DRG04802,H30103,"Unspecified disseminated chorioretinal inflammation, bilateral"
+5233,DRG04802,H30109,"Unspecified disseminated chorioretinal inflammation, unspecified eye"
+5234,DRG04802,H30111,"Disseminated chorioretinal inflammation of posterior pole, right eye"
+5235,DRG04802,H30112,"Disseminated chorioretinal inflammation of posterior pole, left eye"
+5236,DRG04802,H30113,"Disseminated chorioretinal inflammation of posterior pole, bilateral"
+5237,DRG04802,H30119,"Disseminated chorioretinal inflammation of posterior pole, unspecified eye"
+5238,DRG04802,H30121,"Disseminated chorioretinal inflammation, peripheral right eye"
+5239,DRG04802,H30122,"Disseminated chorioretinal inflammation, peripheral, left eye"
+5240,DRG04802,H30123,"Disseminated chorioretinal inflammation, peripheral, bilateral"
+5241,DRG04802,H30129,"Disseminated chorioretinal inflammation, peripheral, unspecified eye"
+5242,DRG04802,H30131,"Disseminated chorioretinal inflammation, generalized, right eye"
+5243,DRG04802,H30132,"Disseminated chorioretinal inflammation, generalized, left eye"
+5244,DRG04802,H30133,"Disseminated chorioretinal inflammation, generalized, bilateral"
+5245,DRG04802,H30139,"Disseminated chorioretinal inflammation, generalized, unspecified eye"
+5246,DRG04802,H30141,"Acute posterior multifocal placoid pigment epitheliopathy, right eye"
+5247,DRG04802,H30142,"Acute posterior multifocal placoid pigment epitheliopathy, left eye"
+5248,DRG04802,H30143,"Acute posterior multifocal placoid pigment epitheliopathy, bilateral"
+5249,DRG04802,H30149,"Acute posterior multifocal placoid pigment epitheliopathy, unspecified eye"
+5250,DRG04802,H3020,"Posterior cyclitis, unspecified eye"
+5251,DRG04802,H3021,"Posterior cyclitis, right eye"
+5252,DRG04802,H3022,"Posterior cyclitis, left eye"
+5253,DRG04802,H3023,"Posterior cyclitis, bilateral"
+5254,DRG04802,H30891,"Other chorioretinal inflammations, right eye"
+5255,DRG04802,H30892,"Other chorioretinal inflammations, left eye"
+5256,DRG04802,H30893,"Other chorioretinal inflammations, bilateral"
+5257,DRG04802,H30899,"Other chorioretinal inflammations, unspecified eye"
+5258,DRG04802,H3090,"Unspecified chorioretinal inflammation, unspecified eye"
+5259,DRG04802,H3091,"Unspecified chorioretinal inflammation, right eye"
+5260,DRG04802,H3092,"Unspecified chorioretinal inflammation, left eye"
+5261,DRG04802,H3093,"Unspecified chorioretinal inflammation, bilateral"
+5262,DRG04802,H31001,"Unspecified chorioretinal scars, right eye"
+5263,DRG04802,H31002,"Unspecified chorioretinal scars, left eye"
+5264,DRG04802,H31003,"Unspecified chorioretinal scars, bilateral"
+5265,DRG04802,H31009,"Unspecified chorioretinal scars, unspecified eye"
+5266,DRG04802,H31011,"Macula scars of posterior pole (postinflammatory) (post-traumatic), right eye"
+5267,DRG04802,H31012,"Macula scars of posterior pole (postinflammatory) (post-traumatic), left eye"
+5268,DRG04802,H31013,"Macula scars of posterior pole (postinflammatory) (post-traumatic), bilateral"
+5269,DRG04802,H31019,"Macula scars of posterior pole (postinflammatory) (post-traumatic), unspecified eye"
+5270,DRG04802,H31021,"Solar retinopathy, right eye"
+5271,DRG04802,H31022,"Solar retinopathy, left eye"
+5272,DRG04802,H31023,"Solar retinopathy, bilateral"
+5273,DRG04802,H31029,"Solar retinopathy, unspecified eye"
+5274,DRG04802,H31091,"Other chorioretinal scars, right eye"
+5275,DRG04802,H31092,"Other chorioretinal scars, left eye"
+5276,DRG04802,H31093,"Other chorioretinal scars, bilateral"
+5277,DRG04802,H31099,"Other chorioretinal scars, unspecified eye"
+5278,DRG04802,H31101,"Choroidal degeneration, unspecified, right eye"
+5279,DRG04802,H31102,"Choroidal degeneration, unspecified, left eye"
+5280,DRG04802,H31103,"Choroidal degeneration, unspecified, bilateral"
+5281,DRG04802,H31109,"Choroidal degeneration, unspecified, unspecified eye"
+5282,DRG04802,H31111,"Age-related choroidal atrophy, right eye"
+5283,DRG04802,H31112,"Age-related choroidal atrophy, left eye"
+5284,DRG04802,H31113,"Age-related choroidal atrophy, bilateral"
+5285,DRG04802,H31119,"Age-related choroidal atrophy, unspecified eye"
+5286,DRG04802,H31121,"Diffuse secondary atrophy of choroid, right eye"
+5287,DRG04802,H31122,"Diffuse secondary atrophy of choroid, left eye"
+5288,DRG04802,H31123,"Diffuse secondary atrophy of choroid, bilateral"
+5289,DRG04802,H31129,"Diffuse secondary atrophy of choroid, unspecified eye"
+5290,DRG04802,H3120,"Hereditary choroidal dystrophy, unspecified"
+5291,DRG04802,H3121,Choroideremia
+5292,DRG04802,H3122,Choroidal dystrophy (central areolar) (generalized) (peripapillary)
+5293,DRG04802,H3123,"Gyrate atrophy, choroid"
+5294,DRG04802,H3129,Other hereditary choroidal dystrophy
+5295,DRG04802,H31301,"Unspecified choroidal hemorrhage, right eye"
+5296,DRG04802,H31302,"Unspecified choroidal hemorrhage, left eye"
+5297,DRG04802,H31303,"Unspecified choroidal hemorrhage, bilateral"
+5298,DRG04802,H31309,"Unspecified choroidal hemorrhage, unspecified eye"
+5299,DRG04802,H31311,"Expulsive choroidal hemorrhage, right eye"
+5300,DRG04802,H31312,"Expulsive choroidal hemorrhage, left eye"
+5301,DRG04802,H31313,"Expulsive choroidal hemorrhage, bilateral"
+5302,DRG04802,H31319,"Expulsive choroidal hemorrhage, unspecified eye"
+5303,DRG04802,H31321,"Choroidal rupture, right eye"
+5304,DRG04802,H31322,"Choroidal rupture, left eye"
+5305,DRG04802,H31323,"Choroidal rupture, bilateral"
+5306,DRG04802,H31329,"Choroidal rupture, unspecified eye"
+5307,DRG04802,H31401,"Unspecified choroidal detachment, right eye"
+5308,DRG04802,H31402,"Unspecified choroidal detachment, left eye"
+5309,DRG04802,H31403,"Unspecified choroidal detachment, bilateral"
+5310,DRG04802,H31409,"Unspecified choroidal detachment, unspecified eye"
+5311,DRG04802,H31411,"Hemorrhagic choroidal detachment, right eye"
+5312,DRG04802,H31412,"Hemorrhagic choroidal detachment, left eye"
+5313,DRG04802,H31413,"Hemorrhagic choroidal detachment, bilateral"
+5314,DRG04802,H31419,"Hemorrhagic choroidal detachment, unspecified eye"
+5315,DRG04802,H31421,"Serous choroidal detachment, right eye"
+5316,DRG04802,H31422,"Serous choroidal detachment, left eye"
+5317,DRG04802,H31423,"Serous choroidal detachment, bilateral"
+5318,DRG04802,H31429,"Serous choroidal detachment, unspecified eye"
+5319,DRG04802,H318,Other specified disorders of choroid
+5320,DRG04802,H319,Unspecified disorder of choroid
+5321,DRG04802,H33001,"Unspecified retinal detachment with retinal break, right eye"
+5322,DRG04802,H33002,"Unspecified retinal detachment with retinal break, left eye"
+5323,DRG04802,H33003,"Unspecified retinal detachment with retinal break, bilateral"
+5324,DRG04802,H33009,"Unspecified retinal detachment with retinal break, unspecified eye"
+5325,DRG04802,H33011,"Retinal detachment with single break, right eye"
+5326,DRG04802,H33012,"Retinal detachment with single break, left eye"
+5327,DRG04802,H33013,"Retinal detachment with single break, bilateral"
+5328,DRG04802,H33019,"Retinal detachment with single break, unspecified eye"
+5329,DRG04802,H33021,"Retinal detachment with multiple breaks, right eye"
+5330,DRG04802,H33022,"Retinal detachment with multiple breaks, left eye"
+5331,DRG04802,H33023,"Retinal detachment with multiple breaks, bilateral"
+5332,DRG04802,H33029,"Retinal detachment with multiple breaks, unspecified eye"
+5333,DRG04802,H33031,"Retinal detachment with giant retinal tear, right eye"
+5334,DRG04802,H33032,"Retinal detachment with giant retinal tear, left eye"
+5335,DRG04802,H33033,"Retinal detachment with giant retinal tear, bilateral"
+5336,DRG04802,H33039,"Retinal detachment with giant retinal tear, unspecified eye"
+5337,DRG04802,H33041,"Retinal detachment with retinal dialysis, right eye"
+5338,DRG04802,H33042,"Retinal detachment with retinal dialysis, left eye"
+5339,DRG04802,H33043,"Retinal detachment with retinal dialysis, bilateral"
+5340,DRG04802,H33049,"Retinal detachment with retinal dialysis, unspecified eye"
+5341,DRG04802,H33051,"Total retinal detachment, right eye"
+5342,DRG04802,H33052,"Total retinal detachment, left eye"
+5343,DRG04802,H33053,"Total retinal detachment, bilateral"
+5344,DRG04802,H33059,"Total retinal detachment, unspecified eye"
+5345,DRG04802,H33101,"Unspecified retinoschisis, right eye"
+5346,DRG04802,H33102,"Unspecified retinoschisis, left eye"
+5347,DRG04802,H33103,"Unspecified retinoschisis, bilateral"
+5348,DRG04802,H33109,"Unspecified retinoschisis, unspecified eye"
+5349,DRG04802,H33111,"Cyst of ora serrata, right eye"
+5350,DRG04802,H33112,"Cyst of ora serrata, left eye"
+5351,DRG04802,H33113,"Cyst of ora serrata, bilateral"
+5352,DRG04802,H33119,"Cyst of ora serrata, unspecified eye"
+5353,DRG04802,H33191,"Other retinoschisis and retinal cysts, right eye"
+5354,DRG04802,H33192,"Other retinoschisis and retinal cysts, left eye"
+5355,DRG04802,H33193,"Other retinoschisis and retinal cysts, bilateral"
+5356,DRG04802,H33199,"Other retinoschisis and retinal cysts, unspecified eye"
+5357,DRG04802,H3320,"Serous retinal detachment, unspecified eye"
+5358,DRG04802,H3321,"Serous retinal detachment, right eye"
+5359,DRG04802,H3322,"Serous retinal detachment, left eye"
+5360,DRG04802,H3323,"Serous retinal detachment, bilateral"
+5361,DRG04802,H33301,"Unspecified retinal break, right eye"
+5362,DRG04802,H33302,"Unspecified retinal break, left eye"
+5363,DRG04802,H33303,"Unspecified retinal break, bilateral"
+5364,DRG04802,H33309,"Unspecified retinal break, unspecified eye"
+5365,DRG04802,H33311,"Horseshoe tear of retina without detachment, right eye"
+5366,DRG04802,H33312,"Horseshoe tear of retina without detachment, left eye"
+5367,DRG04802,H33313,"Horseshoe tear of retina without detachment, bilateral"
+5368,DRG04802,H33319,"Horseshoe tear of retina without detachment, unspecified eye"
+5369,DRG04802,H33321,"Round hole, right eye"
+5370,DRG04802,H33322,"Round hole, left eye"
+5371,DRG04802,H33323,"Round hole, bilateral"
+5372,DRG04802,H33329,"Round hole, unspecified eye"
+5373,DRG04802,H33331,"Multiple defects of retina without detachment, right eye"
+5374,DRG04802,H33332,"Multiple defects of retina without detachment, left eye"
+5375,DRG04802,H33333,"Multiple defects of retina without detachment, bilateral"
+5376,DRG04802,H33339,"Multiple defects of retina without detachment, unspecified eye"
+5377,DRG04802,H3340,"Traction detachment of retina, unspecified eye"
+5378,DRG04802,H3341,"Traction detachment of retina, right eye"
+5379,DRG04802,H3342,"Traction detachment of retina, left eye"
+5380,DRG04802,H3343,"Traction detachment of retina, bilateral"
+5381,DRG04802,H338,Other retinal detachments
+5382,DRG04802,H3500,Unspecified background retinopathy
+5383,DRG04802,H35011,"Changes in retinal vascular appearance, right eye"
+5384,DRG04802,H35012,"Changes in retinal vascular appearance, left eye"
+5385,DRG04802,H35013,"Changes in retinal vascular appearance, bilateral"
+5386,DRG04802,H35019,"Changes in retinal vascular appearance, unspecified eye"
+5387,DRG04802,H35021,"Exudative retinopathy, right eye"
+5388,DRG04802,H35022,"Exudative retinopathy, left eye"
+5389,DRG04802,H35023,"Exudative retinopathy, bilateral"
+5390,DRG04802,H35029,"Exudative retinopathy, unspecified eye"
+5391,DRG04802,H35031,"Hypertensive retinopathy, right eye"
+5392,DRG04802,H35032,"Hypertensive retinopathy, left eye"
+5393,DRG04802,H35033,"Hypertensive retinopathy, bilateral"
+5394,DRG04802,H35039,"Hypertensive retinopathy, unspecified eye"
+5395,DRG04802,H35041,"Retinal micro-aneurysms, unspecified, right eye"
+5396,DRG04802,H35042,"Retinal micro-aneurysms, unspecified, left eye"
+5397,DRG04802,H35043,"Retinal micro-aneurysms, unspecified, bilateral"
+5398,DRG04802,H35049,"Retinal micro-aneurysms, unspecified, unspecified eye"
+5399,DRG04802,H35051,"Retinal neovascularization, unspecified, right eye"
+5400,DRG04802,H35052,"Retinal neovascularization, unspecified, left eye"
+5401,DRG04802,H35053,"Retinal neovascularization, unspecified, bilateral"
+5402,DRG04802,H35059,"Retinal neovascularization, unspecified, unspecified eye"
+5403,DRG04802,H35061,"Retinal vasculitis, right eye"
+5404,DRG04802,H35062,"Retinal vasculitis, left eye"
+5405,DRG04802,H35063,"Retinal vasculitis, bilateral"
+5406,DRG04802,H35069,"Retinal vasculitis, unspecified eye"
+5407,DRG04802,H35071,"Retinal telangiectasis, right eye"
+5408,DRG04802,H35072,"Retinal telangiectasis, left eye"
+5409,DRG04802,H35073,"Retinal telangiectasis, bilateral"
+5410,DRG04802,H35079,"Retinal telangiectasis, unspecified eye"
+5411,DRG04802,H3509,Other intraretinal microvascular abnormalities
+5412,DRG04802,H35101,"Retinopathy of prematurity, unspecified, right eye"
+5413,DRG04802,H35102,"Retinopathy of prematurity, unspecified, left eye"
+5414,DRG04802,H35103,"Retinopathy of prematurity, unspecified, bilateral"
+5415,DRG04802,H35109,"Retinopathy of prematurity, unspecified, unspecified eye"
+5416,DRG04802,H35111,"Retinopathy of prematurity, stage 0, right eye"
+5417,DRG04802,H35112,"Retinopathy of prematurity, stage 0, left eye"
+5418,DRG04802,H35113,"Retinopathy of prematurity, stage 0, bilateral"
+5419,DRG04802,H35119,"Retinopathy of prematurity, stage 0, unspecified eye"
+5420,DRG04802,H35121,"Retinopathy of prematurity, stage 1, right eye"
+5421,DRG04802,H35122,"Retinopathy of prematurity, stage 1, left eye"
+5422,DRG04802,H35123,"Retinopathy of prematurity, stage 1, bilateral"
+5423,DRG04802,H35129,"Retinopathy of prematurity, stage 1, unspecified eye"
+5424,DRG04802,H35131,"Retinopathy of prematurity, stage 2, right eye"
+5425,DRG04802,H35132,"Retinopathy of prematurity, stage 2, left eye"
+5426,DRG04802,H35133,"Retinopathy of prematurity, stage 2, bilateral"
+5427,DRG04802,H35139,"Retinopathy of prematurity, stage 2, unspecified eye"
+5428,DRG04802,H35141,"Retinopathy of prematurity, stage 3, right eye"
+5429,DRG04802,H35142,"Retinopathy of prematurity, stage 3, left eye"
+5430,DRG04802,H35143,"Retinopathy of prematurity, stage 3, bilateral"
+5431,DRG04802,H35149,"Retinopathy of prematurity, stage 3, unspecified eye"
+5432,DRG04802,H35151,"Retinopathy of prematurity, stage 4, right eye"
+5433,DRG04802,H35152,"Retinopathy of prematurity, stage 4, left eye"
+5434,DRG04802,H35153,"Retinopathy of prematurity, stage 4, bilateral"
+5435,DRG04802,H35159,"Retinopathy of prematurity, stage 4, unspecified eye"
+5436,DRG04802,H35161,"Retinopathy of prematurity, stage 5, right eye"
+5437,DRG04802,H35162,"Retinopathy of prematurity, stage 5, left eye"
+5438,DRG04802,H35163,"Retinopathy of prematurity, stage 5, bilateral"
+5439,DRG04802,H35169,"Retinopathy of prematurity, stage 5, unspecified eye"
+5440,DRG04802,H35171,"Retrolental fibroplasia, right eye"
+5441,DRG04802,H35172,"Retrolental fibroplasia, left eye"
+5442,DRG04802,H35173,"Retrolental fibroplasia, bilateral"
+5443,DRG04802,H35179,"Retrolental fibroplasia, unspecified eye"
+5444,DRG04802,H3520,"Other non-diabetic proliferative retinopathy, unspecified eye"
+5445,DRG04802,H3521,"Other non-diabetic proliferative retinopathy, right eye"
+5446,DRG04802,H3522,"Other non-diabetic proliferative retinopathy, left eye"
+5447,DRG04802,H3523,"Other non-diabetic proliferative retinopathy, bilateral"
+5448,DRG04802,H3530,Unspecified macular degeneration
+5449,DRG04802,H3531,Nonexudative age-related macular degeneration
+5450,DRG04802,H3532,Exudative age-related macular degeneration
+5451,DRG04802,H3533,Angioid streaks of macula
+5452,DRG04802,H35341,"Macular cyst, hole, or pseudohole, right eye"
+5453,DRG04802,H35342,"Macular cyst, hole, or pseudohole, left eye"
+5454,DRG04802,H35343,"Macular cyst, hole, or pseudohole, bilateral"
+5455,DRG04802,H35349,"Macular cyst, hole, or pseudohole, unspecified eye"
+5456,DRG04802,H35351,"Cystoid macular degeneration, right eye"
+5457,DRG04802,H35352,"Cystoid macular degeneration, left eye"
+5458,DRG04802,H35353,"Cystoid macular degeneration, bilateral"
+5459,DRG04802,H35359,"Cystoid macular degeneration, unspecified eye"
+5460,DRG04802,H35361,"Drusen (degenerative) of macula, right eye"
+5461,DRG04802,H35362,"Drusen (degenerative) of macula, left eye"
+5462,DRG04802,H35363,"Drusen (degenerative) of macula, bilateral"
+5463,DRG04802,H35369,"Drusen (degenerative) of macula, unspecified eye"
+5464,DRG04802,H35371,"Puckering of macula, right eye"
+5465,DRG04802,H35372,"Puckering of macula, left eye"
+5466,DRG04802,H35373,"Puckering of macula, bilateral"
+5467,DRG04802,H35379,"Puckering of macula, unspecified eye"
+5468,DRG04802,H35381,"Toxic maculopathy, right eye"
+5469,DRG04802,H35382,"Toxic maculopathy, left eye"
+5470,DRG04802,H35383,"Toxic maculopathy, bilateral"
+5471,DRG04802,H35389,"Toxic maculopathy, unspecified eye"
+5472,DRG04802,H3540,Unspecified peripheral retinal degeneration
+5473,DRG04802,H35411,"Lattice degeneration of retina, right eye"
+5474,DRG04802,H35412,"Lattice degeneration of retina, left eye"
+5475,DRG04802,H35413,"Lattice degeneration of retina, bilateral"
+5476,DRG04802,H35419,"Lattice degeneration of retina, unspecified eye"
+5477,DRG04802,H35421,"Microcystoid degeneration of retina, right eye"
+5478,DRG04802,H35422,"Microcystoid degeneration of retina, left eye"
+5479,DRG04802,H35423,"Microcystoid degeneration of retina, bilateral"
+5480,DRG04802,H35429,"Microcystoid degeneration of retina, unspecified eye"
+5481,DRG04802,H35431,"Paving stone degeneration of retina, right eye"
+5482,DRG04802,H35432,"Paving stone degeneration of retina, left eye"
+5483,DRG04802,H35433,"Paving stone degeneration of retina, bilateral"
+5484,DRG04802,H35439,"Paving stone degeneration of retina, unspecified eye"
+5485,DRG04802,H35441,"Age-related reticular degeneration of retina, right eye"
+5486,DRG04802,H35442,"Age-related reticular degeneration of retina, left eye"
+5487,DRG04802,H35443,"Age-related reticular degeneration of retina, bilateral"
+5488,DRG04802,H35449,"Age-related reticular degeneration of retina, unspecified eye"
+5489,DRG04802,H35451,"Secondary pigmentary degeneration, right eye"
+5490,DRG04802,H35452,"Secondary pigmentary degeneration, left eye"
+5491,DRG04802,H35453,"Secondary pigmentary degeneration, bilateral"
+5492,DRG04802,H35459,"Secondary pigmentary degeneration, unspecified eye"
+5493,DRG04802,H35461,"Secondary vitreoretinal degeneration, right eye"
+5494,DRG04802,H35462,"Secondary vitreoretinal degeneration, left eye"
+5495,DRG04802,H35463,"Secondary vitreoretinal degeneration, bilateral"
+5496,DRG04802,H35469,"Secondary vitreoretinal degeneration, unspecified eye"
+5497,DRG04802,H3550,Unspecified hereditary retinal dystrophy
+5498,DRG04802,H3551,Vitreoretinal dystrophy
+5499,DRG04802,H3552,Pigmentary retinal dystrophy
+5500,DRG04802,H3553,Other dystrophies primarily involving the sensory retina
+5501,DRG04802,H3554,Dystrophies primarily involving the retinal pigment epithelium
+5502,DRG04802,H3560,"Retinal hemorrhage, unspecified eye"
+5503,DRG04802,H3561,"Retinal hemorrhage, right eye"
+5504,DRG04802,H3562,"Retinal hemorrhage, left eye"
+5505,DRG04802,H3563,"Retinal hemorrhage, bilateral"
+5506,DRG04802,H3570,Unspecified separation of retinal layers
+5507,DRG04802,H35711,"Central serous chorioretinopathy, right eye"
+5508,DRG04802,H35712,"Central serous chorioretinopathy, left eye"
+5509,DRG04802,H35713,"Central serous chorioretinopathy, bilateral"
+5510,DRG04802,H35719,"Central serous chorioretinopathy, unspecified eye"
+5511,DRG04802,H35721,"Serous detachment of retinal pigment epithelium, right eye"
+5512,DRG04802,H35722,"Serous detachment of retinal pigment epithelium, left eye"
+5513,DRG04802,H35723,"Serous detachment of retinal pigment epithelium, bilateral"
+5514,DRG04802,H35729,"Serous detachment of retinal pigment epithelium, unspecified eye"
+5515,DRG04802,H35731,"Hemorrhagic detachment of retinal pigment epithelium, right eye"
+5516,DRG04802,H35732,"Hemorrhagic detachment of retinal pigment epithelium, left eye"
+5517,DRG04802,H35733,"Hemorrhagic detachment of retinal pigment epithelium, bilateral"
+5518,DRG04802,H35739,"Hemorrhagic detachment of retinal pigment epithelium, unspecified eye"
+5519,DRG04802,H3581,Retinal edema
+5520,DRG04802,H3582,Retinal ischemia
+5521,DRG04802,H3589,Other specified retinal disorders
+5522,DRG04802,H359,Unspecified retinal disorder
+5523,DRG04802,H40001,"Preglaucoma, unspecified, right eye"
+5524,DRG04802,H40002,"Preglaucoma, unspecified, left eye"
+5525,DRG04802,H40003,"Preglaucoma, unspecified, bilateral"
+5526,DRG04802,H40009,"Preglaucoma, unspecified, unspecified eye"
+5527,DRG04802,H40011,"Open angle with borderline findings, low risk, right eye"
+5528,DRG04802,H40012,"Open angle with borderline findings, low risk, left eye"
+5529,DRG04802,H40013,"Open angle with borderline findings, low risk, bilateral"
+5530,DRG04802,H40019,"Open angle with borderline findings, low risk, unspecified eye"
+5531,DRG04802,H40021,"Open angle with borderline findings, high risk, right eye"
+5532,DRG04802,H40022,"Open angle with borderline findings, high risk, left eye"
+5533,DRG04802,H40023,"Open angle with borderline findings, high risk, bilateral"
+5534,DRG04802,H40029,"Open angle with borderline findings, high risk, unspecified eye"
+5535,DRG04802,H40031,"Anatomical narrow angle, right eye"
+5536,DRG04802,H40032,"Anatomical narrow angle, left eye"
+5537,DRG04802,H40033,"Anatomical narrow angle, bilateral"
+5538,DRG04802,H40039,"Anatomical narrow angle, unspecified eye"
+5539,DRG04802,H40041,"Steroid responder, right eye"
+5540,DRG04802,H40042,"Steroid responder, left eye"
+5541,DRG04802,H40043,"Steroid responder, bilateral"
+5542,DRG04802,H40049,"Steroid responder, unspecified eye"
+5543,DRG04802,H40051,"Ocular hypertension, right eye"
+5544,DRG04802,H40052,"Ocular hypertension, left eye"
+5545,DRG04802,H40053,"Ocular hypertension, bilateral"
+5546,DRG04802,H40059,"Ocular hypertension, unspecified eye"
+5547,DRG04802,H40061,"Primary angle closure without glaucoma damage, right eye"
+5548,DRG04802,H40062,"Primary angle closure without glaucoma damage, left eye"
+5549,DRG04802,H40063,"Primary angle closure without glaucoma damage, bilateral"
+5550,DRG04802,H40069,"Primary angle closure without glaucoma damage, unspecified eye"
+5551,DRG04802,H4010X0,"Unspecified open-angle glaucoma, stage unspecified"
+5552,DRG04802,H4010X1,"Unspecified open-angle glaucoma, mild stage"
+5553,DRG04802,H4010X2,"Unspecified open-angle glaucoma, moderate stage"
+5554,DRG04802,H4010X3,"Unspecified open-angle glaucoma, severe stage"
+5555,DRG04802,H4010X4,"Unspecified open-angle glaucoma, indeterminate stage"
+5556,DRG04802,H4011X0,"Primary open-angle glaucoma, stage unspecified"
+5557,DRG04802,H4011X1,"Primary open-angle glaucoma, mild stage"
+5558,DRG04802,H4011X2,"Primary open-angle glaucoma, moderate stage"
+5559,DRG04802,H4011X3,"Primary open-angle glaucoma, severe stage"
+5560,DRG04802,H4011X4,"Primary open-angle glaucoma, indeterminate stage"
+5561,DRG04802,H401410,"Capsular glaucoma with pseudoexfoliation of lens, right eye, stage unspecified"
+5562,DRG04802,H401411,"Capsular glaucoma with pseudoexfoliation of lens, right eye, mild stage"
+5563,DRG04802,H401412,"Capsular glaucoma with pseudoexfoliation of lens, right eye, moderate stage"
+5564,DRG04802,H401413,"Capsular glaucoma with pseudoexfoliation of lens, right eye, severe stage"
+5565,DRG04802,H401414,"Capsular glaucoma with pseudoexfoliation of lens, right eye, indeterminate stage"
+5566,DRG04802,H401420,"Capsular glaucoma with pseudoexfoliation of lens, left eye, stage unspecified"
+5567,DRG04802,H401421,"Capsular glaucoma with pseudoexfoliation of lens, left eye, mild stage"
+5568,DRG04802,H401422,"Capsular glaucoma with pseudoexfoliation of lens, left eye, moderate stage"
+5569,DRG04802,H401423,"Capsular glaucoma with pseudoexfoliation of lens, left eye, severe stage"
+5570,DRG04802,H401424,"Capsular glaucoma with pseudoexfoliation of lens, left eye, indeterminate stage"
+5571,DRG04802,H401430,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, stage unspecified"
+5572,DRG04802,H401431,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, mild stage"
+5573,DRG04802,H401432,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, moderate stage"
+5574,DRG04802,H401433,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, severe stage"
+5575,DRG04802,H401434,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, indeterminate stage"
+5576,DRG04802,H401490,"Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, stage unspecified"
+5577,DRG04802,H401491,"Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, mild stage"
+5578,DRG04802,H401492,"Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, moderate stage"
+5579,DRG04802,H401493,"Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, severe stage"
+5580,DRG04802,H401494,"Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, indeterminate stage"
+5581,DRG04802,H4020X0,"Unspecified primary angle-closure glaucoma, stage unspecified"
+5582,DRG04802,H4020X1,"Unspecified primary angle-closure glaucoma, mild stage"
+5583,DRG04802,H4020X2,"Unspecified primary angle-closure glaucoma, moderate stage"
+5584,DRG04802,H4020X3,"Unspecified primary angle-closure glaucoma, severe stage"
+5585,DRG04802,H4020X4,"Unspecified primary angle-closure glaucoma, indeterminate stage"
+5586,DRG04802,H40211,"Acute angle-closure glaucoma, right eye"
+5587,DRG04802,H40212,"Acute angle-closure glaucoma, left eye"
+5588,DRG04802,H40213,"Acute angle-closure glaucoma, bilateral"
+5589,DRG04802,H40219,"Acute angle-closure glaucoma, unspecified eye"
+5590,DRG04802,H402210,"Chronic angle-closure glaucoma, right eye, stage unspecified"
+5591,DRG04802,H402211,"Chronic angle-closure glaucoma, right eye, mild stage"
+5592,DRG04802,H402212,"Chronic angle-closure glaucoma, right eye, moderate stage"
+5593,DRG04802,H402213,"Chronic angle-closure glaucoma, right eye, severe stage"
+5594,DRG04802,H402214,"Chronic angle-closure glaucoma, right eye, indeterminate stage"
+5595,DRG04802,H402220,"Chronic angle-closure glaucoma, left eye, stage unspecified"
+5596,DRG04802,H402221,"Chronic angle-closure glaucoma, left eye, mild stage"
+5597,DRG04802,H402222,"Chronic angle-closure glaucoma, left eye, moderate stage"
+5598,DRG04802,H402223,"Chronic angle-closure glaucoma, left eye, severe stage"
+5599,DRG04802,H402224,"Chronic angle-closure glaucoma, left eye, indeterminate stage"
+5600,DRG04802,H402230,"Chronic angle-closure glaucoma, bilateral, stage unspecified"
+5601,DRG04802,H402231,"Chronic angle-closure glaucoma, bilateral, mild stage"
+5602,DRG04802,H402232,"Chronic angle-closure glaucoma, bilateral, moderate stage"
+5603,DRG04802,H402233,"Chronic angle-closure glaucoma, bilateral, severe stage"
+5604,DRG04802,H402234,"Chronic angle-closure glaucoma, bilateral, indeterminate stage"
+5605,DRG04802,H402290,"Chronic angle-closure glaucoma, unspecified eye, stage unspecified"
+5606,DRG04802,H402291,"Chronic angle-closure glaucoma, unspecified eye, mild stage"
+5607,DRG04802,H402292,"Chronic angle-closure glaucoma, unspecified eye, moderate stage"
+5608,DRG04802,H402293,"Chronic angle-closure glaucoma, unspecified eye, severe stage"
+5609,DRG04802,H402294,"Chronic angle-closure glaucoma, unspecified eye, indeterminate stage"
+5610,DRG04802,H40231,"Intermittent angle-closure glaucoma, right eye"
+5611,DRG04802,H40232,"Intermittent angle-closure glaucoma, left eye"
+5612,DRG04802,H40233,"Intermittent angle-closure glaucoma, bilateral"
+5613,DRG04802,H40239,"Intermittent angle-closure glaucoma, unspecified eye"
+5614,DRG04802,H40241,"Residual stage of angle-closure glaucoma, right eye"
+5615,DRG04802,H40242,"Residual stage of angle-closure glaucoma, left eye"
+5616,DRG04802,H40243,"Residual stage of angle-closure glaucoma, bilateral"
+5617,DRG04802,H40249,"Residual stage of angle-closure glaucoma, unspecified eye"
+5618,DRG04802,H4030X0,"Glaucoma secondary to eye trauma, unspecified eye, stage unspecified"
+5619,DRG04802,H4030X1,"Glaucoma secondary to eye trauma, unspecified eye, mild stage"
+5620,DRG04802,H4030X2,"Glaucoma secondary to eye trauma, unspecified eye, moderate stage"
+5621,DRG04802,H4030X3,"Glaucoma secondary to eye trauma, unspecified eye, severe stage"
+5622,DRG04802,H4030X4,"Glaucoma secondary to eye trauma, unspecified eye, indeterminate stage"
+5623,DRG04802,H4031X0,"Glaucoma secondary to eye trauma, right eye, stage unspecified"
+5624,DRG04802,H4031X1,"Glaucoma secondary to eye trauma, right eye, mild stage"
+5625,DRG04802,H4031X2,"Glaucoma secondary to eye trauma, right eye, moderate stage"
+5626,DRG04802,H4031X3,"Glaucoma secondary to eye trauma, right eye, severe stage"
+5627,DRG04802,H4031X4,"Glaucoma secondary to eye trauma, right eye, indeterminate stage"
+5628,DRG04802,H4032X0,"Glaucoma secondary to eye trauma, left eye, stage unspecified"
+5629,DRG04802,H4032X1,"Glaucoma secondary to eye trauma, left eye, mild stage"
+5630,DRG04802,H4032X2,"Glaucoma secondary to eye trauma, left eye, moderate stage"
+5631,DRG04802,H4032X3,"Glaucoma secondary to eye trauma, left eye, severe stage"
+5632,DRG04802,H4032X4,"Glaucoma secondary to eye trauma, left eye, indeterminate stage"
+5633,DRG04802,H4033X0,"Glaucoma secondary to eye trauma, bilateral, stage unspecified"
+5634,DRG04802,H4033X1,"Glaucoma secondary to eye trauma, bilateral, mild stage"
+5635,DRG04802,H4033X2,"Glaucoma secondary to eye trauma, bilateral, moderate stage"
+5636,DRG04802,H4033X3,"Glaucoma secondary to eye trauma, bilateral, severe stage"
+5637,DRG04802,H4033X4,"Glaucoma secondary to eye trauma, bilateral, indeterminate stage"
+5638,DRG04802,H4040X0,"Glaucoma secondary to eye inflammation, unspecified eye, stage unspecified"
+5639,DRG04802,H4040X1,"Glaucoma secondary to eye inflammation, unspecified eye, mild stage"
+5640,DRG04802,H4040X2,"Glaucoma secondary to eye inflammation, unspecified eye, moderate stage"
+5641,DRG04802,H4040X3,"Glaucoma secondary to eye inflammation, unspecified eye, severe stage"
+5642,DRG04802,H4040X4,"Glaucoma secondary to eye inflammation, unspecified eye, indeterminate stage"
+5643,DRG04802,H4041X0,"Glaucoma secondary to eye inflammation, right eye, stage unspecified"
+5644,DRG04802,H4041X1,"Glaucoma secondary to eye inflammation, right eye, mild stage"
+5645,DRG04802,H4041X2,"Glaucoma secondary to eye inflammation, right eye, moderate stage"
+5646,DRG04802,H4041X3,"Glaucoma secondary to eye inflammation, right eye, severe stage"
+5647,DRG04802,H4041X4,"Glaucoma secondary to eye inflammation, right eye, indeterminate stage"
+5648,DRG04802,H4042X0,"Glaucoma secondary to eye inflammation, left eye, stage unspecified"
+5649,DRG04802,H4042X1,"Glaucoma secondary to eye inflammation, left eye, mild stage"
+5650,DRG04802,H4042X2,"Glaucoma secondary to eye inflammation, left eye, moderate stage"
+5651,DRG04802,H4042X3,"Glaucoma secondary to eye inflammation, left eye, severe stage"
+5652,DRG04802,H4042X4,"Glaucoma secondary to eye inflammation, left eye, indeterminate stage"
+5653,DRG04802,H4043X0,"Glaucoma secondary to eye inflammation, bilateral, stage unspecified"
+5654,DRG04802,H4043X1,"Glaucoma secondary to eye inflammation, bilateral, mild stage"
+5655,DRG04802,H4043X2,"Glaucoma secondary to eye inflammation, bilateral, moderate stage"
+5656,DRG04802,H4043X3,"Glaucoma secondary to eye inflammation, bilateral, severe stage"
+5657,DRG04802,H4043X4,"Glaucoma secondary to eye inflammation, bilateral, indeterminate stage"
+5658,DRG04802,H4050X0,"Glaucoma secondary to other eye disorders, unspecified eye, stage unspecified"
+5659,DRG04802,H4050X1,"Glaucoma secondary to other eye disorders, unspecified eye, mild stage"
+5660,DRG04802,H4050X2,"Glaucoma secondary to other eye disorders, unspecified eye, moderate stage"
+5661,DRG04802,H4050X3,"Glaucoma secondary to other eye disorders, unspecified eye, severe stage"
+5662,DRG04802,H4050X4,"Glaucoma secondary to other eye disorders, unspecified eye, indeterminate stage"
+5663,DRG04802,H4051X0,"Glaucoma secondary to other eye disorders, right eye, stage unspecified"
+5664,DRG04802,H4051X1,"Glaucoma secondary to other eye disorders, right eye, mild stage"
+5665,DRG04802,H4051X2,"Glaucoma secondary to other eye disorders, right eye, moderate stage"
+5666,DRG04802,H4051X3,"Glaucoma secondary to other eye disorders, right eye, severe stage"
+5667,DRG04802,H4051X4,"Glaucoma secondary to other eye disorders, right eye, indeterminate stage"
+5668,DRG04802,H4052X0,"Glaucoma secondary to other eye disorders, left eye, stage unspecified"
+5669,DRG04802,H4052X1,"Glaucoma secondary to other eye disorders, left eye, mild stage"
+5670,DRG04802,H4052X2,"Glaucoma secondary to other eye disorders, left eye, moderate stage"
+5671,DRG04802,H4052X3,"Glaucoma secondary to other eye disorders, left eye, severe stage"
+5672,DRG04802,H4052X4,"Glaucoma secondary to other eye disorders, left eye, indeterminate stage"
+5673,DRG04802,H4053X0,"Glaucoma secondary to other eye disorders, bilateral, stage unspecified"
+5674,DRG04802,H4053X1,"Glaucoma secondary to other eye disorders, bilateral, mild stage"
+5675,DRG04802,H4053X2,"Glaucoma secondary to other eye disorders, bilateral, moderate stage"
+5676,DRG04802,H4053X3,"Glaucoma secondary to other eye disorders, bilateral, severe stage"
+5677,DRG04802,H4053X4,"Glaucoma secondary to other eye disorders, bilateral, indeterminate stage"
+5678,DRG04802,H4060X0,"Glaucoma secondary to drugs, unspecified eye, stage unspecified"
+5679,DRG04802,H4060X1,"Glaucoma secondary to drugs, unspecified eye, mild stage"
+5680,DRG04802,H4060X2,"Glaucoma secondary to drugs, unspecified eye, moderate stage"
+5681,DRG04802,H4060X3,"Glaucoma secondary to drugs, unspecified eye, severe stage"
+5682,DRG04802,H4060X4,"Glaucoma secondary to drugs, unspecified eye, indeterminate stage"
+5683,DRG04802,H4061X0,"Glaucoma secondary to drugs, right eye, stage unspecified"
+5684,DRG04802,H4061X1,"Glaucoma secondary to drugs, right eye, mild stage"
+5685,DRG04802,H4061X2,"Glaucoma secondary to drugs, right eye, moderate stage"
+5686,DRG04802,H4061X3,"Glaucoma secondary to drugs, right eye, severe stage"
+5687,DRG04802,H4061X4,"Glaucoma secondary to drugs, right eye, indeterminate stage"
+5688,DRG04802,H4062X0,"Glaucoma secondary to drugs, left eye, stage unspecified"
+5689,DRG04802,H4062X1,"Glaucoma secondary to drugs, left eye, mild stage"
+5690,DRG04802,H4062X2,"Glaucoma secondary to drugs, left eye, moderate stage"
+5691,DRG04802,H4062X3,"Glaucoma secondary to drugs, left eye, severe stage"
+5692,DRG04802,H4062X4,"Glaucoma secondary to drugs, left eye, indeterminate stage"
+5693,DRG04802,H4063X0,"Glaucoma secondary to drugs, bilateral, stage unspecified"
+5694,DRG04802,H4063X1,"Glaucoma secondary to drugs, bilateral, mild stage"
+5695,DRG04802,H4063X2,"Glaucoma secondary to drugs, bilateral, moderate stage"
+5696,DRG04802,H4063X3,"Glaucoma secondary to drugs, bilateral, severe stage"
+5697,DRG04802,H4063X4,"Glaucoma secondary to drugs, bilateral, indeterminate stage"
+5698,DRG04802,H40811,"Glaucoma with increased episcleral venous pressure, right eye"
+5699,DRG04802,H40812,"Glaucoma with increased episcleral venous pressure, left eye"
+5700,DRG04802,H40813,"Glaucoma with increased episcleral venous pressure, bilateral"
+5701,DRG04802,H40819,"Glaucoma with increased episcleral venous pressure, unspecified eye"
+5702,DRG04802,H40821,"Hypersecretion glaucoma, right eye"
+5703,DRG04802,H40822,"Hypersecretion glaucoma, left eye"
+5704,DRG04802,H40823,"Hypersecretion glaucoma, bilateral"
+5705,DRG04802,H40829,"Hypersecretion glaucoma, unspecified eye"
+5706,DRG04802,H40831,"Aqueous misdirection, right eye"
+5707,DRG04802,H40832,"Aqueous misdirection, left eye"
+5708,DRG04802,H40833,"Aqueous misdirection, bilateral"
+5709,DRG04802,H40839,"Aqueous misdirection, unspecified eye"
+5710,DRG04802,H4089,Other specified glaucoma
+5711,DRG04802,H409,Unspecified glaucoma
+5712,DRG04802,H4300,"Vitreous prolapse, unspecified eye"
+5713,DRG04802,H4301,"Vitreous prolapse, right eye"
+5714,DRG04802,H4302,"Vitreous prolapse, left eye"
+5715,DRG04802,H4303,"Vitreous prolapse, bilateral"
+5716,DRG04802,H4310,"Vitreous hemorrhage, unspecified eye"
+5717,DRG04802,H4311,"Vitreous hemorrhage, right eye"
+5718,DRG04802,H4312,"Vitreous hemorrhage, left eye"
+5719,DRG04802,H4313,"Vitreous hemorrhage, bilateral"
+5720,DRG04802,H4320,"Crystalline deposits in vitreous body, unspecified eye"
+5721,DRG04802,H4321,"Crystalline deposits in vitreous body, right eye"
+5722,DRG04802,H4322,"Crystalline deposits in vitreous body, left eye"
+5723,DRG04802,H4323,"Crystalline deposits in vitreous body, bilateral"
+5724,DRG04802,H43311,"Vitreous membranes and strands, right eye"
+5725,DRG04802,H43312,"Vitreous membranes and strands, left eye"
+5726,DRG04802,H43313,"Vitreous membranes and strands, bilateral"
+5727,DRG04802,H43319,"Vitreous membranes and strands, unspecified eye"
+5728,DRG04802,H43391,"Other vitreous opacities, right eye"
+5729,DRG04802,H43392,"Other vitreous opacities, left eye"
+5730,DRG04802,H43393,"Other vitreous opacities, bilateral"
+5731,DRG04802,H43399,"Other vitreous opacities, unspecified eye"
+5732,DRG04802,H43811,"Vitreous degeneration, right eye"
+5733,DRG04802,H43812,"Vitreous degeneration, left eye"
+5734,DRG04802,H43813,"Vitreous degeneration, bilateral"
+5735,DRG04802,H43819,"Vitreous degeneration, unspecified eye"
+5736,DRG04802,H43821,"Vitreomacular adhesion, right eye"
+5737,DRG04802,H43822,"Vitreomacular adhesion, left eye"
+5738,DRG04802,H43823,"Vitreomacular adhesion, bilateral"
+5739,DRG04802,H43829,"Vitreomacular adhesion, unspecified eye"
+5740,DRG04802,H4389,Other disorders of vitreous body
+5741,DRG04802,H439,Unspecified disorder of vitreous body
+5742,DRG04802,H44001,"Unspecified purulent endophthalmitis, right eye"
+5743,DRG04802,H44002,"Unspecified purulent endophthalmitis, left eye"
+5744,DRG04802,H44003,"Unspecified purulent endophthalmitis, bilateral"
+5745,DRG04802,H44009,"Unspecified purulent endophthalmitis, unspecified eye"
+5746,DRG04802,H44111,"Panuveitis, right eye"
+5747,DRG04802,H44112,"Panuveitis, left eye"
+5748,DRG04802,H44113,"Panuveitis, bilateral"
+5749,DRG04802,H44119,"Panuveitis, unspecified eye"
+5750,DRG04802,H44131,"Sympathetic uveitis, right eye"
+5751,DRG04802,H44132,"Sympathetic uveitis, left eye"
+5752,DRG04802,H44133,"Sympathetic uveitis, bilateral"
+5753,DRG04802,H44139,"Sympathetic uveitis, unspecified eye"
+5754,DRG04802,H4420,"Degenerative myopia, unspecified eye"
+5755,DRG04802,H4421,"Degenerative myopia, right eye"
+5756,DRG04802,H4422,"Degenerative myopia, left eye"
+5757,DRG04802,H4423,"Degenerative myopia, bilateral"
+5758,DRG04802,H4430,Unspecified degenerative disorder of globe
+5759,DRG04802,H44311,"Chalcosis, right eye"
+5760,DRG04802,H44312,"Chalcosis, left eye"
+5761,DRG04802,H44313,"Chalcosis, bilateral"
+5762,DRG04802,H44319,"Chalcosis, unspecified eye"
+5763,DRG04802,H44321,"Siderosis of eye, right eye"
+5764,DRG04802,H44322,"Siderosis of eye, left eye"
+5765,DRG04802,H44323,"Siderosis of eye, bilateral"
+5766,DRG04802,H44329,"Siderosis of eye, unspecified eye"
+5767,DRG04802,H44391,"Other degenerative disorders of globe, right eye"
+5768,DRG04802,H44392,"Other degenerative disorders of globe, left eye"
+5769,DRG04802,H44393,"Other degenerative disorders of globe, bilateral"
+5770,DRG04802,H44399,"Other degenerative disorders of globe, unspecified eye"
+5771,DRG04802,H4440,Unspecified hypotony of eye
+5772,DRG04802,H44411,Flat anterior chamber hypotony of right eye
+5773,DRG04802,H44412,Flat anterior chamber hypotony of left eye
+5774,DRG04802,H44413,"Flat anterior chamber hypotony of eye, bilateral"
+5775,DRG04802,H44419,Flat anterior chamber hypotony of unspecified eye
+5776,DRG04802,H44421,Hypotony of right eye due to ocular fistula
+5777,DRG04802,H44422,Hypotony of left eye due to ocular fistula
+5778,DRG04802,H44423,"Hypotony of eye due to ocular fistula, bilateral"
+5779,DRG04802,H44429,Hypotony of unspecified eye due to ocular fistula
+5780,DRG04802,H44431,"Hypotony of eye due to other ocular disorders, right eye"
+5781,DRG04802,H44432,"Hypotony of eye due to other ocular disorders, left eye"
+5782,DRG04802,H44433,"Hypotony of eye due to other ocular disorders, bilateral"
+5783,DRG04802,H44439,"Hypotony of eye due to other ocular disorders, unspecified eye"
+5784,DRG04802,H44441,Primary hypotony of right eye
+5785,DRG04802,H44442,Primary hypotony of left eye
+5786,DRG04802,H44443,"Primary hypotony of eye, bilateral"
+5787,DRG04802,H44449,Primary hypotony of unspecified eye
+5788,DRG04802,H4450,Unspecified degenerated conditions of globe
+5789,DRG04802,H44511,"Absolute glaucoma, right eye"
+5790,DRG04802,H44512,"Absolute glaucoma, left eye"
+5791,DRG04802,H44513,"Absolute glaucoma, bilateral"
+5792,DRG04802,H44519,"Absolute glaucoma, unspecified eye"
+5793,DRG04802,H44521,"Atrophy of globe, right eye"
+5794,DRG04802,H44522,"Atrophy of globe, left eye"
+5795,DRG04802,H44523,"Atrophy of globe, bilateral"
+5796,DRG04802,H44529,"Atrophy of globe, unspecified eye"
+5797,DRG04802,H44531,"Leucocoria, right eye"
+5798,DRG04802,H44532,"Leucocoria, left eye"
+5799,DRG04802,H44533,"Leucocoria, bilateral"
+5800,DRG04802,H44539,"Leucocoria, unspecified eye"
+5801,DRG04802,H44601,"Unspecified retained (old) intraocular foreign body, magnetic, right eye"
+5802,DRG04802,H44602,"Unspecified retained (old) intraocular foreign body, magnetic, left eye"
+5803,DRG04802,H44603,"Unspecified retained (old) intraocular foreign body, magnetic, bilateral"
+5804,DRG04802,H44609,"Unspecified retained (old) intraocular foreign body, magnetic, unspecified eye"
+5805,DRG04802,H44611,"Retained (old) magnetic foreign body in anterior chamber, right eye"
+5806,DRG04802,H44612,"Retained (old) magnetic foreign body in anterior chamber, left eye"
+5807,DRG04802,H44613,"Retained (old) magnetic foreign body in anterior chamber, bilateral"
+5808,DRG04802,H44619,"Retained (old) magnetic foreign body in anterior chamber, unspecified eye"
+5809,DRG04802,H44621,"Retained (old) magnetic foreign body in iris or ciliary body, right eye"
+5810,DRG04802,H44622,"Retained (old) magnetic foreign body in iris or ciliary body, left eye"
+5811,DRG04802,H44623,"Retained (old) magnetic foreign body in iris or ciliary body, bilateral"
+5812,DRG04802,H44629,"Retained (old) magnetic foreign body in iris or ciliary body, unspecified eye"
+5813,DRG04802,H44631,"Retained (old) magnetic foreign body in lens, right eye"
+5814,DRG04802,H44632,"Retained (old) magnetic foreign body in lens, left eye"
+5815,DRG04802,H44633,"Retained (old) magnetic foreign body in lens, bilateral"
+5816,DRG04802,H44639,"Retained (old) magnetic foreign body in lens, unspecified eye"
+5817,DRG04802,H44641,"Retained (old) magnetic foreign body in posterior wall of globe, right eye"
+5818,DRG04802,H44642,"Retained (old) magnetic foreign body in posterior wall of globe, left eye"
+5819,DRG04802,H44643,"Retained (old) magnetic foreign body in posterior wall of globe, bilateral"
+5820,DRG04802,H44649,"Retained (old) magnetic foreign body in posterior wall of globe, unspecified eye"
+5821,DRG04802,H44651,"Retained (old) magnetic foreign body in vitreous body, right eye"
+5822,DRG04802,H44652,"Retained (old) magnetic foreign body in vitreous body, left eye"
+5823,DRG04802,H44653,"Retained (old) magnetic foreign body in vitreous body, bilateral"
+5824,DRG04802,H44659,"Retained (old) magnetic foreign body in vitreous body, unspecified eye"
+5825,DRG04802,H44691,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye"
+5826,DRG04802,H44692,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye"
+5827,DRG04802,H44693,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, bilateral"
+5828,DRG04802,H44699,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, unspecified eye"
+5829,DRG04802,H44701,"Unspecified retained (old) intraocular foreign body, nonmagnetic, right eye"
+5830,DRG04802,H44702,"Unspecified retained (old) intraocular foreign body, nonmagnetic, left eye"
+5831,DRG04802,H44703,"Unspecified retained (old) intraocular foreign body, nonmagnetic, bilateral"
+5832,DRG04802,H44709,"Unspecified retained (old) intraocular foreign body, nonmagnetic, unspecified eye"
+5833,DRG04802,H44711,"Retained (nonmagnetic) (old) foreign body in anterior chamber, right eye"
+5834,DRG04802,H44712,"Retained (nonmagnetic) (old) foreign body in anterior chamber, left eye"
+5835,DRG04802,H44713,"Retained (nonmagnetic) (old) foreign body in anterior chamber, bilateral"
+5836,DRG04802,H44719,"Retained (nonmagnetic) (old) foreign body in anterior chamber, unspecified eye"
+5837,DRG04802,H44721,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye"
+5838,DRG04802,H44722,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye"
+5839,DRG04802,H44723,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, bilateral"
+5840,DRG04802,H44729,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, unspecified eye"
+5841,DRG04802,H44731,"Retained (nonmagnetic) (old) foreign body in lens, right eye"
+5842,DRG04802,H44732,"Retained (nonmagnetic) (old) foreign body in lens, left eye"
+5843,DRG04802,H44733,"Retained (nonmagnetic) (old) foreign body in lens, bilateral"
+5844,DRG04802,H44739,"Retained (nonmagnetic) (old) foreign body in lens, unspecified eye"
+5845,DRG04802,H44741,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye"
+5846,DRG04802,H44742,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye"
+5847,DRG04802,H44743,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, bilateral"
+5848,DRG04802,H44749,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, unspecified eye"
+5849,DRG04802,H44751,"Retained (nonmagnetic) (old) foreign body in vitreous body, right eye"
+5850,DRG04802,H44752,"Retained (nonmagnetic) (old) foreign body in vitreous body, left eye"
+5851,DRG04802,H44753,"Retained (nonmagnetic) (old) foreign body in vitreous body, bilateral"
+5852,DRG04802,H44759,"Retained (nonmagnetic) (old) foreign body in vitreous body, unspecified eye"
+5853,DRG04802,H44791,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye"
+5854,DRG04802,H44792,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye"
+5855,DRG04802,H44793,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, bilateral"
+5856,DRG04802,H44799,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, unspecified eye"
+5857,DRG04802,H44811,"Hemophthalmos, right eye"
+5858,DRG04802,H44812,"Hemophthalmos, left eye"
+5859,DRG04802,H44813,"Hemophthalmos, bilateral"
+5860,DRG04802,H44819,"Hemophthalmos, unspecified eye"
+5861,DRG04802,H44821,"Luxation of globe, right eye"
+5862,DRG04802,H44822,"Luxation of globe, left eye"
+5863,DRG04802,H44823,"Luxation of globe, bilateral"
+5864,DRG04802,H44829,"Luxation of globe, unspecified eye"
+5865,DRG04802,H4489,Other disorders of globe
+5866,DRG04802,H449,Unspecified disorder of globe
+5867,DRG04802,H4712,Papilledema associated with decreased ocular pressure
+5868,DRG04802,H4713,Papilledema associated with retinal disorder
+5869,DRG04802,H47231,"Glaucomatous optic atrophy, right eye"
+5870,DRG04802,H47232,"Glaucomatous optic atrophy, left eye"
+5871,DRG04802,H47233,"Glaucomatous optic atrophy, bilateral"
+5872,DRG04802,H47239,"Glaucomatous optic atrophy, unspecified eye"
+5873,DRG04802,H47291,"Other optic atrophy, right eye"
+5874,DRG04802,H47292,"Other optic atrophy, left eye"
+5875,DRG04802,H47293,"Other optic atrophy, bilateral"
+5876,DRG04802,H47299,"Other optic atrophy, unspecified eye"
+5877,DRG04802,H47311,"Coloboma of optic disc, right eye"
+5878,DRG04802,H47312,"Coloboma of optic disc, left eye"
+5879,DRG04802,H47313,"Coloboma of optic disc, bilateral"
+5880,DRG04802,H47319,"Coloboma of optic disc, unspecified eye"
+5881,DRG04802,H47391,"Other disorders of optic disc, right eye"
+5882,DRG04802,H47392,"Other disorders of optic disc, left eye"
+5883,DRG04802,H47393,"Other disorders of optic disc, bilateral"
+5884,DRG04802,H47399,"Other disorders of optic disc, unspecified eye"
+5885,DRG04802,H5000,Unspecified esotropia
+5886,DRG04802,H50011,"Monocular esotropia, right eye"
+5887,DRG04802,H50012,"Monocular esotropia, left eye"
+5888,DRG04802,H50021,"Monocular esotropia with A pattern, right eye"
+5889,DRG04802,H50022,"Monocular esotropia with A pattern, left eye"
+5890,DRG04802,H50031,"Monocular esotropia with V pattern, right eye"
+5891,DRG04802,H50032,"Monocular esotropia with V pattern, left eye"
+5892,DRG04802,H50041,"Monocular esotropia with other noncomitancies, right eye"
+5893,DRG04802,H50042,"Monocular esotropia with other noncomitancies, left eye"
+5894,DRG04802,H5005,Alternating esotropia
+5895,DRG04802,H5006,Alternating esotropia with A pattern
+5896,DRG04802,H5007,Alternating esotropia with V pattern
+5897,DRG04802,H5008,Alternating esotropia with other noncomitancies
+5898,DRG04802,H5010,Unspecified exotropia
+5899,DRG04802,H50111,"Monocular exotropia, right eye"
+5900,DRG04802,H50112,"Monocular exotropia, left eye"
+5901,DRG04802,H50121,"Monocular exotropia with A pattern, right eye"
+5902,DRG04802,H50122,"Monocular exotropia with A pattern, left eye"
+5903,DRG04802,H50131,"Monocular exotropia with V pattern, right eye"
+5904,DRG04802,H50132,"Monocular exotropia with V pattern, left eye"
+5905,DRG04802,H50141,"Monocular exotropia with other noncomitancies, right eye"
+5906,DRG04802,H50142,"Monocular exotropia with other noncomitancies, left eye"
+5907,DRG04802,H5015,Alternating exotropia
+5908,DRG04802,H5016,Alternating exotropia with A pattern
+5909,DRG04802,H5017,Alternating exotropia with V pattern
+5910,DRG04802,H5018,Alternating exotropia with other noncomitancies
+5911,DRG04802,H5021,"Vertical strabismus, right eye"
+5912,DRG04802,H5022,"Vertical strabismus, left eye"
+5913,DRG04802,H5030,Unspecified intermittent heterotropia
+5914,DRG04802,H50311,"Intermittent monocular esotropia, right eye"
+5915,DRG04802,H50312,"Intermittent monocular esotropia, left eye"
+5916,DRG04802,H5032,Intermittent alternating esotropia
+5917,DRG04802,H50331,"Intermittent monocular exotropia, right eye"
+5918,DRG04802,H50332,"Intermittent monocular exotropia, left eye"
+5919,DRG04802,H5034,Intermittent alternating exotropia
+5920,DRG04802,H5040,Unspecified heterotropia
+5921,DRG04802,H50411,"Cyclotropia, right eye"
+5922,DRG04802,H50412,"Cyclotropia, left eye"
+5923,DRG04802,H5042,Monofixation syndrome
+5924,DRG04802,H5043,Accommodative component in esotropia
+5925,DRG04802,H5050,Unspecified heterophoria
+5926,DRG04802,H5051,Esophoria
+5927,DRG04802,H5052,Exophoria
+5928,DRG04802,H5053,Vertical heterophoria
+5929,DRG04802,H5054,Cyclophoria
+5930,DRG04802,H5055,Alternating heterophoria
+5931,DRG04802,H5060,"Mechanical strabismus, unspecified"
+5932,DRG04802,H50611,"Brown's sheath syndrome, right eye"
+5933,DRG04802,H50612,"Brown's sheath syndrome, left eye"
+5934,DRG04802,H5069,Other mechanical strabismus
+5935,DRG04802,H50811,"Duane's syndrome, right eye"
+5936,DRG04802,H50812,"Duane's syndrome, left eye"
+5937,DRG04802,H509,Unspecified strabismus
+5938,DRG04802,H510,Palsy (spasm) of conjugate gaze
+5939,DRG04802,H5111,Convergence insufficiency
+5940,DRG04802,H5112,Convergence excess
+5941,DRG04802,H518,Other specified disorders of binocular movement
+5942,DRG04802,H519,Unspecified disorder of binocular movement
+5943,DRG04802,H5200,"Hypermetropia, unspecified eye"
+5944,DRG04802,H5201,"Hypermetropia, right eye"
+5945,DRG04802,H5202,"Hypermetropia, left eye"
+5946,DRG04802,H5203,"Hypermetropia, bilateral"
+5947,DRG04802,H5210,"Myopia, unspecified eye"
+5948,DRG04802,H5211,"Myopia, right eye"
+5949,DRG04802,H5212,"Myopia, left eye"
+5950,DRG04802,H5213,"Myopia, bilateral"
+5951,DRG04802,H52201,"Unspecified astigmatism, right eye"
+5952,DRG04802,H52202,"Unspecified astigmatism, left eye"
+5953,DRG04802,H52203,"Unspecified astigmatism, bilateral"
+5954,DRG04802,H52209,"Unspecified astigmatism, unspecified eye"
+5955,DRG04802,H52211,"Irregular astigmatism, right eye"
+5956,DRG04802,H52212,"Irregular astigmatism, left eye"
+5957,DRG04802,H52213,"Irregular astigmatism, bilateral"
+5958,DRG04802,H52219,"Irregular astigmatism, unspecified eye"
+5959,DRG04802,H52221,"Regular astigmatism, right eye"
+5960,DRG04802,H52222,"Regular astigmatism, left eye"
+5961,DRG04802,H52223,"Regular astigmatism, bilateral"
+5962,DRG04802,H52229,"Regular astigmatism, unspecified eye"
+5963,DRG04802,H5231,Anisometropia
+5964,DRG04802,H5232,Aniseikonia
+5965,DRG04802,H524,Presbyopia
+5966,DRG04802,H52521,"Paresis of accommodation, right eye"
+5967,DRG04802,H52522,"Paresis of accommodation, left eye"
+5968,DRG04802,H52523,"Paresis of accommodation, bilateral"
+5969,DRG04802,H52529,"Paresis of accommodation, unspecified eye"
+5970,DRG04802,H52531,"Spasm of accommodation, right eye"
+5971,DRG04802,H52532,"Spasm of accommodation, left eye"
+5972,DRG04802,H52533,"Spasm of accommodation, bilateral"
+5973,DRG04802,H52539,"Spasm of accommodation, unspecified eye"
+5974,DRG04802,H526,Other disorders of refraction
+5975,DRG04802,H527,Unspecified disorder of refraction
+5976,DRG04802,H53001,"Unspecified amblyopia, right eye"
+5977,DRG04802,H53002,"Unspecified amblyopia, left eye"
+5978,DRG04802,H53003,"Unspecified amblyopia, bilateral"
+5979,DRG04802,H53009,"Unspecified amblyopia, unspecified eye"
+5980,DRG04802,H53011,"Deprivation amblyopia, right eye"
+5981,DRG04802,H53012,"Deprivation amblyopia, left eye"
+5982,DRG04802,H53013,"Deprivation amblyopia, bilateral"
+5983,DRG04802,H53019,"Deprivation amblyopia, unspecified eye"
+5984,DRG04802,H53021,"Refractive amblyopia, right eye"
+5985,DRG04802,H53022,"Refractive amblyopia, left eye"
+5986,DRG04802,H53023,"Refractive amblyopia, bilateral"
+5987,DRG04802,H53029,"Refractive amblyopia, unspecified eye"
+5988,DRG04802,H53031,"Strabismic amblyopia, right eye"
+5989,DRG04802,H53032,"Strabismic amblyopia, left eye"
+5990,DRG04802,H53033,"Strabismic amblyopia, bilateral"
+5991,DRG04802,H53039,"Strabismic amblyopia, unspecified eye"
+5992,DRG04802,H5310,Unspecified subjective visual disturbances
+5993,DRG04802,H5311,Day blindness
+5994,DRG04802,H53141,"Visual discomfort, right eye"
+5995,DRG04802,H53142,"Visual discomfort, left eye"
+5996,DRG04802,H53143,"Visual discomfort, bilateral"
+5997,DRG04802,H53149,"Visual discomfort, unspecified"
+5998,DRG04802,H5315,Visual distortions of shape and size
+5999,DRG04802,H5316,Psychophysical visual disturbances
+6000,DRG04802,H5319,Other subjective visual disturbances
+6001,DRG04802,H5330,Unspecified disorder of binocular vision
+6002,DRG04802,H5331,Abnormal retinal correspondence
+6003,DRG04802,H5332,Fusion with defective stereopsis
+6004,DRG04802,H5333,Simultaneous visual perception without fusion
+6005,DRG04802,H5334,Suppression of binocular vision
+6006,DRG04802,H53421,"Scotoma of blind spot area, right eye"
+6007,DRG04802,H53422,"Scotoma of blind spot area, left eye"
+6008,DRG04802,H53423,"Scotoma of blind spot area, bilateral"
+6009,DRG04802,H53429,"Scotoma of blind spot area, unspecified eye"
+6010,DRG04802,H5350,Unspecified color vision deficiencies
+6011,DRG04802,H5351,Achromatopsia
+6012,DRG04802,H5353,Deuteranomaly
+6013,DRG04802,H5354,Protanomaly
+6014,DRG04802,H5355,Tritanomaly
+6015,DRG04802,H5359,Other color vision deficiencies
+6016,DRG04802,H5360,Unspecified night blindness
+6017,DRG04802,H5361,Abnormal dark adaptation curve
+6018,DRG04802,H5362,Acquired night blindness
+6019,DRG04802,H5363,Congenital night blindness
+6020,DRG04802,H5369,Other night blindness
+6021,DRG04802,H5371,Glare sensitivity
+6022,DRG04802,H5372,Impaired contrast sensitivity
+6023,DRG04802,H538,Other visual disturbances
+6024,DRG04802,H539,Unspecified visual disturbance
+6025,DRG04802,H540,"Blindness, both eyes"
+6026,DRG04802,H5410,"Blindness, one eye, low vision other eye, unspecified eyes"
+6027,DRG04802,H5411,"Blindness, right eye, low vision left eye"
+6028,DRG04802,H5412,"Blindness, left eye, low vision right eye"
+6029,DRG04802,H542,"Low vision, both eyes"
+6030,DRG04802,H543,"Unqualified visual loss, both eyes"
+6031,DRG04802,H5440,"Blindness, one eye, unspecified eye"
+6032,DRG04802,H5441,"Blindness, right eye, normal vision left eye"
+6033,DRG04802,H5442,"Blindness, left eye, normal vision right eye"
+6034,DRG04802,H5450,"Low vision, one eye, unspecified eye"
+6035,DRG04802,H5451,"Low vision, right eye, normal vision left eye"
+6036,DRG04802,H5452,"Low vision, left eye, normal vision right eye"
+6037,DRG04802,H5460,"Unqualified visual loss, one eye, unspecified"
+6038,DRG04802,H5461,"Unqualified visual loss, right eye, normal vision left eye"
+6039,DRG04802,H5462,"Unqualified visual loss, left eye, normal vision right eye"
+6040,DRG04802,H548,"Legal blindness, as defined in USA"
+6041,DRG04802,H5501,Congenital nystagmus
+6042,DRG04802,H5503,Visual deprivation nystagmus
+6043,DRG04802,H5509,Other forms of nystagmus
+6044,DRG04802,H5589,Other irregular eye movements
+6045,DRG04802,H5710,"Ocular pain, unspecified eye"
+6046,DRG04802,H5711,"Ocular pain, right eye"
+6047,DRG04802,H5712,"Ocular pain, left eye"
+6048,DRG04802,H5713,"Ocular pain, bilateral"
+6049,DRG04802,H578,Other specified disorders of eye and adnexa
+6050,DRG04802,H59021,"Cataract (lens) fragments in eye following cataract surgery, right eye"
+6051,DRG04802,H59022,"Cataract (lens) fragments in eye following cataract surgery, left eye"
+6052,DRG04802,H59023,"Cataract (lens) fragments in eye following cataract surgery, bilateral"
+6053,DRG04802,H59029,"Cataract (lens) fragments in eye following cataract surgery, unspecified eye"
+6054,DRG04802,H5940,"Inflammation (infection) of postprocedural bleb, unspecified"
+6055,DRG04802,H5941,"Inflammation (infection) of postprocedural bleb, stage 1"
+6056,DRG04802,H5942,"Inflammation (infection) of postprocedural bleb, stage 2"
+6057,DRG04802,H5943,"Inflammation (infection) of postprocedural bleb, stage 3"
+6058,DRG04802,Q100,Congenital ptosis
+6059,DRG04802,Q101,Congenital ectropion
+6060,DRG04802,Q102,Congenital entropion
+6061,DRG04802,Q103,Other congenital malformations of eyelid
+6062,DRG04802,Q104,Absence and agenesis of lacrimal apparatus
+6063,DRG04802,Q105,Congenital stenosis and stricture of lacrimal duct
+6064,DRG04802,Q106,Other congenital malformations of lacrimal apparatus
+6065,DRG04802,Q107,Congenital malformation of orbit
+6066,DRG04802,Q110,Cystic eyeball
+6067,DRG04802,Q111,Other anophthalmos
+6068,DRG04802,Q112,Microphthalmos
+6069,DRG04802,Q113,Macrophthalmos
+6070,DRG04802,Q120,Congenital cataract
+6071,DRG04802,Q121,Congenital displaced lens
+6072,DRG04802,Q122,Coloboma of lens
+6073,DRG04802,Q123,Congenital aphakia
+6074,DRG04802,Q124,Spherophakia
+6075,DRG04802,Q128,Other congenital lens malformations
+6076,DRG04802,Q129,"Congenital lens malformation, unspecified"
+6077,DRG04802,Q130,Coloboma of iris
+6078,DRG04802,Q131,Absence of iris
+6079,DRG04802,Q132,Other congenital malformations of iris
+6080,DRG04802,Q133,Congenital corneal opacity
+6081,DRG04802,Q134,Other congenital corneal malformations
+6082,DRG04802,Q135,Blue sclera
+6083,DRG04802,Q1381,Rieger's anomaly
+6084,DRG04802,Q1389,Other congenital malformations of anterior segment of eye
+6085,DRG04802,Q139,"Congenital malformation of anterior segment of eye, unspecified"
+6086,DRG04802,Q140,Congenital malformation of vitreous humor
+6087,DRG04802,Q141,Congenital malformation of retina
+6088,DRG04802,Q142,Congenital malformation of optic disc
+6089,DRG04802,Q143,Congenital malformation of choroid
+6090,DRG04802,Q148,Other congenital malformations of posterior segment of eye
+6091,DRG04802,Q149,"Congenital malformation of posterior segment of eye, unspecified"
+6092,DRG04802,Q150,Congenital glaucoma
+6093,DRG04802,Q158,Other specified congenital malformations of eye
+6094,DRG04802,Q159,"Congenital malformation of eye, unspecified"
+6095,DRG04802,R441,Visual hallucinations
+6096,DRG04802,R483,Visual agnosia
+6097,DRG04802,R94110,Abnormal electro-oculogram [EOG]
+6098,DRG04802,R94111,Abnormal electroretinogram [ERG]
+6099,DRG04802,R94112,Abnormal visually evoked potential [VEP]
+6100,DRG04802,R94113,Abnormal oculomotor study
+6101,DRG04802,S0010XA,"Contusion of unspecified eyelid and periocular area, initial encounter"
+6102,DRG04802,S0011XA,"Contusion of right eyelid and periocular area, initial encounter"
+6103,DRG04802,S0012XA,"Contusion of left eyelid and periocular area, initial encounter"
+6104,DRG04802,S00201A,"Unspecified superficial injury of right eyelid and periocular area, initial encounter"
+6105,DRG04802,S00202A,"Unspecified superficial injury of left eyelid and periocular area, initial encounter"
+6106,DRG04802,S00209A,"Unspecified superficial injury of unspecified eyelid and periocular area, initial encounter"
+6107,DRG04802,S00211A,"Abrasion of right eyelid and periocular area, initial encounter"
+6108,DRG04802,S00212A,"Abrasion of left eyelid and periocular area, initial encounter"
+6109,DRG04802,S00219A,"Abrasion of unspecified eyelid and periocular area, initial encounter"
+6110,DRG04802,S00221A,"Blister (nonthermal) of right eyelid and periocular area, initial encounter"
+6111,DRG04802,S00222A,"Blister (nonthermal) of left eyelid and periocular area, initial encounter"
+6112,DRG04802,S00229A,"Blister (nonthermal) of unspecified eyelid and periocular area, initial encounter"
+6113,DRG04802,S00241A,"External constriction of right eyelid and periocular area, initial encounter"
+6114,DRG04802,S00242A,"External constriction of left eyelid and periocular area, initial encounter"
+6115,DRG04802,S00249A,"External constriction of unspecified eyelid and periocular area, initial encounter"
+6116,DRG04802,S00251A,"Superficial foreign body of right eyelid and periocular area, initial encounter"
+6117,DRG04802,S00252A,"Superficial foreign body of left eyelid and periocular area, initial encounter"
+6118,DRG04802,S00259A,"Superficial foreign body of unspecified eyelid and periocular area, initial encounter"
+6119,DRG04802,S00261A,"Insect bite (nonvenomous) of right eyelid and periocular area, initial encounter"
+6120,DRG04802,S00262A,"Insect bite (nonvenomous) of left eyelid and periocular area, initial encounter"
+6121,DRG04802,S00269A,"Insect bite (nonvenomous) of unspecified eyelid and periocular area, initial encounter"
+6122,DRG04802,S00271A,"Other superficial bite of right eyelid and periocular area, initial encounter"
+6123,DRG04802,S00272A,"Other superficial bite of left eyelid and periocular area, initial encounter"
+6124,DRG04802,S00279A,"Other superficial bite of unspecified eyelid and periocular area, initial encounter"
+6125,DRG04802,S01101A,"Unspecified open wound of right eyelid and periocular area, initial encounter"
+6126,DRG04802,S01102A,"Unspecified open wound of left eyelid and periocular area, initial encounter"
+6127,DRG04802,S01109A,"Unspecified open wound of unspecified eyelid and periocular area, initial encounter"
+6128,DRG04802,S01111A,"Laceration without foreign body of right eyelid and periocular area, initial encounter"
+6129,DRG04802,S01112A,"Laceration without foreign body of left eyelid and periocular area, initial encounter"
+6130,DRG04802,S01119A,"Laceration without foreign body of unspecified eyelid and periocular area, initial encounter"
+6131,DRG04802,S01121A,"Laceration with foreign body of right eyelid and periocular area, initial encounter"
+6132,DRG04802,S01122A,"Laceration with foreign body of left eyelid and periocular area, initial encounter"
+6133,DRG04802,S01129A,"Laceration with foreign body of unspecified eyelid and periocular area, initial encounter"
+6134,DRG04802,S01131A,"Puncture wound without foreign body of right eyelid and periocular area, initial encounter"
+6135,DRG04802,S01132A,"Puncture wound without foreign body of left eyelid and periocular area, initial encounter"
+6136,DRG04802,S01139A,"Puncture wound without foreign body of unspecified eyelid and periocular area, initial encounter"
+6137,DRG04802,S01141A,"Puncture wound with foreign body of right eyelid and periocular area, initial encounter"
+6138,DRG04802,S01142A,"Puncture wound with foreign body of left eyelid and periocular area, initial encounter"
+6139,DRG04802,S01149A,"Puncture wound with foreign body of unspecified eyelid and periocular area, initial encounter"
+6140,DRG04802,S01151A,"Open bite of right eyelid and periocular area, initial encounter"
+6141,DRG04802,S01152A,"Open bite of left eyelid and periocular area, initial encounter"
+6142,DRG04802,S01159A,"Open bite of unspecified eyelid and periocular area, initial encounter"
+6143,DRG04802,S023XXA,"Fracture of orbital floor, initial encounter for closed fracture"
+6144,DRG04802,S023XXB,"Fracture of orbital floor, initial encounter for open fracture"
+6145,DRG04802,S04011A,"Injury of optic nerve, right eye, initial encounter"
+6146,DRG04802,S04012A,"Injury of optic nerve, left eye, initial encounter"
+6147,DRG04802,S04019A,"Injury of optic nerve, unspecified eye, initial encounter"
+6148,DRG04802,S0500XA,"Injury of conjunctiva and corneal abrasion without foreign body, unspecified eye, initial encounter"
+6149,DRG04802,S0501XA,"Injury of conjunctiva and corneal abrasion without foreign body, right eye, initial encounter"
+6150,DRG04802,S0502XA,"Injury of conjunctiva and corneal abrasion without foreign body, left eye, initial encounter"
+6151,DRG04802,S0510XA,"Contusion of eyeball and orbital tissues, unspecified eye, initial encounter"
+6152,DRG04802,S0511XA,"Contusion of eyeball and orbital tissues, right eye, initial encounter"
+6153,DRG04802,S0512XA,"Contusion of eyeball and orbital tissues, left eye, initial encounter"
+6154,DRG04802,S0520XA,"Ocular laceration and rupture with prolapse or loss of intraocular tissue, unspecified eye, initial encounter"
+6155,DRG04802,S0521XA,"Ocular laceration and rupture with prolapse or loss of intraocular tissue, right eye, initial encounter"
+6156,DRG04802,S0522XA,"Ocular laceration and rupture with prolapse or loss of intraocular tissue, left eye, initial encounter"
+6157,DRG04802,S0530XA,"Ocular laceration without prolapse or loss of intraocular tissue, unspecified eye, initial encounter"
+6158,DRG04802,S0531XA,"Ocular laceration without prolapse or loss of intraocular tissue, right eye, initial encounter"
+6159,DRG04802,S0532XA,"Ocular laceration without prolapse or loss of intraocular tissue, left eye, initial encounter"
+6160,DRG04802,S0540XA,"Penetrating wound of orbit with or without foreign body, unspecified eye, initial encounter"
+6161,DRG04802,S0541XA,"Penetrating wound of orbit with or without foreign body, right eye, initial encounter"
+6162,DRG04802,S0542XA,"Penetrating wound of orbit with or without foreign body, left eye, initial encounter"
+6163,DRG04802,S0550XA,"Penetrating wound with foreign body of unspecified eyeball, initial encounter"
+6164,DRG04802,S0551XA,"Penetrating wound with foreign body of right eyeball, initial encounter"
+6165,DRG04802,S0552XA,"Penetrating wound with foreign body of left eyeball, initial encounter"
+6166,DRG04802,S0560XA,"Penetrating wound without foreign body of unspecified eyeball, initial encounter"
+6167,DRG04802,S0561XA,"Penetrating wound without foreign body of right eyeball, initial encounter"
+6168,DRG04802,S0562XA,"Penetrating wound without foreign body of left eyeball, initial encounter"
+6169,DRG04802,S0570XA,"Avulsion of unspecified eye, initial encounter"
+6170,DRG04802,S0571XA,"Avulsion of right eye, initial encounter"
+6171,DRG04802,S0572XA,"Avulsion of left eye, initial encounter"
+6172,DRG04802,S058X1A,"Other injuries of right eye and orbit, initial encounter"
+6173,DRG04802,S058X2A,"Other injuries of left eye and orbit, initial encounter"
+6174,DRG04802,S058X9A,"Other injuries of unspecified eye and orbit, initial encounter"
+6175,DRG04802,S0590XA,"Unspecified injury of unspecified eye and orbit, initial encounter"
+6176,DRG04802,S0591XA,"Unspecified injury of right eye and orbit, initial encounter"
+6177,DRG04802,S0592XA,"Unspecified injury of left eye and orbit, initial encounter"
+6178,DRG04802,T1500XA,"Foreign body in cornea, unspecified eye, initial encounter"
+6179,DRG04802,T1501XA,"Foreign body in cornea, right eye, initial encounter"
+6180,DRG04802,T1502XA,"Foreign body in cornea, left eye, initial encounter"
+6181,DRG04802,T1510XA,"Foreign body in conjunctival sac, unspecified eye, initial encounter"
+6182,DRG04802,T1511XA,"Foreign body in conjunctival sac, right eye, initial encounter"
+6183,DRG04802,T1512XA,"Foreign body in conjunctival sac, left eye, initial encounter"
+6184,DRG04802,T1580XA,"Foreign body in other and multiple parts of external eye, unspecified eye, initial encounter"
+6185,DRG04802,T1581XA,"Foreign body in other and multiple parts of external eye, right eye, initial encounter"
+6186,DRG04802,T1582XA,"Foreign body in other and multiple parts of external eye, left eye, initial encounter"
+6187,DRG04802,T1590XA,"Foreign body on external eye, part unspecified, unspecified eye, initial encounter"
+6188,DRG04802,T1591XA,"Foreign body on external eye, part unspecified, right eye, initial encounter"
+6189,DRG04802,T1592XA,"Foreign body on external eye, part unspecified, left eye, initial encounter"
+6190,DRG04802,T2600XA,"Burn of unspecified eyelid and periocular area, initial encounter"
+6191,DRG04802,T2601XA,"Burn of right eyelid and periocular area, initial encounter"
+6192,DRG04802,T2602XA,"Burn of left eyelid and periocular area, initial encounter"
+6193,DRG04802,T2610XA,"Burn of cornea and conjunctival sac, unspecified eye, initial encounter"
+6194,DRG04802,T2611XA,"Burn of cornea and conjunctival sac, right eye, initial encounter"
+6195,DRG04802,T2612XA,"Burn of cornea and conjunctival sac, left eye, initial encounter"
+6196,DRG04802,T2620XA,"Burn with resulting rupture and destruction of unspecified eyeball, initial encounter"
+6197,DRG04802,T2621XA,"Burn with resulting rupture and destruction of right eyeball, initial encounter"
+6198,DRG04802,T2622XA,"Burn with resulting rupture and destruction of left eyeball, initial encounter"
+6199,DRG04802,T2630XA,"Burns of other specified parts of unspecified eye and adnexa, initial encounter"
+6200,DRG04802,T2631XA,"Burns of other specified parts of right eye and adnexa, initial encounter"
+6201,DRG04802,T2632XA,"Burns of other specified parts of left eye and adnexa, initial encounter"
+6202,DRG04802,T2640XA,"Burn of unspecified eye and adnexa, part unspecified, initial encounter"
+6203,DRG04802,T2641XA,"Burn of right eye and adnexa, part unspecified, initial encounter"
+6204,DRG04802,T2642XA,"Burn of left eye and adnexa, part unspecified, initial encounter"
+6205,DRG04802,T2650XA,"Corrosion of unspecified eyelid and periocular area, initial encounter"
+6206,DRG04802,T2651XA,"Corrosion of right eyelid and periocular area, initial encounter"
+6207,DRG04802,T2652XA,"Corrosion of left eyelid and periocular area, initial encounter"
+6208,DRG04802,T2660XA,"Corrosion of cornea and conjunctival sac, unspecified eye, initial encounter"
+6209,DRG04802,T2661XA,"Corrosion of cornea and conjunctival sac, right eye, initial encounter"
+6210,DRG04802,T2662XA,"Corrosion of cornea and conjunctival sac, left eye, initial encounter"
+6211,DRG04802,T2670XA,"Corrosion with resulting rupture and destruction of unspecified eyeball, initial encounter"
+6212,DRG04802,T2671XA,"Corrosion with resulting rupture and destruction of right eyeball, initial encounter"
+6213,DRG04802,T2672XA,"Corrosion with resulting rupture and destruction of left eyeball, initial encounter"
+6214,DRG04802,T2680XA,"Corrosions of other specified parts of unspecified eye and adnexa, initial encounter"
+6215,DRG04802,T2681XA,"Corrosions of other specified parts of right eye and adnexa, initial encounter"
+6216,DRG04802,T2682XA,"Corrosions of other specified parts of left eye and adnexa, initial encounter"
+6217,DRG04802,T2690XA,"Corrosion of unspecified eye and adnexa, part unspecified, initial encounter"
+6218,DRG04802,T2691XA,"Corrosion of right eye and adnexa, part unspecified, initial encounter"
+6219,DRG04802,T2692XA,"Corrosion of left eye and adnexa, part unspecified, initial encounter"
+6220,DRG04802,T495X1A,"Poisoning by ophthalmological drugs and preparations, accidental (unintentional), initial encounter"
+6221,DRG04802,T495X2A,"Poisoning by ophthalmological drugs and preparations, intentional self-harm, initial encounter"
+6222,DRG04802,T495X3A,"Poisoning by ophthalmological drugs and preparations, assault, initial encounter"
+6223,DRG04802,T495X4A,"Poisoning by ophthalmological drugs and preparations, undetermined, initial encounter"
+6224,DRG04802,T8521XA,"Breakdown (mechanical) of intraocular lens, initial encounter"
+6225,DRG04802,T8522XA,"Displacement of intraocular lens, initial encounter"
+6226,DRG04802,T8529XA,"Other mechanical complication of intraocular lens, initial encounter"
+6227,DRG04802,T85318A,"Breakdown (mechanical) of other ocular prosthetic devices, implants and grafts, initial encounter"
+6228,DRG04802,T85328A,"Displacement of other ocular prosthetic devices, implants and grafts, initial encounter"
+6229,DRG04802,T85398A,"Other mechanical complication of other ocular prosthetic devices, implants and grafts, initial encounter"
+6230,DRG04802,T86840,Corneal transplant rejection
+6231,DRG04802,T86841,Corneal transplant failure

@@ -1,0 +1,40 @@
+,DRG,CM-PCS,en
+38780,DRG13903,I440,"Atrioventricular block, first degree"
+38781,DRG13903,I441,"Atrioventricular block, second degree"
+38782,DRG13903,I4430,Unspecified atrioventricular block
+38783,DRG13903,I4439,Other atrioventricular block
+38784,DRG13903,I444,Left anterior fascicular block
+38785,DRG13903,I445,Left posterior fascicular block
+38786,DRG13903,I4460,Unspecified fascicular block
+38787,DRG13903,I4469,Other fascicular block
+38788,DRG13903,I447,"Left bundle-branch block, unspecified"
+38789,DRG13903,I450,Right fascicular block
+38790,DRG13903,I4510,Unspecified right bundle-branch block
+38791,DRG13903,I4519,Other right bundle-branch block
+38792,DRG13903,I452,Bifascicular block
+38793,DRG13903,I454,Nonspecific intraventricular block
+38794,DRG13903,I455,Other specified heart block
+38795,DRG13903,I456,Pre-excitation syndrome
+38796,DRG13903,I4589,Other specified conduction disorders
+38797,DRG13903,I459,"Conduction disorder, unspecified"
+38798,DRG13903,I470,Re-entry ventricular arrhythmia
+38799,DRG13903,I471,Supraventricular tachycardia
+38800,DRG13903,I472,Ventricular tachycardia
+38801,DRG13903,I479,"Paroxysmal tachycardia, unspecified"
+38802,DRG13903,I480,Paroxysmal atrial fibrillation
+38803,DRG13903,I481,Persistent atrial fibrillation
+38804,DRG13903,I482,Chronic atrial fibrillation
+38805,DRG13903,I483,Typical atrial flutter
+38806,DRG13903,I484,Atypical atrial flutter
+38807,DRG13903,I4891,Unspecified atrial fibrillation
+38808,DRG13903,I4892,Unspecified atrial flutter
+38809,DRG13903,I491,Atrial premature depolarization
+38810,DRG13903,I492,Junctional premature depolarization
+38811,DRG13903,I493,Ventricular premature depolarization
+38812,DRG13903,I4940,Unspecified premature depolarization
+38813,DRG13903,I4949,Other premature depolarization
+38814,DRG13903,I498,Other specified cardiac arrhythmias
+38815,DRG13903,I499,"Cardiac arrhythmia, unspecified"
+38816,DRG13903,R000,"Tachycardia, unspecified"
+38817,DRG13903,R001,"Bradycardia, unspecified"
+38818,DRG13903,R002,Palpitations

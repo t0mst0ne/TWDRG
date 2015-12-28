@@ -1,0 +1,125 @@
+,DRG,CM-PCS,en
+38594,DRG13702,A5201,Syphilitic aneurysm of aorta
+38595,DRG13702,A5202,Syphilitic aortitis
+38596,DRG13702,A5203,Syphilitic endocarditis
+38597,DRG13702,B3321,Viral endocarditis
+38598,DRG13702,I011,Acute rheumatic endocarditis
+38599,DRG13702,I050,Rheumatic mitral stenosis
+38600,DRG13702,I051,Rheumatic mitral insufficiency
+38601,DRG13702,I052,Rheumatic mitral stenosis with insufficiency
+38602,DRG13702,I058,Other rheumatic mitral valve diseases
+38603,DRG13702,I059,"Rheumatic mitral valve disease, unspecified"
+38604,DRG13702,I060,Rheumatic aortic stenosis
+38605,DRG13702,I061,Rheumatic aortic insufficiency
+38606,DRG13702,I062,Rheumatic aortic stenosis with insufficiency
+38607,DRG13702,I068,Other rheumatic aortic valve diseases
+38608,DRG13702,I069,"Rheumatic aortic valve disease, unspecified"
+38609,DRG13702,I070,Rheumatic tricuspid stenosis
+38610,DRG13702,I071,Rheumatic tricuspid insufficiency
+38611,DRG13702,I072,Rheumatic tricuspid stenosis and insufficiency
+38612,DRG13702,I078,Other rheumatic tricuspid valve diseases
+38613,DRG13702,I079,"Rheumatic tricuspid valve disease, unspecified"
+38614,DRG13702,I080,Rheumatic disorders of both mitral and aortic valves
+38615,DRG13702,I081,Rheumatic disorders of both mitral and tricuspid valves
+38616,DRG13702,I082,Rheumatic disorders of both aortic and tricuspid valves
+38617,DRG13702,I083,"Combined rheumatic disorders of mitral, aortic and tricuspid valves"
+38618,DRG13702,I088,Other rheumatic multiple valve diseases
+38619,DRG13702,I089,"Rheumatic multiple valve disease, unspecified"
+38620,DRG13702,I091,"Rheumatic diseases of endocardium, valve unspecified"
+38621,DRG13702,I0989,Other specified rheumatic heart diseases
+38622,DRG13702,I234,Rupture of chordae tendineae as current complication following acute myocardial infarction
+38623,DRG13702,I235,Rupture of papillary muscle as current complication following acute myocardial infarction
+38624,DRG13702,I340,Nonrheumatic mitral (valve) insufficiency
+38625,DRG13702,I341,Nonrheumatic mitral (valve) prolapse
+38626,DRG13702,I342,Nonrheumatic mitral (valve) stenosis
+38627,DRG13702,I348,Other nonrheumatic mitral valve disorders
+38628,DRG13702,I349,"Nonrheumatic mitral valve disorder, unspecified"
+38629,DRG13702,I350,Nonrheumatic aortic (valve) stenosis
+38630,DRG13702,I351,Nonrheumatic aortic (valve) insufficiency
+38631,DRG13702,I352,Nonrheumatic aortic (valve) stenosis with insufficiency
+38632,DRG13702,I358,Other nonrheumatic aortic valve disorders
+38633,DRG13702,I359,"Nonrheumatic aortic valve disorder, unspecified"
+38634,DRG13702,I360,Nonrheumatic tricuspid (valve) stenosis
+38635,DRG13702,I361,Nonrheumatic tricuspid (valve) insufficiency
+38636,DRG13702,I362,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+38637,DRG13702,I368,Other nonrheumatic tricuspid valve disorders
+38638,DRG13702,I369,"Nonrheumatic tricuspid valve disorder, unspecified"
+38639,DRG13702,I370,Nonrheumatic pulmonary valve stenosis
+38640,DRG13702,I371,Nonrheumatic pulmonary valve insufficiency
+38641,DRG13702,I372,Nonrheumatic pulmonary valve stenosis with insufficiency
+38642,DRG13702,I378,Other nonrheumatic pulmonary valve disorders
+38643,DRG13702,I379,"Nonrheumatic pulmonary valve disorder, unspecified"
+38644,DRG13702,I38,"Endocarditis, valve unspecified"
+38645,DRG13702,I511,"Rupture of chordae tendineae, not elsewhere classified"
+38646,DRG13702,I512,"Rupture of papillary muscle, not elsewhere classified"
+38647,DRG13702,I5189,Other ill-defined heart diseases
+38648,DRG13702,Q200,Common arterial trunk
+38649,DRG13702,Q201,Double outlet right ventricle
+38650,DRG13702,Q202,Double outlet left ventricle
+38651,DRG13702,Q203,Discordant ventriculoarterial connection
+38652,DRG13702,Q204,Double inlet ventricle
+38653,DRG13702,Q205,Discordant atrioventricular connection
+38654,DRG13702,Q206,Isomerism of atrial appendages
+38655,DRG13702,Q208,Other congenital malformations of cardiac chambers and connections
+38656,DRG13702,Q209,"Congenital malformation of cardiac chambers and connections, unspecified"
+38657,DRG13702,Q210,Ventricular septal defect
+38658,DRG13702,Q211,Atrial septal defect
+38659,DRG13702,Q212,Atrioventricular septal defect
+38660,DRG13702,Q213,Tetralogy of Fallot
+38661,DRG13702,Q214,Aortopulmonary septal defect
+38662,DRG13702,Q218,Other congenital malformations of cardiac septa
+38663,DRG13702,Q219,"Congenital malformation of cardiac septum, unspecified"
+38664,DRG13702,Q220,Pulmonary valve atresia
+38665,DRG13702,Q221,Congenital pulmonary valve stenosis
+38666,DRG13702,Q222,Congenital pulmonary valve insufficiency
+38667,DRG13702,Q223,Other congenital malformations of pulmonary valve
+38668,DRG13702,Q224,Congenital tricuspid stenosis
+38669,DRG13702,Q225,Ebstein's anomaly
+38670,DRG13702,Q226,Hypoplastic right heart syndrome
+38671,DRG13702,Q228,Other congenital malformations of tricuspid valve
+38672,DRG13702,Q229,"Congenital malformation of tricuspid valve, unspecified"
+38673,DRG13702,Q230,Congenital stenosis of aortic valve
+38674,DRG13702,Q231,Congenital insufficiency of aortic valve
+38675,DRG13702,Q232,Congenital mitral stenosis
+38676,DRG13702,Q233,Congenital mitral insufficiency
+38677,DRG13702,Q234,Hypoplastic left heart syndrome
+38678,DRG13702,Q238,Other congenital malformations of aortic and mitral valves
+38679,DRG13702,Q239,"Congenital malformation of aortic and mitral valves, unspecified"
+38680,DRG13702,Q240,Dextrocardia
+38681,DRG13702,Q241,Levocardia
+38682,DRG13702,Q242,Cor triatriatum
+38683,DRG13702,Q243,Pulmonary infundibular stenosis
+38684,DRG13702,Q244,Congenital subaortic stenosis
+38685,DRG13702,Q245,Malformation of coronary vessels
+38686,DRG13702,Q248,Other specified congenital malformations of heart
+38687,DRG13702,Q249,"Congenital malformation of heart, unspecified"
+38688,DRG13702,Q250,Patent ductus arteriosus
+38689,DRG13702,Q251,Coarctation of aorta
+38690,DRG13702,Q252,Atresia of aorta
+38691,DRG13702,Q253,Supravalvular aortic stenosis
+38692,DRG13702,Q254,Other congenital malformations of aorta
+38693,DRG13702,Q255,Atresia of pulmonary artery
+38694,DRG13702,Q256,Stenosis of pulmonary artery
+38695,DRG13702,Q2571,Coarctation of pulmonary artery
+38696,DRG13702,Q2572,Congenital pulmonary arteriovenous malformation
+38697,DRG13702,Q2579,Other congenital malformations of pulmonary artery
+38698,DRG13702,Q258,Other congenital malformations of other great arteries
+38699,DRG13702,Q259,"Congenital malformation of great arteries, unspecified"
+38700,DRG13702,Q260,Congenital stenosis of vena cava
+38701,DRG13702,Q261,Persistent left superior vena cava
+38702,DRG13702,Q262,Total anomalous pulmonary venous connection
+38703,DRG13702,Q263,Partial anomalous pulmonary venous connection
+38704,DRG13702,Q264,"Anomalous pulmonary venous connection, unspecified"
+38705,DRG13702,Q268,Other congenital malformations of great veins
+38706,DRG13702,Q269,"Congenital malformation of great vein, unspecified"
+38707,DRG13702,Q8740,"Marfan's syndrome, unspecified"
+38708,DRG13702,Q87410,Marfan's syndrome with aortic dilation
+38709,DRG13702,Q87418,Marfan's syndrome with other cardiovascular manifestations
+38710,DRG13702,Q8742,Marfan's syndrome with ocular manifestations
+38711,DRG13702,Q8743,Marfan's syndrome with skeletal manifestation
+38712,DRG13702,R010,Benign and innocent cardiac murmurs
+38713,DRG13702,R011,"Cardiac murmur, unspecified"
+38714,DRG13702,T8201XA,"Breakdown (mechanical) of heart valve prosthesis, initial encounter"
+38715,DRG13702,T8202XA,"Displacement of heart valve prosthesis, initial encounter"
+38716,DRG13702,T8203XA,"Leakage of heart valve prosthesis, initial encounter"
+38717,DRG13702,T8209XA,"Other mechanical complication of heart valve prosthesis, initial encounter"

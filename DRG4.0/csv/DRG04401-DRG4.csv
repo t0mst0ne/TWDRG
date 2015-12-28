@@ -1,0 +1,58 @@
+,DRG,CM-PCS,en
+3613,DRG04401,H04011,"Acute dacryoadenitis, right lacrimal gland"
+3614,DRG04401,H04012,"Acute dacryoadenitis, left lacrimal gland"
+3615,DRG04401,H04013,"Acute dacryoadenitis, bilateral lacrimal glands"
+3616,DRG04401,H04019,"Acute dacryoadenitis, unspecified lacrimal gland"
+3617,DRG04401,H04321,Acute dacryocystitis of right lacrimal passage
+3618,DRG04401,H04322,Acute dacryocystitis of left lacrimal passage
+3619,DRG04401,H04323,Acute dacryocystitis of bilateral lacrimal passages
+3620,DRG04401,H04329,Acute dacryocystitis of unspecified lacrimal passage
+3621,DRG04401,H04331,Acute lacrimal canaliculitis of right lacrimal passage
+3622,DRG04401,H04332,Acute lacrimal canaliculitis of left lacrimal passage
+3623,DRG04401,H04333,Acute lacrimal canaliculitis of bilateral lacrimal passages
+3624,DRG04401,H04339,Acute lacrimal canaliculitis of unspecified lacrimal passage
+3625,DRG04401,H16001,"Unspecified corneal ulcer, right eye"
+3626,DRG04401,H16002,"Unspecified corneal ulcer, left eye"
+3627,DRG04401,H16003,"Unspecified corneal ulcer, bilateral"
+3628,DRG04401,H16009,"Unspecified corneal ulcer, unspecified eye"
+3629,DRG04401,H16011,"Central corneal ulcer, right eye"
+3630,DRG04401,H16012,"Central corneal ulcer, left eye"
+3631,DRG04401,H16013,"Central corneal ulcer, bilateral"
+3632,DRG04401,H16019,"Central corneal ulcer, unspecified eye"
+3633,DRG04401,H16031,"Corneal ulcer with hypopyon, right eye"
+3634,DRG04401,H16032,"Corneal ulcer with hypopyon, left eye"
+3635,DRG04401,H16033,"Corneal ulcer with hypopyon, bilateral"
+3636,DRG04401,H16039,"Corneal ulcer with hypopyon, unspecified eye"
+3637,DRG04401,H16061,"Mycotic corneal ulcer, right eye"
+3638,DRG04401,H16062,"Mycotic corneal ulcer, left eye"
+3639,DRG04401,H16063,"Mycotic corneal ulcer, bilateral"
+3640,DRG04401,H16069,"Mycotic corneal ulcer, unspecified eye"
+3641,DRG04401,H16071,"Perforated corneal ulcer, right eye"
+3642,DRG04401,H16072,"Perforated corneal ulcer, left eye"
+3643,DRG04401,H16073,"Perforated corneal ulcer, bilateral"
+3644,DRG04401,H16079,"Perforated corneal ulcer, unspecified eye"
+3645,DRG04401,H16311,"Corneal abscess, right eye"
+3646,DRG04401,H16312,"Corneal abscess, left eye"
+3647,DRG04401,H16313,"Corneal abscess, bilateral"
+3648,DRG04401,H16319,"Corneal abscess, unspecified eye"
+3649,DRG04401,H21331,"Parasitic cyst of iris, ciliary body or anterior chamber, right eye"
+3650,DRG04401,H21332,"Parasitic cyst of iris, ciliary body or anterior chamber, left eye"
+3651,DRG04401,H21333,"Parasitic cyst of iris, ciliary body or anterior chamber, bilateral"
+3652,DRG04401,H21339,"Parasitic cyst of iris, ciliary body or anterior chamber, unspecified eye"
+3653,DRG04401,H33121,"Parasitic cyst of retina, right eye"
+3654,DRG04401,H33122,"Parasitic cyst of retina, left eye"
+3655,DRG04401,H33123,"Parasitic cyst of retina, bilateral"
+3656,DRG04401,H33129,"Parasitic cyst of retina, unspecified eye"
+3657,DRG04401,H44011,"Panophthalmitis (acute), right eye"
+3658,DRG04401,H44012,"Panophthalmitis (acute), left eye"
+3659,DRG04401,H44013,"Panophthalmitis (acute), bilateral"
+3660,DRG04401,H44019,"Panophthalmitis (acute), unspecified eye"
+3661,DRG04401,H44021,"Vitreous abscess (chronic), right eye"
+3662,DRG04401,H44022,"Vitreous abscess (chronic), left eye"
+3663,DRG04401,H44023,"Vitreous abscess (chronic), bilateral"
+3664,DRG04401,H44029,"Vitreous abscess (chronic), unspecified eye"
+3665,DRG04401,H44121,"Parasitic endophthalmitis, unspecified, right eye"
+3666,DRG04401,H44122,"Parasitic endophthalmitis, unspecified, left eye"
+3667,DRG04401,H44123,"Parasitic endophthalmitis, unspecified, bilateral"
+3668,DRG04401,H44129,"Parasitic endophthalmitis, unspecified, unspecified eye"
+3669,DRG04401,H4419,Other endophthalmitis

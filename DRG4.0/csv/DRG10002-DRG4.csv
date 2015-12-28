@@ -1,0 +1,37 @@
+,DRG,CM-PCS,en
+6527,DRG10002,R05,Cough
+6528,DRG10002,R0600,"Dyspnea, unspecified"
+6529,DRG10002,R0601,Orthopnea
+6530,DRG10002,R0602,Shortness of breath
+6531,DRG10002,R0609,Other forms of dyspnea
+6532,DRG10002,R061,Stridor
+6533,DRG10002,R062,Wheezing
+6534,DRG10002,R063,Periodic breathing
+6535,DRG10002,R066,Hiccough
+6536,DRG10002,R0682,"Tachypnea, not elsewhere classified"
+6537,DRG10002,R0683,Snoring
+6538,DRG10002,R0689,Other abnormalities of breathing
+6539,DRG10002,R069,Unspecified abnormalities of breathing
+6540,DRG10002,R071,Chest pain on breathing
+6541,DRG10002,R0781,Pleurodynia
+6542,DRG10002,R093,Abnormal sputum
+6543,DRG10002,R222,"Localized swelling, mass and lump, trunk"
+6544,DRG10002,R918,Other nonspecific abnormal finding of lung field
+6547,DRG10002,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+6548,DRG10002,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+6549,DRG10002,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+6550,DRG10002,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+6551,DRG10002,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+6552,DRG10002,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+6553,DRG10002,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+6554,DRG10002,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+6555,DRG10002,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+6556,DRG10002,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+6557,DRG10002,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+6558,DRG10002,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+6559,DRG10002,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+6560,DRG10002,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+6561,DRG10002,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+6562,DRG10002,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+6563,DRG10002,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+6564,DRG10002,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

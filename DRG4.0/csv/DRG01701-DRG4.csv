@@ -1,0 +1,37 @@
+,DRG,CM-PCS,en
+47793,DRG01701,G9340,"Encephalopathy, unspecified"
+47794,DRG01701,G9341,Metabolic encephalopathy
+47795,DRG01701,G9349,Other encephalopathy
+47796,DRG01701,G9381,Temporal sclerosis
+47797,DRG01701,G9382,Brain death
+47798,DRG01701,G9389,Other specified disorders of brain
+47799,DRG01701,G939,"Disorder of brain, unspecified"
+47800,DRG01701,G968,Other specified disorders of central nervous system
+47801,DRG01701,G969,"Disorder of central nervous system, unspecified"
+47802,DRG01701,G980,"Neurogenic arthritis, not elsewhere classified"
+47803,DRG01701,G988,Other disorders of nervous system
+47804,DRG01701,I6783,Posterior reversible encephalopathy syndrome
+47807,DRG01701,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+47808,DRG01701,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+47809,DRG01701,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+47810,DRG01701,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+47811,DRG01701,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+47812,DRG01701,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+47813,DRG01701,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+47814,DRG01701,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+47815,DRG01701,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+47816,DRG01701,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+47817,DRG01701,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+47818,DRG01701,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+47819,DRG01701,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+47820,DRG01701,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+47821,DRG01701,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+47822,DRG01701,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+47823,DRG01701,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+47824,DRG01701,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+47825,DRG01701,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+47826,DRG01701,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+47827,DRG01701,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+47830,DRG01701,F000001,Physical Therapy
+47831,DRG01701,F000002,Occupational Therapy
+47832,DRG01701,F000003,Communication Therapy

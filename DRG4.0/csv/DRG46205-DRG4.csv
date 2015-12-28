@@ -1,0 +1,205 @@
+,DRG,CM-PCS,en
+244,DRG46205,I6900,Unspecified sequelae of nontraumatic subarachnoid hemorrhage
+245,DRG46205,I6901,Cognitive deficits following nontraumatic subarachnoid hemorrhage
+246,DRG46205,I69020,Aphasia following nontraumatic subarachnoid hemorrhage
+247,DRG46205,I69021,Dysphasia following nontraumatic subarachnoid hemorrhage
+248,DRG46205,I69022,Dysarthria following nontraumatic subarachnoid hemorrhage
+249,DRG46205,I69023,Fluency disorder following nontraumatic subarachnoid hemorrhage
+250,DRG46205,I69028,Other speech and language deficits following nontraumatic subarachnoid hemorrhage
+251,DRG46205,I69031,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting right dominant side
+252,DRG46205,I69032,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting left dominant side
+253,DRG46205,I69033,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting right non-dominant side
+254,DRG46205,I69034,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side
+255,DRG46205,I69039,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting unspecified side
+256,DRG46205,I69041,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting right dominant side
+257,DRG46205,I69042,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left dominant side
+258,DRG46205,I69043,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting right non-dominant side
+259,DRG46205,I69044,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side
+260,DRG46205,I69049,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting unspecified side
+261,DRG46205,I69051,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right dominant side
+262,DRG46205,I69052,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left dominant side
+263,DRG46205,I69053,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right non-dominant side
+264,DRG46205,I69054,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left non-dominant side
+265,DRG46205,I69059,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting unspecified side
+266,DRG46205,I69061,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right dominant side
+267,DRG46205,I69062,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting left dominant side
+268,DRG46205,I69063,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right non-dominant side
+269,DRG46205,I69064,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting left non-dominant side
+270,DRG46205,I69065,"Other paralytic syndrome following nontraumatic subarachnoid hemorrhage, bilateral"
+271,DRG46205,I69069,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting unspecified side
+272,DRG46205,I69090,Apraxia following nontraumatic subarachnoid hemorrhage
+273,DRG46205,I69091,Dysphagia following nontraumatic subarachnoid hemorrhage
+274,DRG46205,I69092,Facial weakness following nontraumatic subarachnoid hemorrhage
+275,DRG46205,I69093,Ataxia following nontraumatic subarachnoid hemorrhage
+276,DRG46205,I69098,Other sequelae following nontraumatic subarachnoid hemorrhage
+277,DRG46205,I6910,Unspecified sequelae of nontraumatic intracerebral hemorrhage
+278,DRG46205,I6911,Cognitive deficits following nontraumatic intracerebral hemorrhage
+279,DRG46205,I69120,Aphasia following nontraumatic intracerebral hemorrhage
+280,DRG46205,I69121,Dysphasia following nontraumatic intracerebral hemorrhage
+281,DRG46205,I69122,Dysarthria following nontraumatic intracerebral hemorrhage
+282,DRG46205,I69123,Fluency disorder following nontraumatic intracerebral hemorrhage
+283,DRG46205,I69128,Other speech and language deficits following nontraumatic intracerebral hemorrhage
+284,DRG46205,I69131,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting right dominant side
+285,DRG46205,I69132,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting left dominant side
+286,DRG46205,I69133,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side
+287,DRG46205,I69134,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting left non-dominant side
+288,DRG46205,I69139,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting unspecified side
+289,DRG46205,I69141,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right dominant side
+290,DRG46205,I69142,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting left dominant side
+291,DRG46205,I69143,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side
+292,DRG46205,I69144,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting left non-dominant side
+293,DRG46205,I69149,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting unspecified side
+294,DRG46205,I69151,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right dominant side
+295,DRG46205,I69152,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left dominant side
+296,DRG46205,I69153,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right non-dominant side
+297,DRG46205,I69154,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left non-dominant side
+298,DRG46205,I69159,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting unspecified side
+299,DRG46205,I69161,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right dominant side
+300,DRG46205,I69162,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left dominant side
+301,DRG46205,I69163,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right non-dominant side
+302,DRG46205,I69164,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left non-dominant side
+303,DRG46205,I69165,"Other paralytic syndrome following nontraumatic intracerebral hemorrhage, bilateral"
+304,DRG46205,I69169,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting unspecified side
+305,DRG46205,I69190,Apraxia following nontraumatic intracerebral hemorrhage
+306,DRG46205,I69191,Dysphagia following nontraumatic intracerebral hemorrhage
+307,DRG46205,I69192,Facial weakness following nontraumatic intracerebral hemorrhage
+308,DRG46205,I69193,Ataxia following nontraumatic intracerebral hemorrhage
+309,DRG46205,I69198,Other sequelae of nontraumatic intracerebral hemorrhage
+310,DRG46205,I6920,Unspecified sequelae of other nontraumatic intracranial hemorrhage
+311,DRG46205,I6921,Cognitive deficits following other nontraumatic intracranial hemorrhage
+312,DRG46205,I69220,Aphasia following other nontraumatic intracranial hemorrhage
+313,DRG46205,I69221,Dysphasia following other nontraumatic intracranial hemorrhage
+314,DRG46205,I69222,Dysarthria following other nontraumatic intracranial hemorrhage
+315,DRG46205,I69223,Fluency disorder following other nontraumatic intracranial hemorrhage
+316,DRG46205,I69228,Other speech and language deficits following other nontraumatic intracranial hemorrhage
+317,DRG46205,I69231,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting right dominant side
+318,DRG46205,I69232,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting left dominant side
+319,DRG46205,I69233,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting right non-dominant side
+320,DRG46205,I69234,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting left non-dominant side
+321,DRG46205,I69239,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting unspecified side
+322,DRG46205,I69241,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting right dominant side
+323,DRG46205,I69242,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting left dominant side
+324,DRG46205,I69243,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting right non-dominant side
+325,DRG46205,I69244,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting left non-dominant side
+326,DRG46205,I69249,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting unspecified side
+327,DRG46205,I69251,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right dominant side
+328,DRG46205,I69252,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left dominant side
+329,DRG46205,I69253,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right non-dominant side
+330,DRG46205,I69254,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side
+331,DRG46205,I69259,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting unspecified side
+332,DRG46205,I69261,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting right dominant side
+333,DRG46205,I69262,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting left dominant side
+334,DRG46205,I69263,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting right non-dominant side
+335,DRG46205,I69264,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting left non-dominant side
+336,DRG46205,I69265,"Other paralytic syndrome following other nontraumatic intracranial hemorrhage, bilateral"
+337,DRG46205,I69269,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting unspecified side
+338,DRG46205,I69290,Apraxia following other nontraumatic intracranial hemorrhage
+339,DRG46205,I69291,Dysphagia following other nontraumatic intracranial hemorrhage
+340,DRG46205,I69292,Facial weakness following other nontraumatic intracranial hemorrhage
+341,DRG46205,I69293,Ataxia following other nontraumatic intracranial hemorrhage
+342,DRG46205,I69298,Other sequelae of other nontraumatic intracranial hemorrhage
+343,DRG46205,I6930,Unspecified sequelae of cerebral infarction
+344,DRG46205,I6931,Cognitive deficits following cerebral infarction
+345,DRG46205,I69320,Aphasia following cerebral infarction
+346,DRG46205,I69321,Dysphasia following cerebral infarction
+347,DRG46205,I69322,Dysarthria following cerebral infarction
+348,DRG46205,I69323,Fluency disorder following cerebral infarction
+349,DRG46205,I69328,Other speech and language deficits following cerebral infarction
+350,DRG46205,I69331,Monoplegia of upper limb following cerebral infarction affecting right dominant side
+351,DRG46205,I69332,Monoplegia of upper limb following cerebral infarction affecting left dominant side
+352,DRG46205,I69333,Monoplegia of upper limb following cerebral infarction affecting right non-dominant side
+353,DRG46205,I69334,Monoplegia of upper limb following cerebral infarction affecting left non-dominant side
+354,DRG46205,I69339,Monoplegia of upper limb following cerebral infarction affecting unspecified side
+355,DRG46205,I69341,Monoplegia of lower limb following cerebral infarction affecting right dominant side
+356,DRG46205,I69342,Monoplegia of lower limb following cerebral infarction affecting left dominant side
+357,DRG46205,I69343,Monoplegia of lower limb following cerebral infarction affecting right non-dominant side
+358,DRG46205,I69344,Monoplegia of lower limb following cerebral infarction affecting left non-dominant side
+359,DRG46205,I69349,Monoplegia of lower limb following cerebral infarction affecting unspecified side
+360,DRG46205,I69351,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side
+361,DRG46205,I69352,Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side
+362,DRG46205,I69353,Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side
+363,DRG46205,I69354,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side
+364,DRG46205,I69359,Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side
+365,DRG46205,I69361,Other paralytic syndrome following cerebral infarction affecting right dominant side
+366,DRG46205,I69362,Other paralytic syndrome following cerebral infarction affecting left dominant side
+367,DRG46205,I69363,Other paralytic syndrome following cerebral infarction affecting right non-dominant side
+368,DRG46205,I69364,Other paralytic syndrome following cerebral infarction affecting left non-dominant side
+369,DRG46205,I69365,"Other paralytic syndrome following cerebral infarction, bilateral"
+370,DRG46205,I69369,Other paralytic syndrome following cerebral infarction affecting unspecified side
+371,DRG46205,I69390,Apraxia following cerebral infarction
+372,DRG46205,I69391,Dysphagia following cerebral infarction
+373,DRG46205,I69392,Facial weakness following cerebral infarction
+374,DRG46205,I69393,Ataxia following cerebral infarction
+375,DRG46205,I69398,Other sequelae of cerebral infarction
+376,DRG46205,I6980,Unspecified sequelae of other cerebrovascular disease
+377,DRG46205,I6981,Cognitive deficits following other cerebrovascular disease
+378,DRG46205,I69820,Aphasia following other cerebrovascular disease
+379,DRG46205,I69821,Dysphasia following other cerebrovascular disease
+380,DRG46205,I69822,Dysarthria following other cerebrovascular disease
+381,DRG46205,I69823,Fluency disorder following other cerebrovascular disease
+382,DRG46205,I69828,Other speech and language deficits following other cerebrovascular disease
+383,DRG46205,I69831,Monoplegia of upper limb following other cerebrovascular disease affecting right dominant side
+384,DRG46205,I69832,Monoplegia of upper limb following other cerebrovascular disease affecting left dominant side
+385,DRG46205,I69833,Monoplegia of upper limb following other cerebrovascular disease affecting right non-dominant side
+386,DRG46205,I69834,Monoplegia of upper limb following other cerebrovascular disease affecting left non-dominant side
+387,DRG46205,I69839,Monoplegia of upper limb following other cerebrovascular disease affecting unspecified side
+388,DRG46205,I69841,Monoplegia of lower limb following other cerebrovascular disease affecting right dominant side
+389,DRG46205,I69842,Monoplegia of lower limb following other cerebrovascular disease affecting left dominant side
+390,DRG46205,I69843,Monoplegia of lower limb following other cerebrovascular disease affecting right non-dominant side
+391,DRG46205,I69844,Monoplegia of lower limb following other cerebrovascular disease affecting left non-dominant side
+392,DRG46205,I69849,Monoplegia of lower limb following other cerebrovascular disease affecting unspecified side
+393,DRG46205,I69851,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right dominant side
+394,DRG46205,I69852,Hemiplegia and hemiparesis following other cerebrovascular disease affecting left dominant side
+395,DRG46205,I69853,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right non-dominant side
+396,DRG46205,I69854,Hemiplegia and hemiparesis following other cerebrovascular disease affecting left non-dominant side
+397,DRG46205,I69859,Hemiplegia and hemiparesis following other cerebrovascular disease affecting unspecified side
+398,DRG46205,I69861,Other paralytic syndrome following other cerebrovascular disease affecting right dominant side
+399,DRG46205,I69862,Other paralytic syndrome following other cerebrovascular disease affecting left dominant side
+400,DRG46205,I69863,Other paralytic syndrome following other cerebrovascular disease affecting right non-dominant side
+401,DRG46205,I69864,Other paralytic syndrome following other cerebrovascular disease affecting left non-dominant side
+402,DRG46205,I69865,"Other paralytic syndrome following other cerebrovascular disease, bilateral"
+403,DRG46205,I69869,Other paralytic syndrome following other cerebrovascular disease affecting unspecified side
+404,DRG46205,I69890,Apraxia following other cerebrovascular disease
+405,DRG46205,I69891,Dysphagia following other cerebrovascular disease
+406,DRG46205,I69892,Facial weakness following other cerebrovascular disease
+407,DRG46205,I69893,Ataxia following other cerebrovascular disease
+408,DRG46205,I69898,Other sequelae of other cerebrovascular disease
+409,DRG46205,I6990,Unspecified sequelae of unspecified cerebrovascular disease
+410,DRG46205,I6991,Cognitive deficits following unspecified cerebrovascular disease
+411,DRG46205,I69920,Aphasia following unspecified cerebrovascular disease
+412,DRG46205,I69921,Dysphasia following unspecified cerebrovascular disease
+413,DRG46205,I69922,Dysarthria following unspecified cerebrovascular disease
+414,DRG46205,I69923,Fluency disorder following unspecified cerebrovascular disease
+415,DRG46205,I69928,Other speech and language deficits following unspecified cerebrovascular disease
+416,DRG46205,I69931,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right dominant side
+417,DRG46205,I69932,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left dominant side
+418,DRG46205,I69933,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right non-dominant side
+419,DRG46205,I69934,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left non-dominant side
+420,DRG46205,I69939,Monoplegia of upper limb following unspecified cerebrovascular disease affecting unspecified side
+421,DRG46205,I69941,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right dominant side
+422,DRG46205,I69942,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left dominant side
+423,DRG46205,I69943,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right non-dominant side
+424,DRG46205,I69944,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left non-dominant side
+425,DRG46205,I69949,Monoplegia of lower limb following unspecified cerebrovascular disease affecting unspecified side
+426,DRG46205,I69951,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right dominant side
+427,DRG46205,I69952,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left dominant side
+428,DRG46205,I69953,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right non-dominant side
+429,DRG46205,I69954,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left non-dominant side
+430,DRG46205,I69959,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting unspecified side
+431,DRG46205,I69961,Other paralytic syndrome following unspecified cerebrovascular disease affecting right dominant side
+432,DRG46205,I69962,Other paralytic syndrome following unspecified cerebrovascular disease affecting left dominant side
+433,DRG46205,I69963,Other paralytic syndrome following unspecified cerebrovascular disease affecting right non-dominant side
+434,DRG46205,I69964,Other paralytic syndrome following unspecified cerebrovascular disease affecting left non-dominant side
+435,DRG46205,I69965,"Other paralytic syndrome following unspecified cerebrovascular disease, bilateral"
+436,DRG46205,I69969,Other paralytic syndrome following unspecified cerebrovascular disease affecting unspecified side
+437,DRG46205,I69990,Apraxia following unspecified cerebrovascular disease
+438,DRG46205,I69991,Dysphagia following unspecified cerebrovascular disease
+439,DRG46205,I69992,Facial weakness following unspecified cerebrovascular disease
+440,DRG46205,I69993,Ataxia following unspecified cerebrovascular disease
+441,DRG46205,I69998,Other sequelae following unspecified cerebrovascular disease
+442,DRG46205,Z448,Encounter for fitting and adjustment of other external prosthetic devices
+443,DRG46205,Z471,Aftercare following joint replacement surgery
+444,DRG46205,Z5189,Encounter for other specified aftercare
+447,DRG46205,U000REH,Admission for rehabilitation
+450,DRG46205,F000001,Physical Therapy
+453,DRG46205,F000002,Occupational Therapy

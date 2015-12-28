@@ -1,0 +1,50 @@
+,DRG,CM-PCS,en
+2830,DRG37704,A34,Obstetrical tetanus
+2831,DRG37704,O080,Genital tract and pelvic infection following ectopic and molar pregnancy
+2832,DRG37704,O081,Delayed or excessive hemorrhage following ectopic and molar pregnancy
+2833,DRG37704,O082,Embolism following ectopic and molar pregnancy
+2834,DRG37704,O083,Shock following ectopic and molar pregnancy
+2835,DRG37704,O084,Renal failure following ectopic and molar pregnancy
+2836,DRG37704,O085,Metabolic disorders following an ectopic and molar pregnancy
+2837,DRG37704,O087,Other venous complications following an ectopic and molar pregnancy
+2838,DRG37704,O0881,Cardiac arrest following an ectopic and molar pregnancy
+2839,DRG37704,O0882,Sepsis following ectopic and molar pregnancy
+2840,DRG37704,O0883,Urinary tract infection following an ectopic and molar pregnancy
+2841,DRG37704,O0889,Other complications following an ectopic and molar pregnancy
+2842,DRG37704,O089,Unspecified complication following an ectopic and molar pregnancy
+2843,DRG37704,O1023,Pre-existing hypertensive chronic kidney disease complicating the puerperium
+2844,DRG37704,O1033,Pre-existing hypertensive heart and chronic kidney disease complicating the puerperium
+2845,DRG37704,O1093,Unspecified pre-existing hypertension complicating the puerperium
+2846,DRG37704,O2403,"Pre-existing diabetes mellitus, type 1, in the puerperium"
+2847,DRG37704,O2413,"Pre-existing diabetes mellitus, type 2, in the puerperium"
+2848,DRG37704,O2433,Unspecified pre-existing diabetes mellitus in the puerperium
+2849,DRG37704,O24430,"Gestational diabetes mellitus in the puerperium, diet controlled"
+2850,DRG37704,O24434,"Gestational diabetes mellitus in the puerperium, insulin controlled"
+2851,DRG37704,O24439,"Gestational diabetes mellitus in the puerperium, unspecified control"
+2852,DRG37704,O2483,Other pre-existing diabetes mellitus in the puerperium
+2853,DRG37704,O253,Malnutrition in the puerperium
+2854,DRG37704,O2663,Liver and biliary tract disorders in the puerperium
+2855,DRG37704,O2673,Subluxation of symphysis (pubis) in the puerperium
+2856,DRG37704,O8611,Cervicitis following delivery
+2857,DRG37704,O8613,Vaginitis following delivery
+2858,DRG37704,O8619,Other infection of genital tract following delivery
+2859,DRG37704,O8620,"Urinary tract infection following delivery, unspecified"
+2860,DRG37704,O8621,Infection of kidney following delivery
+2861,DRG37704,O8622,Infection of bladder following delivery
+2862,DRG37704,O8629,Other urinary tract infection following delivery
+2863,DRG37704,O8901,Aspiration pneumonitis due to anesthesia during the puerperium
+2864,DRG37704,O891,Cardiac complications of anesthesia during the puerperium
+2865,DRG37704,O892,Central nervous system complications of anesthesia during the puerperium
+2866,DRG37704,O893,Toxic reaction to local anesthesia during the puerperium
+2867,DRG37704,O894,Spinal and epidural anesthesia-induced headache during the puerperium
+2868,DRG37704,O895,Other complications of spinal and epidural anesthesia during the puerperium
+2869,DRG37704,O896,Failed or difficult intubation for anesthesia during the puerperium
+2870,DRG37704,O9081,Anemia of the puerperium
+2871,DRG37704,O9103,Infection of nipple associated with lactation
+2872,DRG37704,O9113,Abscess of breast associated with lactation
+2873,DRG37704,O9202,Retracted nipple associated with the puerperium
+2874,DRG37704,O9212,Cracked nipple associated with the puerperium
+2875,DRG37704,O924,Hypogalactia
+2876,DRG37704,O9873,Human immunodeficiency virus [HIV] disease complicating the puerperium
+2877,DRG37704,O99315,Alcohol use complicating the puerperium
+2878,DRG37704,Z390,Encounter for care and examination of mother immediately after delivery

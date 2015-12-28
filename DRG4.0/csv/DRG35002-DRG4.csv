@@ -1,0 +1,69 @@
+,DRG,CM-PCS,en
+6582,DRG35002,A1814,Tuberculosis of prostate
+6583,DRG35002,A1815,Tuberculosis of other male genital organs
+6584,DRG35002,A510,Primary genital syphilis
+6585,DRG35002,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
+6586,DRG35002,A5409,Other gonococcal infection of lower genitourinary tract
+6587,DRG35002,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+6588,DRG35002,A5421,Gonococcal infection of kidney and ureter
+6589,DRG35002,A5422,Gonococcal prostatitis
+6590,DRG35002,A5423,Gonococcal infection of other male genital organs
+6591,DRG35002,A5429,Other gonococcal genitourinary infections
+6592,DRG35002,A55,Chlamydial lymphogranuloma (venereum)
+6593,DRG35002,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
+6594,DRG35002,A5601,Chlamydial cystitis and urethritis
+6595,DRG35002,A5609,Other chlamydial infection of lower genitourinary tract
+6596,DRG35002,A562,"Chlamydial infection of genitourinary tract, unspecified"
+6597,DRG35002,A568,Sexually transmitted chlamydial infection of other sites
+6598,DRG35002,A57,Chancroid
+6599,DRG35002,A58,Granuloma inguinale
+6600,DRG35002,A5900,"Urogenital trichomoniasis, unspecified"
+6601,DRG35002,A5902,Trichomonal prostatitis
+6602,DRG35002,A5903,Trichomonal cystitis and urethritis
+6603,DRG35002,A5909,Other urogenital trichomoniasis
+6604,DRG35002,A6000,"Herpesviral infection of urogenital system, unspecified"
+6605,DRG35002,A6001,Herpesviral infection of penis
+6606,DRG35002,A6002,Herpesviral infection of other male genital organs
+6607,DRG35002,A6009,Herpesviral infection of other urogenital tract
+6608,DRG35002,A601,Herpesviral infection of perianal skin and rectum
+6609,DRG35002,A609,"Anogenital herpesviral infection, unspecified"
+6610,DRG35002,A638,Other specified predominantly sexually transmitted diseases
+6611,DRG35002,A64,Unspecified sexually transmitted disease
+6612,DRG35002,B260,Mumps orchitis
+6613,DRG35002,B3741,Candidal cystitis and urethritis
+6614,DRG35002,B3742,Candidal balanitis
+6615,DRG35002,B3749,Other urogenital candidiasis
+6616,DRG35002,N341,Nonspecific urethritis
+6617,DRG35002,N410,Acute prostatitis
+6618,DRG35002,N411,Chronic prostatitis
+6619,DRG35002,N412,Abscess of prostate
+6620,DRG35002,N413,Prostatocystitis
+6621,DRG35002,N414,Granulomatous prostatitis
+6622,DRG35002,N418,Other inflammatory diseases of prostate
+6623,DRG35002,N419,"Inflammatory disease of prostate, unspecified"
+6624,DRG35002,N431,Infected hydrocele
+6625,DRG35002,N451,Epididymitis
+6626,DRG35002,N452,Orchitis
+6627,DRG35002,N453,Epididymo-orchitis
+6628,DRG35002,N454,Abscess of epididymis or testis
+6629,DRG35002,N470,"Adherent prepuce, newborn"
+6630,DRG35002,N471,Phimosis
+6631,DRG35002,N472,Paraphimosis
+6632,DRG35002,N473,Deficient foreskin
+6633,DRG35002,N474,Benign cyst of prepuce
+6634,DRG35002,N475,Adhesions of prepuce and glans penis
+6635,DRG35002,N476,Balanoposthitis
+6636,DRG35002,N477,Other inflammatory diseases of prepuce
+6637,DRG35002,N478,Other disorders of prepuce
+6638,DRG35002,N480,Leukoplakia of penis
+6639,DRG35002,N481,Balanitis
+6640,DRG35002,N4821,Abscess of corpus cavernosum and penis
+6641,DRG35002,N4822,Cellulitis of corpus cavernosum and penis
+6642,DRG35002,N4829,Other inflammatory disorders of penis
+6643,DRG35002,N490,Inflammatory disorders of seminal vesicle
+6644,DRG35002,N491,"Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens"
+6645,DRG35002,N492,Inflammatory disorders of scrotum
+6646,DRG35002,N493,Fournier gangrene
+6647,DRG35002,N498,Inflammatory disorders of other specified male genital organs
+6648,DRG35002,N499,Inflammatory disorder of unspecified male genital organ
+6649,DRG35002,Z412,Encounter for routine and ritual male circumcision

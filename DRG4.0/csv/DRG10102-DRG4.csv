@@ -1,0 +1,21 @@
+,DRG,CM-PCS,en
+6640,DRG10102,J9500,Unspecified tracheostomy complication
+6641,DRG10102,J9501,Hemorrhage from tracheostomy stoma
+6642,DRG10102,J9502,Infection of tracheostomy stoma
+6643,DRG10102,J9503,Malfunction of tracheostomy stoma
+6644,DRG10102,J9504,Tracheo-esophageal fistula following tracheostomy
+6645,DRG10102,J9509,Other tracheostomy complication
+6646,DRG10102,Q330,Congenital cystic lung
+6647,DRG10102,Q331,Accessory lobe of lung
+6648,DRG10102,Q332,Sequestration of lung
+6649,DRG10102,Q333,Agenesis of lung
+6650,DRG10102,Q335,Ectopic tissue in lung
+6651,DRG10102,Q336,Congenital hypoplasia and dysplasia of lung
+6652,DRG10102,Q338,Other congenital malformations of lung
+6653,DRG10102,Q339,"Congenital malformation of lung, unspecified"
+6654,DRG10102,Q340,Anomaly of pleura
+6655,DRG10102,Q341,Congenital cyst of mediastinum
+6656,DRG10102,Q348,Other specified congenital malformations of respiratory system
+6657,DRG10102,Q349,"Congenital malformation of respiratory system, unspecified"
+6658,DRG10102,R0901,Asphyxia
+6659,DRG10102,R0902,Hypoxemia

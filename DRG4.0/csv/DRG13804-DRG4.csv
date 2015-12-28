@@ -1,0 +1,19 @@
+,DRG,CM-PCS,en
+38754,DRG13804,I442,"Atrioventricular block, complete"
+38755,DRG13804,I453,Trifascicular block
+38756,DRG13804,I495,Sick sinus syndrome
+38757,DRG13804,Q246,Congenital heart block
+38758,DRG13804,T82110A,"Breakdown (mechanical) of cardiac electrode, initial encounter"
+38759,DRG13804,T82111A,"Breakdown (mechanical) of cardiac pulse generator (battery), initial encounter"
+38760,DRG13804,T82118A,"Breakdown (mechanical) of other cardiac electronic device, initial encounter"
+38761,DRG13804,T82119A,"Breakdown (mechanical) of unspecified cardiac electronic device, initial encounter"
+38762,DRG13804,T82120A,"Displacement of cardiac electrode, initial encounter"
+38763,DRG13804,T82121A,"Displacement of cardiac pulse generator (battery), initial encounter"
+38764,DRG13804,T82128A,"Displacement of other cardiac electronic device, initial encounter"
+38765,DRG13804,T82129A,"Displacement of unspecified cardiac electronic device, initial encounter"
+38766,DRG13804,T82190A,"Other mechanical complication of cardiac electrode, initial encounter"
+38767,DRG13804,T82191A,"Other mechanical complication of cardiac pulse generator (battery), initial encounter"
+38768,DRG13804,T82198A,"Other mechanical complication of other cardiac electronic device, initial encounter"
+38769,DRG13804,T82199A,"Other mechanical complication of unspecified cardiac device, initial encounter"
+38772,DRG13804,5A1213Z,"Performance of Cardiac Pacing, Intermittent"
+38773,DRG13804,5A1223Z,"Performance of Cardiac Pacing, Continuous"

@@ -1,0 +1,77 @@
+,DRG,CM-PCS,en
+45973,DRG01233,E7500,"GM2 gangliosidosis, unspecified"
+45974,DRG01233,E7501,Sandhoff disease
+45975,DRG01233,E7502,Tay-Sachs disease
+45976,DRG01233,E7509,Other GM2 gangliosidosis
+45977,DRG01233,E7510,Unspecified gangliosidosis
+45978,DRG01233,E7511,Mucolipidosis IV
+45979,DRG01233,E7519,Other gangliosidosis
+45980,DRG01233,E7525,Metachromatic leukodystrophy
+45981,DRG01233,E7529,Other sphingolipidosis
+45982,DRG01233,E754,Neuronal ceroid lipofuscinosis
+45983,DRG01233,F0789,Other personality and behavioral disorders due to known physiological condition
+45984,DRG01233,F842,Rett's syndrome
+45985,DRG01233,G10,Huntington's disease
+45986,DRG01233,G120,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]"
+45987,DRG01233,G121,Other inherited spinal muscular atrophy
+45988,DRG01233,G1220,"Motor neuron disease, unspecified"
+45989,DRG01233,G1221,Amyotrophic lateral sclerosis
+45990,DRG01233,G1222,Progressive bulbar palsy
+45991,DRG01233,G1229,Other motor neuron disease
+45992,DRG01233,G128,Other spinal muscular atrophies and related syndromes
+45993,DRG01233,G129,"Spinal muscular atrophy, unspecified"
+45994,DRG01233,G20,Parkinson's disease
+45995,DRG01233,G2111,Neuroleptic induced parkinsonism
+45996,DRG01233,G2119,Other drug induced secondary parkinsonism
+45997,DRG01233,G212,Secondary parkinsonism due to other external agents
+45998,DRG01233,G213,Postencephalitic parkinsonism
+45999,DRG01233,G214,Vascular parkinsonism
+46000,DRG01233,G218,Other secondary parkinsonism
+46001,DRG01233,G219,"Secondary parkinsonism, unspecified"
+46002,DRG01233,G230,Hallervorden-Spatz disease
+46003,DRG01233,G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]
+46004,DRG01233,G232,Striatonigral degeneration
+46005,DRG01233,G238,Other specified degenerative diseases of basal ganglia
+46006,DRG01233,G239,"Degenerative disease of basal ganglia, unspecified"
+46007,DRG01233,G2402,Drug induced acute dystonia
+46008,DRG01233,G2409,Other drug induced dystonia
+46009,DRG01233,G241,Genetic torsion dystonia
+46010,DRG01233,G242,Idiopathic nonfamilial dystonia
+46011,DRG01233,G248,Other dystonia
+46012,DRG01233,G254,Drug-induced chorea
+46013,DRG01233,G255,Other chorea
+46014,DRG01233,G2570,"Drug induced movement disorder, unspecified"
+46015,DRG01233,G2571,Drug induced akathisia
+46016,DRG01233,G2579,Other drug induced movement disorders
+46017,DRG01233,G2581,Restless legs syndrome
+46018,DRG01233,G2589,Other specified extrapyramidal and movement disorders
+46019,DRG01233,G259,"Extrapyramidal and movement disorder, unspecified"
+46020,DRG01233,G300,Alzheimer's disease with early onset
+46021,DRG01233,G301,Alzheimer's disease with late onset
+46022,DRG01233,G308,Other Alzheimer's disease
+46023,DRG01233,G309,"Alzheimer's disease, unspecified"
+46024,DRG01233,G3101,Pick's disease
+46025,DRG01233,G3109,Other frontotemporal dementia
+46026,DRG01233,G311,"Senile degeneration of brain, not elsewhere classified"
+46027,DRG01233,G3181,Alpers disease
+46028,DRG01233,G3182,Leigh's disease
+46029,DRG01233,G3183,Dementia with Lewy bodies
+46030,DRG01233,G3184,"Mild cognitive impairment, so stated"
+46031,DRG01233,G3185,Corticobasal degeneration
+46032,DRG01233,G3189,Other specified degenerative diseases of nervous system
+46033,DRG01233,G319,"Degenerative disease of nervous system, unspecified"
+46034,DRG01233,G312,Degeneration of nervous system due to alcohol
+46035,DRG01233,G7000,Myasthenia gravis without (acute) exacerbation
+46036,DRG01233,G7001,Myasthenia gravis with (acute) exacerbation
+46037,DRG01233,G803,Athetoid cerebral palsy
+46038,DRG01233,G903,Multi-system degeneration of the autonomic nervous system
+46039,DRG01233,G910,Communicating hydrocephalus
+46040,DRG01233,G911,Obstructive hydrocephalus
+46041,DRG01233,G912,(Idiopathic) normal pressure hydrocephalus
+46042,DRG01233,G913,"Post-traumatic hydrocephalus, unspecified"
+46043,DRG01233,G918,Other hydrocephalus
+46044,DRG01233,G919,"Hydrocephalus, unspecified"
+46045,DRG01233,G950,Syringomyelia and syringobulbia
+46048,DRG01233,F000001,Physical Therapy
+46049,DRG01233,F000002,Occupational Therapy
+46050,DRG01233,F000003,Communication Therapy

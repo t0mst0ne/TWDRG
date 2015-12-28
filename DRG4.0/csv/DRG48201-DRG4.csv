@@ -1,0 +1,628 @@
+,DRG,CM-PCS,en
+98,DRG48201,A155,"Tuberculosis of larynx, trachea and bronchus"
+99,DRG48201,A360,Pharyngeal diphtheria
+100,DRG48201,A361,Nasopharyngeal diphtheria
+101,DRG48201,A362,Laryngeal diphtheria
+102,DRG48201,A3689,Other diphtheritic complications
+103,DRG48201,A4852,Wound botulism
+104,DRG48201,A545,Gonococcal pharyngitis
+105,DRG48201,A564,Chlamydial infection of pharynx
+106,DRG48201,A665,Gangosa
+107,DRG48201,A690,Necrotizing ulcerative stomatitis
+108,DRG48201,A691,Other Vincent's infections
+109,DRG48201,B002,Herpesviral gingivostomatitis and pharyngotonsillitis
+110,DRG48201,B085,Enteroviral vesicular pharyngitis
+111,DRG48201,B370,Candidal stomatitis
+112,DRG48201,B3783,Candidal cheilitis
+113,DRG48201,D0000,"Carcinoma in situ of oral cavity, unspecified site"
+114,DRG48201,D0001,Carcinoma in situ of labial mucosa and vermilion border
+115,DRG48201,D0002,Carcinoma in situ of buccal mucosa
+116,DRG48201,D0003,Carcinoma in situ of gingiva and edentulous alveolar ridge
+117,DRG48201,D0004,Carcinoma in situ of soft palate
+118,DRG48201,D0005,Carcinoma in situ of hard palate
+119,DRG48201,D0006,Carcinoma in situ of floor of mouth
+120,DRG48201,D0007,Carcinoma in situ of tongue
+121,DRG48201,D0008,Carcinoma in situ of pharynx
+122,DRG48201,D020,Carcinoma in situ of larynx
+123,DRG48201,D100,Benign neoplasm of lip
+124,DRG48201,D101,Benign neoplasm of tongue
+125,DRG48201,D102,Benign neoplasm of floor of mouth
+126,DRG48201,D1030,Benign neoplasm of unspecified part of mouth
+127,DRG48201,D1039,Benign neoplasm of other parts of mouth
+128,DRG48201,D104,Benign neoplasm of tonsil
+129,DRG48201,D105,Benign neoplasm of other parts of oropharynx
+130,DRG48201,D106,Benign neoplasm of nasopharynx
+131,DRG48201,D107,Benign neoplasm of hypopharynx
+132,DRG48201,D109,"Benign neoplasm of pharynx, unspecified"
+133,DRG48201,D110,Benign neoplasm of parotid gland
+134,DRG48201,D117,Benign neoplasm of other major salivary glands
+135,DRG48201,D119,"Benign neoplasm of major salivary gland, unspecified"
+136,DRG48201,D140,"Benign neoplasm of middle ear, nasal cavity and accessory sinuses"
+137,DRG48201,D141,Benign neoplasm of larynx
+138,DRG48201,D164,Benign neoplasm of bones of skull and face
+139,DRG48201,D165,Benign neoplasm of lower jaw bone
+140,DRG48201,D1800,Hemangioma unspecified site
+141,DRG48201,D1801,Hemangioma of skin and subcutaneous tissue
+142,DRG48201,D1809,Hemangioma of other sites
+143,DRG48201,D34,Benign neoplasm of thyroid gland
+144,DRG48201,E034,Atrophy of thyroid (acquired)
+145,DRG48201,E041,Nontoxic single thyroid nodule
+146,DRG48201,E0500,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm
+147,DRG48201,E0501,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm
+148,DRG48201,E0510,Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm
+149,DRG48201,E0511,Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm
+150,DRG48201,E0520,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm
+151,DRG48201,E0521,Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm
+152,DRG48201,E0530,Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm
+153,DRG48201,E0531,Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm
+154,DRG48201,E0540,Thyrotoxicosis factitia without thyrotoxic crisis or storm
+155,DRG48201,E0541,Thyrotoxicosis factitia with thyrotoxic crisis or storm
+156,DRG48201,E0580,Other thyrotoxicosis without thyrotoxic crisis or storm
+157,DRG48201,E0581,Other thyrotoxicosis with thyrotoxic crisis or storm
+158,DRG48201,E0590,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm"
+159,DRG48201,E0591,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm"
+160,DRG48201,E060,Acute thyroiditis
+161,DRG48201,E061,Subacute thyroiditis
+162,DRG48201,E062,Chronic thyroiditis with transient thyrotoxicosis
+163,DRG48201,E063,Autoimmune thyroiditis
+164,DRG48201,E064,Drug-induced thyroiditis
+165,DRG48201,E065,Other chronic thyroiditis
+166,DRG48201,E069,"Thyroiditis, unspecified"
+167,DRG48201,E0789,Other specified disorders of thyroid
+168,DRG48201,E079,"Disorder of thyroid, unspecified"
+169,DRG48201,J00,Acute nasopharyngitis [common cold]
+170,DRG48201,J020,Streptococcal pharyngitis
+171,DRG48201,J028,Acute pharyngitis due to other specified organisms
+172,DRG48201,J029,"Acute pharyngitis, unspecified"
+173,DRG48201,J0300,"Acute streptococcal tonsillitis, unspecified"
+174,DRG48201,J0301,Acute recurrent streptococcal tonsillitis
+175,DRG48201,J0380,Acute tonsillitis due to other specified organisms
+176,DRG48201,J0381,Acute recurrent tonsillitis due to other specified organisms
+177,DRG48201,J0390,"Acute tonsillitis, unspecified"
+178,DRG48201,J0391,"Acute recurrent tonsillitis, unspecified"
+179,DRG48201,J040,Acute laryngitis
+180,DRG48201,J042,Acute laryngotracheitis
+181,DRG48201,J0430,"Supraglottitis, unspecified, without obstruction"
+182,DRG48201,J0431,"Supraglottitis, unspecified, with obstruction"
+183,DRG48201,J050,Acute obstructive laryngitis [croup]
+184,DRG48201,J0510,Acute epiglottitis without obstruction
+185,DRG48201,J0511,Acute epiglottitis with obstruction
+186,DRG48201,J060,Acute laryngopharyngitis
+187,DRG48201,J069,"Acute upper respiratory infection, unspecified"
+188,DRG48201,J311,Chronic nasopharyngitis
+189,DRG48201,J312,Chronic pharyngitis
+190,DRG48201,J342,Deviated nasal septum
+191,DRG48201,J3501,Chronic tonsillitis
+192,DRG48201,J3502,Chronic adenoiditis
+193,DRG48201,J3503,Chronic tonsillitis and adenoiditis
+194,DRG48201,J351,Hypertrophy of tonsils
+195,DRG48201,J352,Hypertrophy of adenoids
+196,DRG48201,J353,Hypertrophy of tonsils with hypertrophy of adenoids
+197,DRG48201,J358,Other chronic diseases of tonsils and adenoids
+198,DRG48201,J359,"Chronic disease of tonsils and adenoids, unspecified"
+199,DRG48201,J36,Peritonsillar abscess
+200,DRG48201,J370,Chronic laryngitis
+201,DRG48201,J371,Chronic laryngotracheitis
+202,DRG48201,J3800,"Paralysis of vocal cords and larynx, unspecified"
+203,DRG48201,J3801,"Paralysis of vocal cords and larynx, unilateral"
+204,DRG48201,J3802,"Paralysis of vocal cords and larynx, bilateral"
+205,DRG48201,J381,Polyp of vocal cord and larynx
+206,DRG48201,J382,Nodules of vocal cords
+207,DRG48201,J383,Other diseases of vocal cords
+208,DRG48201,J384,Edema of larynx
+209,DRG48201,J385,Laryngeal spasm
+210,DRG48201,J386,Stenosis of larynx
+211,DRG48201,J387,Other diseases of larynx
+212,DRG48201,J390,Retropharyngeal and parapharyngeal abscess
+213,DRG48201,J391,Other abscess of pharynx
+214,DRG48201,J392,Other diseases of pharynx
+215,DRG48201,J393,"Upper respiratory tract hypersensitivity reaction, site unspecified"
+216,DRG48201,J398,Other specified diseases of upper respiratory tract
+217,DRG48201,J399,"Disease of upper respiratory tract, unspecified"
+218,DRG48201,J45990,Exercise induced bronchospasm
+219,DRG48201,J9500,Unspecified tracheostomy complication
+220,DRG48201,J9501,Hemorrhage from tracheostomy stoma
+221,DRG48201,J9502,Infection of tracheostomy stoma
+222,DRG48201,J9503,Malfunction of tracheostomy stoma
+223,DRG48201,J9504,Tracheo-esophageal fistula following tracheostomy
+224,DRG48201,J9509,Other tracheostomy complication
+225,DRG48201,J9801,Acute bronchospasm
+226,DRG48201,J9809,"Other diseases of bronchus, not elsewhere classified"
+227,DRG48201,K000,Anodontia
+228,DRG48201,K001,Supernumerary teeth
+229,DRG48201,K002,Abnormalities of size and form of teeth
+230,DRG48201,K003,Mottled teeth
+231,DRG48201,K004,Disturbances in tooth formation
+232,DRG48201,K005,"Hereditary disturbances in tooth structure, not elsewhere classified"
+233,DRG48201,K006,Disturbances in tooth eruption
+234,DRG48201,K007,Teething syndrome
+235,DRG48201,K008,Other disorders of tooth development
+236,DRG48201,K009,"Disorder of tooth development, unspecified"
+237,DRG48201,K010,Embedded teeth
+238,DRG48201,K011,Impacted teeth
+239,DRG48201,K023,Arrested dental caries
+240,DRG48201,K0251,Dental caries on pit and fissure surface limited to enamel
+241,DRG48201,K0252,Dental caries on pit and fissure surface penetrating into dentin
+242,DRG48201,K0253,Dental caries on pit and fissure surface penetrating into pulp
+243,DRG48201,K0261,Dental caries on smooth surface limited to enamel
+244,DRG48201,K0262,Dental caries on smooth surface penetrating into dentin
+245,DRG48201,K0263,Dental caries on smooth surface penetrating into pulp
+246,DRG48201,K027,Dental root caries
+247,DRG48201,K029,"Dental caries, unspecified"
+248,DRG48201,K030,Excessive attrition of teeth
+249,DRG48201,K031,Abrasion of teeth
+250,DRG48201,K032,Erosion of teeth
+251,DRG48201,K033,Pathological resorption of teeth
+252,DRG48201,K034,Hypercementosis
+253,DRG48201,K035,Ankylosis of teeth
+254,DRG48201,K036,Deposits [accretions] on teeth
+255,DRG48201,K037,Posteruptive color changes of dental hard tissues
+256,DRG48201,K0389,Other specified diseases of hard tissues of teeth
+257,DRG48201,K039,"Disease of hard tissues of teeth, unspecified"
+258,DRG48201,K040,Pulpitis
+259,DRG48201,K041,Necrosis of pulp
+260,DRG48201,K042,Pulp degeneration
+261,DRG48201,K043,Abnormal hard tissue formation in pulp
+262,DRG48201,K044,Acute apical periodontitis of pulpal origin
+263,DRG48201,K045,Chronic apical periodontitis
+264,DRG48201,K046,Periapical abscess with sinus
+265,DRG48201,K047,Periapical abscess without sinus
+266,DRG48201,K048,Radicular cyst
+267,DRG48201,K0490,Unspecified diseases of pulp and periapical tissues
+268,DRG48201,K0499,Other diseases of pulp and periapical tissues
+269,DRG48201,K0500,"Acute gingivitis, plaque induced"
+270,DRG48201,K0501,"Acute gingivitis, non-plaque induced"
+271,DRG48201,K0510,"Chronic gingivitis, plaque induced"
+272,DRG48201,K0511,"Chronic gingivitis, non-plaque induced"
+273,DRG48201,K0520,"Aggressive periodontitis, unspecified"
+274,DRG48201,K0521,"Aggressive periodontitis, localized"
+275,DRG48201,K0522,"Aggressive periodontitis, generalized"
+276,DRG48201,K0530,"Chronic periodontitis, unspecified"
+277,DRG48201,K0531,"Chronic periodontitis, localized"
+278,DRG48201,K0532,"Chronic periodontitis, generalized"
+279,DRG48201,K054,Periodontosis
+280,DRG48201,K055,Other periodontal diseases
+281,DRG48201,K056,"Periodontal disease, unspecified"
+282,DRG48201,K060,Gingival recession
+283,DRG48201,K061,Gingival enlargement
+284,DRG48201,K062,Gingival and edentulous alveolar ridge lesions associated with trauma
+285,DRG48201,K068,Other specified disorders of gingiva and edentulous alveolar ridge
+286,DRG48201,K069,"Disorder of gingiva and edentulous alveolar ridge, unspecified"
+287,DRG48201,K080,Exfoliation of teeth due to systemic causes
+288,DRG48201,K08101,"Complete loss of teeth, unspecified cause, class I"
+289,DRG48201,K08102,"Complete loss of teeth, unspecified cause, class II"
+290,DRG48201,K08103,"Complete loss of teeth, unspecified cause, class III"
+291,DRG48201,K08104,"Complete loss of teeth, unspecified cause, class IV"
+292,DRG48201,K08109,"Complete loss of teeth, unspecified cause, unspecified class"
+293,DRG48201,K08111,"Complete loss of teeth due to trauma, class I"
+294,DRG48201,K08112,"Complete loss of teeth due to trauma, class II"
+295,DRG48201,K08113,"Complete loss of teeth due to trauma, class III"
+296,DRG48201,K08114,"Complete loss of teeth due to trauma, class IV"
+297,DRG48201,K08119,"Complete loss of teeth due to trauma, unspecified class"
+298,DRG48201,K08121,"Complete loss of teeth due to periodontal diseases, class I"
+299,DRG48201,K08122,"Complete loss of teeth due to periodontal diseases, class II"
+300,DRG48201,K08123,"Complete loss of teeth due to periodontal diseases, class III"
+301,DRG48201,K08124,"Complete loss of teeth due to periodontal diseases, class IV"
+302,DRG48201,K08129,"Complete loss of teeth due to periodontal diseases, unspecified class"
+303,DRG48201,K08131,"Complete loss of teeth due to caries, class I"
+304,DRG48201,K08132,"Complete loss of teeth due to caries, class II"
+305,DRG48201,K08133,"Complete loss of teeth due to caries, class III"
+306,DRG48201,K08134,"Complete loss of teeth due to caries, class IV"
+307,DRG48201,K08139,"Complete loss of teeth due to caries, unspecified class"
+308,DRG48201,K08191,"Complete loss of teeth due to other specified cause, class I"
+309,DRG48201,K08192,"Complete loss of teeth due to other specified cause, class II"
+310,DRG48201,K08193,"Complete loss of teeth due to other specified cause, class III"
+311,DRG48201,K08194,"Complete loss of teeth due to other specified cause, class IV"
+312,DRG48201,K08199,"Complete loss of teeth due to other specified cause, unspecified class"
+313,DRG48201,K0820,Unspecified atrophy of edentulous alveolar ridge
+314,DRG48201,K0821,Minimal atrophy of the mandible
+315,DRG48201,K0822,Moderate atrophy of the mandible
+316,DRG48201,K0823,Severe atrophy of the mandible
+317,DRG48201,K0824,Minimal atrophy of maxilla
+318,DRG48201,K0825,Moderate atrophy of the maxilla
+319,DRG48201,K0826,Severe atrophy of the maxilla
+320,DRG48201,K083,Retained dental root
+321,DRG48201,K08401,"Partial loss of teeth, unspecified cause, class I"
+322,DRG48201,K08402,"Partial loss of teeth, unspecified cause, class II"
+323,DRG48201,K08403,"Partial loss of teeth, unspecified cause, class III"
+324,DRG48201,K08404,"Partial loss of teeth, unspecified cause, class IV"
+325,DRG48201,K08409,"Partial loss of teeth, unspecified cause, unspecified class"
+326,DRG48201,K08411,"Partial loss of teeth due to trauma, class I"
+327,DRG48201,K08412,"Partial loss of teeth due to trauma, class II"
+328,DRG48201,K08413,"Partial loss of teeth due to trauma, class III"
+329,DRG48201,K08414,"Partial loss of teeth due to trauma, class IV"
+330,DRG48201,K08419,"Partial loss of teeth due to trauma, unspecified class"
+331,DRG48201,K08421,"Partial loss of teeth due to periodontal diseases, class I"
+332,DRG48201,K08422,"Partial loss of teeth due to periodontal diseases, class II"
+333,DRG48201,K08423,"Partial loss of teeth due to periodontal diseases, class III"
+334,DRG48201,K08424,"Partial loss of teeth due to periodontal diseases, class IV"
+335,DRG48201,K08429,"Partial loss of teeth due to periodontal diseases, unspecified class"
+336,DRG48201,K08431,"Partial loss of teeth due to caries, class I"
+337,DRG48201,K08432,"Partial loss of teeth due to caries, class II"
+338,DRG48201,K08433,"Partial loss of teeth due to caries, class III"
+339,DRG48201,K08434,"Partial loss of teeth due to caries, class IV"
+340,DRG48201,K08439,"Partial loss of teeth due to caries, unspecified class"
+341,DRG48201,K08491,"Partial loss of teeth due to other specified cause, class I"
+342,DRG48201,K08492,"Partial loss of teeth due to other specified cause, class II"
+343,DRG48201,K08493,"Partial loss of teeth due to other specified cause, class III"
+344,DRG48201,K08494,"Partial loss of teeth due to other specified cause, class IV"
+345,DRG48201,K08499,"Partial loss of teeth due to other specified cause, unspecified class"
+346,DRG48201,K0850,"Unsatisfactory restoration of tooth, unspecified"
+347,DRG48201,K0851,Open restoration margins of tooth
+348,DRG48201,K0852,Unrepairable overhanging of dental restorative materials
+349,DRG48201,K08530,Fractured dental restorative material without loss of material
+350,DRG48201,K08531,Fractured dental restorative material with loss of material
+351,DRG48201,K08539,"Fractured dental restorative material, unspecified"
+352,DRG48201,K0854,Contour of existing restoration of tooth biologically incompatible with oral health
+353,DRG48201,K0855,Allergy to existing dental restorative material
+354,DRG48201,K0856,Poor aesthetic of existing restoration of tooth
+355,DRG48201,K0859,Other unsatisfactory restoration of tooth
+356,DRG48201,K088,Other specified disorders of teeth and supporting structures
+357,DRG48201,K089,"Disorder of teeth and supporting structures, unspecified"
+358,DRG48201,K090,Developmental odontogenic cysts
+359,DRG48201,K091,Developmental (nonodontogenic) cysts of oral region
+360,DRG48201,K098,"Other cysts of oral region, not elsewhere classified"
+361,DRG48201,K099,"Cyst of oral region, unspecified"
+362,DRG48201,K110,Atrophy of salivary gland
+363,DRG48201,K111,Hypertrophy of salivary gland
+364,DRG48201,K1120,"Sialoadenitis, unspecified"
+365,DRG48201,K1121,Acute sialoadenitis
+366,DRG48201,K1122,Acute recurrent sialoadenitis
+367,DRG48201,K1123,Chronic sialoadenitis
+368,DRG48201,K113,Abscess of salivary gland
+369,DRG48201,K114,Fistula of salivary gland
+370,DRG48201,K115,Sialolithiasis
+371,DRG48201,K116,Mucocele of salivary gland
+372,DRG48201,K117,Disturbances of salivary secretion
+373,DRG48201,K118,Other diseases of salivary glands
+374,DRG48201,K119,"Disease of salivary gland, unspecified"
+375,DRG48201,K120,Recurrent oral aphthae
+376,DRG48201,K121,Other forms of stomatitis
+377,DRG48201,K122,Cellulitis and abscess of mouth
+378,DRG48201,K1230,"Oral mucositis (ulcerative), unspecified"
+379,DRG48201,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+380,DRG48201,K1232,Oral mucositis (ulcerative) due to other drugs
+381,DRG48201,K1233,Oral mucositis (ulcerative) due to radiation
+382,DRG48201,K1239,Other oral mucositis (ulcerative)
+383,DRG48201,K130,Diseases of lips
+384,DRG48201,K131,Cheek and lip biting
+385,DRG48201,K1321,"Leukoplakia of oral mucosa, including tongue"
+386,DRG48201,K1322,Minimal keratinized residual ridge mucosa
+387,DRG48201,K1323,Excessive keratinized residual ridge mucosa
+388,DRG48201,K1324,Leukokeratosis nicotina palati
+389,DRG48201,K1329,"Other disturbances of oral epithelium, including tongue"
+390,DRG48201,K133,Hairy leukoplakia
+391,DRG48201,K134,Granuloma and granuloma-like lesions of oral mucosa
+392,DRG48201,K135,Oral submucous fibrosis
+393,DRG48201,K136,Irritative hyperplasia of oral mucosa
+394,DRG48201,K1370,Unspecified lesions of oral mucosa
+395,DRG48201,K1379,Other lesions of oral mucosa
+396,DRG48201,K140,Glossitis
+397,DRG48201,K141,Geographic tongue
+398,DRG48201,K142,Median rhomboid glossitis
+399,DRG48201,K143,Hypertrophy of tongue papillae
+400,DRG48201,K144,Atrophy of tongue papillae
+401,DRG48201,K145,Plicated tongue
+402,DRG48201,K146,Glossodynia
+403,DRG48201,K148,Other diseases of tongue
+404,DRG48201,K149,"Disease of tongue, unspecified"
+405,DRG48201,L0201,Cutaneous abscess of face
+406,DRG48201,L0211,Cutaneous abscess of neck
+407,DRG48201,L03211,Cellulitis of face
+408,DRG48201,L03212,Acute lymphangitis of face
+409,DRG48201,L03221,Cellulitis of neck
+410,DRG48201,L03222,Acute lymphangitis of neck
+411,DRG48201,M2600,Unspecified anomaly of jaw size
+412,DRG48201,M2601,Maxillary hyperplasia
+413,DRG48201,M2602,Maxillary hypoplasia
+414,DRG48201,M2603,Mandibular hyperplasia
+415,DRG48201,M2604,Mandibular hypoplasia
+416,DRG48201,M2605,Macrogenia
+417,DRG48201,M2606,Microgenia
+418,DRG48201,M2607,Excessive tuberosity of jaw
+419,DRG48201,M2609,Other specified anomalies of jaw size
+420,DRG48201,M2610,Unspecified anomaly of jaw-cranial base relationship
+421,DRG48201,M2611,Maxillary asymmetry
+422,DRG48201,M2612,Other jaw asymmetry
+423,DRG48201,M2619,Other specified anomalies of jaw-cranial base relationship
+424,DRG48201,M2620,Unspecified anomaly of dental arch relationship
+425,DRG48201,M26211,"Malocclusion, Angle's class I"
+426,DRG48201,M26212,"Malocclusion, Angle's class II"
+427,DRG48201,M26213,"Malocclusion, Angle's class III"
+428,DRG48201,M26219,"Malocclusion, Angle's class, unspecified"
+429,DRG48201,M26220,Open anterior occlusal relationship
+430,DRG48201,M26221,Open posterior occlusal relationship
+431,DRG48201,M2623,Excessive horizontal overlap
+432,DRG48201,M2624,Reverse articulation
+433,DRG48201,M2625,Anomalies of interarch distance
+434,DRG48201,M2629,Other anomalies of dental arch relationship
+435,DRG48201,M2630,Unspecified anomaly of tooth position of fully erupted tooth or teeth
+436,DRG48201,M2631,Crowding of fully erupted teeth
+437,DRG48201,M2632,Excessive spacing of fully erupted teeth
+438,DRG48201,M2633,Horizontal displacement of fully erupted tooth or teeth
+439,DRG48201,M2634,Vertical displacement of fully erupted tooth or teeth
+440,DRG48201,M2635,Rotation of fully erupted tooth or teeth
+441,DRG48201,M2636,Insufficient interocclusal distance of fully erupted teeth (ridge)
+442,DRG48201,M2637,Excessive interocclusal distance of fully erupted teeth
+443,DRG48201,M2639,Other anomalies of tooth position of fully erupted tooth or teeth
+444,DRG48201,M264,"Malocclusion, unspecified"
+445,DRG48201,M2650,"Dentofacial functional abnormalities, unspecified"
+446,DRG48201,M2651,Abnormal jaw closure
+447,DRG48201,M2652,Limited mandibular range of motion
+448,DRG48201,M2653,Deviation in opening and closing of the mandible
+449,DRG48201,M2654,Insufficient anterior guidance
+450,DRG48201,M2655,Centric occlusion maximum intercuspation discrepancy
+451,DRG48201,M2656,Non-working side interference
+452,DRG48201,M2657,Lack of posterior occlusal support
+453,DRG48201,M2659,Other dentofacial functional abnormalities
+454,DRG48201,M2660,"Temporomandibular joint disorder, unspecified"
+455,DRG48201,M2661,Adhesions and ankylosis of temporomandibular joint
+456,DRG48201,M2662,Arthralgia of temporomandibular joint
+457,DRG48201,M2663,Articular disc disorder of temporomandibular joint
+458,DRG48201,M2669,Other specified disorders of temporomandibular joint
+459,DRG48201,M2670,Unspecified alveolar anomaly
+460,DRG48201,M2671,Alveolar maxillary hyperplasia
+461,DRG48201,M2672,Alveolar mandibular hyperplasia
+462,DRG48201,M2673,Alveolar maxillary hypoplasia
+463,DRG48201,M2674,Alveolar mandibular hypoplasia
+464,DRG48201,M2679,Other specified alveolar anomalies
+465,DRG48201,M2681,Anterior soft tissue impingement
+466,DRG48201,M2682,Posterior soft tissue impingement
+467,DRG48201,M2689,Other dentofacial anomalies
+468,DRG48201,M269,"Dentofacial anomaly, unspecified"
+469,DRG48201,M270,Developmental disorders of jaws
+470,DRG48201,M271,"Giant cell granuloma, central"
+471,DRG48201,M272,Inflammatory conditions of jaws
+472,DRG48201,M273,Alveolitis of jaws
+473,DRG48201,M2740,Unspecified cyst of jaw
+474,DRG48201,M2749,Other cysts of jaw
+475,DRG48201,M2751,Perforation of root canal space due to endodontic treatment
+476,DRG48201,M2752,Endodontic overfill
+477,DRG48201,M2753,Endodontic underfill
+478,DRG48201,M2759,Other periradicular pathology associated with previous endodontic treatment
+479,DRG48201,M2761,Osseointegration failure of dental implant
+480,DRG48201,M2762,Post-osseointegration biological failure of dental implant
+481,DRG48201,M2763,Post-osseointegration mechanical failure of dental implant
+482,DRG48201,M2769,Other endosseous dental implant failure
+483,DRG48201,M278,Other specified diseases of jaws
+484,DRG48201,M279,"Disease of jaws, unspecified"
+485,DRG48201,Q310,Web of larynx
+486,DRG48201,Q311,Congenital subglottic stenosis
+487,DRG48201,Q312,Laryngeal hypoplasia
+488,DRG48201,Q313,Laryngocele
+489,DRG48201,Q315,Congenital laryngomalacia
+490,DRG48201,Q318,Other congenital malformations of larynx
+491,DRG48201,Q319,"Congenital malformation of larynx, unspecified"
+492,DRG48201,Q320,Congenital tracheomalacia
+493,DRG48201,Q321,Other congenital malformations of trachea
+494,DRG48201,Q322,Congenital bronchomalacia
+495,DRG48201,Q323,Congenital stenosis of bronchus
+496,DRG48201,Q324,Other congenital malformations of bronchus
+497,DRG48201,Q351,Cleft hard palate
+498,DRG48201,Q353,Cleft soft palate
+499,DRG48201,Q355,Cleft hard palate with cleft soft palate
+500,DRG48201,Q357,Cleft uvula
+501,DRG48201,Q359,"Cleft palate, unspecified"
+502,DRG48201,Q360,"Cleft lip, bilateral"
+503,DRG48201,Q361,"Cleft lip, median"
+504,DRG48201,Q369,"Cleft lip, unilateral"
+505,DRG48201,Q370,Cleft hard palate with bilateral cleft lip
+506,DRG48201,Q371,Cleft hard palate with unilateral cleft lip
+507,DRG48201,Q372,Cleft soft palate with bilateral cleft lip
+508,DRG48201,Q373,Cleft soft palate with unilateral cleft lip
+509,DRG48201,Q374,Cleft hard and soft palate with bilateral cleft lip
+510,DRG48201,Q375,Cleft hard and soft palate with unilateral cleft lip
+511,DRG48201,Q378,Unspecified cleft palate with bilateral cleft lip
+512,DRG48201,Q379,Unspecified cleft palate with unilateral cleft lip
+513,DRG48201,Q380,"Congenital malformations of lips, not elsewhere classified"
+514,DRG48201,Q381,Ankyloglossia
+515,DRG48201,Q382,Macroglossia
+516,DRG48201,Q383,Other congenital malformations of tongue
+517,DRG48201,Q384,Congenital malformations of salivary glands and ducts
+518,DRG48201,Q385,"Congenital malformations of palate, not elsewhere classified"
+519,DRG48201,Q386,Other congenital malformations of mouth
+520,DRG48201,Q387,Congenital pharyngeal pouch
+521,DRG48201,Q388,Other congenital malformations of pharynx
+522,DRG48201,R041,Hemorrhage from throat
+523,DRG48201,R682,"Dry mouth, unspecified"
+524,DRG48201,R6884,Jaw pain
+525,DRG48201,S0120XA,"Unspecified open wound of nose, initial encounter"
+526,DRG48201,S0121XA,"Laceration without foreign body of nose, initial encounter"
+527,DRG48201,S0122XA,"Laceration with foreign body of nose, initial encounter"
+528,DRG48201,S0123XA,"Puncture wound without foreign body of nose, initial encounter"
+529,DRG48201,S0124XA,"Puncture wound with foreign body of nose, initial encounter"
+530,DRG48201,S0125XA,"Open bite of nose, initial encounter"
+531,DRG48201,S01401A,"Unspecified open wound of right cheek and temporomandibular area, initial encounter"
+532,DRG48201,S01402A,"Unspecified open wound of left cheek and temporomandibular area, initial encounter"
+533,DRG48201,S01409A,"Unspecified open wound of unspecified cheek and temporomandibular area, initial encounter"
+534,DRG48201,S01411A,"Laceration without foreign body of right cheek and temporomandibular area, initial encounter"
+535,DRG48201,S01412A,"Laceration without foreign body of left cheek and temporomandibular area, initial encounter"
+536,DRG48201,S01419A,"Laceration without foreign body of unspecified cheek and temporomandibular area, initial encounter"
+537,DRG48201,S01421A,"Laceration with foreign body of right cheek and temporomandibular area, initial encounter"
+538,DRG48201,S01422A,"Laceration with foreign body of left cheek and temporomandibular area, initial encounter"
+539,DRG48201,S01429A,"Laceration with foreign body of unspecified cheek and temporomandibular area, initial encounter"
+540,DRG48201,S01431A,"Puncture wound without foreign body of right cheek and temporomandibular area, initial encounter"
+541,DRG48201,S01432A,"Puncture wound without foreign body of left cheek and temporomandibular area, initial encounter"
+542,DRG48201,S01439A,"Puncture wound without foreign body of unspecified cheek and temporomandibular area, initial encounter"
+543,DRG48201,S01441A,"Puncture wound with foreign body of right cheek and temporomandibular area, initial encounter"
+544,DRG48201,S01442A,"Puncture wound with foreign body of left cheek and temporomandibular area, initial encounter"
+545,DRG48201,S01449A,"Puncture wound with foreign body of unspecified cheek and temporomandibular area, initial encounter"
+546,DRG48201,S01451A,"Open bite of right cheek and temporomandibular area, initial encounter"
+547,DRG48201,S01452A,"Open bite of left cheek and temporomandibular area, initial encounter"
+548,DRG48201,S01459A,"Open bite of unspecified cheek and temporomandibular area, initial encounter"
+549,DRG48201,S01501A,"Unspecified open wound of lip, initial encounter"
+550,DRG48201,S01502A,"Unspecified open wound of oral cavity, initial encounter"
+551,DRG48201,S01511A,"Laceration without foreign body of lip, initial encounter"
+552,DRG48201,S01512A,"Laceration without foreign body of oral cavity, initial encounter"
+553,DRG48201,S01521A,"Laceration with foreign body of lip, initial encounter"
+554,DRG48201,S01522A,"Laceration with foreign body of oral cavity, initial encounter"
+555,DRG48201,S01531A,"Puncture wound without foreign body of lip, initial encounter"
+556,DRG48201,S01532A,"Puncture wound without foreign body of oral cavity, initial encounter"
+557,DRG48201,S01541A,"Puncture wound with foreign body of lip, initial encounter"
+558,DRG48201,S01542A,"Puncture wound with foreign body of oral cavity, initial encounter"
+559,DRG48201,S01551A,"Open bite of lip, initial encounter"
+560,DRG48201,S01552A,"Open bite of oral cavity, initial encounter"
+561,DRG48201,S0180XA,"Unspecified open wound of other part of head, initial encounter"
+562,DRG48201,S0181XA,"Laceration without foreign body of other part of head, initial encounter"
+563,DRG48201,S0182XA,"Laceration with foreign body of other part of head, initial encounter"
+564,DRG48201,S0183XA,"Puncture wound without foreign body of other part of head, initial encounter"
+565,DRG48201,S0184XA,"Puncture wound with foreign body of other part of head, initial encounter"
+566,DRG48201,S0185XA,"Open bite of other part of head, initial encounter"
+567,DRG48201,S0192XA,"Laceration with foreign body of unspecified part of head, initial encounter"
+568,DRG48201,S0194XA,"Puncture wound with foreign body of unspecified part of head, initial encounter"
+569,DRG48201,S023XXA,"Fracture of orbital floor, initial encounter for closed fracture"
+570,DRG48201,S023XXB,"Fracture of orbital floor, initial encounter for open fracture"
+571,DRG48201,S02400A,"Malar fracture unspecified, initial encounter for closed fracture"
+572,DRG48201,S02400B,"Malar fracture unspecified, initial encounter for open fracture"
+573,DRG48201,S02401A,"Maxillary fracture, unspecified, initial encounter for closed fracture"
+574,DRG48201,S02401B,"Maxillary fracture, unspecified, initial encounter for open fracture"
+575,DRG48201,S02402A,"Zygomatic fracture, unspecified, initial encounter for closed fracture"
+576,DRG48201,S02402B,"Zygomatic fracture, unspecified, initial encounter for open fracture"
+577,DRG48201,S02411A,"LeFort I fracture, initial encounter for closed fracture"
+578,DRG48201,S02411B,"LeFort I fracture, initial encounter for open fracture"
+579,DRG48201,S02412A,"LeFort II fracture, initial encounter for closed fracture"
+580,DRG48201,S02412B,"LeFort II fracture, initial encounter for open fracture"
+581,DRG48201,S02413A,"LeFort III fracture, initial encounter for closed fracture"
+582,DRG48201,S02413B,"LeFort III fracture, initial encounter for open fracture"
+583,DRG48201,S0242XA,"Fracture of alveolus of maxilla, initial encounter for closed fracture"
+584,DRG48201,S0242XB,"Fracture of alveolus of maxilla, initial encounter for open fracture"
+585,DRG48201,S02600A,"Fracture of unspecified part of body of mandible, initial encounter for closed fracture"
+586,DRG48201,S02600B,"Fracture of unspecified part of body of mandible, initial encounter for open fracture"
+587,DRG48201,S02609A,"Fracture of mandible, unspecified, initial encounter for closed fracture"
+588,DRG48201,S02609B,"Fracture of mandible, unspecified, initial encounter for open fracture"
+589,DRG48201,S0261XA,"Fracture of condylar process of mandible, initial encounter for closed fracture"
+590,DRG48201,S0261XB,"Fracture of condylar process of mandible, initial encounter for open fracture"
+591,DRG48201,S0262XA,"Fracture of subcondylar process of mandible, initial encounter for closed fracture"
+592,DRG48201,S0262XB,"Fracture of subcondylar process of mandible, initial encounter for open fracture"
+593,DRG48201,S0263XA,"Fracture of coronoid process of mandible, initial encounter for closed fracture"
+594,DRG48201,S0263XB,"Fracture of coronoid process of mandible, initial encounter for open fracture"
+595,DRG48201,S0264XA,"Fracture of ramus of mandible, initial encounter for closed fracture"
+596,DRG48201,S0264XB,"Fracture of ramus of mandible, initial encounter for open fracture"
+597,DRG48201,S0265XA,"Fracture of angle of mandible, initial encounter for closed fracture"
+598,DRG48201,S0265XB,"Fracture of angle of mandible, initial encounter for open fracture"
+599,DRG48201,S0266XA,"Fracture of symphysis of mandible, initial encounter for closed fracture"
+600,DRG48201,S0266XB,"Fracture of symphysis of mandible, initial encounter for open fracture"
+601,DRG48201,S0267XA,"Fracture of alveolus of mandible, initial encounter for closed fracture"
+602,DRG48201,S0267XB,"Fracture of alveolus of mandible, initial encounter for open fracture"
+603,DRG48201,S0269XA,"Fracture of mandible of other specified site, initial encounter for closed fracture"
+604,DRG48201,S0269XB,"Fracture of mandible of other specified site, initial encounter for open fracture"
+605,DRG48201,S028XXA,"Fractures of other specified skull and facial bones, initial encounter for closed fracture"
+606,DRG48201,S028XXB,"Fractures of other specified skull and facial bones, initial encounter for open fracture"
+607,DRG48201,S0292XA,"Unspecified fracture of facial bones, initial encounter for closed fracture"
+608,DRG48201,S0292XB,"Unspecified fracture of facial bones, initial encounter for open fracture"
+609,DRG48201,S030XXA,"Dislocation of jaw, initial encounter"
+610,DRG48201,S070XXA,"Crushing injury of face, initial encounter"
+611,DRG48201,S071XXA,"Crushing injury of skull, initial encounter"
+612,DRG48201,S078XXA,"Crushing injury of other parts of head, initial encounter"
+613,DRG48201,S079XXA,"Crushing injury of head, part unspecified, initial encounter"
+614,DRG48201,S08811A,"Complete traumatic amputation of nose, initial encounter"
+615,DRG48201,S08812A,"Partial traumatic amputation of nose, initial encounter"
+616,DRG48201,S090XXA,"Injury of blood vessels of head, not elsewhere classified, initial encounter"
+617,DRG48201,S0910XA,"Unspecified injury of muscle and tendon of head, initial encounter"
+618,DRG48201,S0911XA,"Strain of muscle and tendon of head, initial encounter"
+619,DRG48201,S0919XA,"Other specified injury of muscle and tendon of head, initial encounter"
+620,DRG48201,S098XXA,"Other specified injuries of head, initial encounter"
+621,DRG48201,S0990XA,"Unspecified injury of head, initial encounter"
+622,DRG48201,S0992XA,"Unspecified injury of nose, initial encounter"
+623,DRG48201,S0993XA,"Unspecified injury of face, initial encounter"
+624,DRG48201,S11011A,"Laceration without foreign body of larynx, initial encounter"
+625,DRG48201,S11012A,"Laceration with foreign body of larynx, initial encounter"
+626,DRG48201,S11013A,"Puncture wound without foreign body of larynx, initial encounter"
+627,DRG48201,S11014A,"Puncture wound with foreign body of larynx, initial encounter"
+628,DRG48201,S11015A,"Open bite of larynx, initial encounter"
+629,DRG48201,S11019A,"Unspecified open wound of larynx, initial encounter"
+630,DRG48201,S11021A,"Laceration without foreign body of trachea, initial encounter"
+631,DRG48201,S11022A,"Laceration with foreign body of trachea, initial encounter"
+632,DRG48201,S11023A,"Puncture wound without foreign body of trachea, initial encounter"
+633,DRG48201,S11024A,"Puncture wound with foreign body of trachea, initial encounter"
+634,DRG48201,S11025A,"Open bite of trachea, initial encounter"
+635,DRG48201,S11029A,"Unspecified open wound of trachea, initial encounter"
+636,DRG48201,S11031A,"Laceration without foreign body of vocal cord, initial encounter"
+637,DRG48201,S11032A,"Laceration with foreign body of vocal cord, initial encounter"
+638,DRG48201,S11033A,"Puncture wound without foreign body of vocal cord, initial encounter"
+639,DRG48201,S11034A,"Puncture wound with foreign body of vocal cord, initial encounter"
+640,DRG48201,S11035A,"Open bite of vocal cord, initial encounter"
+641,DRG48201,S11039A,"Unspecified open wound of vocal cord, initial encounter"
+642,DRG48201,S1110XA,"Unspecified open wound of thyroid gland, initial encounter"
+643,DRG48201,S1111XA,"Laceration without foreign body of thyroid gland, initial encounter"
+644,DRG48201,S1112XA,"Laceration with foreign body of thyroid gland, initial encounter"
+645,DRG48201,S1113XA,"Puncture wound without foreign body of thyroid gland, initial encounter"
+646,DRG48201,S1114XA,"Puncture wound with foreign body of thyroid gland, initial encounter"
+647,DRG48201,S1115XA,"Open bite of thyroid gland, initial encounter"
+648,DRG48201,S1120XA,"Unspecified open wound of pharynx and cervical esophagus, initial encounter"
+649,DRG48201,S1121XA,"Laceration without foreign body of pharynx and cervical esophagus, initial encounter"
+650,DRG48201,S1122XA,"Laceration with foreign body of pharynx and cervical esophagus, initial encounter"
+651,DRG48201,S1123XA,"Puncture wound without foreign body of pharynx and cervical esophagus, initial encounter"
+652,DRG48201,S1124XA,"Puncture wound with foreign body of pharynx and cervical esophagus, initial encounter"
+653,DRG48201,S1125XA,"Open bite of pharynx and cervical esophagus, initial encounter"
+654,DRG48201,S1180XA,"Unspecified open wound of other specified part of neck, initial encounter"
+655,DRG48201,S1181XA,"Laceration without foreign body of other specified part of neck, initial encounter"
+656,DRG48201,S1182XA,"Laceration with foreign body of other specified part of neck, initial encounter"
+657,DRG48201,S1183XA,"Puncture wound without foreign body of other specified part of neck, initial encounter"
+658,DRG48201,S1184XA,"Puncture wound with foreign body of other specified part of neck, initial encounter"
+659,DRG48201,S1185XA,"Open bite of other specified part of neck, initial encounter"
+660,DRG48201,S1189XA,"Other open wound of other specified part of neck, initial encounter"
+661,DRG48201,S1190XA,"Unspecified open wound of unspecified part of neck, initial encounter"
+662,DRG48201,S1191XA,"Laceration without foreign body of unspecified part of neck, initial encounter"
+663,DRG48201,S1192XA,"Laceration with foreign body of unspecified part of neck, initial encounter"
+664,DRG48201,S1193XA,"Puncture wound without foreign body of unspecified part of neck, initial encounter"
+665,DRG48201,S1194XA,"Puncture wound with foreign body of unspecified part of neck, initial encounter"
+666,DRG48201,S1195XA,"Open bite of unspecified part of neck, initial encounter"
+667,DRG48201,S128XXA,"Fracture of other parts of neck, initial encounter"
+668,DRG48201,S15101A,"Unspecified injury of right vertebral artery, initial encounter"
+669,DRG48201,S15102A,"Unspecified injury of left vertebral artery, initial encounter"
+670,DRG48201,S15109A,"Unspecified injury of unspecified vertebral artery, initial encounter"
+671,DRG48201,S15111A,"Minor laceration of right vertebral artery, initial encounter"
+672,DRG48201,S15112A,"Minor laceration of left vertebral artery, initial encounter"
+673,DRG48201,S15119A,"Minor laceration of unspecified vertebral artery, initial encounter"
+674,DRG48201,S15121A,"Major laceration of right vertebral artery, initial encounter"
+675,DRG48201,S15122A,"Major laceration of left vertebral artery, initial encounter"
+676,DRG48201,S15129A,"Major laceration of unspecified vertebral artery, initial encounter"
+677,DRG48201,S15191A,"Other specified injury of right vertebral artery, initial encounter"
+678,DRG48201,S15192A,"Other specified injury of left vertebral artery, initial encounter"
+679,DRG48201,S15199A,"Other specified injury of unspecified vertebral artery, initial encounter"
+680,DRG48201,S158XXA,"Injury of other specified blood vessels at neck level, initial encounter"
+681,DRG48201,S159XXA,"Injury of unspecified blood vessel at neck level, initial encounter"
+682,DRG48201,S162XXA,"Laceration of muscle, fascia and tendon at neck level, initial encounter"
+683,DRG48201,S168XXA,"Other specified injury of muscle, fascia and tendon at neck level, initial encounter"
+684,DRG48201,S169XXA,"Unspecified injury of muscle, fascia and tendon at neck level, initial encounter"
+685,DRG48201,S170XXA,"Crushing injury of larynx and trachea, initial encounter"
+686,DRG48201,S178XXA,"Crushing injury of other specified parts of neck, initial encounter"
+687,DRG48201,S179XXA,"Crushing injury of neck, part unspecified, initial encounter"
+688,DRG48201,S1980XA,"Other specified injuries of unspecified part of neck, initial encounter"
+689,DRG48201,S1981XA,"Other specified injuries of larynx, initial encounter"
+690,DRG48201,S1982XA,"Other specified injuries of cervical trachea, initial encounter"
+691,DRG48201,S1983XA,"Other specified injuries of vocal cord, initial encounter"
+692,DRG48201,S1984XA,"Other specified injuries of thyroid gland, initial encounter"
+693,DRG48201,S1985XA,"Other specified injuries of pharynx and cervical esophagus, initial encounter"
+694,DRG48201,S1989XA,"Other specified injuries of other specified part of neck, initial encounter"
+695,DRG48201,S199XXA,"Unspecified injury of neck, initial encounter"
+696,DRG48201,T17200A,"Unspecified foreign body in pharynx causing asphyxiation, initial encounter"
+697,DRG48201,T17208A,"Unspecified foreign body in pharynx causing other injury, initial encounter"
+698,DRG48201,T17210A,"Gastric contents in pharynx causing asphyxiation, initial encounter"
+699,DRG48201,T17218A,"Gastric contents in pharynx causing other injury, initial encounter"
+700,DRG48201,T17220A,"Food in pharynx causing asphyxiation, initial encounter"
+701,DRG48201,T17228A,"Food in pharynx causing other injury, initial encounter"
+702,DRG48201,T17290A,"Other foreign object in pharynx causing asphyxiation, initial encounter"
+703,DRG48201,T17298A,"Other foreign object in pharynx causing other injury, initial encounter"
+704,DRG48201,T17300A,"Unspecified foreign body in larynx causing asphyxiation, initial encounter"
+705,DRG48201,T17308A,"Unspecified foreign body in larynx causing other injury, initial encounter"
+706,DRG48201,T17310A,"Gastric contents in larynx causing asphyxiation, initial encounter"
+707,DRG48201,T17318A,"Gastric contents in larynx causing other injury, initial encounter"
+708,DRG48201,T17320A,"Food in larynx causing asphyxiation, initial encounter"
+709,DRG48201,T17328A,"Food in larynx causing other injury, initial encounter"
+710,DRG48201,T17390A,"Other foreign object in larynx causing asphyxiation, initial encounter"
+711,DRG48201,T17398A,"Other foreign object in larynx causing other injury, initial encounter"
+712,DRG48201,T180XXA,"Foreign body in mouth, initial encounter"
+713,DRG48201,T280XXA,"Burn of mouth and pharynx, initial encounter"
+714,DRG48201,T285XXA,"Corrosion of mouth and pharynx, initial encounter"
+717,DRG48201,0B110F4,"Bypass Trachea to Cutaneous with Tracheostomy Device, Open Approach"
+718,DRG48201,0B110Z4,"Bypass Trachea to Cutaneous, Open Approach"
+719,DRG48201,0B113F4,"Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Approach"
+720,DRG48201,0B113Z4,"Bypass Trachea to Cutaneous, Percutaneous Approach"
+721,DRG48201,0B114F4,"Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Endoscopic Approach"
+722,DRG48201,0B114Z4,"Bypass Trachea to Cutaneous, Percutaneous Endoscopic Approach"
+723,DRG48201,0CTS0ZZ,"Resection of Larynx, Open Approach"
+724,DRG48201,0CTS4ZZ,"Resection of Larynx, Percutaneous Endoscopic Approach"
+725,DRG48201,0CTS7ZZ,"Resection of Larynx, Via Natural or Artificial Opening"
+726,DRG48201,0CTS8ZZ,"Resection of Larynx, Via Natural or Artificial Opening Endoscopic"

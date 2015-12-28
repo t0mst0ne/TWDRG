@@ -1,0 +1,84 @@
+,DRG,CM-PCS,en
+36657,DRG12201,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery
+36658,DRG12201,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+36659,DRG12201,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+36660,DRG12201,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery
+36661,DRG12201,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+36662,DRG12201,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+36663,DRG12201,I2129,ST elevation (STEMI) myocardial infarction involving other sites
+36664,DRG12201,I213,ST elevation (STEMI) myocardial infarction of unspecified site
+36665,DRG12201,I214,Non-ST elevation (NSTEMI) myocardial infarction
+36666,DRG12201,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+36667,DRG12201,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+36668,DRG12201,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+36669,DRG12201,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+36670,DRG12201,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+36673,DRG12201,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
+36674,DRG12201,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
+36675,DRG12201,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
+36676,DRG12201,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+36677,DRG12201,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
+36678,DRG12201,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
+36679,DRG12201,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
+36680,DRG12201,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+36681,DRG12201,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+36682,DRG12201,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
+36683,DRG12201,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
+36684,DRG12201,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
+36685,DRG12201,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
+36686,DRG12201,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
+36687,DRG12201,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
+36688,DRG12201,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+36689,DRG12201,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+36690,DRG12201,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
+36691,DRG12201,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+36692,DRG12201,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+36693,DRG12201,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
+36694,DRG12201,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
+36695,DRG12201,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
+36696,DRG12201,B204YZZ,Plain Radiography of Right Heart using Other Contrast
+36697,DRG12201,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
+36698,DRG12201,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
+36699,DRG12201,B205YZZ,Plain Radiography of Left Heart using Other Contrast
+36700,DRG12201,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
+36701,DRG12201,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
+36702,DRG12201,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
+36703,DRG12201,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+36704,DRG12201,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+36705,DRG12201,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
+36706,DRG12201,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+36707,DRG12201,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+36708,DRG12201,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
+36709,DRG12201,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
+36710,DRG12201,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
+36711,DRG12201,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
+36712,DRG12201,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
+36713,DRG12201,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
+36714,DRG12201,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
+36715,DRG12201,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
+36716,DRG12201,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
+36717,DRG12201,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
+36718,DRG12201,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+36719,DRG12201,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+36720,DRG12201,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
+36721,DRG12201,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+36722,DRG12201,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+36723,DRG12201,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
+36724,DRG12201,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
+36725,DRG12201,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
+36726,DRG12201,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
+36727,DRG12201,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
+36728,DRG12201,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
+36729,DRG12201,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
+36730,DRG12201,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
+36731,DRG12201,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
+36732,DRG12201,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
+36733,DRG12201,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+36734,DRG12201,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+36735,DRG12201,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
+36736,DRG12201,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+36737,DRG12201,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+36738,DRG12201,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
+36739,DRG12201,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
+36740,DRG12201,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
+36741,DRG12201,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast

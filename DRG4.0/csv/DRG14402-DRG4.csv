@@ -1,0 +1,52 @@
+,DRG,CM-PCS,en
+39059,DRG14402,A3681,Diphtheritic cardiomyopathy
+39060,DRG14402,A3950,"Meningococcal carditis, unspecified"
+39061,DRG14402,A3952,Meningococcal myocarditis
+39062,DRG14402,A3953,Meningococcal pericarditis
+39063,DRG14402,A5200,"Cardiovascular syphilis, unspecified"
+39064,DRG14402,A5204,Syphilitic cerebral arteritis
+39065,DRG14402,A5205,Other cerebrovascular syphilis
+39066,DRG14402,A5206,Other syphilitic heart involvement
+39067,DRG14402,A5209,Other cardiovascular syphilis
+39068,DRG14402,A5483,Gonococcal heart infection
+39069,DRG14402,B3320,"Viral carditis, unspecified"
+39070,DRG14402,B3322,Viral myocarditis
+39071,DRG14402,B3323,Viral pericarditis
+39072,DRG14402,B570,Acute Chagas' disease with heart involvement
+39073,DRG14402,B572,Chagas' disease (chronic) with heart involvement
+39074,DRG14402,B5881,Toxoplasma myocarditis
+39075,DRG14402,D1800,Hemangioma unspecified site
+39076,DRG14402,D1809,Hemangioma of other sites
+39077,DRG14402,I010,Acute rheumatic pericarditis
+39078,DRG14402,I012,Acute rheumatic myocarditis
+39079,DRG14402,I018,Other acute rheumatic heart disease
+39080,DRG14402,I019,"Acute rheumatic heart disease, unspecified"
+39081,DRG14402,I020,Rheumatic chorea with heart involvement
+39082,DRG14402,I029,Rheumatic chorea without heart involvement
+39083,DRG14402,I090,Rheumatic myocarditis
+39084,DRG14402,I092,Chronic rheumatic pericarditis
+39085,DRG14402,I099,"Rheumatic heart disease, unspecified"
+39086,DRG14402,I300,Acute nonspecific idiopathic pericarditis
+39087,DRG14402,I301,Infective pericarditis
+39088,DRG14402,I308,Other forms of acute pericarditis
+39089,DRG14402,I309,"Acute pericarditis, unspecified"
+39090,DRG14402,I310,Chronic adhesive pericarditis
+39091,DRG14402,I311,Chronic constrictive pericarditis
+39092,DRG14402,I312,"Hemopericardium, not elsewhere classified"
+39093,DRG14402,I313,Pericardial effusion (noninflammatory)
+39094,DRG14402,I318,Other specified diseases of pericardium
+39095,DRG14402,I319,"Disease of pericardium, unspecified"
+39096,DRG14402,I401,Isolated myocarditis
+39097,DRG14402,I409,"Acute myocarditis, unspecified"
+39098,DRG14402,I420,Dilated cardiomyopathy
+39099,DRG14402,I421,Obstructive hypertrophic cardiomyopathy
+39100,DRG14402,I422,Other hypertrophic cardiomyopathy
+39101,DRG14402,I423,Endomyocardial (eosinophilic) disease
+39102,DRG14402,I424,Endocardial fibroelastosis
+39103,DRG14402,I425,Other restrictive cardiomyopathy
+39104,DRG14402,I426,Alcoholic cardiomyopathy
+39105,DRG14402,I427,Cardiomyopathy due to drug and external agent
+39106,DRG14402,I428,Other cardiomyopathies
+39107,DRG14402,I429,"Cardiomyopathy, unspecified"
+39108,DRG14402,I514,"Myocarditis, unspecified"
+39109,DRG14402,I515,Myocardial degeneration

@@ -1,0 +1,72 @@
+,DRG,CM-PCS,en
+7705,DRG36801,A1816,Tuberculosis of cervix
+7706,DRG36801,A1817,Tuberculous female pelvic inflammatory disease
+7707,DRG36801,A1818,Tuberculosis of other female genital organs
+7708,DRG36801,A510,Primary genital syphilis
+7709,DRG36801,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
+7710,DRG36801,A5402,"Gonococcal vulvovaginitis, unspecified"
+7711,DRG36801,A5403,"Gonococcal cervicitis, unspecified"
+7712,DRG36801,A5409,Other gonococcal infection of lower genitourinary tract
+7713,DRG36801,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+7714,DRG36801,A5421,Gonococcal infection of kidney and ureter
+7715,DRG36801,A5424,Gonococcal female pelvic inflammatory disease
+7716,DRG36801,A5429,Other gonococcal genitourinary infections
+7717,DRG36801,A55,Chlamydial lymphogranuloma (venereum)
+7718,DRG36801,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
+7719,DRG36801,A5601,Chlamydial cystitis and urethritis
+7720,DRG36801,A5602,Chlamydial vulvovaginitis
+7721,DRG36801,A5609,Other chlamydial infection of lower genitourinary tract
+7722,DRG36801,A562,"Chlamydial infection of genitourinary tract, unspecified"
+7723,DRG36801,A568,Sexually transmitted chlamydial infection of other sites
+7724,DRG36801,A57,Chancroid
+7725,DRG36801,A58,Granuloma inguinale
+7726,DRG36801,A5900,"Urogenital trichomoniasis, unspecified"
+7727,DRG36801,A5901,Trichomonal vulvovaginitis
+7728,DRG36801,A5903,Trichomonal cystitis and urethritis
+7729,DRG36801,A5909,Other urogenital trichomoniasis
+7730,DRG36801,A6000,"Herpesviral infection of urogenital system, unspecified"
+7731,DRG36801,A6003,Herpesviral cervicitis
+7732,DRG36801,A6004,Herpesviral vulvovaginitis
+7733,DRG36801,A6009,Herpesviral infection of other urogenital tract
+7734,DRG36801,A601,Herpesviral infection of perianal skin and rectum
+7735,DRG36801,A609,"Anogenital herpesviral infection, unspecified"
+7736,DRG36801,A638,Other specified predominantly sexually transmitted diseases
+7737,DRG36801,A64,Unspecified sexually transmitted disease
+7738,DRG36801,B373,Candidiasis of vulva and vagina
+7739,DRG36801,B3741,Candidal cystitis and urethritis
+7740,DRG36801,B3749,Other urogenital candidiasis
+7741,DRG36801,L292,Pruritus vulvae
+7742,DRG36801,L293,"Anogenital pruritus, unspecified"
+7743,DRG36801,N341,Nonspecific urethritis
+7744,DRG36801,N7001,Acute salpingitis
+7745,DRG36801,N7002,Acute oophoritis
+7746,DRG36801,N7003,Acute salpingitis and oophoritis
+7747,DRG36801,N7011,Chronic salpingitis
+7748,DRG36801,N7012,Chronic oophoritis
+7749,DRG36801,N7013,Chronic salpingitis and oophoritis
+7750,DRG36801,N7091,"Salpingitis, unspecified"
+7751,DRG36801,N7092,"Oophoritis, unspecified"
+7752,DRG36801,N7093,"Salpingitis and oophoritis, unspecified"
+7753,DRG36801,N710,Acute inflammatory disease of uterus
+7754,DRG36801,N711,Chronic inflammatory disease of uterus
+7755,DRG36801,N719,"Inflammatory disease of uterus, unspecified"
+7756,DRG36801,N72,Inflammatory disease of cervix uteri
+7757,DRG36801,N730,Acute parametritis and pelvic cellulitis
+7758,DRG36801,N731,Chronic parametritis and pelvic cellulitis
+7759,DRG36801,N732,Unspecified parametritis and pelvic cellulitis
+7760,DRG36801,N733,Female acute pelvic peritonitis
+7761,DRG36801,N734,Female chronic pelvic peritonitis
+7762,DRG36801,N735,"Female pelvic peritonitis, unspecified"
+7763,DRG36801,N738,Other specified female pelvic inflammatory diseases
+7764,DRG36801,N739,"Female pelvic inflammatory disease, unspecified"
+7765,DRG36801,N751,Abscess of Bartholin's gland
+7766,DRG36801,N759,"Disease of Bartholin's gland, unspecified"
+7767,DRG36801,N760,Acute vaginitis
+7768,DRG36801,N761,Subacute and chronic vaginitis
+7769,DRG36801,N762,Acute vulvitis
+7770,DRG36801,N763,Subacute and chronic vulvitis
+7771,DRG36801,N764,Abscess of vulva
+7772,DRG36801,N765,Ulceration of vagina
+7773,DRG36801,N7681,Mucositis (ulcerative) of vagina and vulva
+7774,DRG36801,N7689,Other specified inflammation of vagina and vulva
+7775,DRG36801,N94810,Vulvar vestibulitis

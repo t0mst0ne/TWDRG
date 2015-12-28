@@ -1,0 +1,9 @@
+,DRG,CM-PCS,en
+5924,DRG07802,I2692,Saddle embolus of pulmonary artery without acute cor pulmonale
+5925,DRG07802,I2699,Other pulmonary embolism without acute cor pulmonale
+5926,DRG07802,I2782,Chronic pulmonary embolism
+5927,DRG07802,T790XXA,"Air embolism (traumatic), initial encounter"
+5928,DRG07802,T791XXA,"Fat embolism (traumatic), initial encounter"
+5929,DRG07802,T800XXA,"Air embolism following infusion, transfusion and therapeutic injection, initial encounter"
+5932,DRG07802,3E00003,Anticoagulant  drug therapy
+5933,DRG07802,3E00004,Interventional thrombolytic therapy

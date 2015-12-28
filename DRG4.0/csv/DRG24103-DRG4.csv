@@ -1,0 +1,390 @@
+,DRG,CM-PCS,en
+47300,DRG24103,I00,Rheumatic fever without heart involvement
+47301,DRG24103,I7300,Raynaud's syndrome without gangrene
+47302,DRG24103,I7301,Raynaud's syndrome with gangrene
+47303,DRG24103,L4050,"Arthropathic psoriasis, unspecified"
+47304,DRG24103,L4051,Distal interphalangeal psoriatic arthropathy
+47305,DRG24103,L4052,Psoriatic arthritis mutilans
+47306,DRG24103,L4053,Psoriatic spondylitis
+47307,DRG24103,L4054,Psoriatic juvenile arthropathy
+47308,DRG24103,L4059,Other psoriatic arthropathy
+47309,DRG24103,M0230,"Reiter's disease, unspecified site"
+47310,DRG24103,M02311,"Reiter's disease, right shoulder"
+47311,DRG24103,M02312,"Reiter's disease, left shoulder"
+47312,DRG24103,M02319,"Reiter's disease, unspecified shoulder"
+47313,DRG24103,M02321,"Reiter's disease, right elbow"
+47314,DRG24103,M02322,"Reiter's disease, left elbow"
+47315,DRG24103,M02329,"Reiter's disease, unspecified elbow"
+47316,DRG24103,M02331,"Reiter's disease, right wrist"
+47317,DRG24103,M02332,"Reiter's disease, left wrist"
+47318,DRG24103,M02339,"Reiter's disease, unspecified wrist"
+47319,DRG24103,M02341,"Reiter's disease, right hand"
+47320,DRG24103,M02342,"Reiter's disease, left hand"
+47321,DRG24103,M02349,"Reiter's disease, unspecified hand"
+47322,DRG24103,M02351,"Reiter's disease, right hip"
+47323,DRG24103,M02352,"Reiter's disease, left hip"
+47324,DRG24103,M02359,"Reiter's disease, unspecified hip"
+47325,DRG24103,M02361,"Reiter's disease, right knee"
+47326,DRG24103,M02362,"Reiter's disease, left knee"
+47327,DRG24103,M02369,"Reiter's disease, unspecified knee"
+47328,DRG24103,M02371,"Reiter's disease, right ankle and foot"
+47329,DRG24103,M02372,"Reiter's disease, left ankle and foot"
+47330,DRG24103,M02379,"Reiter's disease, unspecified ankle and foot"
+47331,DRG24103,M0238,"Reiter's disease, vertebrae"
+47332,DRG24103,M0239,"Reiter's disease, multiple sites"
+47333,DRG24103,M0500,"Felty's syndrome, unspecified site"
+47334,DRG24103,M05011,"Felty's syndrome, right shoulder"
+47335,DRG24103,M05012,"Felty's syndrome, left shoulder"
+47336,DRG24103,M05019,"Felty's syndrome, unspecified shoulder"
+47337,DRG24103,M05021,"Felty's syndrome, right elbow"
+47338,DRG24103,M05022,"Felty's syndrome, left elbow"
+47339,DRG24103,M05029,"Felty's syndrome, unspecified elbow"
+47340,DRG24103,M05031,"Felty's syndrome, right wrist"
+47341,DRG24103,M05032,"Felty's syndrome, left wrist"
+47342,DRG24103,M05039,"Felty's syndrome, unspecified wrist"
+47343,DRG24103,M05041,"Felty's syndrome, right hand"
+47344,DRG24103,M05042,"Felty's syndrome, left hand"
+47345,DRG24103,M05049,"Felty's syndrome, unspecified hand"
+47346,DRG24103,M05051,"Felty's syndrome, right hip"
+47347,DRG24103,M05052,"Felty's syndrome, left hip"
+47348,DRG24103,M05059,"Felty's syndrome, unspecified hip"
+47349,DRG24103,M05061,"Felty's syndrome, right knee"
+47350,DRG24103,M05062,"Felty's syndrome, left knee"
+47351,DRG24103,M05069,"Felty's syndrome, unspecified knee"
+47352,DRG24103,M05071,"Felty's syndrome, right ankle and foot"
+47353,DRG24103,M05072,"Felty's syndrome, left ankle and foot"
+47354,DRG24103,M05079,"Felty's syndrome, unspecified ankle and foot"
+47355,DRG24103,M0509,"Felty's syndrome, multiple sites"
+47356,DRG24103,M0540,Rheumatoid myopathy with rheumatoid arthritis of unspecified site
+47357,DRG24103,M05411,Rheumatoid myopathy with rheumatoid arthritis of right shoulder
+47358,DRG24103,M05412,Rheumatoid myopathy with rheumatoid arthritis of left shoulder
+47359,DRG24103,M05419,Rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder
+47360,DRG24103,M05421,Rheumatoid myopathy with rheumatoid arthritis of right elbow
+47361,DRG24103,M05422,Rheumatoid myopathy with rheumatoid arthritis of left elbow
+47362,DRG24103,M05429,Rheumatoid myopathy with rheumatoid arthritis of unspecified elbow
+47363,DRG24103,M05431,Rheumatoid myopathy with rheumatoid arthritis of right wrist
+47364,DRG24103,M05432,Rheumatoid myopathy with rheumatoid arthritis of left wrist
+47365,DRG24103,M05439,Rheumatoid myopathy with rheumatoid arthritis of unspecified wrist
+47366,DRG24103,M05441,Rheumatoid myopathy with rheumatoid arthritis of right hand
+47367,DRG24103,M05442,Rheumatoid myopathy with rheumatoid arthritis of left hand
+47368,DRG24103,M05449,Rheumatoid myopathy with rheumatoid arthritis of unspecified hand
+47369,DRG24103,M05451,Rheumatoid myopathy with rheumatoid arthritis of right hip
+47370,DRG24103,M05452,Rheumatoid myopathy with rheumatoid arthritis of left hip
+47371,DRG24103,M05459,Rheumatoid myopathy with rheumatoid arthritis of unspecified hip
+47372,DRG24103,M05461,Rheumatoid myopathy with rheumatoid arthritis of right knee
+47373,DRG24103,M05462,Rheumatoid myopathy with rheumatoid arthritis of left knee
+47374,DRG24103,M05469,Rheumatoid myopathy with rheumatoid arthritis of unspecified knee
+47375,DRG24103,M05471,Rheumatoid myopathy with rheumatoid arthritis of right ankle and foot
+47376,DRG24103,M05472,Rheumatoid myopathy with rheumatoid arthritis of left ankle and foot
+47377,DRG24103,M05479,Rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot
+47378,DRG24103,M0549,Rheumatoid myopathy with rheumatoid arthritis of multiple sites
+47379,DRG24103,M0550,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site
+47380,DRG24103,M05511,Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder
+47381,DRG24103,M05512,Rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder
+47382,DRG24103,M05519,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder
+47383,DRG24103,M05521,Rheumatoid polyneuropathy with rheumatoid arthritis of right elbow
+47384,DRG24103,M05522,Rheumatoid polyneuropathy with rheumatoid arthritis of left elbow
+47385,DRG24103,M05529,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow
+47386,DRG24103,M05531,Rheumatoid polyneuropathy with rheumatoid arthritis of right wrist
+47387,DRG24103,M05532,Rheumatoid polyneuropathy with rheumatoid arthritis of left wrist
+47388,DRG24103,M05539,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist
+47389,DRG24103,M05541,Rheumatoid polyneuropathy with rheumatoid arthritis of right hand
+47390,DRG24103,M05542,Rheumatoid polyneuropathy with rheumatoid arthritis of left hand
+47391,DRG24103,M05549,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand
+47392,DRG24103,M05551,Rheumatoid polyneuropathy with rheumatoid arthritis of right hip
+47393,DRG24103,M05552,Rheumatoid polyneuropathy with rheumatoid arthritis of left hip
+47394,DRG24103,M05559,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip
+47395,DRG24103,M05561,Rheumatoid polyneuropathy with rheumatoid arthritis of right knee
+47396,DRG24103,M05562,Rheumatoid polyneuropathy with rheumatoid arthritis of left knee
+47397,DRG24103,M05569,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee
+47398,DRG24103,M05571,Rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot
+47399,DRG24103,M05572,Rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot
+47400,DRG24103,M05579,Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot
+47401,DRG24103,M0559,Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites
+47402,DRG24103,M0570,Rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement
+47403,DRG24103,M05711,Rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement
+47404,DRG24103,M05712,Rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement
+47405,DRG24103,M05719,Rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement
+47406,DRG24103,M05721,Rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement
+47407,DRG24103,M05722,Rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement
+47408,DRG24103,M05729,Rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement
+47409,DRG24103,M05731,Rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement
+47410,DRG24103,M05732,Rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement
+47411,DRG24103,M05739,Rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement
+47412,DRG24103,M05741,Rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement
+47413,DRG24103,M05742,Rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement
+47414,DRG24103,M05749,Rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement
+47415,DRG24103,M05751,Rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement
+47416,DRG24103,M05752,Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement
+47417,DRG24103,M05759,Rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement
+47418,DRG24103,M05761,Rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement
+47419,DRG24103,M05762,Rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement
+47420,DRG24103,M05769,Rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement
+47421,DRG24103,M05771,Rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement
+47422,DRG24103,M05772,Rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement
+47423,DRG24103,M05779,Rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement
+47424,DRG24103,M0579,Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement
+47425,DRG24103,M0580,Other rheumatoid arthritis with rheumatoid factor of unspecified site
+47426,DRG24103,M05811,Other rheumatoid arthritis with rheumatoid factor of right shoulder
+47427,DRG24103,M05812,Other rheumatoid arthritis with rheumatoid factor of left shoulder
+47428,DRG24103,M05819,Other rheumatoid arthritis with rheumatoid factor of unspecified shoulder
+47429,DRG24103,M05821,Other rheumatoid arthritis with rheumatoid factor of right elbow
+47430,DRG24103,M05822,Other rheumatoid arthritis with rheumatoid factor of left elbow
+47431,DRG24103,M05829,Other rheumatoid arthritis with rheumatoid factor of unspecified elbow
+47432,DRG24103,M05831,Other rheumatoid arthritis with rheumatoid factor of right wrist
+47433,DRG24103,M05832,Other rheumatoid arthritis with rheumatoid factor of left wrist
+47434,DRG24103,M05839,Other rheumatoid arthritis with rheumatoid factor of unspecified wrist
+47435,DRG24103,M05841,Other rheumatoid arthritis with rheumatoid factor of right hand
+47436,DRG24103,M05842,Other rheumatoid arthritis with rheumatoid factor of left hand
+47437,DRG24103,M05849,Other rheumatoid arthritis with rheumatoid factor of unspecified hand
+47438,DRG24103,M05851,Other rheumatoid arthritis with rheumatoid factor of right hip
+47439,DRG24103,M05852,Other rheumatoid arthritis with rheumatoid factor of left hip
+47440,DRG24103,M05859,Other rheumatoid arthritis with rheumatoid factor of unspecified hip
+47441,DRG24103,M05861,Other rheumatoid arthritis with rheumatoid factor of right knee
+47442,DRG24103,M05862,Other rheumatoid arthritis with rheumatoid factor of left knee
+47443,DRG24103,M05869,Other rheumatoid arthritis with rheumatoid factor of unspecified knee
+47444,DRG24103,M05871,Other rheumatoid arthritis with rheumatoid factor of right ankle and foot
+47445,DRG24103,M05872,Other rheumatoid arthritis with rheumatoid factor of left ankle and foot
+47446,DRG24103,M05879,Other rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot
+47447,DRG24103,M0589,Other rheumatoid arthritis with rheumatoid factor of multiple sites
+47448,DRG24103,M059,"Rheumatoid arthritis with rheumatoid factor, unspecified"
+47449,DRG24103,M0600,"Rheumatoid arthritis without rheumatoid factor, unspecified site"
+47450,DRG24103,M06011,"Rheumatoid arthritis without rheumatoid factor, right shoulder"
+47451,DRG24103,M06012,"Rheumatoid arthritis without rheumatoid factor, left shoulder"
+47452,DRG24103,M06019,"Rheumatoid arthritis without rheumatoid factor, unspecified shoulder"
+47453,DRG24103,M06021,"Rheumatoid arthritis without rheumatoid factor, right elbow"
+47454,DRG24103,M06022,"Rheumatoid arthritis without rheumatoid factor, left elbow"
+47455,DRG24103,M06029,"Rheumatoid arthritis without rheumatoid factor, unspecified elbow"
+47456,DRG24103,M06031,"Rheumatoid arthritis without rheumatoid factor, right wrist"
+47457,DRG24103,M06032,"Rheumatoid arthritis without rheumatoid factor, left wrist"
+47458,DRG24103,M06039,"Rheumatoid arthritis without rheumatoid factor, unspecified wrist"
+47459,DRG24103,M06041,"Rheumatoid arthritis without rheumatoid factor, right hand"
+47460,DRG24103,M06042,"Rheumatoid arthritis without rheumatoid factor, left hand"
+47461,DRG24103,M06049,"Rheumatoid arthritis without rheumatoid factor, unspecified hand"
+47462,DRG24103,M06051,"Rheumatoid arthritis without rheumatoid factor, right hip"
+47463,DRG24103,M06052,"Rheumatoid arthritis without rheumatoid factor, left hip"
+47464,DRG24103,M06059,"Rheumatoid arthritis without rheumatoid factor, unspecified hip"
+47465,DRG24103,M06061,"Rheumatoid arthritis without rheumatoid factor, right knee"
+47466,DRG24103,M06062,"Rheumatoid arthritis without rheumatoid factor, left knee"
+47467,DRG24103,M06069,"Rheumatoid arthritis without rheumatoid factor, unspecified knee"
+47468,DRG24103,M06071,"Rheumatoid arthritis without rheumatoid factor, right ankle and foot"
+47469,DRG24103,M06072,"Rheumatoid arthritis without rheumatoid factor, left ankle and foot"
+47470,DRG24103,M06079,"Rheumatoid arthritis without rheumatoid factor, unspecified ankle and foot"
+47471,DRG24103,M0608,"Rheumatoid arthritis without rheumatoid factor, vertebrae"
+47472,DRG24103,M0609,"Rheumatoid arthritis without rheumatoid factor, multiple sites"
+47473,DRG24103,M061,Adult-onset Still's disease
+47474,DRG24103,M0620,"Rheumatoid bursitis, unspecified site"
+47475,DRG24103,M06211,"Rheumatoid bursitis, right shoulder"
+47476,DRG24103,M06212,"Rheumatoid bursitis, left shoulder"
+47477,DRG24103,M06219,"Rheumatoid bursitis, unspecified shoulder"
+47478,DRG24103,M06221,"Rheumatoid bursitis, right elbow"
+47479,DRG24103,M06222,"Rheumatoid bursitis, left elbow"
+47480,DRG24103,M06229,"Rheumatoid bursitis, unspecified elbow"
+47481,DRG24103,M06231,"Rheumatoid bursitis, right wrist"
+47482,DRG24103,M06232,"Rheumatoid bursitis, left wrist"
+47483,DRG24103,M06239,"Rheumatoid bursitis, unspecified wrist"
+47484,DRG24103,M06241,"Rheumatoid bursitis, right hand"
+47485,DRG24103,M06242,"Rheumatoid bursitis, left hand"
+47486,DRG24103,M06249,"Rheumatoid bursitis, unspecified hand"
+47487,DRG24103,M06251,"Rheumatoid bursitis, right hip"
+47488,DRG24103,M06252,"Rheumatoid bursitis, left hip"
+47489,DRG24103,M06259,"Rheumatoid bursitis, unspecified hip"
+47490,DRG24103,M06261,"Rheumatoid bursitis, right knee"
+47491,DRG24103,M06262,"Rheumatoid bursitis, left knee"
+47492,DRG24103,M06269,"Rheumatoid bursitis, unspecified knee"
+47493,DRG24103,M06271,"Rheumatoid bursitis, right ankle and foot"
+47494,DRG24103,M06272,"Rheumatoid bursitis, left ankle and foot"
+47495,DRG24103,M06279,"Rheumatoid bursitis, unspecified ankle and foot"
+47496,DRG24103,M0628,"Rheumatoid bursitis, vertebrae"
+47497,DRG24103,M0629,"Rheumatoid bursitis, multiple sites"
+47498,DRG24103,M0630,"Rheumatoid nodule, unspecified site"
+47499,DRG24103,M06311,"Rheumatoid nodule, right shoulder"
+47500,DRG24103,M06312,"Rheumatoid nodule, left shoulder"
+47501,DRG24103,M06319,"Rheumatoid nodule, unspecified shoulder"
+47502,DRG24103,M06321,"Rheumatoid nodule, right elbow"
+47503,DRG24103,M06322,"Rheumatoid nodule, left elbow"
+47504,DRG24103,M06329,"Rheumatoid nodule, unspecified elbow"
+47505,DRG24103,M06331,"Rheumatoid nodule, right wrist"
+47506,DRG24103,M06332,"Rheumatoid nodule, left wrist"
+47507,DRG24103,M06339,"Rheumatoid nodule, unspecified wrist"
+47508,DRG24103,M06341,"Rheumatoid nodule, right hand"
+47509,DRG24103,M06342,"Rheumatoid nodule, left hand"
+47510,DRG24103,M06349,"Rheumatoid nodule, unspecified hand"
+47511,DRG24103,M06351,"Rheumatoid nodule, right hip"
+47512,DRG24103,M06352,"Rheumatoid nodule, left hip"
+47513,DRG24103,M06359,"Rheumatoid nodule, unspecified hip"
+47514,DRG24103,M06361,"Rheumatoid nodule, right knee"
+47515,DRG24103,M06362,"Rheumatoid nodule, left knee"
+47516,DRG24103,M06369,"Rheumatoid nodule, unspecified knee"
+47517,DRG24103,M06371,"Rheumatoid nodule, right ankle and foot"
+47518,DRG24103,M06372,"Rheumatoid nodule, left ankle and foot"
+47519,DRG24103,M06379,"Rheumatoid nodule, unspecified ankle and foot"
+47520,DRG24103,M0638,"Rheumatoid nodule, vertebrae"
+47521,DRG24103,M0639,"Rheumatoid nodule, multiple sites"
+47522,DRG24103,M064,Inflammatory polyarthropathy
+47523,DRG24103,M0680,"Other specified rheumatoid arthritis, unspecified site"
+47524,DRG24103,M06811,"Other specified rheumatoid arthritis, right shoulder"
+47525,DRG24103,M06812,"Other specified rheumatoid arthritis, left shoulder"
+47526,DRG24103,M06819,"Other specified rheumatoid arthritis, unspecified shoulder"
+47527,DRG24103,M06821,"Other specified rheumatoid arthritis, right elbow"
+47528,DRG24103,M06822,"Other specified rheumatoid arthritis, left elbow"
+47529,DRG24103,M06829,"Other specified rheumatoid arthritis, unspecified elbow"
+47530,DRG24103,M06831,"Other specified rheumatoid arthritis, right wrist"
+47531,DRG24103,M06832,"Other specified rheumatoid arthritis, left wrist"
+47532,DRG24103,M06839,"Other specified rheumatoid arthritis, unspecified wrist"
+47533,DRG24103,M06841,"Other specified rheumatoid arthritis, right hand"
+47534,DRG24103,M06842,"Other specified rheumatoid arthritis, left hand"
+47535,DRG24103,M06849,"Other specified rheumatoid arthritis, unspecified hand"
+47536,DRG24103,M06851,"Other specified rheumatoid arthritis, right hip"
+47537,DRG24103,M06852,"Other specified rheumatoid arthritis, left hip"
+47538,DRG24103,M06859,"Other specified rheumatoid arthritis, unspecified hip"
+47539,DRG24103,M06861,"Other specified rheumatoid arthritis, right knee"
+47540,DRG24103,M06862,"Other specified rheumatoid arthritis, left knee"
+47541,DRG24103,M06869,"Other specified rheumatoid arthritis, unspecified knee"
+47542,DRG24103,M06871,"Other specified rheumatoid arthritis, right ankle and foot"
+47543,DRG24103,M06872,"Other specified rheumatoid arthritis, left ankle and foot"
+47544,DRG24103,M06879,"Other specified rheumatoid arthritis, unspecified ankle and foot"
+47545,DRG24103,M0688,"Other specified rheumatoid arthritis, vertebrae"
+47546,DRG24103,M0689,"Other specified rheumatoid arthritis, multiple sites"
+47547,DRG24103,M069,"Rheumatoid arthritis, unspecified"
+47548,DRG24103,M0800,Unspecified juvenile rheumatoid arthritis of unspecified site
+47549,DRG24103,M08011,"Unspecified juvenile rheumatoid arthritis, right shoulder"
+47550,DRG24103,M08012,"Unspecified juvenile rheumatoid arthritis, left shoulder"
+47551,DRG24103,M08019,"Unspecified juvenile rheumatoid arthritis, unspecified shoulder"
+47552,DRG24103,M08021,"Unspecified juvenile rheumatoid arthritis, right elbow"
+47553,DRG24103,M08022,"Unspecified juvenile rheumatoid arthritis, left elbow"
+47554,DRG24103,M08029,"Unspecified juvenile rheumatoid arthritis, unspecified elbow"
+47555,DRG24103,M08031,"Unspecified juvenile rheumatoid arthritis, right wrist"
+47556,DRG24103,M08032,"Unspecified juvenile rheumatoid arthritis, left wrist"
+47557,DRG24103,M08039,"Unspecified juvenile rheumatoid arthritis, unspecified wrist"
+47558,DRG24103,M08041,"Unspecified juvenile rheumatoid arthritis, right hand"
+47559,DRG24103,M08042,"Unspecified juvenile rheumatoid arthritis, left hand"
+47560,DRG24103,M08049,"Unspecified juvenile rheumatoid arthritis, unspecified hand"
+47561,DRG24103,M08051,"Unspecified juvenile rheumatoid arthritis, right hip"
+47562,DRG24103,M08052,"Unspecified juvenile rheumatoid arthritis, left hip"
+47563,DRG24103,M08059,"Unspecified juvenile rheumatoid arthritis, unspecified hip"
+47564,DRG24103,M08061,"Unspecified juvenile rheumatoid arthritis, right knee"
+47565,DRG24103,M08062,"Unspecified juvenile rheumatoid arthritis, left knee"
+47566,DRG24103,M08069,"Unspecified juvenile rheumatoid arthritis, unspecified knee"
+47567,DRG24103,M08071,"Unspecified juvenile rheumatoid arthritis, right ankle and foot"
+47568,DRG24103,M08072,"Unspecified juvenile rheumatoid arthritis, left ankle and foot"
+47569,DRG24103,M08079,"Unspecified juvenile rheumatoid arthritis, unspecified ankle and foot"
+47570,DRG24103,M0808,"Unspecified juvenile rheumatoid arthritis, vertebrae"
+47571,DRG24103,M0809,"Unspecified juvenile rheumatoid arthritis, multiple sites"
+47572,DRG24103,M081,Juvenile ankylosing spondylitis
+47573,DRG24103,M0820,"Juvenile rheumatoid arthritis with systemic onset, unspecified site"
+47574,DRG24103,M08211,"Juvenile rheumatoid arthritis with systemic onset, right shoulder"
+47575,DRG24103,M08212,"Juvenile rheumatoid arthritis with systemic onset, left shoulder"
+47576,DRG24103,M08219,"Juvenile rheumatoid arthritis with systemic onset, unspecified shoulder"
+47577,DRG24103,M08221,"Juvenile rheumatoid arthritis with systemic onset, right elbow"
+47578,DRG24103,M08222,"Juvenile rheumatoid arthritis with systemic onset, left elbow"
+47579,DRG24103,M08229,"Juvenile rheumatoid arthritis with systemic onset, unspecified elbow"
+47580,DRG24103,M08231,"Juvenile rheumatoid arthritis with systemic onset, right wrist"
+47581,DRG24103,M08232,"Juvenile rheumatoid arthritis with systemic onset, left wrist"
+47582,DRG24103,M08239,"Juvenile rheumatoid arthritis with systemic onset, unspecified wrist"
+47583,DRG24103,M08241,"Juvenile rheumatoid arthritis with systemic onset, right hand"
+47584,DRG24103,M08242,"Juvenile rheumatoid arthritis with systemic onset, left hand"
+47585,DRG24103,M08249,"Juvenile rheumatoid arthritis with systemic onset, unspecified hand"
+47586,DRG24103,M08251,"Juvenile rheumatoid arthritis with systemic onset, right hip"
+47587,DRG24103,M08252,"Juvenile rheumatoid arthritis with systemic onset, left hip"
+47588,DRG24103,M08259,"Juvenile rheumatoid arthritis with systemic onset, unspecified hip"
+47589,DRG24103,M08261,"Juvenile rheumatoid arthritis with systemic onset, right knee"
+47590,DRG24103,M08262,"Juvenile rheumatoid arthritis with systemic onset, left knee"
+47591,DRG24103,M08269,"Juvenile rheumatoid arthritis with systemic onset, unspecified knee"
+47592,DRG24103,M08271,"Juvenile rheumatoid arthritis with systemic onset, right ankle and foot"
+47593,DRG24103,M08272,"Juvenile rheumatoid arthritis with systemic onset, left ankle and foot"
+47594,DRG24103,M08279,"Juvenile rheumatoid arthritis with systemic onset, unspecified ankle and foot"
+47595,DRG24103,M0828,"Juvenile rheumatoid arthritis with systemic onset, vertebrae"
+47596,DRG24103,M0829,"Juvenile rheumatoid arthritis with systemic onset, multiple sites"
+47597,DRG24103,M083,Juvenile rheumatoid polyarthritis (seronegative)
+47598,DRG24103,M0840,"Pauciarticular juvenile rheumatoid arthritis, unspecified site"
+47599,DRG24103,M08411,"Pauciarticular juvenile rheumatoid arthritis, right shoulder"
+47600,DRG24103,M08412,"Pauciarticular juvenile rheumatoid arthritis, left shoulder"
+47601,DRG24103,M08419,"Pauciarticular juvenile rheumatoid arthritis, unspecified shoulder"
+47602,DRG24103,M08421,"Pauciarticular juvenile rheumatoid arthritis, right elbow"
+47603,DRG24103,M08422,"Pauciarticular juvenile rheumatoid arthritis, left elbow"
+47604,DRG24103,M08429,"Pauciarticular juvenile rheumatoid arthritis, unspecified elbow"
+47605,DRG24103,M08431,"Pauciarticular juvenile rheumatoid arthritis, right wrist"
+47606,DRG24103,M08432,"Pauciarticular juvenile rheumatoid arthritis, left wrist"
+47607,DRG24103,M08439,"Pauciarticular juvenile rheumatoid arthritis, unspecified wrist"
+47608,DRG24103,M08441,"Pauciarticular juvenile rheumatoid arthritis, right hand"
+47609,DRG24103,M08442,"Pauciarticular juvenile rheumatoid arthritis, left hand"
+47610,DRG24103,M08449,"Pauciarticular juvenile rheumatoid arthritis, unspecified hand"
+47611,DRG24103,M08451,"Pauciarticular juvenile rheumatoid arthritis, right hip"
+47612,DRG24103,M08452,"Pauciarticular juvenile rheumatoid arthritis, left hip"
+47613,DRG24103,M08459,"Pauciarticular juvenile rheumatoid arthritis, unspecified hip"
+47614,DRG24103,M08461,"Pauciarticular juvenile rheumatoid arthritis, right knee"
+47615,DRG24103,M08462,"Pauciarticular juvenile rheumatoid arthritis, left knee"
+47616,DRG24103,M08469,"Pauciarticular juvenile rheumatoid arthritis, unspecified knee"
+47617,DRG24103,M08471,"Pauciarticular juvenile rheumatoid arthritis, right ankle and foot"
+47618,DRG24103,M08472,"Pauciarticular juvenile rheumatoid arthritis, left ankle and foot"
+47619,DRG24103,M08479,"Pauciarticular juvenile rheumatoid arthritis, unspecified ankle and foot"
+47620,DRG24103,M0848,"Pauciarticular juvenile rheumatoid arthritis, vertebrae"
+47621,DRG24103,M0880,"Other juvenile arthritis, unspecified site"
+47622,DRG24103,M08811,"Other juvenile arthritis, right shoulder"
+47623,DRG24103,M08812,"Other juvenile arthritis, left shoulder"
+47624,DRG24103,M08819,"Other juvenile arthritis, unspecified shoulder"
+47625,DRG24103,M08821,"Other juvenile arthritis, right elbow"
+47626,DRG24103,M08822,"Other juvenile arthritis, left elbow"
+47627,DRG24103,M08829,"Other juvenile arthritis, unspecified elbow"
+47628,DRG24103,M08831,"Other juvenile arthritis, right wrist"
+47629,DRG24103,M08832,"Other juvenile arthritis, left wrist"
+47630,DRG24103,M08839,"Other juvenile arthritis, unspecified wrist"
+47631,DRG24103,M08841,"Other juvenile arthritis, right hand"
+47632,DRG24103,M08842,"Other juvenile arthritis, left hand"
+47633,DRG24103,M08849,"Other juvenile arthritis, unspecified hand"
+47634,DRG24103,M08851,"Other juvenile arthritis, right hip"
+47635,DRG24103,M08852,"Other juvenile arthritis, left hip"
+47636,DRG24103,M08859,"Other juvenile arthritis, unspecified hip"
+47637,DRG24103,M08861,"Other juvenile arthritis, right knee"
+47638,DRG24103,M08862,"Other juvenile arthritis, left knee"
+47639,DRG24103,M08869,"Other juvenile arthritis, unspecified knee"
+47640,DRG24103,M08871,"Other juvenile arthritis, right ankle and foot"
+47641,DRG24103,M08872,"Other juvenile arthritis, left ankle and foot"
+47642,DRG24103,M08879,"Other juvenile arthritis, unspecified ankle and foot"
+47643,DRG24103,M0888,"Other juvenile arthritis, other specified site"
+47644,DRG24103,M0889,"Other juvenile arthritis, multiple sites"
+47645,DRG24103,M0890,"Juvenile arthritis, unspecified, unspecified site"
+47646,DRG24103,M08911,"Juvenile arthritis, unspecified, right shoulder"
+47647,DRG24103,M08912,"Juvenile arthritis, unspecified, left shoulder"
+47648,DRG24103,M08919,"Juvenile arthritis, unspecified, unspecified shoulder"
+47649,DRG24103,M08921,"Juvenile arthritis, unspecified, right elbow"
+47650,DRG24103,M08922,"Juvenile arthritis, unspecified, left elbow"
+47651,DRG24103,M08929,"Juvenile arthritis, unspecified, unspecified elbow"
+47652,DRG24103,M08931,"Juvenile arthritis, unspecified, right wrist"
+47653,DRG24103,M08932,"Juvenile arthritis, unspecified, left wrist"
+47654,DRG24103,M08939,"Juvenile arthritis, unspecified, unspecified wrist"
+47655,DRG24103,M08941,"Juvenile arthritis, unspecified, right hand"
+47656,DRG24103,M08942,"Juvenile arthritis, unspecified, left hand"
+47657,DRG24103,M08949,"Juvenile arthritis, unspecified, unspecified hand"
+47658,DRG24103,M08951,"Juvenile arthritis, unspecified, right hip"
+47659,DRG24103,M08952,"Juvenile arthritis, unspecified, left hip"
+47660,DRG24103,M08959,"Juvenile arthritis, unspecified, unspecified hip"
+47661,DRG24103,M08961,"Juvenile arthritis, unspecified, right knee"
+47662,DRG24103,M08962,"Juvenile arthritis, unspecified, left knee"
+47663,DRG24103,M08969,"Juvenile arthritis, unspecified, unspecified knee"
+47664,DRG24103,M08971,"Juvenile arthritis, unspecified, right ankle and foot"
+47665,DRG24103,M08972,"Juvenile arthritis, unspecified, left ankle and foot"
+47666,DRG24103,M08979,"Juvenile arthritis, unspecified, unspecified ankle and foot"
+47667,DRG24103,M0898,"Juvenile arthritis, unspecified, vertebrae"
+47668,DRG24103,M0899,"Juvenile arthritis, unspecified, multiple sites"
+47669,DRG24103,M353,Polymyalgia rheumatica
+47670,DRG24103,M450,Ankylosing spondylitis of multiple sites in spine
+47671,DRG24103,M451,Ankylosing spondylitis of occipito-atlanto-axial region
+47672,DRG24103,M452,Ankylosing spondylitis of cervical region
+47673,DRG24103,M453,Ankylosing spondylitis of cervicothoracic region
+47674,DRG24103,M454,Ankylosing spondylitis of thoracic region
+47675,DRG24103,M455,Ankylosing spondylitis of thoracolumbar region
+47676,DRG24103,M456,Ankylosing spondylitis lumbar region
+47677,DRG24103,M457,Ankylosing spondylitis of lumbosacral region
+47678,DRG24103,M458,Ankylosing spondylitis sacral and sacrococcygeal region
+47679,DRG24103,M459,Ankylosing spondylitis of unspecified sites in spine
+47680,DRG24103,M488X1,"Other specified spondylopathies, occipito-atlanto-axial region"
+47681,DRG24103,M488X2,"Other specified spondylopathies, cervical region"
+47682,DRG24103,M488X3,"Other specified spondylopathies, cervicothoracic region"
+47683,DRG24103,M488X4,"Other specified spondylopathies, thoracic region"
+47684,DRG24103,M488X5,"Other specified spondylopathies, thoracolumbar region"
+47685,DRG24103,M488X6,"Other specified spondylopathies, lumbar region"
+47686,DRG24103,M488X7,"Other specified spondylopathies, lumbosacral region"
+47687,DRG24103,M488X8,"Other specified spondylopathies, sacral and sacrococcygeal region"
+47688,DRG24103,M488X9,"Other specified spondylopathies, site unspecified"

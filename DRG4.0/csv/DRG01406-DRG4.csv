@@ -1,0 +1,55 @@
+,DRG,CM-PCS,en
+47525,DRG01406,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery
+47526,DRG01406,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery
+47527,DRG01406,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery
+47528,DRG01406,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
+47529,DRG01406,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery
+47530,DRG01406,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery
+47531,DRG01406,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+47532,DRG01406,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery
+47533,DRG01406,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery
+47534,DRG01406,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
+47535,DRG01406,I63341,Cerebral infarction due to thrombosis of right cerebellar artery
+47536,DRG01406,I63342,Cerebral infarction due to thrombosis of left cerebellar artery
+47537,DRG01406,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
+47538,DRG01406,I6339,Cerebral infarction due to thrombosis of other cerebral artery
+47539,DRG01406,I6340,Cerebral infarction due to embolism of unspecified cerebral artery
+47540,DRG01406,I63411,Cerebral infarction due to embolism of right middle cerebral artery
+47541,DRG01406,I63412,Cerebral infarction due to embolism of left middle cerebral artery
+47542,DRG01406,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery
+47543,DRG01406,I63421,Cerebral infarction due to embolism of right anterior cerebral artery
+47544,DRG01406,I63422,Cerebral infarction due to embolism of left anterior cerebral artery
+47545,DRG01406,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
+47546,DRG01406,I63431,Cerebral infarction due to embolism of right posterior cerebral artery
+47547,DRG01406,I63432,Cerebral infarction due to embolism of left posterior cerebral artery
+47548,DRG01406,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
+47549,DRG01406,I63441,Cerebral infarction due to embolism of right cerebellar artery
+47550,DRG01406,I63442,Cerebral infarction due to embolism of left cerebellar artery
+47551,DRG01406,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery
+47552,DRG01406,I6349,Cerebral infarction due to embolism of other cerebral artery
+47553,DRG01406,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+47554,DRG01406,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
+47555,DRG01406,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+47556,DRG01406,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+47557,DRG01406,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
+47558,DRG01406,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
+47559,DRG01406,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
+47560,DRG01406,I63531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
+47561,DRG01406,I63532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
+47562,DRG01406,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
+47563,DRG01406,I63541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
+47564,DRG01406,I63542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
+47565,DRG01406,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
+47566,DRG01406,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+47567,DRG01406,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+47568,DRG01406,I638,Other cerebral infarction
+47569,DRG01406,I639,"Cerebral infarction, unspecified"
+47570,DRG01406,I670,"Dissection of cerebral arteries, nonruptured"
+47571,DRG01406,I671,"Cerebral aneurysm, nonruptured"
+47572,DRG01406,I6789,Other cerebrovascular disease
+47575,DRG01406,I600000,Modified ranking scale 0
+47576,DRG01406,I600001,Modified ranking scale 1
+47577,DRG01406,I600002,Modified ranking scale 2
+47578,DRG01406,I600003,Modified ranking scale 3
+47579,DRG01406,I600004,Modified ranking scale 4
+47580,DRG01406,I600005,Modified ranking scale 5

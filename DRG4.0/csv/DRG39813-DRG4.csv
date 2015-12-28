@@ -1,0 +1,37 @@
+,DRG,CM-PCS,en
+2290,DRG39813,D800,Hereditary hypogammaglobulinemia
+2291,DRG39813,D801,Nonfamilial hypogammaglobulinemia
+2292,DRG39813,D802,Selective deficiency of immunoglobulin A [IgA]
+2293,DRG39813,D803,Selective deficiency of immunoglobulin G [IgG] subclasses
+2294,DRG39813,D804,Selective deficiency of immunoglobulin M [IgM]
+2295,DRG39813,D805,Immunodeficiency with increased immunoglobulin M [IgM]
+2296,DRG39813,D806,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia
+2297,DRG39813,D807,Transient hypogammaglobulinemia of infancy
+2298,DRG39813,D808,Other immunodeficiencies with predominantly antibody defects
+2299,DRG39813,D809,"Immunodeficiency with predominantly antibody defects, unspecified"
+2300,DRG39813,D810,Severe combined immunodeficiency [SCID] with reticular dysgenesis
+2301,DRG39813,D811,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers
+2302,DRG39813,D812,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers
+2303,DRG39813,D814,Nezelof's syndrome
+2304,DRG39813,D816,Major histocompatibility complex class I deficiency
+2305,DRG39813,D817,Major histocompatibility complex class II deficiency
+2306,DRG39813,D8189,Other combined immunodeficiencies
+2307,DRG39813,D819,"Combined immunodeficiency, unspecified"
+2308,DRG39813,D820,Wiskott-Aldrich syndrome
+2309,DRG39813,D821,Di George's syndrome
+2310,DRG39813,D822,Immunodeficiency with short-limbed stature
+2311,DRG39813,D823,Immunodeficiency following hereditary defective response to Epstein-Barr virus
+2312,DRG39813,D824,Hyperimmunoglobulin E [IgE] syndrome
+2313,DRG39813,D828,Immunodeficiency associated with other specified major defects
+2314,DRG39813,D829,"Immunodeficiency associated with major defect, unspecified"
+2315,DRG39813,D830,Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function
+2316,DRG39813,D831,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders
+2317,DRG39813,D832,Common variable immunodeficiency with autoantibodies to B- or T-cells
+2318,DRG39813,D838,Other common variable immunodeficiencies
+2319,DRG39813,D839,"Common variable immunodeficiency, unspecified"
+2320,DRG39813,D840,Lymphocyte function antigen-1 [LFA-1] defect
+2321,DRG39813,D848,Other specified immunodeficiencies
+2322,DRG39813,D849,"Immunodeficiency, unspecified"
+2323,DRG39813,D893,Immune reconstitution syndrome
+2324,DRG39813,D8989,"Other specified disorders involving the immune mechanism, not elsewhere classified"
+2325,DRG39813,D899,"Disorder involving the immune mechanism, unspecified"

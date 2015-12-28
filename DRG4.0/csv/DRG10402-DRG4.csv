@@ -1,0 +1,180 @@
+,DRG,CM-PCS,en
+12004,DRG10402,027F04Z,"Dilation of Aortic Valve with Drug-eluting Intraluminal Device, Open Approach"
+12005,DRG10402,027F0DZ,"Dilation of Aortic Valve with Intraluminal Device, Open Approach"
+12006,DRG10402,027F0ZZ,"Dilation of Aortic Valve, Open Approach"
+12007,DRG10402,027G04Z,"Dilation of Mitral Valve with Drug-eluting Intraluminal Device, Open Approach"
+12008,DRG10402,027G0DZ,"Dilation of Mitral Valve with Intraluminal Device, Open Approach"
+12009,DRG10402,027G0ZZ,"Dilation of Mitral Valve, Open Approach"
+12010,DRG10402,027H04Z,"Dilation of Pulmonary Valve with Drug-eluting Intraluminal Device, Open Approach"
+12011,DRG10402,027H0DZ,"Dilation of Pulmonary Valve with Intraluminal Device, Open Approach"
+12012,DRG10402,027H0ZZ,"Dilation of Pulmonary Valve, Open Approach"
+12013,DRG10402,027J04Z,"Dilation of Tricuspid Valve with Drug-eluting Intraluminal Device, Open Approach"
+12014,DRG10402,027J0DZ,"Dilation of Tricuspid Valve with Intraluminal Device, Open Approach"
+12015,DRG10402,027J0ZZ,"Dilation of Tricuspid Valve, Open Approach"
+12016,DRG10402,02NF0ZZ,"Release Aortic Valve, Open Approach"
+12017,DRG10402,02NG0ZZ,"Release Mitral Valve, Open Approach"
+12018,DRG10402,02NJ0ZZ,"Release Tricuspid Valve, Open Approach"
+12019,DRG10402,02RF07Z,"Replacement of Aortic Valve with Autologous Tissue Substitute, Open Approach"
+12020,DRG10402,02RF08Z,"Replacement of Aortic Valve with Zooplastic Tissue, Open Approach"
+12021,DRG10402,02RF0JZ,"Replacement of Aortic Valve with Synthetic Substitute, Open Approach"
+12022,DRG10402,02RF0KZ,"Replacement of Aortic Valve with Nonautologous Tissue Substitute, Open Approach"
+12023,DRG10402,02RF37H,"Replacement of Aortic Valve with Autologous Tissue Substitute, Transapical, Percutaneous Approach"
+12024,DRG10402,02RF37Z,"Replacement of Aortic Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12025,DRG10402,02RF38H,"Replacement of Aortic Valve with Zooplastic Tissue, Transapical, Percutaneous Approach"
+12026,DRG10402,02RF38Z,"Replacement of Aortic Valve with Zooplastic Tissue, Percutaneous Approach"
+12027,DRG10402,02RF3KH,"Replacement of Aortic Valve with Nonautologous Tissue Substitute, Transapical, Percutaneous Approach"
+12028,DRG10402,02RF3KZ,"Replacement of Aortic Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12029,DRG10402,02RF47Z,"Replacement of Aortic Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12030,DRG10402,02RF48Z,"Replacement of Aortic Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12031,DRG10402,02RF4JZ,"Replacement of Aortic Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12032,DRG10402,02RF4KZ,"Replacement of Aortic Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12033,DRG10402,02RG07Z,"Replacement of Mitral Valve with Autologous Tissue Substitute, Open Approach"
+12034,DRG10402,02RG08Z,"Replacement of Mitral Valve with Zooplastic Tissue, Open Approach"
+12035,DRG10402,02RG0JZ,"Replacement of Mitral Valve with Synthetic Substitute, Open Approach"
+12036,DRG10402,02RG0KZ,"Replacement of Mitral Valve with Nonautologous Tissue Substitute, Open Approach"
+12037,DRG10402,02RG37Z,"Replacement of Mitral Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12038,DRG10402,02RG38Z,"Replacement of Mitral Valve with Zooplastic Tissue, Percutaneous Approach"
+12039,DRG10402,02RG3JZ,"Replacement of Mitral Valve with Synthetic Substitute, Percutaneous Approach"
+12040,DRG10402,02RG3KZ,"Replacement of Mitral Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12041,DRG10402,02RG47Z,"Replacement of Mitral Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12042,DRG10402,02RG48Z,"Replacement of Mitral Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12043,DRG10402,02RG4JZ,"Replacement of Mitral Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12044,DRG10402,02RG4KZ,"Replacement of Mitral Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12045,DRG10402,02RH07Z,"Replacement of Pulmonary Valve with Autologous Tissue Substitute, Open Approach"
+12046,DRG10402,02RH08Z,"Replacement of Pulmonary Valve with Zooplastic Tissue, Open Approach"
+12047,DRG10402,02RH0JZ,"Replacement of Pulmonary Valve with Synthetic Substitute, Open Approach"
+12048,DRG10402,02RH0KZ,"Replacement of Pulmonary Valve with Nonautologous Tissue Substitute, Open Approach"
+12049,DRG10402,02RH37H,"Replacement of Pulmonary Valve with Autologous Tissue Substitute, Transapical, Percutaneous Approach"
+12050,DRG10402,02RH37Z,"Replacement of Pulmonary Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12051,DRG10402,02RH38H,"Replacement of Pulmonary Valve with Zooplastic Tissue, Transapical, Percutaneous Approach"
+12052,DRG10402,02RH38Z,"Replacement of Pulmonary Valve with Zooplastic Tissue, Percutaneous Approach"
+12053,DRG10402,02RH3KH,"Replacement of Pulmonary Valve with Nonautologous Tissue Substitute, Transapical, Percutaneous Approach"
+12054,DRG10402,02RH3KZ,"Replacement of Pulmonary Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12055,DRG10402,02RH47Z,"Replacement of Pulmonary Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12056,DRG10402,02RH48Z,"Replacement of Pulmonary Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12057,DRG10402,02RH4JZ,"Replacement of Pulmonary Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12058,DRG10402,02RH4KZ,"Replacement of Pulmonary Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12059,DRG10402,02RJ07Z,"Replacement of Tricuspid Valve with Autologous Tissue Substitute, Open Approach"
+12060,DRG10402,02RJ08Z,"Replacement of Tricuspid Valve with Zooplastic Tissue, Open Approach"
+12061,DRG10402,02RJ0JZ,"Replacement of Tricuspid Valve with Synthetic Substitute, Open Approach"
+12062,DRG10402,02RJ0KZ,"Replacement of Tricuspid Valve with Nonautologous Tissue Substitute, Open Approach"
+12063,DRG10402,02RJ47Z,"Replacement of Tricuspid Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12064,DRG10402,02RJ48Z,"Replacement of Tricuspid Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12065,DRG10402,02RJ4JZ,"Replacement of Tricuspid Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12066,DRG10402,02RJ4KZ,"Replacement of Tricuspid Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12067,DRG10402,02UF07Z,"Supplement Aortic Valve with Autologous Tissue Substitute, Open Approach"
+12068,DRG10402,02UF08Z,"Supplement Aortic Valve with Zooplastic Tissue, Open Approach"
+12069,DRG10402,02UF0JZ,"Supplement Aortic Valve with Synthetic Substitute, Open Approach"
+12070,DRG10402,02UF0KZ,"Supplement Aortic Valve with Nonautologous Tissue Substitute, Open Approach"
+12071,DRG10402,02UF37Z,"Supplement Aortic Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12072,DRG10402,02UF38Z,"Supplement Aortic Valve with Zooplastic Tissue, Percutaneous Approach"
+12073,DRG10402,02UF3JZ,"Supplement Aortic Valve with Synthetic Substitute, Percutaneous Approach"
+12074,DRG10402,02UF3KZ,"Supplement Aortic Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12075,DRG10402,02UF47Z,"Supplement Aortic Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12076,DRG10402,02UF48Z,"Supplement Aortic Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12077,DRG10402,02UF4JZ,"Supplement Aortic Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12078,DRG10402,02UF4KZ,"Supplement Aortic Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12079,DRG10402,02UG07Z,"Supplement Mitral Valve with Autologous Tissue Substitute, Open Approach"
+12080,DRG10402,02UG08Z,"Supplement Mitral Valve with Zooplastic Tissue, Open Approach"
+12081,DRG10402,02UG0JZ,"Supplement Mitral Valve with Synthetic Substitute, Open Approach"
+12082,DRG10402,02UG0KZ,"Supplement Mitral Valve with Nonautologous Tissue Substitute, Open Approach"
+12083,DRG10402,02UG37Z,"Supplement Mitral Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12084,DRG10402,02UG38Z,"Supplement Mitral Valve with Zooplastic Tissue, Percutaneous Approach"
+12085,DRG10402,02UG3KZ,"Supplement Mitral Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12086,DRG10402,02UG47Z,"Supplement Mitral Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12087,DRG10402,02UG48Z,"Supplement Mitral Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12088,DRG10402,02UG4JZ,"Supplement Mitral Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12089,DRG10402,02UG4KZ,"Supplement Mitral Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12090,DRG10402,02UH07Z,"Supplement Pulmonary Valve with Autologous Tissue Substitute, Open Approach"
+12091,DRG10402,02UH08Z,"Supplement Pulmonary Valve with Zooplastic Tissue, Open Approach"
+12092,DRG10402,02UH0JZ,"Supplement Pulmonary Valve with Synthetic Substitute, Open Approach"
+12093,DRG10402,02UH0KZ,"Supplement Pulmonary Valve with Nonautologous Tissue Substitute, Open Approach"
+12094,DRG10402,02UH37Z,"Supplement Pulmonary Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12095,DRG10402,02UH38Z,"Supplement Pulmonary Valve with Zooplastic Tissue, Percutaneous Approach"
+12096,DRG10402,02UH3JZ,"Supplement Pulmonary Valve with Synthetic Substitute, Percutaneous Approach"
+12097,DRG10402,02UH3KZ,"Supplement Pulmonary Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12098,DRG10402,02UH47Z,"Supplement Pulmonary Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12099,DRG10402,02UH48Z,"Supplement Pulmonary Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12100,DRG10402,02UH4JZ,"Supplement Pulmonary Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12101,DRG10402,02UH4KZ,"Supplement Pulmonary Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12102,DRG10402,02UJ07Z,"Supplement Tricuspid Valve with Autologous Tissue Substitute, Open Approach"
+12103,DRG10402,02UJ08Z,"Supplement Tricuspid Valve with Zooplastic Tissue, Open Approach"
+12104,DRG10402,02UJ0JZ,"Supplement Tricuspid Valve with Synthetic Substitute, Open Approach"
+12105,DRG10402,02UJ0KZ,"Supplement Tricuspid Valve with Nonautologous Tissue Substitute, Open Approach"
+12106,DRG10402,02UJ37Z,"Supplement Tricuspid Valve with Autologous Tissue Substitute, Percutaneous Approach"
+12107,DRG10402,02UJ38Z,"Supplement Tricuspid Valve with Zooplastic Tissue, Percutaneous Approach"
+12108,DRG10402,02UJ3JZ,"Supplement Tricuspid Valve with Synthetic Substitute, Percutaneous Approach"
+12109,DRG10402,02UJ3KZ,"Supplement Tricuspid Valve with Nonautologous Tissue Substitute, Percutaneous Approach"
+12110,DRG10402,02UJ47Z,"Supplement Tricuspid Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12111,DRG10402,02UJ48Z,"Supplement Tricuspid Valve with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+12112,DRG10402,02UJ4JZ,"Supplement Tricuspid Valve with Synthetic Substitute, Percutaneous Endoscopic Approach"
+12113,DRG10402,02UJ4KZ,"Supplement Tricuspid Valve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+12116,DRG10402,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
+12117,DRG10402,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
+12118,DRG10402,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
+12119,DRG10402,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+12120,DRG10402,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
+12121,DRG10402,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
+12122,DRG10402,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
+12123,DRG10402,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+12124,DRG10402,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+12125,DRG10402,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
+12126,DRG10402,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
+12127,DRG10402,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
+12128,DRG10402,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
+12129,DRG10402,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
+12130,DRG10402,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
+12131,DRG10402,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+12132,DRG10402,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+12133,DRG10402,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
+12134,DRG10402,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+12135,DRG10402,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+12136,DRG10402,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
+12137,DRG10402,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
+12138,DRG10402,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
+12139,DRG10402,B204YZZ,Plain Radiography of Right Heart using Other Contrast
+12140,DRG10402,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
+12141,DRG10402,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
+12142,DRG10402,B205YZZ,Plain Radiography of Left Heart using Other Contrast
+12143,DRG10402,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
+12144,DRG10402,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
+12145,DRG10402,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
+12146,DRG10402,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+12147,DRG10402,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+12148,DRG10402,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
+12149,DRG10402,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+12150,DRG10402,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+12151,DRG10402,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
+12152,DRG10402,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
+12153,DRG10402,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
+12154,DRG10402,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
+12155,DRG10402,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
+12156,DRG10402,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
+12157,DRG10402,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
+12158,DRG10402,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
+12159,DRG10402,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
+12160,DRG10402,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
+12161,DRG10402,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+12162,DRG10402,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+12163,DRG10402,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
+12164,DRG10402,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+12165,DRG10402,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+12166,DRG10402,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
+12167,DRG10402,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
+12168,DRG10402,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
+12169,DRG10402,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
+12170,DRG10402,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
+12171,DRG10402,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
+12172,DRG10402,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
+12173,DRG10402,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
+12174,DRG10402,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
+12175,DRG10402,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
+12176,DRG10402,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+12177,DRG10402,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+12178,DRG10402,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
+12179,DRG10402,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+12180,DRG10402,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+12181,DRG10402,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
+12182,DRG10402,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
+12183,DRG10402,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
+12184,DRG10402,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast

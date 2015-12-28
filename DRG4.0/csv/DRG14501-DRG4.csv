@@ -1,0 +1,142 @@
+,DRG,CM-PCS,en
+38912,DRG14501,D151,Benign neoplasm of heart
+38913,DRG14501,I231,Atrial septal defect as current complication following acute myocardial infarction
+38914,DRG14501,I232,Ventricular septal defect as current complication following acute myocardial infarction
+38915,DRG14501,I241,Dressler's syndrome
+38916,DRG14501,I253,Aneurysm of heart
+38917,DRG14501,I2541,Coronary artery aneurysm
+38918,DRG14501,I2542,Coronary artery dissection
+38919,DRG14501,I2609,Other pulmonary embolism with acute cor pulmonale
+38920,DRG14501,I270,Primary pulmonary hypertension
+38921,DRG14501,I271,Kyphoscoliotic heart disease
+38922,DRG14501,I272,Other secondary pulmonary hypertension
+38923,DRG14501,I2781,Cor pulmonale (chronic)
+38924,DRG14501,I2789,Other specified pulmonary heart diseases
+38925,DRG14501,I279,"Pulmonary heart disease, unspecified"
+38926,DRG14501,I280,Arteriovenous fistula of pulmonary vessels
+38927,DRG14501,I281,Aneurysm of pulmonary artery
+38928,DRG14501,I288,Other diseases of pulmonary vessels
+38929,DRG14501,I289,"Disease of pulmonary vessels, unspecified"
+38930,DRG14501,I400,Infective myocarditis
+38931,DRG14501,I408,Other acute myocarditis
+38932,DRG14501,I510,"Cardiac septal defect, acquired"
+38933,DRG14501,I970,Postcardiotomy syndrome
+38934,DRG14501,I97110,Postprocedural cardiac insufficiency following cardiac surgery
+38935,DRG14501,I97111,Postprocedural cardiac insufficiency following other surgery
+38936,DRG14501,I97120,Postprocedural cardiac arrest following cardiac surgery
+38937,DRG14501,I97121,Postprocedural cardiac arrest following other surgery
+38938,DRG14501,I97130,Postprocedural heart failure following cardiac surgery
+38939,DRG14501,I97131,Postprocedural heart failure following other surgery
+38940,DRG14501,I97190,Other postprocedural cardiac functional disturbances following cardiac surgery
+38941,DRG14501,I97191,Other postprocedural cardiac functional disturbances following other surgery
+38942,DRG14501,I97710,Intraoperative cardiac arrest during cardiac surgery
+38943,DRG14501,I97711,Intraoperative cardiac arrest during other surgery
+38944,DRG14501,I97790,Other intraoperative cardiac functional disturbances during cardiac surgery
+38945,DRG14501,I97791,Other intraoperative cardiac functional disturbances during other surgery
+38946,DRG14501,I9788,"Other intraoperative complications of the circulatory system, not elsewhere classified"
+38947,DRG14501,I9789,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified"
+38948,DRG14501,S2600XA,"Unspecified injury of heart with hemopericardium, initial encounter"
+38949,DRG14501,S2601XA,"Contusion of heart with hemopericardium, initial encounter"
+38950,DRG14501,S26020A,"Mild laceration of heart with hemopericardium, initial encounter"
+38951,DRG14501,S26021A,"Moderate laceration of heart with hemopericardium, initial encounter"
+38952,DRG14501,S26022A,"Major laceration of heart with hemopericardium, initial encounter"
+38953,DRG14501,S2609XA,"Other injury of heart with hemopericardium, initial encounter"
+38954,DRG14501,S2610XA,"Unspecified injury of heart without hemopericardium, initial encounter"
+38955,DRG14501,S2611XA,"Contusion of heart without hemopericardium, initial encounter"
+38956,DRG14501,S2612XA,"Laceration of heart without hemopericardium, initial encounter"
+38957,DRG14501,S2619XA,"Other injury of heart without hemopericardium, initial encounter"
+38958,DRG14501,S2690XA,"Unspecified injury of heart, unspecified with or without hemopericardium, initial encounter"
+38959,DRG14501,S2691XA,"Contusion of heart, unspecified with or without hemopericardium, initial encounter"
+38960,DRG14501,S2692XA,"Laceration of heart, unspecified with or without hemopericardium, initial encounter"
+38961,DRG14501,S2699XA,"Other injury of heart, unspecified with or without hemopericardium, initial encounter"
+38962,DRG14501,T801XXA,"Vascular complications following infusion, transfusion and therapeutic injection, initial encounter"
+38963,DRG14501,T80211A,"Bloodstream infection due to central venous catheter, initial encounter"
+38964,DRG14501,T80212A,"Local infection due to central venous catheter, initial encounter"
+38965,DRG14501,T80218A,"Other infection due to central venous catheter, initial encounter"
+38966,DRG14501,T80219A,"Unspecified infection due to central venous catheter, initial encounter"
+38967,DRG14501,T8022XA,"Acute infection following transfusion, infusion, or injection of blood and blood products, initial encounter"
+38968,DRG14501,T82211A,"Breakdown (mechanical) of coronary artery bypass graft, initial encounter"
+38969,DRG14501,T82212A,"Displacement of coronary artery bypass graft, initial encounter"
+38970,DRG14501,T82213A,"Leakage of coronary artery bypass graft, initial encounter"
+38971,DRG14501,T82218A,"Other mechanical complication of coronary artery bypass graft, initial encounter"
+38972,DRG14501,T82221A,"Breakdown (mechanical) of biological heart valve graft, initial encounter"
+38973,DRG14501,T82222A,"Displacement of biological heart valve graft, initial encounter"
+38974,DRG14501,T82223A,"Leakage of biological heart valve graft, initial encounter"
+38975,DRG14501,T82228A,"Other mechanical complication of biological heart valve graft, initial encounter"
+38976,DRG14501,T82310A,"Breakdown (mechanical) of aortic (bifurcation) graft (replacement), initial encounter"
+38977,DRG14501,T82311A,"Breakdown (mechanical) of carotid arterial graft (bypass), initial encounter"
+38978,DRG14501,T82312A,"Breakdown (mechanical) of femoral arterial graft (bypass), initial encounter"
+38979,DRG14501,T82318A,"Breakdown (mechanical) of other vascular grafts, initial encounter"
+38980,DRG14501,T82319A,"Breakdown (mechanical) of unspecified vascular grafts, initial encounter"
+38981,DRG14501,T82320A,"Displacement of aortic (bifurcation) graft (replacement), initial encounter"
+38982,DRG14501,T82321A,"Displacement of carotid arterial graft (bypass), initial encounter"
+38983,DRG14501,T82322A,"Displacement of femoral arterial graft (bypass), initial encounter"
+38984,DRG14501,T82328A,"Displacement of other vascular grafts, initial encounter"
+38985,DRG14501,T82329A,"Displacement of unspecified vascular grafts, initial encounter"
+38986,DRG14501,T82330A,"Leakage of aortic (bifurcation) graft (replacement), initial encounter"
+38987,DRG14501,T82331A,"Leakage of carotid arterial graft (bypass), initial encounter"
+38988,DRG14501,T82332A,"Leakage of femoral arterial graft (bypass), initial encounter"
+38989,DRG14501,T82338A,"Leakage of other vascular grafts, initial encounter"
+38990,DRG14501,T82339A,"Leakage of unspecified vascular graft, initial encounter"
+38991,DRG14501,T82390A,"Other mechanical complication of aortic (bifurcation) graft (replacement), initial encounter"
+38992,DRG14501,T82391A,"Other mechanical complication of carotid arterial graft (bypass), initial encounter"
+38993,DRG14501,T82392A,"Other mechanical complication of femoral arterial graft (bypass), initial encounter"
+38994,DRG14501,T82398A,"Other mechanical complication of other vascular grafts, initial encounter"
+38995,DRG14501,T82399A,"Other mechanical complication of unspecified vascular grafts, initial encounter"
+38996,DRG14501,T8241XA,"Breakdown (mechanical) of vascular dialysis catheter, initial encounter"
+38997,DRG14501,T8242XA,"Displacement of vascular dialysis catheter, initial encounter"
+38998,DRG14501,T8243XA,"Leakage of vascular dialysis catheter, initial encounter"
+38999,DRG14501,T8249XA,"Other complication of vascular dialysis catheter, initial encounter"
+39000,DRG14501,T82510A,"Breakdown (mechanical) of surgically created arteriovenous fistula, initial encounter"
+39001,DRG14501,T82511A,"Breakdown (mechanical) of surgically created arteriovenous shunt, initial encounter"
+39002,DRG14501,T82512A,"Breakdown (mechanical) of artificial heart, initial encounter"
+39003,DRG14501,T82513A,"Breakdown (mechanical) of balloon (counterpulsation) device, initial encounter"
+39004,DRG14501,T82514A,"Breakdown (mechanical) of infusion catheter, initial encounter"
+39005,DRG14501,T82515A,"Breakdown (mechanical) of umbrella device, initial encounter"
+39006,DRG14501,T82518A,"Breakdown (mechanical) of other cardiac and vascular devices and implants, initial encounter"
+39007,DRG14501,T82519A,"Breakdown (mechanical) of unspecified cardiac and vascular devices and implants, initial encounter"
+39008,DRG14501,T82520A,"Displacement of surgically created arteriovenous fistula, initial encounter"
+39009,DRG14501,T82521A,"Displacement of surgically created arteriovenous shunt, initial encounter"
+39010,DRG14501,T82522A,"Displacement of artificial heart, initial encounter"
+39011,DRG14501,T82523A,"Displacement of balloon (counterpulsation) device, initial encounter"
+39012,DRG14501,T82524A,"Displacement of infusion catheter, initial encounter"
+39013,DRG14501,T82525A,"Displacement of umbrella device, initial encounter"
+39014,DRG14501,T82528A,"Displacement of other cardiac and vascular devices and implants, initial encounter"
+39015,DRG14501,T82529A,"Displacement of unspecified cardiac and vascular devices and implants, initial encounter"
+39016,DRG14501,T82530A,"Leakage of surgically created arteriovenous fistula, initial encounter"
+39017,DRG14501,T82531A,"Leakage of surgically created arteriovenous shunt, initial encounter"
+39018,DRG14501,T82532A,"Leakage of artificial heart, initial encounter"
+39019,DRG14501,T82533A,"Leakage of balloon (counterpulsation) device, initial encounter"
+39020,DRG14501,T82534A,"Leakage of infusion catheter, initial encounter"
+39021,DRG14501,T82535A,"Leakage of umbrella device, initial encounter"
+39022,DRG14501,T82538A,"Leakage of other cardiac and vascular devices and implants, initial encounter"
+39023,DRG14501,T82539A,"Leakage of unspecified cardiac and vascular devices and implants, initial encounter"
+39024,DRG14501,T82590A,"Other mechanical complication of surgically created arteriovenous fistula, initial encounter"
+39025,DRG14501,T82591A,"Other mechanical complication of surgically created arteriovenous shunt, initial encounter"
+39026,DRG14501,T82592A,"Other mechanical complication of artificial heart, initial encounter"
+39027,DRG14501,T82593A,"Other mechanical complication of balloon (counterpulsation) device, initial encounter"
+39028,DRG14501,T82594A,"Other mechanical complication of infusion catheter, initial encounter"
+39029,DRG14501,T82595A,"Other mechanical complication of umbrella device, initial encounter"
+39030,DRG14501,T82598A,"Other mechanical complication of other cardiac and vascular devices and implants, initial encounter"
+39031,DRG14501,T82599A,"Other mechanical complication of unspecified cardiac and vascular devices and implants, initial encounter"
+39032,DRG14501,T826XXA,"Infection and inflammatory reaction due to cardiac valve prosthesis, initial encounter"
+39033,DRG14501,T827XXA,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter"
+39034,DRG14501,T82817A,"Embolism of cardiac prosthetic devices, implants and grafts, initial encounter"
+39035,DRG14501,T82818A,"Embolism of vascular prosthetic devices, implants and grafts, initial encounter"
+39036,DRG14501,T82827A,"Fibrosis of cardiac prosthetic devices, implants and grafts, initial encounter"
+39037,DRG14501,T82828A,"Fibrosis of vascular prosthetic devices, implants and grafts, initial encounter"
+39038,DRG14501,T82837A,"Hemorrhage of cardiac prosthetic devices, implants and grafts, initial encounter"
+39039,DRG14501,T82838A,"Hemorrhage of vascular prosthetic devices, implants and grafts, initial encounter"
+39040,DRG14501,T82847A,"Pain from cardiac prosthetic devices, implants and grafts, initial encounter"
+39041,DRG14501,T82848A,"Pain from vascular prosthetic devices, implants and grafts, initial encounter"
+39042,DRG14501,T82857A,"Stenosis of cardiac prosthetic devices, implants and grafts, initial encounter"
+39043,DRG14501,T82858A,"Stenosis of vascular prosthetic devices, implants and grafts, initial encounter"
+39044,DRG14501,T82867A,"Thrombosis of cardiac prosthetic devices, implants and grafts, initial encounter"
+39045,DRG14501,T82868A,"Thrombosis of vascular prosthetic devices, implants and grafts, initial encounter"
+39046,DRG14501,T82897A,"Other specified complication of cardiac prosthetic devices, implants and grafts, initial encounter"
+39047,DRG14501,T82898A,"Other specified complication of vascular prosthetic devices, implants and grafts, initial encounter"
+39048,DRG14501,T829XXA,"Unspecified complication of cardiac and vascular prosthetic device, implant and graft, initial encounter"
+39049,DRG14501,Z45010,Encounter for checking and testing of cardiac pacemaker pulse generator [battery]
+39050,DRG14501,Z45018,Encounter for adjustment and management of other part of cardiac pacemaker
+39051,DRG14501,Z4502,Encounter for adjustment and management of automatic implantable cardiac defibrillator
+39052,DRG14501,Z4509,Encounter for adjustment and management of other cardiac device

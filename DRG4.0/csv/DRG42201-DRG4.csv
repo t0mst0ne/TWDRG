@@ -1,0 +1,136 @@
+,DRG,CM-PCS,en
+309,DRG42201,A70,Chlamydia psittaci infections
+310,DRG42201,A804,Acute nonparalytic poliomyelitis
+311,DRG42201,A90,Dengue fever [classical dengue]
+312,DRG42201,A91,Dengue hemorrhagic fever
+313,DRG42201,A920,Chikungunya virus disease
+314,DRG42201,A921,O'nyong-nyong fever
+315,DRG42201,A9230,"West Nile virus infection, unspecified"
+316,DRG42201,A9231,West Nile virus infection with encephalitis
+317,DRG42201,A9232,West Nile virus infection with other neurologic manifestation
+318,DRG42201,A9239,West Nile virus infection with other complications
+319,DRG42201,A924,Rift Valley fever
+320,DRG42201,A928,Other specified mosquito-borne viral fevers
+321,DRG42201,A929,"Mosquito-borne viral fever, unspecified"
+322,DRG42201,A930,Oropouche virus disease
+323,DRG42201,A931,Sandfly fever
+324,DRG42201,A938,Other specified arthropod-borne viral fevers
+325,DRG42201,A94,Unspecified arthropod-borne viral fever
+326,DRG42201,A950,Sylvatic yellow fever
+327,DRG42201,A951,Urban yellow fever
+328,DRG42201,A959,"Yellow fever, unspecified"
+329,DRG42201,A960,Junin hemorrhagic fever
+330,DRG42201,A961,Machupo hemorrhagic fever
+331,DRG42201,A962,Lassa fever
+332,DRG42201,A968,Other arenaviral hemorrhagic fevers
+333,DRG42201,A969,"Arenaviral hemorrhagic fever, unspecified"
+334,DRG42201,A980,Crimean-Congo hemorrhagic fever
+335,DRG42201,A981,Omsk hemorrhagic fever
+336,DRG42201,A982,Kyasanur Forest disease
+337,DRG42201,A983,Marburg virus disease
+338,DRG42201,A984,Ebola virus disease
+339,DRG42201,A99,Unspecified viral hemorrhagic fever
+340,DRG42201,B0082,Herpes simplex myelitis
+341,DRG42201,B0089,Other herpesviral infection
+342,DRG42201,B010,Varicella meningitis
+343,DRG42201,B0112,Varicella myelitis
+344,DRG42201,B0181,Varicella keratitis
+345,DRG42201,B0189,Other varicella complications
+346,DRG42201,B019,Varicella without complication
+347,DRG42201,B027,Disseminated zoster
+348,DRG42201,B028,Zoster with other complications
+349,DRG42201,B03,Smallpox
+350,DRG42201,B04,Monkeypox
+351,DRG42201,B051,Measles complicated by meningitis
+352,DRG42201,B054,Measles with intestinal complications
+353,DRG42201,B0589,Other measles complications
+354,DRG42201,B059,Measles without complication
+355,DRG42201,B0681,Rubella pneumonia
+356,DRG42201,B0689,Other rubella complications
+357,DRG42201,B069,Rubella without complication
+358,DRG42201,B08010,Cowpox
+359,DRG42201,B08011,Vaccinia not from vaccine
+360,DRG42201,B0804,"Paravaccinia, unspecified"
+361,DRG42201,B0820,"Exanthema subitum [sixth disease], unspecified"
+362,DRG42201,B0821,Exanthema subitum [sixth disease] due to human herpesvirus 6
+363,DRG42201,B0822,Exanthema subitum [sixth disease] due to human herpesvirus 7
+364,DRG42201,B083,Erythema infectiosum [fifth disease]
+365,DRG42201,B084,Enteroviral vesicular stomatitis with exanthem
+366,DRG42201,B0870,"Yatapoxvirus infection, unspecified"
+367,DRG42201,B0871,Tanapox virus disease
+368,DRG42201,B0872,Yaba pox virus disease
+369,DRG42201,B0879,Other yatapoxvirus infections
+370,DRG42201,B088,Other specified viral infections characterized by skin and mucous membrane lesions
+371,DRG42201,B09,Unspecified viral infection characterized by skin and mucous membrane lesions
+372,DRG42201,B258,Other cytomegaloviral diseases
+373,DRG42201,B259,"Cytomegaloviral disease, unspecified"
+374,DRG42201,B2682,Mumps myocarditis
+375,DRG42201,B2683,Mumps nephritis
+376,DRG42201,B2685,Mumps arthritis
+377,DRG42201,B2689,Other mumps complications
+378,DRG42201,B269,Mumps without complication
+379,DRG42201,B2700,Gammaherpesviral mononucleosis without complication
+380,DRG42201,B2701,Gammaherpesviral mononucleosis with polyneuropathy
+381,DRG42201,B2702,Gammaherpesviral mononucleosis with meningitis
+382,DRG42201,B2709,Gammaherpesviral mononucleosis with other complications
+383,DRG42201,B2710,Cytomegaloviral mononucleosis without complications
+384,DRG42201,B2711,Cytomegaloviral mononucleosis with polyneuropathy
+385,DRG42201,B2712,Cytomegaloviral mononucleosis with meningitis
+386,DRG42201,B2719,Cytomegaloviral mononucleosis with other complication
+387,DRG42201,B2780,Other infectious mononucleosis without complication
+388,DRG42201,B2781,Other infectious mononucleosis with polyneuropathy
+389,DRG42201,B2782,Other infectious mononucleosis with meningitis
+390,DRG42201,B2789,Other infectious mononucleosis with other complication
+391,DRG42201,B2790,"Infectious mononucleosis, unspecified without complication"
+392,DRG42201,B2791,"Infectious mononucleosis, unspecified with polyneuropathy"
+393,DRG42201,B2792,"Infectious mononucleosis, unspecified with meningitis"
+394,DRG42201,B2799,"Infectious mononucleosis, unspecified with other complication"
+395,DRG42201,B331,Ross River disease
+396,DRG42201,B3324,Viral cardiomyopathy
+397,DRG42201,B333,"Retrovirus infections, not elsewhere classified"
+398,DRG42201,B334,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]
+399,DRG42201,B338,Other specified viral diseases
+400,DRG42201,B340,"Adenovirus infection, unspecified"
+401,DRG42201,B341,"Enterovirus infection, unspecified"
+402,DRG42201,B342,"Coronavirus infection, unspecified"
+403,DRG42201,B343,"Parvovirus infection, unspecified"
+404,DRG42201,B344,"Papovavirus infection, unspecified"
+405,DRG42201,B348,Other viral infections of unspecified site
+406,DRG42201,B349,"Viral infection, unspecified"
+407,DRG42201,B970,Adenovirus as the cause of diseases classified elsewhere
+408,DRG42201,B9710,Unspecified enterovirus as the cause of diseases classified elsewhere
+409,DRG42201,B9711,Coxsackievirus as the cause of diseases classified elsewhere
+410,DRG42201,B9712,Echovirus as the cause of diseases classified elsewhere
+411,DRG42201,B9719,Other enterovirus as the cause of diseases classified elsewhere
+412,DRG42201,B9721,SARS-associated coronavirus as the cause of diseases classified elsewhere
+413,DRG42201,B9729,Other coronavirus as the cause of diseases classified elsewhere
+414,DRG42201,B9730,Unspecified retrovirus as the cause of diseases classified elsewhere
+415,DRG42201,B9731,Lentivirus as the cause of diseases classified elsewhere
+416,DRG42201,B9732,Oncovirus as the cause of diseases classified elsewhere
+417,DRG42201,B9733,"Human T-cell lymphotrophic virus, type I [HTLV-I] as the cause of diseases classified elsewhere"
+418,DRG42201,B9734,"Human T-cell lymphotrophic virus, type II [HTLV-II] as the cause of diseases classified elsewhere"
+419,DRG42201,B9735,"Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere"
+420,DRG42201,B9739,Other retrovirus as the cause of diseases classified elsewhere
+421,DRG42201,B974,Respiratory syncytial virus as the cause of diseases classified elsewhere
+422,DRG42201,B975,Reovirus as the cause of diseases classified elsewhere
+423,DRG42201,B976,Parvovirus as the cause of diseases classified elsewhere
+424,DRG42201,B977,Papillomavirus as the cause of diseases classified elsewhere
+425,DRG42201,B9781,Human metapneumovirus as the cause of diseases classified elsewhere
+426,DRG42201,B9789,Other viral agents as the cause of diseases classified elsewhere
+427,DRG42201,J09X3,Influenza due to identified novel influenza A virus with gastrointestinal manifestations
+428,DRG42201,J09X9,Influenza due to identified novel influenza A virus with other manifestations
+429,DRG42201,J102,Influenza due to other identified influenza virus with gastrointestinal manifestations
+430,DRG42201,J1081,Influenza due to other identified influenza virus with encephalopathy
+431,DRG42201,J1082,Influenza due to other identified influenza virus with myocarditis
+432,DRG42201,J1083,Influenza due to other identified influenza virus with otitis media
+433,DRG42201,J1089,Influenza due to other identified influenza virus with other manifestations
+434,DRG42201,J112,Influenza due to unidentified influenza virus with gastrointestinal manifestations
+435,DRG42201,J1181,Influenza due to unidentified influenza virus with encephalopathy
+436,DRG42201,J1182,Influenza due to unidentified influenza virus with myocarditis
+437,DRG42201,J1183,Influenza due to unidentified influenza virus with otitis media
+438,DRG42201,J1189,Influenza due to unidentified influenza virus with other manifestations
+439,DRG42201,L444,Infantile papular acrodermatitis [Gianotti-Crosti]
+440,DRG42201,R502,Drug induced fever
+441,DRG42201,R509,"Fever, unspecified"
+442,DRG42201,T881XXA,"Other complications following immunization, not elsewhere classified, initial encounter"
+443,DRG42201,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status

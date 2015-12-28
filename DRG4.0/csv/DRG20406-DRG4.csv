@@ -1,0 +1,84 @@
+,DRG,CM-PCS,en
+6211,DRG20406,B252,Cytomegaloviral pancreatitis
+6212,DRG20406,K850,Idiopathic acute pancreatitis
+6213,DRG20406,K851,Biliary acute pancreatitis
+6214,DRG20406,K852,Alcohol induced acute pancreatitis
+6215,DRG20406,K853,Drug induced acute pancreatitis
+6216,DRG20406,K858,Other acute pancreatitis
+6217,DRG20406,K859,"Acute pancreatitis, unspecified"
+6220,DRG20406,A400,"Sepsis due to streptococcus, group A"
+6221,DRG20406,A401,"Sepsis due to streptococcus, group B"
+6222,DRG20406,A403,Sepsis due to Streptococcus pneumoniae
+6223,DRG20406,A408,Other streptococcal sepsis
+6224,DRG20406,A409,"Streptococcal sepsis, unspecified"
+6225,DRG20406,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+6226,DRG20406,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+6227,DRG20406,A411,Sepsis due to other specified staphylococcus
+6228,DRG20406,A412,Sepsis due to unspecified staphylococcus
+6229,DRG20406,A413,Sepsis due to Hemophilus influenzae
+6230,DRG20406,A414,Sepsis due to anaerobes
+6231,DRG20406,A4150,"Gram-negative sepsis, unspecified"
+6232,DRG20406,A4151,Sepsis due to Escherichia coli [E. coli]
+6233,DRG20406,A4152,Sepsis due to Pseudomonas
+6234,DRG20406,A4153,Sepsis due to Serratia
+6235,DRG20406,A4159,Other Gram-negative sepsis
+6236,DRG20406,A4181,Sepsis due to Enterococcus
+6237,DRG20406,A4189,Other specified sepsis
+6238,DRG20406,A419,"Sepsis, unspecified organism"
+6239,DRG20406,B377,Candidal sepsis
+6240,DRG20406,K650,Generalized (acute) peritonitis
+6241,DRG20406,K651,Peritoneal abscess
+6242,DRG20406,K652,Spontaneous bacterial peritonitis
+6243,DRG20406,K653,Choleperitonitis
+6244,DRG20406,K654,Sclerosing mesenteritis
+6245,DRG20406,K658,Other peritonitis
+6246,DRG20406,K659,"Peritonitis, unspecified"
+6247,DRG20406,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+6248,DRG20406,K6811,Postprocedural retroperitoneal abscess
+6249,DRG20406,K6819,Other retroperitoneal abscess
+6250,DRG20406,K689,Other disorders of retroperitoneum
+6251,DRG20406,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+6252,DRG20406,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+6253,DRG20406,R6520,Severe sepsis without septic shock
+6256,DRG20406,0F9C40Z,"Drainage of Ampulla of Vater with Drainage Device, Percutaneous Endoscopic Approach"
+6257,DRG20406,0F9C4ZZ,"Drainage of Ampulla of Vater, Percutaneous Endoscopic Approach"
+6258,DRG20406,0F9C80Z,"Drainage of Ampulla of Vater with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+6259,DRG20406,0F9C8ZZ,"Drainage of Ampulla of Vater, Via Natural or Artificial Opening Endoscopic"
+6262,DRG20406,0D9S30Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Approach"
+6263,DRG20406,0D9S3ZZ,"Drainage of Greater Omentum, Percutaneous Approach"
+6264,DRG20406,0D9S40Z,"Drainage of Greater Omentum with Drainage Device, Percutaneous Endoscopic Approach"
+6265,DRG20406,0D9S4ZZ,"Drainage of Greater Omentum, Percutaneous Endoscopic Approach"
+6266,DRG20406,0D9T30Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Approach"
+6267,DRG20406,0D9T3ZZ,"Drainage of Lesser Omentum, Percutaneous Approach"
+6268,DRG20406,0D9T40Z,"Drainage of Lesser Omentum with Drainage Device, Percutaneous Endoscopic Approach"
+6269,DRG20406,0D9T4ZZ,"Drainage of Lesser Omentum, Percutaneous Endoscopic Approach"
+6270,DRG20406,0D9V30Z,"Drainage of Mesentery with Drainage Device, Percutaneous Approach"
+6271,DRG20406,0D9V3ZZ,"Drainage of Mesentery, Percutaneous Approach"
+6272,DRG20406,0D9V40Z,"Drainage of Mesentery with Drainage Device, Percutaneous Endoscopic Approach"
+6273,DRG20406,0D9V4ZZ,"Drainage of Mesentery, Percutaneous Endoscopic Approach"
+6274,DRG20406,0D9W30Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Approach"
+6275,DRG20406,0D9W3ZZ,"Drainage of Peritoneum, Percutaneous Approach"
+6276,DRG20406,0D9W40Z,"Drainage of Peritoneum with Drainage Device, Percutaneous Endoscopic Approach"
+6277,DRG20406,0D9W4ZZ,"Drainage of Peritoneum, Percutaneous Endoscopic Approach"
+6278,DRG20406,0F9D00Z,"Drainage of Pancreatic Duct with Drainage Device, Open Approach"
+6279,DRG20406,0F9D30Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
+6280,DRG20406,0F9D40Z,"Drainage of Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
+6281,DRG20406,0F9D70Z,"Drainage of Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
+6282,DRG20406,0F9F00Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Open Approach"
+6283,DRG20406,0F9F30Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Approach"
+6284,DRG20406,0F9F40Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Percutaneous Endoscopic Approach"
+6285,DRG20406,0F9F70Z,"Drainage of Accessory Pancreatic Duct with Drainage Device, Via Natural or Artificial Opening"
+6286,DRG20406,0F9G00Z,"Drainage of Pancreas with Drainage Device, Open Approach"
+6287,DRG20406,0F9G30Z,"Drainage of Pancreas with Drainage Device, Percutaneous Approach"
+6288,DRG20406,0F9G40Z,"Drainage of Pancreas with Drainage Device, Percutaneous Endoscopic Approach"
+6289,DRG20406,0W9F30Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Approach"
+6290,DRG20406,0W9F3ZZ,"Drainage of Abdominal Wall, Percutaneous Approach"
+6291,DRG20406,0W9F40Z,"Drainage of Abdominal Wall with Drainage Device, Percutaneous Endoscopic Approach"
+6292,DRG20406,0W9F4ZZ,"Drainage of Abdominal Wall, Percutaneous Endoscopic Approach"
+6293,DRG20406,0W9G30Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Approach"
+6294,DRG20406,0W9G3ZX,"Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic"
+6295,DRG20406,0W9G3ZZ,"Drainage of Peritoneal Cavity, Percutaneous Approach"
+6296,DRG20406,0W9G40Z,"Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Endoscopic Approach"
+6297,DRG20406,0W9G4ZZ,"Drainage of Peritoneal Cavity, Percutaneous Endoscopic Approach"
+6298,DRG20406,0W9J30Z,"Drainage of Pelvic Cavity with Drainage Device, Percutaneous Approach"
+6299,DRG20406,0W9J3ZZ,"Drainage of Pelvic Cavity, Percutaneous Approach"

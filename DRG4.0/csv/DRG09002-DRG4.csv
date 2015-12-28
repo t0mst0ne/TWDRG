@@ -1,0 +1,35 @@
+,DRG,CM-PCS,en
+6269,DRG09002,B330,Epidemic myalgia
+6270,DRG09002,J09X1,Influenza due to identified novel influenza A virus with pneumonia
+6271,DRG09002,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
+6272,DRG09002,J1008,Influenza due to other identified influenza virus with other specified pneumonia
+6273,DRG09002,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+6274,DRG09002,J1108,Influenza due to unidentified influenza virus with specified pneumonia
+6275,DRG09002,J120,Adenoviral pneumonia
+6276,DRG09002,J121,Respiratory syncytial virus pneumonia
+6277,DRG09002,J122,Parainfluenza virus pneumonia
+6278,DRG09002,J123,Human metapneumovirus pneumonia
+6279,DRG09002,J1281,Pneumonia due to SARS-associated coronavirus
+6280,DRG09002,J1289,Other viral pneumonia
+6281,DRG09002,J129,"Viral pneumonia, unspecified"
+6282,DRG09002,J13,Pneumonia due to Streptococcus pneumoniae
+6283,DRG09002,J14,Pneumonia due to Hemophilus influenzae
+6284,DRG09002,J153,"Pneumonia due to streptococcus, group B"
+6285,DRG09002,J15212,Pneumonia due to Methicillin resistant Staphylococcus aureus
+6286,DRG09002,J154,Pneumonia due to other streptococci
+6287,DRG09002,J157,Pneumonia due to Mycoplasma pneumoniae
+6288,DRG09002,J159,Unspecified bacterial pneumonia
+6289,DRG09002,J160,Chlamydial pneumonia
+6290,DRG09002,J168,Pneumonia due to other specified infectious organisms
+6291,DRG09002,J180,"Bronchopneumonia, unspecified organism"
+6292,DRG09002,J181,"Lobar pneumonia, unspecified organism"
+6293,DRG09002,J188,"Other pneumonia, unspecified organism"
+6294,DRG09002,J189,"Pneumonia, unspecified organism"
+6295,DRG09002,J84116,Cryptogenic organizing pneumonia
+6296,DRG09002,J869,Pyothorax without fistula
+6297,DRG09002,J920,Pleural plaque with presence of asbestos
+6298,DRG09002,J929,Pleural plaque without asbestos
+6299,DRG09002,J941,Fibrothorax
+6300,DRG09002,J948,Other specified pleural conditions
+6301,DRG09002,J949,"Pleural condition, unspecified"
+6302,DRG09002,R091,Pleurisy

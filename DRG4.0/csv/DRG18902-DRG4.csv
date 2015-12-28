@@ -1,0 +1,53 @@
+,DRG,CM-PCS,en
+10524,DRG18902,K600,Acute anal fissure
+10525,DRG18902,K601,Chronic anal fissure
+10526,DRG18902,K602,"Anal fissure, unspecified"
+10527,DRG18902,K603,Anal fistula
+10528,DRG18902,K604,Rectal fistula
+10529,DRG18902,K605,Anorectal fistula
+10530,DRG18902,K610,Anal abscess
+10531,DRG18902,K611,Rectal abscess
+10532,DRG18902,K612,Anorectal abscess
+10533,DRG18902,K613,Ischiorectal abscess
+10534,DRG18902,K614,Intrasphincteric abscess
+10535,DRG18902,K620,Anal polyp
+10536,DRG18902,K621,Rectal polyp
+10537,DRG18902,K622,Anal prolapse
+10538,DRG18902,K623,Rectal prolapse
+10539,DRG18902,K624,Stenosis of anus and rectum
+10540,DRG18902,K626,Ulcer of anus and rectum
+10541,DRG18902,K627,Radiation proctitis
+10542,DRG18902,K6281,Anal sphincter tear (healed) (nontraumatic) (old)
+10543,DRG18902,K6282,Dysplasia of anus
+10544,DRG18902,K6289,Other specified diseases of anus and rectum
+10545,DRG18902,K629,"Disease of anus and rectum, unspecified"
+10546,DRG18902,K640,First degree hemorrhoids
+10547,DRG18902,K641,Second degree hemorrhoids
+10548,DRG18902,K642,Third degree hemorrhoids
+10549,DRG18902,K643,Fourth degree hemorrhoids
+10550,DRG18902,K644,Residual hemorrhoidal skin tags
+10551,DRG18902,K645,Perianal venous thrombosis
+10552,DRG18902,K648,Other hemorrhoids
+10553,DRG18902,K649,Unspecified hemorrhoids
+10554,DRG18902,S27812A,"Contusion of esophagus (thoracic part), initial encounter"
+10555,DRG18902,S27813A,"Laceration of esophagus (thoracic part), initial encounter"
+10556,DRG18902,S27818A,"Other injury of esophagus (thoracic part), initial encounter"
+10557,DRG18902,S27819A,"Unspecified injury of esophagus (thoracic part), initial encounter"
+10558,DRG18902,S3630XA,"Unspecified injury of stomach, initial encounter"
+10559,DRG18902,S3632XA,"Contusion of stomach, initial encounter"
+10560,DRG18902,S3633XA,"Laceration of stomach, initial encounter"
+10561,DRG18902,S3639XA,"Other injury of stomach, initial encounter"
+10562,DRG18902,S36400A,"Unspecified injury of duodenum, initial encounter"
+10563,DRG18902,S36409A,"Unspecified injury of unspecified part of small intestine, initial encounter"
+10564,DRG18902,S36410A,"Primary blast injury of duodenum, initial encounter"
+10565,DRG18902,S36419A,"Primary blast injury of unspecified part of small intestine, initial encounter"
+10566,DRG18902,S36420A,"Contusion of duodenum, initial encounter"
+10567,DRG18902,S36429A,"Contusion of unspecified part of small intestine, initial encounter"
+10568,DRG18902,S36430A,"Laceration of duodenum, initial encounter"
+10569,DRG18902,S36439A,"Laceration of unspecified part of small intestine, initial encounter"
+10570,DRG18902,S36490A,"Other injury of duodenum, initial encounter"
+10571,DRG18902,S36499A,"Other injury of unspecified part of small intestine, initial encounter"
+10572,DRG18902,Z431,Encounter for attention to gastrostomy
+10573,DRG18902,Z432,Encounter for attention to ileostomy
+10574,DRG18902,Z433,Encounter for attention to colostomy
+10575,DRG18902,Z434,Encounter for attention to other artificial openings of digestive tract

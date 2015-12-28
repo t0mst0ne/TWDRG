@@ -1,0 +1,38 @@
+,DRG,CM-PCS,en
+105,DRG41701,A021,Salmonella sepsis
+106,DRG41701,A207,Septicemic plague
+107,DRG41701,A227,Anthrax sepsis
+108,DRG41701,A391,Waterhouse-Friderichsen syndrome
+109,DRG41701,A392,Acute meningococcemia
+110,DRG41701,A393,Chronic meningococcemia
+111,DRG41701,A394,"Meningococcemia, unspecified"
+112,DRG41701,A3989,Other meningococcal infections
+113,DRG41701,A399,"Meningococcal infection, unspecified"
+114,DRG41701,A400,"Sepsis due to streptococcus, group A"
+115,DRG41701,A401,"Sepsis due to streptococcus, group B"
+116,DRG41701,A403,Sepsis due to Streptococcus pneumoniae
+117,DRG41701,A408,Other streptococcal sepsis
+118,DRG41701,A409,"Streptococcal sepsis, unspecified"
+119,DRG41701,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+120,DRG41701,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+121,DRG41701,A411,Sepsis due to other specified staphylococcus
+122,DRG41701,A412,Sepsis due to unspecified staphylococcus
+123,DRG41701,A413,Sepsis due to Hemophilus influenzae
+124,DRG41701,A414,Sepsis due to anaerobes
+125,DRG41701,A4150,"Gram-negative sepsis, unspecified"
+126,DRG41701,A4151,Sepsis due to Escherichia coli [E. coli]
+127,DRG41701,A4152,Sepsis due to Pseudomonas
+128,DRG41701,A4153,Sepsis due to Serratia
+129,DRG41701,A4159,Other Gram-negative sepsis
+130,DRG41701,A4181,Sepsis due to Enterococcus
+131,DRG41701,A4189,Other specified sepsis
+132,DRG41701,A419,"Sepsis, unspecified organism"
+133,DRG41701,A427,Actinomycotic sepsis
+134,DRG41701,B007,Disseminated herpesviral disease
+135,DRG41701,R571,Hypovolemic shock
+136,DRG41701,R578,Other shock
+137,DRG41701,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+138,DRG41701,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+139,DRG41701,R6520,Severe sepsis without septic shock
+140,DRG41701,R6521,Severe sepsis with septic shock
+141,DRG41701,R7881,Bacteremia

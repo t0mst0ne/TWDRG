@@ -1,0 +1,61 @@
+,DRG,CM-PCS,en
+9232,DRG17503,K5521,Angiodysplasia of colon with hemorrhage
+9233,DRG17503,K5701,Diverticulitis of small intestine with perforation and abscess with bleeding
+9234,DRG17503,K5711,Diverticulosis of small intestine without perforation or abscess with bleeding
+9235,DRG17503,K5713,Diverticulitis of small intestine without perforation or abscess with bleeding
+9236,DRG17503,K5721,Diverticulitis of large intestine with perforation and abscess with bleeding
+9237,DRG17503,K5731,Diverticulosis of large intestine without perforation or abscess with bleeding
+9238,DRG17503,K5733,Diverticulitis of large intestine without perforation or abscess with bleeding
+9239,DRG17503,K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding
+9240,DRG17503,K5753,Diverticulitis of both small and large intestine without perforation or abscess with bleeding
+9241,DRG17503,K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding"
+9242,DRG17503,K5791,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding"
+9243,DRG17503,K5793,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding"
+9244,DRG17503,K625,Hemorrhage of anus and rectum
+9245,DRG17503,K921,Melena
+9246,DRG17503,K922,"Gastrointestinal hemorrhage, unspecified"
+9249,DRG17503,06L34CZ,"Occlusion of Esophageal Vein with Extraluminal Device, Percutaneous Endoscopic Approach"
+9250,DRG17503,0D514ZZ,"Destruction of Upper Esophagus, Percutaneous Endoscopic Approach"
+9251,DRG17503,0D518ZZ,"Destruction of Upper Esophagus, Via Natural or Artificial Opening Endoscopic"
+9252,DRG17503,0D524ZZ,"Destruction of Middle Esophagus, Percutaneous Endoscopic Approach"
+9253,DRG17503,0D528ZZ,"Destruction of Middle Esophagus, Via Natural or Artificial Opening Endoscopic"
+9254,DRG17503,0D534ZZ,"Destruction of Lower Esophagus, Percutaneous Endoscopic Approach"
+9255,DRG17503,0D538ZZ,"Destruction of Lower Esophagus, Via Natural or Artificial Opening Endoscopic"
+9256,DRG17503,0D544ZZ,"Destruction of Esophagogastric Junction, Percutaneous Endoscopic Approach"
+9257,DRG17503,0D548ZZ,"Destruction of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
+9258,DRG17503,0D554ZZ,"Destruction of Esophagus, Percutaneous Endoscopic Approach"
+9259,DRG17503,0D558ZZ,"Destruction of Esophagus, Via Natural or Artificial Opening Endoscopic"
+9260,DRG17503,0D564ZZ,"Destruction of Stomach, Percutaneous Endoscopic Approach"
+9261,DRG17503,0D568ZZ,"Destruction of Stomach, Via Natural or Artificial Opening Endoscopic"
+9262,DRG17503,0D574ZZ,"Destruction of Stomach, Pylorus, Percutaneous Endoscopic Approach"
+9263,DRG17503,0D578ZZ,"Destruction of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic"
+9264,DRG17503,0D5E4ZZ,"Destruction of Large Intestine, Percutaneous Endoscopic Approach"
+9265,DRG17503,0D5E8ZZ,"Destruction of Large Intestine, Via Natural or Artificial Opening Endoscopic"
+9266,DRG17503,0D5F4ZZ,"Destruction of Right Large Intestine, Percutaneous Endoscopic Approach"
+9267,DRG17503,0D5F8ZZ,"Destruction of Right Large Intestine, Via Natural or Artificial Opening Endoscopic"
+9268,DRG17503,0D5G4ZZ,"Destruction of Left Large Intestine, Percutaneous Endoscopic Approach"
+9269,DRG17503,0D5G8ZZ,"Destruction of Left Large Intestine, Via Natural or Artificial Opening Endoscopic"
+9270,DRG17503,0D5H4ZZ,"Destruction of Cecum, Percutaneous Endoscopic Approach"
+9271,DRG17503,0D5H8ZZ,"Destruction of Cecum, Via Natural or Artificial Opening Endoscopic"
+9272,DRG17503,0D5K4ZZ,"Destruction of Ascending Colon, Percutaneous Endoscopic Approach"
+9273,DRG17503,0D5K8ZZ,"Destruction of Ascending Colon, Via Natural or Artificial Opening Endoscopic"
+9274,DRG17503,0D5L4ZZ,"Destruction of Transverse Colon, Percutaneous Endoscopic Approach"
+9275,DRG17503,0D5L8ZZ,"Destruction of Transverse Colon, Via Natural or Artificial Opening Endoscopic"
+9276,DRG17503,0D5M4ZZ,"Destruction of Descending Colon, Percutaneous Endoscopic Approach"
+9277,DRG17503,0D5M8ZZ,"Destruction of Descending Colon, Via Natural or Artificial Opening Endoscopic"
+9278,DRG17503,0D5N4ZZ,"Destruction of Sigmoid Colon, Percutaneous Endoscopic Approach"
+9279,DRG17503,0D5N8ZZ,"Destruction of Sigmoid Colon, Via Natural or Artificial Opening Endoscopic"
+9280,DRG17503,0DB14ZZ,"Excision of Upper Esophagus, Percutaneous Endoscopic Approach"
+9281,DRG17503,0DB18ZZ,"Excision of Upper Esophagus, Via Natural or Artificial Opening Endoscopic"
+9282,DRG17503,0DB24ZZ,"Excision of Middle Esophagus, Percutaneous Endoscopic Approach"
+9283,DRG17503,0DB28ZZ,"Excision of Middle Esophagus, Via Natural or Artificial Opening Endoscopic"
+9284,DRG17503,0DB34ZZ,"Excision of Lower Esophagus, Percutaneous Endoscopic Approach"
+9285,DRG17503,0DB38ZZ,"Excision of Lower Esophagus, Via Natural or Artificial Opening Endoscopic"
+9286,DRG17503,0DB48ZZ,"Excision of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
+9287,DRG17503,0DB54ZZ,"Excision of Esophagus, Percutaneous Endoscopic Approach"
+9288,DRG17503,0DB58ZZ,"Excision of Esophagus, Via Natural or Artificial Opening Endoscopic"
+9289,DRG17503,0DB64ZZ,"Excision of Stomach, Percutaneous Endoscopic Approach"
+9290,DRG17503,0DB68ZZ,"Excision of Stomach, Via Natural or Artificial Opening Endoscopic"
+9291,DRG17503,0DB74ZZ,"Excision of Stomach, Pylorus, Percutaneous Endoscopic Approach"
+9292,DRG17503,0DB78ZZ,"Excision of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic"
+9293,DRG17503,0W3P8ZZ,"Control Bleeding in Gastrointestinal Tract, Via Natural or Artificial Opening Endoscopic"

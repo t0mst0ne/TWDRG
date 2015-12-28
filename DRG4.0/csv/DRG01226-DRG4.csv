@@ -1,0 +1,79 @@
+,DRG,CM-PCS,en
+45593,DRG01226,E7500,"GM2 gangliosidosis, unspecified"
+45594,DRG01226,E7501,Sandhoff disease
+45595,DRG01226,E7502,Tay-Sachs disease
+45596,DRG01226,E7509,Other GM2 gangliosidosis
+45597,DRG01226,E7510,Unspecified gangliosidosis
+45598,DRG01226,E7511,Mucolipidosis IV
+45599,DRG01226,E7519,Other gangliosidosis
+45600,DRG01226,E7525,Metachromatic leukodystrophy
+45601,DRG01226,E7529,Other sphingolipidosis
+45602,DRG01226,E754,Neuronal ceroid lipofuscinosis
+45603,DRG01226,F0789,Other personality and behavioral disorders due to known physiological condition
+45604,DRG01226,F842,Rett's syndrome
+45605,DRG01226,G10,Huntington's disease
+45606,DRG01226,G120,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]"
+45607,DRG01226,G121,Other inherited spinal muscular atrophy
+45608,DRG01226,G1220,"Motor neuron disease, unspecified"
+45609,DRG01226,G1221,Amyotrophic lateral sclerosis
+45610,DRG01226,G1222,Progressive bulbar palsy
+45611,DRG01226,G1229,Other motor neuron disease
+45612,DRG01226,G128,Other spinal muscular atrophies and related syndromes
+45613,DRG01226,G129,"Spinal muscular atrophy, unspecified"
+45614,DRG01226,G20,Parkinson's disease
+45615,DRG01226,G2111,Neuroleptic induced parkinsonism
+45616,DRG01226,G2119,Other drug induced secondary parkinsonism
+45617,DRG01226,G212,Secondary parkinsonism due to other external agents
+45618,DRG01226,G213,Postencephalitic parkinsonism
+45619,DRG01226,G214,Vascular parkinsonism
+45620,DRG01226,G218,Other secondary parkinsonism
+45621,DRG01226,G219,"Secondary parkinsonism, unspecified"
+45622,DRG01226,G230,Hallervorden-Spatz disease
+45623,DRG01226,G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]
+45624,DRG01226,G232,Striatonigral degeneration
+45625,DRG01226,G238,Other specified degenerative diseases of basal ganglia
+45626,DRG01226,G239,"Degenerative disease of basal ganglia, unspecified"
+45627,DRG01226,G2402,Drug induced acute dystonia
+45628,DRG01226,G2409,Other drug induced dystonia
+45629,DRG01226,G241,Genetic torsion dystonia
+45630,DRG01226,G242,Idiopathic nonfamilial dystonia
+45631,DRG01226,G248,Other dystonia
+45632,DRG01226,G254,Drug-induced chorea
+45633,DRG01226,G255,Other chorea
+45634,DRG01226,G2570,"Drug induced movement disorder, unspecified"
+45635,DRG01226,G2571,Drug induced akathisia
+45636,DRG01226,G2579,Other drug induced movement disorders
+45637,DRG01226,G2581,Restless legs syndrome
+45638,DRG01226,G2589,Other specified extrapyramidal and movement disorders
+45639,DRG01226,G259,"Extrapyramidal and movement disorder, unspecified"
+45640,DRG01226,G300,Alzheimer's disease with early onset
+45641,DRG01226,G301,Alzheimer's disease with late onset
+45642,DRG01226,G308,Other Alzheimer's disease
+45643,DRG01226,G309,"Alzheimer's disease, unspecified"
+45644,DRG01226,G3101,Pick's disease
+45645,DRG01226,G3109,Other frontotemporal dementia
+45646,DRG01226,G311,"Senile degeneration of brain, not elsewhere classified"
+45647,DRG01226,G3181,Alpers disease
+45648,DRG01226,G3182,Leigh's disease
+45649,DRG01226,G3183,Dementia with Lewy bodies
+45650,DRG01226,G3184,"Mild cognitive impairment, so stated"
+45651,DRG01226,G3185,Corticobasal degeneration
+45652,DRG01226,G3189,Other specified degenerative diseases of nervous system
+45653,DRG01226,G319,"Degenerative disease of nervous system, unspecified"
+45654,DRG01226,G312,Degeneration of nervous system due to alcohol
+45655,DRG01226,G7000,Myasthenia gravis without (acute) exacerbation
+45656,DRG01226,G7001,Myasthenia gravis with (acute) exacerbation
+45657,DRG01226,G803,Athetoid cerebral palsy
+45658,DRG01226,G903,Multi-system degeneration of the autonomic nervous system
+45659,DRG01226,G910,Communicating hydrocephalus
+45660,DRG01226,G911,Obstructive hydrocephalus
+45661,DRG01226,G912,(Idiopathic) normal pressure hydrocephalus
+45662,DRG01226,G913,"Post-traumatic hydrocephalus, unspecified"
+45663,DRG01226,G918,Other hydrocephalus
+45664,DRG01226,G919,"Hydrocephalus, unspecified"
+45665,DRG01226,G950,Syringomyelia and syringobulbia
+45668,DRG01226,6A550Z3,"Pheresis of Plasma, Single"
+45669,DRG01226,6A551Z3,"Pheresis of Plasma, Multiple"
+45672,DRG01226,F000001,Physical Therapy
+45673,DRG01226,F000002,Occupational Therapy
+45674,DRG01226,F000003,Communication Therapy

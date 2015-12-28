@@ -1,0 +1,389 @@
+,DRG,CM-PCS,en
+10724,DRG18905,A213,Gastrointestinal tularemia
+10725,DRG18905,A222,Gastrointestinal anthrax
+10726,DRG18905,A421,Abdominal actinomycosis
+10727,DRG18905,A511,Primary anal syphilis
+10728,DRG18905,A546,Gonococcal infection of anus and rectum
+10729,DRG18905,A5485,Gonococcal peritonitis
+10730,DRG18905,A563,Chlamydial infection of anus and rectum
+10731,DRG18905,B0081,Herpesviral hepatitis
+10732,DRG18905,D120,Benign neoplasm of cecum
+10733,DRG18905,D121,Benign neoplasm of appendix
+10734,DRG18905,D122,Benign neoplasm of ascending colon
+10735,DRG18905,D123,Benign neoplasm of transverse colon
+10736,DRG18905,D124,Benign neoplasm of descending colon
+10737,DRG18905,D125,Benign neoplasm of sigmoid colon
+10738,DRG18905,D126,"Benign neoplasm of colon, unspecified"
+10739,DRG18905,D127,Benign neoplasm of rectosigmoid junction
+10740,DRG18905,D128,Benign neoplasm of rectum
+10741,DRG18905,D129,Benign neoplasm of anus and anal canal
+10742,DRG18905,D130,Benign neoplasm of esophagus
+10743,DRG18905,D131,Benign neoplasm of stomach
+10744,DRG18905,D132,Benign neoplasm of duodenum
+10745,DRG18905,D1330,Benign neoplasm of unspecified part of small intestine
+10746,DRG18905,D1339,Benign neoplasm of other parts of small intestine
+10747,DRG18905,D139,Benign neoplasm of ill-defined sites within the digestive system
+10748,DRG18905,D175,Benign lipomatous neoplasm of intra-abdominal organs
+10749,DRG18905,D1771,Benign lipomatous neoplasm of kidney
+10750,DRG18905,D191,Benign neoplasm of mesothelial tissue of peritoneum
+10751,DRG18905,D200,Benign neoplasm of soft tissue of retroperitoneum
+10752,DRG18905,D201,Benign neoplasm of soft tissue of peritoneum
+10753,DRG18905,D3A010,Benign carcinoid tumor of the duodenum
+10754,DRG18905,D3A011,Benign carcinoid tumor of the jejunum
+10755,DRG18905,D3A012,Benign carcinoid tumor of the ileum
+10756,DRG18905,D3A019,"Benign carcinoid tumor of the small intestine, unspecified portion"
+10757,DRG18905,D3A020,Benign carcinoid tumor of the appendix
+10758,DRG18905,D3A021,Benign carcinoid tumor of the cecum
+10759,DRG18905,D3A022,Benign carcinoid tumor of the ascending colon
+10760,DRG18905,D3A024,Benign carcinoid tumor of the descending colon
+10761,DRG18905,D3A025,Benign carcinoid tumor of the sigmoid colon
+10762,DRG18905,D3A026,Benign carcinoid tumor of the rectum
+10763,DRG18905,D3A029,"Benign carcinoid tumor of the large intestine, unspecified portion"
+10764,DRG18905,D3A092,Benign carcinoid tumor of the stomach
+10765,DRG18905,I8500,Esophageal varices without bleeding
+10766,DRG18905,I880,Nonspecific mesenteric lymphadenitis
+10767,DRG18905,K317,Polyp of stomach and duodenum
+10768,DRG18905,K352,Acute appendicitis with generalized peritonitis
+10769,DRG18905,K353,Acute appendicitis with localized peritonitis
+10770,DRG18905,K3580,Unspecified acute appendicitis
+10771,DRG18905,K3589,Other acute appendicitis
+10772,DRG18905,K36,Other appendicitis
+10773,DRG18905,K37,Unspecified appendicitis
+10774,DRG18905,K380,Hyperplasia of appendix
+10775,DRG18905,K381,Appendicular concretions
+10776,DRG18905,K382,Diverticulum of appendix
+10777,DRG18905,K383,Fistula of appendix
+10778,DRG18905,K388,Other specified diseases of appendix
+10779,DRG18905,K389,"Disease of appendix, unspecified"
+10780,DRG18905,K4000,"Bilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent"
+10781,DRG18905,K4001,"Bilateral inguinal hernia, with obstruction, without gangrene, recurrent"
+10782,DRG18905,K4010,"Bilateral inguinal hernia, with gangrene, not specified as recurrent"
+10783,DRG18905,K4011,"Bilateral inguinal hernia, with gangrene, recurrent"
+10784,DRG18905,K4020,"Bilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent"
+10785,DRG18905,K4021,"Bilateral inguinal hernia, without obstruction or gangrene, recurrent"
+10786,DRG18905,K4030,"Unilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent"
+10787,DRG18905,K4031,"Unilateral inguinal hernia, with obstruction, without gangrene, recurrent"
+10788,DRG18905,K4040,"Unilateral inguinal hernia, with gangrene, not specified as recurrent"
+10789,DRG18905,K4041,"Unilateral inguinal hernia, with gangrene, recurrent"
+10790,DRG18905,K4090,"Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent"
+10791,DRG18905,K4091,"Unilateral inguinal hernia, without obstruction or gangrene, recurrent"
+10792,DRG18905,K4100,"Bilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent"
+10793,DRG18905,K4101,"Bilateral femoral hernia, with obstruction, without gangrene, recurrent"
+10794,DRG18905,K4110,"Bilateral femoral hernia, with gangrene, not specified as recurrent"
+10795,DRG18905,K4111,"Bilateral femoral hernia, with gangrene, recurrent"
+10796,DRG18905,K4120,"Bilateral femoral hernia, without obstruction or gangrene, not specified as recurrent"
+10797,DRG18905,K4121,"Bilateral femoral hernia, without obstruction or gangrene, recurrent"
+10798,DRG18905,K4130,"Unilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent"
+10799,DRG18905,K4131,"Unilateral femoral hernia, with obstruction, without gangrene, recurrent"
+10800,DRG18905,K4140,"Unilateral femoral hernia, with gangrene, not specified as recurrent"
+10801,DRG18905,K4141,"Unilateral femoral hernia, with gangrene, recurrent"
+10802,DRG18905,K4190,"Unilateral femoral hernia, without obstruction or gangrene, not specified as recurrent"
+10803,DRG18905,K4191,"Unilateral femoral hernia, without obstruction or gangrene, recurrent"
+10804,DRG18905,K420,"Umbilical hernia with obstruction, without gangrene"
+10805,DRG18905,K421,Umbilical hernia with gangrene
+10806,DRG18905,K429,Umbilical hernia without obstruction or gangrene
+10807,DRG18905,K431,Incisional hernia with gangrene
+10808,DRG18905,K432,Incisional hernia without obstruction or gangrene
+10809,DRG18905,K433,"Parastomal hernia with obstruction, without gangrene"
+10810,DRG18905,K434,Parastomal hernia with gangrene
+10811,DRG18905,K435,Parastomal hernia without obstruction or  gangrene
+10812,DRG18905,K436,"Other and unspecified ventral hernia with obstruction, without gangrene"
+10813,DRG18905,K437,Other and unspecified ventral hernia with gangrene
+10814,DRG18905,K439,Ventral hernia without obstruction or gangrene
+10815,DRG18905,K441,Diaphragmatic hernia with gangrene
+10816,DRG18905,K450,"Other specified abdominal hernia with obstruction, without gangrene"
+10817,DRG18905,K451,Other specified abdominal hernia with gangrene
+10818,DRG18905,K458,Other specified abdominal hernia without obstruction or gangrene
+10819,DRG18905,K460,"Unspecified abdominal hernia with obstruction, without gangrene"
+10820,DRG18905,K461,Unspecified abdominal hernia with gangrene
+10821,DRG18905,K469,Unspecified abdominal hernia without obstruction or gangrene
+10822,DRG18905,K520,Gastroenteritis and colitis due to radiation
+10823,DRG18905,K521,Toxic gastroenteritis and colitis
+10824,DRG18905,K550,Acute vascular disorders of intestine
+10825,DRG18905,K551,Chronic vascular disorders of intestine
+10826,DRG18905,K5520,Angiodysplasia of colon without hemorrhage
+10827,DRG18905,K558,Other vascular disorders of intestine
+10828,DRG18905,K559,"Vascular disorder of intestine, unspecified"
+10829,DRG18905,K593,"Megacolon, not elsewhere classified"
+10830,DRG18905,K630,Abscess of intestine
+10831,DRG18905,K634,Enteroptosis
+10832,DRG18905,K635,Polyp of colon
+10833,DRG18905,K639,"Disease of intestine, unspecified"
+10834,DRG18905,K650,Generalized (acute) peritonitis
+10835,DRG18905,K651,Peritoneal abscess
+10836,DRG18905,K652,Spontaneous bacterial peritonitis
+10837,DRG18905,K653,Choleperitonitis
+10838,DRG18905,K654,Sclerosing mesenteritis
+10839,DRG18905,K658,Other peritonitis
+10840,DRG18905,K659,"Peritonitis, unspecified"
+10841,DRG18905,K660,Peritoneal adhesions (postprocedural) (postinfection)
+10842,DRG18905,K661,Hemoperitoneum
+10843,DRG18905,K668,Other specified disorders of peritoneum
+10844,DRG18905,K669,"Disorder of peritoneum, unspecified"
+10845,DRG18905,K6819,Other retroperitoneal abscess
+10846,DRG18905,K689,Other disorders of retroperitoneum
+10847,DRG18905,K9081,Whipple's disease
+10848,DRG18905,K913,Postprocedural intestinal obstruction
+10849,DRG18905,K9181,Other intraoperative complications of digestive system
+10850,DRG18905,K9182,Postprocedural hepatic failure
+10851,DRG18905,K9183,Postprocedural hepatorenal syndrome
+10852,DRG18905,K91850,Pouchitis
+10853,DRG18905,K91858,Other complications of intestinal pouch
+10854,DRG18905,K9186,Retained cholelithiasis following cholecystectomy
+10855,DRG18905,K9289,Other specified diseases of the digestive system
+10856,DRG18905,K929,"Disease of digestive system, unspecified"
+10857,DRG18905,K9420,"Gastrostomy complication, unspecified"
+10858,DRG18905,K9421,Gastrostomy hemorrhage
+10859,DRG18905,K9422,Gastrostomy infection
+10860,DRG18905,K9423,Gastrostomy malfunction
+10861,DRG18905,K9429,Other complications of gastrostomy
+10862,DRG18905,K9431,Esophagostomy hemorrhage
+10863,DRG18905,K9432,Esophagostomy infection
+10864,DRG18905,K9433,Esophagostomy malfunction
+10865,DRG18905,K9439,Other complications of esophagostomy
+10866,DRG18905,K9501,Infection due to gastric band procedure
+10867,DRG18905,K9509,Other complications of gastric band procedure
+10868,DRG18905,K9581,Infection due to other bariatric procedure
+10869,DRG18905,K9589,Other complications of other bariatric procedure
+10870,DRG18905,N994,Postprocedural pelvic peritoneal adhesions
+10871,DRG18905,Q385,"Congenital malformations of palate, not elsewhere classified"
+10872,DRG18905,Q390,Atresia of esophagus without fistula
+10873,DRG18905,Q391,Atresia of esophagus with tracheo-esophageal fistula
+10874,DRG18905,Q392,Congenital tracheo-esophageal fistula without atresia
+10875,DRG18905,Q393,Congenital stenosis and stricture of esophagus
+10876,DRG18905,Q394,Esophageal web
+10877,DRG18905,Q395,Congenital dilatation of esophagus
+10878,DRG18905,Q419,"Congenital absence, atresia and stenosis of small intestine, part unspecified"
+10879,DRG18905,Q420,"Congenital absence, atresia and stenosis of rectum with fistula"
+10880,DRG18905,Q421,"Congenital absence, atresia and stenosis of rectum without fistula"
+10881,DRG18905,Q422,"Congenital absence, atresia and stenosis of anus with fistula"
+10882,DRG18905,Q423,"Congenital absence, atresia and stenosis of anus without fistula"
+10883,DRG18905,Q428,"Congenital absence, atresia and stenosis of other parts of large intestine"
+10884,DRG18905,Q429,"Congenital absence, atresia and stenosis of large intestine, part unspecified"
+10885,DRG18905,Q431,Hirschsprung's disease
+10886,DRG18905,Q433,Congenital malformations of intestinal fixation
+10887,DRG18905,Q434,Duplication of intestine
+10888,DRG18905,Q435,Ectopic anus
+10889,DRG18905,Q436,Congenital fistula of rectum and anus
+10890,DRG18905,Q437,Persistent cloaca
+10891,DRG18905,Q438,Other specified congenital malformations of intestine
+10892,DRG18905,Q439,"Congenital malformation of intestine, unspecified"
+10893,DRG18905,Q458,Other specified congenital malformations of digestive system
+10894,DRG18905,Q459,"Congenital malformation of digestive system, unspecified"
+10895,DRG18905,Q792,Exomphalos
+10896,DRG18905,Q793,Gastroschisis
+10897,DRG18905,Q794,Prune belly syndrome
+10898,DRG18905,Q7951,Congenital hernia of bladder
+10899,DRG18905,Q7959,Other congenital malformations of abdominal wall
+10900,DRG18905,Q893,Situs inversus
+10901,DRG18905,R1113,Vomiting of fecal matter
+10902,DRG18905,R1930,"Abdominal rigidity, unspecified site"
+10903,DRG18905,R1931,Right upper quadrant abdominal rigidity
+10904,DRG18905,R1932,Left upper quadrant abdominal rigidity
+10905,DRG18905,R1933,Right lower quadrant abdominal rigidity
+10906,DRG18905,R1934,Left lower quadrant abdominal rigidity
+10907,DRG18905,R1935,Periumbilic abdominal rigidity
+10908,DRG18905,R1936,Epigastric abdominal rigidity
+10909,DRG18905,R1937,Generalized abdominal rigidity
+10910,DRG18905,S31600A,"Unspecified open wound of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter"
+10911,DRG18905,S31601A,"Unspecified open wound of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter"
+10912,DRG18905,S31602A,"Unspecified open wound of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter"
+10913,DRG18905,S31603A,"Unspecified open wound of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter"
+10914,DRG18905,S31604A,"Unspecified open wound of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+10915,DRG18905,S31605A,"Unspecified open wound of abdominal wall, periumbilic region with penetration into peritoneal cavity, initial encounter"
+10916,DRG18905,S31609A,"Unspecified open wound of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter"
+10917,DRG18905,S31610A,"Laceration without foreign body of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter"
+10918,DRG18905,S31611A,"Laceration without foreign body of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter"
+10919,DRG18905,S31612A,"Laceration without foreign body of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter"
+10920,DRG18905,S31613A,"Laceration without foreign body of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter"
+10921,DRG18905,S31614A,"Laceration without foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+10922,DRG18905,S31615A,"Laceration without foreign body of abdominal wall, periumbilic region with penetration into peritoneal cavity, initial encounter"
+10923,DRG18905,S31619A,"Laceration without foreign body of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter"
+10924,DRG18905,S31620A,"Laceration with foreign body of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter"
+10925,DRG18905,S31621A,"Laceration with foreign body of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter"
+10926,DRG18905,S31622A,"Laceration with foreign body of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter"
+10927,DRG18905,S31623A,"Laceration with foreign body of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter"
+10928,DRG18905,S31624A,"Laceration with foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+10929,DRG18905,S31625A,"Laceration with foreign body of abdominal wall, periumbilic region with penetration into peritoneal cavity, initial encounter"
+10930,DRG18905,S31629A,"Laceration with foreign body of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter"
+10931,DRG18905,S31630A,"Puncture wound without foreign body of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter"
+10932,DRG18905,S31631A,"Puncture wound without foreign body of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter"
+10933,DRG18905,S31632A,"Puncture wound without foreign body of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter"
+10934,DRG18905,S31633A,"Puncture wound without foreign body of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter"
+10935,DRG18905,S31634A,"Puncture wound without foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+10936,DRG18905,S31635A,"Puncture wound without foreign body of abdominal wall, periumbilic region with penetration into peritoneal cavity, initial encounter"
+10937,DRG18905,S31639A,"Puncture wound without foreign body of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter"
+10938,DRG18905,S31640A,"Puncture wound with foreign body of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter"
+10939,DRG18905,S31641A,"Puncture wound with foreign body of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter"
+10940,DRG18905,S31642A,"Puncture wound with foreign body of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter"
+10941,DRG18905,S31643A,"Puncture wound with foreign body of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter"
+10942,DRG18905,S31644A,"Puncture wound with foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+10943,DRG18905,S31645A,"Puncture wound with foreign body of abdominal wall, periumbilic region with penetration into peritoneal cavity, initial encounter"
+10944,DRG18905,S31649A,"Puncture wound with foreign body of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter"
+10945,DRG18905,S31650A,"Open bite of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter"
+10946,DRG18905,S31651A,"Open bite of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter"
+10947,DRG18905,S31652A,"Open bite of abdominal wall, epigastric region with penetration into peritoneal cavity, initial encounter"
+10948,DRG18905,S31653A,"Open bite of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter"
+10949,DRG18905,S31654A,"Open bite of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+10950,DRG18905,S31655A,"Open bite of abdominal wall, periumbilic region with penetration into peritoneal cavity, initial encounter"
+10951,DRG18905,S31659A,"Open bite of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter"
+10952,DRG18905,S3600XS,"Unspecified injury of spleen, sequela"
+10953,DRG18905,S36020S,"Minor contusion of spleen, sequela"
+10954,DRG18905,S36021S,"Major contusion of spleen, sequela"
+10955,DRG18905,S36029S,"Unspecified contusion of spleen, sequela"
+10956,DRG18905,S36030S,"Superficial (capsular) laceration of spleen, sequela"
+10957,DRG18905,S36031S,"Moderate laceration of spleen, sequela"
+10958,DRG18905,S36032S,"Major laceration of spleen, sequela"
+10959,DRG18905,S36039S,"Unspecified laceration of spleen, sequela"
+10960,DRG18905,S3609XS,"Other injury of spleen, sequela"
+10961,DRG18905,S36112S,"Contusion of liver, sequela"
+10962,DRG18905,S36113S,"Laceration of liver, unspecified degree, sequela"
+10963,DRG18905,S36114S,"Minor laceration of liver, sequela"
+10964,DRG18905,S36115S,"Moderate laceration of liver, sequela"
+10965,DRG18905,S36116S,"Major laceration of liver, sequela"
+10966,DRG18905,S36118S,"Other injury of liver, sequela"
+10967,DRG18905,S36119S,"Unspecified injury of liver, sequela"
+10968,DRG18905,S36122S,"Contusion of gallbladder, sequela"
+10969,DRG18905,S36123S,"Laceration of gallbladder, sequela"
+10970,DRG18905,S36128S,"Other injury of gallbladder, sequela"
+10971,DRG18905,S36129S,"Unspecified injury of gallbladder, sequela"
+10972,DRG18905,S3613XS,"Injury of bile duct, sequela"
+10973,DRG18905,S36200S,"Unspecified injury of head of pancreas, sequela"
+10974,DRG18905,S36201S,"Unspecified injury of body of pancreas, sequela"
+10975,DRG18905,S36202S,"Unspecified injury of tail of pancreas, sequela"
+10976,DRG18905,S36209S,"Unspecified injury of unspecified part of pancreas, sequela"
+10977,DRG18905,S36220S,"Contusion of head of pancreas, sequela"
+10978,DRG18905,S36221S,"Contusion of body of pancreas, sequela"
+10979,DRG18905,S36222S,"Contusion of tail of pancreas, sequela"
+10980,DRG18905,S36229S,"Contusion of unspecified part of pancreas, sequela"
+10981,DRG18905,S36230S,"Laceration of head of pancreas, unspecified degree, sequela"
+10982,DRG18905,S36231S,"Laceration of body of pancreas, unspecified degree, sequela"
+10983,DRG18905,S36232S,"Laceration of tail of pancreas, unspecified degree, sequela"
+10984,DRG18905,S36239S,"Laceration of unspecified part of pancreas, unspecified degree, sequela"
+10985,DRG18905,S36240S,"Minor laceration of head of pancreas, sequela"
+10986,DRG18905,S36241S,"Minor laceration of body of pancreas, sequela"
+10987,DRG18905,S36242S,"Minor laceration of tail of pancreas, sequela"
+10988,DRG18905,S36249S,"Minor laceration of unspecified part of pancreas, sequela"
+10989,DRG18905,S36250S,"Moderate laceration of head of pancreas, sequela"
+10990,DRG18905,S36251S,"Moderate laceration of body of pancreas, sequela"
+10991,DRG18905,S36252S,"Moderate laceration of tail of pancreas, sequela"
+10992,DRG18905,S36259S,"Moderate laceration of unspecified part of pancreas, sequela"
+10993,DRG18905,S36260S,"Major laceration of head of pancreas, sequela"
+10994,DRG18905,S36261S,"Major laceration of body of pancreas, sequela"
+10995,DRG18905,S36262S,"Major laceration of tail of pancreas, sequela"
+10996,DRG18905,S36269S,"Major laceration of unspecified part of pancreas, sequela"
+10997,DRG18905,S36290S,"Other injury of head of pancreas, sequela"
+10998,DRG18905,S36291S,"Other injury of body of pancreas, sequela"
+10999,DRG18905,S36292S,"Other injury of tail of pancreas, sequela"
+11000,DRG18905,S36299S,"Other injury of unspecified part of pancreas, sequela"
+11001,DRG18905,S3630XS,"Unspecified injury of stomach, sequela"
+11002,DRG18905,S3632XS,"Contusion of stomach, sequela"
+11003,DRG18905,S3633XS,"Laceration of stomach, sequela"
+11004,DRG18905,S3639XS,"Other injury of stomach, sequela"
+11005,DRG18905,S36400S,"Unspecified injury of duodenum, sequela"
+11006,DRG18905,S36408S,"Unspecified injury of other part of small intestine, sequela"
+11007,DRG18905,S36409S,"Unspecified injury of unspecified part of small intestine, sequela"
+11008,DRG18905,S36410S,"Primary blast injury of duodenum, sequela"
+11009,DRG18905,S36418S,"Primary blast injury of other part of small intestine, sequela"
+11010,DRG18905,S36419S,"Primary blast injury of unspecified part of small intestine, sequela"
+11011,DRG18905,S36420S,"Contusion of duodenum, sequela"
+11012,DRG18905,S36428S,"Contusion of other part of small intestine, sequela"
+11013,DRG18905,S36429S,"Contusion of unspecified part of small intestine, sequela"
+11014,DRG18905,S36430S,"Laceration of duodenum, sequela"
+11015,DRG18905,S36438S,"Laceration of other part of small intestine, sequela"
+11016,DRG18905,S36439S,"Laceration of unspecified part of small intestine, sequela"
+11017,DRG18905,S36490S,"Other injury of duodenum, sequela"
+11018,DRG18905,S36498S,"Other injury of other part of small intestine, sequela"
+11019,DRG18905,S36499S,"Other injury of unspecified part of small intestine, sequela"
+11020,DRG18905,S36500S,"Unspecified injury of ascending [right] colon, sequela"
+11021,DRG18905,S36501S,"Unspecified injury of transverse colon, sequela"
+11022,DRG18905,S36502S,"Unspecified injury of descending [left] colon, sequela"
+11023,DRG18905,S36503S,"Unspecified injury of sigmoid colon, sequela"
+11024,DRG18905,S36508S,"Unspecified injury of other part of colon, sequela"
+11025,DRG18905,S36509S,"Unspecified injury of unspecified part of colon, sequela"
+11026,DRG18905,S36510S,"Primary blast injury of ascending [right] colon, sequela"
+11027,DRG18905,S36511S,"Primary blast injury of transverse colon, sequela"
+11028,DRG18905,S36512S,"Primary blast injury of descending [left] colon, sequela"
+11029,DRG18905,S36513S,"Primary blast injury of sigmoid colon, sequela"
+11030,DRG18905,S36518S,"Primary blast injury of other part of colon, sequela"
+11031,DRG18905,S36519S,"Primary blast injury of unspecified part of colon, sequela"
+11032,DRG18905,S36520S,"Contusion of ascending [right] colon, sequela"
+11033,DRG18905,S36521S,"Contusion of transverse colon, sequela"
+11034,DRG18905,S36522S,"Contusion of descending [left] colon, sequela"
+11035,DRG18905,S36523S,"Contusion of sigmoid colon, sequela"
+11036,DRG18905,S36528S,"Contusion of other part of colon, sequela"
+11037,DRG18905,S36529S,"Contusion of unspecified part of colon, sequela"
+11038,DRG18905,S36530S,"Laceration of ascending [right] colon, sequela"
+11039,DRG18905,S36531S,"Laceration of transverse colon, sequela"
+11040,DRG18905,S36532S,"Laceration of descending [left] colon, sequela"
+11041,DRG18905,S36533S,"Laceration of sigmoid colon, sequela"
+11042,DRG18905,S36538S,"Laceration of other part of colon, sequela"
+11043,DRG18905,S36539S,"Laceration of unspecified part of colon, sequela"
+11044,DRG18905,S36590S,"Other injury of ascending [right] colon, sequela"
+11045,DRG18905,S36591S,"Other injury of transverse colon, sequela"
+11046,DRG18905,S36592S,"Other injury of descending [left] colon, sequela"
+11047,DRG18905,S36593S,"Other injury of sigmoid colon, sequela"
+11048,DRG18905,S36598S,"Other injury of other part of colon, sequela"
+11049,DRG18905,S36599S,"Other injury of unspecified part of colon, sequela"
+11050,DRG18905,S3660XS,"Unspecified injury of rectum, sequela"
+11051,DRG18905,S3661XS,"Primary blast injury of rectum, sequela"
+11052,DRG18905,S3662XS,"Contusion of rectum, sequela"
+11053,DRG18905,S3663XS,"Laceration of rectum, sequela"
+11054,DRG18905,S3669XS,"Other injury of rectum, sequela"
+11055,DRG18905,S3681XA,"Injury of peritoneum, initial encounter"
+11056,DRG18905,S3681XS,"Injury of peritoneum, sequela"
+11057,DRG18905,S36892S,"Contusion of other intra-abdominal organs, sequela"
+11058,DRG18905,S36893S,"Laceration of other intra-abdominal organs, sequela"
+11059,DRG18905,S36898S,"Other injury of other intra-abdominal organs, sequela"
+11060,DRG18905,S36899S,"Unspecified injury of other intra-abdominal organs, sequela"
+11061,DRG18905,S3690XA,"Unspecified injury of unspecified intra-abdominal organ, initial encounter"
+11062,DRG18905,S3690XS,"Unspecified injury of unspecified intra-abdominal organ, sequela"
+11063,DRG18905,S3692XA,"Contusion of unspecified intra-abdominal organ, initial encounter"
+11064,DRG18905,S3692XS,"Contusion of unspecified intra-abdominal organ, sequela"
+11065,DRG18905,S3693XA,"Laceration of unspecified intra-abdominal organ, initial encounter"
+11066,DRG18905,S3693XS,"Laceration of unspecified intra-abdominal organ, sequela"
+11067,DRG18905,S3699XA,"Other injury of unspecified intra-abdominal organ, initial encounter"
+11068,DRG18905,S3699XS,"Other injury of unspecified intra-abdominal organ, sequela"
+11069,DRG18905,S37001S,"Unspecified injury of right kidney, sequela"
+11070,DRG18905,S37002S,"Unspecified injury of left kidney, sequela"
+11071,DRG18905,S37009S,"Unspecified injury of unspecified kidney, sequela"
+11072,DRG18905,S37011S,"Minor contusion of right kidney, sequela"
+11073,DRG18905,S37012S,"Minor contusion of left kidney, sequela"
+11074,DRG18905,S37019S,"Minor contusion of unspecified kidney, sequela"
+11075,DRG18905,S37021S,"Major contusion of right kidney, sequela"
+11076,DRG18905,S37022S,"Major contusion of left kidney, sequela"
+11077,DRG18905,S37029S,"Major contusion of unspecified kidney, sequela"
+11078,DRG18905,S37031S,"Laceration of right kidney, unspecified degree, sequela"
+11079,DRG18905,S37032S,"Laceration of left kidney, unspecified degree, sequela"
+11080,DRG18905,S37039S,"Laceration of unspecified kidney, unspecified degree, sequela"
+11081,DRG18905,S37041S,"Minor laceration of right kidney, sequela"
+11082,DRG18905,S37042S,"Minor laceration of left kidney, sequela"
+11083,DRG18905,S37049S,"Minor laceration of unspecified kidney, sequela"
+11084,DRG18905,S37051S,"Moderate laceration of right kidney, sequela"
+11085,DRG18905,S37052S,"Moderate laceration of left kidney, sequela"
+11086,DRG18905,S37059S,"Moderate laceration of unspecified kidney, sequela"
+11087,DRG18905,S37061S,"Major laceration of right kidney, sequela"
+11088,DRG18905,S37062S,"Major laceration of left kidney, sequela"
+11089,DRG18905,S37069S,"Major laceration of unspecified kidney, sequela"
+11090,DRG18905,S37091S,"Other injury of right kidney, sequela"
+11091,DRG18905,S37092S,"Other injury of left kidney, sequela"
+11092,DRG18905,S37099S,"Other injury of unspecified kidney, sequela"
+11093,DRG18905,T18100A,"Unspecified foreign body in esophagus causing compression of trachea, initial encounter"
+11094,DRG18905,T18108A,"Unspecified foreign body in esophagus causing other injury, initial encounter"
+11095,DRG18905,T18110A,"Gastric contents in esophagus causing compression of trachea, initial encounter"
+11096,DRG18905,T18118A,"Gastric contents in esophagus causing other injury, initial encounter"
+11097,DRG18905,T18120A,"Food in esophagus causing compression of trachea, initial encounter"
+11098,DRG18905,T18128A,"Food in esophagus causing other injury, initial encounter"
+11099,DRG18905,T18190A,"Other foreign object in esophagus causing compression of trachea, initial encounter"
+11100,DRG18905,T18198A,"Other foreign object in esophagus causing other injury, initial encounter"
+11101,DRG18905,T182XXA,"Foreign body in stomach, initial encounter"
+11102,DRG18905,T183XXA,"Foreign body in small intestine, initial encounter"
+11103,DRG18905,T184XXA,"Foreign body in colon, initial encounter"
+11104,DRG18905,T185XXA,"Foreign body in anus and rectum, initial encounter"
+11105,DRG18905,T188XXA,"Foreign body in other parts of alimentary tract, initial encounter"
+11106,DRG18905,T189XXA,"Foreign body of alimentary tract, part unspecified, initial encounter"
+11107,DRG18905,T281XXA,"Burn of esophagus, initial encounter"
+11108,DRG18905,T282XXA,"Burn of other parts of alimentary tract, initial encounter"
+11109,DRG18905,T286XXA,"Corrosion of esophagus, initial encounter"
+11110,DRG18905,T287XXA,"Corrosion of other parts of alimentary tract, initial encounter"
+11111,DRG18905,T81710A,"Complication of mesenteric artery following a procedure, not elsewhere classified, initial encounter"

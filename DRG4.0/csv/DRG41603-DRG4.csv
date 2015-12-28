@@ -1,0 +1,81 @@
+,DRG,CM-PCS,en
+13,DRG41603,A021,Salmonella sepsis
+14,DRG41603,A207,Septicemic plague
+15,DRG41603,A227,Anthrax sepsis
+16,DRG41603,A391,Waterhouse-Friderichsen syndrome
+17,DRG41603,A392,Acute meningococcemia
+18,DRG41603,A393,Chronic meningococcemia
+19,DRG41603,A394,"Meningococcemia, unspecified"
+20,DRG41603,A3989,Other meningococcal infections
+21,DRG41603,A399,"Meningococcal infection, unspecified"
+22,DRG41603,A400,"Sepsis due to streptococcus, group A"
+23,DRG41603,A401,"Sepsis due to streptococcus, group B"
+24,DRG41603,A403,Sepsis due to Streptococcus pneumoniae
+25,DRG41603,A408,Other streptococcal sepsis
+26,DRG41603,A409,"Streptococcal sepsis, unspecified"
+27,DRG41603,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+28,DRG41603,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+29,DRG41603,A411,Sepsis due to other specified staphylococcus
+30,DRG41603,A412,Sepsis due to unspecified staphylococcus
+31,DRG41603,A413,Sepsis due to Hemophilus influenzae
+32,DRG41603,A414,Sepsis due to anaerobes
+33,DRG41603,A4150,"Gram-negative sepsis, unspecified"
+34,DRG41603,A4151,Sepsis due to Escherichia coli [E. coli]
+35,DRG41603,A4152,Sepsis due to Pseudomonas
+36,DRG41603,A4153,Sepsis due to Serratia
+37,DRG41603,A4159,Other Gram-negative sepsis
+38,DRG41603,A4181,Sepsis due to Enterococcus
+39,DRG41603,A4189,Other specified sepsis
+40,DRG41603,A419,"Sepsis, unspecified organism"
+41,DRG41603,A427,Actinomycotic sepsis
+42,DRG41603,B007,Disseminated herpesviral disease
+43,DRG41603,R571,Hypovolemic shock
+44,DRG41603,R578,Other shock
+45,DRG41603,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+46,DRG41603,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+47,DRG41603,R6520,Severe sepsis without septic shock
+48,DRG41603,R6521,Severe sepsis with septic shock
+49,DRG41603,R7881,Bacteremia
+52,DRG41603,I501,Left ventricular failure
+53,DRG41603,I5020,Unspecified systolic (congestive) heart failure
+54,DRG41603,I5021,Acute systolic (congestive) heart failure
+55,DRG41603,I5022,Chronic systolic (congestive) heart failure
+56,DRG41603,I5023,Acute on chronic systolic (congestive) heart failure
+57,DRG41603,I5030,Unspecified diastolic (congestive) heart failure
+58,DRG41603,I5031,Acute diastolic (congestive) heart failure
+59,DRG41603,I5032,Chronic diastolic (congestive) heart failure
+60,DRG41603,I5033,Acute on chronic diastolic (congestive) heart failure
+61,DRG41603,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+62,DRG41603,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+63,DRG41603,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+64,DRG41603,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+65,DRG41603,I509,"Heart failure, unspecified"
+66,DRG41603,I509,"Heart failure, unspecified"
+67,DRG41603,J80,Acute respiratory distress syndrome
+68,DRG41603,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+69,DRG41603,J9601,Acute respiratory failure with hypoxia
+70,DRG41603,J9602,Acute respiratory failure with hypercapnia
+71,DRG41603,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+72,DRG41603,J9611,Chronic respiratory failure with hypoxia
+73,DRG41603,J9612,Chronic respiratory failure with hypercapnia
+74,DRG41603,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+75,DRG41603,J9621,Acute and chronic respiratory failure with hypoxia
+76,DRG41603,J9622,Acute and chronic respiratory failure with hypercapnia
+77,DRG41603,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+78,DRG41603,J9691,"Respiratory failure, unspecified with hypoxia"
+79,DRG41603,J9692,"Respiratory failure, unspecified with hypercapnia"
+80,DRG41603,K7210,Chronic hepatic failure without coma
+81,DRG41603,K7211,Chronic hepatic failure with coma
+82,DRG41603,K7290,"Hepatic failure, unspecified without coma"
+83,DRG41603,K7681,Hepatopulmonary syndrome
+84,DRG41603,N170,Acute kidney failure with tubular necrosis
+85,DRG41603,N171,Acute kidney failure with acute cortical necrosis
+86,DRG41603,N172,Acute kidney failure with medullary necrosis
+87,DRG41603,N178,Other acute kidney failure
+88,DRG41603,N179,"Acute kidney failure, unspecified"
+89,DRG41603,N184,"Chronic kidney disease, stage 4 (severe)"
+90,DRG41603,N185,"Chronic kidney disease, stage 5"
+91,DRG41603,N186,End stage renal disease
+92,DRG41603,N189,"Chronic kidney disease, unspecified"
+93,DRG41603,N19,Unspecified kidney failure
+94,DRG41603,R092,Respiratory arrest

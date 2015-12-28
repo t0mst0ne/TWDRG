@@ -1,0 +1,85 @@
+,DRG,CM-PCS,en
+7317,DRG20513,A5145,Secondary syphilitic hepatitis
+7318,DRG20513,A5274,Syphilis of liver and other viscera
+7319,DRG20513,B159,Hepatitis A without hepatic coma
+7320,DRG20513,B161,Acute hepatitis B with delta-agent without hepatic coma
+7321,DRG20513,B162,Acute hepatitis B without delta-agent with hepatic coma
+7322,DRG20513,B169,Acute hepatitis B without delta-agent and without hepatic coma
+7323,DRG20513,B170,Acute delta-(super) infection of hepatitis B carrier
+7324,DRG20513,B1710,Acute hepatitis C without hepatic coma
+7325,DRG20513,B179,"Acute viral hepatitis, unspecified"
+7326,DRG20513,B188,Other chronic viral hepatitis
+7327,DRG20513,B189,"Chronic viral hepatitis, unspecified"
+7328,DRG20513,B1910,Unspecified viral hepatitis B without hepatic coma
+7329,DRG20513,B1911,Unspecified viral hepatitis B with hepatic coma
+7330,DRG20513,B1920,Unspecified viral hepatitis C without hepatic coma
+7331,DRG20513,B199,Unspecified viral hepatitis without hepatic coma
+7332,DRG20513,B251,Cytomegaloviral hepatitis
+7333,DRG20513,B2681,Mumps hepatitis
+7334,DRG20513,B581,Toxoplasma hepatitis
+7335,DRG20513,B651,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis]
+7336,DRG20513,B660,Opisthorchiasis
+7337,DRG20513,B661,Clonorchiasis
+7338,DRG20513,B663,Fascioliasis
+7339,DRG20513,B665,Fasciolopsiasis
+7340,DRG20513,B670,Echinococcus granulosus infection of liver
+7341,DRG20513,B675,Echinococcus multilocularis infection of liver
+7342,DRG20513,B678,"Echinococcosis, unspecified, of liver"
+7343,DRG20513,D134,Benign neoplasm of liver
+7344,DRG20513,D135,Benign neoplasm of extrahepatic bile ducts
+7345,DRG20513,E804,Gilbert syndrome
+7346,DRG20513,E805,Crigler-Najjar syndrome
+7347,DRG20513,E806,Other disorders of bilirubin metabolism
+7348,DRG20513,E807,"Disorder of bilirubin metabolism, unspecified"
+7349,DRG20513,K700,Alcoholic fatty liver
+7350,DRG20513,K710,Toxic liver disease with cholestasis
+7351,DRG20513,K7110,"Toxic liver disease with hepatic necrosis, without coma"
+7352,DRG20513,K7111,"Toxic liver disease with hepatic necrosis, with coma"
+7353,DRG20513,K712,Toxic liver disease with acute hepatitis
+7354,DRG20513,K713,Toxic liver disease with chronic persistent hepatitis
+7355,DRG20513,K714,Toxic liver disease with chronic lobular hepatitis
+7356,DRG20513,K7150,Toxic liver disease with chronic active hepatitis without ascites
+7357,DRG20513,K7151,Toxic liver disease with chronic active hepatitis with ascites
+7358,DRG20513,K716,"Toxic liver disease with hepatitis, not elsewhere classified"
+7359,DRG20513,K717,Toxic liver disease with fibrosis and cirrhosis of liver
+7360,DRG20513,K718,Toxic liver disease with other disorders of liver
+7361,DRG20513,K719,"Toxic liver disease, unspecified"
+7362,DRG20513,K7210,Chronic hepatic failure without coma
+7363,DRG20513,K7211,Chronic hepatic failure with coma
+7364,DRG20513,K730,"Chronic persistent hepatitis, not elsewhere classified"
+7365,DRG20513,K731,"Chronic lobular hepatitis, not elsewhere classified"
+7366,DRG20513,K732,"Chronic active hepatitis, not elsewhere classified"
+7367,DRG20513,K738,"Other chronic hepatitis, not elsewhere classified"
+7368,DRG20513,K739,"Chronic hepatitis, unspecified"
+7369,DRG20513,K751,Phlebitis of portal vein
+7370,DRG20513,K752,Nonspecific reactive hepatitis
+7371,DRG20513,K753,"Granulomatous hepatitis, not elsewhere classified"
+7372,DRG20513,K754,Autoimmune hepatitis
+7373,DRG20513,K7581,Nonalcoholic steatohepatitis (NASH)
+7374,DRG20513,K7589,Other specified inflammatory liver diseases
+7375,DRG20513,K759,"Inflammatory liver disease, unspecified"
+7376,DRG20513,K760,"Fatty (change of) liver, not elsewhere classified"
+7377,DRG20513,K761,Chronic passive congestion of liver
+7378,DRG20513,K763,Infarction of liver
+7379,DRG20513,K764,Peliosis hepatis
+7380,DRG20513,K765,Hepatic veno-occlusive disease
+7381,DRG20513,K766,Portal hypertension
+7382,DRG20513,K767,Hepatorenal syndrome
+7383,DRG20513,K7689,Other specified diseases of liver
+7384,DRG20513,K769,"Liver disease, unspecified"
+7385,DRG20513,Q440,"Agenesis, aplasia and hypoplasia of gallbladder"
+7386,DRG20513,Q444,Choledochal cyst
+7387,DRG20513,Q446,Cystic disease of liver
+7388,DRG20513,R160,"Hepatomegaly, not elsewhere classified"
+7389,DRG20513,R162,"Hepatomegaly with splenomegaly, not elsewhere classified"
+7390,DRG20513,R17,Unspecified jaundice
+7391,DRG20513,R822,Biliuria
+7392,DRG20513,R945,Abnormal results of liver function studies
+7393,DRG20513,S36112A,"Contusion of liver, initial encounter"
+7394,DRG20513,S36113A,"Laceration of liver, unspecified degree, initial encounter"
+7395,DRG20513,S36114A,"Minor laceration of liver, initial encounter"
+7396,DRG20513,S36115A,"Moderate laceration of liver, initial encounter"
+7397,DRG20513,S36116A,"Major laceration of liver, initial encounter"
+7398,DRG20513,S36118A,"Other injury of liver, initial encounter"
+7399,DRG20513,S36119A,"Unspecified injury of liver, initial encounter"
+7400,DRG20513,Z526,Liver donor

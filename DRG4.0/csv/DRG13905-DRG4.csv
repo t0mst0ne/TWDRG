@@ -1,0 +1,42 @@
+,DRG,CM-PCS,en
+38825,DRG13905,I440,"Atrioventricular block, first degree"
+38826,DRG13905,I441,"Atrioventricular block, second degree"
+38827,DRG13905,I4430,Unspecified atrioventricular block
+38828,DRG13905,I4439,Other atrioventricular block
+38829,DRG13905,I444,Left anterior fascicular block
+38830,DRG13905,I445,Left posterior fascicular block
+38831,DRG13905,I4460,Unspecified fascicular block
+38832,DRG13905,I4469,Other fascicular block
+38833,DRG13905,I447,"Left bundle-branch block, unspecified"
+38834,DRG13905,I450,Right fascicular block
+38835,DRG13905,I4510,Unspecified right bundle-branch block
+38836,DRG13905,I4519,Other right bundle-branch block
+38837,DRG13905,I452,Bifascicular block
+38838,DRG13905,I454,Nonspecific intraventricular block
+38839,DRG13905,I455,Other specified heart block
+38840,DRG13905,I456,Pre-excitation syndrome
+38841,DRG13905,I4589,Other specified conduction disorders
+38842,DRG13905,I459,"Conduction disorder, unspecified"
+38843,DRG13905,I470,Re-entry ventricular arrhythmia
+38844,DRG13905,I471,Supraventricular tachycardia
+38845,DRG13905,I472,Ventricular tachycardia
+38846,DRG13905,I479,"Paroxysmal tachycardia, unspecified"
+38847,DRG13905,I480,Paroxysmal atrial fibrillation
+38848,DRG13905,I481,Persistent atrial fibrillation
+38849,DRG13905,I482,Chronic atrial fibrillation
+38850,DRG13905,I483,Typical atrial flutter
+38851,DRG13905,I484,Atypical atrial flutter
+38852,DRG13905,I4891,Unspecified atrial fibrillation
+38853,DRG13905,I4892,Unspecified atrial flutter
+38854,DRG13905,I491,Atrial premature depolarization
+38855,DRG13905,I492,Junctional premature depolarization
+38856,DRG13905,I493,Ventricular premature depolarization
+38857,DRG13905,I4940,Unspecified premature depolarization
+38858,DRG13905,I4949,Other premature depolarization
+38859,DRG13905,I498,Other specified cardiac arrhythmias
+38860,DRG13905,I499,"Cardiac arrhythmia, unspecified"
+38861,DRG13905,R000,"Tachycardia, unspecified"
+38862,DRG13905,R001,"Bradycardia, unspecified"
+38863,DRG13905,R002,Palpitations
+38866,DRG13905,5A1213Z,"Performance of Cardiac Pacing, Intermittent"
+38867,DRG13905,5A1223Z,"Performance of Cardiac Pacing, Continuous"

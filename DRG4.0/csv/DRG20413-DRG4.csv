@@ -1,0 +1,42 @@
+,DRG,CM-PCS,en
+6630,DRG20413,B252,Cytomegaloviral pancreatitis
+6631,DRG20413,K850,Idiopathic acute pancreatitis
+6632,DRG20413,K851,Biliary acute pancreatitis
+6633,DRG20413,K852,Alcohol induced acute pancreatitis
+6634,DRG20413,K853,Drug induced acute pancreatitis
+6635,DRG20413,K858,Other acute pancreatitis
+6636,DRG20413,K859,"Acute pancreatitis, unspecified"
+6639,DRG20413,A400,"Sepsis due to streptococcus, group A"
+6640,DRG20413,A401,"Sepsis due to streptococcus, group B"
+6641,DRG20413,A403,Sepsis due to Streptococcus pneumoniae
+6642,DRG20413,A408,Other streptococcal sepsis
+6643,DRG20413,A409,"Streptococcal sepsis, unspecified"
+6644,DRG20413,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+6645,DRG20413,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+6646,DRG20413,A411,Sepsis due to other specified staphylococcus
+6647,DRG20413,A412,Sepsis due to unspecified staphylococcus
+6648,DRG20413,A413,Sepsis due to Hemophilus influenzae
+6649,DRG20413,A414,Sepsis due to anaerobes
+6650,DRG20413,A4150,"Gram-negative sepsis, unspecified"
+6651,DRG20413,A4151,Sepsis due to Escherichia coli [E. coli]
+6652,DRG20413,A4152,Sepsis due to Pseudomonas
+6653,DRG20413,A4153,Sepsis due to Serratia
+6654,DRG20413,A4159,Other Gram-negative sepsis
+6655,DRG20413,A4181,Sepsis due to Enterococcus
+6656,DRG20413,A4189,Other specified sepsis
+6657,DRG20413,A419,"Sepsis, unspecified organism"
+6658,DRG20413,B377,Candidal sepsis
+6659,DRG20413,K650,Generalized (acute) peritonitis
+6660,DRG20413,K651,Peritoneal abscess
+6661,DRG20413,K652,Spontaneous bacterial peritonitis
+6662,DRG20413,K653,Choleperitonitis
+6663,DRG20413,K654,Sclerosing mesenteritis
+6664,DRG20413,K658,Other peritonitis
+6665,DRG20413,K659,"Peritonitis, unspecified"
+6666,DRG20413,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+6667,DRG20413,K6811,Postprocedural retroperitoneal abscess
+6668,DRG20413,K6819,Other retroperitoneal abscess
+6669,DRG20413,K689,Other disorders of retroperitoneum
+6670,DRG20413,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+6671,DRG20413,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+6672,DRG20413,R6520,Severe sepsis without septic shock

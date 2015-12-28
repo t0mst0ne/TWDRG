@@ -1,0 +1,121 @@
+,DRG,CM-PCS,en
+16411,DRG46703,P002,Newborn (suspected to be) affected by maternal infectious and parasitic diseases
+16412,DRG46703,P003,Newborn (suspected to be) affected by other maternal circulatory and respiratory diseases
+16413,DRG46703,P0089,Newborn (suspected to be) affected by other maternal conditions
+16414,DRG46703,Q899,"Congenital malformation, unspecified"
+16415,DRG46703,Q920,"Whole chromosome trisomy, nonmosaicism (meiotic nondisjunction)"
+16416,DRG46703,Q921,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)"
+16417,DRG46703,Q922,Partial trisomy
+16418,DRG46703,Q925,Duplications with other complex rearrangements
+16419,DRG46703,Q9261,Marker chromosomes in normal individual
+16420,DRG46703,Q9262,Marker chromosomes in abnormal individual
+16421,DRG46703,Q927,Triploidy and polyploidy
+16422,DRG46703,Q928,Other specified trisomies and partial trisomies of autosomes
+16423,DRG46703,Q929,"Trisomy and partial trisomy of autosomes, unspecified"
+16424,DRG46703,Q930,"Whole chromosome monosomy, nonmosaicism (meiotic nondisjunction)"
+16425,DRG46703,Q931,"Whole chromosome monosomy, mosaicism (mitotic nondisjunction)"
+16426,DRG46703,Q932,"Chromosome replaced with ring, dicentric or isochromosome"
+16427,DRG46703,Q950,Balanced translocation and insertion in normal individual
+16428,DRG46703,Q951,Chromosome inversion in normal individual
+16429,DRG46703,Q952,Balanced autosomal rearrangement in abnormal individual
+16430,DRG46703,Q953,Balanced sex/autosomal rearrangement in abnormal individual
+16431,DRG46703,Q955,Individual with autosomal fragile site
+16432,DRG46703,Q958,Other balanced rearrangements and structural markers
+16433,DRG46703,Q959,"Balanced rearrangement and structural marker, unspecified"
+16434,DRG46703,Q999,"Chromosomal abnormality, unspecified"
+16435,DRG46703,R448,Other symptoms and signs involving general sensations and perceptions
+16436,DRG46703,R449,Unspecified symptoms and signs involving general sensations and perceptions
+16437,DRG46703,R453,Demoralization and apathy
+16438,DRG46703,R460,Very low level of personal hygiene
+16439,DRG46703,R461,Bizarre personal appearance
+16440,DRG46703,R462,Strange and inexplicable behavior
+16441,DRG46703,R463,Overactivity
+16442,DRG46703,R464,Slowness and poor responsiveness
+16443,DRG46703,R465,Suspiciousness and marked evasiveness
+16444,DRG46703,R466,Undue concern and preoccupation with stressful events
+16445,DRG46703,R467,Verbosity and circumstantial detail obscuring reason for contact
+16446,DRG46703,R6813,Apparent life threatening event in infant (ALTE)
+16447,DRG46703,R6819,Other nonspecific symptoms peculiar to infancy
+16448,DRG46703,R6882,Decreased libido
+16449,DRG46703,R69,"Illness, unspecified"
+16450,DRG46703,R99,Ill-defined and unknown cause of mortality
+16451,DRG46703,Z006,Encounter for examination for normal comparison and control in clinical research program
+16452,DRG46703,Z0100,Encounter for examination of eyes and vision without abnormal findings
+16453,DRG46703,Z0101,Encounter for examination of eyes and vision with abnormal findings
+16454,DRG46703,Z01411,Encounter for gynecological examination (general) (routine) with abnormal findings
+16455,DRG46703,Z01419,Encounter for gynecological examination (general) (routine) without abnormal findings
+16456,DRG46703,Z0142,Encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear
+16457,DRG46703,Z01810,Encounter for preprocedural cardiovascular examination
+16458,DRG46703,Z01811,Encounter for preprocedural respiratory examination
+16459,DRG46703,Z021,Encounter for pre-employment examination
+16460,DRG46703,Z023,Encounter for examination for recruitment to armed forces
+16461,DRG46703,Z0281,Encounter for paternity testing
+16462,DRG46703,Z0283,Encounter for blood-alcohol and blood-drug test
+16463,DRG46703,Z036,Encounter for observation for suspected toxic effect from ingested substance ruled out
+16464,DRG46703,Z03810,Encounter for observation for suspected exposure to anthrax ruled out
+16465,DRG46703,Z03818,Encounter for observation for suspected exposure to other biological agents ruled out
+16466,DRG46703,Z0441,Encounter for examination and observation following alleged adult rape
+16467,DRG46703,Z0442,Encounter for examination and observation following alleged child rape
+16468,DRG46703,Z046,"Encounter for general psychiatric examination, requested by authority"
+16469,DRG46703,Z0471,Encounter for examination and observation following alleged adult physical abuse
+16470,DRG46703,Z0472,Encounter for examination and observation following alleged child physical abuse
+16471,DRG46703,Z125,Encounter for screening for malignant neoplasm of prostate
+16472,DRG46703,Z2001,Contact with and (suspected) exposure to intestinal infectious diseases due to Escherichia coli (E. coli)
+16473,DRG46703,Z205,Contact with and (suspected) exposure to viral hepatitis
+16474,DRG46703,Z206,Contact with and (suspected) exposure to human immunodeficiency virus [HIV]
+16475,DRG46703,Z20811,Contact with and (suspected) exposure to meningococcus
+16476,DRG46703,Z20820,Contact with and (suspected) exposure to varicella
+16477,DRG46703,Z20828,Contact with and (suspected) exposure to other viral communicable diseases
+16478,DRG46703,Z3200,"Encounter for pregnancy test, result unknown"
+16479,DRG46703,Z3201,"Encounter for pregnancy test, result positive"
+16480,DRG46703,Z3202,"Encounter for pregnancy test, result negative"
+16481,DRG46703,Z4000,Encounter for prophylactic removal of unspecified organ
+16482,DRG46703,Z4009,Encounter for prophylactic removal of other organ
+16483,DRG46703,Z418,Encounter for other procedures for purposes other than remedying health state
+16484,DRG46703,Z438,Encounter for attention to other artificial openings
+16485,DRG46703,Z4420,"Encounter for fitting and adjustment of artificial eye, unspecified"
+16486,DRG46703,Z4421,Encounter for fitting and adjustment of artificial right eye
+16487,DRG46703,Z4422,Encounter for fitting and adjustment of artificial left eye
+16488,DRG46703,Z4430,"Encounter for fitting and adjustment of external breast prosthesis, unspecified breast"
+16489,DRG46703,Z4431,Encounter for fitting and adjustment of external right breast prosthesis
+16490,DRG46703,Z4432,Encounter for fitting and adjustment of external left breast prosthesis
+16491,DRG46703,Z4531,Encounter for adjustment and management of implanted visual substitution device
+16492,DRG46703,Z45320,Encounter for adjustment and management of bone conduction device
+16493,DRG46703,Z45321,Encounter for adjustment and management of cochlear device
+16494,DRG46703,Z45328,Encounter for adjustment and management of other implanted hearing device
+16495,DRG46703,Z4541,Encounter for adjustment and management of cerebrospinal fluid drainage device
+16496,DRG46703,Z4542,Encounter for adjustment and management of neuropacemaker (brain) (peripheral nerve) (spinal cord)
+16497,DRG46703,Z4549,Encounter for adjustment and management of other implanted nervous system device
+16498,DRG46703,Z45811,Encounter for adjustment or removal of right breast implant
+16499,DRG46703,Z45812,Encounter for adjustment or removal of left breast implant
+16500,DRG46703,Z45819,Encounter for adjustment or removal of unspecified breast implant
+16501,DRG46703,Z462,Encounter for fitting and adjustment of other devices related to nervous system and special senses
+16502,DRG46703,Z463,Encounter for fitting and adjustment of dental prosthetic device
+16503,DRG46703,Z52000,"Unspecified donor, whole blood"
+16504,DRG46703,Z52008,"Unspecified donor, other blood"
+16505,DRG46703,Z52010,"Autologous donor, whole blood"
+16506,DRG46703,Z52018,"Autologous donor, other blood"
+16507,DRG46703,Z52090,"Other blood donor, whole blood"
+16508,DRG46703,Z52098,"Other blood donor, other blood"
+16509,DRG46703,Z529,Donor of unspecified organ or tissue
+16510,DRG46703,Z5301  ,Procedure and treatment not carried out due to patient smoking
+16511,DRG46703,Z5309  ,Procedure and treatment not carried out because of other contraindication
+16512,DRG46703,Z531  ,Procedure and treatment not carried out because of patient's decision for reasons of belief and group pressure
+16513,DRG46703,Z5321  ,Procedure and treatment not carried out due to patient leaving prior to being seen by health care provider
+16514,DRG46703,Z5329  ,Procedure and treatment not carried out because of patient's decision for other reasons
+16515,DRG46703,Z538  ,Procedure and treatment not carried out for other reasons
+16516,DRG46703,Z539  ,"Procedure and treatment not carried out, unspecified reason"
+16517,DRG46703,Z69010,Encounter for mental health services for victim of parental child abuse
+16518,DRG46703,Z69020,Encounter for mental health services for victim of non-parental child abuse
+16519,DRG46703,Z72820,Sleep deprivation
+16520,DRG46703,Z761,Encounter for health supervision and care of foundling
+16521,DRG46703,Z762   ,Encounter for health supervision and care of other healthy infant and child
+16522,DRG46703,Z763,Healthy person accompanying sick person
+16523,DRG46703,Z764,Other boarder to healthcare facility
+16524,DRG46703,Z765,Malingerer [conscious simulation]
+16525,DRG46703,Z9010,Acquired absence of unspecified breast and nipple
+16526,DRG46703,Z9011,Acquired absence of right breast and nipple
+16527,DRG46703,Z9012,Acquired absence of left breast and nipple
+16528,DRG46703,Z9013,Acquired absence of bilateral breasts and nipples
+16529,DRG46703,Z9911,Dependence on respirator [ventilator] status
+16530,DRG46703,Z9912,Encounter for respirator [ventilator] dependence during power failure

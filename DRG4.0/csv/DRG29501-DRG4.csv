@@ -1,0 +1,70 @@
+,DRG,CM-PCS,en
+23787,DRG29501,E0800,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23788,DRG29501,E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma
+23789,DRG29501,E0810,Diabetes mellitus due to underlying condition with ketoacidosis without coma
+23790,DRG29501,E08641,Diabetes mellitus due to underlying condition with hypoglycemia with coma
+23791,DRG29501,E08649,Diabetes mellitus due to underlying condition with hypoglycemia without coma
+23792,DRG29501,E0865,Diabetes mellitus due to underlying condition with hyperglycemia
+23793,DRG29501,E0821,Diabetes mellitus due to underlying condition with diabetic nephropathy
+23794,DRG29501,E0822,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+23795,DRG29501,E08621,Diabetes mellitus due to underlying condition with diabetic arthropathy
+23796,DRG29501,E08610,Diabetes mellitus due to underlying condition with diabetic neuropathic arthropathy
+23797,DRG29501,E088,Diabetes mellitus due to underlying condition with unspecified complications
+23798,DRG29501,E0900,Drug or chemical induced diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23799,DRG29501,E0901,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma
+23800,DRG29501,E09641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma
+23801,DRG29501,E0911,Drug or chemical induced diabetes mellitus with ketoacidosis with coma
+23802,DRG29501,E09649,Drug or chemical induced diabetes mellitus with hypoglycemia without coma
+23803,DRG29501,E0965,Drug or chemical induced diabetes mellitus with hyperglycemia
+23804,DRG29501,E09620,Drug or chemical induced diabetes mellitus with diabetic dermatitis
+23805,DRG29501,E098,Drug or chemical induced diabetes mellitus with unspecified complications
+23806,DRG29501,E09610,Drug or chemical induced diabetes mellitus with diabetic neuropathic arthropathy
+23807,DRG29501,E1010,Type 1 diabetes mellitus with ketoacidosis without coma
+23808,DRG29501,E1011,Type 1 diabetes mellitus with ketoacidosis with coma
+23809,DRG29501,E10618,Type 1 diabetes mellitus with other diabetic arthropathy
+23810,DRG29501,E10620,Type 1 diabetes mellitus with diabetic dermatitis
+23811,DRG29501,E10621,Type 1 diabetes mellitus with foot ulcer
+23812,DRG29501,E10622,Type 1 diabetes mellitus with other skin ulcer
+23813,DRG29501,E10628,Type 1 diabetes mellitus with other skin complications
+23814,DRG29501,E10630,Type 1 diabetes mellitus with periodontal disease
+23815,DRG29501,E10638,Type 1 diabetes mellitus with other oral complications
+23816,DRG29501,E10641,Type 1 diabetes mellitus with hypoglycemia with coma
+23817,DRG29501,E10649,Type 1 diabetes mellitus with hypoglycemia without coma
+23818,DRG29501,E1065,Type 1 diabetes mellitus with hyperglycemia
+23819,DRG29501,E1069,Type 1 diabetes mellitus with other specified complication
+23820,DRG29501,E108,Type 1 diabetes mellitus with unspecified complications
+23821,DRG29501,E109,Type 1 diabetes mellitus without complications
+23822,DRG29501,E1100,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23823,DRG29501,E1101,Type 2 diabetes mellitus with hyperosmolarity with coma
+23824,DRG29501,E11610,Type 2 diabetes mellitus with diabetic neuropathic arthropathy
+23825,DRG29501,E11618,Type 2 diabetes mellitus with other diabetic arthropathy
+23826,DRG29501,E11620,Type 2 diabetes mellitus with diabetic dermatitis
+23827,DRG29501,E11621,Type 2 diabetes mellitus with foot ulcer
+23828,DRG29501,E11622,Type 2 diabetes mellitus with other skin ulcer
+23829,DRG29501,E11628,Type 2 diabetes mellitus with other skin complications
+23830,DRG29501,E11630,Type 2 diabetes mellitus with periodontal disease
+23831,DRG29501,E11638,Type 2 diabetes mellitus with other oral complications
+23832,DRG29501,E11641,Type 2 diabetes mellitus with hypoglycemia with coma
+23833,DRG29501,E11649,Type 2 diabetes mellitus with hypoglycemia without coma
+23834,DRG29501,E1165,Type 2 diabetes mellitus with hyperglycemia
+23835,DRG29501,E1169,Type 2 diabetes mellitus with other specified complication
+23836,DRG29501,E118,Type 2 diabetes mellitus with unspecified complications
+23837,DRG29501,E119,Type 2 diabetes mellitus without complications
+23838,DRG29501,E1300,Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)
+23839,DRG29501,E1301,Other specified diabetes mellitus with hyperosmolarity with coma
+23840,DRG29501,E1310,Other specified diabetes mellitus with ketoacidosis without coma
+23841,DRG29501,E1311,Other specified diabetes mellitus with ketoacidosis with coma
+23842,DRG29501,E13618,Other specified diabetes mellitus with other diabetic arthropathy
+23843,DRG29501,E13620,Other specified diabetes mellitus with diabetic dermatitis
+23844,DRG29501,E13621,Other specified diabetes mellitus with foot ulcer
+23845,DRG29501,E13622,Other specified diabetes mellitus with other skin ulcer
+23846,DRG29501,E13628,Other specified diabetes mellitus with other skin complications
+23847,DRG29501,E13630,Other specified diabetes mellitus with periodontal disease
+23848,DRG29501,E13638,Other specified diabetes mellitus with other oral complications
+23849,DRG29501,E13649,Other specified diabetes mellitus with hypoglycemia without coma
+23850,DRG29501,E1365,Other specified diabetes mellitus with hyperglycemia
+23851,DRG29501,E1369,Other specified diabetes mellitus with other specified complication
+23852,DRG29501,E13641,Other specified diabetes mellitus with hypoglycemia with coma
+23853,DRG29501,E138,Other specified diabetes mellitus with unspecified complications
+23854,DRG29501,E139,Other specified diabetes mellitus without complications
+23855,DRG29501,R81,Glycosuria

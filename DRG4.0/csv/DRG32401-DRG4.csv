@@ -1,0 +1,23 @@
+,DRG,CM-PCS,en
+11024,DRG32401,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+11025,DRG32401,N132,Hydronephrosis with renal and ureteral calculous obstruction
+11026,DRG32401,N1330,Unspecified hydronephrosis
+11027,DRG32401,N1339,Other hydronephrosis
+11028,DRG32401,N134,Hydroureter
+11029,DRG32401,N138,Other obstructive and reflux uropathy
+11030,DRG32401,N200,Calculus of kidney
+11031,DRG32401,N201,Calculus of ureter
+11032,DRG32401,N202,Calculus of kidney with calculus of ureter
+11033,DRG32401,N209,"Urinary calculus, unspecified"
+11034,DRG32401,N210,Calculus in bladder
+11035,DRG32401,N211,Calculus in urethra
+11036,DRG32401,N218,Other lower urinary tract calculus
+11037,DRG32401,N219,"Calculus of lower urinary tract, unspecified"
+11038,DRG32401,N23,Unspecified renal colic
+11041,DRG32401,0TF3XZZ,"Fragmentation in Right Kidney Pelvis, External Approach"
+11042,DRG32401,0TF4XZZ,"Fragmentation in Left Kidney Pelvis, External Approach"
+11043,DRG32401,0TF6XZZ,"Fragmentation in Right Ureter, External Approach"
+11044,DRG32401,0TF7XZZ,"Fragmentation in Left Ureter, External Approach"
+11045,DRG32401,0TFBXZZ,"Fragmentation in Bladder, External Approach"
+11046,DRG32401,0TFCXZZ,"Fragmentation in Bladder Neck, External Approach"
+11047,DRG32401,0WFRXZZ,"Fragmentation in Genitourinary Tract, External Approach"

@@ -1,0 +1,235 @@
+,DRG,CM-PCS,en
+10266,DRG18402,A000,"Cholera due to Vibrio cholerae 01, biovar cholerae"
+10267,DRG18402,A001,"Cholera due to Vibrio cholerae 01, biovar eltor"
+10268,DRG18402,A009,"Cholera, unspecified"
+10269,DRG18402,A020,Salmonella enteritis
+10270,DRG18402,A030,Shigellosis due to Shigella dysenteriae
+10271,DRG18402,A031,Shigellosis due to Shigella flexneri
+10272,DRG18402,A032,Shigellosis due to Shigella boydii
+10273,DRG18402,A033,Shigellosis due to Shigella sonnei
+10274,DRG18402,A038,Other shigellosis
+10275,DRG18402,A039,"Shigellosis, unspecified"
+10276,DRG18402,A040,Enteropathogenic Escherichia coli infection
+10277,DRG18402,A041,Enterotoxigenic Escherichia coli infection
+10278,DRG18402,A042,Enteroinvasive Escherichia coli infection
+10279,DRG18402,A043,Enterohemorrhagic Escherichia coli infection
+10280,DRG18402,A044,Other intestinal Escherichia coli infections
+10281,DRG18402,A045,Campylobacter enteritis
+10282,DRG18402,A046,Enteritis due to Yersinia enterocolitica
+10283,DRG18402,A047,Enterocolitis due to Clostridium difficile
+10284,DRG18402,A050,Foodborne staphylococcal intoxication
+10285,DRG18402,A052,Foodborne Clostridium perfringens [Clostridium welchii] intoxication
+10286,DRG18402,A053,Foodborne Vibrio parahaemolyticus intoxication
+10287,DRG18402,A054,Foodborne Bacillus cereus intoxication
+10288,DRG18402,A055,Foodborne Vibrio vulnificus intoxication
+10289,DRG18402,A058,Other specified bacterial foodborne intoxications
+10290,DRG18402,A059,"Bacterial foodborne intoxication, unspecified"
+10291,DRG18402,A060,Acute amebic dysentery
+10292,DRG18402,A061,Chronic intestinal amebiasis
+10293,DRG18402,A062,Amebic nondysenteric colitis
+10294,DRG18402,A070,Balantidiasis
+10295,DRG18402,A071,Giardiasis [lambliasis]
+10296,DRG18402,A072,Cryptosporidiosis
+10297,DRG18402,A073,Isosporiasis
+10298,DRG18402,A074,Cyclosporiasis
+10299,DRG18402,A078,Other specified protozoal intestinal diseases
+10300,DRG18402,A079,"Protozoal intestinal disease, unspecified"
+10301,DRG18402,A080,Rotaviral enteritis
+10302,DRG18402,A0811,Acute gastroenteropathy due to Norwalk agent
+10303,DRG18402,A0819,Acute gastroenteropathy due to other small round viruses
+10304,DRG18402,A082,Adenoviral enteritis
+10305,DRG18402,A0831,Calicivirus enteritis
+10306,DRG18402,A0832,Astrovirus enteritis
+10307,DRG18402,A0839,Other viral enteritis
+10308,DRG18402,A084,"Viral intestinal infection, unspecified"
+10309,DRG18402,A088,Other specified intestinal infections
+10310,DRG18402,A09,"Infectious gastroenteritis and colitis, unspecified"
+10311,DRG18402,B3781,Candidal esophagitis
+10312,DRG18402,B3782,Candidal enteritis
+10313,DRG18402,B680,Taenia solium taeniasis
+10314,DRG18402,B681,Taenia saginata taeniasis
+10315,DRG18402,B689,"Taeniasis, unspecified"
+10316,DRG18402,B690,Cysticercosis of central nervous system
+10317,DRG18402,B691,Cysticercosis of eye
+10318,DRG18402,B6981,Myositis in cysticercosis
+10319,DRG18402,B6989,Cysticercosis of other sites
+10320,DRG18402,B699,"Cysticercosis, unspecified"
+10321,DRG18402,B700,Diphyllobothriasis
+10322,DRG18402,B701,Sparganosis
+10323,DRG18402,B710,Hymenolepiasis
+10324,DRG18402,B711,Dipylidiasis
+10325,DRG18402,B718,Other specified cestode infections
+10326,DRG18402,B719,"Cestode infection, unspecified"
+10327,DRG18402,B760,Ancylostomiasis
+10328,DRG18402,B761,Necatoriasis
+10329,DRG18402,B768,Other hookworm diseases
+10330,DRG18402,B769,"Hookworm disease, unspecified"
+10331,DRG18402,B770,Ascariasis with intestinal complications
+10332,DRG18402,B7781,Ascariasis pneumonia
+10333,DRG18402,B7789,Ascariasis with other complications
+10334,DRG18402,B779,"Ascariasis, unspecified"
+10335,DRG18402,B780,Intestinal strongyloidiasis
+10336,DRG18402,B787,Disseminated strongyloidiasis
+10337,DRG18402,B789,"Strongyloidiasis, unspecified"
+10338,DRG18402,B79,Trichuriasis
+10339,DRG18402,B80,Enterobiasis
+10340,DRG18402,B810,Anisakiasis
+10341,DRG18402,B811,Intestinal capillariasis
+10342,DRG18402,B812,Trichostrongyliasis
+10343,DRG18402,B813,Intestinal angiostrongyliasis
+10344,DRG18402,B818,Other specified intestinal helminthiases
+10345,DRG18402,B820,"Intestinal helminthiasis, unspecified"
+10346,DRG18402,B829,"Intestinal parasitism, unspecified"
+10347,DRG18402,D1803,Hemangioma of intra-abdominal structures
+10348,DRG18402,E730,Congenital lactase deficiency
+10349,DRG18402,E731,Secondary lactase deficiency
+10350,DRG18402,E738,Other lactose intolerance
+10351,DRG18402,E739,"Lactose intolerance, unspecified"
+10352,DRG18402,E7410,"Disorder of fructose metabolism, unspecified"
+10353,DRG18402,E7411,Essential fructosuria
+10354,DRG18402,E7412,Hereditary fructose intolerance
+10355,DRG18402,E7419,Other disorders of fructose metabolism
+10356,DRG18402,E7431,Sucrase-isomaltase deficiency
+10357,DRG18402,E7439,Other disorders of intestinal carbohydrate absorption
+10358,DRG18402,F458,Other somatoform disorders
+10359,DRG18402,I774,Celiac artery compression syndrome
+10360,DRG18402,K200,Eosinophilic esophagitis
+10361,DRG18402,K208,Other esophagitis
+10362,DRG18402,K209,"Esophagitis, unspecified"
+10363,DRG18402,K219,Gastro-esophageal reflux disease without esophagitis
+10364,DRG18402,K224,Dyskinesia of esophagus
+10365,DRG18402,K225,"Diverticulum of esophagus, acquired"
+10366,DRG18402,K228,Other specified diseases of esophagus
+10367,DRG18402,K229,"Disease of esophagus, unspecified"
+10368,DRG18402,K2900,Acute gastritis without bleeding
+10369,DRG18402,K2920,Alcoholic gastritis without bleeding
+10370,DRG18402,K2930,Chronic superficial gastritis without bleeding
+10371,DRG18402,K2940,Chronic atrophic gastritis without bleeding
+10372,DRG18402,K2950,Unspecified chronic gastritis without bleeding
+10373,DRG18402,K2960,Other gastritis without bleeding
+10374,DRG18402,K2970,"Gastritis, unspecified, without bleeding"
+10375,DRG18402,K2980,Duodenitis without bleeding
+10376,DRG18402,K2990,"Gastroduodenitis, unspecified, without bleeding"
+10377,DRG18402,K30,Functional dyspepsia
+10378,DRG18402,K310,Acute dilatation of stomach
+10379,DRG18402,K312,Hourglass stricture and stenosis of stomach
+10380,DRG18402,K313,"Pylorospasm, not elsewhere classified"
+10381,DRG18402,K314,Gastric diverticulum
+10382,DRG18402,K315,Obstruction of duodenum
+10383,DRG18402,K31819,Angiodysplasia of stomach and duodenum without bleeding
+10384,DRG18402,K3183,Achlorhydria
+10385,DRG18402,K3184,Gastroparesis
+10386,DRG18402,K3189,Other diseases of stomach and duodenum
+10387,DRG18402,K319,"Disease of stomach and duodenum, unspecified"
+10388,DRG18402,K440,"Diaphragmatic hernia with obstruction, without gangrene"
+10389,DRG18402,K522,Allergic and dietetic gastroenteritis and colitis
+10390,DRG18402,K5281,Eosinophilic gastritis or gastroenteritis
+10391,DRG18402,K5282,Eosinophilic colitis
+10392,DRG18402,K5289,Other specified noninfective gastroenteritis and colitis
+10393,DRG18402,K529,"Noninfective gastroenteritis and colitis, unspecified"
+10394,DRG18402,K5700,Diverticulitis of small intestine with perforation and abscess without bleeding
+10395,DRG18402,K5710,Diverticulosis of small intestine without perforation or abscess without bleeding
+10396,DRG18402,K5712,Diverticulitis of small intestine without perforation or abscess without bleeding
+10397,DRG18402,K5720,Diverticulitis of large intestine with perforation and abscess without bleeding
+10398,DRG18402,K5730,Diverticulosis of large intestine without perforation or abscess without bleeding
+10399,DRG18402,K5732,Diverticulitis of large intestine without perforation or abscess without bleeding
+10400,DRG18402,K5740,Diverticulitis of both small and large intestine with perforation and abscess without bleeding
+10401,DRG18402,K5750,Diverticulosis of both small and large intestine without perforation or abscess without bleeding
+10402,DRG18402,K5751,Diverticulosis of both small and large intestine without perforation or abscess with bleeding
+10403,DRG18402,K5752,Diverticulitis of both small and large intestine without perforation or abscess without bleeding
+10404,DRG18402,K5780,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding"
+10405,DRG18402,K5790,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding"
+10406,DRG18402,K5792,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding"
+10407,DRG18402,K580,Irritable bowel syndrome with diarrhea
+10408,DRG18402,K589,Irritable bowel syndrome without diarrhea
+10409,DRG18402,K5900,"Constipation, unspecified"
+10410,DRG18402,K5901,Slow transit constipation
+10411,DRG18402,K5902,Outlet dysfunction constipation
+10412,DRG18402,K5909,Other constipation
+10413,DRG18402,K591,Functional diarrhea
+10414,DRG18402,K592,"Neurogenic bowel, not elsewhere classified"
+10415,DRG18402,K594,Anal spasm
+10416,DRG18402,K598,Other specified functional intestinal disorders
+10417,DRG18402,K599,"Functional intestinal disorder, unspecified"
+10418,DRG18402,K901,Tropical sprue
+10419,DRG18402,K902,"Blind loop syndrome, not elsewhere classified"
+10420,DRG18402,K903,Pancreatic steatorrhea
+10421,DRG18402,K904,"Malabsorption due to intolerance, not elsewhere classified"
+10422,DRG18402,K9089,Other intestinal malabsorption
+10423,DRG18402,K909,"Intestinal malabsorption, unspecified"
+10424,DRG18402,K910,Vomiting following gastrointestinal surgery
+10425,DRG18402,K911,Postgastric surgery syndromes
+10426,DRG18402,K912,"Postsurgical malabsorption, not elsewhere classified"
+10427,DRG18402,K9189,Other postprocedural complications and disorders of digestive system
+10428,DRG18402,K9281,Gastrointestinal mucositis (ulcerative)
+10429,DRG18402,N805,Endometriosis of intestine
+10430,DRG18402,R100,Acute abdomen
+10431,DRG18402,R1010,"Upper abdominal pain, unspecified"
+10432,DRG18402,R1011,Right upper quadrant pain
+10433,DRG18402,R1012,Left upper quadrant pain
+10434,DRG18402,R1013,Epigastric pain
+10435,DRG18402,R102,Pelvic and perineal pain
+10436,DRG18402,R1030,"Lower abdominal pain, unspecified"
+10437,DRG18402,R1031,Right lower quadrant pain
+10438,DRG18402,R1032,Left lower quadrant pain
+10439,DRG18402,R1033,Periumbilical pain
+10440,DRG18402,R10811,Right upper quadrant abdominal tenderness
+10441,DRG18402,R10812,Left upper quadrant abdominal tenderness
+10442,DRG18402,R10813,Right lower quadrant abdominal tenderness
+10443,DRG18402,R10814,Left lower quadrant abdominal tenderness
+10444,DRG18402,R10815,Periumbilic abdominal tenderness
+10445,DRG18402,R10816,Epigastric abdominal tenderness
+10446,DRG18402,R10817,Generalized abdominal tenderness
+10447,DRG18402,R10819,"Abdominal tenderness, unspecified site"
+10448,DRG18402,R10821,Right upper quadrant rebound abdominal tenderness
+10449,DRG18402,R10822,Left upper quadrant rebound abdominal tenderness
+10450,DRG18402,R10823,Right lower quadrant rebound abdominal tenderness
+10451,DRG18402,R10824,Left lower quadrant rebound abdominal tenderness
+10452,DRG18402,R10825,Periumbilic rebound abdominal tenderness
+10453,DRG18402,R10826,Epigastric rebound abdominal tenderness
+10454,DRG18402,R10827,Generalized rebound abdominal tenderness
+10455,DRG18402,R10829,"Rebound abdominal tenderness, unspecified site"
+10456,DRG18402,R1083,Colic
+10457,DRG18402,R1084,Generalized abdominal pain
+10458,DRG18402,R109,Unspecified abdominal pain
+10459,DRG18402,R110,Nausea
+10460,DRG18402,R1110,"Vomiting, unspecified"
+10461,DRG18402,R1111,Vomiting without nausea
+10462,DRG18402,R1112,Projectile vomiting
+10463,DRG18402,R1114,Bilious vomiting
+10464,DRG18402,R112,"Nausea with vomiting, unspecified"
+10465,DRG18402,R12,Heartburn
+10466,DRG18402,R130,Aphagia
+10467,DRG18402,R1310,"Dysphagia, unspecified"
+10468,DRG18402,R1311,"Dysphagia, oral phase"
+10469,DRG18402,R1312,"Dysphagia, oropharyngeal phase"
+10470,DRG18402,R1313,"Dysphagia, pharyngeal phase"
+10471,DRG18402,R1314,"Dysphagia, pharyngoesophageal phase"
+10472,DRG18402,R1319,Other dysphagia
+10473,DRG18402,R140,Abdominal distension (gaseous)
+10474,DRG18402,R141,Gas pain
+10475,DRG18402,R142,Eructation
+10476,DRG18402,R143,Flatulence
+10477,DRG18402,R150,Incomplete defecation
+10478,DRG18402,R151,Fecal smearing
+10479,DRG18402,R152,Fecal urgency
+10480,DRG18402,R159,Full incontinence of feces
+10481,DRG18402,R1900,"Intra-abdominal and pelvic swelling, mass and lump, unspecified site"
+10482,DRG18402,R1901,"Right upper quadrant abdominal swelling, mass and lump"
+10483,DRG18402,R1902,"Left upper quadrant abdominal swelling, mass and lump"
+10484,DRG18402,R1903,"Right lower quadrant abdominal swelling, mass and lump"
+10485,DRG18402,R1904,"Left lower quadrant abdominal swelling, mass and lump"
+10486,DRG18402,R1905,"Periumbilic swelling, mass or lump"
+10487,DRG18402,R1906,"Epigastric swelling, mass or lump"
+10488,DRG18402,R1907,"Generalized intra-abdominal and pelvic swelling, mass and lump"
+10489,DRG18402,R1909,"Other intra-abdominal and pelvic swelling, mass and lump"
+10490,DRG18402,R1911,Absent bowel sounds
+10491,DRG18402,R1912,Hyperactive bowel sounds
+10492,DRG18402,R1915,Other abnormal bowel sounds
+10493,DRG18402,R192,Visible peristalsis
+10494,DRG18402,R194,Change in bowel habit
+10495,DRG18402,R195,Other fecal abnormalities
+10496,DRG18402,R197,"Diarrhea, unspecified"
+10497,DRG18402,R198,Other specified symptoms and signs involving the digestive system and abdomen
+10498,DRG18402,R933,Abnormal findings on diagnostic imaging of other parts of digestive tract
+10499,DRG18402,R935,"Abnormal findings on diagnostic imaging of other abdominal regions, including retroperitoneum"

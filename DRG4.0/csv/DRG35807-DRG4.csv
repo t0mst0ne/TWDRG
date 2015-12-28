@@ -1,0 +1,635 @@
+,DRG,CM-PCS,en
+2995,DRG35807,A1816,Tuberculosis of cervix
+2996,DRG35807,A1817,Tuberculous female pelvic inflammatory disease
+2997,DRG35807,A1818,Tuberculosis of other female genital organs
+2998,DRG35807,A510,Primary genital syphilis
+2999,DRG35807,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
+3000,DRG35807,A5402,"Gonococcal vulvovaginitis, unspecified"
+3001,DRG35807,A5403,"Gonococcal cervicitis, unspecified"
+3002,DRG35807,A5409,Other gonococcal infection of lower genitourinary tract
+3003,DRG35807,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+3004,DRG35807,A5421,Gonococcal infection of kidney and ureter
+3005,DRG35807,A5424,Gonococcal female pelvic inflammatory disease
+3006,DRG35807,A5429,Other gonococcal genitourinary infections
+3007,DRG35807,A55,Chlamydial lymphogranuloma (venereum)
+3008,DRG35807,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
+3009,DRG35807,A5601,Chlamydial cystitis and urethritis
+3010,DRG35807,A5602,Chlamydial vulvovaginitis
+3011,DRG35807,A5609,Other chlamydial infection of lower genitourinary tract
+3012,DRG35807,A562,"Chlamydial infection of genitourinary tract, unspecified"
+3013,DRG35807,A568,Sexually transmitted chlamydial infection of other sites
+3014,DRG35807,A57,Chancroid
+3015,DRG35807,A58,Granuloma inguinale
+3016,DRG35807,A5900,"Urogenital trichomoniasis, unspecified"
+3017,DRG35807,A5901,Trichomonal vulvovaginitis
+3018,DRG35807,A5903,Trichomonal cystitis and urethritis
+3019,DRG35807,A5909,Other urogenital trichomoniasis
+3020,DRG35807,A6000,"Herpesviral infection of urogenital system, unspecified"
+3021,DRG35807,A6003,Herpesviral cervicitis
+3022,DRG35807,A6004,Herpesviral vulvovaginitis
+3023,DRG35807,A6009,Herpesviral infection of other urogenital tract
+3024,DRG35807,A601,Herpesviral infection of perianal skin and rectum
+3025,DRG35807,A609,"Anogenital herpesviral infection, unspecified"
+3026,DRG35807,A638,Other specified predominantly sexually transmitted diseases
+3027,DRG35807,A64,Unspecified sexually transmitted disease
+3028,DRG35807,B373,Candidiasis of vulva and vagina
+3029,DRG35807,B3741,Candidal cystitis and urethritis
+3030,DRG35807,B3749,Other urogenital candidiasis
+3031,DRG35807,D060,Carcinoma in situ of endocervix
+3032,DRG35807,D061,Carcinoma in situ of exocervix
+3033,DRG35807,D067,Carcinoma in situ of other parts of cervix
+3034,DRG35807,D069,"Carcinoma in situ of cervix, unspecified"
+3035,DRG35807,D070,Carcinoma in situ of endometrium
+3036,DRG35807,D071,Carcinoma in situ of vulva
+3037,DRG35807,D072,Carcinoma in situ of vagina
+3038,DRG35807,D0730,Carcinoma in situ of unspecified female genital organs
+3039,DRG35807,D0739,Carcinoma in situ of other female genital organs
+3040,DRG35807,D250,Submucous leiomyoma of uterus
+3041,DRG35807,D251,Intramural leiomyoma of uterus
+3042,DRG35807,D252,Subserosal leiomyoma of uterus
+3043,DRG35807,D259,"Leiomyoma of uterus, unspecified"
+3044,DRG35807,D260,Other benign neoplasm of cervix uteri
+3045,DRG35807,D261,Other benign neoplasm of corpus uteri
+3046,DRG35807,D267,Other benign neoplasm of other parts of uterus
+3047,DRG35807,D269,"Other benign neoplasm of uterus, unspecified"
+3048,DRG35807,D270,Benign neoplasm of right ovary
+3049,DRG35807,D271,Benign neoplasm of left ovary
+3050,DRG35807,D279,Benign neoplasm of unspecified ovary
+3051,DRG35807,D280,Benign neoplasm of vulva
+3052,DRG35807,D281,Benign neoplasm of vagina
+3053,DRG35807,D282,Benign neoplasm of uterine tubes and ligaments
+3054,DRG35807,D287,Benign neoplasm of other specified female genital organs
+3055,DRG35807,D289,"Benign neoplasm of female genital organ, unspecified"
+3056,DRG35807,E280,Estrogen excess
+3057,DRG35807,E281,Androgen excess
+3058,DRG35807,E282,Polycystic ovarian syndrome
+3059,DRG35807,E28310,Symptomatic premature menopause
+3060,DRG35807,E28319,Asymptomatic premature menopause
+3061,DRG35807,E2839,Other primary ovarian failure
+3062,DRG35807,E288,Other ovarian dysfunction
+3063,DRG35807,E289,"Ovarian dysfunction, unspecified"
+3064,DRG35807,E8940,Asymptomatic postprocedural ovarian failure
+3065,DRG35807,E8941,Symptomatic postprocedural ovarian failure
+3066,DRG35807,F525,Vaginismus not due to a substance or known physiological condition
+3067,DRG35807,G43821,"Menstrual migraine, not intractable, with status migrainosus"
+3068,DRG35807,G43829,"Menstrual migraine, not intractable, without status migrainosus"
+3069,DRG35807,G43831,"Menstrual migraine, intractable, with status migrainosus"
+3070,DRG35807,G43839,"Menstrual migraine, intractable, without status migrainosus"
+3071,DRG35807,I862,Pelvic varices
+3072,DRG35807,I863,Vulval varices
+3073,DRG35807,L292,Pruritus vulvae
+3074,DRG35807,L293,"Anogenital pruritus, unspecified"
+3075,DRG35807,N341,Nonspecific urethritis
+3076,DRG35807,N393,Stress incontinence (female) (male)
+3077,DRG35807,N7001,Acute salpingitis
+3078,DRG35807,N7002,Acute oophoritis
+3079,DRG35807,N7003,Acute salpingitis and oophoritis
+3080,DRG35807,N7011,Chronic salpingitis
+3081,DRG35807,N7012,Chronic oophoritis
+3082,DRG35807,N7013,Chronic salpingitis and oophoritis
+3083,DRG35807,N7091,"Salpingitis, unspecified"
+3084,DRG35807,N7092,"Oophoritis, unspecified"
+3085,DRG35807,N7093,"Salpingitis and oophoritis, unspecified"
+3086,DRG35807,N710,Acute inflammatory disease of uterus
+3087,DRG35807,N711,Chronic inflammatory disease of uterus
+3088,DRG35807,N719,"Inflammatory disease of uterus, unspecified"
+3089,DRG35807,N72,Inflammatory disease of cervix uteri
+3090,DRG35807,N730,Acute parametritis and pelvic cellulitis
+3091,DRG35807,N731,Chronic parametritis and pelvic cellulitis
+3092,DRG35807,N732,Unspecified parametritis and pelvic cellulitis
+3093,DRG35807,N733,Female acute pelvic peritonitis
+3094,DRG35807,N734,Female chronic pelvic peritonitis
+3095,DRG35807,N735,"Female pelvic peritonitis, unspecified"
+3096,DRG35807,N736,Female pelvic peritoneal adhesions (postinfective)
+3097,DRG35807,N738,Other specified female pelvic inflammatory diseases
+3098,DRG35807,N739,"Female pelvic inflammatory disease, unspecified"
+3099,DRG35807,N750,Cyst of Bartholin's gland
+3100,DRG35807,N751,Abscess of Bartholin's gland
+3101,DRG35807,N758,Other diseases of Bartholin's gland
+3102,DRG35807,N759,"Disease of Bartholin's gland, unspecified"
+3103,DRG35807,N760,Acute vaginitis
+3104,DRG35807,N761,Subacute and chronic vaginitis
+3105,DRG35807,N762,Acute vulvitis
+3106,DRG35807,N763,Subacute and chronic vulvitis
+3107,DRG35807,N764,Abscess of vulva
+3108,DRG35807,N765,Ulceration of vagina
+3109,DRG35807,N766,Ulceration of vulva
+3110,DRG35807,N7681,Mucositis (ulcerative) of vagina and vulva
+3111,DRG35807,N7689,Other specified inflammation of vagina and vulva
+3112,DRG35807,N800,Endometriosis of uterus
+3113,DRG35807,N801,Endometriosis of ovary
+3114,DRG35807,N802,Endometriosis of fallopian tube
+3115,DRG35807,N803,Endometriosis of pelvic peritoneum
+3116,DRG35807,N804,Endometriosis of rectovaginal septum and vagina
+3117,DRG35807,N808,Other endometriosis
+3118,DRG35807,N809,"Endometriosis, unspecified"
+3119,DRG35807,N810,Urethrocele
+3120,DRG35807,N8110,"Cystocele, unspecified"
+3121,DRG35807,N8111,"Cystocele, midline"
+3122,DRG35807,N8112,"Cystocele, lateral"
+3123,DRG35807,N812,Incomplete uterovaginal prolapse
+3124,DRG35807,N813,Complete uterovaginal prolapse
+3125,DRG35807,N814,"Uterovaginal prolapse, unspecified"
+3126,DRG35807,N815,Vaginal enterocele
+3127,DRG35807,N816,Rectocele
+3128,DRG35807,N8181,Perineocele
+3129,DRG35807,N8182,Incompetence or weakening of pubocervical tissue
+3130,DRG35807,N8183,Incompetence or weakening of rectovaginal tissue
+3131,DRG35807,N8184,Pelvic muscle wasting
+3132,DRG35807,N8185,Cervical stump prolapse
+3133,DRG35807,N8189,Other female genital prolapse
+3134,DRG35807,N819,"Female genital prolapse, unspecified"
+3135,DRG35807,N820,Vesicovaginal fistula
+3136,DRG35807,N821,Other female urinary-genital tract fistulae
+3137,DRG35807,N825,Female genital tract-skin fistulae
+3138,DRG35807,N828,Other female genital tract fistulae
+3139,DRG35807,N829,"Female genital tract fistula, unspecified"
+3140,DRG35807,N830,Follicular cyst of ovary
+3141,DRG35807,N831,Corpus luteum cyst
+3142,DRG35807,N8320,Unspecified ovarian cysts
+3143,DRG35807,N8329,Other ovarian cysts
+3144,DRG35807,N8331,Acquired atrophy of ovary
+3145,DRG35807,N8332,Acquired atrophy of fallopian tube
+3146,DRG35807,N8333,Acquired atrophy of ovary and fallopian tube
+3147,DRG35807,N834,Prolapse and hernia of ovary and fallopian tube
+3148,DRG35807,N8351,Torsion of ovary and ovarian pedicle
+3149,DRG35807,N8352,Torsion of fallopian tube
+3150,DRG35807,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube"
+3151,DRG35807,N836,Hematosalpinx
+3152,DRG35807,N837,Hematoma of broad ligament
+3153,DRG35807,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
+3154,DRG35807,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
+3155,DRG35807,N840,Polyp of corpus uteri
+3156,DRG35807,N841,Polyp of cervix uteri
+3157,DRG35807,N842,Polyp of vagina
+3158,DRG35807,N843,Polyp of vulva
+3159,DRG35807,N848,Polyp of other parts of female genital tract
+3160,DRG35807,N849,"Polyp of female genital tract, unspecified"
+3161,DRG35807,N8500,"Endometrial hyperplasia, unspecified"
+3162,DRG35807,N8501,Benign endometrial hyperplasia
+3163,DRG35807,N8502,Endometrial intraepithelial neoplasia [EIN]
+3164,DRG35807,N852,Hypertrophy of uterus
+3165,DRG35807,N853,Subinvolution of uterus
+3166,DRG35807,N854,Malposition of uterus
+3167,DRG35807,N855,Inversion of uterus
+3168,DRG35807,N856,Intrauterine synechiae
+3169,DRG35807,N857,Hematometra
+3170,DRG35807,N858,Other specified noninflammatory disorders of uterus
+3171,DRG35807,N859,"Noninflammatory disorder of uterus, unspecified"
+3172,DRG35807,N86,Erosion and ectropion of cervix uteri
+3173,DRG35807,N870,Mild cervical dysplasia
+3174,DRG35807,N871,Moderate cervical dysplasia
+3175,DRG35807,N879,"Dysplasia of cervix uteri, unspecified"
+3176,DRG35807,N880,Leukoplakia of cervix uteri
+3177,DRG35807,N881,Old laceration of cervix uteri
+3178,DRG35807,N882,Stricture and stenosis of cervix uteri
+3179,DRG35807,N883,Incompetence of cervix uteri
+3180,DRG35807,N884,Hypertrophic elongation of cervix uteri
+3181,DRG35807,N888,Other specified noninflammatory disorders of cervix uteri
+3182,DRG35807,N889,"Noninflammatory disorder of cervix uteri, unspecified"
+3183,DRG35807,N890,Mild vaginal dysplasia
+3184,DRG35807,N891,Moderate vaginal dysplasia
+3185,DRG35807,N893,"Dysplasia of vagina, unspecified"
+3186,DRG35807,N894,Leukoplakia of vagina
+3187,DRG35807,N895,Stricture and atresia of vagina
+3188,DRG35807,N896,Tight hymenal ring
+3189,DRG35807,N897,Hematocolpos
+3190,DRG35807,N898,Other specified noninflammatory disorders of vagina
+3191,DRG35807,N899,"Noninflammatory disorder of vagina, unspecified"
+3192,DRG35807,N900,Mild vulvar dysplasia
+3193,DRG35807,N901,Moderate vulvar dysplasia
+3194,DRG35807,N903,"Dysplasia of vulva, unspecified"
+3195,DRG35807,N904,Leukoplakia of vulva
+3196,DRG35807,N905,Atrophy of vulva
+3197,DRG35807,N906,Hypertrophy of vulva
+3198,DRG35807,N907,Vulvar cyst
+3199,DRG35807,N90810,"Female genital mutilation status, unspecified"
+3200,DRG35807,N90811,Female genital mutilation Type I status
+3201,DRG35807,N90812,Female genital mutilation Type II status
+3202,DRG35807,N90813,Female genital mutilation Type III status
+3203,DRG35807,N90818,Other female genital mutilation status
+3204,DRG35807,N9089,Other specified noninflammatory disorders of vulva and perineum
+3205,DRG35807,N909,"Noninflammatory disorder of vulva and perineum, unspecified"
+3206,DRG35807,N910,Primary amenorrhea
+3207,DRG35807,N911,Secondary amenorrhea
+3208,DRG35807,N912,"Amenorrhea, unspecified"
+3209,DRG35807,N913,Primary oligomenorrhea
+3210,DRG35807,N914,Secondary oligomenorrhea
+3211,DRG35807,N915,"Oligomenorrhea, unspecified"
+3212,DRG35807,N920,Excessive and frequent menstruation with regular cycle
+3213,DRG35807,N921,Excessive and frequent menstruation with irregular cycle
+3214,DRG35807,N922,Excessive menstruation at puberty
+3215,DRG35807,N923,Ovulation bleeding
+3216,DRG35807,N924,Excessive bleeding in the premenopausal period
+3217,DRG35807,N925,Other specified irregular menstruation
+3218,DRG35807,N926,"Irregular menstruation, unspecified"
+3219,DRG35807,N930,Postcoital and contact bleeding
+3220,DRG35807,N938,Other specified abnormal uterine and vaginal bleeding
+3221,DRG35807,N939,"Abnormal uterine and vaginal bleeding, unspecified"
+3222,DRG35807,N940,Mittelschmerz
+3223,DRG35807,N941,Dyspareunia
+3224,DRG35807,N942,Vaginismus
+3225,DRG35807,N943,Premenstrual tension syndrome
+3226,DRG35807,N944,Primary dysmenorrhea
+3227,DRG35807,N945,Secondary dysmenorrhea
+3228,DRG35807,N946,"Dysmenorrhea, unspecified"
+3229,DRG35807,N94810,Vulvar vestibulitis
+3230,DRG35807,N94818,Other vulvodynia
+3231,DRG35807,N94819,"Vulvodynia, unspecified"
+3232,DRG35807,N9489,Other specified conditions associated with female genital organs and menstrual cycle
+3233,DRG35807,N949,Unspecified condition associated with female genital organs and menstrual cycle
+3234,DRG35807,N950,Postmenopausal bleeding
+3235,DRG35807,N951,Menopausal and female climacteric states
+3236,DRG35807,N952,Postmenopausal atrophic vaginitis
+3237,DRG35807,N958,Other specified menopausal and perimenopausal disorders
+3238,DRG35807,N959,Unspecified menopausal and perimenopausal disorder
+3239,DRG35807,N96,Recurrent pregnancy loss
+3240,DRG35807,N970,Female infertility associated with anovulation
+3241,DRG35807,N971,Female infertility of tubal origin
+3242,DRG35807,N972,Female infertility of uterine origin
+3243,DRG35807,N978,Female infertility of other origin
+3244,DRG35807,N979,"Female infertility, unspecified"
+3245,DRG35807,N992,Postprocedural adhesions of vagina
+3246,DRG35807,N993,Prolapse of vaginal vault after hysterectomy
+3247,DRG35807,N9983,Residual ovary syndrome
+3248,DRG35807,Q5001,"Congenital absence of ovary, unilateral"
+3249,DRG35807,Q5002,"Congenital absence of ovary, bilateral"
+3250,DRG35807,Q501,Developmental ovarian cyst
+3251,DRG35807,Q502,Congenital torsion of ovary
+3252,DRG35807,Q5031,Accessory ovary
+3253,DRG35807,Q5032,Ovarian streak
+3254,DRG35807,Q5039,Other congenital malformation of ovary
+3255,DRG35807,Q504,Embryonic cyst of fallopian tube
+3256,DRG35807,Q505,Embryonic cyst of broad ligament
+3257,DRG35807,Q506,Other congenital malformations of fallopian tube and broad ligament
+3258,DRG35807,Q510,Agenesis and aplasia of uterus
+3259,DRG35807,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction
+3260,DRG35807,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction
+3261,DRG35807,Q512,Other doubling of uterus
+3262,DRG35807,Q513,Bicornate uterus
+3263,DRG35807,Q514,Unicornate uterus
+3264,DRG35807,Q515,Agenesis and aplasia of cervix
+3265,DRG35807,Q516,Embryonic cyst of cervix
+3266,DRG35807,Q517,Congenital fistulae between uterus and digestive and urinary tracts
+3267,DRG35807,Q51810,Arcuate uterus
+3268,DRG35807,Q51811,Hypoplasia of uterus
+3269,DRG35807,Q51818,Other congenital malformations of uterus
+3270,DRG35807,Q51820,Cervical duplication
+3271,DRG35807,Q51821,Hypoplasia of cervix
+3272,DRG35807,Q51828,Other congenital malformations of cervix
+3273,DRG35807,Q519,"Congenital malformation of uterus and cervix, unspecified"
+3274,DRG35807,Q520,Congenital absence of vagina
+3275,DRG35807,Q5210,"Doubling of vagina, unspecified"
+3276,DRG35807,Q5211,Transverse vaginal septum
+3277,DRG35807,Q5212,Longitudinal vaginal septum
+3278,DRG35807,Q522,Congenital rectovaginal fistula
+3279,DRG35807,Q523,Imperforate hymen
+3280,DRG35807,Q524,Other congenital malformations of vagina
+3281,DRG35807,Q525,Fusion of labia
+3282,DRG35807,Q526,Congenital malformation of clitoris
+3283,DRG35807,Q5270,Unspecified congenital malformations of vulva
+3284,DRG35807,Q5271,Congenital absence of vulva
+3285,DRG35807,Q5279,Other congenital malformations of vulva
+3286,DRG35807,Q528,Other specified congenital malformations of female genitalia
+3287,DRG35807,Q529,"Congenital malformation of female genitalia, unspecified"
+3288,DRG35807,Q560,"Hermaphroditism, not elsewhere classified"
+3289,DRG35807,Q562,"Female pseudohermaphroditism, not elsewhere classified"
+3290,DRG35807,Q563,"Pseudohermaphroditism, unspecified"
+3291,DRG35807,Q564,"Indeterminate sex, unspecified"
+3292,DRG35807,Q960,"Karyotype 45, X"
+3293,DRG35807,Q961,"Karyotype 46, X iso (Xq)"
+3294,DRG35807,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
+3295,DRG35807,Q963,"Mosaicism, 45, X/46, XX or XY"
+3296,DRG35807,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome"
+3297,DRG35807,Q968,Other variants of Turner's syndrome
+3298,DRG35807,Q969,"Turner's syndrome, unspecified"
+3299,DRG35807,Q970,"Karyotype 47, XXX"
+3300,DRG35807,Q971,Female with more than three X chromosomes
+3301,DRG35807,Q972,"Mosaicism, lines with various numbers of X chromosomes"
+3302,DRG35807,Q973,"Female with 46, XY karyotype"
+3303,DRG35807,Q978,"Other specified sex chromosome abnormalities, female phenotype"
+3304,DRG35807,Q979,"Sex chromosome abnormality, female phenotype, unspecified"
+3305,DRG35807,Q985,"Karyotype 47, XYY"
+3306,DRG35807,Q990,"Chimera 46, XX/46, XY"
+3307,DRG35807,Q991,"46, XX true hermaphrodite"
+3308,DRG35807,Q998,Other specified chromosome abnormalities
+3309,DRG35807,R87610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
+3310,DRG35807,R87611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
+3311,DRG35807,R87612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
+3312,DRG35807,R87613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
+3313,DRG35807,R87614,Cytologic evidence of malignancy on smear of cervix
+3314,DRG35807,R87615,Unsatisfactory cytologic smear of cervix
+3315,DRG35807,R87616,Satisfactory cervical smear but lacking transformation zone
+3316,DRG35807,R87810,Cervical high risk human papillomavirus (HPV) DNA test positive
+3317,DRG35807,R87820,Cervical low risk human papillomavirus (HPV) DNA test positive
+3318,DRG35807,S30202A,"Contusion of unspecified external genital organ, female, initial encounter"
+3319,DRG35807,S3023XA,"Contusion of vagina and vulva, initial encounter"
+3320,DRG35807,S3140XA,"Unspecified open wound of vagina and vulva, initial encounter"
+3321,DRG35807,S3141XA,"Laceration without foreign body of vagina and vulva, initial encounter"
+3322,DRG35807,S3142XA,"Laceration with foreign body of vagina and vulva, initial encounter"
+3323,DRG35807,S3143XA,"Puncture wound without foreign body of vagina and vulva, initial encounter"
+3324,DRG35807,S3144XA,"Puncture wound with foreign body of vagina and vulva, initial encounter"
+3325,DRG35807,S3145XA,"Open bite of vagina and vulva, initial encounter"
+3326,DRG35807,S31502A,"Unspecified open wound of unspecified external genital organs, female, initial encounter"
+3327,DRG35807,S31502S,"Unspecified open wound of unspecified external genital organs, female, sequela"
+3328,DRG35807,S31512A,"Laceration without foreign body of unspecified external genital organs, female, initial encounter"
+3329,DRG35807,S31512S,"Laceration without foreign body of unspecified external genital organs, female, sequela"
+3330,DRG35807,S31522A,"Laceration with foreign body of unspecified external genital organs, female, initial encounter"
+3331,DRG35807,S31522S,"Laceration with foreign body of unspecified external genital organs, female, sequela"
+3332,DRG35807,S31532A,"Puncture wound without foreign body of unspecified external genital organs, female, initial encounter"
+3333,DRG35807,S31532S,"Puncture wound without foreign body of unspecified external genital organs, female, sequela"
+3334,DRG35807,S31542A,"Puncture wound with foreign body of unspecified external genital organs, female, initial encounter"
+3335,DRG35807,S31542S,"Puncture wound with foreign body of unspecified external genital organs, female, sequela"
+3336,DRG35807,S31552A,"Open bite of unspecified external genital organs, female, initial encounter"
+3337,DRG35807,S31552S,"Open bite of unspecified external genital organs, female, sequela"
+3338,DRG35807,S3710XS,"Unspecified injury of ureter, sequela"
+3339,DRG35807,S3712XS,"Contusion of ureter, sequela"
+3340,DRG35807,S3713XS,"Laceration of ureter, sequela"
+3341,DRG35807,S3719XS,"Other injury of ureter, sequela"
+3342,DRG35807,S3720XS,"Unspecified injury of bladder, sequela"
+3343,DRG35807,S3722XS,"Contusion of bladder, sequela"
+3344,DRG35807,S3723XS,"Laceration of bladder, sequela"
+3345,DRG35807,S3729XS,"Other injury of bladder, sequela"
+3346,DRG35807,S3730XS,"Unspecified injury of urethra, sequela"
+3347,DRG35807,S3732XS,"Contusion of urethra, sequela"
+3348,DRG35807,S3733XS,"Laceration of urethra, sequela"
+3349,DRG35807,S3739XS,"Other injury of urethra, sequela"
+3350,DRG35807,S37401A,"Unspecified injury of ovary, unilateral, initial encounter"
+3351,DRG35807,S37401S,"Unspecified injury of ovary, unilateral, sequela"
+3352,DRG35807,S37402A,"Unspecified injury of ovary, bilateral, initial encounter"
+3353,DRG35807,S37402S,"Unspecified injury of ovary, bilateral, sequela"
+3354,DRG35807,S37409A,"Unspecified injury of ovary, unspecified, initial encounter"
+3355,DRG35807,S37409S,"Unspecified injury of ovary, unspecified, sequela"
+3356,DRG35807,S37421A,"Contusion of ovary, unilateral, initial encounter"
+3357,DRG35807,S37421S,"Contusion of ovary, unilateral, sequela"
+3358,DRG35807,S37422A,"Contusion of ovary, bilateral, initial encounter"
+3359,DRG35807,S37422S,"Contusion of ovary, bilateral, sequela"
+3360,DRG35807,S37429A,"Contusion of ovary, unspecified, initial encounter"
+3361,DRG35807,S37429S,"Contusion of ovary, unspecified, sequela"
+3362,DRG35807,S37431A,"Laceration of ovary, unilateral, initial encounter"
+3363,DRG35807,S37431S,"Laceration of ovary, unilateral, sequela"
+3364,DRG35807,S37432A,"Laceration of ovary, bilateral, initial encounter"
+3365,DRG35807,S37432S,"Laceration of ovary, bilateral, sequela"
+3366,DRG35807,S37439A,"Laceration of ovary, unspecified, initial encounter"
+3367,DRG35807,S37439S,"Laceration of ovary, unspecified, sequela"
+3368,DRG35807,S37491A,"Other injury of ovary, unilateral, initial encounter"
+3369,DRG35807,S37491S,"Other injury of ovary, unilateral, sequela"
+3370,DRG35807,S37492A,"Other injury of ovary, bilateral, initial encounter"
+3371,DRG35807,S37492S,"Other injury of ovary, bilateral, sequela"
+3372,DRG35807,S37499A,"Other injury of ovary, unspecified, initial encounter"
+3373,DRG35807,S37499S,"Other injury of ovary, unspecified, sequela"
+3374,DRG35807,S37501A,"Unspecified injury of fallopian tube, unilateral, initial encounter"
+3375,DRG35807,S37501S,"Unspecified injury of fallopian tube, unilateral, sequela"
+3376,DRG35807,S37502A,"Unspecified injury of fallopian tube, bilateral, initial encounter"
+3377,DRG35807,S37502S,"Unspecified injury of fallopian tube, bilateral, sequela"
+3378,DRG35807,S37509A,"Unspecified injury of fallopian tube, unspecified, initial encounter"
+3379,DRG35807,S37509S,"Unspecified injury of fallopian tube, unspecified, sequela"
+3380,DRG35807,S37511A,"Primary blast injury of fallopian tube, unilateral, initial encounter"
+3381,DRG35807,S37511S,"Primary blast injury of fallopian tube, unilateral, sequela"
+3382,DRG35807,S37512A,"Primary blast injury of fallopian tube, bilateral, initial encounter"
+3383,DRG35807,S37512S,"Primary blast injury of fallopian tube, bilateral, sequela"
+3384,DRG35807,S37519A,"Primary blast injury of fallopian tube, unspecified, initial encounter"
+3385,DRG35807,S37519S,"Primary blast injury of fallopian tube, unspecified, sequela"
+3386,DRG35807,S37521A,"Contusion of fallopian tube, unilateral, initial encounter"
+3387,DRG35807,S37521S,"Contusion of fallopian tube, unilateral, sequela"
+3388,DRG35807,S37522A,"Contusion of fallopian tube, bilateral, initial encounter"
+3389,DRG35807,S37522S,"Contusion of fallopian tube, bilateral, sequela"
+3390,DRG35807,S37529A,"Contusion of fallopian tube, unspecified, initial encounter"
+3391,DRG35807,S37529S,"Contusion of fallopian tube, unspecified, sequela"
+3392,DRG35807,S37531A,"Laceration of fallopian tube, unilateral, initial encounter"
+3393,DRG35807,S37531S,"Laceration of fallopian tube, unilateral, sequela"
+3394,DRG35807,S37532A,"Laceration of fallopian tube, bilateral, initial encounter"
+3395,DRG35807,S37532S,"Laceration of fallopian tube, bilateral, sequela"
+3396,DRG35807,S37539A,"Laceration of fallopian tube, unspecified, initial encounter"
+3397,DRG35807,S37539S,"Laceration of fallopian tube, unspecified, sequela"
+3398,DRG35807,S37591A,"Other injury of fallopian tube, unilateral, initial encounter"
+3399,DRG35807,S37591S,"Other injury of fallopian tube, unilateral, sequela"
+3400,DRG35807,S37592A,"Other injury of fallopian tube, bilateral, initial encounter"
+3401,DRG35807,S37592S,"Other injury of fallopian tube, bilateral, sequela"
+3402,DRG35807,S37599A,"Other injury of fallopian tube, unspecified, initial encounter"
+3403,DRG35807,S37599S,"Other injury of fallopian tube, unspecified, sequela"
+3404,DRG35807,S3760XA,"Unspecified injury of uterus, initial encounter"
+3405,DRG35807,S3760XS,"Unspecified injury of uterus, sequela"
+3406,DRG35807,S3762XA,"Contusion of uterus, initial encounter"
+3407,DRG35807,S3762XS,"Contusion of uterus, sequela"
+3408,DRG35807,S3763XA,"Laceration of uterus, initial encounter"
+3409,DRG35807,S3763XS,"Laceration of uterus, sequela"
+3410,DRG35807,S3769XA,"Other injury of uterus, initial encounter"
+3411,DRG35807,S3769XS,"Other injury of uterus, sequela"
+3412,DRG35807,S37812S,"Contusion of adrenal gland, sequela"
+3413,DRG35807,S37813S,"Laceration of adrenal gland, sequela"
+3414,DRG35807,S37818S,"Other injury of adrenal gland, sequela"
+3415,DRG35807,S37819S,"Unspecified injury of adrenal gland, sequela"
+3416,DRG35807,S37892A,"Contusion of other urinary and pelvic organ, initial encounter"
+3417,DRG35807,S37892S,"Contusion of other urinary and pelvic organ, sequela"
+3418,DRG35807,S37893A,"Laceration of other urinary and pelvic organ, initial encounter"
+3419,DRG35807,S37893S,"Laceration of other urinary and pelvic organ, sequela"
+3420,DRG35807,S37898A,"Other injury of other urinary and pelvic organ, initial encounter"
+3421,DRG35807,S37898S,"Other injury of other urinary and pelvic organ, sequela"
+3422,DRG35807,S37899A,"Unspecified injury of other urinary and pelvic organ, initial encounter"
+3423,DRG35807,S37899S,"Unspecified injury of other urinary and pelvic organ, sequela"
+3424,DRG35807,S3790XA,"Unspecified injury of unspecified urinary and pelvic organ, initial encounter"
+3425,DRG35807,S3790XS,"Unspecified injury of unspecified urinary and pelvic organ, sequela"
+3426,DRG35807,S3792XA,"Contusion of unspecified urinary and pelvic organ, initial encounter"
+3427,DRG35807,S3792XS,"Contusion of unspecified urinary and pelvic organ, sequela"
+3428,DRG35807,S3793XA,"Laceration of unspecified urinary and pelvic organ, initial encounter"
+3429,DRG35807,S3793XS,"Laceration of unspecified urinary and pelvic organ, sequela"
+3430,DRG35807,S3799XA,"Other injury of unspecified urinary and pelvic organ, initial encounter"
+3431,DRG35807,S3799XS,"Other injury of unspecified urinary and pelvic organ, sequela"
+3432,DRG35807,S38002A,"Crushing injury of unspecified external genital organs, female, initial encounter"
+3433,DRG35807,S3803XA,"Crushing injury of vulva, initial encounter"
+3434,DRG35807,S38211A,"Complete traumatic amputation of female external genital organs, initial encounter"
+3435,DRG35807,S38212A,"Partial traumatic amputation of female external genital organs, initial encounter"
+3436,DRG35807,T192XXA,"Foreign body in vulva and vagina, initial encounter"
+3437,DRG35807,T193XXA,"Foreign body in uterus, initial encounter"
+3438,DRG35807,T8331XA,"Breakdown (mechanical) of intrauterine contraceptive device, initial encounter"
+3439,DRG35807,T8332XA,"Displacement of intrauterine contraceptive device, initial encounter"
+3440,DRG35807,T8339XA,"Other mechanical complication of intrauterine contraceptive device, initial encounter"
+3441,DRG35807,Z4002,Encounter for prophylactic removal of ovary
+3442,DRG35807,Z437,Encounter for attention to artificial vagina
+3445,DRG35807,015P4ZZ,"Destruction of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach"
+3446,DRG35807,0DN84ZZ,"Release Small Intestine, Percutaneous Endoscopic Approach"
+3447,DRG35807,0DN94ZZ,"Release Duodenum, Percutaneous Endoscopic Approach"
+3448,DRG35807,0DNA4ZZ,"Release Jejunum, Percutaneous Endoscopic Approach"
+3449,DRG35807,0DNB4ZZ,"Release Ileum, Percutaneous Endoscopic Approach"
+3450,DRG35807,0DNC4ZZ,"Release Ileocecal Valve, Percutaneous Endoscopic Approach"
+3451,DRG35807,0DNE4ZZ,"Release Large Intestine, Percutaneous Endoscopic Approach"
+3452,DRG35807,0DNF4ZZ,"Release Right Large Intestine, Percutaneous Endoscopic Approach"
+3453,DRG35807,0DNG4ZZ,"Release Left Large Intestine, Percutaneous Endoscopic Approach"
+3454,DRG35807,0DNH4ZZ,"Release Cecum, Percutaneous Endoscopic Approach"
+3455,DRG35807,0DNJ4ZZ,"Release Appendix, Percutaneous Endoscopic Approach"
+3456,DRG35807,0DNK4ZZ,"Release Ascending Colon, Percutaneous Endoscopic Approach"
+3457,DRG35807,0DNL4ZZ,"Release Transverse Colon, Percutaneous Endoscopic Approach"
+3458,DRG35807,0DNM4ZZ,"Release Descending Colon, Percutaneous Endoscopic Approach"
+3459,DRG35807,0DNN4ZZ,"Release Sigmoid Colon, Percutaneous Endoscopic Approach"
+3460,DRG35807,0DNS4ZZ,"Release Greater Omentum, Percutaneous Endoscopic Approach"
+3461,DRG35807,0DNT4ZZ,"Release Lesser Omentum, Percutaneous Endoscopic Approach"
+3462,DRG35807,0DNV4ZZ,"Release Mesentery, Percutaneous Endoscopic Approach"
+3463,DRG35807,0DNW4ZZ,"Release Peritoneum, Percutaneous Endoscopic Approach"
+3464,DRG35807,0DQ84ZZ,"Repair Small Intestine, Percutaneous Endoscopic Approach"
+3465,DRG35807,0DQE4ZZ,"Repair Large Intestine, Percutaneous Endoscopic Approach"
+3466,DRG35807,0DQN4ZZ,"Repair Sigmoid Colon, Percutaneous Endoscopic Approach"
+3467,DRG35807,0FN04ZZ,"Release Liver, Percutaneous Endoscopic Approach"
+3468,DRG35807,0FN14ZZ,"Release Right Lobe Liver, Percutaneous Endoscopic Approach"
+3469,DRG35807,0FN24ZZ,"Release Left Lobe Liver, Percutaneous Endoscopic Approach"
+3470,DRG35807,0FN44ZZ,"Release Gallbladder, Percutaneous Endoscopic Approach"
+3471,DRG35807,0FN54ZZ,"Release Right Hepatic Duct, Percutaneous Endoscopic Approach"
+3472,DRG35807,0FN64ZZ,"Release Left Hepatic Duct, Percutaneous Endoscopic Approach"
+3473,DRG35807,0FN84ZZ,"Release Cystic Duct, Percutaneous Endoscopic Approach"
+3474,DRG35807,0FN94ZZ,"Release Common Bile Duct, Percutaneous Endoscopic Approach"
+3475,DRG35807,0FNC4ZZ,"Release Ampulla of Vater, Percutaneous Endoscopic Approach"
+3476,DRG35807,0FND4ZZ,"Release Pancreatic Duct, Percutaneous Endoscopic Approach"
+3477,DRG35807,0FNF4ZZ,"Release Accessory Pancreatic Duct, Percutaneous Endoscopic Approach"
+3478,DRG35807,0FNG4ZZ,"Release Pancreas, Percutaneous Endoscopic Approach"
+3479,DRG35807,0U15475,"Bypass Right Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3480,DRG35807,0U15476,"Bypass Right Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3481,DRG35807,0U15479,"Bypass Right Fallopian Tube to Uterus with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3482,DRG35807,0U154J5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3483,DRG35807,0U154J6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3484,DRG35807,0U154J9,"Bypass Right Fallopian Tube to Uterus with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3485,DRG35807,0U154K5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3486,DRG35807,0U154K6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3487,DRG35807,0U154K9,"Bypass Right Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3488,DRG35807,0U154Z5,"Bypass Right Fallopian Tube to Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3489,DRG35807,0U154Z6,"Bypass Right Fallopian Tube to Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3490,DRG35807,0U154Z9,"Bypass Right Fallopian Tube to Uterus, Percutaneous Endoscopic Approach"
+3491,DRG35807,0U16475,"Bypass Left Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3492,DRG35807,0U16476,"Bypass Left Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3493,DRG35807,0U16479,"Bypass Left Fallopian Tube to Uterus with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3494,DRG35807,0U164J5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3495,DRG35807,0U164J6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3496,DRG35807,0U164J9,"Bypass Left Fallopian Tube to Uterus with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3497,DRG35807,0U164K5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3498,DRG35807,0U164K6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3499,DRG35807,0U164K9,"Bypass Left Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3500,DRG35807,0U164Z5,"Bypass Left Fallopian Tube to Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3501,DRG35807,0U164Z6,"Bypass Left Fallopian Tube to Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3502,DRG35807,0U164Z9,"Bypass Left Fallopian Tube to Uterus, Percutaneous Endoscopic Approach"
+3503,DRG35807,0U504ZZ,"Destruction of Right Ovary, Percutaneous Endoscopic Approach"
+3504,DRG35807,0U514ZZ,"Destruction of Left Ovary, Percutaneous Endoscopic Approach"
+3505,DRG35807,0U544ZZ,"Destruction of Uterine Supporting Structure, Percutaneous Endoscopic Approach"
+3506,DRG35807,0U554ZZ,"Destruction of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3507,DRG35807,0U564ZZ,"Destruction of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3508,DRG35807,0U594ZZ,"Destruction of Uterus, Percutaneous Endoscopic Approach"
+3509,DRG35807,0U5B4ZZ,"Destruction of Endometrium, Percutaneous Endoscopic Approach"
+3510,DRG35807,0U754DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+3511,DRG35807,0U754ZZ,"Dilation of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3512,DRG35807,0U764DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+3513,DRG35807,0U764ZZ,"Dilation of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3514,DRG35807,0U794DZ,"Dilation of Uterus with Intraluminal Device, Percutaneous Endoscopic Approach"
+3515,DRG35807,0U794ZZ,"Dilation of Uterus, Percutaneous Endoscopic Approach"
+3516,DRG35807,0U804ZZ,"Division of Right Ovary, Percutaneous Endoscopic Approach"
+3517,DRG35807,0U814ZZ,"Division of Left Ovary, Percutaneous Endoscopic Approach"
+3518,DRG35807,0U9040Z,"Drainage of Right Ovary with Drainage Device, Percutaneous Endoscopic Approach"
+3519,DRG35807,0U904ZX,"Drainage of Right Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+3520,DRG35807,0U904ZZ,"Drainage of Right Ovary, Percutaneous Endoscopic Approach"
+3521,DRG35807,0U9140Z,"Drainage of Left Ovary with Drainage Device, Percutaneous Endoscopic Approach"
+3522,DRG35807,0U914ZX,"Drainage of Left Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+3523,DRG35807,0U914ZZ,"Drainage of Left Ovary, Percutaneous Endoscopic Approach"
+3524,DRG35807,0U9540Z,"Drainage of Right Fallopian Tube with Drainage Device, Percutaneous Endoscopic Approach"
+3525,DRG35807,0U954ZX,"Drainage of Right Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+3526,DRG35807,0U9640Z,"Drainage of Left Fallopian Tube with Drainage Device, Percutaneous Endoscopic Approach"
+3527,DRG35807,0U964ZX,"Drainage of Left Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+3528,DRG35807,0U9940Z,"Drainage of Uterus with Drainage Device, Percutaneous Endoscopic Approach"
+3529,DRG35807,0U994ZZ,"Drainage of Uterus, Percutaneous Endoscopic Approach"
+3530,DRG35807,0UB04ZX,"Excision of Right Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+3531,DRG35807,0UB04ZZ,"Excision of Right Ovary, Percutaneous Endoscopic Approach"
+3532,DRG35807,0UB14ZX,"Excision of Left Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+3533,DRG35807,0UB14ZZ,"Excision of Left Ovary, Percutaneous Endoscopic Approach"
+3534,DRG35807,0UB44ZZ,"Excision of Uterine Supporting Structure, Percutaneous Endoscopic Approach"
+3535,DRG35807,0UB54ZX,"Excision of Right Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+3536,DRG35807,0UB54ZZ,"Excision of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3537,DRG35807,0UB64ZX,"Excision of Left Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+3538,DRG35807,0UB64ZZ,"Excision of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3539,DRG35807,0UB94ZZ,"Excision of Uterus, Percutaneous Endoscopic Approach"
+3540,DRG35807,0UC04ZZ,"Extirpation of Matter from Right Ovary, Percutaneous Endoscopic Approach"
+3541,DRG35807,0UC14ZZ,"Extirpation of Matter from Left Ovary, Percutaneous Endoscopic Approach"
+3542,DRG35807,0UC54ZZ,"Extirpation of Matter from Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3543,DRG35807,0UC64ZZ,"Extirpation of Matter from Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3544,DRG35807,0UC94ZZ,"Extirpation of Matter from Uterus, Percutaneous Endoscopic Approach"
+3545,DRG35807,0UDN4ZZ,"Extraction of Ova, Percutaneous Endoscopic"
+3546,DRG35807,0UF54ZZ,"Fragmentation in Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3547,DRG35807,0UF64ZZ,"Fragmentation in Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3548,DRG35807,0UJ34ZZ,"Inspection of Ovary, Percutaneous Endoscopic Approach"
+3549,DRG35807,0UJ84ZZ,"Inspection of Fallopian Tube, Percutaneous Endoscopic Approach"
+3550,DRG35807,0UJD4ZZ,"Inspection of Uterus and Cervix, Percutaneous Endoscopic Approach"
+3551,DRG35807,0UL54CZ,"Occlusion of Right Fallopian Tube with Extraluminal Device, Percutaneous Endoscopic Approach"
+3552,DRG35807,0UL54DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+3553,DRG35807,0UL54ZZ,"Occlusion of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3554,DRG35807,0UL64CZ,"Occlusion of Left Fallopian Tube with Extraluminal Device, Percutaneous Endoscopic Approach"
+3555,DRG35807,0UL64DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+3556,DRG35807,0UL64ZZ,"Occlusion of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3557,DRG35807,0UM04ZZ,"Reattachment of Right Ovary, Percutaneous Endoscopic Approach"
+3558,DRG35807,0UM14ZZ,"Reattachment of Left Ovary, Percutaneous Endoscopic Approach"
+3559,DRG35807,0UM54ZZ,"Reattachment of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3560,DRG35807,0UM64ZZ,"Reattachment of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3561,DRG35807,0UN04ZZ,"Release Right Ovary, Percutaneous Endoscopic Approach"
+3562,DRG35807,0UN14ZZ,"Release Left Ovary, Percutaneous Endoscopic Approach"
+3563,DRG35807,0UN54ZZ,"Release Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3564,DRG35807,0UN64ZZ,"Release Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3565,DRG35807,0UP340Z,"Removal of Drainage Device from Ovary, Percutaneous Endoscopic Approach"
+3566,DRG35807,0UP343Z,"Removal of Infusion Device from Ovary, Percutaneous Endoscopic Approach"
+3567,DRG35807,0UP840Z,"Removal of Drainage Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+3568,DRG35807,0UP843Z,"Removal of Infusion Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+3569,DRG35807,0UP847Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+3570,DRG35807,0UP84CZ,"Removal of Extraluminal Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+3571,DRG35807,0UP84DZ,"Removal of Intraluminal Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+3572,DRG35807,0UP84JZ,"Removal of Synthetic Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+3573,DRG35807,0UP84KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+3574,DRG35807,0UPD40Z,"Removal of Drainage Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3575,DRG35807,0UPD41Z,"Removal of Radioactive Element from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3576,DRG35807,0UPD43Z,"Removal of Infusion Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3577,DRG35807,0UPD47Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3578,DRG35807,0UPD4DZ,"Removal of Intraluminal Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3579,DRG35807,0UPD4HZ,"Removal of Contraceptive Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3580,DRG35807,0UPD4JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3581,DRG35807,0UPD4KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Percutaneous Endoscopic Approach"
+3582,DRG35807,0UQ04ZZ,"Repair Right Ovary, Percutaneous Endoscopic Approach"
+3583,DRG35807,0UQ14ZZ,"Repair Left Ovary, Percutaneous Endoscopic Approach"
+3584,DRG35807,0UQ54ZZ,"Repair Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3585,DRG35807,0UQ63ZZ,"Repair Left Fallopian Tube, Percutaneous Approach"
+3586,DRG35807,0UQ64ZZ,"Repair Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3587,DRG35807,0UQ94ZZ,"Repair Uterus, Percutaneous Endoscopic Approach"
+3588,DRG35807,0UQG4ZZ,"Repair Vagina, Percutaneous Endoscopic Approach"
+3589,DRG35807,0US04ZZ,"Reposition Right Ovary, Percutaneous Endoscopic Approach"
+3590,DRG35807,0US14ZZ,"Reposition Left Ovary, Percutaneous Endoscopic Approach"
+3591,DRG35807,0US54ZZ,"Reposition Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3592,DRG35807,0US64ZZ,"Reposition Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3593,DRG35807,0USC4ZZ,"Reposition Cervix, Percutaneous Endoscopic Approach"
+3594,DRG35807,0UT04ZZ,"Resection of Right Ovary, Percutaneous Endoscopic Approach"
+3595,DRG35807,0UT0FZZ,"Resection of Right Ovary, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+3596,DRG35807,0UT14ZZ,"Resection of Left Ovary, Percutaneous Endoscopic Approach"
+3597,DRG35807,0UT1FZZ,"Resection of Left Ovary, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+3598,DRG35807,0UT54ZZ,"Resection of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+3599,DRG35807,0UT5FZZ,"Resection of Right Fallopian Tube, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+3600,DRG35807,0UT64ZZ,"Resection of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+3601,DRG35807,0UT6FZZ,"Resection of Left Fallopian Tube, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+3602,DRG35807,0UU547Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3603,DRG35807,0UU54JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3604,DRG35807,0UU54KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3605,DRG35807,0UU647Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3606,DRG35807,0UU64JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+3607,DRG35807,0UU64KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+3608,DRG35807,0UW340Z,"Revision of Drainage Device in Ovary, Percutaneous Endoscopic Approach"
+3609,DRG35807,0UW343Z,"Revision of Infusion Device in Ovary, Percutaneous Endoscopic Approach"
+3610,DRG35807,0UW840Z,"Revision of Drainage Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+3611,DRG35807,0UW843Z,"Revision of Infusion Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+3612,DRG35807,0UW847Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+3613,DRG35807,0UW84CZ,"Revision of Extraluminal Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+3614,DRG35807,0UW84DZ,"Revision of Intraluminal Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+3615,DRG35807,0UW84JZ,"Revision of Synthetic Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+3616,DRG35807,0UW84KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+3617,DRG35807,0UWD40Z,"Revision of Drainage Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3618,DRG35807,0UWD41Z,"Revision of Radioactive Element in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3619,DRG35807,0UWD43Z,"Revision of Infusion Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3620,DRG35807,0UWD47Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3621,DRG35807,0UWD4DZ,"Revision of Intraluminal Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3622,DRG35807,0UWD4HZ,"Revision of Contraceptive Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3623,DRG35807,0UWD4JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3624,DRG35807,0UWD4KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach"
+3625,DRG35807,0WJF4ZZ,"Inspection of Abdominal Wall, Percutaneous Endoscopic Approach"
+3626,DRG35807,0WJG4ZZ,"Inspection of Peritoneal Cavity, Percutaneous Endoscopic Approach"
+3627,DRG35807,0WJJ4ZZ,"Inspection of Pelvic Cavity, Percutaneous Endoscopic Approach"
+3628,DRG35807,0WJP4ZZ,"Inspection of Gastrointestinal Tract, Percutaneous Endoscopic Approach"
+3629,DRG35807,0WJR4ZZ,"Inspection of Genitourinary Tract, Percutaneous Endoscopic Approach"
+3630,DRG35807,10T24ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Endoscopic Approach"

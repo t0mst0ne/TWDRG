@@ -1,0 +1,201 @@
+,DRG,CM-PCS,en
+11388,DRG33314,E1021,Type 1 diabetes mellitus with diabetic nephropathy
+11389,DRG33314,E1022,Type 1 diabetes mellitus with diabetic chronic kidney disease
+11390,DRG33314,E1029,Type 1 diabetes mellitus with other diabetic kidney complication
+11391,DRG33314,E1121,Type 2 diabetes mellitus with diabetic nephropathy
+11392,DRG33314,E1122,Type 2 diabetes mellitus with diabetic chronic kidney disease
+11393,DRG33314,E1129,Type 2 diabetes mellitus with other diabetic kidney complication
+11394,DRG33314,E1321,Other specified diabetes mellitus with diabetic nephropathy
+11395,DRG33314,E1322,Other specified diabetes mellitus with diabetic chronic kidney disease
+11396,DRG33314,E1329,Other specified diabetes mellitus with other diabetic kidney complication
+11397,DRG33314,I701,Atherosclerosis of renal artery
+11398,DRG33314,I722,Aneurysm of renal artery
+11399,DRG33314,I7581,Atheroembolism of kidney
+11400,DRG33314,I7773,Dissection of renal artery
+11401,DRG33314,I823,Embolism and thrombosis of renal vein
+11402,DRG33314,M1030,"Gout due to renal impairment, unspecified site"
+11403,DRG33314,M10311,"Gout due to renal impairment, right shoulder"
+11404,DRG33314,M10312,"Gout due to renal impairment, left shoulder"
+11405,DRG33314,M10319,"Gout due to renal impairment, unspecified shoulder"
+11406,DRG33314,M10321,"Gout due to renal impairment, right elbow"
+11407,DRG33314,M10322,"Gout due to renal impairment, left elbow"
+11408,DRG33314,M10329,"Gout due to renal impairment, unspecified elbow"
+11409,DRG33314,M10331,"Gout due to renal impairment, right wrist"
+11410,DRG33314,M10332,"Gout due to renal impairment, left wrist"
+11411,DRG33314,M10339,"Gout due to renal impairment, unspecified wrist"
+11412,DRG33314,M10341,"Gout due to renal impairment, right hand"
+11413,DRG33314,M10342,"Gout due to renal impairment, left hand"
+11414,DRG33314,M10349,"Gout due to renal impairment, unspecified hand"
+11415,DRG33314,M10351,"Gout due to renal impairment, right hip"
+11416,DRG33314,M10352,"Gout due to renal impairment, left hip"
+11417,DRG33314,M10359,"Gout due to renal impairment, unspecified hip"
+11418,DRG33314,M10361,"Gout due to renal impairment, right knee"
+11419,DRG33314,M10362,"Gout due to renal impairment, left knee"
+11420,DRG33314,M10369,"Gout due to renal impairment, unspecified knee"
+11421,DRG33314,M10371,"Gout due to renal impairment, right ankle and foot"
+11422,DRG33314,M10372,"Gout due to renal impairment, left ankle and foot"
+11423,DRG33314,M10379,"Gout due to renal impairment, unspecified ankle and foot"
+11424,DRG33314,M1038,"Gout due to renal impairment, vertebrae"
+11425,DRG33314,M1039,"Gout due to renal impairment, multiple sites"
+11426,DRG33314,N13722,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, bilateral"
+11427,DRG33314,N13729,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, unspecified"
+11428,DRG33314,N13732,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, bilateral"
+11429,DRG33314,N13739,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, unspecified"
+11430,DRG33314,N139,"Obstructive and reflux uropathy, unspecified"
+11431,DRG33314,N181,"Chronic kidney disease, stage 1"
+11432,DRG33314,N182,"Chronic kidney disease, stage 2 (mild)"
+11433,DRG33314,N183,"Chronic kidney disease, stage 3 (moderate)"
+11434,DRG33314,N250,Renal osteodystrophy
+11435,DRG33314,N251,Nephrogenic diabetes insipidus
+11436,DRG33314,N2581,Secondary hyperparathyroidism of renal origin
+11437,DRG33314,N2589,Other disorders resulting from impaired renal tubular function
+11438,DRG33314,N259,"Disorder resulting from impaired renal tubular function, unspecified"
+11439,DRG33314,N261,Atrophy of kidney (terminal)
+11440,DRG33314,N269,"Renal sclerosis, unspecified"
+11441,DRG33314,N270,"Small kidney, unilateral"
+11442,DRG33314,N271,"Small kidney, bilateral"
+11443,DRG33314,N279,"Small kidney, unspecified"
+11444,DRG33314,N280,Ischemia and infarction of kidney
+11445,DRG33314,N281,"Cyst of kidney, acquired"
+11446,DRG33314,N2881,Hypertrophy of kidney
+11447,DRG33314,N2882,Megaloureter
+11448,DRG33314,N2883,Nephroptosis
+11449,DRG33314,N2889,Other specified disorders of kidney and ureter
+11450,DRG33314,N289,"Disorder of kidney and ureter, unspecified"
+11451,DRG33314,N3040,Irradiation cystitis without hematuria
+11452,DRG33314,N3041,Irradiation cystitis with hematuria
+11453,DRG33314,N310,"Uninhibited neuropathic bladder, not elsewhere classified"
+11454,DRG33314,N311,"Reflex neuropathic bladder, not elsewhere classified"
+11455,DRG33314,N312,"Flaccid neuropathic bladder, not elsewhere classified"
+11456,DRG33314,N318,Other neuromuscular dysfunction of bladder
+11457,DRG33314,N319,"Neuromuscular dysfunction of bladder, unspecified"
+11458,DRG33314,N320,Bladder-neck obstruction
+11459,DRG33314,N321,Vesicointestinal fistula
+11460,DRG33314,N322,"Vesical fistula, not elsewhere classified"
+11461,DRG33314,N323,Diverticulum of bladder
+11462,DRG33314,N3281,Overactive bladder
+11463,DRG33314,N3289,Other specified disorders of bladder
+11464,DRG33314,N329,"Bladder disorder, unspecified"
+11465,DRG33314,N360,Urethral fistula
+11466,DRG33314,N361,Urethral diverticulum
+11467,DRG33314,N362,Urethral caruncle
+11468,DRG33314,N3641,Hypermobility of urethra
+11469,DRG33314,N3642,Intrinsic sphincter deficiency (ISD)
+11470,DRG33314,N3643,Combined hypermobility of urethra and intrinsic sphincter deficiency
+11471,DRG33314,N3644,Muscular disorders of urethra
+11472,DRG33314,N365,Urethral false passage
+11473,DRG33314,N368,Other specified disorders of urethra
+11474,DRG33314,N369,"Urethral disorder, unspecified"
+11475,DRG33314,N398,Other specified disorders of urinary system
+11476,DRG33314,N399,"Disorder of urinary system, unspecified"
+11477,DRG33314,N990,Postprocedural (acute) (chronic) kidney failure
+11478,DRG33314,N99510,Cystostomy hemorrhage
+11479,DRG33314,N99511,Cystostomy infection
+11480,DRG33314,N99512,Cystostomy malfunction
+11481,DRG33314,N99518,Other cystostomy complication
+11482,DRG33314,N99520,Hemorrhage of other external stoma of urinary tract
+11483,DRG33314,N99521,Infection of other external stoma of urinary tract
+11484,DRG33314,N99522,Malfunction of other external stoma of urinary tract
+11485,DRG33314,N99528,Other complication of other external stoma of urinary tract
+11486,DRG33314,N99530,Hemorrhage of other stoma of urinary tract
+11487,DRG33314,N99531,Infection of other stoma of urinary tract
+11488,DRG33314,N99532,Malfunction of other stoma of urinary tract
+11489,DRG33314,N99538,Other complication of other stoma of urinary tract
+11490,DRG33314,N9981,Other intraoperative complications of genitourinary system
+11491,DRG33314,N9989,Other postprocedural complications and disorders of genitourinary system
+11492,DRG33314,R802,"Orthostatic proteinuria, unspecified"
+11493,DRG33314,S31001A,"Unspecified open wound of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+11494,DRG33314,S31011A,"Laceration without foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+11495,DRG33314,S31021A,"Laceration with foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+11496,DRG33314,S31031A,"Puncture wound without foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+11497,DRG33314,S31041A,"Puncture wound with foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+11498,DRG33314,S31051A,"Open bite of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+11499,DRG33314,S37001A,"Unspecified injury of right kidney, initial encounter"
+11500,DRG33314,S37002A,"Unspecified injury of left kidney, initial encounter"
+11501,DRG33314,S37009A,"Unspecified injury of unspecified kidney, initial encounter"
+11502,DRG33314,S37011A,"Minor contusion of right kidney, initial encounter"
+11503,DRG33314,S37012A,"Minor contusion of left kidney, initial encounter"
+11504,DRG33314,S37019A,"Minor contusion of unspecified kidney, initial encounter"
+11505,DRG33314,S37021A,"Major contusion of right kidney, initial encounter"
+11506,DRG33314,S37022A,"Major contusion of left kidney, initial encounter"
+11507,DRG33314,S37029A,"Major contusion of unspecified kidney, initial encounter"
+11508,DRG33314,S37031A,"Laceration of right kidney, unspecified degree, initial encounter"
+11509,DRG33314,S37032A,"Laceration of left kidney, unspecified degree, initial encounter"
+11510,DRG33314,S37039A,"Laceration of unspecified kidney, unspecified degree, initial encounter"
+11511,DRG33314,S37041A,"Minor laceration of right kidney, initial encounter"
+11512,DRG33314,S37042A,"Minor laceration of left kidney, initial encounter"
+11513,DRG33314,S37049A,"Minor laceration of unspecified kidney, initial encounter"
+11514,DRG33314,S37051A,"Moderate laceration of right kidney, initial encounter"
+11515,DRG33314,S37052A,"Moderate laceration of left kidney, initial encounter"
+11516,DRG33314,S37059A,"Moderate laceration of unspecified kidney, initial encounter"
+11517,DRG33314,S37061A,"Major laceration of right kidney, initial encounter"
+11518,DRG33314,S37062A,"Major laceration of left kidney, initial encounter"
+11519,DRG33314,S37069A,"Major laceration of unspecified kidney, initial encounter"
+11520,DRG33314,S37091A,"Other injury of right kidney, initial encounter"
+11521,DRG33314,S37092A,"Other injury of left kidney, initial encounter"
+11522,DRG33314,S37099A,"Other injury of unspecified kidney, initial encounter"
+11523,DRG33314,S3710XA,"Unspecified injury of ureter, initial encounter"
+11524,DRG33314,S3712XA,"Contusion of ureter, initial encounter"
+11525,DRG33314,S3713XA,"Laceration of ureter, initial encounter"
+11526,DRG33314,S3719XA,"Other injury of ureter, initial encounter"
+11527,DRG33314,S3720XA,"Unspecified injury of bladder, initial encounter"
+11528,DRG33314,S3722XA,"Contusion of bladder, initial encounter"
+11529,DRG33314,S3723XA,"Laceration of bladder, initial encounter"
+11530,DRG33314,S3729XA,"Other injury of bladder, initial encounter"
+11531,DRG33314,S3730XA,"Unspecified injury of urethra, initial encounter"
+11532,DRG33314,S3732XA,"Contusion of urethra, initial encounter"
+11533,DRG33314,S3733XA,"Laceration of urethra, initial encounter"
+11534,DRG33314,S3739XA,"Other injury of urethra, initial encounter"
+11535,DRG33314,T190XXA,"Foreign body in urethra, initial encounter"
+11536,DRG33314,T191XXA,"Foreign body in bladder, initial encounter"
+11537,DRG33314,T198XXA,"Foreign body in other parts of genitourinary tract, initial encounter"
+11538,DRG33314,T199XXA,"Foreign body in genitourinary tract, part unspecified, initial encounter"
+11539,DRG33314,T81711A,"Complication of renal artery following a procedure, not elsewhere classified, initial encounter"
+11540,DRG33314,T83010A,"Breakdown (mechanical) of cystostomy catheter, initial encounter"
+11541,DRG33314,T83018A,"Breakdown (mechanical) of other indwelling urethral catheter, initial encounter"
+11542,DRG33314,T83020A,"Displacement of cystostomy catheter, initial encounter"
+11543,DRG33314,T83028A,"Displacement of other indwelling urethral catheter, initial encounter"
+11544,DRG33314,T83030A,"Leakage of cystostomy catheter, initial encounter"
+11545,DRG33314,T83038A,"Leakage of other indwelling urethral catheter, initial encounter"
+11546,DRG33314,T83090A,"Other mechanical complication of cystostomy catheter, initial encounter"
+11547,DRG33314,T83098A,"Other mechanical complication of other indwelling urethral catheter, initial encounter"
+11548,DRG33314,T83110A,"Breakdown (mechanical) of urinary electronic stimulator device, initial encounter"
+11549,DRG33314,T83111A,"Breakdown (mechanical) of urinary sphincter implant, initial encounter"
+11550,DRG33314,T83112A,"Breakdown (mechanical) of urinary stent, initial encounter"
+11551,DRG33314,T83118A,"Breakdown (mechanical) of other urinary devices and implants, initial encounter"
+11552,DRG33314,T83120A,"Displacement of urinary electronic stimulator device, initial encounter"
+11553,DRG33314,T83121A,"Displacement of urinary sphincter implant, initial encounter"
+11554,DRG33314,T83122A,"Displacement of urinary stent, initial encounter"
+11555,DRG33314,T83128A,"Displacement of other urinary devices and implants, initial encounter"
+11556,DRG33314,T83190A,"Other mechanical complication of urinary electronic stimulator device, initial encounter"
+11557,DRG33314,T83191A,"Other mechanical complication of urinary sphincter implant, initial encounter"
+11558,DRG33314,T83192A,"Other mechanical complication of urinary stent, initial encounter"
+11559,DRG33314,T83198A,"Other mechanical complication of other urinary devices and implants, initial encounter"
+11560,DRG33314,T8321XA,"Breakdown (mechanical) of graft of urinary organ, initial encounter"
+11561,DRG33314,T8322XA,"Displacement of graft of urinary organ, initial encounter"
+11562,DRG33314,T8323XA,"Leakage of graft of urinary organ, initial encounter"
+11563,DRG33314,T8329XA,"Other mechanical complication of graft of urinary organ, initial encounter"
+11564,DRG33314,T83410A,"Breakdown (mechanical) of penile (implanted) prosthesis, initial encounter"
+11565,DRG33314,T83418A,"Breakdown (mechanical) of other prosthetic devices, implants and grafts of genital tract, initial encounter"
+11566,DRG33314,T83420A,"Displacement of penile (implanted) prosthesis, initial encounter"
+11567,DRG33314,T83428A,"Displacement of other prosthetic devices, implants and grafts of genital tract, initial encounter"
+11568,DRG33314,T83490A,"Other mechanical complication of penile (implanted) prosthesis, initial encounter"
+11569,DRG33314,T83498A,"Other mechanical complication of other prosthetic devices, implants and grafts of genital tract, initial encounter"
+11570,DRG33314,T8351XA,"Infection and inflammatory reaction due to indwelling urinary catheter, initial encounter"
+11571,DRG33314,T8359XA,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, initial encounter"
+11572,DRG33314,T836XXA,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract, initial encounter"
+11573,DRG33314,T83711A,"Erosion of implanted vaginal mesh and other prosthetic materials to surrounding organ or tissue, initial encounter"
+11574,DRG33314,T83718A,"Erosion of other implanted mesh and other prosthetic materials to surrounding organ or tissue, initial encounter"
+11575,DRG33314,T83721A,"Exposure of implanted vaginal mesh and other prosthetic materials into vagina, initial encounter"
+11576,DRG33314,T83728A,"Exposure of other implanted mesh and other prosthetic materials to surrounding organ or tissue, initial encounter"
+11577,DRG33314,T8381XA,"Embolism of genitourinary prosthetic devices, implants and grafts, initial encounter"
+11578,DRG33314,T8382XA,"Fibrosis of genitourinary prosthetic devices, implants and grafts, initial encounter"
+11579,DRG33314,T8383XA,"Hemorrhage of genitourinary prosthetic devices, implants and grafts, initial encounter"
+11580,DRG33314,T8384XA,"Pain from genitourinary prosthetic devices, implants and grafts, initial encounter"
+11581,DRG33314,T8385XA,"Stenosis of genitourinary prosthetic devices, implants and grafts, initial encounter"
+11582,DRG33314,T8386XA,"Thrombosis of genitourinary prosthetic devices, implants and grafts, initial encounter"
+11583,DRG33314,T8389XA,"Other specified complication of genitourinary prosthetic devices, implants and grafts, initial encounter"
+11584,DRG33314,T839XXA,"Unspecified complication of genitourinary prosthetic device, implant and graft, initial encounter"
+11585,DRG33314,Z435,Encounter for attention to cystostomy
+11586,DRG33314,Z436,Encounter for attention to other artificial openings of urinary tract
+11587,DRG33314,Z466,Encounter for fitting and adjustment of urinary device

@@ -1,0 +1,77 @@
+,DRG,CM-PCS,en
+37029,DRG12601,A3951,Meningococcal endocarditis
+37030,DRG12601,B376,Candidal endocarditis
+37031,DRG12601,I330,Acute and subacute infective endocarditis
+37032,DRG12601,I339,"Acute and subacute endocarditis, unspecified"
+37035,DRG12601,A221,Pulmonary anthrax
+37036,DRG12601,A3791,"Whooping cough, unspecified species with pneumonia"
+37037,DRG12601,A400,"Sepsis due to streptococcus, group A"
+37038,DRG12601,A401,"Sepsis due to streptococcus, group B"
+37039,DRG12601,A403,Sepsis due to Streptococcus pneumoniae
+37040,DRG12601,A408,Other streptococcal sepsis
+37041,DRG12601,A409,"Streptococcal sepsis, unspecified"
+37042,DRG12601,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+37043,DRG12601,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+37044,DRG12601,A411,Sepsis due to other specified staphylococcus
+37045,DRG12601,A412,Sepsis due to unspecified staphylococcus
+37046,DRG12601,A413,Sepsis due to Hemophilus influenzae
+37047,DRG12601,A414,Sepsis due to anaerobes
+37048,DRG12601,A4150,"Gram-negative sepsis, unspecified"
+37049,DRG12601,A4151,Sepsis due to Escherichia coli [E. coli]
+37050,DRG12601,A4152,Sepsis due to Pseudomonas
+37051,DRG12601,A4153,Sepsis due to Serratia
+37052,DRG12601,A4159,Other Gram-negative sepsis
+37053,DRG12601,A4181,Sepsis due to Enterococcus
+37054,DRG12601,A4189,Other specified sepsis
+37055,DRG12601,A419,"Sepsis, unspecified organism"
+37056,DRG12601,A481,Legionnaires' disease
+37057,DRG12601,B250,Cytomegaloviral pneumonitis
+37058,DRG12601,B440,Invasive pulmonary aspergillosis
+37059,DRG12601,J120,Adenoviral pneumonia
+37060,DRG12601,J121,Respiratory syncytial virus pneumonia
+37061,DRG12601,J122,Parainfluenza virus pneumonia
+37062,DRG12601,J123,Human metapneumovirus pneumonia
+37063,DRG12601,J1281,Pneumonia due to SARS-associated coronavirus
+37064,DRG12601,J1289,Other viral pneumonia
+37065,DRG12601,J129,"Viral pneumonia, unspecified"
+37066,DRG12601,J13,Pneumonia due to Streptococcus pneumoniae
+37067,DRG12601,J14,Pneumonia due to Hemophilus influenzae
+37068,DRG12601,J150,Pneumonia due to Klebsiella pneumoniae
+37069,DRG12601,J151,Pneumonia due to Pseudomonas
+37070,DRG12601,J1520,"Pneumonia due to staphylococcus, unspecified"
+37071,DRG12601,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
+37072,DRG12601,J1529,Pneumonia due to other staphylococcus
+37073,DRG12601,J153,"Pneumonia due to streptococcus, group B"
+37074,DRG12601,J154,Pneumonia due to other streptococci
+37075,DRG12601,J155,Pneumonia due to Escherichia coli
+37076,DRG12601,J156,Pneumonia due to other aerobic Gram-negative bacteria
+37077,DRG12601,J157,Pneumonia due to Mycoplasma pneumoniae
+37078,DRG12601,J158,Pneumonia due to other specified bacteria
+37079,DRG12601,J159,Unspecified bacterial pneumonia
+37080,DRG12601,J160,Chlamydial pneumonia
+37081,DRG12601,J168,Pneumonia due to other specified infectious organisms
+37082,DRG12601,J17,Pneumonia in diseases classified elsewhere
+37083,DRG12601,J180,"Bronchopneumonia, unspecified organism"
+37084,DRG12601,J181,"Lobar pneumonia, unspecified organism"
+37085,DRG12601,J188,"Other pneumonia, unspecified organism"
+37086,DRG12601,J189,"Pneumonia, unspecified organism"
+37087,DRG12601,J80,Acute respiratory distress syndrome
+37088,DRG12601,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+37089,DRG12601,J9601,Acute respiratory failure with hypoxia
+37090,DRG12601,J9602,Acute respiratory failure with hypercapnia
+37091,DRG12601,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+37092,DRG12601,J9611,Chronic respiratory failure with hypoxia
+37093,DRG12601,J9612,Chronic respiratory failure with hypercapnia
+37094,DRG12601,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+37095,DRG12601,J9621,Acute and chronic respiratory failure with hypoxia
+37096,DRG12601,J9622,Acute and chronic respiratory failure with hypercapnia
+37097,DRG12601,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+37098,DRG12601,J9691,"Respiratory failure, unspecified with hypoxia"
+37099,DRG12601,J9692,"Respiratory failure, unspecified with hypercapnia"
+37100,DRG12601,J9809,"Other diseases of bronchus, not elsewhere classified"
+37101,DRG12601,J984,Other disorders of lung
+37102,DRG12601,N179,"Acute kidney failure, unspecified"
+37103,DRG12601,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+37104,DRG12601,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+37105,DRG12601,R6520,Severe sepsis without septic shock
+37106,DRG12601,R911,Solitary pulmonary nodule

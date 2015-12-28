@@ -1,0 +1,92 @@
+,DRG,CM-PCS,en
+12561,DRG10405,02HA0QZ,"Insertion of Implantable Heart Assist System into Heart, Open Approach"
+12562,DRG10405,02HA0RS,"Insertion of Biventricular External Heart Assist System into Heart, Open Approach"
+12563,DRG10405,02HA0RZ,"Insertion of External Heart Assist System into Heart, Open Approach"
+12564,DRG10405,02HA3QZ,"Insertion of Implantable Heart Assist System into Heart, Percutaneous Approach"
+12565,DRG10405,02HA3RS,"Insertion of Biventricular External Heart Assist System into Heart, Percutaneous Approach"
+12566,DRG10405,02HA3RZ,"Insertion of External Heart Assist System into Heart, Percutaneous Approach"
+12567,DRG10405,02HA4QZ,"Insertion of Implantable Heart Assist System into Heart, Percutaneous Endoscopic Approach"
+12568,DRG10405,02HA4RS,"Insertion of Biventricular External Heart Assist System into Heart, Percutaneous Endoscopic Approach"
+12569,DRG10405,02HA4RZ,"Insertion of External Heart Assist System into Heart, Percutaneous Endoscopic Approach"
+12570,DRG10405,02RK0JZ,"Replacement of Right Ventricle with Synthetic Substitute, Open Approach"
+12571,DRG10405,02RL0JZ,"Replacement of Left Ventricle with Synthetic Substitute, Open Approach"
+12572,DRG10405,02WA0JZ,"Revision of Synthetic Substitute in Heart, Open Approach"
+12573,DRG10405,02WA0QZ,"Revision of Implantable Heart Assist System in Heart, Open Approach"
+12574,DRG10405,02WA0RZ,"Revision of External Heart Assist System in Heart, Open Approach"
+12575,DRG10405,02WA3QZ,"Revision of Implantable Heart Assist System in Heart, Percutaneous Approach"
+12576,DRG10405,02WA3RZ,"Revision of External Heart Assist System in Heart, Percutaneous Approach"
+12577,DRG10405,02WA4QZ,"Revision of Implantable Heart Assist System in Heart, Percutaneous Endoscopic Approach"
+12578,DRG10405,02WA4RZ,"Revision of External Heart Assist System in Heart, Percutaneous Endoscopic Approach"
+12579,DRG10405,5A02116,"Assistance with Cardiac Output using Other Pump, Intermittent"
+12580,DRG10405,5A0211D,"Assistance with Cardiac Output using Impeller Pump, Intermittent"
+12581,DRG10405,5A02216,"Assistance with Cardiac Output using Other Pump, Continuous"
+12582,DRG10405,5A0221D,"Assistance with Cardiac Output using Impeller Pump, Continuous"
+12585,DRG10405,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
+12586,DRG10405,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
+12587,DRG10405,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
+12588,DRG10405,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+12589,DRG10405,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
+12590,DRG10405,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
+12591,DRG10405,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
+12592,DRG10405,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+12593,DRG10405,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+12594,DRG10405,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
+12595,DRG10405,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
+12596,DRG10405,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
+12597,DRG10405,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
+12598,DRG10405,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
+12599,DRG10405,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
+12600,DRG10405,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+12601,DRG10405,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+12602,DRG10405,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
+12603,DRG10405,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+12604,DRG10405,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+12605,DRG10405,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
+12606,DRG10405,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
+12607,DRG10405,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
+12608,DRG10405,B204YZZ,Plain Radiography of Right Heart using Other Contrast
+12609,DRG10405,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
+12610,DRG10405,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
+12611,DRG10405,B205YZZ,Plain Radiography of Left Heart using Other Contrast
+12612,DRG10405,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
+12613,DRG10405,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
+12614,DRG10405,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
+12615,DRG10405,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+12616,DRG10405,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+12617,DRG10405,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
+12618,DRG10405,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+12619,DRG10405,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+12620,DRG10405,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
+12621,DRG10405,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
+12622,DRG10405,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
+12623,DRG10405,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
+12624,DRG10405,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
+12625,DRG10405,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
+12626,DRG10405,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
+12627,DRG10405,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
+12628,DRG10405,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
+12629,DRG10405,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
+12630,DRG10405,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+12631,DRG10405,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+12632,DRG10405,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
+12633,DRG10405,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+12634,DRG10405,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+12635,DRG10405,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
+12636,DRG10405,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
+12637,DRG10405,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
+12638,DRG10405,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
+12639,DRG10405,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
+12640,DRG10405,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
+12641,DRG10405,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
+12642,DRG10405,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
+12643,DRG10405,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
+12644,DRG10405,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
+12645,DRG10405,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+12646,DRG10405,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+12647,DRG10405,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
+12648,DRG10405,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+12649,DRG10405,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+12650,DRG10405,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
+12651,DRG10405,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
+12652,DRG10405,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
+12653,DRG10405,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast

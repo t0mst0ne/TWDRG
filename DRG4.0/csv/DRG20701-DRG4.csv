@@ -1,0 +1,187 @@
+,DRG,CM-PCS,en
+7407,DRG20701,K8000,Calculus of gallbladder with acute cholecystitis without obstruction
+7408,DRG20701,K8001,Calculus of gallbladder with acute cholecystitis with obstruction
+7409,DRG20701,K8010,Calculus of gallbladder with chronic cholecystitis without obstruction
+7410,DRG20701,K8011,Calculus of gallbladder with chronic cholecystitis with obstruction
+7411,DRG20701,K8012,Calculus of gallbladder with acute and chronic cholecystitis without obstruction
+7412,DRG20701,K8013,Calculus of gallbladder with acute and chronic cholecystitis with obstruction
+7413,DRG20701,K8018,Calculus of gallbladder with other cholecystitis without obstruction
+7414,DRG20701,K8019,Calculus of gallbladder with other cholecystitis with obstruction
+7415,DRG20701,K8020,Calculus of gallbladder without cholecystitis without obstruction
+7416,DRG20701,K8021,Calculus of gallbladder without cholecystitis with obstruction
+7417,DRG20701,K8030,"Calculus of bile duct with cholangitis, unspecified, without obstruction"
+7418,DRG20701,K8031,"Calculus of bile duct with cholangitis, unspecified, with obstruction"
+7419,DRG20701,K8032,Calculus of bile duct with acute cholangitis without obstruction
+7420,DRG20701,K8033,Calculus of bile duct with acute cholangitis with obstruction
+7421,DRG20701,K8034,Calculus of bile duct with chronic cholangitis without obstruction
+7422,DRG20701,K8035,Calculus of bile duct with chronic cholangitis with obstruction
+7423,DRG20701,K8036,Calculus of bile duct with acute and chronic cholangitis without obstruction
+7424,DRG20701,K8037,Calculus of bile duct with acute and chronic cholangitis with obstruction
+7425,DRG20701,K8040,"Calculus of bile duct with cholecystitis, unspecified, without obstruction"
+7426,DRG20701,K8041,"Calculus of bile duct with cholecystitis, unspecified, with obstruction"
+7427,DRG20701,K8042,Calculus of bile duct with acute cholecystitis without obstruction
+7428,DRG20701,K8043,Calculus of bile duct with acute cholecystitis with obstruction
+7429,DRG20701,K8044,Calculus of bile duct with chronic cholecystitis without obstruction
+7430,DRG20701,K8045,Calculus of bile duct with chronic cholecystitis with obstruction
+7431,DRG20701,K8046,Calculus of bile duct with acute and chronic cholecystitis without obstruction
+7432,DRG20701,K8047,Calculus of bile duct with acute and chronic cholecystitis with obstruction
+7433,DRG20701,K8050,Calculus of bile duct without cholangitis or cholecystitis without obstruction
+7434,DRG20701,K8051,Calculus of bile duct without cholangitis or cholecystitis with obstruction
+7435,DRG20701,K8060,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction"
+7436,DRG20701,K8061,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, with obstruction"
+7437,DRG20701,K8062,Calculus of gallbladder and bile duct with acute cholecystitis without obstruction
+7438,DRG20701,K8063,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction
+7439,DRG20701,K8064,Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction
+7440,DRG20701,K8065,Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction
+7441,DRG20701,K8066,Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction
+7442,DRG20701,K8067,Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction
+7443,DRG20701,K8070,Calculus of gallbladder and bile duct without cholecystitis without obstruction
+7444,DRG20701,K8071,Calculus of gallbladder and bile duct without cholecystitis with obstruction
+7445,DRG20701,K8080,Other cholelithiasis without obstruction
+7446,DRG20701,K8081,Other cholelithiasis with obstruction
+7447,DRG20701,K810,Acute cholecystitis
+7448,DRG20701,K811,Chronic cholecystitis
+7449,DRG20701,K812,Acute cholecystitis with chronic cholecystitis
+7450,DRG20701,K819,"Cholecystitis, unspecified"
+7451,DRG20701,K820,Obstruction of gallbladder
+7452,DRG20701,K821,Hydrops of gallbladder
+7453,DRG20701,K822,Perforation of gallbladder
+7454,DRG20701,K823,Fistula of gallbladder
+7455,DRG20701,K824,Cholesterolosis of gallbladder
+7456,DRG20701,K828,Other specified diseases of gallbladder
+7457,DRG20701,K829,"Disease of gallbladder, unspecified"
+7458,DRG20701,K830,Cholangitis
+7459,DRG20701,K831,Obstruction of bile duct
+7460,DRG20701,K832,Perforation of bile duct
+7461,DRG20701,K833,Fistula of bile duct
+7462,DRG20701,K834,Spasm of sphincter of Oddi
+7463,DRG20701,K835,Biliary cyst
+7464,DRG20701,K838,Other specified diseases of biliary tract
+7465,DRG20701,K839,"Disease of biliary tract, unspecified"
+7466,DRG20701,K915,Postcholecystectomy syndrome
+7467,DRG20701,Q441,Other congenital malformations of gallbladder
+7468,DRG20701,Q442,Atresia of bile ducts
+7469,DRG20701,Q443,Congenital stenosis and stricture of bile ducts
+7470,DRG20701,Q445,Other congenital malformations of bile ducts
+7471,DRG20701,Q447,Other congenital malformations of liver
+7472,DRG20701,R932,Abnormal findings on diagnostic imaging of liver and biliary tract
+7473,DRG20701,S36122A,"Contusion of gallbladder, initial encounter"
+7474,DRG20701,S36123A,"Laceration of gallbladder, initial encounter"
+7475,DRG20701,S36128A,"Other injury of gallbladder, initial encounter"
+7476,DRG20701,S36129A,"Unspecified injury of gallbladder, initial encounter"
+7477,DRG20701,S3613XA,"Injury of bile duct, initial encounter"
+7480,DRG20701,0F753DZ,"Dilation of Right Hepatic Duct with Intraluminal Device, Percutaneous Approach"
+7481,DRG20701,0F753ZZ,"Dilation of Right Hepatic Duct, Percutaneous Approach"
+7482,DRG20701,0F763DZ,"Dilation of Left Hepatic Duct with Intraluminal Device, Percutaneous Approach"
+7483,DRG20701,0F763ZZ,"Dilation of Left Hepatic Duct, Percutaneous Approach"
+7484,DRG20701,0F783DZ,"Dilation of Cystic Duct with Intraluminal Device, Percutaneous Approach"
+7485,DRG20701,0F783ZZ,"Dilation of Cystic Duct, Percutaneous Approach"
+7486,DRG20701,0F793DZ,"Dilation of Common Bile Duct with Intraluminal Device, Percutaneous Approach"
+7487,DRG20701,0F793ZZ,"Dilation of Common Bile Duct, Percutaneous Approach"
+7488,DRG20701,0F943ZZ,"Drainage of Gallbladder, Percutaneous Approach"
+7489,DRG20701,0F9440Z,"Drainage of Gallbladder with Drainage Device, Percutaneous Endoscopic Approach"
+7490,DRG20701,0F944ZZ,"Drainage of Gallbladder, Percutaneous Endoscopic Approach"
+7491,DRG20701,0F993ZZ,"Drainage of Common Bile Duct, Percutaneous Approach"
+7492,DRG20701,0F994ZZ,"Drainage of Common Bile Duct, Percutaneous Endoscopic Approach"
+7493,DRG20701,0F997ZZ,"Drainage of Common Bile Duct, Via Natural or Artificial Opening"
+7494,DRG20701,0F998ZZ,"Drainage of Common Bile Duct, Via Natural or Artificial Opening Endoscopic"
+7495,DRG20701,0FC53ZZ,"Extirpation of Matter from Right Hepatic Duct, Percutaneous Approach"
+7496,DRG20701,0FC54ZZ,"Extirpation of Matter from Right Hepatic Duct, Percutaneous Endoscopic Approach"
+7497,DRG20701,0FC57ZZ,"Extirpation of Matter from Right Hepatic Duct, Via Natural or Artificial Opening"
+7498,DRG20701,0FC63ZZ,"Extirpation of Matter from Left Hepatic Duct, Percutaneous Approach"
+7499,DRG20701,0FC64ZZ,"Extirpation of Matter from Left Hepatic Duct, Percutaneous Endoscopic Approach"
+7500,DRG20701,0FC67ZZ,"Extirpation of Matter from Left Hepatic Duct, Via Natural or Artificial Opening"
+7501,DRG20701,0FC83ZZ,"Extirpation of Matter from Cystic Duct, Percutaneous Approach"
+7502,DRG20701,0FC84ZZ,"Extirpation of Matter from Cystic Duct, Percutaneous Endoscopic Approach"
+7503,DRG20701,0FC87ZZ,"Extirpation of Matter from Cystic Duct, Via Natural or Artificial Opening"
+7504,DRG20701,0FL53CZ,"Occlusion of Right Hepatic Duct with Extraluminal Device, Percutaneous Approach"
+7505,DRG20701,0FL53DZ,"Occlusion of Right Hepatic Duct with Intraluminal Device, Percutaneous Approach"
+7506,DRG20701,0FL53ZZ,"Occlusion of Right Hepatic Duct, Percutaneous Approach"
+7507,DRG20701,0FL54CZ,"Occlusion of Right Hepatic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7508,DRG20701,0FL54DZ,"Occlusion of Right Hepatic Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7509,DRG20701,0FL54ZZ,"Occlusion of Right Hepatic Duct, Percutaneous Endoscopic Approach"
+7510,DRG20701,0FL57DZ,"Occlusion of Right Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7511,DRG20701,0FL57ZZ,"Occlusion of Right Hepatic Duct, Via Natural or Artificial Opening"
+7512,DRG20701,0FL58DZ,"Occlusion of Right Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7513,DRG20701,0FL58ZZ,"Occlusion of Right Hepatic Duct, Via Natural or Artificial Opening Endoscopic"
+7514,DRG20701,0FL63CZ,"Occlusion of Left Hepatic Duct with Extraluminal Device, Percutaneous Approach"
+7515,DRG20701,0FL63DZ,"Occlusion of Left Hepatic Duct with Intraluminal Device, Percutaneous Approach"
+7516,DRG20701,0FL63ZZ,"Occlusion of Left Hepatic Duct, Percutaneous Approach"
+7517,DRG20701,0FL64CZ,"Occlusion of Left Hepatic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7518,DRG20701,0FL64DZ,"Occlusion of Left Hepatic Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7519,DRG20701,0FL64ZZ,"Occlusion of Left Hepatic Duct, Percutaneous Endoscopic Approach"
+7520,DRG20701,0FL67DZ,"Occlusion of Left Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7521,DRG20701,0FL67ZZ,"Occlusion of Left Hepatic Duct, Via Natural or Artificial Opening"
+7522,DRG20701,0FL68DZ,"Occlusion of Left Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7523,DRG20701,0FL68ZZ,"Occlusion of Left Hepatic Duct, Via Natural or Artificial Opening Endoscopic"
+7524,DRG20701,0FL83CZ,"Occlusion of Cystic Duct with Extraluminal Device, Percutaneous Approach"
+7525,DRG20701,0FL83DZ,"Occlusion of Cystic Duct with Intraluminal Device, Percutaneous Approach"
+7526,DRG20701,0FL83ZZ,"Occlusion of Cystic Duct, Percutaneous Approach"
+7527,DRG20701,0FL84CZ,"Occlusion of Cystic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7528,DRG20701,0FL84DZ,"Occlusion of Cystic Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7529,DRG20701,0FL84ZZ,"Occlusion of Cystic Duct, Percutaneous Endoscopic Approach"
+7530,DRG20701,0FL87DZ,"Occlusion of Cystic Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7531,DRG20701,0FL87ZZ,"Occlusion of Cystic Duct, Via Natural or Artificial Opening"
+7532,DRG20701,0FL88DZ,"Occlusion of Cystic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7533,DRG20701,0FL88ZZ,"Occlusion of Cystic Duct, Via Natural or Artificial Opening Endoscopic"
+7534,DRG20701,0FL93CZ,"Occlusion of Common Bile Duct with Extraluminal Device, Percutaneous Approach"
+7535,DRG20701,0FL93DZ,"Occlusion of Common Bile Duct with Intraluminal Device, Percutaneous Approach"
+7536,DRG20701,0FL93ZZ,"Occlusion of Common Bile Duct, Percutaneous Approach"
+7537,DRG20701,0FL94CZ,"Occlusion of Common Bile Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7538,DRG20701,0FL94DZ,"Occlusion of Common Bile Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7539,DRG20701,0FL94ZZ,"Occlusion of Common Bile Duct, Percutaneous Endoscopic Approach"
+7540,DRG20701,0FL97DZ,"Occlusion of Common Bile Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7541,DRG20701,0FL97ZZ,"Occlusion of Common Bile Duct, Via Natural or Artificial Opening"
+7542,DRG20701,0FL98DZ,"Occlusion of Common Bile Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7543,DRG20701,0FL98ZZ,"Occlusion of Common Bile Duct, Via Natural or Artificial Opening Endoscopic"
+7544,DRG20701,0FM44ZZ,"Reattachment of Gallbladder, Percutaneous Endoscopic Approach"
+7545,DRG20701,0FM54ZZ,"Reattachment of Right Hepatic Duct, Percutaneous Endoscopic Approach"
+7546,DRG20701,0FM64ZZ,"Reattachment of Left Hepatic Duct, Percutaneous Endoscopic Approach"
+7547,DRG20701,0FM84ZZ,"Reattachment of Cystic Duct, Percutaneous Endoscopic Approach"
+7548,DRG20701,0FM94ZZ,"Reattachment of Common Bile Duct, Percutaneous Endoscopic Approach"
+7549,DRG20701,0FV53CZ,"Restriction of Right Hepatic Duct with Extraluminal Device, Percutaneous Approach"
+7550,DRG20701,0FV53DZ,"Restriction of Right Hepatic Duct with Intraluminal Device, Percutaneous Approach"
+7551,DRG20701,0FV53ZZ,"Restriction of Right Hepatic Duct, Percutaneous Approach"
+7552,DRG20701,0FV54CZ,"Restriction of Right Hepatic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7553,DRG20701,0FV54DZ,"Restriction of Right Hepatic Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7554,DRG20701,0FV54ZZ,"Restriction of Right Hepatic Duct, Percutaneous Endoscopic Approach"
+7555,DRG20701,0FV57DZ,"Restriction of Right Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7556,DRG20701,0FV57ZZ,"Restriction of Right Hepatic Duct, Via Natural or Artificial Opening"
+7557,DRG20701,0FV58DZ,"Restriction of Right Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7558,DRG20701,0FV58ZZ,"Restriction of Right Hepatic Duct, Via Natural or Artificial Opening Endoscopic"
+7559,DRG20701,0FV63CZ,"Restriction of Left Hepatic Duct with Extraluminal Device, Percutaneous Approach"
+7560,DRG20701,0FV63DZ,"Restriction of Left Hepatic Duct with Intraluminal Device, Percutaneous Approach"
+7561,DRG20701,0FV63ZZ,"Restriction of Left Hepatic Duct, Percutaneous Approach"
+7562,DRG20701,0FV64CZ,"Restriction of Left Hepatic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7563,DRG20701,0FV64DZ,"Restriction of Left Hepatic Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7564,DRG20701,0FV64ZZ,"Restriction of Left Hepatic Duct, Percutaneous Endoscopic Approach"
+7565,DRG20701,0FV67DZ,"Restriction of Left Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7566,DRG20701,0FV67ZZ,"Restriction of Left Hepatic Duct, Via Natural or Artificial Opening"
+7567,DRG20701,0FV68DZ,"Restriction of Left Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7568,DRG20701,0FV68ZZ,"Restriction of Left Hepatic Duct, Via Natural or Artificial Opening Endoscopic"
+7569,DRG20701,0FV83CZ,"Restriction of Cystic Duct with Extraluminal Device, Percutaneous Approach"
+7570,DRG20701,0FV83DZ,"Restriction of Cystic Duct with Intraluminal Device, Percutaneous Approach"
+7571,DRG20701,0FV83ZZ,"Restriction of Cystic Duct, Percutaneous Approach"
+7572,DRG20701,0FV84CZ,"Restriction of Cystic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7573,DRG20701,0FV84DZ,"Restriction of Cystic Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7574,DRG20701,0FV84ZZ,"Restriction of Cystic Duct, Percutaneous Endoscopic Approach"
+7575,DRG20701,0FV87DZ,"Restriction of Cystic Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7576,DRG20701,0FV87ZZ,"Restriction of Cystic Duct, Via Natural or Artificial Opening"
+7577,DRG20701,0FV88DZ,"Restriction of Cystic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7578,DRG20701,0FV88ZZ,"Restriction of Cystic Duct, Via Natural or Artificial Opening Endoscopic"
+7579,DRG20701,0FV93CZ,"Restriction of Common Bile Duct with Extraluminal Device, Percutaneous Approach"
+7580,DRG20701,0FV93DZ,"Restriction of Common Bile Duct with Intraluminal Device, Percutaneous Approach"
+7581,DRG20701,0FV93ZZ,"Restriction of Common Bile Duct, Percutaneous Approach"
+7582,DRG20701,0FV94CZ,"Restriction of Common Bile Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+7583,DRG20701,0FV94DZ,"Restriction of Common Bile Duct with Intraluminal Device, Percutaneous Endoscopic Approach"
+7584,DRG20701,0FV94ZZ,"Restriction of Common Bile Duct, Percutaneous Endoscopic Approach"
+7585,DRG20701,0FV97DZ,"Restriction of Common Bile Duct with Intraluminal Device, Via Natural or Artificial Opening"
+7586,DRG20701,0FV97ZZ,"Restriction of Common Bile Duct, Via Natural or Artificial Opening"
+7587,DRG20701,0FV98DZ,"Restriction of Common Bile Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
+7588,DRG20701,0FV98ZZ,"Restriction of Common Bile Duct, Via Natural or Artificial Opening Endoscopic"
+7589,DRG20701,3E1J38X,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Percutaneous Approach, Diagnostic"
+7590,DRG20701,3E1J38Z,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Percutaneous Approach"
+7591,DRG20701,3E1R38X,"Irrigation of Spinal Canal using Irrigating Substance, Percutaneous Approach, Diagnostic"
+7592,DRG20701,3E1R38Z,"Irrigation of Spinal Canal using Irrigating Substance, Percutaneous Approach"
+7593,DRG20701,3E1S38X,"Irrigation of Epidural Space using Irrigating Substance, Percutaneous Approach, Diagnostic"
+7594,DRG20701,3E1S38Z,"Irrigation of Epidural Space using Irrigating Substance, Percutaneous Approach"

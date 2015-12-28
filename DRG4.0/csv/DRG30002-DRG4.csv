@@ -1,0 +1,146 @@
+,DRG,CM-PCS,en
+24932,DRG30002,A187,Tuberculosis of adrenal glands
+24933,DRG30002,A1881,Tuberculosis of thyroid gland
+24934,DRG30002,B6731,"Echinococcus granulosus infection, thyroid gland"
+24935,DRG30002,E000,"Congenital iodine-deficiency syndrome, neurological type"
+24936,DRG30002,E001,"Congenital iodine-deficiency syndrome, myxedematous type"
+24937,DRG30002,E002,"Congenital iodine-deficiency syndrome, mixed type"
+24938,DRG30002,E009,"Congenital iodine-deficiency syndrome, unspecified"
+24939,DRG30002,E010,Iodine-deficiency related diffuse (endemic) goiter
+24940,DRG30002,E011,Iodine-deficiency related multinodular (endemic) goiter
+24941,DRG30002,E012,"Iodine-deficiency related (endemic) goiter, unspecified"
+24942,DRG30002,E018,Other iodine-deficiency related thyroid disorders and allied conditions
+24943,DRG30002,E02,Subclinical iodine-deficiency hypothyroidism
+24944,DRG30002,E030,Congenital hypothyroidism with diffuse goiter
+24945,DRG30002,E031,Congenital hypothyroidism without goiter
+24946,DRG30002,E032,Hypothyroidism due to medicaments and other exogenous substances
+24947,DRG30002,E033,Postinfectious hypothyroidism
+24948,DRG30002,E034,Atrophy of thyroid (acquired)
+24949,DRG30002,E038,Other specified hypothyroidism
+24950,DRG30002,E039,"Hypothyroidism, unspecified"
+24951,DRG30002,E040,Nontoxic diffuse goiter
+24952,DRG30002,E041,Nontoxic single thyroid nodule
+24953,DRG30002,E042,Nontoxic multinodular goiter
+24954,DRG30002,E048,Other specified nontoxic goiter
+24955,DRG30002,E049,"Nontoxic goiter, unspecified"
+24956,DRG30002,E0500,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm
+24957,DRG30002,E0501,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm
+24958,DRG30002,E0510,Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm
+24959,DRG30002,E0511,Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm
+24960,DRG30002,E0520,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm
+24961,DRG30002,E0521,Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm
+24962,DRG30002,E0530,Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm
+24963,DRG30002,E0531,Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm
+24964,DRG30002,E0540,Thyrotoxicosis factitia without thyrotoxic crisis or storm
+24965,DRG30002,E0541,Thyrotoxicosis factitia with thyrotoxic crisis or storm
+24966,DRG30002,E0580,Other thyrotoxicosis without thyrotoxic crisis or storm
+24967,DRG30002,E0581,Other thyrotoxicosis with thyrotoxic crisis or storm
+24968,DRG30002,E0590,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm"
+24969,DRG30002,E0591,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm"
+24970,DRG30002,E060,Acute thyroiditis
+24971,DRG30002,E061,Subacute thyroiditis
+24972,DRG30002,E062,Chronic thyroiditis with transient thyrotoxicosis
+24973,DRG30002,E063,Autoimmune thyroiditis
+24974,DRG30002,E064,Drug-induced thyroiditis
+24975,DRG30002,E065,Other chronic thyroiditis
+24976,DRG30002,E069,"Thyroiditis, unspecified"
+24977,DRG30002,E070,Hypersecretion of calcitonin
+24978,DRG30002,E071,Dyshormogenetic goiter
+24979,DRG30002,E0789,Other specified disorders of thyroid
+24980,DRG30002,E079,"Disorder of thyroid, unspecified"
+24981,DRG30002,E160,Drug-induced hypoglycemia without coma
+24982,DRG30002,E161,Other hypoglycemia
+24983,DRG30002,E163,Increased secretion of glucagon
+24984,DRG30002,E168,Other specified disorders of pancreatic internal secretion
+24985,DRG30002,E169,"Disorder of pancreatic internal secretion, unspecified"
+24986,DRG30002,E200,Idiopathic hypoparathyroidism
+24987,DRG30002,E208,Other hypoparathyroidism
+24988,DRG30002,E209,"Hypoparathyroidism, unspecified"
+24989,DRG30002,E210,Primary hyperparathyroidism
+24990,DRG30002,E211,"Secondary hyperparathyroidism, not elsewhere classified"
+24991,DRG30002,E212,Other hyperparathyroidism
+24992,DRG30002,E213,"Hyperparathyroidism, unspecified"
+24993,DRG30002,E214,Other specified disorders of parathyroid gland
+24994,DRG30002,E215,"Disorder of parathyroid gland, unspecified"
+24995,DRG30002,E220,Acromegaly and pituitary gigantism
+24996,DRG30002,E221,Hyperprolactinemia
+24997,DRG30002,E222,Syndrome of inappropriate secretion of antidiuretic hormone
+24998,DRG30002,E228,Other hyperfunction of pituitary gland
+24999,DRG30002,E229,"Hyperfunction of pituitary gland, unspecified"
+25000,DRG30002,E230,Hypopituitarism
+25001,DRG30002,E231,Drug-induced hypopituitarism
+25002,DRG30002,E232,Diabetes insipidus
+25003,DRG30002,E233,"Hypothalamic dysfunction, not elsewhere classified"
+25004,DRG30002,E236,Other disorders of pituitary gland
+25005,DRG30002,E237,"Disorder of pituitary gland, unspecified"
+25006,DRG30002,E240,Pituitary-dependent Cushing's disease
+25007,DRG30002,E241,Nelson's syndrome
+25008,DRG30002,E242,Drug-induced Cushing's syndrome
+25009,DRG30002,E243,Ectopic ACTH syndrome
+25010,DRG30002,E244,Alcohol-induced pseudo-Cushing's syndrome
+25011,DRG30002,E248,Other Cushing's syndrome
+25012,DRG30002,E249,"Cushing's syndrome, unspecified"
+25013,DRG30002,E250,Congenital adrenogenital disorders associated with enzyme deficiency
+25014,DRG30002,E258,Other adrenogenital disorders
+25015,DRG30002,E259,"Adrenogenital disorder, unspecified"
+25016,DRG30002,E2601,Conn's syndrome
+25017,DRG30002,E2602,Glucocorticoid-remediable aldosteronism
+25018,DRG30002,E2609,Other primary hyperaldosteronism
+25019,DRG30002,E261,Secondary hyperaldosteronism
+25020,DRG30002,E2681,Bartter's syndrome
+25021,DRG30002,E2689,Other hyperaldosteronism
+25022,DRG30002,E269,"Hyperaldosteronism, unspecified"
+25023,DRG30002,E270,Other adrenocortical overactivity
+25024,DRG30002,E271,Primary adrenocortical insufficiency
+25025,DRG30002,E272,Addisonian crisis
+25026,DRG30002,E273,Drug-induced adrenocortical insufficiency
+25027,DRG30002,E2740,Unspecified adrenocortical insufficiency
+25028,DRG30002,E2749,Other adrenocortical insufficiency
+25029,DRG30002,E275,Adrenomedullary hyperfunction
+25030,DRG30002,E278,Other specified disorders of adrenal gland
+25031,DRG30002,E279,"Disorder of adrenal gland, unspecified"
+25032,DRG30002,E290,Testicular hyperfunction
+25033,DRG30002,E291,Testicular hypofunction
+25034,DRG30002,E298,Other testicular dysfunction
+25035,DRG30002,E299,"Testicular dysfunction, unspecified"
+25036,DRG30002,E300,Delayed puberty
+25037,DRG30002,E301,Precocious puberty
+25038,DRG30002,E308,Other disorders of puberty
+25039,DRG30002,E309,"Disorder of puberty, unspecified"
+25040,DRG30002,E310,Autoimmune polyglandular failure
+25041,DRG30002,E311,Polyglandular hyperfunction
+25042,DRG30002,E3120,"Multiple endocrine neoplasia [MEN] syndrome, unspecified"
+25043,DRG30002,E3121,Multiple endocrine neoplasia [MEN] type I
+25044,DRG30002,E3122,Multiple endocrine neoplasia [MEN] type IIA
+25045,DRG30002,E3123,Multiple endocrine neoplasia [MEN] type IIB
+25046,DRG30002,E318,Other polyglandular dysfunction
+25047,DRG30002,E319,"Polyglandular dysfunction, unspecified"
+25048,DRG30002,E340,Carcinoid syndrome
+25049,DRG30002,E341,Other hypersecretion of intestinal hormones
+25050,DRG30002,E342,"Ectopic hormone secretion, not elsewhere classified"
+25051,DRG30002,E343,Short stature due to endocrine disorder
+25052,DRG30002,E344,Constitutional tall stature
+25053,DRG30002,E3450,"Androgen insensitivity syndrome, unspecified"
+25054,DRG30002,E3451,Complete androgen insensitivity syndrome
+25055,DRG30002,E3452,Partial androgen insensitivity syndrome
+25056,DRG30002,E348,Other specified endocrine disorders
+25057,DRG30002,E349,"Endocrine disorder, unspecified"
+25058,DRG30002,E890,Postprocedural hypothyroidism
+25059,DRG30002,E892,Postprocedural hypoparathyroidism
+25060,DRG30002,E893,Postprocedural hypopituitarism
+25061,DRG30002,E895,Postprocedural testicular hypofunction
+25062,DRG30002,E896,Postprocedural adrenocortical (-medullary) hypofunction
+25063,DRG30002,Q891,Congenital malformations of adrenal gland
+25064,DRG30002,Q892,Congenital malformations of other endocrine glands
+25065,DRG30002,R946,Abnormal results of thyroid function studies
+25066,DRG30002,R947,Abnormal results of other endocrine function studies
+25067,DRG30002,S1110XA,"Unspecified open wound of thyroid gland, initial encounter"
+25068,DRG30002,S1111XA,"Laceration without foreign body of thyroid gland, initial encounter"
+25069,DRG30002,S1112XA,"Laceration with foreign body of thyroid gland, initial encounter"
+25070,DRG30002,S1113XA,"Puncture wound without foreign body of thyroid gland, initial encounter"
+25071,DRG30002,S1114XA,"Puncture wound with foreign body of thyroid gland, initial encounter"
+25072,DRG30002,S1115XA,"Open bite of thyroid gland, initial encounter"
+25073,DRG30002,S37812A,"Contusion of adrenal gland, initial encounter"
+25074,DRG30002,S37813A,"Laceration of adrenal gland, initial encounter"
+25075,DRG30002,S37818A,"Other injury of adrenal gland, initial encounter"
+25076,DRG30002,S37819A,"Unspecified injury of adrenal gland, initial encounter"

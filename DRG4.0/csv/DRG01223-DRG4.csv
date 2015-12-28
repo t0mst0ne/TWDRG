@@ -1,0 +1,97 @@
+,DRG,CM-PCS,en
+45487,DRG01223,E7500,"GM2 gangliosidosis, unspecified"
+45488,DRG01223,E7501,Sandhoff disease
+45489,DRG01223,E7502,Tay-Sachs disease
+45490,DRG01223,E7509,Other GM2 gangliosidosis
+45491,DRG01223,E7510,Unspecified gangliosidosis
+45492,DRG01223,E7511,Mucolipidosis IV
+45493,DRG01223,E7519,Other gangliosidosis
+45494,DRG01223,E7525,Metachromatic leukodystrophy
+45495,DRG01223,E7529,Other sphingolipidosis
+45496,DRG01223,E754,Neuronal ceroid lipofuscinosis
+45497,DRG01223,F0789,Other personality and behavioral disorders due to known physiological condition
+45498,DRG01223,F842,Rett's syndrome
+45499,DRG01223,G10,Huntington's disease
+45500,DRG01223,G120,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]"
+45501,DRG01223,G121,Other inherited spinal muscular atrophy
+45502,DRG01223,G1220,"Motor neuron disease, unspecified"
+45503,DRG01223,G1221,Amyotrophic lateral sclerosis
+45504,DRG01223,G1222,Progressive bulbar palsy
+45505,DRG01223,G1229,Other motor neuron disease
+45506,DRG01223,G128,Other spinal muscular atrophies and related syndromes
+45507,DRG01223,G129,"Spinal muscular atrophy, unspecified"
+45508,DRG01223,G20,Parkinson's disease
+45509,DRG01223,G2111,Neuroleptic induced parkinsonism
+45510,DRG01223,G2119,Other drug induced secondary parkinsonism
+45511,DRG01223,G212,Secondary parkinsonism due to other external agents
+45512,DRG01223,G213,Postencephalitic parkinsonism
+45513,DRG01223,G214,Vascular parkinsonism
+45514,DRG01223,G218,Other secondary parkinsonism
+45515,DRG01223,G219,"Secondary parkinsonism, unspecified"
+45516,DRG01223,G230,Hallervorden-Spatz disease
+45517,DRG01223,G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]
+45518,DRG01223,G232,Striatonigral degeneration
+45519,DRG01223,G238,Other specified degenerative diseases of basal ganglia
+45520,DRG01223,G239,"Degenerative disease of basal ganglia, unspecified"
+45521,DRG01223,G2402,Drug induced acute dystonia
+45522,DRG01223,G2409,Other drug induced dystonia
+45523,DRG01223,G241,Genetic torsion dystonia
+45524,DRG01223,G242,Idiopathic nonfamilial dystonia
+45525,DRG01223,G248,Other dystonia
+45526,DRG01223,G254,Drug-induced chorea
+45527,DRG01223,G255,Other chorea
+45528,DRG01223,G2570,"Drug induced movement disorder, unspecified"
+45529,DRG01223,G2571,Drug induced akathisia
+45530,DRG01223,G2579,Other drug induced movement disorders
+45531,DRG01223,G2581,Restless legs syndrome
+45532,DRG01223,G2589,Other specified extrapyramidal and movement disorders
+45533,DRG01223,G259,"Extrapyramidal and movement disorder, unspecified"
+45534,DRG01223,G300,Alzheimer's disease with early onset
+45535,DRG01223,G301,Alzheimer's disease with late onset
+45536,DRG01223,G308,Other Alzheimer's disease
+45537,DRG01223,G309,"Alzheimer's disease, unspecified"
+45538,DRG01223,G3101,Pick's disease
+45539,DRG01223,G3109,Other frontotemporal dementia
+45540,DRG01223,G311,"Senile degeneration of brain, not elsewhere classified"
+45541,DRG01223,G3181,Alpers disease
+45542,DRG01223,G3182,Leigh's disease
+45543,DRG01223,G3183,Dementia with Lewy bodies
+45544,DRG01223,G3184,"Mild cognitive impairment, so stated"
+45545,DRG01223,G3185,Corticobasal degeneration
+45546,DRG01223,G3189,Other specified degenerative diseases of nervous system
+45547,DRG01223,G319,"Degenerative disease of nervous system, unspecified"
+45548,DRG01223,G312,Degeneration of nervous system due to alcohol
+45549,DRG01223,G7000,Myasthenia gravis without (acute) exacerbation
+45550,DRG01223,G7001,Myasthenia gravis with (acute) exacerbation
+45551,DRG01223,G803,Athetoid cerebral palsy
+45552,DRG01223,G903,Multi-system degeneration of the autonomic nervous system
+45553,DRG01223,G910,Communicating hydrocephalus
+45554,DRG01223,G911,Obstructive hydrocephalus
+45555,DRG01223,G912,(Idiopathic) normal pressure hydrocephalus
+45556,DRG01223,G913,"Post-traumatic hydrocephalus, unspecified"
+45557,DRG01223,G918,Other hydrocephalus
+45558,DRG01223,G919,"Hydrocephalus, unspecified"
+45559,DRG01223,G950,Syringomyelia and syringobulbia
+45562,DRG01223,6A550Z3,"Pheresis of Plasma, Single"
+45563,DRG01223,6A551Z3,"Pheresis of Plasma, Multiple"
+45566,DRG01223,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+45567,DRG01223,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure"
+45568,DRG01223,5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure"
+45569,DRG01223,5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure"
+45570,DRG01223,5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours"
+45571,DRG01223,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+45572,DRG01223,5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure"
+45573,DRG01223,5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure"
+45574,DRG01223,5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure"
+45575,DRG01223,5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours"
+45576,DRG01223,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+45577,DRG01223,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure"
+45578,DRG01223,5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure"
+45579,DRG01223,5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure"
+45580,DRG01223,5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours"
+45581,DRG01223,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+45582,DRG01223,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+45583,DRG01223,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+45584,DRG01223,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+45585,DRG01223,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"
+45586,DRG01223,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

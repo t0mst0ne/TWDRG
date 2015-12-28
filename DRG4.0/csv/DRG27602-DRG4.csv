@@ -1,0 +1,57 @@
+,DRG,CM-PCS,en
+13649,DRG27602,D493,Neoplasm of unspecified behavior of breast
+13650,DRG27602,I972,Postmastectomy lymphedema syndrome
+13651,DRG27602,N6001,Solitary cyst of right breast
+13652,DRG27602,N6002,Solitary cyst of left breast
+13653,DRG27602,N6009,Solitary cyst of unspecified breast
+13654,DRG27602,N6011,Diffuse cystic mastopathy of right breast
+13655,DRG27602,N6012,Diffuse cystic mastopathy of left breast
+13656,DRG27602,N6019,Diffuse cystic mastopathy of unspecified breast
+13657,DRG27602,N6021,Fibroadenosis of right breast
+13658,DRG27602,N6022,Fibroadenosis of left breast
+13659,DRG27602,N6029,Fibroadenosis of unspecified breast
+13660,DRG27602,N6031,Fibrosclerosis of right breast
+13661,DRG27602,N6032,Fibrosclerosis of left breast
+13662,DRG27602,N6039,Fibrosclerosis of unspecified breast
+13663,DRG27602,N6041,Mammary duct ectasia of right breast
+13664,DRG27602,N6042,Mammary duct ectasia of left breast
+13665,DRG27602,N6049,Mammary duct ectasia of unspecified breast
+13666,DRG27602,N6081,Other benign mammary dysplasias of right breast
+13667,DRG27602,N6082,Other benign mammary dysplasias of left breast
+13668,DRG27602,N6089,Other benign mammary dysplasias of unspecified breast
+13669,DRG27602,N6091,Unspecified benign mammary dysplasia of right breast
+13670,DRG27602,N6092,Unspecified benign mammary dysplasia of left breast
+13671,DRG27602,N6099,Unspecified benign mammary dysplasia of unspecified breast
+13672,DRG27602,N61,Inflammatory disorders of breast
+13673,DRG27602,N62,Hypertrophy of breast
+13674,DRG27602,N63,Unspecified lump in breast
+13675,DRG27602,N640,Fissure and fistula of nipple
+13676,DRG27602,N642,Atrophy of breast
+13677,DRG27602,N643,Galactorrhea not associated with childbirth
+13678,DRG27602,N644,Mastodynia
+13679,DRG27602,N6451,Induration of breast
+13680,DRG27602,N6452,Nipple discharge
+13681,DRG27602,N6453,Retraction of nipple
+13682,DRG27602,N6459,Other signs and symptoms in breast
+13683,DRG27602,N6481,Ptosis of breast
+13684,DRG27602,N6482,Hypoplasia of breast
+13685,DRG27602,N6489,Other specified disorders of breast
+13686,DRG27602,N649,"Disorder of breast, unspecified"
+13687,DRG27602,N650,Deformity of reconstructed breast
+13688,DRG27602,N651,Disproportion of reconstructed breast
+13689,DRG27602,Q830,Congenital absence of breast with absent nipple
+13690,DRG27602,Q831,Accessory breast
+13691,DRG27602,Q832,Absent nipple
+13692,DRG27602,Q833,Accessory nipple
+13693,DRG27602,Q838,Other congenital malformations of breast
+13694,DRG27602,Q839,"Congenital malformation of breast, unspecified"
+13695,DRG27602,R920,Mammographic microcalcification found on diagnostic imaging of breast
+13696,DRG27602,R921,Mammographic calcification found on diagnostic imaging of breast
+13697,DRG27602,R922,Inconclusive mammogram
+13698,DRG27602,R928,Other abnormal and inconclusive findings on diagnostic imaging of breast
+13699,DRG27602,T8541XA,"Breakdown (mechanical) of breast prosthesis and implant, initial encounter"
+13700,DRG27602,T8542XA,"Displacement of breast prosthesis and implant, initial encounter"
+13701,DRG27602,T8543XA,"Leakage of breast prosthesis and implant, initial encounter"
+13702,DRG27602,T8544XA,"Capsular contracture of breast implant, initial encounter"
+13703,DRG27602,T8549XA,"Other mechanical complication of breast prosthesis and implant, initial encounter"
+13704,DRG27602,Z4001,Encounter for prophylactic removal of breast

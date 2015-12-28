@@ -1,0 +1,37 @@
+,DRG,CM-PCS,en
+45334,DRG01217,A5210,"Symptomatic neurosyphilis, unspecified"
+45335,DRG01217,A5211,Tabes dorsalis
+45336,DRG01217,A5212,Other cerebrospinal syphilis
+45337,DRG01217,A5215,Late syphilitic neuropathy
+45338,DRG01217,A5216,Charcot's arthropathy (tabetic)
+45339,DRG01217,A5217,General paresis
+45340,DRG01217,A523,"Neurosyphilis, unspecified"
+45341,DRG01217,A811,Subacute sclerosing panencephalitis
+45342,DRG01217,A812,Progressive multifocal leukoencephalopathy
+45343,DRG01217,A8181,Kuru
+45344,DRG01217,A8182,Gerstmann-Straussler-Scheinker syndrome
+45345,DRG01217,A8183,Fatal familial insomnia
+45346,DRG01217,A8189,Other atypical virus infections of central nervous system
+45347,DRG01217,A819,"Atypical virus infection of central nervous system, unspecified"
+45348,DRG01217,B0809,Other orthopoxvirus infections
+45349,DRG01217,B0860,"Parapoxvirus infection, unspecified"
+45350,DRG01217,B0861,Bovine stomatitis
+45351,DRG01217,B0862,Sealpox
+45352,DRG01217,B0869,Other parapoxvirus infections
+45353,DRG01217,G8100,Flaccid hemiplegia affecting unspecified side
+45354,DRG01217,G8101,Flaccid hemiplegia affecting right dominant side
+45355,DRG01217,G8102,Flaccid hemiplegia affecting left dominant side
+45356,DRG01217,G8103,Flaccid hemiplegia affecting right nondominant side
+45357,DRG01217,G8104,Flaccid hemiplegia affecting left nondominant side
+45358,DRG01217,G8110,Spastic hemiplegia affecting unspecified side
+45359,DRG01217,G8111,Spastic hemiplegia affecting right dominant side
+45360,DRG01217,G8112,Spastic hemiplegia affecting left dominant side
+45361,DRG01217,G8113,Spastic hemiplegia affecting right nondominant side
+45362,DRG01217,G8114,Spastic hemiplegia affecting left nondominant side
+45363,DRG01217,G8190,"Hemiplegia, unspecified affecting unspecified side"
+45364,DRG01217,G8191,"Hemiplegia, unspecified affecting right dominant side"
+45365,DRG01217,G8192,"Hemiplegia, unspecified affecting left dominant side"
+45366,DRG01217,G8193,"Hemiplegia, unspecified affecting right nondominant side"
+45367,DRG01217,G8194,"Hemiplegia, unspecified affecting left nondominant side"
+45368,DRG01217,H5701,"Argyll Robertson pupil, atypical"
+45369,DRG01217,I673,Progressive vascular leukoencephalopathy

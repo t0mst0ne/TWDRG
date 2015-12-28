@@ -1,0 +1,14 @@
+,DRG,CM-PCS,en
+6524,DRG20411,B252,Cytomegaloviral pancreatitis
+6525,DRG20411,K850,Idiopathic acute pancreatitis
+6526,DRG20411,K851,Biliary acute pancreatitis
+6527,DRG20411,K852,Alcohol induced acute pancreatitis
+6528,DRG20411,K853,Drug induced acute pancreatitis
+6529,DRG20411,K858,Other acute pancreatitis
+6530,DRG20411,K859,"Acute pancreatitis, unspecified"
+6533,DRG20411,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+6534,DRG20411,J9601,Acute respiratory failure with hypoxia
+6535,DRG20411,J9602,Acute respiratory failure with hypercapnia
+6536,DRG20411,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+6537,DRG20411,J9691,"Respiratory failure, unspecified with hypoxia"
+6538,DRG20411,J9692,"Respiratory failure, unspecified with hypercapnia"

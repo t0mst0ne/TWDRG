@@ -1,0 +1,30 @@
+,DRG,CM-PCS,en
+2885,DRG37801,O000,Abdominal pregnancy
+2886,DRG37801,O001,Tubal pregnancy
+2887,DRG37801,O002,Ovarian pregnancy
+2888,DRG37801,O008,Other ectopic pregnancy
+2889,DRG37801,O009,"Ectopic pregnancy, unspecified"
+2892,DRG37801,0U9540Z,"Drainage of Right Fallopian Tube with Drainage Device, Percutaneous Endoscopic Approach"
+2893,DRG37801,0U9640Z,"Drainage of Left Fallopian Tube with Drainage Device, Percutaneous Endoscopic Approach"
+2894,DRG37801,0U9740Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Percutaneous Endoscopic Approach"
+2895,DRG37801,0UB54ZZ,"Excision of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+2896,DRG37801,0UB64ZZ,"Excision of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+2897,DRG37801,0UC54ZZ,"Extirpation of Matter from Right Fallopian Tube, Percutaneous Endoscopic Approach"
+2898,DRG37801,0UC64ZZ,"Extirpation of Matter from Left Fallopian Tube, Percutaneous Endoscopic Approach"
+2899,DRG37801,0UC74ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+2900,DRG37801,0UP840Z,"Removal of Drainage Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+2901,DRG37801,0UP843Z,"Removal of Infusion Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+2902,DRG37801,0UP847Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+2903,DRG37801,0UP84CZ,"Removal of Extraluminal Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+2904,DRG37801,0UP84DZ,"Removal of Intraluminal Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+2905,DRG37801,0UP84KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+2906,DRG37801,0UT54ZZ,"Resection of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+2907,DRG37801,0UT64ZZ,"Resection of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+2908,DRG37801,0UW840Z,"Revision of Drainage Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+2909,DRG37801,0UW843Z,"Revision of Infusion Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+2910,DRG37801,0UW847Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+2911,DRG37801,0UW84CZ,"Revision of Extraluminal Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+2912,DRG37801,0UW84DZ,"Revision of Intraluminal Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+2913,DRG37801,0UW84JZ,"Revision of Synthetic Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+2914,DRG37801,0UW84KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+2915,DRG37801,10T24ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Endoscopic Approach"
