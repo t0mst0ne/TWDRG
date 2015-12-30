@@ -5,3 +5,4 @@ Update according to different DRG version
 * From 2016.?.? ICD10 based DRG 4.0 will start
 
 This repo will try to parse the PCS corrospond to each DRG
+But the total DRG of each version is NOT included in this repo yet ...
