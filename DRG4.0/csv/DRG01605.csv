@@ -1,0 +1,13 @@
+DRG,CM-PCS,en
+DRG01605,G9340,"Encephalopathy, unspecified"
+DRG01605,G9341,Metabolic encephalopathy
+DRG01605,G9349,Other encephalopathy
+DRG01605,G9381,Temporal sclerosis
+DRG01605,G9382,Brain death
+DRG01605,G9389,Other specified disorders of brain
+DRG01605,G939,"Disorder of brain, unspecified"
+DRG01605,G968,Other specified disorders of central nervous system
+DRG01605,G969,"Disorder of central nervous system, unspecified"
+DRG01605,G980,"Neurogenic arthritis, not elsewhere classified"
+DRG01605,G988,Other disorders of nervous system
+DRG01605,I6783,Posterior reversible encephalopathy syndrome

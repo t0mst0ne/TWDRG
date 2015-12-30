@@ -1,1 +1,47 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG27301.csv
+DRG,CM-PCS,en
+DRG27301,L00,Staphylococcal scalded skin syndrome
+DRG27301,L100,Pemphigus vulgaris
+DRG27301,L101,Pemphigus vegetans
+DRG27301,L102,Pemphigus foliaceous
+DRG27301,L103,Brazilian pemphigus [fogo selvagem]
+DRG27301,L104,Pemphigus erythematosus
+DRG27301,L105,Drug-induced pemphigus
+DRG27301,L1081,Paraneoplastic pemphigus
+DRG27301,L1089,Other pemphigus
+DRG27301,L109,"Pemphigus, unspecified"
+DRG27301,L120,Bullous pemphigoid
+DRG27301,L121,Cicatricial pemphigoid
+DRG27301,L1230,"Acquired epidermolysis bullosa, unspecified"
+DRG27301,L1231,Epidermolysis bullosa due to drug
+DRG27301,L1235,Other acquired epidermolysis bullosa
+DRG27301,L128,Other pemphigoid
+DRG27301,L129,"Pemphigoid, unspecified"
+DRG27301,L138,Other specified bullous disorders
+DRG27301,L139,"Bullous disorder, unspecified"
+DRG27301,L400,Psoriasis vulgaris
+DRG27301,L402,Acrodermatitis continua
+DRG27301,L403,Pustulosis palmaris et plantaris
+DRG27301,L404,Guttate psoriasis
+DRG27301,L408,Other psoriasis
+DRG27301,L409,"Psoriasis, unspecified"
+DRG27301,L410,Pityriasis lichenoides et varioliformis acuta
+DRG27301,L411,Pityriasis lichenoides chronica
+DRG27301,L413,Small plaque parapsoriasis
+DRG27301,L414,Large plaque parapsoriasis
+DRG27301,L415,Retiform parapsoriasis
+DRG27301,L418,Other parapsoriasis
+DRG27301,L419,"Parapsoriasis, unspecified"
+DRG27301,L510,Nonbullous erythema multiforme
+DRG27301,L511,Stevens-Johnson syndrome
+DRG27301,L512,Toxic epidermal necrolysis [Lyell]
+DRG27301,L513,Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome
+DRG27301,L518,Other erythema multiforme
+DRG27301,L519,"Erythema multiforme, unspecified"
+DRG27301,L530,Toxic erythema
+DRG27301,L531,Erythema annulare centrifugum
+DRG27301,L532,Erythema marginatum
+DRG27301,L533,Other chronic figurate erythema
+DRG27301,L930,Discoid lupus erythematosus
+DRG27301,L931,Subacute cutaneous lupus erythematosus
+DRG27301,L932,Other local lupus erythematosus
+DRG27301,L945,Poikiloderma vasculare atrophicans

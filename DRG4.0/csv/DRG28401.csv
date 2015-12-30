@@ -1,0 +1,83 @@
+DRG,CM-PCS,en
+DRG28401,D0371,"Melanoma in situ of right lower limb, including hip"
+DRG28401,D0372,"Melanoma in situ of left lower limb, including hip"
+DRG28401,D038,Melanoma in situ of other sites
+DRG28401,D040,Carcinoma in situ of skin of lip
+DRG28401,D0420,Carcinoma in situ of skin of unspecified ear and external auricular canal
+DRG28401,D0421,Carcinoma in situ of skin of right ear and external auricular canal
+DRG28401,D0422,Carcinoma in situ of skin of left ear and external auricular canal
+DRG28401,D0430,Carcinoma in situ of skin of unspecified part of face
+DRG28401,D0439,Carcinoma in situ of skin of other parts of face
+DRG28401,D044,Carcinoma in situ of skin of scalp and neck
+DRG28401,D045,Carcinoma in situ of skin of trunk
+DRG28401,D0460,"Carcinoma in situ of skin of unspecified upper limb, including shoulder"
+DRG28401,D0461,"Carcinoma in situ of skin of right upper limb, including shoulder"
+DRG28401,D0462,"Carcinoma in situ of skin of left upper limb, including shoulder"
+DRG28401,D0470,"Carcinoma in situ of skin of unspecified lower limb, including hip"
+DRG28401,D0471,"Carcinoma in situ of skin of right lower limb, including hip"
+DRG28401,D0472,"Carcinoma in situ of skin of left lower limb, including hip"
+DRG28401,D048,Carcinoma in situ of skin of other sites
+DRG28401,D049,"Carcinoma in situ of skin, unspecified"
+DRG28401,D170,"Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck"
+DRG28401,D171,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk
+DRG28401,D1720,Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified limb
+DRG28401,D1721,Benign lipomatous neoplasm of skin and subcutaneous tissue of right arm
+DRG28401,D1722,Benign lipomatous neoplasm of skin and subcutaneous tissue of left arm
+DRG28401,D1723,Benign lipomatous neoplasm of skin and subcutaneous tissue of right leg
+DRG28401,D1724,Benign lipomatous neoplasm of skin and subcutaneous tissue of left leg
+DRG28401,D1730,Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified sites
+DRG28401,D1739,Benign lipomatous neoplasm of skin and subcutaneous tissue of other sites
+DRG28401,D1772,Benign lipomatous neoplasm of other genitourinary organ
+DRG28401,D1779,Benign lipomatous neoplasm of other sites
+DRG28401,D179,"Benign lipomatous neoplasm, unspecified"
+DRG28401,D1801,Hemangioma of skin and subcutaneous tissue
+DRG28401,D220,Melanocytic nevi of lip
+DRG28401,D2220,Melanocytic nevi of unspecified ear and external auricular canal
+DRG28401,D2221,Melanocytic nevi of right ear and external auricular canal
+DRG28401,D2222,Melanocytic nevi of left ear and external auricular canal
+DRG28401,D2230,Melanocytic nevi of unspecified part of face
+DRG28401,D2239,Melanocytic nevi of other parts of face
+DRG28401,D224,Melanocytic nevi of scalp and neck
+DRG28401,D225,Melanocytic nevi of trunk
+DRG28401,D2260,"Melanocytic nevi of unspecified upper limb, including shoulder"
+DRG28401,D2261,"Melanocytic nevi of right upper limb, including shoulder"
+DRG28401,D2262,"Melanocytic nevi of left upper limb, including shoulder"
+DRG28401,D2270,"Melanocytic nevi of unspecified lower limb, including hip"
+DRG28401,D2271,"Melanocytic nevi of right lower limb, including hip"
+DRG28401,D2272,"Melanocytic nevi of left lower limb, including hip"
+DRG28401,D229,"Melanocytic nevi, unspecified"
+DRG28401,D230,Other benign neoplasm of skin of lip
+DRG28401,D2320,Other benign neoplasm of skin of unspecified ear and external auricular canal
+DRG28401,D2321,Other benign neoplasm of skin of right ear and external auricular canal
+DRG28401,D2322,Other benign neoplasm of skin of left ear and external auricular canal
+DRG28401,D2330,Other benign neoplasm of skin of unspecified part of face
+DRG28401,D2339,Other benign neoplasm of skin of other parts of face
+DRG28401,D234,Other benign neoplasm of skin of scalp and neck
+DRG28401,D235,Other benign neoplasm of skin of trunk
+DRG28401,D2360,"Other benign neoplasm of skin of unspecified upper limb, including shoulder"
+DRG28401,D2361,"Other benign neoplasm of skin of right upper limb, including shoulder"
+DRG28401,D2362,"Other benign neoplasm of skin of left upper limb, including shoulder"
+DRG28401,D2370,"Other benign neoplasm of skin of unspecified lower limb, including hip"
+DRG28401,D2371,"Other benign neoplasm of skin of right lower limb, including hip"
+DRG28401,D2372,"Other benign neoplasm of skin of left lower limb, including hip"
+DRG28401,D239,"Other benign neoplasm of skin, unspecified"
+DRG28401,D241,Benign neoplasm of right breast
+DRG28401,D242,Benign neoplasm of left breast
+DRG28401,D249,Benign neoplasm of unspecified breast
+DRG28401,L239,"Allergic contact dermatitis, unspecified cause"
+DRG28401,L249,"Irritant contact dermatitis, unspecified cause"
+DRG28401,L259,"Unspecified contact dermatitis, unspecified cause"
+DRG28401,L300,Nummular dermatitis
+DRG28401,L302,Cutaneous autosensitization
+DRG28401,L308,Other specified dermatitis
+DRG28401,L309,"Dermatitis, unspecified"
+DRG28401,L500,Allergic urticaria
+DRG28401,L501,Idiopathic urticaria
+DRG28401,L502,Urticaria due to cold and heat
+DRG28401,L503,Dermatographic urticaria
+DRG28401,L504,Vibratory urticaria
+DRG28401,L505,Cholinergic urticaria
+DRG28401,L506,Contact urticaria
+DRG28401,L508,Other urticaria
+DRG28401,L509,"Urticaria, unspecified"
+DRG28401,R900,Intracranial space-occupying lesion found on diagnostic imaging of central nervous system

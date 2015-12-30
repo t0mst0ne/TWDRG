@@ -1,0 +1,40 @@
+DRG,CM-PCS,en
+DRG01216,A5210,"Symptomatic neurosyphilis, unspecified"
+DRG01216,A5211,Tabes dorsalis
+DRG01216,A5212,Other cerebrospinal syphilis
+DRG01216,A5215,Late syphilitic neuropathy
+DRG01216,A5216,Charcot's arthropathy (tabetic)
+DRG01216,A5217,General paresis
+DRG01216,A523,"Neurosyphilis, unspecified"
+DRG01216,A811,Subacute sclerosing panencephalitis
+DRG01216,A812,Progressive multifocal leukoencephalopathy
+DRG01216,A8181,Kuru
+DRG01216,A8182,Gerstmann-Straussler-Scheinker syndrome
+DRG01216,A8183,Fatal familial insomnia
+DRG01216,A8189,Other atypical virus infections of central nervous system
+DRG01216,A819,"Atypical virus infection of central nervous system, unspecified"
+DRG01216,B0809,Other orthopoxvirus infections
+DRG01216,B0860,"Parapoxvirus infection, unspecified"
+DRG01216,B0861,Bovine stomatitis
+DRG01216,B0862,Sealpox
+DRG01216,B0869,Other parapoxvirus infections
+DRG01216,G8100,Flaccid hemiplegia affecting unspecified side
+DRG01216,G8101,Flaccid hemiplegia affecting right dominant side
+DRG01216,G8102,Flaccid hemiplegia affecting left dominant side
+DRG01216,G8103,Flaccid hemiplegia affecting right nondominant side
+DRG01216,G8104,Flaccid hemiplegia affecting left nondominant side
+DRG01216,G8110,Spastic hemiplegia affecting unspecified side
+DRG01216,G8111,Spastic hemiplegia affecting right dominant side
+DRG01216,G8112,Spastic hemiplegia affecting left dominant side
+DRG01216,G8113,Spastic hemiplegia affecting right nondominant side
+DRG01216,G8114,Spastic hemiplegia affecting left nondominant side
+DRG01216,G8190,"Hemiplegia, unspecified affecting unspecified side"
+DRG01216,G8191,"Hemiplegia, unspecified affecting right dominant side"
+DRG01216,G8192,"Hemiplegia, unspecified affecting left dominant side"
+DRG01216,G8193,"Hemiplegia, unspecified affecting right nondominant side"
+DRG01216,G8194,"Hemiplegia, unspecified affecting left nondominant side"
+DRG01216,H5701,"Argyll Robertson pupil, atypical"
+DRG01216,I673,Progressive vascular leukoencephalopathy
+DRG01216,F000001,Physical Therapy
+DRG01216,F000002,Occupational Therapy
+DRG01216,F000003,Communication Therapy

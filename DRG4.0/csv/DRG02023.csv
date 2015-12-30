@@ -1,0 +1,50 @@
+DRG,CM-PCS,en
+DRG02023,A0221,Salmonella meningitis
+DRG02023,A390,Meningococcal meningitis
+DRG02023,A3981,Meningococcal encephalitis
+DRG02023,A5040,"Late congenital neurosyphilis, unspecified"
+DRG02023,A5041,Late congenital syphilitic meningitis
+DRG02023,A5042,Late congenital syphilitic encephalitis
+DRG02023,A5043,Late congenital syphilitic polyneuropathy
+DRG02023,A5045,Juvenile general paresis
+DRG02023,A5049,Other late congenital neurosyphilis
+DRG02023,A5141,Secondary syphilitic meningitis
+DRG02023,A5213,Late syphilitic meningitis
+DRG02023,A5214,Late syphilitic encephalitis
+DRG02023,A522,Asymptomatic neurosyphilis
+DRG02023,A800,"Acute paralytic poliomyelitis, vaccine-associated"
+DRG02023,A801,"Acute paralytic poliomyelitis, wild virus, imported"
+DRG02023,A802,"Acute paralytic poliomyelitis, wild virus, indigenous"
+DRG02023,A8030,"Acute paralytic poliomyelitis, unspecified"
+DRG02023,A8039,Other acute paralytic poliomyelitis
+DRG02023,A809,"Acute poliomyelitis, unspecified"
+DRG02023,A820,Sylvatic rabies
+DRG02023,A821,Urban rabies
+DRG02023,A829,"Rabies, unspecified"
+DRG02023,A830,Japanese encephalitis
+DRG02023,A831,Western equine encephalitis
+DRG02023,A832,Eastern equine encephalitis
+DRG02023,A833,St Louis encephalitis
+DRG02023,A834,Australian encephalitis
+DRG02023,A835,California encephalitis
+DRG02023,A836,Rocio virus disease
+DRG02023,A838,Other mosquito-borne viral encephalitis
+DRG02023,A839,"Mosquito-borne viral encephalitis, unspecified"
+DRG02023,A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
+DRG02023,A841,Central European tick-borne encephalitis
+DRG02023,A848,Other tick-borne viral encephalitis
+DRG02023,A849,"Tick-borne viral encephalitis, unspecified"
+DRG02023,A850,Enteroviral encephalitis
+DRG02023,A851,Adenoviral encephalitis
+DRG02023,A852,"Arthropod-borne viral encephalitis, unspecified"
+DRG02023,A858,Other specified viral encephalitis
+DRG02023,A86,Unspecified viral encephalitis
+DRG02023,A888,Other specified viral infections of central nervous system
+DRG02023,A89,Unspecified viral infection of central nervous system
+DRG02023,A922,Venezuelan equine fever
+DRG02023,B0111,Varicella encephalitis and encephalomyelitis
+DRG02023,B050,Measles complicated by encephalitis
+DRG02023,B0601,Rubella encephalitis
+DRG02023,B0602,Rubella meningitis
+DRG02023,B0609,Other neurological complications of rubella
+DRG02023,B262,Mumps encephalitis

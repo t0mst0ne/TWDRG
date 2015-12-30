@@ -1,1 +1,20 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG20401.csv
+DRG,CM-PCS,en
+DRG20401,B252,Cytomegaloviral pancreatitis
+DRG20401,B263,Mumps pancreatitis
+DRG20401,D136,Benign neoplasm of pancreas
+DRG20401,K850,Idiopathic acute pancreatitis
+DRG20401,K851,Biliary acute pancreatitis
+DRG20401,K852,Alcohol induced acute pancreatitis
+DRG20401,K853,Drug induced acute pancreatitis
+DRG20401,K858,Other acute pancreatitis
+DRG20401,K859,"Acute pancreatitis, unspecified"
+DRG20401,K860,Alcohol-induced chronic pancreatitis
+DRG20401,K861,Other chronic pancreatitis
+DRG20401,K862,Cyst of pancreas
+DRG20401,K863,Pseudocyst of pancreas
+DRG20401,K868,Other specified diseases of pancreas
+DRG20401,K869,"Disease of pancreas, unspecified"
+DRG20401,Q450,"Agenesis, aplasia and hypoplasia of pancreas"
+DRG20401,Q451,Annular pancreas
+DRG20401,Q452,Congenital pancreatic cyst
+DRG20401,Q453,Other congenital malformations of pancreas and pancreatic duct

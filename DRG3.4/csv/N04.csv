@@ -1,1 +1,10 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/N04.csv
+DRG,CM-PCS,en
+N04,P0501,"Newborn light for gestational age, less than 500 grams"
+N04,P0502,"Newborn light for gestational age, 500-749 grams"
+N04,P0503,"Newborn light for gestational age, 750-999 grams"
+N04,P0511,"Newborn small for gestational age, less than 500 grams"
+N04,P0512,"Newborn small for gestational age, 500-749 grams"
+N04,P0513,"Newborn small for gestational age, 750-999 grams"
+N04,P0701,"Extremely low birth weight newborn, less than 500 grams"
+N04,P0702,"Extremely low birth weight newborn, 500-749 grams"
+N04,P0703,"Extremely low birth weight newborn, 750-999 grams"

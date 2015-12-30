@@ -1,1 +1,13 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG06101.csv
+DRG,CM-PCS,en
+DRG06101,099500Z,"Drainage of Right Middle Ear with Drainage Device, Open Approach"
+DRG06101,099600Z,"Drainage of Left Middle Ear with Drainage Device, Open Approach"
+DRG06101,099700Z,"Drainage of Right Tympanic Membrane with Drainage Device, Open Approach"
+DRG06101,099730Z,"Drainage of Right Tympanic Membrane with Drainage Device, Percutaneous Approach"
+DRG06101,099740Z,"Drainage of Right Tympanic Membrane with Drainage Device, Percutaneous Endoscopic Approach"
+DRG06101,099770Z,"Drainage of Right Tympanic Membrane with Drainage Device, Via Natural or Artificial Opening"
+DRG06101,099780Z,"Drainage of Right Tympanic Membrane with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+DRG06101,099800Z,"Drainage of Left Tympanic Membrane with Drainage Device, Open Approach"
+DRG06101,099830Z,"Drainage of Left Tympanic Membrane with Drainage Device, Percutaneous Approach"
+DRG06101,099840Z,"Drainage of Left Tympanic Membrane with Drainage Device, Percutaneous Endoscopic Approach"
+DRG06101,099870Z,"Drainage of Left Tympanic Membrane with Drainage Device, Via Natural or Artificial Opening"
+DRG06101,099880Z,"Drainage of Left Tympanic Membrane with Drainage Device, Via Natural or Artificial Opening Endoscopic"

@@ -1,0 +1,33 @@
+DRG,CM-PCS,en
+DRG02015,A066,Amebic brain abscess
+DRG02015,A170,Tuberculous meningitis
+DRG02015,A171,Meningeal tuberculoma
+DRG02015,A1781,Tuberculoma of brain and spinal cord
+DRG02015,A1782,Tuberculous meningoencephalitis
+DRG02015,A1783,Tuberculous neuritis
+DRG02015,A1789,Other tuberculosis of nervous system
+DRG02015,A2781,Aseptic meningitis in leptospirosis
+DRG02015,A2789,Other forms of leptospirosis
+DRG02015,A5481,Gonococcal meningitis
+DRG02015,B375,Candidal meningitis
+DRG02015,B384,Coccidioidomycosis meningitis
+DRG02015,B582,Toxoplasma meningoencephalitis
+DRG02015,G000,Hemophilus meningitis
+DRG02015,G001,Pneumococcal meningitis
+DRG02015,G002,Streptococcal meningitis
+DRG02015,G003,Staphylococcal meningitis
+DRG02015,G008,Other bacterial meningitis
+DRG02015,G009,"Bacterial meningitis, unspecified"
+DRG02015,G030,Nonpyogenic meningitis
+DRG02015,G031,Chronic meningitis
+DRG02015,G039,"Meningitis, unspecified"
+DRG02015,G0400,"Acute disseminated encephalitis and encephalomyelitis, unspecified"
+DRG02015,G0401,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)
+DRG02015,G0402,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis"
+DRG02015,G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+DRG02015,G0432,Postimmunization acute necrotizing hemorrhagic encephalopathy
+DRG02015,G061,Intraspinal abscess and granuloma
+DRG02015,G062,"Extradural and subdural abscess, unspecified"
+DRG02015,F000001,Physical Therapy
+DRG02015,F000002,Occupational Therapy
+DRG02015,F000003,Communication Therapy

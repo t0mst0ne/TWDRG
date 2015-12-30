@@ -1,1 +1,11 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG06401.csv
+DRG,CM-PCS,en
+DRG06401,D0000,"Carcinoma in situ of oral cavity, unspecified site"
+DRG06401,D0001,Carcinoma in situ of labial mucosa and vermilion border
+DRG06401,D0002,Carcinoma in situ of buccal mucosa
+DRG06401,D0003,Carcinoma in situ of gingiva and edentulous alveolar ridge
+DRG06401,D0004,Carcinoma in situ of soft palate
+DRG06401,D0005,Carcinoma in situ of hard palate
+DRG06401,D0006,Carcinoma in situ of floor of mouth
+DRG06401,D0007,Carcinoma in situ of tongue
+DRG06401,D0008,Carcinoma in situ of pharynx
+DRG06401,D020,Carcinoma in situ of larynx

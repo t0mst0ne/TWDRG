@@ -1,0 +1,86 @@
+DRG,CM-PCS,en
+DRG17918,K5000,Crohn's disease of small intestine without complications
+DRG17918,K50011,Crohn's disease of small intestine with rectal bleeding
+DRG17918,K50012,Crohn's disease of small intestine with intestinal obstruction
+DRG17918,K50013,Crohn's disease of small intestine with fistula
+DRG17918,K50014,Crohn's disease of small intestine with abscess
+DRG17918,K50018,Crohn's disease of small intestine with other complication
+DRG17918,K50019,Crohn's disease of small intestine with unspecified complications
+DRG17918,K5010,Crohn's disease of large intestine without complications
+DRG17918,K50111,Crohn's disease of large intestine with rectal bleeding
+DRG17918,K50112,Crohn's disease of large intestine with intestinal obstruction
+DRG17918,K50113,Crohn's disease of large intestine with fistula
+DRG17918,K50114,Crohn's disease of large intestine with abscess
+DRG17918,K50118,Crohn's disease of large intestine with other complication
+DRG17918,K50119,Crohn's disease of large intestine with unspecified complications
+DRG17918,K5080,Crohn's disease of both small and large intestine without complications
+DRG17918,K50811,Crohn's disease of both small and large intestine with rectal bleeding
+DRG17918,K50812,Crohn's disease of both small and large intestine with intestinal obstruction
+DRG17918,K50813,Crohn's disease of both small and large intestine with fistula
+DRG17918,K50814,Crohn's disease of both small and large intestine with abscess
+DRG17918,K50818,Crohn's disease of both small and large intestine with other complication
+DRG17918,K50819,Crohn's disease of both small and large intestine with unspecified complications
+DRG17918,A400,"Sepsis due to streptococcus, group A"
+DRG17918,A401,"Sepsis due to streptococcus, group B"
+DRG17918,A408,Other streptococcal sepsis
+DRG17918,A409,"Streptococcal sepsis, unspecified"
+DRG17918,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG17918,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG17918,R6520,Severe sepsis without septic shock
+DRG17918,A412,Sepsis due to unspecified staphylococcus
+DRG17918,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG17918,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG17918,A411,Sepsis due to other specified staphylococcus
+DRG17918,A403,Sepsis due to Streptococcus pneumoniae
+DRG17918,A414,Sepsis due to anaerobes
+DRG17918,A4150,"Gram-negative sepsis, unspecified"
+DRG17918,A413,Sepsis due to Hemophilus influenzae
+DRG17918,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG17918,A4152,Sepsis due to Pseudomonas
+DRG17918,A4153,Sepsis due to Serratia
+DRG17918,A4159,Other Gram-negative sepsis
+DRG17918,A4181,Sepsis due to Enterococcus
+DRG17918,A4189,Other specified sepsis
+DRG17918,A419,"Sepsis, unspecified organism"
+DRG17918,E440,Moderate protein-calorie malnutrition
+DRG17918,E441,Mild protein-calorie malnutrition
+DRG17918,E45,Retarded development following protein-calorie malnutrition
+DRG17918,E46,Unspecified protein-calorie malnutrition
+DRG17918,E640,Sequelae of protein-calorie malnutrition
+DRG17918,K561,Intussusception
+DRG17918,K560,Paralytic ileus
+DRG17918,K567,"Ileus, unspecified"
+DRG17918,K562,Volvulus
+DRG17918,K5649,Other impaction of intestine
+DRG17918,K563,Gallstone ileus
+DRG17918,K5641,Fecal impaction
+DRG17918,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
+DRG17918,K5669,Other intestinal obstruction
+DRG17918,K5660,Unspecified intestinal obstruction
+DRG17918,K603,Anal fistula
+DRG17918,K604,Rectal fistula
+DRG17918,K605,Anorectal fistula
+DRG17918,K632,Fistula of intestine
+DRG17918,K920,Hematemesis
+DRG17918,K921,Melena
+DRG17918,K922,"Gastrointestinal hemorrhage, unspecified"
+DRG17918,R000,"Tachycardia, unspecified"
+DRG17918,R002,Palpitations
+DRG17918,R010,Benign and innocent cardiac murmurs
+DRG17918,R011,"Cardiac murmur, unspecified"
+DRG17918,R008,Other abnormalities of heart beat
+DRG17918,R009,Unspecified abnormalities of heart beat
+DRG17918,R012,Other cardiac sounds
+DRG17918,I96,"Gangrene, not elsewhere classified"
+DRG17918,R579,"Shock, unspecified"
+DRG17918,R570,Cardiogenic shock
+DRG17918,H49811,"Kearns-Sayre syndrome, right eye"
+DRG17918,H49812,"Kearns-Sayre syndrome, left eye"
+DRG17918,H49813,"Kearns-Sayre syndrome, bilateral"
+DRG17918,R571,Hypovolemic shock
+DRG17918,R578,Other shock
+DRG17918,R6521,Severe sepsis with septic shock
+DRG17918,R590,Localized enlarged lymph nodes
+DRG17918,R591,Generalized enlarged lymph nodes
+DRG17918,R599,"Enlarged lymph nodes, unspecified"
+DRG17918,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems

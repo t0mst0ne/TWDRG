@@ -1,0 +1,72 @@
+DRG,CM-PCS,en
+DRG20803,K8000,Calculus of gallbladder with acute cholecystitis without obstruction
+DRG20803,K8001,Calculus of gallbladder with acute cholecystitis with obstruction
+DRG20803,K8010,Calculus of gallbladder with chronic cholecystitis without obstruction
+DRG20803,K8011,Calculus of gallbladder with chronic cholecystitis with obstruction
+DRG20803,K8012,Calculus of gallbladder with acute and chronic cholecystitis without obstruction
+DRG20803,K8013,Calculus of gallbladder with acute and chronic cholecystitis with obstruction
+DRG20803,K8018,Calculus of gallbladder with other cholecystitis without obstruction
+DRG20803,K8019,Calculus of gallbladder with other cholecystitis with obstruction
+DRG20803,K8020,Calculus of gallbladder without cholecystitis without obstruction
+DRG20803,K8021,Calculus of gallbladder without cholecystitis with obstruction
+DRG20803,K8030,"Calculus of bile duct with cholangitis, unspecified, without obstruction"
+DRG20803,K8031,"Calculus of bile duct with cholangitis, unspecified, with obstruction"
+DRG20803,K8032,Calculus of bile duct with acute cholangitis without obstruction
+DRG20803,K8033,Calculus of bile duct with acute cholangitis with obstruction
+DRG20803,K8034,Calculus of bile duct with chronic cholangitis without obstruction
+DRG20803,K8035,Calculus of bile duct with chronic cholangitis with obstruction
+DRG20803,K8036,Calculus of bile duct with acute and chronic cholangitis without obstruction
+DRG20803,K8037,Calculus of bile duct with acute and chronic cholangitis with obstruction
+DRG20803,K8040,"Calculus of bile duct with cholecystitis, unspecified, without obstruction"
+DRG20803,K8041,"Calculus of bile duct with cholecystitis, unspecified, with obstruction"
+DRG20803,K8042,Calculus of bile duct with acute cholecystitis without obstruction
+DRG20803,K8043,Calculus of bile duct with acute cholecystitis with obstruction
+DRG20803,K8044,Calculus of bile duct with chronic cholecystitis without obstruction
+DRG20803,K8045,Calculus of bile duct with chronic cholecystitis with obstruction
+DRG20803,K8046,Calculus of bile duct with acute and chronic cholecystitis without obstruction
+DRG20803,K8047,Calculus of bile duct with acute and chronic cholecystitis with obstruction
+DRG20803,K8050,Calculus of bile duct without cholangitis or cholecystitis without obstruction
+DRG20803,K8051,Calculus of bile duct without cholangitis or cholecystitis with obstruction
+DRG20803,K8060,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction"
+DRG20803,K8061,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, with obstruction"
+DRG20803,K8062,Calculus of gallbladder and bile duct with acute cholecystitis without obstruction
+DRG20803,K8063,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction
+DRG20803,K8064,Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction
+DRG20803,K8065,Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction
+DRG20803,K8066,Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction
+DRG20803,K8067,Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction
+DRG20803,K8070,Calculus of gallbladder and bile duct without cholecystitis without obstruction
+DRG20803,K8071,Calculus of gallbladder and bile duct without cholecystitis with obstruction
+DRG20803,K8080,Other cholelithiasis without obstruction
+DRG20803,K8081,Other cholelithiasis with obstruction
+DRG20803,K810,Acute cholecystitis
+DRG20803,K811,Chronic cholecystitis
+DRG20803,K812,Acute cholecystitis with chronic cholecystitis
+DRG20803,K819,"Cholecystitis, unspecified"
+DRG20803,K820,Obstruction of gallbladder
+DRG20803,K821,Hydrops of gallbladder
+DRG20803,K822,Perforation of gallbladder
+DRG20803,K823,Fistula of gallbladder
+DRG20803,K824,Cholesterolosis of gallbladder
+DRG20803,K828,Other specified diseases of gallbladder
+DRG20803,K829,"Disease of gallbladder, unspecified"
+DRG20803,K830,Cholangitis
+DRG20803,K831,Obstruction of bile duct
+DRG20803,K832,Perforation of bile duct
+DRG20803,K833,Fistula of bile duct
+DRG20803,K834,Spasm of sphincter of Oddi
+DRG20803,K835,Biliary cyst
+DRG20803,K838,Other specified diseases of biliary tract
+DRG20803,K839,"Disease of biliary tract, unspecified"
+DRG20803,K915,Postcholecystectomy syndrome
+DRG20803,Q441,Other congenital malformations of gallbladder
+DRG20803,Q442,Atresia of bile ducts
+DRG20803,Q443,Congenital stenosis and stricture of bile ducts
+DRG20803,Q445,Other congenital malformations of bile ducts
+DRG20803,Q447,Other congenital malformations of liver
+DRG20803,R932,Abnormal findings on diagnostic imaging of liver and biliary tract
+DRG20803,S36122A,"Contusion of gallbladder, initial encounter"
+DRG20803,S36123A,"Laceration of gallbladder, initial encounter"
+DRG20803,S36128A,"Other injury of gallbladder, initial encounter"
+DRG20803,S36129A,"Unspecified injury of gallbladder, initial encounter"
+DRG20803,S3613XA,"Injury of bile duct, initial encounter"

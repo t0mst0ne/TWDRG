@@ -1,1 +1,22 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG39501.csv
+DRG,CM-PCS,en
+DRG39501,D461,Refractory anemia with ring sideroblasts
+DRG39501,D464,"Refractory anemia, unspecified"
+DRG39501,D600,Chronic acquired pure red cell aplasia
+DRG39501,D601,Transient acquired pure red cell aplasia
+DRG39501,D608,Other acquired pure red cell aplasias
+DRG39501,D609,"Acquired pure red cell aplasia, unspecified"
+DRG39501,D6101,Constitutional (pure) red blood cell aplasia
+DRG39501,D6109,Other constitutional aplastic anemia
+DRG39501,D611,Drug-induced aplastic anemia
+DRG39501,D612,Aplastic anemia due to other external agents
+DRG39501,D613,Idiopathic aplastic anemia
+DRG39501,D61810,Antineoplastic chemotherapy induced pancytopenia
+DRG39501,D61811,Other drug-induced pancytopenia
+DRG39501,D61818,Other pancytopenia
+DRG39501,D6182,Myelophthisis
+DRG39501,D6189,Other specified aplastic anemias and other bone marrow failure syndromes
+DRG39501,D619,"Aplastic anemia, unspecified"
+DRG39501,D640,Hereditary sideroblastic anemia
+DRG39501,D642,Secondary sideroblastic anemia due to drugs and toxins
+DRG39501,D643,Other sideroblastic anemias
+DRG39501,D6481,Anemia due to antineoplastic chemotherapy

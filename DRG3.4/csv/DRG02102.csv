@@ -1,1 +1,7 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG02102.csv
+DRG,CM-PCS,en
+DRG02102,A871,Adenoviral meningitis
+DRG02102,A872,Lymphocytic choriomeningitis
+DRG02102,A880,Enteroviral exanthematous fever [Boston exanthem]
+DRG02102,B003,Herpesviral meningitis
+DRG02102,B021,Zoster meningitis
+DRG02102,B261,Mumps meningitis

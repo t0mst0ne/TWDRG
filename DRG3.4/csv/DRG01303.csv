@@ -1,1 +1,12 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG01303.csv
+DRG,CM-PCS,en
+DRG01303,G35,Multiple sclerosis
+DRG01303,G360,Neuromyelitis optica [Devic]
+DRG01303,G361,Acute and subacute hemorrhagic leukoencephalitis [Hurst]
+DRG01303,G368,Other specified acute disseminated demyelination
+DRG01303,G369,"Acute disseminated demyelination, unspecified"
+DRG01303,G370,Diffuse sclerosis of central nervous system
+DRG01303,G371,Central demyelination of corpus callosum
+DRG01303,G372,Central pontine myelinolysis
+DRG01303,G375,Concentric sclerosis [Balo] of central nervous system
+DRG01303,G378,Other specified demyelinating diseases of central nervous system
+DRG01303,G379,"Demyelinating disease of central nervous system, unspecified"

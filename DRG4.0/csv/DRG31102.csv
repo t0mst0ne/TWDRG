@@ -1,0 +1,33 @@
+DRG,CM-PCS,en
+DRG31102,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+DRG31102,N132,Hydronephrosis with renal and ureteral calculous obstruction
+DRG31102,N1330,Unspecified hydronephrosis
+DRG31102,N1339,Other hydronephrosis
+DRG31102,N134,Hydroureter
+DRG31102,N138,Other obstructive and reflux uropathy
+DRG31102,N200,Calculus of kidney
+DRG31102,N201,Calculus of ureter
+DRG31102,N202,Calculus of kidney with calculus of ureter
+DRG31102,N209,"Urinary calculus, unspecified"
+DRG31102,N210,Calculus in bladder
+DRG31102,N211,Calculus in urethra
+DRG31102,N218,Other lower urinary tract calculus
+DRG31102,N219,"Calculus of lower urinary tract, unspecified"
+DRG31102,N22,Calculus of urinary tract in diseases classified elsewhere
+DRG31102,N23,Unspecified renal colic
+DRG31102,0TC37ZZ,"Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening"
+DRG31102,0TC38ZZ,"Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0TC47ZZ,"Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening"
+DRG31102,0TC48ZZ,"Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0TC67ZZ,"Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening"
+DRG31102,0TC68ZZ,"Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0TC77ZZ,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening"
+DRG31102,0TC78ZZ,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0T9B7ZZ,"Drainage of Bladder, Via Natural or Artificial Opening"
+DRG31102,0T9B8ZZ,"Drainage of Bladder, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0T9C7ZZ,"Drainage of Bladder Neck, Via Natural or Artificial Opening"
+DRG31102,0T9C8ZZ,"Drainage of Bladder Neck, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0TCB7ZZ,"Extirpation of Matter from Bladder, Via Natural or Artificial Opening"
+DRG31102,0TCB8ZZ,"Extirpation of Matter from Bladder, Via Natural or Artificial Opening Endoscopic"
+DRG31102,0TCC7ZZ,"Extirpation of Matter from Bladder Neck, Via Natural or Artificial Opening"
+DRG31102,0TCC8ZZ,"Extirpation of Matter from Bladder Neck, Via Natural or Artificial Opening Endoscopic"

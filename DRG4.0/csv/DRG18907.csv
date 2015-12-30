@@ -1,0 +1,14 @@
+DRG,CM-PCS,en
+DRG18907,K353,Acute appendicitis with localized peritonitis
+DRG18907,K650,Generalized (acute) peritonitis
+DRG18907,K651,Peritoneal abscess
+DRG18907,K652,Spontaneous bacterial peritonitis
+DRG18907,K6819,Other retroperitoneal abscess
+DRG18907,K630,Abscess of intestine
+DRG18907,Q390,Atresia of esophagus without fistula
+DRG18907,Q391,Atresia of esophagus with tracheo-esophageal fistula
+DRG18907,Q392,Congenital tracheo-esophageal fistula without atresia
+DRG18907,Q393,Congenital stenosis and stricture of esophagus
+DRG18907,Q394,Esophageal web
+DRG18907,T281XXA,"Burn of esophagus, initial encounter"
+DRG18907,T286XXA,"Corrosion of esophagus, initial encounter"

@@ -1,0 +1,72 @@
+DRG,CM-PCS,en
+DRG17408,K226,Gastro-esophageal laceration-hemorrhage syndrome
+DRG17408,K250,Acute gastric ulcer with hemorrhage
+DRG17408,K252,Acute gastric ulcer with both hemorrhage and perforation
+DRG17408,K254,Chronic or unspecified gastric ulcer with hemorrhage
+DRG17408,K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation
+DRG17408,K260,Acute duodenal ulcer with hemorrhage
+DRG17408,K262,Acute duodenal ulcer with both hemorrhage and perforation
+DRG17408,K264,Chronic or unspecified duodenal ulcer with hemorrhage
+DRG17408,K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation
+DRG17408,K270,"Acute peptic ulcer, site unspecified, with hemorrhage"
+DRG17408,K272,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation"
+DRG17408,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage"
+DRG17408,K276,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation"
+DRG17408,K280,Acute gastrojejunal ulcer with hemorrhage
+DRG17408,K282,Acute gastrojejunal ulcer with both hemorrhage and perforation
+DRG17408,K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage
+DRG17408,K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
+DRG17408,K2901,Acute gastritis with bleeding
+DRG17408,K2921,Alcoholic gastritis with bleeding
+DRG17408,K2931,Chronic superficial gastritis with bleeding
+DRG17408,K2941,Chronic atrophic gastritis with bleeding
+DRG17408,K2951,Unspecified chronic gastritis with bleeding
+DRG17408,K2961,Other gastritis with bleeding
+DRG17408,K2971,"Gastritis, unspecified, with bleeding"
+DRG17408,K2981,Duodenitis with bleeding
+DRG17408,K2991,"Gastroduodenitis, unspecified, with bleeding"
+DRG17408,K31811,Angiodysplasia of stomach and duodenum with bleeding
+DRG17408,K3182,Dieulafoy lesion (hemorrhagic) of stomach and duodenum
+DRG17408,K920,Hematemesis
+DRG17408,I5020,Unspecified systolic (congestive) heart failure
+DRG17408,I5021,Acute systolic (congestive) heart failure
+DRG17408,I5022,Chronic systolic (congestive) heart failure
+DRG17408,I5023,Acute on chronic systolic (congestive) heart failure
+DRG17408,I5030,Unspecified diastolic (congestive) heart failure
+DRG17408,I5031,Acute diastolic (congestive) heart failure
+DRG17408,I5032,Chronic diastolic (congestive) heart failure
+DRG17408,I5033,Acute on chronic diastolic (congestive) heart failure
+DRG17408,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+DRG17408,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+DRG17408,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG17408,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+DRG17408,I509,"Heart failure, unspecified"
+DRG17408,I501,Left ventricular failure
+DRG17408,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG17408,J9601,Acute respiratory failure with hypoxia
+DRG17408,J9602,Acute respiratory failure with hypercapnia
+DRG17408,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG17408,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG17408,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG17408,J80,Acute respiratory distress syndrome
+DRG17408,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG17408,J9611,Chronic respiratory failure with hypoxia
+DRG17408,J9612,Chronic respiratory failure with hypercapnia
+DRG17408,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG17408,J9621,Acute and chronic respiratory failure with hypoxia
+DRG17408,J9622,Acute and chronic respiratory failure with hypercapnia
+DRG17408,K7210,Chronic hepatic failure without coma
+DRG17408,K7211,Chronic hepatic failure with coma
+DRG17408,K7290,"Hepatic failure, unspecified without coma"
+DRG17408,K7681,Hepatopulmonary syndrome
+DRG17408,N170,Acute kidney failure with tubular necrosis
+DRG17408,N171,Acute kidney failure with acute cortical necrosis
+DRG17408,N172,Acute kidney failure with medullary necrosis
+DRG17408,N178,Other acute kidney failure
+DRG17408,N179,"Acute kidney failure, unspecified"
+DRG17408,N184,"Chronic kidney disease, stage 4 (severe)"
+DRG17408,N185,"Chronic kidney disease, stage 5"
+DRG17408,N186,End stage renal disease
+DRG17408,N189,"Chronic kidney disease, unspecified"
+DRG17408,N19,Unspecified kidney failure
+DRG17408,R092,Respiratory arrest

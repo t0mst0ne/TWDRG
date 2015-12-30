@@ -1,1 +1,35 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00090.csv
+DRG,CM-PCS,en
+DRG00090,B330,Epidemic myalgia
+DRG00090,J09X1,Influenza due to identified novel influenza A virus with pneumonia
+DRG00090,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
+DRG00090,J1008,Influenza due to other identified influenza virus with other specified pneumonia
+DRG00090,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+DRG00090,J1108,Influenza due to unidentified influenza virus with specified pneumonia
+DRG00090,J120,Adenoviral pneumonia
+DRG00090,J121,Respiratory syncytial virus pneumonia
+DRG00090,J122,Parainfluenza virus pneumonia
+DRG00090,J123,Human metapneumovirus pneumonia
+DRG00090,J1281,Pneumonia due to SARS-associated coronavirus
+DRG00090,J1289,Other viral pneumonia
+DRG00090,J129,"Viral pneumonia, unspecified"
+DRG00090,J13,Pneumonia due to Streptococcus pneumoniae
+DRG00090,J14,Pneumonia due to Hemophilus influenzae
+DRG00090,J153,"Pneumonia due to streptococcus, group B"
+DRG00090,J15212,Pneumonia due to Methicillin resistant Staphylococcus aureus
+DRG00090,J154,Pneumonia due to other streptococci
+DRG00090,J157,Pneumonia due to Mycoplasma pneumoniae
+DRG00090,J159,Unspecified bacterial pneumonia
+DRG00090,J160,Chlamydial pneumonia
+DRG00090,J168,Pneumonia due to other specified infectious organisms
+DRG00090,J180,"Bronchopneumonia, unspecified organism"
+DRG00090,J181,"Lobar pneumonia, unspecified organism"
+DRG00090,J188,"Other pneumonia, unspecified organism"
+DRG00090,J189,"Pneumonia, unspecified organism"
+DRG00090,J84116,Cryptogenic organizing pneumonia
+DRG00090,J869,Pyothorax without fistula
+DRG00090,J920,Pleural plaque with presence of asbestos
+DRG00090,J929,Pleural plaque without asbestos
+DRG00090,J941,Fibrothorax
+DRG00090,J948,Other specified pleural conditions
+DRG00090,J949,"Pleural condition, unspecified"
+DRG00090,R091,Pleurisy

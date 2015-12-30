@@ -1,1 +1,11 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00181.csv
+DRG,CM-PCS,en
+DRG00181,K560,Paralytic ileus
+DRG00181,K561,Intussusception
+DRG00181,K562,Volvulus
+DRG00181,K563,Gallstone ileus
+DRG00181,K5641,Fecal impaction
+DRG00181,K5649,Other impaction of intestine
+DRG00181,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
+DRG00181,K5660,Unspecified intestinal obstruction
+DRG00181,K5669,Other intestinal obstruction
+DRG00181,K567,"Ileus, unspecified"

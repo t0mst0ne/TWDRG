@@ -1,1 +1,4 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG47502.csv
+DRG,CM-PCS,en
+DRG47502,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+DRG47502,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+DRG47502,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

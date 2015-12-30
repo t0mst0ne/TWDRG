@@ -1,0 +1,72 @@
+DRG,CM-PCS,en
+DRG17931,K5190,"Ulcerative colitis, unspecified, without complications"
+DRG17931,K51911,"Ulcerative colitis, unspecified with rectal bleeding"
+DRG17931,K51912,"Ulcerative colitis, unspecified with intestinal obstruction"
+DRG17931,K51913,"Ulcerative colitis, unspecified with fistula"
+DRG17931,K51914,"Ulcerative colitis, unspecified with abscess"
+DRG17931,K51918,"Ulcerative colitis, unspecified with other complication"
+DRG17931,K51919,"Ulcerative colitis, unspecified with unspecified complications"
+DRG17931,A400,"Sepsis due to streptococcus, group A"
+DRG17931,A401,"Sepsis due to streptococcus, group B"
+DRG17931,A408,Other streptococcal sepsis
+DRG17931,A409,"Streptococcal sepsis, unspecified"
+DRG17931,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG17931,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG17931,R6520,Severe sepsis without septic shock
+DRG17931,A412,Sepsis due to unspecified staphylococcus
+DRG17931,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG17931,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG17931,A411,Sepsis due to other specified staphylococcus
+DRG17931,A403,Sepsis due to Streptococcus pneumoniae
+DRG17931,A414,Sepsis due to anaerobes
+DRG17931,A4150,"Gram-negative sepsis, unspecified"
+DRG17931,A413,Sepsis due to Hemophilus influenzae
+DRG17931,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG17931,A4152,Sepsis due to Pseudomonas
+DRG17931,A4153,Sepsis due to Serratia
+DRG17931,A4159,Other Gram-negative sepsis
+DRG17931,A4181,Sepsis due to Enterococcus
+DRG17931,A4189,Other specified sepsis
+DRG17931,A419,"Sepsis, unspecified organism"
+DRG17931,E440,Moderate protein-calorie malnutrition
+DRG17931,E441,Mild protein-calorie malnutrition
+DRG17931,E45,Retarded development following protein-calorie malnutrition
+DRG17931,E46,Unspecified protein-calorie malnutrition
+DRG17931,E640,Sequelae of protein-calorie malnutrition
+DRG17931,K561,Intussusception
+DRG17931,K560,Paralytic ileus
+DRG17931,K567,"Ileus, unspecified"
+DRG17931,K562,Volvulus
+DRG17931,K5649,Other impaction of intestine
+DRG17931,K563,Gallstone ileus
+DRG17931,K5641,Fecal impaction
+DRG17931,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
+DRG17931,K5669,Other intestinal obstruction
+DRG17931,K5660,Unspecified intestinal obstruction
+DRG17931,K603,Anal fistula
+DRG17931,K604,Rectal fistula
+DRG17931,K605,Anorectal fistula
+DRG17931,K632,Fistula of intestine
+DRG17931,K920,Hematemesis
+DRG17931,K921,Melena
+DRG17931,K922,"Gastrointestinal hemorrhage, unspecified"
+DRG17931,R000,"Tachycardia, unspecified"
+DRG17931,R002,Palpitations
+DRG17931,R010,Benign and innocent cardiac murmurs
+DRG17931,R011,"Cardiac murmur, unspecified"
+DRG17931,R008,Other abnormalities of heart beat
+DRG17931,R009,Unspecified abnormalities of heart beat
+DRG17931,R012,Other cardiac sounds
+DRG17931,I96,"Gangrene, not elsewhere classified"
+DRG17931,R579,"Shock, unspecified"
+DRG17931,R570,Cardiogenic shock
+DRG17931,H49811,"Kearns-Sayre syndrome, right eye"
+DRG17931,H49812,"Kearns-Sayre syndrome, left eye"
+DRG17931,H49813,"Kearns-Sayre syndrome, bilateral"
+DRG17931,R571,Hypovolemic shock
+DRG17931,R578,Other shock
+DRG17931,R6521,Severe sepsis with septic shock
+DRG17931,R590,Localized enlarged lymph nodes
+DRG17931,R591,Generalized enlarged lymph nodes
+DRG17931,R599,"Enlarged lymph nodes, unspecified"
+DRG17931,R0989,Other specified symptoms and signs involving the circulatory and respiratory systems

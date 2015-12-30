@@ -1,0 +1,30 @@
+DRG,CM-PCS,en
+DRG12802,I8010,Phlebitis and thrombophlebitis of unspecified femoral vein
+DRG12802,I8011,Phlebitis and thrombophlebitis of right femoral vein
+DRG12802,I8012,Phlebitis and thrombophlebitis of left femoral vein
+DRG12802,I8013,"Phlebitis and thrombophlebitis of femoral vein, bilateral"
+DRG12802,I80201,Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity
+DRG12802,I80202,Phlebitis and thrombophlebitis of unspecified deep vessels of left lower extremity
+DRG12802,I80203,"Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities, bilateral"
+DRG12802,I80209,Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified lower extremity
+DRG12802,I80211,Phlebitis and thrombophlebitis of right iliac vein
+DRG12802,I80212,Phlebitis and thrombophlebitis of left iliac vein
+DRG12802,I80213,"Phlebitis and thrombophlebitis of iliac vein, bilateral"
+DRG12802,I80219,Phlebitis and thrombophlebitis of unspecified iliac vein
+DRG12802,I80221,Phlebitis and thrombophlebitis of right popliteal vein
+DRG12802,I80222,Phlebitis and thrombophlebitis of left popliteal vein
+DRG12802,I80223,"Phlebitis and thrombophlebitis of popliteal vein, bilateral"
+DRG12802,I80229,Phlebitis and thrombophlebitis of unspecified popliteal vein
+DRG12802,I80231,Phlebitis and thrombophlebitis of right tibial vein
+DRG12802,I80232,Phlebitis and thrombophlebitis of left tibial vein
+DRG12802,I80233,"Phlebitis and thrombophlebitis of tibial vein, bilateral"
+DRG12802,I80239,Phlebitis and thrombophlebitis of unspecified tibial vein
+DRG12802,I80291,Phlebitis and thrombophlebitis of other deep vessels of right lower extremity
+DRG12802,I80292,Phlebitis and thrombophlebitis of other deep vessels of left lower extremity
+DRG12802,I80293,"Phlebitis and thrombophlebitis of other deep vessels of lower extremity, bilateral"
+DRG12802,I80299,Phlebitis and thrombophlebitis of other deep vessels of unspecified lower extremity
+DRG12802,I803,"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+DRG12802,I82220,Acute embolism and thrombosis of inferior vena cava
+DRG12802,I82221,Chronic embolism and thrombosis of inferior vena cava
+DRG12802,3E00003,Anticoagulant  drug therapy
+DRG12802,3E00004,Interventional thrombolytic therapy

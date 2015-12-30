@@ -1,1 +1,11 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG48301.csv
+DRG,CM-PCS,en
+DRG48301,0B110F4,"Bypass Trachea to Cutaneous with Tracheostomy Device, Open Approach"
+DRG48301,0B110Z4,"Bypass Trachea to Cutaneous, Open Approach"
+DRG48301,0B113F4,"Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Approach"
+DRG48301,0B113Z4,"Bypass Trachea to Cutaneous, Percutaneous Approach"
+DRG48301,0B114F4,"Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Endoscopic Approach"
+DRG48301,0B114Z4,"Bypass Trachea to Cutaneous, Percutaneous Endoscopic Approach"
+DRG48301,0CTS0ZZ,"Resection of Larynx, Open Approach"
+DRG48301,0CTS4ZZ,"Resection of Larynx, Percutaneous Endoscopic Approach"
+DRG48301,0CTS7ZZ,"Resection of Larynx, Via Natural or Artificial Opening"
+DRG48301,0CTS8ZZ,"Resection of Larynx, Via Natural or Artificial Opening Endoscopic"

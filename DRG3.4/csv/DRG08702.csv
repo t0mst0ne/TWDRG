@@ -1,1 +1,21 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG08702.csv
+DRG,CM-PCS,en
+DRG08702,J681,"Pulmonary edema due to chemicals, gases, fumes and vapors"
+DRG08702,J80,Acute respiratory distress syndrome
+DRG08702,J951,Acute pulmonary insufficiency following thoracic surgery
+DRG08702,J952,Acute pulmonary insufficiency following nonthoracic surgery
+DRG08702,J953,Chronic pulmonary insufficiency following surgery
+DRG08702,J95821,Acute postprocedural respiratory failure
+DRG08702,J95822,Acute and chronic postprocedural respiratory failure
+DRG08702,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG08702,J9601,Acute respiratory failure with hypoxia
+DRG08702,J9602,Acute respiratory failure with hypercapnia
+DRG08702,J9610,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG08702,J9611,Chronic respiratory failure with hypoxia
+DRG08702,J9612,Chronic respiratory failure with hypercapnia
+DRG08702,J9620,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG08702,J9621,Acute and chronic respiratory failure with hypoxia
+DRG08702,J9622,Acute and chronic respiratory failure with hypercapnia
+DRG08702,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG08702,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG08702,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG08702,J984,Other disorders of lung

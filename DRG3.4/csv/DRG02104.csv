@@ -1,1 +1,5 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG02104.csv
+DRG,CM-PCS,en
+DRG02104,A870,Enteroviral meningitis
+DRG02104,A878,Other viral meningitis
+DRG02104,A879,"Viral meningitis, unspecified"
+DRG02104,G032,Benign recurrent meningitis [Mollaret]

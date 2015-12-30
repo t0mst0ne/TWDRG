@@ -1,1 +1,176 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG04502.csv
+DRG,CM-PCS,en
+DRG04502,A3982,Meningococcal retrobulbar neuritis
+DRG04502,G453,Amaurosis fugax
+DRG04502,H02401,Unspecified ptosis of right eyelid
+DRG04502,H02402,Unspecified ptosis of left eyelid
+DRG04502,H02403,Unspecified ptosis of bilateral eyelids
+DRG04502,H02409,Unspecified ptosis of unspecified eyelid
+DRG04502,H02421,Myogenic ptosis of right eyelid
+DRG04502,H02422,Myogenic ptosis of left eyelid
+DRG04502,H02423,Myogenic ptosis of bilateral eyelids
+DRG04502,H02429,Myogenic ptosis of unspecified eyelid
+DRG04502,H02431,Paralytic ptosis of right eyelid
+DRG04502,H02432,Paralytic ptosis of left eyelid
+DRG04502,H02433,Paralytic ptosis of bilateral eyelids
+DRG04502,H02439,Paralytic ptosis unspecified eyelid
+DRG04502,H05211,"Displacement (lateral) of globe, right eye"
+DRG04502,H05212,"Displacement (lateral) of globe, left eye"
+DRG04502,H05213,"Displacement (lateral) of globe, bilateral"
+DRG04502,H05219,"Displacement (lateral) of globe, unspecified eye"
+DRG04502,H05251,"Intermittent exophthalmos, right eye"
+DRG04502,H05252,"Intermittent exophthalmos, left eye"
+DRG04502,H05253,"Intermittent exophthalmos, bilateral"
+DRG04502,H05259,"Intermittent exophthalmos, unspecified eye"
+DRG04502,H05261,"Pulsating exophthalmos, right eye"
+DRG04502,H05262,"Pulsating exophthalmos, left eye"
+DRG04502,H05263,"Pulsating exophthalmos, bilateral"
+DRG04502,H05269,"Pulsating exophthalmos, unspecified eye"
+DRG04502,H05821,"Myopathy of extraocular muscles, right orbit"
+DRG04502,H05822,"Myopathy of extraocular muscles, left orbit"
+DRG04502,H05823,"Myopathy of extraocular muscles, bilateral"
+DRG04502,H05829,"Myopathy of extraocular muscles, unspecified orbit"
+DRG04502,H3400,"Transient retinal artery occlusion, unspecified eye"
+DRG04502,H3401,"Transient retinal artery occlusion, right eye"
+DRG04502,H3402,"Transient retinal artery occlusion, left eye"
+DRG04502,H3403,"Transient retinal artery occlusion, bilateral"
+DRG04502,H3410,"Central retinal artery occlusion, unspecified eye"
+DRG04502,H3411,"Central retinal artery occlusion, right eye"
+DRG04502,H3412,"Central retinal artery occlusion, left eye"
+DRG04502,H3413,"Central retinal artery occlusion, bilateral"
+DRG04502,H34211,"Partial retinal artery occlusion, right eye"
+DRG04502,H34212,"Partial retinal artery occlusion, left eye"
+DRG04502,H34213,"Partial retinal artery occlusion, bilateral"
+DRG04502,H34219,"Partial retinal artery occlusion, unspecified eye"
+DRG04502,H34231,"Retinal artery branch occlusion, right eye"
+DRG04502,H34232,"Retinal artery branch occlusion, left eye"
+DRG04502,H34233,"Retinal artery branch occlusion, bilateral"
+DRG04502,H34239,"Retinal artery branch occlusion, unspecified eye"
+DRG04502,H34811,"Central retinal vein occlusion, right eye"
+DRG04502,H34812,"Central retinal vein occlusion, left eye"
+DRG04502,H34813,"Central retinal vein occlusion, bilateral"
+DRG04502,H34819,"Central retinal vein occlusion, unspecified eye"
+DRG04502,H34821,"Venous engorgement, right eye"
+DRG04502,H34822,"Venous engorgement, left eye"
+DRG04502,H34823,"Venous engorgement, bilateral"
+DRG04502,H34829,"Venous engorgement, unspecified eye"
+DRG04502,H34831,"Tributary (branch) retinal vein occlusion, right eye"
+DRG04502,H34832,"Tributary (branch) retinal vein occlusion, left eye"
+DRG04502,H34833,"Tributary (branch) retinal vein occlusion, bilateral"
+DRG04502,H34839,"Tributary (branch) retinal vein occlusion, unspecified eye"
+DRG04502,H349,Unspecified retinal vascular occlusion
+DRG04502,H4600,"Optic papillitis, unspecified eye"
+DRG04502,H4601,"Optic papillitis, right eye"
+DRG04502,H4602,"Optic papillitis, left eye"
+DRG04502,H4603,"Optic papillitis, bilateral"
+DRG04502,H4610,"Retrobulbar neuritis, unspecified eye"
+DRG04502,H4611,"Retrobulbar neuritis, right eye"
+DRG04502,H4612,"Retrobulbar neuritis, left eye"
+DRG04502,H4613,"Retrobulbar neuritis, bilateral"
+DRG04502,H462,Nutritional optic neuropathy
+DRG04502,H463,Toxic optic neuropathy
+DRG04502,H468,Other optic neuritis
+DRG04502,H469,Unspecified optic neuritis
+DRG04502,H47011,"Ischemic optic neuropathy, right eye"
+DRG04502,H47012,"Ischemic optic neuropathy, left eye"
+DRG04502,H47013,"Ischemic optic neuropathy, bilateral"
+DRG04502,H47019,"Ischemic optic neuropathy, unspecified eye"
+DRG04502,H47021,"Hemorrhage in optic nerve sheath, right eye"
+DRG04502,H47022,"Hemorrhage in optic nerve sheath, left eye"
+DRG04502,H47023,"Hemorrhage in optic nerve sheath, bilateral"
+DRG04502,H47029,"Hemorrhage in optic nerve sheath, unspecified eye"
+DRG04502,H47031,"Optic nerve hypoplasia, right eye"
+DRG04502,H47032,"Optic nerve hypoplasia, left eye"
+DRG04502,H47033,"Optic nerve hypoplasia, bilateral"
+DRG04502,H47039,"Optic nerve hypoplasia, unspecified eye"
+DRG04502,H47091,"Other disorders of optic nerve, not elsewhere classified, right eye"
+DRG04502,H47092,"Other disorders of optic nerve, not elsewhere classified, left eye"
+DRG04502,H47093,"Other disorders of optic nerve, not elsewhere classified, bilateral"
+DRG04502,H47099,"Other disorders of optic nerve, not elsewhere classified, unspecified eye"
+DRG04502,H4720,Unspecified optic atrophy
+DRG04502,H47211,"Primary optic atrophy, right eye"
+DRG04502,H47212,"Primary optic atrophy, left eye"
+DRG04502,H47213,"Primary optic atrophy, bilateral"
+DRG04502,H47219,"Primary optic atrophy, unspecified eye"
+DRG04502,H4722,Hereditary optic atrophy
+DRG04502,H47321,"Drusen of optic disc, right eye"
+DRG04502,H47322,"Drusen of optic disc, left eye"
+DRG04502,H47323,"Drusen of optic disc, bilateral"
+DRG04502,H47329,"Drusen of optic disc, unspecified eye"
+DRG04502,H47331,"Pseudopapilledema of optic disc, right eye"
+DRG04502,H47332,"Pseudopapilledema of optic disc, left eye"
+DRG04502,H47333,"Pseudopapilledema of optic disc, bilateral"
+DRG04502,H47339,"Pseudopapilledema of optic disc, unspecified eye"
+DRG04502,H4900,"Third [oculomotor] nerve palsy, unspecified eye"
+DRG04502,H4901,"Third [oculomotor] nerve palsy, right eye"
+DRG04502,H4902,"Third [oculomotor] nerve palsy, left eye"
+DRG04502,H4903,"Third [oculomotor] nerve palsy, bilateral"
+DRG04502,H4910,"Fourth [trochlear] nerve palsy, unspecified eye"
+DRG04502,H4911,"Fourth [trochlear] nerve palsy, right eye"
+DRG04502,H4912,"Fourth [trochlear] nerve palsy, left eye"
+DRG04502,H4913,"Fourth [trochlear] nerve palsy, bilateral"
+DRG04502,H4920,"Sixth [abducent] nerve palsy, unspecified eye"
+DRG04502,H4921,"Sixth [abducent] nerve palsy, right eye"
+DRG04502,H4922,"Sixth [abducent] nerve palsy, left eye"
+DRG04502,H4923,"Sixth [abducent] nerve palsy, bilateral"
+DRG04502,H4930,"Total (external) ophthalmoplegia, unspecified eye"
+DRG04502,H4931,"Total (external) ophthalmoplegia, right eye"
+DRG04502,H4932,"Total (external) ophthalmoplegia, left eye"
+DRG04502,H4933,"Total (external) ophthalmoplegia, bilateral"
+DRG04502,H4940,"Progressive external ophthalmoplegia, unspecified eye"
+DRG04502,H4941,"Progressive external ophthalmoplegia, right eye"
+DRG04502,H4942,"Progressive external ophthalmoplegia, left eye"
+DRG04502,H4943,"Progressive external ophthalmoplegia, bilateral"
+DRG04502,H49881,"Other paralytic strabismus, right eye"
+DRG04502,H49882,"Other paralytic strabismus, left eye"
+DRG04502,H49883,"Other paralytic strabismus, bilateral"
+DRG04502,H49889,"Other paralytic strabismus, unspecified eye"
+DRG04502,H499,Unspecified paralytic strabismus
+DRG04502,H5089,Other specified strabismus
+DRG04502,H52511,"Internal ophthalmoplegia (complete) (total), right eye"
+DRG04502,H52512,"Internal ophthalmoplegia (complete) (total), left eye"
+DRG04502,H52513,"Internal ophthalmoplegia (complete) (total), bilateral"
+DRG04502,H52519,"Internal ophthalmoplegia (complete) (total), unspecified eye"
+DRG04502,H53121,"Transient visual loss, right eye"
+DRG04502,H53122,"Transient visual loss, left eye"
+DRG04502,H53123,"Transient visual loss, bilateral"
+DRG04502,H53129,"Transient visual loss, unspecified eye"
+DRG04502,H53131,"Sudden visual loss, right eye"
+DRG04502,H53132,"Sudden visual loss, left eye"
+DRG04502,H53133,"Sudden visual loss, bilateral"
+DRG04502,H53139,"Sudden visual loss, unspecified eye"
+DRG04502,H532,Diplopia
+DRG04502,H5340,Unspecified visual field defects
+DRG04502,H53411,"Scotoma involving central area, right eye"
+DRG04502,H53412,"Scotoma involving central area, left eye"
+DRG04502,H53413,"Scotoma involving central area, bilateral"
+DRG04502,H53419,"Scotoma involving central area, unspecified eye"
+DRG04502,H53431,"Sector or arcuate defects, right eye"
+DRG04502,H53432,"Sector or arcuate defects, left eye"
+DRG04502,H53433,"Sector or arcuate defects, bilateral"
+DRG04502,H53439,"Sector or arcuate defects, unspecified eye"
+DRG04502,H53451,"Other localized visual field defect, right eye"
+DRG04502,H53452,"Other localized visual field defect, left eye"
+DRG04502,H53453,"Other localized visual field defect, bilateral"
+DRG04502,H53459,"Other localized visual field defect, unspecified eye"
+DRG04502,H53461,"Homonymous bilateral field defects, right side"
+DRG04502,H53462,"Homonymous bilateral field defects, left side"
+DRG04502,H53469,"Homonymous bilateral field defects, unspecified side"
+DRG04502,H5347,Heteronymous bilateral field defects
+DRG04502,H53481,"Generalized contraction of visual field, right eye"
+DRG04502,H53482,"Generalized contraction of visual field, left eye"
+DRG04502,H53483,"Generalized contraction of visual field, bilateral"
+DRG04502,H53489,"Generalized contraction of visual field, unspecified eye"
+DRG04502,H5352,Acquired color vision deficiency
+DRG04502,H5500,Unspecified nystagmus
+DRG04502,H5502,Latent nystagmus
+DRG04502,H5504,Dissociated nystagmus
+DRG04502,H5581,Saccadic eye movements
+DRG04502,H5700,Unspecified anomaly of pupillary function
+DRG04502,H5702,Anisocoria
+DRG04502,H5703,Miosis
+DRG04502,H5704,Mydriasis
+DRG04502,H57051,"Tonic pupil, right eye"
+DRG04502,H57052,"Tonic pupil, left eye"
+DRG04502,H57053,"Tonic pupil, bilateral"
+DRG04502,H57059,"Tonic pupil, unspecified eye"
+DRG04502,H5709,Other anomalies of pupillary function

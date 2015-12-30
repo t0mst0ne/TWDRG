@@ -1,1 +1,22 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG39706.csv
+DRG,CM-PCS,en
+DRG39706,D473,Essential (hemorrhagic) thrombocythemia
+DRG39706,D68311,Acquired hemophilia
+DRG39706,D68312,Antiphospholipid antibody with hemorrhagic disorder
+DRG39706,D68318,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors"
+DRG39706,D6832,Hemorrhagic disorder due to extrinsic circulating anticoagulants
+DRG39706,D688,Other specified coagulation defects
+DRG39706,D689,"Coagulation defect, unspecified"
+DRG39706,D690,Allergic purpura
+DRG39706,D691,Qualitative platelet defects
+DRG39706,D692,Other nonthrombocytopenic purpura
+DRG39706,D693,Immune thrombocytopenic purpura
+DRG39706,D6941,Evans syndrome
+DRG39706,D6942,Congenital and hereditary thrombocytopenia purpura
+DRG39706,D6949,Other primary thrombocytopenia
+DRG39706,D6951,Posttransfusion purpura
+DRG39706,D6959,Other secondary thrombocytopenia
+DRG39706,D696,"Thrombocytopenia, unspecified"
+DRG39706,D698,Other specified hemorrhagic conditions
+DRG39706,D699,"Hemorrhagic condition, unspecified"
+DRG39706,D7582,Heparin induced thrombocytopenia (HIT)
+DRG39706,R233,Spontaneous ecchymoses

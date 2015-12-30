@@ -1,1 +1,16 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG17503.csv
+DRG,CM-PCS,en
+DRG17503,K5521,Angiodysplasia of colon with hemorrhage
+DRG17503,K5701,Diverticulitis of small intestine with perforation and abscess with bleeding
+DRG17503,K5711,Diverticulosis of small intestine without perforation or abscess with bleeding
+DRG17503,K5713,Diverticulitis of small intestine without perforation or abscess with bleeding
+DRG17503,K5721,Diverticulitis of large intestine with perforation and abscess with bleeding
+DRG17503,K5731,Diverticulosis of large intestine without perforation or abscess with bleeding
+DRG17503,K5733,Diverticulitis of large intestine without perforation or abscess with bleeding
+DRG17503,K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding
+DRG17503,K5753,Diverticulitis of both small and large intestine without perforation or abscess with bleeding
+DRG17503,K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding"
+DRG17503,K5791,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding"
+DRG17503,K5793,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding"
+DRG17503,K625,Hemorrhage of anus and rectum
+DRG17503,K921,Melena
+DRG17503,K922,"Gastrointestinal hemorrhage, unspecified"

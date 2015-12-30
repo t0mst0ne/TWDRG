@@ -1,1 +1,6 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00141.csv
+DRG,CM-PCS,en
+DRG00141,I951,Orthostatic hypotension
+DRG00141,I952,Hypotension due to drugs
+DRG00141,I953,Hypotension of hemodialysis
+DRG00141,I9581,Postprocedural hypotension
+DRG00141,R55,Syncope and collapse

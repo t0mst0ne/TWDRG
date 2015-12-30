@@ -1,1 +1,53 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG39804.csv
+DRG,CM-PCS,en
+DRG39804,A182,Tuberculous peripheral lymphadenopathy
+DRG39804,A1885,Tuberculosis of spleen
+DRG39804,A281,Cat-scratch disease
+DRG39804,D800,Hereditary hypogammaglobulinemia
+DRG39804,D801,Nonfamilial hypogammaglobulinemia
+DRG39804,D802,Selective deficiency of immunoglobulin A [IgA]
+DRG39804,D803,Selective deficiency of immunoglobulin G [IgG] subclasses
+DRG39804,D804,Selective deficiency of immunoglobulin M [IgM]
+DRG39804,D805,Immunodeficiency with increased immunoglobulin M [IgM]
+DRG39804,D806,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia
+DRG39804,D807,Transient hypogammaglobulinemia of infancy
+DRG39804,D808,Other immunodeficiencies with predominantly antibody defects
+DRG39804,D809,"Immunodeficiency with predominantly antibody defects, unspecified"
+DRG39804,D810,Severe combined immunodeficiency [SCID] with reticular dysgenesis
+DRG39804,D811,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers
+DRG39804,D812,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers
+DRG39804,D814,Nezelof's syndrome
+DRG39804,D816,Major histocompatibility complex class I deficiency
+DRG39804,D817,Major histocompatibility complex class II deficiency
+DRG39804,D8189,Other combined immunodeficiencies
+DRG39804,D819,"Combined immunodeficiency, unspecified"
+DRG39804,D820,Wiskott-Aldrich syndrome
+DRG39804,D821,Di George's syndrome
+DRG39804,D822,Immunodeficiency with short-limbed stature
+DRG39804,D823,Immunodeficiency following hereditary defective response to Epstein-Barr virus
+DRG39804,D824,Hyperimmunoglobulin E [IgE] syndrome
+DRG39804,D828,Immunodeficiency associated with other specified major defects
+DRG39804,D829,"Immunodeficiency associated with major defect, unspecified"
+DRG39804,D830,Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function
+DRG39804,D831,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders
+DRG39804,D832,Common variable immunodeficiency with autoantibodies to B- or T-cells
+DRG39804,D838,Other common variable immunodeficiencies
+DRG39804,D839,"Common variable immunodeficiency, unspecified"
+DRG39804,D840,Lymphocyte function antigen-1 [LFA-1] defect
+DRG39804,D848,Other specified immunodeficiencies
+DRG39804,D849,"Immunodeficiency, unspecified"
+DRG39804,D893,Immune reconstitution syndrome
+DRG39804,D8989,"Other specified disorders involving the immune mechanism, not elsewhere classified"
+DRG39804,D899,"Disorder involving the immune mechanism, unspecified"
+DRG39804,I881,"Chronic lymphadenitis, except mesenteric"
+DRG39804,I888,Other nonspecific lymphadenitis
+DRG39804,I889,"Nonspecific lymphadenitis, unspecified"
+DRG39804,L040,"Acute lymphadenitis of face, head and neck"
+DRG39804,L041,Acute lymphadenitis of trunk
+DRG39804,L042,Acute lymphadenitis of upper limb
+DRG39804,L043,Acute lymphadenitis of lower limb
+DRG39804,L048,Acute lymphadenitis of other sites
+DRG39804,L049,"Acute lymphadenitis, unspecified"
+DRG39804,R75,Inconclusive laboratory evidence of human immunodeficiency virus [HIV]
+DRG39804,R760,Raised antibody titer
+DRG39804,R768,Other specified abnormal immunological findings in serum
+DRG39804,R769,"Abnormal immunological finding in serum, unspecified"

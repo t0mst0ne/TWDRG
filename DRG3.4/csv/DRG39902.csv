@@ -1,1 +1,39 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG39902.csv
+DRG,CM-PCS,en
+DRG39902,D150,Benign neoplasm of thymus
+DRG39902,D181,"Lymphangioma, any site"
+DRG39902,D360,Benign neoplasm of lymph nodes
+DRG39902,D3A091,Benign carcinoid tumor of the thymus
+DRG39902,D472,Monoclonal gammopathy
+DRG39902,D700,Congenital agranulocytosis
+DRG39902,D701,Agranulocytosis secondary to cancer chemotherapy
+DRG39902,D702,Other drug-induced agranulocytosis
+DRG39902,D703,Neutropenia due to infection
+DRG39902,D704,Cyclic neutropenia
+DRG39902,D708,Other neutropenia
+DRG39902,D709,"Neutropenia, unspecified"
+DRG39902,D71,Functional disorders of polymorphonuclear neutrophils
+DRG39902,D720,Genetic anomalies of leukocytes
+DRG39902,D721,Eosinophilia
+DRG39902,D72810,Lymphocytopenia
+DRG39902,D72819,"Decreased white blood cell count, unspecified"
+DRG39902,D72820,Lymphocytosis (symptomatic)
+DRG39902,D72821,Monocytosis (symptomatic)
+DRG39902,D72822,Plasmacytosis
+DRG39902,D72823,Leukemoid reaction
+DRG39902,D72824,Basophilia
+DRG39902,D72825,Bandemia
+DRG39902,D72828,Other elevated white blood cell count
+DRG39902,D72829,"Elevated white blood cell count, unspecified"
+DRG39902,D7289,Other specified disorders of white blood cells
+DRG39902,D729,"Disorder of white blood cells, unspecified"
+DRG39902,D7381,Neutropenic splenomegaly
+DRG39902,D751,Secondary polycythemia
+DRG39902,D761,Hemophagocytic lymphohistiocytosis
+DRG39902,D762,"Hemophagocytic syndrome, infection-associated"
+DRG39902,D763,Other histiocytosis syndromes
+DRG39902,D890,Polyclonal hypergammaglobulinemia
+DRG39902,D892,"Hypergammaglobulinemia, unspecified"
+DRG39902,E320,Persistent hyperplasia of thymus
+DRG39902,E321,Abscess of thymus
+DRG39902,E328,Other diseases of thymus
+DRG39902,E329,"Disease of thymus, unspecified"

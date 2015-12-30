@@ -1,0 +1,10 @@
+DRG,CM-PCS,en
+DRG08112,A481,Legionnaires' disease
+DRG08112,J150,Pneumonia due to Klebsiella pneumoniae
+DRG08112,J151,Pneumonia due to Pseudomonas
+DRG08112,J1520,"Pneumonia due to staphylococcus, unspecified"
+DRG08112,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
+DRG08112,J1529,Pneumonia due to other staphylococcus
+DRG08112,J155,Pneumonia due to Escherichia coli
+DRG08112,J156,Pneumonia due to other aerobic Gram-negative bacteria
+DRG08112,J158,Pneumonia due to other specified bacteria

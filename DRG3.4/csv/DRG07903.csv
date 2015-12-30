@@ -1,1 +1,20 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG07903.csv
+DRG,CM-PCS,en
+DRG07903,A0222,Salmonella pneumonia
+DRG07903,A065,Amebic lung abscess
+DRG07903,A420,Pulmonary actinomycosis
+DRG07903,A430,Pulmonary nocardiosis
+DRG07903,A481,Legionnaires' disease
+DRG07903,A5272,Syphilis of lung and bronchus
+DRG07903,B012,Varicella pneumonia
+DRG07903,B052,Measles complicated by pneumonia
+DRG07903,J150,Pneumonia due to Klebsiella pneumoniae
+DRG07903,J151,Pneumonia due to Pseudomonas
+DRG07903,J1520,"Pneumonia due to staphylococcus, unspecified"
+DRG07903,J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus
+DRG07903,J1529,Pneumonia due to other staphylococcus
+DRG07903,J155,Pneumonia due to Escherichia coli
+DRG07903,J156,Pneumonia due to other aerobic Gram-negative bacteria
+DRG07903,J158,Pneumonia due to other specified bacteria
+DRG07903,J850,Gangrene and necrosis of lung
+DRG07903,J851,Abscess of lung with pneumonia
+DRG07903,J852,Abscess of lung without pneumonia

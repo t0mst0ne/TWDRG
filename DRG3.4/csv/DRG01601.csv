@@ -1,1 +1,13 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG01601.csv
+DRG,CM-PCS,en
+DRG01601,G9340,"Encephalopathy, unspecified"
+DRG01601,G9341,Metabolic encephalopathy
+DRG01601,G9349,Other encephalopathy
+DRG01601,G9381,Temporal sclerosis
+DRG01601,G9382,Brain death
+DRG01601,G9389,Other specified disorders of brain
+DRG01601,G939,"Disorder of brain, unspecified"
+DRG01601,G968,Other specified disorders of central nervous system
+DRG01601,G969,"Disorder of central nervous system, unspecified"
+DRG01601,G980,"Neurogenic arthritis, not elsewhere classified"
+DRG01601,G988,Other disorders of nervous system
+DRG01601,I6783,Posterior reversible encephalopathy syndrome

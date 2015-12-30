@@ -1,0 +1,667 @@
+DRG,CM-PCS,en
+DRG35905,A1816,Tuberculosis of cervix
+DRG35905,A1817,Tuberculous female pelvic inflammatory disease
+DRG35905,A1818,Tuberculosis of other female genital organs
+DRG35905,A510,Primary genital syphilis
+DRG35905,A5400,"Gonococcal infection of lower genitourinary tract, unspecified"
+DRG35905,A5402,"Gonococcal vulvovaginitis, unspecified"
+DRG35905,A5403,"Gonococcal cervicitis, unspecified"
+DRG35905,A5409,Other gonococcal infection of lower genitourinary tract
+DRG35905,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+DRG35905,A5421,Gonococcal infection of kidney and ureter
+DRG35905,A5424,Gonococcal female pelvic inflammatory disease
+DRG35905,A5429,Other gonococcal genitourinary infections
+DRG35905,A55,Chlamydial lymphogranuloma (venereum)
+DRG35905,A5600,"Chlamydial infection of lower genitourinary tract, unspecified"
+DRG35905,A5601,Chlamydial cystitis and urethritis
+DRG35905,A5602,Chlamydial vulvovaginitis
+DRG35905,A5609,Other chlamydial infection of lower genitourinary tract
+DRG35905,A562,"Chlamydial infection of genitourinary tract, unspecified"
+DRG35905,A568,Sexually transmitted chlamydial infection of other sites
+DRG35905,A57,Chancroid
+DRG35905,A58,Granuloma inguinale
+DRG35905,A5900,"Urogenital trichomoniasis, unspecified"
+DRG35905,A5901,Trichomonal vulvovaginitis
+DRG35905,A5903,Trichomonal cystitis and urethritis
+DRG35905,A5909,Other urogenital trichomoniasis
+DRG35905,A6000,"Herpesviral infection of urogenital system, unspecified"
+DRG35905,A6003,Herpesviral cervicitis
+DRG35905,A6004,Herpesviral vulvovaginitis
+DRG35905,A6009,Herpesviral infection of other urogenital tract
+DRG35905,A601,Herpesviral infection of perianal skin and rectum
+DRG35905,A609,"Anogenital herpesviral infection, unspecified"
+DRG35905,A638,Other specified predominantly sexually transmitted diseases
+DRG35905,A64,Unspecified sexually transmitted disease
+DRG35905,B373,Candidiasis of vulva and vagina
+DRG35905,B3741,Candidal cystitis and urethritis
+DRG35905,B3749,Other urogenital candidiasis
+DRG35905,D060,Carcinoma in situ of endocervix
+DRG35905,D061,Carcinoma in situ of exocervix
+DRG35905,D067,Carcinoma in situ of other parts of cervix
+DRG35905,D069,"Carcinoma in situ of cervix, unspecified"
+DRG35905,D070,Carcinoma in situ of endometrium
+DRG35905,D071,Carcinoma in situ of vulva
+DRG35905,D072,Carcinoma in situ of vagina
+DRG35905,D0730,Carcinoma in situ of unspecified female genital organs
+DRG35905,D0739,Carcinoma in situ of other female genital organs
+DRG35905,D250,Submucous leiomyoma of uterus
+DRG35905,D251,Intramural leiomyoma of uterus
+DRG35905,D252,Subserosal leiomyoma of uterus
+DRG35905,D259,"Leiomyoma of uterus, unspecified"
+DRG35905,D260,Other benign neoplasm of cervix uteri
+DRG35905,D261,Other benign neoplasm of corpus uteri
+DRG35905,D267,Other benign neoplasm of other parts of uterus
+DRG35905,D269,"Other benign neoplasm of uterus, unspecified"
+DRG35905,D270,Benign neoplasm of right ovary
+DRG35905,D271,Benign neoplasm of left ovary
+DRG35905,D279,Benign neoplasm of unspecified ovary
+DRG35905,D280,Benign neoplasm of vulva
+DRG35905,D281,Benign neoplasm of vagina
+DRG35905,D282,Benign neoplasm of uterine tubes and ligaments
+DRG35905,D287,Benign neoplasm of other specified female genital organs
+DRG35905,D289,"Benign neoplasm of female genital organ, unspecified"
+DRG35905,E280,Estrogen excess
+DRG35905,E281,Androgen excess
+DRG35905,E282,Polycystic ovarian syndrome
+DRG35905,E28310,Symptomatic premature menopause
+DRG35905,E28319,Asymptomatic premature menopause
+DRG35905,E2839,Other primary ovarian failure
+DRG35905,E288,Other ovarian dysfunction
+DRG35905,E289,"Ovarian dysfunction, unspecified"
+DRG35905,E8940,Asymptomatic postprocedural ovarian failure
+DRG35905,E8941,Symptomatic postprocedural ovarian failure
+DRG35905,F525,Vaginismus not due to a substance or known physiological condition
+DRG35905,G43821,"Menstrual migraine, not intractable, with status migrainosus"
+DRG35905,G43829,"Menstrual migraine, not intractable, without status migrainosus"
+DRG35905,G43831,"Menstrual migraine, intractable, with status migrainosus"
+DRG35905,G43839,"Menstrual migraine, intractable, without status migrainosus"
+DRG35905,I862,Pelvic varices
+DRG35905,I863,Vulval varices
+DRG35905,L292,Pruritus vulvae
+DRG35905,L293,"Anogenital pruritus, unspecified"
+DRG35905,N341,Nonspecific urethritis
+DRG35905,N393,Stress incontinence (female) (male)
+DRG35905,N7001,Acute salpingitis
+DRG35905,N7002,Acute oophoritis
+DRG35905,N7003,Acute salpingitis and oophoritis
+DRG35905,N7011,Chronic salpingitis
+DRG35905,N7012,Chronic oophoritis
+DRG35905,N7013,Chronic salpingitis and oophoritis
+DRG35905,N7091,"Salpingitis, unspecified"
+DRG35905,N7092,"Oophoritis, unspecified"
+DRG35905,N7093,"Salpingitis and oophoritis, unspecified"
+DRG35905,N710,Acute inflammatory disease of uterus
+DRG35905,N711,Chronic inflammatory disease of uterus
+DRG35905,N719,"Inflammatory disease of uterus, unspecified"
+DRG35905,N72,Inflammatory disease of cervix uteri
+DRG35905,N730,Acute parametritis and pelvic cellulitis
+DRG35905,N731,Chronic parametritis and pelvic cellulitis
+DRG35905,N732,Unspecified parametritis and pelvic cellulitis
+DRG35905,N733,Female acute pelvic peritonitis
+DRG35905,N734,Female chronic pelvic peritonitis
+DRG35905,N735,"Female pelvic peritonitis, unspecified"
+DRG35905,N736,Female pelvic peritoneal adhesions (postinfective)
+DRG35905,N738,Other specified female pelvic inflammatory diseases
+DRG35905,N739,"Female pelvic inflammatory disease, unspecified"
+DRG35905,N750,Cyst of Bartholin's gland
+DRG35905,N751,Abscess of Bartholin's gland
+DRG35905,N758,Other diseases of Bartholin's gland
+DRG35905,N759,"Disease of Bartholin's gland, unspecified"
+DRG35905,N760,Acute vaginitis
+DRG35905,N761,Subacute and chronic vaginitis
+DRG35905,N762,Acute vulvitis
+DRG35905,N763,Subacute and chronic vulvitis
+DRG35905,N764,Abscess of vulva
+DRG35905,N765,Ulceration of vagina
+DRG35905,N766,Ulceration of vulva
+DRG35905,N7681,Mucositis (ulcerative) of vagina and vulva
+DRG35905,N7689,Other specified inflammation of vagina and vulva
+DRG35905,N800,Endometriosis of uterus
+DRG35905,N801,Endometriosis of ovary
+DRG35905,N802,Endometriosis of fallopian tube
+DRG35905,N803,Endometriosis of pelvic peritoneum
+DRG35905,N804,Endometriosis of rectovaginal septum and vagina
+DRG35905,N808,Other endometriosis
+DRG35905,N809,"Endometriosis, unspecified"
+DRG35905,N810,Urethrocele
+DRG35905,N8110,"Cystocele, unspecified"
+DRG35905,N8111,"Cystocele, midline"
+DRG35905,N8112,"Cystocele, lateral"
+DRG35905,N812,Incomplete uterovaginal prolapse
+DRG35905,N813,Complete uterovaginal prolapse
+DRG35905,N814,"Uterovaginal prolapse, unspecified"
+DRG35905,N815,Vaginal enterocele
+DRG35905,N816,Rectocele
+DRG35905,N8181,Perineocele
+DRG35905,N8182,Incompetence or weakening of pubocervical tissue
+DRG35905,N8183,Incompetence or weakening of rectovaginal tissue
+DRG35905,N8184,Pelvic muscle wasting
+DRG35905,N8185,Cervical stump prolapse
+DRG35905,N8189,Other female genital prolapse
+DRG35905,N819,"Female genital prolapse, unspecified"
+DRG35905,N820,Vesicovaginal fistula
+DRG35905,N821,Other female urinary-genital tract fistulae
+DRG35905,N825,Female genital tract-skin fistulae
+DRG35905,N828,Other female genital tract fistulae
+DRG35905,N829,"Female genital tract fistula, unspecified"
+DRG35905,N830,Follicular cyst of ovary
+DRG35905,N831,Corpus luteum cyst
+DRG35905,N8320,Unspecified ovarian cysts
+DRG35905,N8329,Other ovarian cysts
+DRG35905,N8331,Acquired atrophy of ovary
+DRG35905,N8332,Acquired atrophy of fallopian tube
+DRG35905,N8333,Acquired atrophy of ovary and fallopian tube
+DRG35905,N834,Prolapse and hernia of ovary and fallopian tube
+DRG35905,N8351,Torsion of ovary and ovarian pedicle
+DRG35905,N8352,Torsion of fallopian tube
+DRG35905,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube"
+DRG35905,N836,Hematosalpinx
+DRG35905,N837,Hematoma of broad ligament
+DRG35905,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
+DRG35905,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
+DRG35905,N840,Polyp of corpus uteri
+DRG35905,N841,Polyp of cervix uteri
+DRG35905,N842,Polyp of vagina
+DRG35905,N843,Polyp of vulva
+DRG35905,N848,Polyp of other parts of female genital tract
+DRG35905,N849,"Polyp of female genital tract, unspecified"
+DRG35905,N8500,"Endometrial hyperplasia, unspecified"
+DRG35905,N8501,Benign endometrial hyperplasia
+DRG35905,N8502,Endometrial intraepithelial neoplasia [EIN]
+DRG35905,N852,Hypertrophy of uterus
+DRG35905,N853,Subinvolution of uterus
+DRG35905,N854,Malposition of uterus
+DRG35905,N855,Inversion of uterus
+DRG35905,N856,Intrauterine synechiae
+DRG35905,N857,Hematometra
+DRG35905,N858,Other specified noninflammatory disorders of uterus
+DRG35905,N859,"Noninflammatory disorder of uterus, unspecified"
+DRG35905,N86,Erosion and ectropion of cervix uteri
+DRG35905,N870,Mild cervical dysplasia
+DRG35905,N871,Moderate cervical dysplasia
+DRG35905,N879,"Dysplasia of cervix uteri, unspecified"
+DRG35905,N880,Leukoplakia of cervix uteri
+DRG35905,N881,Old laceration of cervix uteri
+DRG35905,N882,Stricture and stenosis of cervix uteri
+DRG35905,N883,Incompetence of cervix uteri
+DRG35905,N884,Hypertrophic elongation of cervix uteri
+DRG35905,N888,Other specified noninflammatory disorders of cervix uteri
+DRG35905,N889,"Noninflammatory disorder of cervix uteri, unspecified"
+DRG35905,N890,Mild vaginal dysplasia
+DRG35905,N891,Moderate vaginal dysplasia
+DRG35905,N893,"Dysplasia of vagina, unspecified"
+DRG35905,N894,Leukoplakia of vagina
+DRG35905,N895,Stricture and atresia of vagina
+DRG35905,N896,Tight hymenal ring
+DRG35905,N897,Hematocolpos
+DRG35905,N898,Other specified noninflammatory disorders of vagina
+DRG35905,N899,"Noninflammatory disorder of vagina, unspecified"
+DRG35905,N900,Mild vulvar dysplasia
+DRG35905,N901,Moderate vulvar dysplasia
+DRG35905,N903,"Dysplasia of vulva, unspecified"
+DRG35905,N904,Leukoplakia of vulva
+DRG35905,N905,Atrophy of vulva
+DRG35905,N906,Hypertrophy of vulva
+DRG35905,N907,Vulvar cyst
+DRG35905,N90810,"Female genital mutilation status, unspecified"
+DRG35905,N90811,Female genital mutilation Type I status
+DRG35905,N90812,Female genital mutilation Type II status
+DRG35905,N90813,Female genital mutilation Type III status
+DRG35905,N90818,Other female genital mutilation status
+DRG35905,N9089,Other specified noninflammatory disorders of vulva and perineum
+DRG35905,N909,"Noninflammatory disorder of vulva and perineum, unspecified"
+DRG35905,N910,Primary amenorrhea
+DRG35905,N911,Secondary amenorrhea
+DRG35905,N912,"Amenorrhea, unspecified"
+DRG35905,N913,Primary oligomenorrhea
+DRG35905,N914,Secondary oligomenorrhea
+DRG35905,N915,"Oligomenorrhea, unspecified"
+DRG35905,N920,Excessive and frequent menstruation with regular cycle
+DRG35905,N921,Excessive and frequent menstruation with irregular cycle
+DRG35905,N922,Excessive menstruation at puberty
+DRG35905,N923,Ovulation bleeding
+DRG35905,N924,Excessive bleeding in the premenopausal period
+DRG35905,N925,Other specified irregular menstruation
+DRG35905,N926,"Irregular menstruation, unspecified"
+DRG35905,N930,Postcoital and contact bleeding
+DRG35905,N938,Other specified abnormal uterine and vaginal bleeding
+DRG35905,N939,"Abnormal uterine and vaginal bleeding, unspecified"
+DRG35905,N940,Mittelschmerz
+DRG35905,N941,Dyspareunia
+DRG35905,N942,Vaginismus
+DRG35905,N943,Premenstrual tension syndrome
+DRG35905,N944,Primary dysmenorrhea
+DRG35905,N945,Secondary dysmenorrhea
+DRG35905,N946,"Dysmenorrhea, unspecified"
+DRG35905,N94810,Vulvar vestibulitis
+DRG35905,N94818,Other vulvodynia
+DRG35905,N94819,"Vulvodynia, unspecified"
+DRG35905,N9489,Other specified conditions associated with female genital organs and menstrual cycle
+DRG35905,N949,Unspecified condition associated with female genital organs and menstrual cycle
+DRG35905,N950,Postmenopausal bleeding
+DRG35905,N951,Menopausal and female climacteric states
+DRG35905,N952,Postmenopausal atrophic vaginitis
+DRG35905,N958,Other specified menopausal and perimenopausal disorders
+DRG35905,N959,Unspecified menopausal and perimenopausal disorder
+DRG35905,N96,Recurrent pregnancy loss
+DRG35905,N970,Female infertility associated with anovulation
+DRG35905,N971,Female infertility of tubal origin
+DRG35905,N972,Female infertility of uterine origin
+DRG35905,N978,Female infertility of other origin
+DRG35905,N979,"Female infertility, unspecified"
+DRG35905,N992,Postprocedural adhesions of vagina
+DRG35905,N993,Prolapse of vaginal vault after hysterectomy
+DRG35905,N9983,Residual ovary syndrome
+DRG35905,Q5001,"Congenital absence of ovary, unilateral"
+DRG35905,Q5002,"Congenital absence of ovary, bilateral"
+DRG35905,Q501,Developmental ovarian cyst
+DRG35905,Q502,Congenital torsion of ovary
+DRG35905,Q5031,Accessory ovary
+DRG35905,Q5032,Ovarian streak
+DRG35905,Q5039,Other congenital malformation of ovary
+DRG35905,Q504,Embryonic cyst of fallopian tube
+DRG35905,Q505,Embryonic cyst of broad ligament
+DRG35905,Q506,Other congenital malformations of fallopian tube and broad ligament
+DRG35905,Q510,Agenesis and aplasia of uterus
+DRG35905,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction
+DRG35905,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction
+DRG35905,Q512,Other doubling of uterus
+DRG35905,Q513,Bicornate uterus
+DRG35905,Q514,Unicornate uterus
+DRG35905,Q515,Agenesis and aplasia of cervix
+DRG35905,Q516,Embryonic cyst of cervix
+DRG35905,Q517,Congenital fistulae between uterus and digestive and urinary tracts
+DRG35905,Q51810,Arcuate uterus
+DRG35905,Q51811,Hypoplasia of uterus
+DRG35905,Q51818,Other congenital malformations of uterus
+DRG35905,Q51820,Cervical duplication
+DRG35905,Q51821,Hypoplasia of cervix
+DRG35905,Q51828,Other congenital malformations of cervix
+DRG35905,Q519,"Congenital malformation of uterus and cervix, unspecified"
+DRG35905,Q520,Congenital absence of vagina
+DRG35905,Q5210,"Doubling of vagina, unspecified"
+DRG35905,Q5211,Transverse vaginal septum
+DRG35905,Q5212,Longitudinal vaginal septum
+DRG35905,Q522,Congenital rectovaginal fistula
+DRG35905,Q523,Imperforate hymen
+DRG35905,Q524,Other congenital malformations of vagina
+DRG35905,Q525,Fusion of labia
+DRG35905,Q526,Congenital malformation of clitoris
+DRG35905,Q5270,Unspecified congenital malformations of vulva
+DRG35905,Q5271,Congenital absence of vulva
+DRG35905,Q5279,Other congenital malformations of vulva
+DRG35905,Q528,Other specified congenital malformations of female genitalia
+DRG35905,Q529,"Congenital malformation of female genitalia, unspecified"
+DRG35905,Q560,"Hermaphroditism, not elsewhere classified"
+DRG35905,Q562,"Female pseudohermaphroditism, not elsewhere classified"
+DRG35905,Q563,"Pseudohermaphroditism, unspecified"
+DRG35905,Q564,"Indeterminate sex, unspecified"
+DRG35905,Q960,"Karyotype 45, X"
+DRG35905,Q961,"Karyotype 46, X iso (Xq)"
+DRG35905,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
+DRG35905,Q963,"Mosaicism, 45, X/46, XX or XY"
+DRG35905,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome"
+DRG35905,Q968,Other variants of Turner's syndrome
+DRG35905,Q969,"Turner's syndrome, unspecified"
+DRG35905,Q970,"Karyotype 47, XXX"
+DRG35905,Q971,Female with more than three X chromosomes
+DRG35905,Q972,"Mosaicism, lines with various numbers of X chromosomes"
+DRG35905,Q973,"Female with 46, XY karyotype"
+DRG35905,Q978,"Other specified sex chromosome abnormalities, female phenotype"
+DRG35905,Q979,"Sex chromosome abnormality, female phenotype, unspecified"
+DRG35905,Q985,"Karyotype 47, XYY"
+DRG35905,Q990,"Chimera 46, XX/46, XY"
+DRG35905,Q991,"46, XX true hermaphrodite"
+DRG35905,Q998,Other specified chromosome abnormalities
+DRG35905,R87610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
+DRG35905,R87611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
+DRG35905,R87612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
+DRG35905,R87613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
+DRG35905,R87614,Cytologic evidence of malignancy on smear of cervix
+DRG35905,R87615,Unsatisfactory cytologic smear of cervix
+DRG35905,R87616,Satisfactory cervical smear but lacking transformation zone
+DRG35905,R87810,Cervical high risk human papillomavirus (HPV) DNA test positive
+DRG35905,R87820,Cervical low risk human papillomavirus (HPV) DNA test positive
+DRG35905,S30202A,"Contusion of unspecified external genital organ, female, initial encounter"
+DRG35905,S3023XA,"Contusion of vagina and vulva, initial encounter"
+DRG35905,S3140XA,"Unspecified open wound of vagina and vulva, initial encounter"
+DRG35905,S3141XA,"Laceration without foreign body of vagina and vulva, initial encounter"
+DRG35905,S3142XA,"Laceration with foreign body of vagina and vulva, initial encounter"
+DRG35905,S3143XA,"Puncture wound without foreign body of vagina and vulva, initial encounter"
+DRG35905,S3144XA,"Puncture wound with foreign body of vagina and vulva, initial encounter"
+DRG35905,S3145XA,"Open bite of vagina and vulva, initial encounter"
+DRG35905,S31502A,"Unspecified open wound of unspecified external genital organs, female, initial encounter"
+DRG35905,S31502S,"Unspecified open wound of unspecified external genital organs, female, sequela"
+DRG35905,S31512A,"Laceration without foreign body of unspecified external genital organs, female, initial encounter"
+DRG35905,S31512S,"Laceration without foreign body of unspecified external genital organs, female, sequela"
+DRG35905,S31522A,"Laceration with foreign body of unspecified external genital organs, female, initial encounter"
+DRG35905,S31522S,"Laceration with foreign body of unspecified external genital organs, female, sequela"
+DRG35905,S31532A,"Puncture wound without foreign body of unspecified external genital organs, female, initial encounter"
+DRG35905,S31532S,"Puncture wound without foreign body of unspecified external genital organs, female, sequela"
+DRG35905,S31542A,"Puncture wound with foreign body of unspecified external genital organs, female, initial encounter"
+DRG35905,S31542S,"Puncture wound with foreign body of unspecified external genital organs, female, sequela"
+DRG35905,S31552A,"Open bite of unspecified external genital organs, female, initial encounter"
+DRG35905,S31552S,"Open bite of unspecified external genital organs, female, sequela"
+DRG35905,S3710XS,"Unspecified injury of ureter, sequela"
+DRG35905,S3712XS,"Contusion of ureter, sequela"
+DRG35905,S3713XS,"Laceration of ureter, sequela"
+DRG35905,S3719XS,"Other injury of ureter, sequela"
+DRG35905,S3720XS,"Unspecified injury of bladder, sequela"
+DRG35905,S3722XS,"Contusion of bladder, sequela"
+DRG35905,S3723XS,"Laceration of bladder, sequela"
+DRG35905,S3729XS,"Other injury of bladder, sequela"
+DRG35905,S3730XS,"Unspecified injury of urethra, sequela"
+DRG35905,S3732XS,"Contusion of urethra, sequela"
+DRG35905,S3733XS,"Laceration of urethra, sequela"
+DRG35905,S3739XS,"Other injury of urethra, sequela"
+DRG35905,S37401A,"Unspecified injury of ovary, unilateral, initial encounter"
+DRG35905,S37401S,"Unspecified injury of ovary, unilateral, sequela"
+DRG35905,S37402A,"Unspecified injury of ovary, bilateral, initial encounter"
+DRG35905,S37402S,"Unspecified injury of ovary, bilateral, sequela"
+DRG35905,S37409A,"Unspecified injury of ovary, unspecified, initial encounter"
+DRG35905,S37409S,"Unspecified injury of ovary, unspecified, sequela"
+DRG35905,S37421A,"Contusion of ovary, unilateral, initial encounter"
+DRG35905,S37421S,"Contusion of ovary, unilateral, sequela"
+DRG35905,S37422A,"Contusion of ovary, bilateral, initial encounter"
+DRG35905,S37422S,"Contusion of ovary, bilateral, sequela"
+DRG35905,S37429A,"Contusion of ovary, unspecified, initial encounter"
+DRG35905,S37429S,"Contusion of ovary, unspecified, sequela"
+DRG35905,S37431A,"Laceration of ovary, unilateral, initial encounter"
+DRG35905,S37431S,"Laceration of ovary, unilateral, sequela"
+DRG35905,S37432A,"Laceration of ovary, bilateral, initial encounter"
+DRG35905,S37432S,"Laceration of ovary, bilateral, sequela"
+DRG35905,S37439A,"Laceration of ovary, unspecified, initial encounter"
+DRG35905,S37439S,"Laceration of ovary, unspecified, sequela"
+DRG35905,S37491A,"Other injury of ovary, unilateral, initial encounter"
+DRG35905,S37491S,"Other injury of ovary, unilateral, sequela"
+DRG35905,S37492A,"Other injury of ovary, bilateral, initial encounter"
+DRG35905,S37492S,"Other injury of ovary, bilateral, sequela"
+DRG35905,S37499A,"Other injury of ovary, unspecified, initial encounter"
+DRG35905,S37499S,"Other injury of ovary, unspecified, sequela"
+DRG35905,S37501A,"Unspecified injury of fallopian tube, unilateral, initial encounter"
+DRG35905,S37501S,"Unspecified injury of fallopian tube, unilateral, sequela"
+DRG35905,S37502A,"Unspecified injury of fallopian tube, bilateral, initial encounter"
+DRG35905,S37502S,"Unspecified injury of fallopian tube, bilateral, sequela"
+DRG35905,S37509A,"Unspecified injury of fallopian tube, unspecified, initial encounter"
+DRG35905,S37509S,"Unspecified injury of fallopian tube, unspecified, sequela"
+DRG35905,S37511A,"Primary blast injury of fallopian tube, unilateral, initial encounter"
+DRG35905,S37511S,"Primary blast injury of fallopian tube, unilateral, sequela"
+DRG35905,S37512A,"Primary blast injury of fallopian tube, bilateral, initial encounter"
+DRG35905,S37512S,"Primary blast injury of fallopian tube, bilateral, sequela"
+DRG35905,S37519A,"Primary blast injury of fallopian tube, unspecified, initial encounter"
+DRG35905,S37519S,"Primary blast injury of fallopian tube, unspecified, sequela"
+DRG35905,S37521A,"Contusion of fallopian tube, unilateral, initial encounter"
+DRG35905,S37521S,"Contusion of fallopian tube, unilateral, sequela"
+DRG35905,S37522A,"Contusion of fallopian tube, bilateral, initial encounter"
+DRG35905,S37522S,"Contusion of fallopian tube, bilateral, sequela"
+DRG35905,S37529A,"Contusion of fallopian tube, unspecified, initial encounter"
+DRG35905,S37529S,"Contusion of fallopian tube, unspecified, sequela"
+DRG35905,S37531A,"Laceration of fallopian tube, unilateral, initial encounter"
+DRG35905,S37531S,"Laceration of fallopian tube, unilateral, sequela"
+DRG35905,S37532A,"Laceration of fallopian tube, bilateral, initial encounter"
+DRG35905,S37532S,"Laceration of fallopian tube, bilateral, sequela"
+DRG35905,S37539A,"Laceration of fallopian tube, unspecified, initial encounter"
+DRG35905,S37539S,"Laceration of fallopian tube, unspecified, sequela"
+DRG35905,S37591A,"Other injury of fallopian tube, unilateral, initial encounter"
+DRG35905,S37591S,"Other injury of fallopian tube, unilateral, sequela"
+DRG35905,S37592A,"Other injury of fallopian tube, bilateral, initial encounter"
+DRG35905,S37592S,"Other injury of fallopian tube, bilateral, sequela"
+DRG35905,S37599A,"Other injury of fallopian tube, unspecified, initial encounter"
+DRG35905,S37599S,"Other injury of fallopian tube, unspecified, sequela"
+DRG35905,S3760XA,"Unspecified injury of uterus, initial encounter"
+DRG35905,S3760XS,"Unspecified injury of uterus, sequela"
+DRG35905,S3762XA,"Contusion of uterus, initial encounter"
+DRG35905,S3762XS,"Contusion of uterus, sequela"
+DRG35905,S3763XA,"Laceration of uterus, initial encounter"
+DRG35905,S3763XS,"Laceration of uterus, sequela"
+DRG35905,S3769XA,"Other injury of uterus, initial encounter"
+DRG35905,S3769XS,"Other injury of uterus, sequela"
+DRG35905,S37812S,"Contusion of adrenal gland, sequela"
+DRG35905,S37813S,"Laceration of adrenal gland, sequela"
+DRG35905,S37818S,"Other injury of adrenal gland, sequela"
+DRG35905,S37819S,"Unspecified injury of adrenal gland, sequela"
+DRG35905,S37892A,"Contusion of other urinary and pelvic organ, initial encounter"
+DRG35905,S37892S,"Contusion of other urinary and pelvic organ, sequela"
+DRG35905,S37893A,"Laceration of other urinary and pelvic organ, initial encounter"
+DRG35905,S37893S,"Laceration of other urinary and pelvic organ, sequela"
+DRG35905,S37898A,"Other injury of other urinary and pelvic organ, initial encounter"
+DRG35905,S37898S,"Other injury of other urinary and pelvic organ, sequela"
+DRG35905,S37899A,"Unspecified injury of other urinary and pelvic organ, initial encounter"
+DRG35905,S37899S,"Unspecified injury of other urinary and pelvic organ, sequela"
+DRG35905,S3790XA,"Unspecified injury of unspecified urinary and pelvic organ, initial encounter"
+DRG35905,S3790XS,"Unspecified injury of unspecified urinary and pelvic organ, sequela"
+DRG35905,S3792XA,"Contusion of unspecified urinary and pelvic organ, initial encounter"
+DRG35905,S3792XS,"Contusion of unspecified urinary and pelvic organ, sequela"
+DRG35905,S3793XA,"Laceration of unspecified urinary and pelvic organ, initial encounter"
+DRG35905,S3793XS,"Laceration of unspecified urinary and pelvic organ, sequela"
+DRG35905,S3799XA,"Other injury of unspecified urinary and pelvic organ, initial encounter"
+DRG35905,S3799XS,"Other injury of unspecified urinary and pelvic organ, sequela"
+DRG35905,S38002A,"Crushing injury of unspecified external genital organs, female, initial encounter"
+DRG35905,S3803XA,"Crushing injury of vulva, initial encounter"
+DRG35905,S38211A,"Complete traumatic amputation of female external genital organs, initial encounter"
+DRG35905,S38212A,"Partial traumatic amputation of female external genital organs, initial encounter"
+DRG35905,T192XXA,"Foreign body in vulva and vagina, initial encounter"
+DRG35905,T193XXA,"Foreign body in uterus, initial encounter"
+DRG35905,T8331XA,"Breakdown (mechanical) of intrauterine contraceptive device, initial encounter"
+DRG35905,T8332XA,"Displacement of intrauterine contraceptive device, initial encounter"
+DRG35905,T8339XA,"Other mechanical complication of intrauterine contraceptive device, initial encounter"
+DRG35905,Z4002,Encounter for prophylactic removal of ovary
+DRG35905,Z437,Encounter for attention to artificial vagina
+DRG35905,0U524ZZ,"Destruction of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0U574ZZ,"Destruction of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0U774DZ,"Dilation of Bilateral Fallopian Tubes with Intraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0U774ZZ,"Dilation of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0U824ZZ,"Division of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0U9240Z,"Drainage of Bilateral Ovaries with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U924ZX,"Drainage of Bilateral Ovaries, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0U924ZZ,"Drainage of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0U9740Z,"Drainage of Bilateral Fallopian Tubes with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U974ZX,"Drainage of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UB24ZX,"Excision of Bilateral Ovaries, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UB24ZZ,"Excision of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0UB74ZX,"Excision of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UC24ZZ,"Extirpation of Matter from Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0UC74ZZ,"Extirpation of Matter from Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UF74ZZ,"Fragmentation in Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UL74ZZ,"Occlusion of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UM24ZZ,"Reattachment of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0UM74ZZ,"Reattachment of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UN24ZZ,"Release Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0UN74ZZ,"Release Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UQ24ZZ,"Repair Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0UQ74ZZ,"Repair Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0US24ZZ,"Reposition Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0US74ZZ,"Reposition Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UT24ZZ,"Resection of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+DRG35905,0UT2FZZ,"Resection of Bilateral Ovaries, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+DRG35905,0UT74ZZ,"Resection of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+DRG35905,0UT7FZZ,"Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+DRG35905,0UU747Z,"Supplement Bilateral Fallopian Tubes with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU74JZ,"Supplement Bilateral Fallopian Tubes with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU74KZ,"Supplement Bilateral Fallopian Tubes with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,015P4ZZ,"Destruction of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach"
+DRG35905,0DN84ZZ,"Release Small Intestine, Percutaneous Endoscopic Approach"
+DRG35905,0DN94ZZ,"Release Duodenum, Percutaneous Endoscopic Approach"
+DRG35905,0DNA4ZZ,"Release Jejunum, Percutaneous Endoscopic Approach"
+DRG35905,0DNB4ZZ,"Release Ileum, Percutaneous Endoscopic Approach"
+DRG35905,0DNC4ZZ,"Release Ileocecal Valve, Percutaneous Endoscopic Approach"
+DRG35905,0DNE4ZZ,"Release Large Intestine, Percutaneous Endoscopic Approach"
+DRG35905,0DNF4ZZ,"Release Right Large Intestine, Percutaneous Endoscopic Approach"
+DRG35905,0DNG4ZZ,"Release Left Large Intestine, Percutaneous Endoscopic Approach"
+DRG35905,0DNH4ZZ,"Release Cecum, Percutaneous Endoscopic Approach"
+DRG35905,0DNJ4ZZ,"Release Appendix, Percutaneous Endoscopic Approach"
+DRG35905,0DNK4ZZ,"Release Ascending Colon, Percutaneous Endoscopic Approach"
+DRG35905,0DNL4ZZ,"Release Transverse Colon, Percutaneous Endoscopic Approach"
+DRG35905,0DNM4ZZ,"Release Descending Colon, Percutaneous Endoscopic Approach"
+DRG35905,0DNN4ZZ,"Release Sigmoid Colon, Percutaneous Endoscopic Approach"
+DRG35905,0DNS4ZZ,"Release Greater Omentum, Percutaneous Endoscopic Approach"
+DRG35905,0DNT4ZZ,"Release Lesser Omentum, Percutaneous Endoscopic Approach"
+DRG35905,0DNV4ZZ,"Release Mesentery, Percutaneous Endoscopic Approach"
+DRG35905,0DNW4ZZ,"Release Peritoneum, Percutaneous Endoscopic Approach"
+DRG35905,0DQ84ZZ,"Repair Small Intestine, Percutaneous Endoscopic Approach"
+DRG35905,0DQE4ZZ,"Repair Large Intestine, Percutaneous Endoscopic Approach"
+DRG35905,0DQN4ZZ,"Repair Sigmoid Colon, Percutaneous Endoscopic Approach"
+DRG35905,0FN04ZZ,"Release Liver, Percutaneous Endoscopic Approach"
+DRG35905,0FN14ZZ,"Release Right Lobe Liver, Percutaneous Endoscopic Approach"
+DRG35905,0FN24ZZ,"Release Left Lobe Liver, Percutaneous Endoscopic Approach"
+DRG35905,0FN44ZZ,"Release Gallbladder, Percutaneous Endoscopic Approach"
+DRG35905,0FN54ZZ,"Release Right Hepatic Duct, Percutaneous Endoscopic Approach"
+DRG35905,0FN64ZZ,"Release Left Hepatic Duct, Percutaneous Endoscopic Approach"
+DRG35905,0FN84ZZ,"Release Cystic Duct, Percutaneous Endoscopic Approach"
+DRG35905,0FN94ZZ,"Release Common Bile Duct, Percutaneous Endoscopic Approach"
+DRG35905,0FNC4ZZ,"Release Ampulla of Vater, Percutaneous Endoscopic Approach"
+DRG35905,0FND4ZZ,"Release Pancreatic Duct, Percutaneous Endoscopic Approach"
+DRG35905,0FNF4ZZ,"Release Accessory Pancreatic Duct, Percutaneous Endoscopic Approach"
+DRG35905,0FNG4ZZ,"Release Pancreas, Percutaneous Endoscopic Approach"
+DRG35905,0U15475,"Bypass Right Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U15476,"Bypass Right Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U15479,"Bypass Right Fallopian Tube to Uterus with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154J5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154J6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154J9,"Bypass Right Fallopian Tube to Uterus with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154K5,"Bypass Right Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154K6,"Bypass Right Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154K9,"Bypass Right Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U154Z5,"Bypass Right Fallopian Tube to Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U154Z6,"Bypass Right Fallopian Tube to Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U154Z9,"Bypass Right Fallopian Tube to Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0U16475,"Bypass Left Fallopian Tube to Right Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U16476,"Bypass Left Fallopian Tube to Left Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U16479,"Bypass Left Fallopian Tube to Uterus with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164J5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164J6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164J9,"Bypass Left Fallopian Tube to Uterus with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164K5,"Bypass Left Fallopian Tube to Right Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164K6,"Bypass Left Fallopian Tube to Left Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164K9,"Bypass Left Fallopian Tube to Uterus with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0U164Z5,"Bypass Left Fallopian Tube to Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U164Z6,"Bypass Left Fallopian Tube to Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U164Z9,"Bypass Left Fallopian Tube to Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0U504ZZ,"Destruction of Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0U514ZZ,"Destruction of Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0U544ZZ,"Destruction of Uterine Supporting Structure, Percutaneous Endoscopic Approach"
+DRG35905,0U554ZZ,"Destruction of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U564ZZ,"Destruction of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U594ZZ,"Destruction of Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0U5B4ZZ,"Destruction of Endometrium, Percutaneous Endoscopic Approach"
+DRG35905,0U754DZ,"Dilation of Right Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0U754ZZ,"Dilation of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U764DZ,"Dilation of Left Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0U764ZZ,"Dilation of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0U794DZ,"Dilation of Uterus with Intraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0U794ZZ,"Dilation of Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0U804ZZ,"Division of Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0U814ZZ,"Division of Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0U9040Z,"Drainage of Right Ovary with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U904ZX,"Drainage of Right Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0U904ZZ,"Drainage of Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0U9140Z,"Drainage of Left Ovary with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U914ZX,"Drainage of Left Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0U914ZZ,"Drainage of Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0U9540Z,"Drainage of Right Fallopian Tube with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U954ZX,"Drainage of Right Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0U9640Z,"Drainage of Left Fallopian Tube with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U964ZX,"Drainage of Left Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0U9940Z,"Drainage of Uterus with Drainage Device, Percutaneous Endoscopic Approach"
+DRG35905,0U994ZZ,"Drainage of Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0UB04ZX,"Excision of Right Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UB04ZZ,"Excision of Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UB14ZX,"Excision of Left Ovary, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UB14ZZ,"Excision of Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UB44ZZ,"Excision of Uterine Supporting Structure, Percutaneous Endoscopic Approach"
+DRG35905,0UB54ZX,"Excision of Right Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UB54ZZ,"Excision of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UB64ZX,"Excision of Left Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic"
+DRG35905,0UB64ZZ,"Excision of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UB94ZZ,"Excision of Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0UC04ZZ,"Extirpation of Matter from Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UC14ZZ,"Extirpation of Matter from Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UC54ZZ,"Extirpation of Matter from Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UC64ZZ,"Extirpation of Matter from Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UC94ZZ,"Extirpation of Matter from Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0UDN4ZZ,"Extraction of Ova, Percutaneous Endoscopic"
+DRG35905,0UF54ZZ,"Fragmentation in Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UF64ZZ,"Fragmentation in Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UJ34ZZ,"Inspection of Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UJ84ZZ,"Inspection of Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UJD4ZZ,"Inspection of Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UL54CZ,"Occlusion of Right Fallopian Tube with Extraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0UL54DZ,"Occlusion of Right Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0UL54ZZ,"Occlusion of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UL64CZ,"Occlusion of Left Fallopian Tube with Extraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0UL64DZ,"Occlusion of Left Fallopian Tube with Intraluminal Device, Percutaneous Endoscopic Approach"
+DRG35905,0UL64ZZ,"Occlusion of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UM04ZZ,"Reattachment of Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UM14ZZ,"Reattachment of Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UM54ZZ,"Reattachment of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UM64ZZ,"Reattachment of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UN04ZZ,"Release Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UN14ZZ,"Release Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UN54ZZ,"Release Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UN64ZZ,"Release Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP340Z,"Removal of Drainage Device from Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UP343Z,"Removal of Infusion Device from Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UP840Z,"Removal of Drainage Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP843Z,"Removal of Infusion Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP847Z,"Removal of Autologous Tissue Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP84CZ,"Removal of Extraluminal Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP84DZ,"Removal of Intraluminal Device from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP84JZ,"Removal of Synthetic Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UP84KZ,"Removal of Nonautologous Tissue Substitute from Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UPD40Z,"Removal of Drainage Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD41Z,"Removal of Radioactive Element from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD43Z,"Removal of Infusion Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD47Z,"Removal of Autologous Tissue Substitute from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD4DZ,"Removal of Intraluminal Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD4HZ,"Removal of Contraceptive Device from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD4JZ,"Removal of Synthetic Substitute from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UPD4KZ,"Removal of Nonautologous Tissue Substitute from Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UQ04ZZ,"Repair Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UQ14ZZ,"Repair Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UQ54ZZ,"Repair Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UQ63ZZ,"Repair Left Fallopian Tube, Percutaneous Approach"
+DRG35905,0UQ64ZZ,"Repair Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UQ94ZZ,"Repair Uterus, Percutaneous Endoscopic Approach"
+DRG35905,0UQG4ZZ,"Repair Vagina, Percutaneous Endoscopic Approach"
+DRG35905,0US04ZZ,"Reposition Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0US14ZZ,"Reposition Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0US54ZZ,"Reposition Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0US64ZZ,"Reposition Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0USC4ZZ,"Reposition Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UT04ZZ,"Resection of Right Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UT0FZZ,"Resection of Right Ovary, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+DRG35905,0UT14ZZ,"Resection of Left Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UT1FZZ,"Resection of Left Ovary, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+DRG35905,0UT54ZZ,"Resection of Right Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UT5FZZ,"Resection of Right Fallopian Tube, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+DRG35905,0UT64ZZ,"Resection of Left Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UT6FZZ,"Resection of Left Fallopian Tube, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+DRG35905,0UU547Z,"Supplement Right Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU54JZ,"Supplement Right Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU54KZ,"Supplement Right Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU647Z,"Supplement Left Fallopian Tube with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU64JZ,"Supplement Left Fallopian Tube with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UU64KZ,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG35905,0UW340Z,"Revision of Drainage Device in Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UW343Z,"Revision of Infusion Device in Ovary, Percutaneous Endoscopic Approach"
+DRG35905,0UW840Z,"Revision of Drainage Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UW843Z,"Revision of Infusion Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UW847Z,"Revision of Autologous Tissue Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UW84CZ,"Revision of Extraluminal Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UW84DZ,"Revision of Intraluminal Device in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UW84JZ,"Revision of Synthetic Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UW84KZ,"Revision of Nonautologous Tissue Substitute in Fallopian Tube, Percutaneous Endoscopic Approach"
+DRG35905,0UWD40Z,"Revision of Drainage Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD41Z,"Revision of Radioactive Element in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD43Z,"Revision of Infusion Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD47Z,"Revision of Autologous Tissue Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD4DZ,"Revision of Intraluminal Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD4HZ,"Revision of Contraceptive Device in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD4JZ,"Revision of Synthetic Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0UWD4KZ,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach"
+DRG35905,0WJF4ZZ,"Inspection of Abdominal Wall, Percutaneous Endoscopic Approach"
+DRG35905,0WJG4ZZ,"Inspection of Peritoneal Cavity, Percutaneous Endoscopic Approach"
+DRG35905,0WJJ4ZZ,"Inspection of Pelvic Cavity, Percutaneous Endoscopic Approach"
+DRG35905,0WJP4ZZ,"Inspection of Gastrointestinal Tract, Percutaneous Endoscopic Approach"
+DRG35905,0WJR4ZZ,"Inspection of Genitourinary Tract, Percutaneous Endoscopic Approach"
+DRG35905,10T24ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Endoscopic Approach"

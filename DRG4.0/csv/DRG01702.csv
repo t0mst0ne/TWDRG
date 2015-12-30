@@ -1,0 +1,15 @@
+DRG,CM-PCS,en
+DRG01702,G454,Transient global amnesia
+DRG01702,G463,Brain stem stroke syndrome
+DRG01702,G464,Cerebellar stroke syndrome
+DRG01702,G465,Pure motor lacunar syndrome
+DRG01702,G466,Pure sensory lacunar syndrome
+DRG01702,G467,Other lacunar syndromes
+DRG01702,G468,Other vascular syndromes of brain in cerebrovascular diseases
+DRG01702,I672,Cerebral atherosclerosis
+DRG01702,I6781,Acute cerebrovascular insufficiency
+DRG01702,I6782,Cerebral ischemia
+DRG01702,I679,"Cerebrovascular disease, unspecified"
+DRG01702,F000001,Physical Therapy
+DRG01702,F000002,Occupational Therapy
+DRG01702,F000003,Communication Therapy

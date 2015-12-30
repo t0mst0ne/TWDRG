@@ -1,1 +1,29 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG17901.csv
+DRG,CM-PCS,en
+DRG17901,K5000,Crohn's disease of small intestine without complications
+DRG17901,K50011,Crohn's disease of small intestine with rectal bleeding
+DRG17901,K50012,Crohn's disease of small intestine with intestinal obstruction
+DRG17901,K50013,Crohn's disease of small intestine with fistula
+DRG17901,K50014,Crohn's disease of small intestine with abscess
+DRG17901,K50018,Crohn's disease of small intestine with other complication
+DRG17901,K50019,Crohn's disease of small intestine with unspecified complications
+DRG17901,K5010,Crohn's disease of large intestine without complications
+DRG17901,K50111,Crohn's disease of large intestine with rectal bleeding
+DRG17901,K50112,Crohn's disease of large intestine with intestinal obstruction
+DRG17901,K50113,Crohn's disease of large intestine with fistula
+DRG17901,K50114,Crohn's disease of large intestine with abscess
+DRG17901,K50118,Crohn's disease of large intestine with other complication
+DRG17901,K50119,Crohn's disease of large intestine with unspecified complications
+DRG17901,K5080,Crohn's disease of both small and large intestine without complications
+DRG17901,K50811,Crohn's disease of both small and large intestine with rectal bleeding
+DRG17901,K50812,Crohn's disease of both small and large intestine with intestinal obstruction
+DRG17901,K50813,Crohn's disease of both small and large intestine with fistula
+DRG17901,K50814,Crohn's disease of both small and large intestine with abscess
+DRG17901,K50818,Crohn's disease of both small and large intestine with other complication
+DRG17901,K50819,Crohn's disease of both small and large intestine with unspecified complications
+DRG17901,K5090,"Crohn's disease, unspecified, without complications"
+DRG17901,K50911,"Crohn's disease, unspecified, with rectal bleeding"
+DRG17901,K50912,"Crohn's disease, unspecified, with intestinal obstruction"
+DRG17901,K50913,"Crohn's disease, unspecified, with fistula"
+DRG17901,K50914,"Crohn's disease, unspecified, with abscess"
+DRG17901,K50918,"Crohn's disease, unspecified, with other complication"
+DRG17901,K50919,"Crohn's disease, unspecified, with unspecified complications"

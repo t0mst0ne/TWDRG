@@ -1,1 +1,327 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00185.csv
+DRG,CM-PCS,en
+DRG00185,A4852,Wound botulism
+DRG00185,B002,Herpesviral gingivostomatitis and pharyngotonsillitis
+DRG00185,B370,Candidal stomatitis
+DRG00185,B3783,Candidal cheilitis
+DRG00185,D100,Benign neoplasm of lip
+DRG00185,D101,Benign neoplasm of tongue
+DRG00185,D102,Benign neoplasm of floor of mouth
+DRG00185,D1030,Benign neoplasm of unspecified part of mouth
+DRG00185,D1039,Benign neoplasm of other parts of mouth
+DRG00185,D165,Benign neoplasm of lower jaw bone
+DRG00185,K000,Anodontia
+DRG00185,K001,Supernumerary teeth
+DRG00185,K002,Abnormalities of size and form of teeth
+DRG00185,K003,Mottled teeth
+DRG00185,K004,Disturbances in tooth formation
+DRG00185,K005,"Hereditary disturbances in tooth structure, not elsewhere classified"
+DRG00185,K006,Disturbances in tooth eruption
+DRG00185,K007,Teething syndrome
+DRG00185,K008,Other disorders of tooth development
+DRG00185,K009,"Disorder of tooth development, unspecified"
+DRG00185,K010,Embedded teeth
+DRG00185,K011,Impacted teeth
+DRG00185,K023,Arrested dental caries
+DRG00185,K0251,Dental caries on pit and fissure surface limited to enamel
+DRG00185,K0252,Dental caries on pit and fissure surface penetrating into dentin
+DRG00185,K0253,Dental caries on pit and fissure surface penetrating into pulp
+DRG00185,K0261,Dental caries on smooth surface limited to enamel
+DRG00185,K0262,Dental caries on smooth surface penetrating into dentin
+DRG00185,K0263,Dental caries on smooth surface penetrating into pulp
+DRG00185,K027,Dental root caries
+DRG00185,K029,"Dental caries, unspecified"
+DRG00185,K030,Excessive attrition of teeth
+DRG00185,K031,Abrasion of teeth
+DRG00185,K032,Erosion of teeth
+DRG00185,K033,Pathological resorption of teeth
+DRG00185,K034,Hypercementosis
+DRG00185,K035,Ankylosis of teeth
+DRG00185,K036,Deposits [accretions] on teeth
+DRG00185,K037,Posteruptive color changes of dental hard tissues
+DRG00185,K0381,Cracked tooth
+DRG00185,K0389,Other specified diseases of hard tissues of teeth
+DRG00185,K039,"Disease of hard tissues of teeth, unspecified"
+DRG00185,K040,Pulpitis
+DRG00185,K041,Necrosis of pulp
+DRG00185,K042,Pulp degeneration
+DRG00185,K043,Abnormal hard tissue formation in pulp
+DRG00185,K044,Acute apical periodontitis of pulpal origin
+DRG00185,K045,Chronic apical periodontitis
+DRG00185,K046,Periapical abscess with sinus
+DRG00185,K047,Periapical abscess without sinus
+DRG00185,K048,Radicular cyst
+DRG00185,K0490,Unspecified diseases of pulp and periapical tissues
+DRG00185,K0499,Other diseases of pulp and periapical tissues
+DRG00185,K0500,"Acute gingivitis, plaque induced"
+DRG00185,K0501,"Acute gingivitis, non-plaque induced"
+DRG00185,K0510,"Chronic gingivitis, plaque induced"
+DRG00185,K0511,"Chronic gingivitis, non-plaque induced"
+DRG00185,K0520,"Aggressive periodontitis, unspecified"
+DRG00185,K0521,"Aggressive periodontitis, localized"
+DRG00185,K0522,"Aggressive periodontitis, generalized"
+DRG00185,K0530,"Chronic periodontitis, unspecified"
+DRG00185,K0531,"Chronic periodontitis, localized"
+DRG00185,K0532,"Chronic periodontitis, generalized"
+DRG00185,K054,Periodontosis
+DRG00185,K055,Other periodontal diseases
+DRG00185,K056,"Periodontal disease, unspecified"
+DRG00185,K060,Gingival recession
+DRG00185,K061,Gingival enlargement
+DRG00185,K062,Gingival and edentulous alveolar ridge lesions associated with trauma
+DRG00185,K068,Other specified disorders of gingiva and edentulous alveolar ridge
+DRG00185,K069,"Disorder of gingiva and edentulous alveolar ridge, unspecified"
+DRG00185,K080,Exfoliation of teeth due to systemic causes
+DRG00185,K08101,"Complete loss of teeth, unspecified cause, class I"
+DRG00185,K08102,"Complete loss of teeth, unspecified cause, class II"
+DRG00185,K08103,"Complete loss of teeth, unspecified cause, class III"
+DRG00185,K08104,"Complete loss of teeth, unspecified cause, class IV"
+DRG00185,K08109,"Complete loss of teeth, unspecified cause, unspecified class"
+DRG00185,K08111,"Complete loss of teeth due to trauma, class I"
+DRG00185,K08112,"Complete loss of teeth due to trauma, class II"
+DRG00185,K08113,"Complete loss of teeth due to trauma, class III"
+DRG00185,K08114,"Complete loss of teeth due to trauma, class IV"
+DRG00185,K08119,"Complete loss of teeth due to trauma, unspecified class"
+DRG00185,K08121,"Complete loss of teeth due to periodontal diseases, class I"
+DRG00185,K08122,"Complete loss of teeth due to periodontal diseases, class II"
+DRG00185,K08123,"Complete loss of teeth due to periodontal diseases, class III"
+DRG00185,K08124,"Complete loss of teeth due to periodontal diseases, class IV"
+DRG00185,K08129,"Complete loss of teeth due to periodontal diseases, unspecified class"
+DRG00185,K08131,"Complete loss of teeth due to caries, class I"
+DRG00185,K08132,"Complete loss of teeth due to caries, class II"
+DRG00185,K08133,"Complete loss of teeth due to caries, class III"
+DRG00185,K08134,"Complete loss of teeth due to caries, class IV"
+DRG00185,K08139,"Complete loss of teeth due to caries, unspecified class"
+DRG00185,K08191,"Complete loss of teeth due to other specified cause, class I"
+DRG00185,K08192,"Complete loss of teeth due to other specified cause, class II"
+DRG00185,K08193,"Complete loss of teeth due to other specified cause, class III"
+DRG00185,K08194,"Complete loss of teeth due to other specified cause, class IV"
+DRG00185,K08199,"Complete loss of teeth due to other specified cause, unspecified class"
+DRG00185,K0820,Unspecified atrophy of edentulous alveolar ridge
+DRG00185,K0821,Minimal atrophy of the mandible
+DRG00185,K0822,Moderate atrophy of the mandible
+DRG00185,K0823,Severe atrophy of the mandible
+DRG00185,K0824,Minimal atrophy of maxilla
+DRG00185,K0825,Moderate atrophy of the maxilla
+DRG00185,K0826,Severe atrophy of the maxilla
+DRG00185,K083,Retained dental root
+DRG00185,K08401,"Partial loss of teeth, unspecified cause, class I"
+DRG00185,K08402,"Partial loss of teeth, unspecified cause, class II"
+DRG00185,K08403,"Partial loss of teeth, unspecified cause, class III"
+DRG00185,K08404,"Partial loss of teeth, unspecified cause, class IV"
+DRG00185,K08409,"Partial loss of teeth, unspecified cause, unspecified class"
+DRG00185,K08411,"Partial loss of teeth due to trauma, class I"
+DRG00185,K08412,"Partial loss of teeth due to trauma, class II"
+DRG00185,K08413,"Partial loss of teeth due to trauma, class III"
+DRG00185,K08414,"Partial loss of teeth due to trauma, class IV"
+DRG00185,K08419,"Partial loss of teeth due to trauma, unspecified class"
+DRG00185,K08421,"Partial loss of teeth due to periodontal diseases, class I"
+DRG00185,K08422,"Partial loss of teeth due to periodontal diseases, class II"
+DRG00185,K08423,"Partial loss of teeth due to periodontal diseases, class III"
+DRG00185,K08424,"Partial loss of teeth due to periodontal diseases, class IV"
+DRG00185,K08429,"Partial loss of teeth due to periodontal diseases, unspecified class"
+DRG00185,K08431,"Partial loss of teeth due to caries, class I"
+DRG00185,K08432,"Partial loss of teeth due to caries, class II"
+DRG00185,K08433,"Partial loss of teeth due to caries, class III"
+DRG00185,K08434,"Partial loss of teeth due to caries, class IV"
+DRG00185,K08439,"Partial loss of teeth due to caries, unspecified class"
+DRG00185,K08491,"Partial loss of teeth due to other specified cause, class I"
+DRG00185,K08492,"Partial loss of teeth due to other specified cause, class II"
+DRG00185,K08493,"Partial loss of teeth due to other specified cause, class III"
+DRG00185,K08494,"Partial loss of teeth due to other specified cause, class IV"
+DRG00185,K08499,"Partial loss of teeth due to other specified cause, unspecified class"
+DRG00185,K0850,"Unsatisfactory restoration of tooth, unspecified"
+DRG00185,K0851,Open restoration margins of tooth
+DRG00185,K0852,Unrepairable overhanging of dental restorative materials
+DRG00185,K08530,Fractured dental restorative material without loss of material
+DRG00185,K08531,Fractured dental restorative material with loss of material
+DRG00185,K08539,"Fractured dental restorative material, unspecified"
+DRG00185,K0854,Contour of existing restoration of tooth biologically incompatible with oral health
+DRG00185,K0855,Allergy to existing dental restorative material
+DRG00185,K0856,Poor aesthetic of existing restoration of tooth
+DRG00185,K0859,Other unsatisfactory restoration of tooth
+DRG00185,K088,Other specified disorders of teeth and supporting structures
+DRG00185,K089,"Disorder of teeth and supporting structures, unspecified"
+DRG00185,K090,Developmental odontogenic cysts
+DRG00185,K091,Developmental (nonodontogenic) cysts of oral region
+DRG00185,K098,"Other cysts of oral region, not elsewhere classified"
+DRG00185,K099,"Cyst of oral region, unspecified"
+DRG00185,K120,Recurrent oral aphthae
+DRG00185,K121,Other forms of stomatitis
+DRG00185,K122,Cellulitis and abscess of mouth
+DRG00185,K1230,"Oral mucositis (ulcerative), unspecified"
+DRG00185,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy
+DRG00185,K1232,Oral mucositis (ulcerative) due to other drugs
+DRG00185,K1233,Oral mucositis (ulcerative) due to radiation
+DRG00185,K1239,Other oral mucositis (ulcerative)
+DRG00185,K130,Diseases of lips
+DRG00185,K131,Cheek and lip biting
+DRG00185,K1321,"Leukoplakia of oral mucosa, including tongue"
+DRG00185,K1322,Minimal keratinized residual ridge mucosa
+DRG00185,K1323,Excessive keratinized residual ridge mucosa
+DRG00185,K1324,Leukokeratosis nicotina palati
+DRG00185,K1329,"Other disturbances of oral epithelium, including tongue"
+DRG00185,K133,Hairy leukoplakia
+DRG00185,K134,Granuloma and granuloma-like lesions of oral mucosa
+DRG00185,K135,Oral submucous fibrosis
+DRG00185,K136,Irritative hyperplasia of oral mucosa
+DRG00185,K1370,Unspecified lesions of oral mucosa
+DRG00185,K1379,Other lesions of oral mucosa
+DRG00185,K140,Glossitis
+DRG00185,K141,Geographic tongue
+DRG00185,K142,Median rhomboid glossitis
+DRG00185,K143,Hypertrophy of tongue papillae
+DRG00185,K144,Atrophy of tongue papillae
+DRG00185,K145,Plicated tongue
+DRG00185,K146,Glossodynia
+DRG00185,K148,Other diseases of tongue
+DRG00185,K149,"Disease of tongue, unspecified"
+DRG00185,M2600,Unspecified anomaly of jaw size
+DRG00185,M2601,Maxillary hyperplasia
+DRG00185,M2602,Maxillary hypoplasia
+DRG00185,M2603,Mandibular hyperplasia
+DRG00185,M2604,Mandibular hypoplasia
+DRG00185,M2605,Macrogenia
+DRG00185,M2606,Microgenia
+DRG00185,M2607,Excessive tuberosity of jaw
+DRG00185,M2609,Other specified anomalies of jaw size
+DRG00185,M2610,Unspecified anomaly of jaw-cranial base relationship
+DRG00185,M2611,Maxillary asymmetry
+DRG00185,M2612,Other jaw asymmetry
+DRG00185,M2619,Other specified anomalies of jaw-cranial base relationship
+DRG00185,M2620,Unspecified anomaly of dental arch relationship
+DRG00185,M26211,"Malocclusion, Angle's class I"
+DRG00185,M26212,"Malocclusion, Angle's class II"
+DRG00185,M26213,"Malocclusion, Angle's class III"
+DRG00185,M26219,"Malocclusion, Angle's class, unspecified"
+DRG00185,M26220,Open anterior occlusal relationship
+DRG00185,M26221,Open posterior occlusal relationship
+DRG00185,M2623,Excessive horizontal overlap
+DRG00185,M2624,Reverse articulation
+DRG00185,M2625,Anomalies of interarch distance
+DRG00185,M2629,Other anomalies of dental arch relationship
+DRG00185,M2630,Unspecified anomaly of tooth position of fully erupted tooth or teeth
+DRG00185,M2631,Crowding of fully erupted teeth
+DRG00185,M2632,Excessive spacing of fully erupted teeth
+DRG00185,M2633,Horizontal displacement of fully erupted tooth or teeth
+DRG00185,M2634,Vertical displacement of fully erupted tooth or teeth
+DRG00185,M2635,Rotation of fully erupted tooth or teeth
+DRG00185,M2636,Insufficient interocclusal distance of fully erupted teeth (ridge)
+DRG00185,M2637,Excessive interocclusal distance of fully erupted teeth
+DRG00185,M2639,Other anomalies of tooth position of fully erupted tooth or teeth
+DRG00185,M264,"Malocclusion, unspecified"
+DRG00185,M2650,"Dentofacial functional abnormalities, unspecified"
+DRG00185,M2651,Abnormal jaw closure
+DRG00185,M2652,Limited mandibular range of motion
+DRG00185,M2653,Deviation in opening and closing of the mandible
+DRG00185,M2654,Insufficient anterior guidance
+DRG00185,M2655,Centric occlusion maximum intercuspation discrepancy
+DRG00185,M2656,Non-working side interference
+DRG00185,M2657,Lack of posterior occlusal support
+DRG00185,M2659,Other dentofacial functional abnormalities
+DRG00185,M2660,"Temporomandibular joint disorder, unspecified"
+DRG00185,M2661,Adhesions and ankylosis of temporomandibular joint
+DRG00185,M2662,Arthralgia of temporomandibular joint
+DRG00185,M2663,Articular disc disorder of temporomandibular joint
+DRG00185,M2669,Other specified disorders of temporomandibular joint
+DRG00185,M2670,Unspecified alveolar anomaly
+DRG00185,M2671,Alveolar maxillary hyperplasia
+DRG00185,M2672,Alveolar mandibular hyperplasia
+DRG00185,M2673,Alveolar maxillary hypoplasia
+DRG00185,M2674,Alveolar mandibular hypoplasia
+DRG00185,M2679,Other specified alveolar anomalies
+DRG00185,M2681,Anterior soft tissue impingement
+DRG00185,M2682,Posterior soft tissue impingement
+DRG00185,M2689,Other dentofacial anomalies
+DRG00185,M269,"Dentofacial anomaly, unspecified"
+DRG00185,M270,Developmental disorders of jaws
+DRG00185,M271,"Giant cell granuloma, central"
+DRG00185,M272,Inflammatory conditions of jaws
+DRG00185,M273,Alveolitis of jaws
+DRG00185,M2740,Unspecified cyst of jaw
+DRG00185,M2749,Other cysts of jaw
+DRG00185,M2751,Perforation of root canal space due to endodontic treatment
+DRG00185,M2752,Endodontic overfill
+DRG00185,M2753,Endodontic underfill
+DRG00185,M2759,Other periradicular pathology associated with previous endodontic treatment
+DRG00185,M2761,Osseointegration failure of dental implant
+DRG00185,M2762,Post-osseointegration biological failure of dental implant
+DRG00185,M2763,Post-osseointegration mechanical failure of dental implant
+DRG00185,M2769,Other endosseous dental implant failure
+DRG00185,M278,Other specified diseases of jaws
+DRG00185,M279,"Disease of jaws, unspecified"
+DRG00185,Q184,Macrostomia
+DRG00185,Q185,Microstomia
+DRG00185,Q186,Macrocheilia
+DRG00185,Q187,Microcheilia
+DRG00185,Q351,Cleft hard palate
+DRG00185,Q353,Cleft soft palate
+DRG00185,Q355,Cleft hard palate with cleft soft palate
+DRG00185,Q357,Cleft uvula
+DRG00185,Q359,"Cleft palate, unspecified"
+DRG00185,Q360,"Cleft lip, bilateral"
+DRG00185,Q361,"Cleft lip, median"
+DRG00185,Q369,"Cleft lip, unilateral"
+DRG00185,Q370,Cleft hard palate with bilateral cleft lip
+DRG00185,Q371,Cleft hard palate with unilateral cleft lip
+DRG00185,Q372,Cleft soft palate with bilateral cleft lip
+DRG00185,Q373,Cleft soft palate with unilateral cleft lip
+DRG00185,Q374,Cleft hard and soft palate with bilateral cleft lip
+DRG00185,Q375,Cleft hard and soft palate with unilateral cleft lip
+DRG00185,Q378,Unspecified cleft palate with bilateral cleft lip
+DRG00185,Q379,Unspecified cleft palate with unilateral cleft lip
+DRG00185,Q380,"Congenital malformations of lips, not elsewhere classified"
+DRG00185,Q381,Ankyloglossia
+DRG00185,Q382,Macroglossia
+DRG00185,Q383,Other congenital malformations of tongue
+DRG00185,Q386,Other congenital malformations of mouth
+DRG00185,R6884,Jaw pain
+DRG00185,S01501A,"Unspecified open wound of lip, initial encounter"
+DRG00185,S01502A,"Unspecified open wound of oral cavity, initial encounter"
+DRG00185,S01511A,"Laceration without foreign body of lip, initial encounter"
+DRG00185,S01512A,"Laceration without foreign body of oral cavity, initial encounter"
+DRG00185,S01521A,"Laceration with foreign body of lip, initial encounter"
+DRG00185,S01522A,"Laceration with foreign body of oral cavity, initial encounter"
+DRG00185,S01531A,"Puncture wound without foreign body of lip, initial encounter"
+DRG00185,S01532A,"Puncture wound without foreign body of oral cavity, initial encounter"
+DRG00185,S01541A,"Puncture wound with foreign body of lip, initial encounter"
+DRG00185,S01542A,"Puncture wound with foreign body of oral cavity, initial encounter"
+DRG00185,S01551A,"Open bite of lip, initial encounter"
+DRG00185,S01552A,"Open bite of oral cavity, initial encounter"
+DRG00185,S02400A,"Malar fracture unspecified, initial encounter for closed fracture"
+DRG00185,S02400B,"Malar fracture unspecified, initial encounter for open fracture"
+DRG00185,S02401A,"Maxillary fracture, unspecified, initial encounter for closed fracture"
+DRG00185,S02401B,"Maxillary fracture, unspecified, initial encounter for open fracture"
+DRG00185,S02402A,"Zygomatic fracture, unspecified, initial encounter for closed fracture"
+DRG00185,S02402B,"Zygomatic fracture, unspecified, initial encounter for open fracture"
+DRG00185,S02411A,"LeFort I fracture, initial encounter for closed fracture"
+DRG00185,S02411B,"LeFort I fracture, initial encounter for open fracture"
+DRG00185,S02412A,"LeFort II fracture, initial encounter for closed fracture"
+DRG00185,S02412B,"LeFort II fracture, initial encounter for open fracture"
+DRG00185,S02413A,"LeFort III fracture, initial encounter for closed fracture"
+DRG00185,S02413B,"LeFort III fracture, initial encounter for open fracture"
+DRG00185,S025XXA,"Fracture of tooth (traumatic), initial encounter for closed fracture"
+DRG00185,S025XXB,"Fracture of tooth (traumatic), initial encounter for open fracture"
+DRG00185,S02600A,"Fracture of unspecified part of body of mandible, initial encounter for closed fracture"
+DRG00185,S02600B,"Fracture of unspecified part of body of mandible, initial encounter for open fracture"
+DRG00185,S02609A,"Fracture of mandible, unspecified, initial encounter for closed fracture"
+DRG00185,S02609B,"Fracture of mandible, unspecified, initial encounter for open fracture"
+DRG00185,S0261XA,"Fracture of condylar process of mandible, initial encounter for closed fracture"
+DRG00185,S0261XB,"Fracture of condylar process of mandible, initial encounter for open fracture"
+DRG00185,S0262XA,"Fracture of subcondylar process of mandible, initial encounter for closed fracture"
+DRG00185,S0262XB,"Fracture of subcondylar process of mandible, initial encounter for open fracture"
+DRG00185,S0263XA,"Fracture of coronoid process of mandible, initial encounter for closed fracture"
+DRG00185,S0263XB,"Fracture of coronoid process of mandible, initial encounter for open fracture"
+DRG00185,S0264XA,"Fracture of ramus of mandible, initial encounter for closed fracture"
+DRG00185,S0264XB,"Fracture of ramus of mandible, initial encounter for open fracture"
+DRG00185,S0265XA,"Fracture of angle of mandible, initial encounter for closed fracture"
+DRG00185,S0265XB,"Fracture of angle of mandible, initial encounter for open fracture"
+DRG00185,S0266XA,"Fracture of symphysis of mandible, initial encounter for closed fracture"
+DRG00185,S0266XB,"Fracture of symphysis of mandible, initial encounter for open fracture"
+DRG00185,S0267XA,"Fracture of alveolus of mandible, initial encounter for closed fracture"
+DRG00185,S0267XB,"Fracture of alveolus of mandible, initial encounter for open fracture"
+DRG00185,S0269XA,"Fracture of mandible of other specified site, initial encounter for closed fracture"
+DRG00185,S0269XB,"Fracture of mandible of other specified site, initial encounter for open fracture"
+DRG00185,S030XXA,"Dislocation of jaw, initial encounter"
+DRG00185,S032XXA,"Dislocation of tooth, initial encounter"
+DRG00185,S034XXA,"Sprain of jaw, initial encounter"
+DRG00185,T180XXA,"Foreign body in mouth, initial encounter"

@@ -1,1 +1,53 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG02003.csv
+DRG,CM-PCS,en
+DRG02003,A0221,Salmonella meningitis
+DRG02003,A390,Meningococcal meningitis
+DRG02003,A3981,Meningococcal encephalitis
+DRG02003,A5040,"Late congenital neurosyphilis, unspecified"
+DRG02003,A5041,Late congenital syphilitic meningitis
+DRG02003,A5042,Late congenital syphilitic encephalitis
+DRG02003,A5043,Late congenital syphilitic polyneuropathy
+DRG02003,A5045,Juvenile general paresis
+DRG02003,A5049,Other late congenital neurosyphilis
+DRG02003,A5141,Secondary syphilitic meningitis
+DRG02003,A5213,Late syphilitic meningitis
+DRG02003,A5214,Late syphilitic encephalitis
+DRG02003,A522,Asymptomatic neurosyphilis
+DRG02003,A800,"Acute paralytic poliomyelitis, vaccine-associated"
+DRG02003,A801,"Acute paralytic poliomyelitis, wild virus, imported"
+DRG02003,A802,"Acute paralytic poliomyelitis, wild virus, indigenous"
+DRG02003,A8030,"Acute paralytic poliomyelitis, unspecified"
+DRG02003,A8039,Other acute paralytic poliomyelitis
+DRG02003,A809,"Acute poliomyelitis, unspecified"
+DRG02003,A820,Sylvatic rabies
+DRG02003,A821,Urban rabies
+DRG02003,A829,"Rabies, unspecified"
+DRG02003,A830,Japanese encephalitis
+DRG02003,A831,Western equine encephalitis
+DRG02003,A832,Eastern equine encephalitis
+DRG02003,A833,St Louis encephalitis
+DRG02003,A834,Australian encephalitis
+DRG02003,A835,California encephalitis
+DRG02003,A836,Rocio virus disease
+DRG02003,A838,Other mosquito-borne viral encephalitis
+DRG02003,A839,"Mosquito-borne viral encephalitis, unspecified"
+DRG02003,A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
+DRG02003,A841,Central European tick-borne encephalitis
+DRG02003,A848,Other tick-borne viral encephalitis
+DRG02003,A849,"Tick-borne viral encephalitis, unspecified"
+DRG02003,A850,Enteroviral encephalitis
+DRG02003,A851,Adenoviral encephalitis
+DRG02003,A852,"Arthropod-borne viral encephalitis, unspecified"
+DRG02003,A858,Other specified viral encephalitis
+DRG02003,A86,Unspecified viral encephalitis
+DRG02003,A888,Other specified viral infections of central nervous system
+DRG02003,A89,Unspecified viral infection of central nervous system
+DRG02003,A922,Venezuelan equine fever
+DRG02003,B004,Herpesviral encephalitis
+DRG02003,B0111,Varicella encephalitis and encephalomyelitis
+DRG02003,B050,Measles complicated by encephalitis
+DRG02003,B0601,Rubella encephalitis
+DRG02003,B0602,Rubella meningitis
+DRG02003,B0609,Other neurological complications of rubella
+DRG02003,B1001,Human herpesvirus 6 encephalitis
+DRG02003,B1009,Other human herpesvirus encephalitis
+DRG02003,B262,Mumps encephalitis

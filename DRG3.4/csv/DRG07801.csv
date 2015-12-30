@@ -1,1 +1,7 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG07801.csv
+DRG,CM-PCS,en
+DRG07801,I2692,Saddle embolus of pulmonary artery without acute cor pulmonale
+DRG07801,I2699,Other pulmonary embolism without acute cor pulmonale
+DRG07801,I2782,Chronic pulmonary embolism
+DRG07801,T790XXA,"Air embolism (traumatic), initial encounter"
+DRG07801,T791XXA,"Fat embolism (traumatic), initial encounter"
+DRG07801,T800XXA,"Air embolism following infusion, transfusion and therapeutic injection, initial encounter"

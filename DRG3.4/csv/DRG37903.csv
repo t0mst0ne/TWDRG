@@ -1,1 +1,6 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG37903.csv
+DRG,CM-PCS,en
+DRG37903,O208,Other hemorrhage in early pregnancy
+DRG37903,O209,"Hemorrhage in early pregnancy, unspecified"
+DRG37903,O6000,"Preterm labor without delivery, unspecified trimester"
+DRG37903,O6002,"Preterm labor without delivery, second trimester"
+DRG37903,O6003,"Preterm labor without delivery, third trimester"

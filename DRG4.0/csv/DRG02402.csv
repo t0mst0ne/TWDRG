@@ -1,0 +1,29 @@
+DRG,CM-PCS,en
+DRG02402,G40109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus"
+DRG02402,G40009,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus"
+DRG02402,G40019,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus"
+DRG02402,G40119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus"
+DRG02402,G40209,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus"
+DRG02402,G40219,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus"
+DRG02402,G40309,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+DRG02402,G40319,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus"
+DRG02402,G40409,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+DRG02402,G40419,"Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus"
+DRG02402,G40509,"Epileptic seizures related to external causes, not intractable, without status epilepticus"
+DRG02402,G40802,"Other epilepsy, not intractable, without status epilepticus"
+DRG02402,G40804,"Other epilepsy, intractable, without status epilepticus"
+DRG02402,G40812,"Lennox-Gastaut syndrome, not intractable, without status epilepticus"
+DRG02402,G40814,"Lennox-Gastaut syndrome, intractable, without status epilepticus"
+DRG02402,G40822,"Epileptic spasms, not intractable, without status epilepticus"
+DRG02402,G40824,"Epileptic spasms, intractable, without status epilepticus"
+DRG02402,G4089,Other seizures
+DRG02402,G40909,"Epilepsy, unspecified, not intractable, without status epilepticus"
+DRG02402,G40919,"Epilepsy, unspecified, intractable, without status epilepticus"
+DRG02402,G40A09,"Absence epileptic syndrome, not intractable, without status epilepticus"
+DRG02402,G40A19,"Absence epileptic syndrome, intractable, without status epilepticus"
+DRG02402,G40B09,"Juvenile myoclonic epilepsy, not intractable, without status epilepticus"
+DRG02402,G40B19,"Juvenile myoclonic epilepsy, intractable, without status epilepticus"
+DRG02402,R5600,Simple febrile convulsions
+DRG02402,R5601,Complex febrile convulsions
+DRG02402,R561,Post traumatic seizures
+DRG02402,R569,Unspecified convulsions

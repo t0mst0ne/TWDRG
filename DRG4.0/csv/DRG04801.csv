@@ -1,0 +1,16 @@
+DRG,CM-PCS,en
+DRG04801,B0050,"Herpesviral ocular disease, unspecified"
+DRG04801,B0051,Herpesviral iridocyclitis
+DRG04801,B0052,Herpesviral keratitis
+DRG04801,B0053,Herpesviral conjunctivitis
+DRG04801,B0059,Other herpesviral disease of eye
+DRG04801,B0230,"Zoster ocular disease, unspecified"
+DRG04801,B0231,Zoster conjunctivitis
+DRG04801,B0232,Zoster iridocyclitis
+DRG04801,B0233,Zoster keratitis
+DRG04801,B0234,Zoster scleritis
+DRG04801,B0239,Other herpes zoster eye disease
+DRG04801,H30811,"Harada's disease, right eye"
+DRG04801,H30812,"Harada's disease, left eye"
+DRG04801,H30813,"Harada's disease, bilateral"
+DRG04801,H30819,"Harada's disease, unspecified eye"

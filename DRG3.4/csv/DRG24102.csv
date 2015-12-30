@@ -1,1 +1,122 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG24102.csv
+DRG,CM-PCS,en
+DRG24102,D8982,Autoimmune lymphoproliferative syndrome [ALPS]
+DRG24102,E850,Non-neuropathic heredofamilial amyloidosis
+DRG24102,E851,Neuropathic heredofamilial amyloidosis
+DRG24102,E852,"Heredofamilial amyloidosis, unspecified"
+DRG24102,E853,Secondary systemic amyloidosis
+DRG24102,E854,Organ-limited amyloidosis
+DRG24102,E858,Other amyloidosis
+DRG24102,E859,"Amyloidosis, unspecified"
+DRG24102,I776,"Arteritis, unspecified"
+DRG24102,M0520,Rheumatoid vasculitis with rheumatoid arthritis of unspecified site
+DRG24102,M05211,Rheumatoid vasculitis with rheumatoid arthritis of right shoulder
+DRG24102,M05212,Rheumatoid vasculitis with rheumatoid arthritis of left shoulder
+DRG24102,M05219,Rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder
+DRG24102,M05221,Rheumatoid vasculitis with rheumatoid arthritis of right elbow
+DRG24102,M05222,Rheumatoid vasculitis with rheumatoid arthritis of left elbow
+DRG24102,M05229,Rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow
+DRG24102,M05231,Rheumatoid vasculitis with rheumatoid arthritis of right wrist
+DRG24102,M05232,Rheumatoid vasculitis with rheumatoid arthritis of left wrist
+DRG24102,M05239,Rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist
+DRG24102,M05241,Rheumatoid vasculitis with rheumatoid arthritis of right hand
+DRG24102,M05242,Rheumatoid vasculitis with rheumatoid arthritis of left hand
+DRG24102,M05249,Rheumatoid vasculitis with rheumatoid arthritis of unspecified hand
+DRG24102,M05251,Rheumatoid vasculitis with rheumatoid arthritis of right hip
+DRG24102,M05252,Rheumatoid vasculitis with rheumatoid arthritis of left hip
+DRG24102,M05259,Rheumatoid vasculitis with rheumatoid arthritis of unspecified hip
+DRG24102,M05261,Rheumatoid vasculitis with rheumatoid arthritis of right knee
+DRG24102,M05262,Rheumatoid vasculitis with rheumatoid arthritis of left knee
+DRG24102,M05269,Rheumatoid vasculitis with rheumatoid arthritis of unspecified knee
+DRG24102,M05271,Rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot
+DRG24102,M05272,Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot
+DRG24102,M05279,Rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot
+DRG24102,M0529,Rheumatoid vasculitis with rheumatoid arthritis of multiple sites
+DRG24102,M0530,Rheumatoid heart disease with rheumatoid arthritis of unspecified site
+DRG24102,M05311,Rheumatoid heart disease with rheumatoid arthritis of right shoulder
+DRG24102,M05312,Rheumatoid heart disease with rheumatoid arthritis of left shoulder
+DRG24102,M05319,Rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder
+DRG24102,M05321,Rheumatoid heart disease with rheumatoid arthritis of right elbow
+DRG24102,M05322,Rheumatoid heart disease with rheumatoid arthritis of left elbow
+DRG24102,M05329,Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow
+DRG24102,M05331,Rheumatoid heart disease with rheumatoid arthritis of right wrist
+DRG24102,M05332,Rheumatoid heart disease with rheumatoid arthritis of left wrist
+DRG24102,M05339,Rheumatoid heart disease with rheumatoid arthritis of unspecified wrist
+DRG24102,M05341,Rheumatoid heart disease with rheumatoid arthritis of right hand
+DRG24102,M05342,Rheumatoid heart disease with rheumatoid arthritis of left hand
+DRG24102,M05349,Rheumatoid heart disease with rheumatoid arthritis of unspecified hand
+DRG24102,M05351,Rheumatoid heart disease with rheumatoid arthritis of right hip
+DRG24102,M05352,Rheumatoid heart disease with rheumatoid arthritis of left hip
+DRG24102,M05359,Rheumatoid heart disease with rheumatoid arthritis of unspecified hip
+DRG24102,M05361,Rheumatoid heart disease with rheumatoid arthritis of right knee
+DRG24102,M05362,Rheumatoid heart disease with rheumatoid arthritis of left knee
+DRG24102,M05369,Rheumatoid heart disease with rheumatoid arthritis of unspecified knee
+DRG24102,M05371,Rheumatoid heart disease with rheumatoid arthritis of right ankle and foot
+DRG24102,M05372,Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot
+DRG24102,M05379,Rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot
+DRG24102,M0539,Rheumatoid heart disease with rheumatoid arthritis of multiple sites
+DRG24102,M0560,Rheumatoid arthritis of unspecified site with involvement of other organs and systems
+DRG24102,M05611,Rheumatoid arthritis of right shoulder with involvement of other organs and systems
+DRG24102,M05612,Rheumatoid arthritis of left shoulder with involvement of other organs and systems
+DRG24102,M05619,Rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems
+DRG24102,M05621,Rheumatoid arthritis of right elbow with involvement of other organs and systems
+DRG24102,M05622,Rheumatoid arthritis of left elbow with involvement of other organs and systems
+DRG24102,M05629,Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems
+DRG24102,M05631,Rheumatoid arthritis of right wrist with involvement of other organs and systems
+DRG24102,M05632,Rheumatoid arthritis of left wrist with involvement of other organs and systems
+DRG24102,M05639,Rheumatoid arthritis of unspecified wrist with involvement of other organs and systems
+DRG24102,M05641,Rheumatoid arthritis of right hand with involvement of other organs and systems
+DRG24102,M05642,Rheumatoid arthritis of left hand with involvement of other organs and systems
+DRG24102,M05649,Rheumatoid arthritis of unspecified hand with involvement of other organs and systems
+DRG24102,M05651,Rheumatoid arthritis of right hip with involvement of other organs and systems
+DRG24102,M05652,Rheumatoid arthritis of left hip with involvement of other organs and systems
+DRG24102,M05659,Rheumatoid arthritis of unspecified hip with involvement of other organs and systems
+DRG24102,M05661,Rheumatoid arthritis of right knee with involvement of other organs and systems
+DRG24102,M05662,Rheumatoid arthritis of left knee with involvement of other organs and systems
+DRG24102,M05669,Rheumatoid arthritis of unspecified knee with involvement of other organs and systems
+DRG24102,M05671,Rheumatoid arthritis of right ankle and foot with involvement of other organs and systems
+DRG24102,M05672,Rheumatoid arthritis of left ankle and foot with involvement of other organs and systems
+DRG24102,M05679,Rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems
+DRG24102,M0569,Rheumatoid arthritis of multiple sites with involvement of other organs and systems
+DRG24102,M300,Polyarteritis nodosa
+DRG24102,M302,Juvenile polyarteritis
+DRG24102,M303,Mucocutaneous lymph node syndrome [Kawasaki]
+DRG24102,M308,Other conditions related to polyarteritis nodosa
+DRG24102,M310,Hypersensitivity angiitis
+DRG24102,M311,Thrombotic microangiopathy
+DRG24102,M314,Aortic arch syndrome [Takayasu]
+DRG24102,M315,Giant cell arteritis with polymyalgia rheumatica
+DRG24102,M316,Other giant cell arteritis
+DRG24102,M317,Microscopic polyangiitis
+DRG24102,M3300,"Juvenile dermatopolymyositis, organ involvement unspecified"
+DRG24102,M3301,Juvenile dermatopolymyositis with respiratory involvement
+DRG24102,M3302,Juvenile dermatopolymyositis with myopathy
+DRG24102,M3309,Juvenile dermatopolymyositis with other organ involvement
+DRG24102,M3310,"Other dermatopolymyositis, organ involvement unspecified"
+DRG24102,M3311,Other dermatopolymyositis with respiratory involvement
+DRG24102,M3312,Other dermatopolymyositis with myopathy
+DRG24102,M3319,Other dermatopolymyositis with other organ involvement
+DRG24102,M3320,"Polymyositis, organ involvement unspecified"
+DRG24102,M3321,Polymyositis with respiratory involvement
+DRG24102,M3322,Polymyositis with myopathy
+DRG24102,M3329,Polymyositis with other organ involvement
+DRG24102,M3390,"Dermatopolymyositis, unspecified, organ involvement unspecified"
+DRG24102,M3391,"Dermatopolymyositis, unspecified with respiratory involvement"
+DRG24102,M3392,"Dermatopolymyositis, unspecified with myopathy"
+DRG24102,M3399,"Dermatopolymyositis, unspecified with other organ involvement"
+DRG24102,M340,Progressive systemic sclerosis
+DRG24102,M341,CR(E)ST syndrome
+DRG24102,M342,Systemic sclerosis induced by drug and chemical
+DRG24102,M3482,Systemic sclerosis with myopathy
+DRG24102,M3489,Other systemic sclerosis
+DRG24102,M349,"Systemic sclerosis, unspecified"
+DRG24102,M3500,"Sicca syndrome, unspecified"
+DRG24102,M3501,Sicca syndrome with keratoconjunctivitis
+DRG24102,M3502,Sicca syndrome with lung involvement
+DRG24102,M3503,Sicca syndrome with myopathy
+DRG24102,M3504,Sicca syndrome with tubulo-interstitial nephropathy
+DRG24102,M3509,Sicca syndrome with other organ involvement
+DRG24102,M351,Other overlap syndromes
+DRG24102,M352,Behcet's disease
+DRG24102,M355,Multifocal fibrosclerosis
+DRG24102,M358,Other specified systemic involvement of connective tissue
+DRG24102,M359,"Systemic involvement of connective tissue, unspecified"

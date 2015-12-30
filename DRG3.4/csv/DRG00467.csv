@@ -1,1 +1,127 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00467.csv
+DRG,CM-PCS,en
+DRG00467,P002,Newborn (suspected to be) affected by maternal infectious and parasitic diseases
+DRG00467,P003,Newborn (suspected to be) affected by other maternal circulatory and respiratory diseases
+DRG00467,P0089,Newborn (suspected to be) affected by other maternal conditions
+DRG00467,Q899,"Congenital malformation, unspecified"
+DRG00467,Q920,"Whole chromosome trisomy, nonmosaicism (meiotic nondisjunction)"
+DRG00467,Q921,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)"
+DRG00467,Q922,Partial trisomy
+DRG00467,Q925,Duplications with other complex rearrangements
+DRG00467,Q9261,Marker chromosomes in normal individual
+DRG00467,Q9262,Marker chromosomes in abnormal individual
+DRG00467,Q927,Triploidy and polyploidy
+DRG00467,Q928,Other specified trisomies and partial trisomies of autosomes
+DRG00467,Q929,"Trisomy and partial trisomy of autosomes, unspecified"
+DRG00467,Q930,"Whole chromosome monosomy, nonmosaicism (meiotic nondisjunction)"
+DRG00467,Q931,"Whole chromosome monosomy, mosaicism (mitotic nondisjunction)"
+DRG00467,Q932,"Chromosome replaced with ring, dicentric or isochromosome"
+DRG00467,Q950,Balanced translocation and insertion in normal individual
+DRG00467,Q951,Chromosome inversion in normal individual
+DRG00467,Q952,Balanced autosomal rearrangement in abnormal individual
+DRG00467,Q953,Balanced sex/autosomal rearrangement in abnormal individual
+DRG00467,Q955,Individual with autosomal fragile site
+DRG00467,Q958,Other balanced rearrangements and structural markers
+DRG00467,Q959,"Balanced rearrangement and structural marker, unspecified"
+DRG00467,Q999,"Chromosomal abnormality, unspecified"
+DRG00467,R448,Other symptoms and signs involving general sensations and perceptions
+DRG00467,R449,Unspecified symptoms and signs involving general sensations and perceptions
+DRG00467,R453,Demoralization and apathy
+DRG00467,R460,Very low level of personal hygiene
+DRG00467,R461,Bizarre personal appearance
+DRG00467,R462,Strange and inexplicable behavior
+DRG00467,R463,Overactivity
+DRG00467,R464,Slowness and poor responsiveness
+DRG00467,R465,Suspiciousness and marked evasiveness
+DRG00467,R466,Undue concern and preoccupation with stressful events
+DRG00467,R467,Verbosity and circumstantial detail obscuring reason for contact
+DRG00467,R6813,Apparent life threatening event in infant (ALTE)
+DRG00467,R6819,Other nonspecific symptoms peculiar to infancy
+DRG00467,R6882,Decreased libido
+DRG00467,R69,"Illness, unspecified"
+DRG00467,R99,Ill-defined and unknown cause of mortality
+DRG00467,Z006,Encounter for examination for normal comparison and control in clinical research program
+DRG00467,Z0100,Encounter for examination of eyes and vision without abnormal findings
+DRG00467,Z0101,Encounter for examination of eyes and vision with abnormal findings
+DRG00467,Z01411,Encounter for gynecological examination (general) (routine) with abnormal findings
+DRG00467,Z01419,Encounter for gynecological examination (general) (routine) without abnormal findings
+DRG00467,Z0142,Encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear
+DRG00467,Z01810,Encounter for preprocedural cardiovascular examination
+DRG00467,Z01811,Encounter for preprocedural respiratory examination
+DRG00467,Z021,Encounter for pre-employment examination
+DRG00467,Z023,Encounter for examination for recruitment to armed forces
+DRG00467,Z0281,Encounter for paternity testing
+DRG00467,Z0283,Encounter for blood-alcohol and blood-drug test
+DRG00467,Z036,Encounter for observation for suspected toxic effect from ingested substance ruled out
+DRG00467,Z03810,Encounter for observation for suspected exposure to anthrax ruled out
+DRG00467,Z03818,Encounter for observation for suspected exposure to other biological agents ruled out
+DRG00467,Z0441,Encounter for examination and observation following alleged adult rape
+DRG00467,Z0442,Encounter for examination and observation following alleged child rape
+DRG00467,Z046,"Encounter for general psychiatric examination, requested by authority"
+DRG00467,Z0471,Encounter for examination and observation following alleged adult physical abuse
+DRG00467,Z0472,Encounter for examination and observation following alleged child physical abuse
+DRG00467,Z125,Encounter for screening for malignant neoplasm of prostate
+DRG00467,Z2001,Contact with and (suspected) exposure to intestinal infectious diseases due to Escherichia coli (E. coli)
+DRG00467,Z205,Contact with and (suspected) exposure to viral hepatitis
+DRG00467,Z206,Contact with and (suspected) exposure to human immunodeficiency virus [HIV]
+DRG00467,Z20811,Contact with and (suspected) exposure to meningococcus
+DRG00467,Z20820,Contact with and (suspected) exposure to varicella
+DRG00467,Z20828,Contact with and (suspected) exposure to other viral communicable diseases
+DRG00467,Z3200,"Encounter for pregnancy test, result unknown"
+DRG00467,Z3201,"Encounter for pregnancy test, result positive"
+DRG00467,Z3202,"Encounter for pregnancy test, result negative"
+DRG00467,Z4000,Encounter for prophylactic removal of unspecified organ
+DRG00467,Z4009,Encounter for prophylactic removal of other organ
+DRG00467,Z418,Encounter for other procedures for purposes other than remedying health state
+DRG00467,Z438,Encounter for attention to other artificial openings
+DRG00467,Z4420,"Encounter for fitting and adjustment of artificial eye, unspecified"
+DRG00467,Z4421,Encounter for fitting and adjustment of artificial right eye
+DRG00467,Z4422,Encounter for fitting and adjustment of artificial left eye
+DRG00467,Z4430,"Encounter for fitting and adjustment of external breast prosthesis, unspecified breast"
+DRG00467,Z4431,Encounter for fitting and adjustment of external right breast prosthesis
+DRG00467,Z4432,Encounter for fitting and adjustment of external left breast prosthesis
+DRG00467,Z4531,Encounter for adjustment and management of implanted visual substitution device
+DRG00467,Z45320,Encounter for adjustment and management of bone conduction device
+DRG00467,Z45321,Encounter for adjustment and management of cochlear device
+DRG00467,Z45328,Encounter for adjustment and management of other implanted hearing device
+DRG00467,Z4541,Encounter for adjustment and management of cerebrospinal fluid drainage device
+DRG00467,Z4542,Encounter for adjustment and management of neuropacemaker (brain) (peripheral nerve) (spinal cord)
+DRG00467,Z4549,Encounter for adjustment and management of other implanted nervous system device
+DRG00467,Z45811,Encounter for adjustment or removal of right breast implant
+DRG00467,Z45812,Encounter for adjustment or removal of left breast implant
+DRG00467,Z45819,Encounter for adjustment or removal of unspecified breast implant
+DRG00467,Z462,Encounter for fitting and adjustment of other devices related to nervous system and special senses
+DRG00467,Z463,Encounter for fitting and adjustment of dental prosthetic device
+DRG00467,Z52000,"Unspecified donor, whole blood"
+DRG00467,Z52001,"Unspecified donor, stem cells"
+DRG00467,Z52008,"Unspecified donor, other blood"
+DRG00467,Z52010,"Autologous donor, whole blood"
+DRG00467,Z52011,"Autologous donor, stem cells"
+DRG00467,Z52018,"Autologous donor, other blood"
+DRG00467,Z52090,"Other blood donor, whole blood"
+DRG00467,Z52091,"Other blood donor, stem cells"
+DRG00467,Z52098,"Other blood donor, other blood"
+DRG00467,Z529,Donor of unspecified organ or tissue
+DRG00467,Z523,Bone marrow donor
+DRG00467,Z525,Cornea donor
+DRG00467,Z5289,Donor of other specified organs or tissues
+DRG00467,Z5301  ,Procedure and treatment not carried out due to patient smoking
+DRG00467,Z5309  ,Procedure and treatment not carried out because of other contraindication
+DRG00467,Z531  ,Procedure and treatment not carried out because of patient's decision for reasons of belief and group pressure
+DRG00467,Z5321  ,Procedure and treatment not carried out due to patient leaving prior to being seen by health care provider
+DRG00467,Z5329  ,Procedure and treatment not carried out because of patient's decision for other reasons
+DRG00467,Z538  ,Procedure and treatment not carried out for other reasons
+DRG00467,Z539  ,"Procedure and treatment not carried out, unspecified reason"
+DRG00467,Z69010,Encounter for mental health services for victim of parental child abuse
+DRG00467,Z69020,Encounter for mental health services for victim of non-parental child abuse
+DRG00467,Z72820,Sleep deprivation
+DRG00467,Z761,Encounter for health supervision and care of foundling
+DRG00467,Z762   ,Encounter for health supervision and care of other healthy infant and child
+DRG00467,Z763,Healthy person accompanying sick person
+DRG00467,Z764,Other boarder to healthcare facility
+DRG00467,Z765,Malingerer [conscious simulation]
+DRG00467,Z9010,Acquired absence of unspecified breast and nipple
+DRG00467,Z9011,Acquired absence of right breast and nipple
+DRG00467,Z9012,Acquired absence of left breast and nipple
+DRG00467,Z9013,Acquired absence of bilateral breasts and nipples
+DRG00467,Z9911,Dependence on respirator [ventilator] status
+DRG00467,Z9912,Encounter for respirator [ventilator] dependence during power failure

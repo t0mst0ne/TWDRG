@@ -1,0 +1,190 @@
+DRG,CM-PCS,en
+DRG00718,D020DZZ,Stereotactic Other Photon Radiosurgery of Brain
+DRG00718,D020HZZ,Stereotactic Particulate Radiosurgery of Brain
+DRG00718,D020JZZ,Stereotactic Gamma Beam Radiosurgery of Brain
+DRG00718,D021DZZ,Stereotactic Other Photon Radiosurgery of Brain Stem
+DRG00718,D021HZZ,Stereotactic Particulate Radiosurgery of Brain Stem
+DRG00718,D021JZZ,Stereotactic Gamma Beam Radiosurgery of Brain Stem
+DRG00718,D026DZZ,Stereotactic Other Photon Radiosurgery of Spinal Cord
+DRG00718,D026HZZ,Stereotactic Particulate Radiosurgery of Spinal Cord
+DRG00718,D026JZZ,Stereotactic Gamma Beam Radiosurgery of Spinal Cord
+DRG00718,D027DZZ,Stereotactic Other Photon Radiosurgery of Peripheral Nerve
+DRG00718,D027HZZ,Stereotactic Particulate Radiosurgery of Peripheral Nerve
+DRG00718,D027JZZ,Stereotactic Gamma Beam Radiosurgery of Peripheral Nerve
+DRG00718,D720DZZ,Stereotactic Other Photon Radiosurgery of Bone Marrow
+DRG00718,D720HZZ,Stereotactic Particulate Radiosurgery of Bone Marrow
+DRG00718,D720JZZ,Stereotactic Gamma Beam Radiosurgery of Bone Marrow
+DRG00718,D721DZZ,Stereotactic Other Photon Radiosurgery of Thymus
+DRG00718,D721HZZ,Stereotactic Particulate Radiosurgery of Thymus
+DRG00718,D721JZZ,Stereotactic Gamma Beam Radiosurgery of Thymus
+DRG00718,D722DZZ,Stereotactic Other Photon Radiosurgery of Spleen
+DRG00718,D722HZZ,Stereotactic Particulate Radiosurgery of Spleen
+DRG00718,D722JZZ,Stereotactic Gamma Beam Radiosurgery of Spleen
+DRG00718,D723DZZ,Stereotactic Other Photon Radiosurgery of Neck Lymphatics
+DRG00718,D723HZZ,Stereotactic Particulate Radiosurgery of Neck Lymphatics
+DRG00718,D723JZZ,Stereotactic Gamma Beam Radiosurgery of Neck Lymphatics
+DRG00718,D724DZZ,Stereotactic Other Photon Radiosurgery of Axillary Lymphatics
+DRG00718,D724HZZ,Stereotactic Particulate Radiosurgery of Axillary Lymphatics
+DRG00718,D724JZZ,Stereotactic Gamma Beam Radiosurgery of Axillary Lymphatics
+DRG00718,D725DZZ,Stereotactic Other Photon Radiosurgery of Thorax Lymphatics
+DRG00718,D725HZZ,Stereotactic Particulate Radiosurgery of Thorax Lymphatics
+DRG00718,D725JZZ,Stereotactic Gamma Beam Radiosurgery of Thorax Lymphatics
+DRG00718,D726DZZ,Stereotactic Other Photon Radiosurgery of Abdomen Lymphatics
+DRG00718,D726HZZ,Stereotactic Particulate Radiosurgery of Abdomen Lymphatics
+DRG00718,D726JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen Lymphatics
+DRG00718,D727DZZ,Stereotactic Other Photon Radiosurgery of Pelvis Lymphatics
+DRG00718,D727HZZ,Stereotactic Particulate Radiosurgery of Pelvis Lymphatics
+DRG00718,D727JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvis Lymphatics
+DRG00718,D728DZZ,Stereotactic Other Photon Radiosurgery of Inguinal Lymphatics
+DRG00718,D728HZZ,Stereotactic Particulate Radiosurgery of Inguinal Lymphatics
+DRG00718,D728JZZ,Stereotactic Gamma Beam Radiosurgery of Inguinal Lymphatics
+DRG00718,D820DZZ,Stereotactic Other Photon Radiosurgery of Eye
+DRG00718,D820HZZ,Stereotactic Particulate Radiosurgery of Eye
+DRG00718,D820JZZ,Stereotactic Gamma Beam Radiosurgery of Eye
+DRG00718,D920DZZ,Stereotactic Other Photon Radiosurgery of Ear
+DRG00718,D920HZZ,Stereotactic Particulate Radiosurgery of Ear
+DRG00718,D920JZZ,Stereotactic Gamma Beam Radiosurgery of Ear
+DRG00718,D921DZZ,Stereotactic Other Photon Radiosurgery of Nose
+DRG00718,D921HZZ,Stereotactic Particulate Radiosurgery of Nose
+DRG00718,D921JZZ,Stereotactic Gamma Beam Radiosurgery of Nose
+DRG00718,D924DZZ,Stereotactic Other Photon Radiosurgery of Mouth
+DRG00718,D924HZZ,Stereotactic Particulate Radiosurgery of Mouth
+DRG00718,D924JZZ,Stereotactic Gamma Beam Radiosurgery of Mouth
+DRG00718,D925DZZ,Stereotactic Other Photon Radiosurgery of Tongue
+DRG00718,D925HZZ,Stereotactic Particulate Radiosurgery of Tongue
+DRG00718,D925JZZ,Stereotactic Gamma Beam Radiosurgery of Tongue
+DRG00718,D926DZZ,Stereotactic Other Photon Radiosurgery of Salivary Glands
+DRG00718,D926HZZ,Stereotactic Particulate Radiosurgery of Salivary Glands
+DRG00718,D926JZZ,Stereotactic Gamma Beam Radiosurgery of Salivary Glands
+DRG00718,D927DZZ,Stereotactic Other Photon Radiosurgery of Sinuses
+DRG00718,D927HZZ,Stereotactic Particulate Radiosurgery of Sinuses
+DRG00718,D927JZZ,Stereotactic Gamma Beam Radiosurgery of Sinuses
+DRG00718,D928DZZ,Stereotactic Other Photon Radiosurgery of Hard Palate
+DRG00718,D928HZZ,Stereotactic Particulate Radiosurgery of Hard Palate
+DRG00718,D928JZZ,Stereotactic Gamma Beam Radiosurgery of Hard Palate
+DRG00718,D929DZZ,Stereotactic Other Photon Radiosurgery of Soft Palate
+DRG00718,D929HZZ,Stereotactic Particulate Radiosurgery of Soft Palate
+DRG00718,D929JZZ,Stereotactic Gamma Beam Radiosurgery of Soft Palate
+DRG00718,D92BDZZ,Stereotactic Other Photon Radiosurgery of Larynx
+DRG00718,D92BHZZ,Stereotactic Particulate Radiosurgery of Larynx
+DRG00718,D92BJZZ,Stereotactic Gamma Beam Radiosurgery of Larynx
+DRG00718,D92CDZZ,Stereotactic Other Photon Radiosurgery of Pharynx
+DRG00718,D92CHZZ,Stereotactic Particulate Radiosurgery of Pharynx
+DRG00718,D92CJZZ,Stereotactic Gamma Beam Radiosurgery of Pharynx
+DRG00718,D92DDZZ,Stereotactic Other Photon Radiosurgery of Nasopharynx
+DRG00718,D92DHZZ,Stereotactic Particulate Radiosurgery of Nasopharynx
+DRG00718,D92DJZZ,Stereotactic Gamma Beam Radiosurgery of Nasopharynx
+DRG00718,DB20DZZ,Stereotactic Other Photon Radiosurgery of Trachea
+DRG00718,DB20HZZ,Stereotactic Particulate Radiosurgery of Trachea
+DRG00718,DB20JZZ,Stereotactic Gamma Beam Radiosurgery of Trachea
+DRG00718,DB21DZZ,Stereotactic Other Photon Radiosurgery of Bronchus
+DRG00718,DB21HZZ,Stereotactic Particulate Radiosurgery of Bronchus
+DRG00718,DB21JZZ,Stereotactic Gamma Beam Radiosurgery of Bronchus
+DRG00718,DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung
+DRG00718,DB22HZZ,Stereotactic Particulate Radiosurgery of Lung
+DRG00718,DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung
+DRG00718,DB25DZZ,Stereotactic Other Photon Radiosurgery of Pleura
+DRG00718,DB25HZZ,Stereotactic Particulate Radiosurgery of Pleura
+DRG00718,DB25JZZ,Stereotactic Gamma Beam Radiosurgery of Pleura
+DRG00718,DB26DZZ,Stereotactic Other Photon Radiosurgery of Mediastinum
+DRG00718,DB26HZZ,Stereotactic Particulate Radiosurgery of Mediastinum
+DRG00718,DB26JZZ,Stereotactic Gamma Beam Radiosurgery of Mediastinum
+DRG00718,DB27DZZ,Stereotactic Other Photon Radiosurgery of Chest Wall
+DRG00718,DB27HZZ,Stereotactic Particulate Radiosurgery of Chest Wall
+DRG00718,DB27JZZ,Stereotactic Gamma Beam Radiosurgery of Chest Wall
+DRG00718,DB28DZZ,Stereotactic Other Photon Radiosurgery of Diaphragm
+DRG00718,DB28HZZ,Stereotactic Particulate Radiosurgery of Diaphragm
+DRG00718,DB28JZZ,Stereotactic Gamma Beam Radiosurgery of Diaphragm
+DRG00718,DD20DZZ,Stereotactic Other Photon Radiosurgery of Esophagus
+DRG00718,DD20HZZ,Stereotactic Particulate Radiosurgery of Esophagus
+DRG00718,DD20JZZ,Stereotactic Gamma Beam Radiosurgery of Esophagus
+DRG00718,DD21DZZ,Stereotactic Other Photon Radiosurgery of Stomach
+DRG00718,DD21HZZ,Stereotactic Particulate Radiosurgery of Stomach
+DRG00718,DD21JZZ,Stereotactic Gamma Beam Radiosurgery of Stomach
+DRG00718,DD22DZZ,Stereotactic Other Photon Radiosurgery of Duodenum
+DRG00718,DD22HZZ,Stereotactic Particulate Radiosurgery of Duodenum
+DRG00718,DD22JZZ,Stereotactic Gamma Beam Radiosurgery of Duodenum
+DRG00718,DD23DZZ,Stereotactic Other Photon Radiosurgery of Jejunum
+DRG00718,DD23HZZ,Stereotactic Particulate Radiosurgery of Jejunum
+DRG00718,DD23JZZ,Stereotactic Gamma Beam Radiosurgery of Jejunum
+DRG00718,DD24DZZ,Stereotactic Other Photon Radiosurgery of Ileum
+DRG00718,DD24HZZ,Stereotactic Particulate Radiosurgery of Ileum
+DRG00718,DD24JZZ,Stereotactic Gamma Beam Radiosurgery of Ileum
+DRG00718,DD25DZZ,Stereotactic Other Photon Radiosurgery of Colon
+DRG00718,DD25HZZ,Stereotactic Particulate Radiosurgery of Colon
+DRG00718,DD25JZZ,Stereotactic Gamma Beam Radiosurgery of Colon
+DRG00718,DD27DZZ,Stereotactic Other Photon Radiosurgery of Rectum
+DRG00718,DD27HZZ,Stereotactic Particulate Radiosurgery of Rectum
+DRG00718,DD27JZZ,Stereotactic Gamma Beam Radiosurgery of Rectum
+DRG00718,DF20DZZ,Stereotactic Other Photon Radiosurgery of Liver
+DRG00718,DF20HZZ,Stereotactic Particulate Radiosurgery of Liver
+DRG00718,DF20JZZ,Stereotactic Gamma Beam Radiosurgery of Liver
+DRG00718,DF21DZZ,Stereotactic Other Photon Radiosurgery of Gallbladder
+DRG00718,DF21HZZ,Stereotactic Particulate Radiosurgery of Gallbladder
+DRG00718,DF21JZZ,Stereotactic Gamma Beam Radiosurgery of Gallbladder
+DRG00718,DF22DZZ,Stereotactic Other Photon Radiosurgery of Bile Ducts
+DRG00718,DF22HZZ,Stereotactic Particulate Radiosurgery of Bile Ducts
+DRG00718,DF22JZZ,Stereotactic Gamma Beam Radiosurgery of Bile Ducts
+DRG00718,DF23DZZ,Stereotactic Other Photon Radiosurgery of Pancreas
+DRG00718,DF23HZZ,Stereotactic Particulate Radiosurgery of Pancreas
+DRG00718,DF23JZZ,Stereotactic Gamma Beam Radiosurgery of Pancreas
+DRG00718,DG20DZZ,Stereotactic Other Photon Radiosurgery of Pituitary Gland
+DRG00718,DG20HZZ,Stereotactic Particulate Radiosurgery of Pituitary Gland
+DRG00718,DG20JZZ,Stereotactic Gamma Beam Radiosurgery of Pituitary Gland
+DRG00718,DG21DZZ,Stereotactic Other Photon Radiosurgery of Pineal Body
+DRG00718,DG21HZZ,Stereotactic Particulate Radiosurgery of Pineal Body
+DRG00718,DG21JZZ,Stereotactic Gamma Beam Radiosurgery of Pineal Body
+DRG00718,DG22DZZ,Stereotactic Other Photon Radiosurgery of Adrenal Glands
+DRG00718,DG22HZZ,Stereotactic Particulate Radiosurgery of Adrenal Glands
+DRG00718,DG22JZZ,Stereotactic Gamma Beam Radiosurgery of Adrenal Glands
+DRG00718,DG24DZZ,Stereotactic Other Photon Radiosurgery of Parathyroid Glands
+DRG00718,DG24HZZ,Stereotactic Particulate Radiosurgery of Parathyroid Glands
+DRG00718,DG24JZZ,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands
+DRG00718,DG25DZZ,Stereotactic Other Photon Radiosurgery of Thyroid
+DRG00718,DG25HZZ,Stereotactic Particulate Radiosurgery of Thyroid
+DRG00718,DG25JZZ,Stereotactic Gamma Beam Radiosurgery of Thyroid
+DRG00718,DM20DZZ,Stereotactic Other Photon Radiosurgery of Left Breast
+DRG00718,DM20HZZ,Stereotactic Particulate Radiosurgery of Left Breast
+DRG00718,DM20JZZ,Stereotactic Gamma Beam Radiosurgery of Left Breast
+DRG00718,DM21DZZ,Stereotactic Other Photon Radiosurgery of Right Breast
+DRG00718,DM21HZZ,Stereotactic Particulate Radiosurgery of Right Breast
+DRG00718,DM21JZZ,Stereotactic Gamma Beam Radiosurgery of Right Breast
+DRG00718,DT20DZZ,Stereotactic Other Photon Radiosurgery of Kidney
+DRG00718,DT20HZZ,Stereotactic Particulate Radiosurgery of Kidney
+DRG00718,DT20JZZ,Stereotactic Gamma Beam Radiosurgery of Kidney
+DRG00718,DT21DZZ,Stereotactic Other Photon Radiosurgery of Ureter
+DRG00718,DT21HZZ,Stereotactic Particulate Radiosurgery of Ureter
+DRG00718,DT21JZZ,Stereotactic Gamma Beam Radiosurgery of Ureter
+DRG00718,DT22DZZ,Stereotactic Other Photon Radiosurgery of Bladder
+DRG00718,DT22HZZ,Stereotactic Particulate Radiosurgery of Bladder
+DRG00718,DT22JZZ,Stereotactic Gamma Beam Radiosurgery of Bladder
+DRG00718,DT23DZZ,Stereotactic Other Photon Radiosurgery of Urethra
+DRG00718,DT23HZZ,Stereotactic Particulate Radiosurgery of Urethra
+DRG00718,DT23JZZ,Stereotactic Gamma Beam Radiosurgery of Urethra
+DRG00718,DU20DZZ,Stereotactic Other Photon Radiosurgery of Ovary
+DRG00718,DU20HZZ,Stereotactic Particulate Radiosurgery of Ovary
+DRG00718,DU20JZZ,Stereotactic Gamma Beam Radiosurgery of Ovary
+DRG00718,DU21DZZ,Stereotactic Other Photon Radiosurgery of Cervix
+DRG00718,DU21HZZ,Stereotactic Particulate Radiosurgery of Cervix
+DRG00718,DU21JZZ,Stereotactic Gamma Beam Radiosurgery of Cervix
+DRG00718,DU22DZZ,Stereotactic Other Photon Radiosurgery of Uterus
+DRG00718,DU22HZZ,Stereotactic Particulate Radiosurgery of Uterus
+DRG00718,DU22JZZ,Stereotactic Gamma Beam Radiosurgery of Uterus
+DRG00718,DV20DZZ,Stereotactic Other Photon Radiosurgery of Prostate
+DRG00718,DV20HZZ,Stereotactic Particulate Radiosurgery of Prostate
+DRG00718,DV20JZZ,Stereotactic Gamma Beam Radiosurgery of Prostate
+DRG00718,DV21DZZ,Stereotactic Other Photon Radiosurgery of Testis
+DRG00718,DV21HZZ,Stereotactic Particulate Radiosurgery of Testis
+DRG00718,DV21JZZ,Stereotactic Gamma Beam Radiosurgery of Testis
+DRG00718,DW21DZZ,Stereotactic Other Photon Radiosurgery of Head and Neck
+DRG00718,DW21HZZ,Stereotactic Particulate Radiosurgery of Head and Neck
+DRG00718,DW21JZZ,Stereotactic Gamma Beam Radiosurgery of Head and Neck
+DRG00718,DW22DZZ,Stereotactic Other Photon Radiosurgery of Chest
+DRG00718,DW22HZZ,Stereotactic Particulate Radiosurgery of Chest
+DRG00718,DW22JZZ,Stereotactic Gamma Beam Radiosurgery of Chest
+DRG00718,DW23DZZ,Stereotactic Other Photon Radiosurgery of Abdomen
+DRG00718,DW23HZZ,Stereotactic Particulate Radiosurgery of Abdomen
+DRG00718,DW23JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen
+DRG00718,DW26DZZ,Stereotactic Other Photon Radiosurgery of Pelvic Region
+DRG00718,DW26HZZ,Stereotactic Particulate Radiosurgery of Pelvic Region
+DRG00718,DW26JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvic Region

@@ -1,1 +1,12 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG01501.csv
+DRG,CM-PCS,en
+DRG01501,I6501,Occlusion and stenosis of right vertebral artery
+DRG01501,I6502,Occlusion and stenosis of left vertebral artery
+DRG01501,I6503,Occlusion and stenosis of bilateral vertebral arteries
+DRG01501,I6509,Occlusion and stenosis of unspecified vertebral artery
+DRG01501,I651,Occlusion and stenosis of basilar artery
+DRG01501,I6521,Occlusion and stenosis of right carotid artery
+DRG01501,I6522,Occlusion and stenosis of left carotid artery
+DRG01501,I6523,Occlusion and stenosis of bilateral carotid arteries
+DRG01501,I6529,Occlusion and stenosis of unspecified carotid artery
+DRG01501,I658,Occlusion and stenosis of other precerebral arteries
+DRG01501,I659,Occlusion and stenosis of unspecified precerebral artery

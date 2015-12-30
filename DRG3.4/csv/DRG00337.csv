@@ -1,1 +1,7 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00337.csv
+DRG,CM-PCS,en
+DRG00337,0V507ZZ,"Destruction of Prostate, Via Natural or Artificial Opening"
+DRG00337,0V508ZZ,"Destruction of Prostate, Via Natural or Artificial Opening Endoscopic"
+DRG00337,0VB07ZZ,"Excision of Prostate, Via Natural or Artificial Opening"
+DRG00337,0VB08ZZ,"Excision of Prostate, Via Natural or Artificial Opening Endoscopic"
+DRG00337,0VT07ZZ,"Resection of Prostate, Via Natural or Artificial Opening"
+DRG00337,0VT08ZZ,"Resection of Prostate, Via Natural or Artificial Opening Endoscopic"

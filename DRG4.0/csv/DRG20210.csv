@@ -1,0 +1,25 @@
+DRG,CM-PCS,en
+DRG20210,K7010,Alcoholic hepatitis without ascites
+DRG20210,K7011,Alcoholic hepatitis with ascites
+DRG20210,K702,Alcoholic fibrosis and sclerosis of liver
+DRG20210,K7030,Alcoholic cirrhosis of liver without ascites
+DRG20210,K7031,Alcoholic cirrhosis of liver with ascites
+DRG20210,K7040,Alcoholic hepatic failure without coma
+DRG20210,K7041,Alcoholic hepatic failure with coma
+DRG20210,K709,"Alcoholic liver disease, unspecified"
+DRG20210,K740,Hepatic fibrosis
+DRG20210,K741,Hepatic sclerosis
+DRG20210,K742,Hepatic fibrosis with hepatic sclerosis
+DRG20210,K743,Primary biliary cirrhosis
+DRG20210,K744,Secondary biliary cirrhosis
+DRG20210,K745,"Biliary cirrhosis, unspecified"
+DRG20210,K7460,Unspecified cirrhosis of liver
+DRG20210,K7469,Other cirrhosis of liver
+DRG20210,K7210,Chronic hepatic failure without coma
+DRG20210,K7211,Chronic hepatic failure with coma
+DRG20210,K7290,"Hepatic failure, unspecified without coma"
+DRG20210,K767,Hepatorenal syndrome
+DRG20210,K7681,Hepatopulmonary syndrome
+DRG20210,K862,Cyst of pancreas
+DRG20210,K863,Pseudocyst of pancreas
+DRG20210,N179,"Acute kidney failure, unspecified"

@@ -1,1 +1,12 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG01602.csv
+DRG,CM-PCS,en
+DRG01602,G454,Transient global amnesia
+DRG01602,G463,Brain stem stroke syndrome
+DRG01602,G464,Cerebellar stroke syndrome
+DRG01602,G465,Pure motor lacunar syndrome
+DRG01602,G466,Pure sensory lacunar syndrome
+DRG01602,G467,Other lacunar syndromes
+DRG01602,G468,Other vascular syndromes of brain in cerebrovascular diseases
+DRG01602,I672,Cerebral atherosclerosis
+DRG01602,I6781,Acute cerebrovascular insufficiency
+DRG01602,I6782,Cerebral ischemia
+DRG01602,I679,"Cerebrovascular disease, unspecified"

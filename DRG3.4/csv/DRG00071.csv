@@ -1,1 +1,3 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00071.csv
+DRG,CM-PCS,en
+DRG00071,J042,Acute laryngotracheitis
+DRG00071,J050,Acute obstructive laryngitis [croup]

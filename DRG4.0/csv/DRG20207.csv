@@ -1,0 +1,57 @@
+DRG,CM-PCS,en
+DRG20207,K7010,Alcoholic hepatitis without ascites
+DRG20207,K7011,Alcoholic hepatitis with ascites
+DRG20207,K702,Alcoholic fibrosis and sclerosis of liver
+DRG20207,K7030,Alcoholic cirrhosis of liver without ascites
+DRG20207,K7031,Alcoholic cirrhosis of liver with ascites
+DRG20207,K7040,Alcoholic hepatic failure without coma
+DRG20207,K7041,Alcoholic hepatic failure with coma
+DRG20207,K709,"Alcoholic liver disease, unspecified"
+DRG20207,K740,Hepatic fibrosis
+DRG20207,K741,Hepatic sclerosis
+DRG20207,K742,Hepatic fibrosis with hepatic sclerosis
+DRG20207,K743,Primary biliary cirrhosis
+DRG20207,K744,Secondary biliary cirrhosis
+DRG20207,K745,"Biliary cirrhosis, unspecified"
+DRG20207,K7460,Unspecified cirrhosis of liver
+DRG20207,K7469,Other cirrhosis of liver
+DRG20207,J9600,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+DRG20207,J9601,Acute respiratory failure with hypoxia
+DRG20207,J9602,Acute respiratory failure with hypercapnia
+DRG20207,J9690,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+DRG20207,J9691,"Respiratory failure, unspecified with hypoxia"
+DRG20207,J9692,"Respiratory failure, unspecified with hypercapnia"
+DRG20207,A400,"Sepsis due to streptococcus, group A"
+DRG20207,A401,"Sepsis due to streptococcus, group B"
+DRG20207,A403,Sepsis due to Streptococcus pneumoniae
+DRG20207,A408,Other streptococcal sepsis
+DRG20207,A409,"Streptococcal sepsis, unspecified"
+DRG20207,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG20207,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG20207,A411,Sepsis due to other specified staphylococcus
+DRG20207,A412,Sepsis due to unspecified staphylococcus
+DRG20207,A413,Sepsis due to Hemophilus influenzae
+DRG20207,A414,Sepsis due to anaerobes
+DRG20207,A4150,"Gram-negative sepsis, unspecified"
+DRG20207,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG20207,A4152,Sepsis due to Pseudomonas
+DRG20207,A4153,Sepsis due to Serratia
+DRG20207,A4159,Other Gram-negative sepsis
+DRG20207,A4181,Sepsis due to Enterococcus
+DRG20207,A4189,Other specified sepsis
+DRG20207,A419,"Sepsis, unspecified organism"
+DRG20207,B377,Candidal sepsis
+DRG20207,K650,Generalized (acute) peritonitis
+DRG20207,K651,Peritoneal abscess
+DRG20207,K652,Spontaneous bacterial peritonitis
+DRG20207,K653,Choleperitonitis
+DRG20207,K654,Sclerosing mesenteritis
+DRG20207,K658,Other peritonitis
+DRG20207,K659,"Peritonitis, unspecified"
+DRG20207,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+DRG20207,K6811,Postprocedural retroperitoneal abscess
+DRG20207,K6819,Other retroperitoneal abscess
+DRG20207,K689,Other disorders of retroperitoneum
+DRG20207,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG20207,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG20207,R6520,Severe sepsis without septic shock

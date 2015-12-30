@@ -1,1 +1,248 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG27901.csv
+DRG,CM-PCS,en
+DRG27901,A46,Erysipelas
+DRG27901,B781,Cutaneous strongyloidiasis
+DRG27901,E832,Disorders of zinc metabolism
+DRG27901,I891,Lymphangitis
+DRG27901,K122,Cellulitis and abscess of mouth
+DRG27901,L0100,"Impetigo, unspecified"
+DRG27901,L0101,Non-bullous impetigo
+DRG27901,L0102,Bockhart's impetigo
+DRG27901,L0103,Bullous impetigo
+DRG27901,L0109,Other impetigo
+DRG27901,L011,Impetiginization of other dermatoses
+DRG27901,L0201,Cutaneous abscess of face
+DRG27901,L0202,Furuncle of face
+DRG27901,L0203,Carbuncle of face
+DRG27901,L0211,Cutaneous abscess of neck
+DRG27901,L0212,Furuncle of neck
+DRG27901,L0213,Carbuncle of neck
+DRG27901,L02211,Cutaneous abscess of abdominal wall
+DRG27901,L02212,"Cutaneous abscess of back [any part, except buttock]"
+DRG27901,L02213,Cutaneous abscess of chest wall
+DRG27901,L02214,Cutaneous abscess of groin
+DRG27901,L02215,Cutaneous abscess of perineum
+DRG27901,L02216,Cutaneous abscess of umbilicus
+DRG27901,L02219,"Cutaneous abscess of trunk, unspecified"
+DRG27901,L02221,Furuncle of abdominal wall
+DRG27901,L02222,"Furuncle of back [any part, except buttock]"
+DRG27901,L02223,Furuncle of chest wall
+DRG27901,L02224,Furuncle of groin
+DRG27901,L02225,Furuncle of perineum
+DRG27901,L02226,Furuncle of umbilicus
+DRG27901,L02229,"Furuncle of trunk, unspecified"
+DRG27901,L02231,Carbuncle of abdominal wall
+DRG27901,L02232,"Carbuncle of back [any part, except buttock]"
+DRG27901,L02233,Carbuncle of chest wall
+DRG27901,L02234,Carbuncle of groin
+DRG27901,L02235,Carbuncle of perineum
+DRG27901,L02236,Carbuncle of umbilicus
+DRG27901,L02239,"Carbuncle of trunk, unspecified"
+DRG27901,L0231,Cutaneous abscess of buttock
+DRG27901,L0232,Furuncle of buttock
+DRG27901,L0233,Carbuncle of buttock
+DRG27901,L02411,Cutaneous abscess of right axilla
+DRG27901,L02412,Cutaneous abscess of left axilla
+DRG27901,L02413,Cutaneous abscess of right upper limb
+DRG27901,L02414,Cutaneous abscess of left upper limb
+DRG27901,L02415,Cutaneous abscess of right lower limb
+DRG27901,L02416,Cutaneous abscess of left lower limb
+DRG27901,L02419,"Cutaneous abscess of limb, unspecified"
+DRG27901,L02421,Furuncle of right axilla
+DRG27901,L02422,Furuncle of left axilla
+DRG27901,L02423,Furuncle of right upper limb
+DRG27901,L02424,Furuncle of left upper limb
+DRG27901,L02425,Furuncle of right lower limb
+DRG27901,L02426,Furuncle of left lower limb
+DRG27901,L02429,"Furuncle of limb, unspecified"
+DRG27901,L02431,Carbuncle of right axilla
+DRG27901,L02432,Carbuncle of left axilla
+DRG27901,L02433,Carbuncle of right upper limb
+DRG27901,L02434,Carbuncle of left upper limb
+DRG27901,L02435,Carbuncle of right lower limb
+DRG27901,L02436,Carbuncle of left lower limb
+DRG27901,L02439,"Carbuncle of limb, unspecified"
+DRG27901,L02511,Cutaneous abscess of right hand
+DRG27901,L02512,Cutaneous abscess of left hand
+DRG27901,L02519,Cutaneous abscess of unspecified hand
+DRG27901,L02521,Furuncle right hand
+DRG27901,L02522,Furuncle left hand
+DRG27901,L02529,Furuncle unspecified hand
+DRG27901,L02531,Carbuncle of right hand
+DRG27901,L02532,Carbuncle of left hand
+DRG27901,L02539,Carbuncle of unspecified hand
+DRG27901,L02611,Cutaneous abscess of right foot
+DRG27901,L02612,Cutaneous abscess of left foot
+DRG27901,L02619,Cutaneous abscess of unspecified foot
+DRG27901,L02621,Furuncle of right foot
+DRG27901,L02622,Furuncle of left foot
+DRG27901,L02629,Furuncle of unspecified foot
+DRG27901,L02631,Carbuncle of right foot
+DRG27901,L02632,Carbuncle of left foot
+DRG27901,L02639,Carbuncle of unspecified foot
+DRG27901,L02811,"Cutaneous abscess of head [any part, except face]"
+DRG27901,L02818,Cutaneous abscess of other sites
+DRG27901,L02821,"Furuncle of head [any part, except face]"
+DRG27901,L02828,Furuncle of other sites
+DRG27901,L02831,"Carbuncle of head [any part, except face]"
+DRG27901,L02838,Carbuncle of other sites
+DRG27901,L0291,"Cutaneous abscess, unspecified"
+DRG27901,L0292,"Furuncle, unspecified"
+DRG27901,L0293,"Carbuncle, unspecified"
+DRG27901,L03011,Cellulitis of right finger
+DRG27901,L03012,Cellulitis of left finger
+DRG27901,L03019,Cellulitis of unspecified finger
+DRG27901,L03021,Acute lymphangitis of right finger
+DRG27901,L03022,Acute lymphangitis of left finger
+DRG27901,L03029,Acute lymphangitis of unspecified finger
+DRG27901,L03031,Cellulitis of right toe
+DRG27901,L03032,Cellulitis of left toe
+DRG27901,L03039,Cellulitis of unspecified toe
+DRG27901,L03041,Acute lymphangitis of right toe
+DRG27901,L03042,Acute lymphangitis of left toe
+DRG27901,L03049,Acute lymphangitis of unspecified toe
+DRG27901,L03111,Cellulitis of right axilla
+DRG27901,L03112,Cellulitis of left axilla
+DRG27901,L03113,Cellulitis of right upper limb
+DRG27901,L03114,Cellulitis of left upper limb
+DRG27901,L03115,Cellulitis of right lower limb
+DRG27901,L03116,Cellulitis of left lower limb
+DRG27901,L03119,Cellulitis of unspecified part of limb
+DRG27901,L03121,Acute lymphangitis of right axilla
+DRG27901,L03122,Acute lymphangitis of left axilla
+DRG27901,L03123,Acute lymphangitis of right upper limb
+DRG27901,L03124,Acute lymphangitis of left upper limb
+DRG27901,L03125,Acute lymphangitis of right lower limb
+DRG27901,L03126,Acute lymphangitis of left lower limb
+DRG27901,L03129,Acute lymphangitis of unspecified part of limb
+DRG27901,L03211,Cellulitis of face
+DRG27901,L03212,Acute lymphangitis of face
+DRG27901,L03221,Cellulitis of neck
+DRG27901,L03222,Acute lymphangitis of neck
+DRG27901,L03311,Cellulitis of abdominal wall
+DRG27901,L03312,Cellulitis of back [any part except buttock]
+DRG27901,L03313,Cellulitis of chest wall
+DRG27901,L03314,Cellulitis of groin
+DRG27901,L03315,Cellulitis of perineum
+DRG27901,L03316,Cellulitis of umbilicus
+DRG27901,L03317,Cellulitis of buttock
+DRG27901,L03319,"Cellulitis of trunk, unspecified"
+DRG27901,L03321,Acute lymphangitis of abdominal wall
+DRG27901,L03322,Acute lymphangitis of back [any part except buttock]
+DRG27901,L03323,Acute lymphangitis of chest wall
+DRG27901,L03324,Acute lymphangitis of groin
+DRG27901,L03325,Acute lymphangitis of perineum
+DRG27901,L03326,Acute lymphangitis of umbilicus
+DRG27901,L03327,Acute lymphangitis of buttock
+DRG27901,L03329,"Acute lymphangitis of trunk, unspecified"
+DRG27901,L03811,"Cellulitis of head [any part, except face]"
+DRG27901,L03818,Cellulitis of other sites
+DRG27901,L03891,"Acute lymphangitis of head [any part, except face]"
+DRG27901,L03898,Acute lymphangitis of other sites
+DRG27901,L0390,"Cellulitis, unspecified"
+DRG27901,L0391,"Acute lymphangitis, unspecified"
+DRG27901,L0501,Pilonidal cyst with abscess
+DRG27901,L0502,Pilonidal sinus with abscess
+DRG27901,L0591,Pilonidal cyst without abscess
+DRG27901,L0592,Pilonidal sinus without abscess
+DRG27901,L080,Pyoderma
+DRG27901,L0881,Pyoderma vegetans
+DRG27901,L0882,Omphalitis not of newborn
+DRG27901,L0889,Other specified local infections of the skin and subcutaneous tissue
+DRG27901,L089,"Local infection of the skin and subcutaneous tissue, unspecified"
+DRG27901,L88,Pyoderma gangrenosum
+DRG27901,L928,Other granulomatous disorders of the skin and subcutaneous tissue
+DRG27901,L980,Pyogenic granuloma
+DRG27901,L983,Eosinophilic cellulitis [Wells]
+DRG27901,S0090XA,"Unspecified superficial injury of unspecified part of head, initial encounter"
+DRG27901,S0095XA,"Superficial foreign body of unspecified part of head, initial encounter"
+DRG27901,S0096XA,"Insect bite (nonvenomous) of unspecified part of head, initial encounter"
+DRG27901,S1090XA,"Unspecified superficial injury of unspecified part of neck, initial encounter"
+DRG27901,S1091XA,"Abrasion of unspecified part of neck, initial encounter"
+DRG27901,S1095XA,"Superficial foreign body of unspecified part of neck, initial encounter"
+DRG27901,S1096XA,"Insect bite of unspecified part of neck, initial encounter"
+DRG27901,S2090XA,"Unspecified superficial injury of unspecified parts of thorax, initial encounter"
+DRG27901,S2091XA,"Abrasion of unspecified parts of thorax, initial encounter"
+DRG27901,S2092XA,"Blister (nonthermal) of unspecified parts of thorax, initial encounter"
+DRG27901,S2095XA,"Superficial foreign body of unspecified parts of thorax, initial encounter"
+DRG27901,S2096XA,"Insect bite (nonvenomous) of unspecified parts of thorax, initial encounter"
+DRG27901,S40219A,"Abrasion of unspecified shoulder, initial encounter"
+DRG27901,S40229A,"Blister (nonthermal) of unspecified shoulder, initial encounter"
+DRG27901,S40259A,"Superficial foreign body of unspecified shoulder, initial encounter"
+DRG27901,S40269A,"Insect bite (nonvenomous) of unspecified shoulder, initial encounter"
+DRG27901,S40819A,"Abrasion of unspecified upper arm, initial encounter"
+DRG27901,S40829A,"Blister (nonthermal) of unspecified upper arm, initial encounter"
+DRG27901,S40859A,"Superficial foreign body of unspecified upper arm, initial encounter"
+DRG27901,S40869A,"Insect bite (nonvenomous) of unspecified upper arm, initial encounter"
+DRG27901,S40919A,"Unspecified superficial injury of unspecified shoulder, initial encounter"
+DRG27901,S40929A,"Unspecified superficial injury of unspecified upper arm, initial encounter"
+DRG27901,S50319A,"Abrasion of unspecified elbow, initial encounter"
+DRG27901,S50329A,"Blister (nonthermal) of unspecified elbow, initial encounter"
+DRG27901,S50359A,"Superficial foreign body of unspecified elbow, initial encounter"
+DRG27901,S50369A,"Insect bite (nonvenomous) of unspecified elbow, initial encounter"
+DRG27901,S50819A,"Abrasion of unspecified forearm, initial encounter"
+DRG27901,S50829A,"Blister (nonthermal) of unspecified forearm, initial encounter"
+DRG27901,S50859A,"Superficial foreign body of unspecified forearm, initial encounter"
+DRG27901,S50869A,"Insect bite (nonvenomous) of unspecified forearm, initial encounter"
+DRG27901,S50909A,"Unspecified superficial injury of unspecified elbow, initial encounter"
+DRG27901,S50919A,"Unspecified superficial injury of unspecified forearm, initial encounter"
+DRG27901,S60319A,"Abrasion of unspecified thumb, initial encounter"
+DRG27901,S60329A,"Blister (nonthermal) of unspecified thumb, initial encounter"
+DRG27901,S60359A,"Superficial foreign body of unspecified thumb, initial encounter"
+DRG27901,S60369A,"Insect bite (nonvenomous) of unspecified thumb, initial encounter"
+DRG27901,S60419A,"Abrasion of unspecified finger, initial encounter"
+DRG27901,S60429A,"Blister (nonthermal) of unspecified finger, initial encounter"
+DRG27901,S60459A,"Superficial foreign body of unspecified finger, initial encounter"
+DRG27901,S60469A,"Insect bite (nonvenomous) of unspecified finger, initial encounter"
+DRG27901,S60519A,"Abrasion of unspecified hand, initial encounter"
+DRG27901,S60529A,"Blister (nonthermal) of unspecified hand, initial encounter"
+DRG27901,S60559A,"Superficial foreign body of unspecified hand, initial encounter"
+DRG27901,S60569A,"Insect bite (nonvenomous) of unspecified hand, initial encounter"
+DRG27901,S60819A,"Abrasion of unspecified wrist, initial encounter"
+DRG27901,S60829A,"Blister (nonthermal) of unspecified wrist, initial encounter"
+DRG27901,S60859A,"Superficial foreign body of unspecified wrist, initial encounter"
+DRG27901,S60869A,"Insect bite (nonvenomous) of unspecified wrist, initial encounter"
+DRG27901,S60919A,"Unspecified superficial injury of unspecified wrist, initial encounter"
+DRG27901,S60929A,"Unspecified superficial injury of unspecified hand, initial encounter"
+DRG27901,S60939A,"Unspecified superficial injury of unspecified thumb, initial encounter"
+DRG27901,S60949A,"Unspecified superficial injury of unspecified finger, initial encounter"
+DRG27901,S70219A,"Abrasion, unspecified hip, initial encounter"
+DRG27901,S70229A,"Blister (nonthermal), unspecified hip, initial encounter"
+DRG27901,S70259A,"Superficial foreign body, unspecified hip, initial encounter"
+DRG27901,S70269A,"Insect bite (nonvenomous), unspecified hip, initial encounter"
+DRG27901,S70319A,"Abrasion, unspecified thigh, initial encounter"
+DRG27901,S70329A,"Blister (nonthermal), unspecified thigh, initial encounter"
+DRG27901,S70359A,"Superficial foreign body, unspecified thigh, initial encounter"
+DRG27901,S70369A,"Insect bite (nonvenomous), unspecified thigh, initial encounter"
+DRG27901,S70919A,"Unspecified superficial injury of unspecified hip, initial encounter"
+DRG27901,S70929A,"Unspecified superficial injury of unspecified thigh, initial encounter"
+DRG27901,S80219A,"Abrasion, unspecified knee, initial encounter"
+DRG27901,S80229A,"Blister (nonthermal), unspecified knee, initial encounter"
+DRG27901,S80259A,"Superficial foreign body, unspecified knee, initial encounter"
+DRG27901,S80269A,"Insect bite (nonvenomous), unspecified knee, initial encounter"
+DRG27901,S80819A,"Abrasion, unspecified lower leg, initial encounter"
+DRG27901,S80829A,"Blister (nonthermal), unspecified lower leg, initial encounter"
+DRG27901,S80859A,"Superficial foreign body, unspecified lower leg, initial encounter"
+DRG27901,S80869A,"Insect bite (nonvenomous), unspecified lower leg, initial encounter"
+DRG27901,S80919A,"Unspecified superficial injury of unspecified knee, initial encounter"
+DRG27901,S80929A,"Unspecified superficial injury of unspecified lower leg, initial encounter"
+DRG27901,S90413A,"Abrasion, unspecified great toe, initial encounter"
+DRG27901,S90416A,"Abrasion, unspecified lesser toe(s), initial encounter"
+DRG27901,S90423A,"Blister (nonthermal), unspecified great toe, initial encounter"
+DRG27901,S90426A,"Blister (nonthermal), unspecified lesser toe(s), initial encounter"
+DRG27901,S90453A,"Superficial foreign body, unspecified great toe, initial encounter"
+DRG27901,S90456A,"Superficial foreign body, unspecified lesser toe(s), initial encounter"
+DRG27901,S90463A,"Insect bite (nonvenomous), unspecified great toe, initial encounter"
+DRG27901,S90466A,"Insect bite (nonvenomous), unspecified lesser toe(s), initial encounter"
+DRG27901,S90519A,"Abrasion, unspecified ankle, initial encounter"
+DRG27901,S90529A,"Blister (nonthermal), unspecified ankle, initial encounter"
+DRG27901,S90559A,"Superficial foreign body, unspecified ankle, initial encounter"
+DRG27901,S90569A,"Insect bite (nonvenomous), unspecified ankle, initial encounter"
+DRG27901,S90819A,"Abrasion, unspecified foot, initial encounter"
+DRG27901,S90829A,"Blister (nonthermal), unspecified foot, initial encounter"
+DRG27901,S90859A,"Superficial foreign body, unspecified foot, initial encounter"
+DRG27901,S90869A,"Insect bite (nonvenomous), unspecified foot, initial encounter"
+DRG27901,S90919A,"Unspecified superficial injury of unspecified ankle, initial encounter"
+DRG27901,S90929A,"Unspecified superficial injury of unspecified foot, initial encounter"
+DRG27901,S90933A,"Unspecified superficial injury of unspecified great toe, initial encounter"
+DRG27901,S90936A,"Unspecified superficial injury of unspecified lesser toe(s), initial encounter"
+DRG27901,T07,Unspecified multiple injuries

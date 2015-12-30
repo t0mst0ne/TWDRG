@@ -1,1 +1,3 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG06701.csv
+DRG,CM-PCS,en
+DRG06701,J0510,Acute epiglottitis without obstruction
+DRG06701,J0511,Acute epiglottitis with obstruction

@@ -1,1 +1,894 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00264.csv
+DRG,CM-PCS,en
+DRG00264,L0201,Cutaneous abscess of face
+DRG00264,L0211,Cutaneous abscess of neck
+DRG00264,L02211,Cutaneous abscess of abdominal wall
+DRG00264,L02212,"Cutaneous abscess of back [any part, except buttock]"
+DRG00264,L02213,Cutaneous abscess of chest wall
+DRG00264,L02214,Cutaneous abscess of groin
+DRG00264,L02215,Cutaneous abscess of perineum
+DRG00264,L02216,Cutaneous abscess of umbilicus
+DRG00264,L02219,"Cutaneous abscess of trunk, unspecified"
+DRG00264,L0231,Cutaneous abscess of buttock
+DRG00264,L02411,Cutaneous abscess of right axilla
+DRG00264,L02412,Cutaneous abscess of left axilla
+DRG00264,L02413,Cutaneous abscess of right upper limb
+DRG00264,L02414,Cutaneous abscess of left upper limb
+DRG00264,L02415,Cutaneous abscess of right lower limb
+DRG00264,L02416,Cutaneous abscess of left lower limb
+DRG00264,L02419,"Cutaneous abscess of limb, unspecified"
+DRG00264,L02511,Cutaneous abscess of right hand
+DRG00264,L02512,Cutaneous abscess of left hand
+DRG00264,L02519,Cutaneous abscess of unspecified hand
+DRG00264,L02611,Cutaneous abscess of right foot
+DRG00264,L02612,Cutaneous abscess of left foot
+DRG00264,L02619,Cutaneous abscess of unspecified foot
+DRG00264,L02811,"Cutaneous abscess of head [any part, except face]"
+DRG00264,L02818,Cutaneous abscess of other sites
+DRG00264,L0291,"Cutaneous abscess, unspecified"
+DRG00264,L03011,Cellulitis of right finger
+DRG00264,L03012,Cellulitis of left finger
+DRG00264,L03019,Cellulitis of unspecified finger
+DRG00264,L03021,Acute lymphangitis of right finger
+DRG00264,L03022,Acute lymphangitis of left finger
+DRG00264,L03029,Acute lymphangitis of unspecified finger
+DRG00264,L03031,Cellulitis of right toe
+DRG00264,L03032,Cellulitis of left toe
+DRG00264,L03039,Cellulitis of unspecified toe
+DRG00264,L03041,Acute lymphangitis of right toe
+DRG00264,L03042,Acute lymphangitis of left toe
+DRG00264,L03049,Acute lymphangitis of unspecified toe
+DRG00264,L03111,Cellulitis of right axilla
+DRG00264,L03112,Cellulitis of left axilla
+DRG00264,L03113,Cellulitis of right upper limb
+DRG00264,L03114,Cellulitis of left upper limb
+DRG00264,L03115,Cellulitis of right lower limb
+DRG00264,L03116,Cellulitis of left lower limb
+DRG00264,L03119,Cellulitis of unspecified part of limb
+DRG00264,L03121,Acute lymphangitis of right axilla
+DRG00264,L03122,Acute lymphangitis of left axilla
+DRG00264,L03123,Acute lymphangitis of right upper limb
+DRG00264,L03124,Acute lymphangitis of left upper limb
+DRG00264,L03125,Acute lymphangitis of right lower limb
+DRG00264,L03126,Acute lymphangitis of left lower limb
+DRG00264,L03129,Acute lymphangitis of unspecified part of limb
+DRG00264,L03211,Cellulitis of face
+DRG00264,L03212,Acute lymphangitis of face
+DRG00264,L03221,Cellulitis of neck
+DRG00264,L03222,Acute lymphangitis of neck
+DRG00264,L03311,Cellulitis of abdominal wall
+DRG00264,L03312,Cellulitis of back [any part except buttock]
+DRG00264,L03313,Cellulitis of chest wall
+DRG00264,L03314,Cellulitis of groin
+DRG00264,L03315,Cellulitis of perineum
+DRG00264,L03316,Cellulitis of umbilicus
+DRG00264,L03317,Cellulitis of buttock
+DRG00264,L03319,"Cellulitis of trunk, unspecified"
+DRG00264,L03321,Acute lymphangitis of abdominal wall
+DRG00264,L03322,Acute lymphangitis of back [any part except buttock]
+DRG00264,L03323,Acute lymphangitis of chest wall
+DRG00264,L03324,Acute lymphangitis of groin
+DRG00264,L03325,Acute lymphangitis of perineum
+DRG00264,L03326,Acute lymphangitis of umbilicus
+DRG00264,L03327,Acute lymphangitis of buttock
+DRG00264,L03329,"Acute lymphangitis of trunk, unspecified"
+DRG00264,L03811,"Cellulitis of head [any part, except face]"
+DRG00264,L03818,Cellulitis of other sites
+DRG00264,L03891,"Acute lymphangitis of head [any part, except face]"
+DRG00264,L03898,Acute lymphangitis of other sites
+DRG00264,L0390,"Cellulitis, unspecified"
+DRG00264,L0391,"Acute lymphangitis, unspecified"
+DRG00264,L89000,"Pressure ulcer of unspecified elbow, unstageable"
+DRG00264,L89001,"Pressure ulcer of unspecified elbow, stage 1"
+DRG00264,L89002,"Pressure ulcer of unspecified elbow, stage 2"
+DRG00264,L89003,"Pressure ulcer of unspecified elbow, stage 3"
+DRG00264,L89004,"Pressure ulcer of unspecified elbow, stage 4"
+DRG00264,L89009,"Pressure ulcer of unspecified elbow, unspecified stage"
+DRG00264,L89010,"Pressure ulcer of right elbow, unstageable"
+DRG00264,L89011,"Pressure ulcer of right elbow, stage 1"
+DRG00264,L89012,"Pressure ulcer of right elbow, stage 2"
+DRG00264,L89013,"Pressure ulcer of right elbow, stage 3"
+DRG00264,L89014,"Pressure ulcer of right elbow, stage 4"
+DRG00264,L89020,"Pressure ulcer of left elbow, unstageable"
+DRG00264,L89021,"Pressure ulcer of left elbow, stage 1"
+DRG00264,L89022,"Pressure ulcer of left elbow, stage 2"
+DRG00264,L89023,"Pressure ulcer of left elbow, stage 3"
+DRG00264,L89024,"Pressure ulcer of left elbow, stage 4"
+DRG00264,L89100,"Pressure ulcer of unspecified part of back, unstageable"
+DRG00264,L89101,"Pressure ulcer of unspecified part of back, stage 1"
+DRG00264,L89102,"Pressure ulcer of unspecified part of back, stage 2"
+DRG00264,L89103,"Pressure ulcer of unspecified part of back, stage 3"
+DRG00264,L89104,"Pressure ulcer of unspecified part of back, stage 4"
+DRG00264,L89109,"Pressure ulcer of unspecified part of back, unspecified stage"
+DRG00264,L89110,"Pressure ulcer of right upper back, unstageable"
+DRG00264,L89111,"Pressure ulcer of right upper back, stage 1"
+DRG00264,L89112,"Pressure ulcer of right upper back, stage 2"
+DRG00264,L89113,"Pressure ulcer of right upper back, stage 3"
+DRG00264,L89114,"Pressure ulcer of right upper back, stage 4"
+DRG00264,L89119,"Pressure ulcer of right upper back, unspecified stage"
+DRG00264,L89120,"Pressure ulcer of left upper back, unstageable"
+DRG00264,L89121,"Pressure ulcer of left upper back, stage 1"
+DRG00264,L89122,"Pressure ulcer of left upper back, stage 2"
+DRG00264,L89123,"Pressure ulcer of left upper back, stage 3"
+DRG00264,L89124,"Pressure ulcer of left upper back, stage 4"
+DRG00264,L89129,"Pressure ulcer of left upper back, unspecified stage"
+DRG00264,L89130,"Pressure ulcer of right lower back, unstageable"
+DRG00264,L89131,"Pressure ulcer of right lower back, stage 1"
+DRG00264,L89132,"Pressure ulcer of right lower back, stage 2"
+DRG00264,L89133,"Pressure ulcer of right lower back, stage 3"
+DRG00264,L89134,"Pressure ulcer of right lower back, stage 4"
+DRG00264,L89139,"Pressure ulcer of right lower back, unspecified stage"
+DRG00264,L89140,"Pressure ulcer of left lower back, unstageable"
+DRG00264,L89141,"Pressure ulcer of left lower back, stage 1"
+DRG00264,L89142,"Pressure ulcer of left lower back, stage 2"
+DRG00264,L89143,"Pressure ulcer of left lower back, stage 3"
+DRG00264,L89144,"Pressure ulcer of left lower back, stage 4"
+DRG00264,L89149,"Pressure ulcer of left lower back, unspecified stage"
+DRG00264,L89150,"Pressure ulcer of sacral region, unstageable"
+DRG00264,L89151,"Pressure ulcer of sacral region, stage 1"
+DRG00264,L89152,"Pressure ulcer of sacral region, stage 2"
+DRG00264,L89153,"Pressure ulcer of sacral region, stage 3"
+DRG00264,L89154,"Pressure ulcer of sacral region, stage 4"
+DRG00264,L89159,"Pressure ulcer of sacral region, unspecified stage"
+DRG00264,L89200,"Pressure ulcer of unspecified hip, unstageable"
+DRG00264,L89201,"Pressure ulcer of unspecified hip, stage 1"
+DRG00264,L89202,"Pressure ulcer of unspecified hip, stage 2"
+DRG00264,L89203,"Pressure ulcer of unspecified hip, stage 3"
+DRG00264,L89204,"Pressure ulcer of unspecified hip, stage 4"
+DRG00264,L89209,"Pressure ulcer of unspecified hip, unspecified stage"
+DRG00264,L89210,"Pressure ulcer of right hip, unstageable"
+DRG00264,L89211,"Pressure ulcer of right hip, stage 1"
+DRG00264,L89212,"Pressure ulcer of right hip, stage 2"
+DRG00264,L89213,"Pressure ulcer of right hip, stage 3"
+DRG00264,L89214,"Pressure ulcer of right hip, stage 4"
+DRG00264,L89219,"Pressure ulcer of right hip, unspecified stage"
+DRG00264,L89220,"Pressure ulcer of left hip, unstageable"
+DRG00264,L89221,"Pressure ulcer of left hip, stage 1"
+DRG00264,L89222,"Pressure ulcer of left hip, stage 2"
+DRG00264,L89223,"Pressure ulcer of left hip, stage 3"
+DRG00264,L89224,"Pressure ulcer of left hip, stage 4"
+DRG00264,L89229,"Pressure ulcer of left hip, unspecified stage"
+DRG00264,L89300,"Pressure ulcer of unspecified buttock, unstageable"
+DRG00264,L89301,"Pressure ulcer of unspecified buttock, stage 1"
+DRG00264,L89302,"Pressure ulcer of unspecified buttock, stage 2"
+DRG00264,L89303,"Pressure ulcer of unspecified buttock, stage 3"
+DRG00264,L89304,"Pressure ulcer of unspecified buttock, stage 4"
+DRG00264,L89309,"Pressure ulcer of unspecified buttock, unspecified stage"
+DRG00264,L89310,"Pressure ulcer of right buttock, unstageable"
+DRG00264,L89311,"Pressure ulcer of right buttock, stage 1"
+DRG00264,L89312,"Pressure ulcer of right buttock, stage 2"
+DRG00264,L89313,"Pressure ulcer of right buttock, stage 3"
+DRG00264,L89314,"Pressure ulcer of right buttock, stage 4"
+DRG00264,L89319,"Pressure ulcer of right buttock, unspecified stage"
+DRG00264,L89320,"Pressure ulcer of left buttock, unstageable"
+DRG00264,L89321,"Pressure ulcer of left buttock, stage 1"
+DRG00264,L89322,"Pressure ulcer of left buttock, stage 2"
+DRG00264,L89323,"Pressure ulcer of left buttock, stage 3"
+DRG00264,L89324,"Pressure ulcer of left buttock, stage 4"
+DRG00264,L89329,"Pressure ulcer of left buttock, unspecified stage"
+DRG00264,L8940,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage"
+DRG00264,L8941,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1"
+DRG00264,L8942,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
+DRG00264,L8943,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3"
+DRG00264,L8944,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4"
+DRG00264,L8945,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable"
+DRG00264,L89500,"Pressure ulcer of unspecified ankle, unstageable"
+DRG00264,L89501,"Pressure ulcer of unspecified ankle, stage 1"
+DRG00264,L89502,"Pressure ulcer of unspecified ankle, stage 2"
+DRG00264,L89503,"Pressure ulcer of unspecified ankle, stage 3"
+DRG00264,L89504,"Pressure ulcer of unspecified ankle, stage 4"
+DRG00264,L89509,"Pressure ulcer of unspecified ankle, unspecified stage"
+DRG00264,L89510,"Pressure ulcer of right ankle, unstageable"
+DRG00264,L89511,"Pressure ulcer of right ankle, stage 1"
+DRG00264,L89512,"Pressure ulcer of right ankle, stage 2"
+DRG00264,L89513,"Pressure ulcer of right ankle, stage 3"
+DRG00264,L89514,"Pressure ulcer of right ankle, stage 4"
+DRG00264,L89519,"Pressure ulcer of right ankle, unspecified stage"
+DRG00264,L89520,"Pressure ulcer of left ankle, unstageable"
+DRG00264,L89521,"Pressure ulcer of left ankle, stage 1"
+DRG00264,L89522,"Pressure ulcer of left ankle, stage 2"
+DRG00264,L89523,"Pressure ulcer of left ankle, stage 3"
+DRG00264,L89524,"Pressure ulcer of left ankle, stage 4"
+DRG00264,L89529,"Pressure ulcer of left ankle, unspecified stage"
+DRG00264,L89600,"Pressure ulcer of unspecified heel, unstageable"
+DRG00264,L89601,"Pressure ulcer of unspecified heel, stage 1"
+DRG00264,L89602,"Pressure ulcer of unspecified heel, stage 2"
+DRG00264,L89603,"Pressure ulcer of unspecified heel, stage 3"
+DRG00264,L89604,"Pressure ulcer of unspecified heel, stage 4"
+DRG00264,L89609,"Pressure ulcer of unspecified heel, unspecified stage"
+DRG00264,L89610,"Pressure ulcer of right heel, unstageable"
+DRG00264,L89611,"Pressure ulcer of right heel, stage 1"
+DRG00264,L89612,"Pressure ulcer of right heel, stage 2"
+DRG00264,L89613,"Pressure ulcer of right heel, stage 3"
+DRG00264,L89614,"Pressure ulcer of right heel, stage 4"
+DRG00264,L89620,"Pressure ulcer of left heel, unstageable"
+DRG00264,L89621,"Pressure ulcer of left heel, stage 1"
+DRG00264,L89622,"Pressure ulcer of left heel, stage 2"
+DRG00264,L89623,"Pressure ulcer of left heel, stage 3"
+DRG00264,L89624,"Pressure ulcer of left heel, stage 4"
+DRG00264,L89629,"Pressure ulcer of left heel, unspecified stage"
+DRG00264,L89810,"Pressure ulcer of head, unstageable"
+DRG00264,L89811,"Pressure ulcer of head, stage 1"
+DRG00264,L89812,"Pressure ulcer of head, stage 2"
+DRG00264,L89813,"Pressure ulcer of head, stage 3"
+DRG00264,L89814,"Pressure ulcer of head, stage 4"
+DRG00264,L89819,"Pressure ulcer of head, unspecified stage"
+DRG00264,L89890,"Pressure ulcer of other site, unstageable"
+DRG00264,L89891,"Pressure ulcer of other site, stage 1"
+DRG00264,L89892,"Pressure ulcer of other site, stage 2"
+DRG00264,L89893,"Pressure ulcer of other site, stage 3"
+DRG00264,L89894,"Pressure ulcer of other site, stage 4"
+DRG00264,L89899,"Pressure ulcer of other site, unspecified stage"
+DRG00264,L8990,"Pressure ulcer of unspecified site, unspecified stage"
+DRG00264,L8991,"Pressure ulcer of unspecified site, stage 1"
+DRG00264,L8992,"Pressure ulcer of unspecified site, stage 2"
+DRG00264,L8993,"Pressure ulcer of unspecified site, stage 3"
+DRG00264,L8994,"Pressure ulcer of unspecified site, stage 4"
+DRG00264,L8995,"Pressure ulcer of unspecified site, unstageable"
+DRG00264,L97101,Non-pressure chronic ulcer of unspecified thigh limited to breakdown of skin
+DRG00264,L97102,Non-pressure chronic ulcer of unspecified thigh with fat layer exposed
+DRG00264,L97103,Non-pressure chronic ulcer of unspecified thigh with necrosis of muscle
+DRG00264,L97104,Non-pressure chronic ulcer of unspecified thigh with necrosis of bone
+DRG00264,L97109,Non-pressure chronic ulcer of unspecified thigh with unspecified severity
+DRG00264,L97111,Non-pressure chronic ulcer of right thigh limited to breakdown of skin
+DRG00264,L97112,Non-pressure chronic ulcer of right thigh with fat layer exposed
+DRG00264,L97113,Non-pressure chronic ulcer of right thigh with necrosis of muscle
+DRG00264,L97114,Non-pressure chronic ulcer of right thigh with necrosis of bone
+DRG00264,L97119,Non-pressure chronic ulcer of right thigh with unspecified severity
+DRG00264,L97121,Non-pressure chronic ulcer of left thigh limited to breakdown of skin
+DRG00264,L97122,Non-pressure chronic ulcer of left thigh with fat layer exposed
+DRG00264,L97123,Non-pressure chronic ulcer of left thigh with necrosis of muscle
+DRG00264,L97124,Non-pressure chronic ulcer of left thigh with necrosis of bone
+DRG00264,L97129,Non-pressure chronic ulcer of left thigh with unspecified severity
+DRG00264,L97201,Non-pressure chronic ulcer of unspecified calf limited to breakdown of skin
+DRG00264,L97202,Non-pressure chronic ulcer of unspecified calf with fat layer exposed
+DRG00264,L97203,Non-pressure chronic ulcer of unspecified calf with necrosis of muscle
+DRG00264,L97204,Non-pressure chronic ulcer of unspecified calf with necrosis of bone
+DRG00264,L97209,Non-pressure chronic ulcer of unspecified calf with unspecified severity
+DRG00264,L97211,Non-pressure chronic ulcer of right calf limited to breakdown of skin
+DRG00264,L97212,Non-pressure chronic ulcer of right calf with fat layer exposed
+DRG00264,L97213,Non-pressure chronic ulcer of right calf with necrosis of muscle
+DRG00264,L97214,Non-pressure chronic ulcer of right calf with necrosis of bone
+DRG00264,L97219,Non-pressure chronic ulcer of right calf with unspecified severity
+DRG00264,L97221,Non-pressure chronic ulcer of left calf limited to breakdown of skin
+DRG00264,L97222,Non-pressure chronic ulcer of left calf with fat layer exposed
+DRG00264,L97223,Non-pressure chronic ulcer of left calf with necrosis of muscle
+DRG00264,L97224,Non-pressure chronic ulcer of left calf with necrosis of bone
+DRG00264,L97229,Non-pressure chronic ulcer of left calf with unspecified severity
+DRG00264,L97301,Non-pressure chronic ulcer of unspecified ankle limited to breakdown of skin
+DRG00264,L97302,Non-pressure chronic ulcer of unspecified ankle with fat layer exposed
+DRG00264,L97303,Non-pressure chronic ulcer of unspecified ankle with necrosis of muscle
+DRG00264,L97304,Non-pressure chronic ulcer of unspecified ankle with necrosis of bone
+DRG00264,L97309,Non-pressure chronic ulcer of unspecified ankle with unspecified severity
+DRG00264,L97311,Non-pressure chronic ulcer of right ankle limited to breakdown of skin
+DRG00264,L97312,Non-pressure chronic ulcer of right ankle with fat layer exposed
+DRG00264,L97313,Non-pressure chronic ulcer of right ankle with necrosis of muscle
+DRG00264,L97314,Non-pressure chronic ulcer of right ankle with necrosis of bone
+DRG00264,L97319,Non-pressure chronic ulcer of right ankle with unspecified severity
+DRG00264,L97321,Non-pressure chronic ulcer of left ankle limited to breakdown of skin
+DRG00264,L97322,Non-pressure chronic ulcer of left ankle with fat layer exposed
+DRG00264,L97323,Non-pressure chronic ulcer of left ankle with necrosis of muscle
+DRG00264,L97324,Non-pressure chronic ulcer of left ankle with necrosis of bone
+DRG00264,L97329,Non-pressure chronic ulcer of left ankle with unspecified severity
+DRG00264,L97401,Non-pressure chronic ulcer of unspecified heel and midfoot limited to breakdown of skin
+DRG00264,L97402,Non-pressure chronic ulcer of unspecified heel and midfoot with fat layer exposed
+DRG00264,L97403,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of muscle
+DRG00264,L97404,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of bone
+DRG00264,L97409,Non-pressure chronic ulcer of unspecified heel and midfoot with unspecified severity
+DRG00264,L97411,Non-pressure chronic ulcer of right heel and midfoot limited to breakdown of skin
+DRG00264,L97412,Non-pressure chronic ulcer of right heel and midfoot with fat layer exposed
+DRG00264,L97413,Non-pressure chronic ulcer of right heel and midfoot with necrosis of muscle
+DRG00264,L97414,Non-pressure chronic ulcer of right heel and midfoot with necrosis of bone
+DRG00264,L97419,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity
+DRG00264,L97421,Non-pressure chronic ulcer of left heel and midfoot limited to breakdown of skin
+DRG00264,L97422,Non-pressure chronic ulcer of left heel and midfoot with fat layer exposed
+DRG00264,L97423,Non-pressure chronic ulcer of left heel and midfoot with necrosis of muscle
+DRG00264,L97424,Non-pressure chronic ulcer of left heel and midfoot with necrosis of bone
+DRG00264,L97429,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity
+DRG00264,L97501,Non-pressure chronic ulcer of other part of unspecified foot limited to breakdown of skin
+DRG00264,L97502,Non-pressure chronic ulcer of other part of unspecified foot with fat layer exposed
+DRG00264,L97503,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of muscle
+DRG00264,L97504,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of bone
+DRG00264,L97509,Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity
+DRG00264,L97511,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin
+DRG00264,L97512,Non-pressure chronic ulcer of other part of right foot with fat layer exposed
+DRG00264,L97513,Non-pressure chronic ulcer of other part of right foot with necrosis of muscle
+DRG00264,L97514,Non-pressure chronic ulcer of other part of right foot with necrosis of bone
+DRG00264,L97519,Non-pressure chronic ulcer of other part of right foot with unspecified severity
+DRG00264,L97521,Non-pressure chronic ulcer of other part of left foot limited to breakdown of skin
+DRG00264,L97522,Non-pressure chronic ulcer of other part of left foot with fat layer exposed
+DRG00264,L97523,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle
+DRG00264,L97524,Non-pressure chronic ulcer of other part of left foot with necrosis of bone
+DRG00264,L97529,Non-pressure chronic ulcer of other part of left foot with unspecified severity
+DRG00264,L97801,Non-pressure chronic ulcer of other part of unspecified lower leg limited to breakdown of skin
+DRG00264,L97802,Non-pressure chronic ulcer of other part of unspecified lower leg with fat layer exposed
+DRG00264,L97803,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of muscle
+DRG00264,L97804,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of bone
+DRG00264,L97809,Non-pressure chronic ulcer of other part of unspecified lower leg with unspecified severity
+DRG00264,L97811,Non-pressure chronic ulcer of other part of right lower leg limited to breakdown of skin
+DRG00264,L97812,Non-pressure chronic ulcer of other part of right lower leg with fat layer exposed
+DRG00264,L97813,Non-pressure chronic ulcer of other part of right lower leg with necrosis of muscle
+DRG00264,L97814,Non-pressure chronic ulcer of other part of right lower leg with necrosis of bone
+DRG00264,L97819,Non-pressure chronic ulcer of other part of right lower leg with unspecified severity
+DRG00264,L97821,Non-pressure chronic ulcer of other part of left lower leg limited to breakdown of skin
+DRG00264,L97822,Non-pressure chronic ulcer of other part of left lower leg with fat layer exposed
+DRG00264,L97823,Non-pressure chronic ulcer of other part of left lower leg with necrosis of muscle
+DRG00264,L97824,Non-pressure chronic ulcer of other part of left lower leg with necrosis of bone
+DRG00264,L97829,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity
+DRG00264,L97901,Non-pressure chronic ulcer of unspecified part of unspecified lower leg limited to breakdown of skin
+DRG00264,L97902,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with fat layer exposed
+DRG00264,L97903,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of muscle
+DRG00264,L97904,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of bone
+DRG00264,L97909,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with unspecified severity
+DRG00264,L97911,Non-pressure chronic ulcer of unspecified part of right lower leg limited to breakdown of skin
+DRG00264,L97912,Non-pressure chronic ulcer of unspecified part of right lower leg with fat layer exposed
+DRG00264,L97913,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of muscle
+DRG00264,L97914,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of bone
+DRG00264,L97919,Non-pressure chronic ulcer of unspecified part of right lower leg with unspecified severity
+DRG00264,L97921,Non-pressure chronic ulcer of unspecified part of left lower leg limited to breakdown of skin
+DRG00264,L97922,Non-pressure chronic ulcer of unspecified part of left lower leg with fat layer exposed
+DRG00264,L97923,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of muscle
+DRG00264,L97924,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of bone
+DRG00264,L97929,Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity
+DRG00264,L983,Eosinophilic cellulitis [Wells]
+DRG00264,L98411,Non-pressure chronic ulcer of buttock limited to breakdown of skin
+DRG00264,L98412,Non-pressure chronic ulcer of buttock with fat layer exposed
+DRG00264,L98413,Non-pressure chronic ulcer of buttock with necrosis of muscle
+DRG00264,L98414,Non-pressure chronic ulcer of buttock with necrosis of bone
+DRG00264,L98419,Non-pressure chronic ulcer of buttock with unspecified severity
+DRG00264,L98421,Non-pressure chronic ulcer of back limited to breakdown of skin
+DRG00264,L98422,Non-pressure chronic ulcer of back with fat layer exposed
+DRG00264,L98423,Non-pressure chronic ulcer of back with necrosis of muscle
+DRG00264,L98424,Non-pressure chronic ulcer of back with necrosis of bone
+DRG00264,L98429,Non-pressure chronic ulcer of back with unspecified severity
+DRG00264,L98491,Non-pressure chronic ulcer of skin of other sites limited to breakdown of skin
+DRG00264,L98492,Non-pressure chronic ulcer of skin of other sites with fat layer exposed
+DRG00264,L98493,Non-pressure chronic ulcer of skin of other sites with necrosis of muscle
+DRG00264,L98494,Non-pressure chronic ulcer of skin of other sites with necrosis of bone
+DRG00264,L98499,Non-pressure chronic ulcer of skin of other sites with unspecified severity
+DRG00264,0H80XZZ,"Division of Scalp Skin, External Approach"
+DRG00264,0H81XZZ,"Division of Face Skin, External Approach"
+DRG00264,0H84XZZ,"Division of Neck Skin, External Approach"
+DRG00264,0H85XZZ,"Division of Chest Skin, External Approach"
+DRG00264,0H86XZZ,"Division of Back Skin, External Approach"
+DRG00264,0H87XZZ,"Division of Abdomen Skin, External Approach"
+DRG00264,0H88XZZ,"Division of Buttock Skin, External Approach"
+DRG00264,0H8AXZZ,"Division of Genitalia Skin, External Approach"
+DRG00264,0H8BXZZ,"Division of Right Upper Arm Skin, External Approach"
+DRG00264,0H8CXZZ,"Division of Left Upper Arm Skin, External Approach"
+DRG00264,0H8DXZZ,"Division of Right Lower Arm Skin, External Approach"
+DRG00264,0H8EXZZ,"Division of Left Lower Arm Skin, External Approach"
+DRG00264,0H8FXZZ,"Division of Right Hand Skin, External Approach"
+DRG00264,0H8GXZZ,"Division of Left Hand Skin, External Approach"
+DRG00264,0H8HXZZ,"Division of Right Upper Leg Skin, External Approach"
+DRG00264,0H8JXZZ,"Division of Left Upper Leg Skin, External Approach"
+DRG00264,0H8KXZZ,"Division of Right Lower Leg Skin, External Approach"
+DRG00264,0H8LXZZ,"Division of Left Lower Leg Skin, External Approach"
+DRG00264,0H8MXZZ,"Division of Right Foot Skin, External Approach"
+DRG00264,0H8NXZZ,"Division of Left Foot Skin, External Approach"
+DRG00264,0HB0XZZ,"Excision of Scalp Skin, External Approach"
+DRG00264,0HB1XZZ,"Excision of Face Skin, External Approach"
+DRG00264,0HB4XZZ,"Excision of Neck Skin, External Approach"
+DRG00264,0HB5XZZ,"Excision of Chest Skin, External Approach"
+DRG00264,0HB6XZZ,"Excision of Back Skin, External Approach"
+DRG00264,0HB7XZZ,"Excision of Abdomen Skin, External Approach"
+DRG00264,0HB8XZZ,"Excision of Buttock Skin, External Approach"
+DRG00264,0HBAXZZ,"Excision of Genitalia Skin, External Approach"
+DRG00264,0HBBXZZ,"Excision of Right Upper Arm Skin, External Approach"
+DRG00264,0HBCXZZ,"Excision of Left Upper Arm Skin, External Approach"
+DRG00264,0HBDXZZ,"Excision of Right Lower Arm Skin, External Approach"
+DRG00264,0HBEXZZ,"Excision of Left Lower Arm Skin, External Approach"
+DRG00264,0HBFXZZ,"Excision of Right Hand Skin, External Approach"
+DRG00264,0HBGXZZ,"Excision of Left Hand Skin, External Approach"
+DRG00264,0HBHXZZ,"Excision of Right Upper Leg Skin, External Approach"
+DRG00264,0HBJXZZ,"Excision of Left Upper Leg Skin, External Approach"
+DRG00264,0HBKXZZ,"Excision of Right Lower Leg Skin, External Approach"
+DRG00264,0HBLXZZ,"Excision of Left Lower Leg Skin, External Approach"
+DRG00264,0HBMXZZ,"Excision of Right Foot Skin, External Approach"
+DRG00264,0HBNXZZ,"Excision of Left Foot Skin, External Approach"
+DRG00264,0HR0X73,"Replacement of Scalp Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR0X74,"Replacement of Scalp Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR0XJ3,"Replacement of Scalp Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR0XJ4,"Replacement of Scalp Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR0XJZ,"Replacement of Scalp Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR0XK3,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR0XK4,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR1X73,"Replacement of Face Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR1X74,"Replacement of Face Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR1XJ3,"Replacement of Face Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR1XJ4,"Replacement of Face Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR1XJZ,"Replacement of Face Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR1XK3,"Replacement of Face Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR1XK4,"Replacement of Face Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR4X73,"Replacement of Neck Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR4X74,"Replacement of Neck Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR4XJ3,"Replacement of Neck Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR4XJ4,"Replacement of Neck Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR4XJZ,"Replacement of Neck Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR4XK3,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR4XK4,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR5X73,"Replacement of Chest Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR5X74,"Replacement of Chest Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR5XJ3,"Replacement of Chest Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR5XJ4,"Replacement of Chest Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR5XJZ,"Replacement of Chest Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR5XK3,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR5XK4,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR6X73,"Replacement of Back Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR6X74,"Replacement of Back Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR6XJ3,"Replacement of Back Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR6XJ4,"Replacement of Back Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR6XJZ,"Replacement of Back Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR6XK3,"Replacement of Back Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR6XK4,"Replacement of Back Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR7X73,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR7X74,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR7XJ3,"Replacement of Abdomen Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR7XJ4,"Replacement of Abdomen Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR7XJZ,"Replacement of Abdomen Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR7XK3,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR7XK4,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR8X73,"Replacement of Buttock Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR8X74,"Replacement of Buttock Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HR8XJ3,"Replacement of Buttock Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HR8XJ4,"Replacement of Buttock Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HR8XJZ,"Replacement of Buttock Skin with Synthetic Substitute, External Approach"
+DRG00264,0HR8XK3,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HR8XK4,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRAX73,"Replacement of Genitalia Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRAX74,"Replacement of Genitalia Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRAXJ3,"Replacement of Genitalia Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRAXJ4,"Replacement of Genitalia Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRAXJZ,"Replacement of Genitalia Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRAXK3,"Replacement of Genitalia Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRAXK4,"Replacement of Genitalia Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRBX73,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRBX74,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRBXJ3,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRBXJ4,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRBXJZ,"Replacement of Right Upper Arm Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRBXK3,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRBXK4,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRCX73,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRCX74,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRCXJ3,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRCXJ4,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRCXJZ,"Replacement of Left Upper Arm Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRCXK3,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRCXK4,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRDX73,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRDX74,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRDXJ3,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRDXJ4,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRDXJZ,"Replacement of Right Lower Arm Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRDXK3,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRDXK4,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HREX73,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HREX74,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HREXJ3,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HREXJ4,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HREXJZ,"Replacement of Left Lower Arm Skin with Synthetic Substitute, External Approach"
+DRG00264,0HREXK3,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HREXK4,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRFX73,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRFX74,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRFXJ3,"Replacement of Right Hand Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRFXJ4,"Replacement of Right Hand Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRFXJZ,"Replacement of Right Hand Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRFXK3,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRFXK4,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRGX73,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRGX74,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRGXJ3,"Replacement of Left Hand Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRGXJ4,"Replacement of Left Hand Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRGXJZ,"Replacement of Left Hand Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRGXK3,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRGXK4,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRHX73,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRHX74,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRHXJ3,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRHXJ4,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRHXJZ,"Replacement of Right Upper Leg Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRHXK3,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRHXK4,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRJX73,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRJX74,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRJXJ3,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRJXJ4,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRJXJZ,"Replacement of Left Upper Leg Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRJXK3,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRJXK4,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRKX73,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRKX74,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRKXJ3,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRKXJ4,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRKXJZ,"Replacement of Right Lower Leg Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRKXK3,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRKXK4,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRLX73,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRLX74,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRLXJ3,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRLXJ4,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRLXJZ,"Replacement of Left Lower Leg Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRLXK3,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRLXK4,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRMX73,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRMX74,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRMXJ3,"Replacement of Right Foot Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRMXJ4,"Replacement of Right Foot Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRMXJZ,"Replacement of Right Foot Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRMXK3,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRMXK4,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRNX73,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRNX74,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRNXJ3,"Replacement of Left Foot Skin with Synthetic Substitute, Full Thickness, External Approach"
+DRG00264,0HRNXJ4,"Replacement of Left Foot Skin with Synthetic Substitute, Partial Thickness, External Approach"
+DRG00264,0HRNXJZ,"Replacement of Left Foot Skin with Synthetic Substitute, External Approach"
+DRG00264,0HRNXK3,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach"
+DRG00264,0HRNXK4,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach"
+DRG00264,0HRTX7Z,"Replacement of Right Breast with Autologous Tissue Substitute, External Approach"
+DRG00264,0HRTXKZ,"Replacement of Right Breast with Nonautologous Tissue Substitute, External Approach"
+DRG00264,0HRUX7Z,"Replacement of Left Breast with Autologous Tissue Substitute, External Approach"
+DRG00264,0HRUXKZ,"Replacement of Left Breast with Nonautologous Tissue Substitute, External Approach"
+DRG00264,0HRVX7Z,"Replacement of Bilateral Breast with Autologous Tissue Substitute, External Approach"
+DRG00264,0HRVXKZ,"Replacement of Bilateral Breast with Nonautologous Tissue Substitute, External Approach"
+DRG00264,0HX0XZZ,"Transfer Scalp Skin, External Approach"
+DRG00264,0HX1XZZ,"Transfer Face Skin, External Approach"
+DRG00264,0HX4XZZ,"Transfer Neck Skin, External Approach"
+DRG00264,0HX5XZZ,"Transfer Chest Skin, External Approach"
+DRG00264,0HX6XZZ,"Transfer Back Skin, External Approach"
+DRG00264,0HX7XZZ,"Transfer Abdomen Skin, External Approach"
+DRG00264,0HX8XZZ,"Transfer Buttock Skin, External Approach"
+DRG00264,0HX9XZZ,"Transfer Perineum Skin, External Approach"
+DRG00264,0HXAXZZ,"Transfer Genitalia Skin, External Approach"
+DRG00264,0HXBXZZ,"Transfer Right Upper Arm Skin, External Approach"
+DRG00264,0HXCXZZ,"Transfer Left Upper Arm Skin, External Approach"
+DRG00264,0HXDXZZ,"Transfer Right Lower Arm Skin, External Approach"
+DRG00264,0HXEXZZ,"Transfer Left Lower Arm Skin, External Approach"
+DRG00264,0HXFXZZ,"Transfer Right Hand Skin, External Approach"
+DRG00264,0HXGXZZ,"Transfer Left Hand Skin, External Approach"
+DRG00264,0HXHXZZ,"Transfer Right Upper Leg Skin, External Approach"
+DRG00264,0HXJXZZ,"Transfer Left Upper Leg Skin, External Approach"
+DRG00264,0HXKXZZ,"Transfer Right Lower Leg Skin, External Approach"
+DRG00264,0HXLXZZ,"Transfer Left Lower Leg Skin, External Approach"
+DRG00264,0HXMXZZ,"Transfer Right Foot Skin, External Approach"
+DRG00264,0HXNXZZ,"Transfer Left Foot Skin, External Approach"
+DRG00264,0JB00ZZ,"Excision of Scalp Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB10ZZ,"Excision of Face Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB40ZZ,"Excision of Anterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB50ZZ,"Excision of Posterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB60ZZ,"Excision of Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB70ZZ,"Excision of Back Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB80ZZ,"Excision of Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JB90ZZ,"Excision of Buttock Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBB0ZZ,"Excision of Perineum Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBC0ZZ,"Excision of Pelvic Region Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBD0ZZ,"Excision of Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBF0ZZ,"Excision of Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBG0ZZ,"Excision of Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBH0ZZ,"Excision of Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBL0ZZ,"Excision of Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBM0ZZ,"Excision of Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBN0ZZ,"Excision of Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBP0ZZ,"Excision of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBQ0ZZ,"Excision of Right Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JBR0ZZ,"Excision of Left Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH00NZ,"Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH03NZ,"Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH10NZ,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH13NZ,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH40NZ,"Insertion of Tissue Expander into Anterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH43NZ,"Insertion of Tissue Expander into Anterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH50NZ,"Insertion of Tissue Expander into Posterior Neck Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH53NZ,"Insertion of Tissue Expander into Posterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH60NZ,"Insertion of Tissue Expander into Chest Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH63NZ,"Insertion of Tissue Expander into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH70NZ,"Insertion of Tissue Expander into Back Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH73NZ,"Insertion of Tissue Expander into Back Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH80NZ,"Insertion of Tissue Expander into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH83NZ,"Insertion of Tissue Expander into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JH90NZ,"Insertion of Tissue Expander into Buttock Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JH93NZ,"Insertion of Tissue Expander into Buttock Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHB0NZ,"Insertion of Tissue Expander into Perineum Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHB3NZ,"Insertion of Tissue Expander into Perineum Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHC0NZ,"Insertion of Tissue Expander into Pelvic Region Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHC3NZ,"Insertion of Tissue Expander into Pelvic Region Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHD0NZ,"Insertion of Tissue Expander into Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHD3NZ,"Insertion of Tissue Expander into Right Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHF0NZ,"Insertion of Tissue Expander into Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHF3NZ,"Insertion of Tissue Expander into Left Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHG0NZ,"Insertion of Tissue Expander into Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHG3NZ,"Insertion of Tissue Expander into Right Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHH0NZ,"Insertion of Tissue Expander into Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHH3NZ,"Insertion of Tissue Expander into Left Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHJ0NZ,"Insertion of Tissue Expander into Right Hand Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHJ3NZ,"Insertion of Tissue Expander into Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHK0NZ,"Insertion of Tissue Expander into Left Hand Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHK3NZ,"Insertion of Tissue Expander into Left Hand Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHL0NZ,"Insertion of Tissue Expander into Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHL3NZ,"Insertion of Tissue Expander into Right Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHM0NZ,"Insertion of Tissue Expander into Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHM3NZ,"Insertion of Tissue Expander into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHN0NZ,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHN3NZ,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHP0NZ,"Insertion of Tissue Expander into Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHP3NZ,"Insertion of Tissue Expander into Left Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHQ0NZ,"Insertion of Tissue Expander into Right Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHQ3NZ,"Insertion of Tissue Expander into Right Foot Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JHR0NZ,"Insertion of Tissue Expander into Left Foot Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JHR3NZ,"Insertion of Tissue Expander into Left Foot Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX00ZB,"Transfer Scalp Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX00ZC,"Transfer Scalp Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX03ZB,"Transfer Scalp Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX03ZC,"Transfer Scalp Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX10ZB,"Transfer Face Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX10ZC,"Transfer Face Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX13ZB,"Transfer Face Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX13ZC,"Transfer Face Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX40ZB,"Transfer Anterior Neck Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX40ZC,"Transfer Anterior Neck Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX43ZB,"Transfer Anterior Neck Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX43ZC,"Transfer Anterior Neck Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX50ZB,"Transfer Posterior Neck Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX50ZC,"Transfer Posterior Neck Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX53ZB,"Transfer Posterior Neck Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX53ZC,"Transfer Posterior Neck Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX60ZB,"Transfer Chest Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX60ZC,"Transfer Chest Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX63ZB,"Transfer Chest Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX63ZC,"Transfer Chest Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX70ZB,"Transfer Back Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX70ZC,"Transfer Back Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX73ZB,"Transfer Back Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX73ZC,"Transfer Back Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX80ZB,"Transfer Abdomen Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX80ZC,"Transfer Abdomen Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX83ZB,"Transfer Abdomen Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX83ZC,"Transfer Abdomen Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JX90ZB,"Transfer Buttock Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JX90ZC,"Transfer Buttock Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JX93ZB,"Transfer Buttock Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JX93ZC,"Transfer Buttock Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXB0ZB,"Transfer Perineum Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXB0ZC,"Transfer Perineum Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXB3ZB,"Transfer Perineum Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXB3ZC,"Transfer Perineum Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXC0ZB,"Transfer Pelvic Region Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXC0ZC,"Transfer Pelvic Region Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXC3ZB,"Transfer Pelvic Region Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXC3ZC,"Transfer Pelvic Region Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXD0ZB,"Transfer Right Upper Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXD0ZC,"Transfer Right Upper Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXD3ZB,"Transfer Right Upper Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXD3ZC,"Transfer Right Upper Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXF0ZB,"Transfer Left Upper Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXF0ZC,"Transfer Left Upper Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXF3ZB,"Transfer Left Upper Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXF3ZC,"Transfer Left Upper Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXG0ZB,"Transfer Right Lower Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXG0ZC,"Transfer Right Lower Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXG3ZB,"Transfer Right Lower Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXG3ZC,"Transfer Right Lower Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXH0ZB,"Transfer Left Lower Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXH0ZC,"Transfer Left Lower Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXH3ZB,"Transfer Left Lower Arm Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXH3ZC,"Transfer Left Lower Arm Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXJ0ZB,"Transfer Right Hand Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXJ0ZC,"Transfer Right Hand Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXJ3ZB,"Transfer Right Hand Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXJ3ZC,"Transfer Right Hand Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXK0ZB,"Transfer Left Hand Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXK0ZC,"Transfer Left Hand Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXK3ZB,"Transfer Left Hand Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXK3ZC,"Transfer Left Hand Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXL0ZB,"Transfer Right Upper Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXL0ZC,"Transfer Right Upper Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXL3ZB,"Transfer Right Upper Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXL3ZC,"Transfer Right Upper Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXM0ZB,"Transfer Left Upper Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXM0ZC,"Transfer Left Upper Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXM3ZB,"Transfer Left Upper Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXM3ZC,"Transfer Left Upper Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXN0ZB,"Transfer Right Lower Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXN0ZC,"Transfer Right Lower Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXN3ZB,"Transfer Right Lower Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXN3ZC,"Transfer Right Lower Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXP0ZB,"Transfer Left Lower Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXP0ZC,"Transfer Left Lower Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXP3ZB,"Transfer Left Lower Leg Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXP3ZC,"Transfer Left Lower Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXQ0ZB,"Transfer Right Foot Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXQ0ZC,"Transfer Right Foot Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXQ3ZB,"Transfer Right Foot Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXQ3ZC,"Transfer Right Foot Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0JXR0ZB,"Transfer Left Foot Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Open Approach"
+DRG00264,0JXR0ZC,"Transfer Left Foot Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach"
+DRG00264,0JXR3ZB,"Transfer Left Foot Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach"
+DRG00264,0JXR3ZC,"Transfer Left Foot Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Percutaneous Approach"
+DRG00264,0KXH0ZZ,"Transfer Right Thorax Muscle, Open Approach"
+DRG00264,0KXH4ZZ,"Transfer Right Thorax Muscle, Percutaneous Endoscopic Approach"
+DRG00264,0KXJ0ZZ,"Transfer Left Thorax Muscle, Open Approach"
+DRG00264,0KXJ4ZZ,"Transfer Left Thorax Muscle, Percutaneous Endoscopic Approach"
+DRG00264,0WB00ZZ,"Excision of Head, Open Approach"
+DRG00264,0WB03ZZ,"Excision of Head, Percutaneous Approach"
+DRG00264,0WB04ZZ,"Excision of Head, Percutaneous Endoscopic Approach"
+DRG00264,0WB0XZZ,"Excision of Head, External Approach"
+DRG00264,0WB20ZZ,"Excision of Face, Open Approach"
+DRG00264,0WB23ZZ,"Excision of Face, Percutaneous Approach"
+DRG00264,0WB24ZZ,"Excision of Face, Percutaneous Endoscopic Approach"
+DRG00264,0WB2XZZ,"Excision of Face, External Approach"
+DRG00264,0WB40ZZ,"Excision of Upper Jaw, Open Approach"
+DRG00264,0WB43ZZ,"Excision of Upper Jaw, Percutaneous Approach"
+DRG00264,0WB44ZZ,"Excision of Upper Jaw, Percutaneous Endoscopic Approach"
+DRG00264,0WB4XZZ,"Excision of Upper Jaw, External Approach"
+DRG00264,0WB50ZZ,"Excision of Lower Jaw, Open Approach"
+DRG00264,0WB53ZZ,"Excision of Lower Jaw, Percutaneous Approach"
+DRG00264,0WB54ZZ,"Excision of Lower Jaw, Percutaneous Endoscopic Approach"
+DRG00264,0WB5XZZ,"Excision of Lower Jaw, External Approach"
+DRG00264,0WB60ZZ,"Excision of Neck, Open Approach"
+DRG00264,0WB63ZZ,"Excision of Neck, Percutaneous Approach"
+DRG00264,0WB64ZZ,"Excision of Neck, Percutaneous Endoscopic Approach"
+DRG00264,0WB6XZZ,"Excision of Neck, External Approach"
+DRG00264,0WBK0ZZ,"Excision of Upper Back, Open Approach"
+DRG00264,0WBK3ZZ,"Excision of Upper Back, Percutaneous Approach"
+DRG00264,0WBK4ZZ,"Excision of Upper Back, Percutaneous Endoscopic Approach"
+DRG00264,0WBKXZZ,"Excision of Upper Back, External Approach"
+DRG00264,0WBL0ZZ,"Excision of Lower Back, Open Approach"
+DRG00264,0WBL3ZZ,"Excision of Lower Back, Percutaneous Approach"
+DRG00264,0WBL4ZZ,"Excision of Lower Back, Percutaneous Endoscopic Approach"
+DRG00264,0WBLXZZ,"Excision of Lower Back, External Approach"
+DRG00264,0WBM0ZZ,"Excision of Male Perineum, Open Approach"
+DRG00264,0WBM3ZZ,"Excision of Male Perineum, Percutaneous Approach"
+DRG00264,0WBM4ZZ,"Excision of Male Perineum, Percutaneous Endoscopic Approach"
+DRG00264,0WBMXZZ,"Excision of Male Perineum, External Approach"
+DRG00264,0WU007Z,"Supplement Head with Autologous Tissue Substitute, Open Approach"
+DRG00264,0WU047Z,"Supplement Head with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0WU207Z,"Supplement Face with Autologous Tissue Substitute, Open Approach"
+DRG00264,0WU247Z,"Supplement Face with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0WU607Z,"Supplement Neck with Autologous Tissue Substitute, Open Approach"
+DRG00264,0WU647Z,"Supplement Neck with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0WUK07Z,"Supplement Upper Back with Autologous Tissue Substitute, Open Approach"
+DRG00264,0WUK47Z,"Supplement Upper Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0WUL07Z,"Supplement Lower Back with Autologous Tissue Substitute, Open Approach"
+DRG00264,0WUL47Z,"Supplement Lower Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XB20ZZ,"Excision of Right Shoulder Region, Open Approach"
+DRG00264,0XB23ZZ,"Excision of Right Shoulder Region, Percutaneous Approach"
+DRG00264,0XB24ZZ,"Excision of Right Shoulder Region, Percutaneous Endoscopic Approach"
+DRG00264,0XB30ZZ,"Excision of Left Shoulder Region, Open Approach"
+DRG00264,0XB33ZZ,"Excision of Left Shoulder Region, Percutaneous Approach"
+DRG00264,0XB34ZZ,"Excision of Left Shoulder Region, Percutaneous Endoscopic Approach"
+DRG00264,0XB40ZZ,"Excision of Right Axilla, Open Approach"
+DRG00264,0XB43ZZ,"Excision of Right Axilla, Percutaneous Approach"
+DRG00264,0XB44ZZ,"Excision of Right Axilla, Percutaneous Endoscopic Approach"
+DRG00264,0XB50ZZ,"Excision of Left Axilla, Open Approach"
+DRG00264,0XB53ZZ,"Excision of Left Axilla, Percutaneous Approach"
+DRG00264,0XB54ZZ,"Excision of Left Axilla, Percutaneous Endoscopic Approach"
+DRG00264,0XB60ZZ,"Excision of Right Upper Extremity, Open Approach"
+DRG00264,0XB63ZZ,"Excision of Right Upper Extremity, Percutaneous Approach"
+DRG00264,0XB64ZZ,"Excision of Right Upper Extremity, Percutaneous Endoscopic Approach"
+DRG00264,0XB70ZZ,"Excision of Left Upper Extremity, Open Approach"
+DRG00264,0XB73ZZ,"Excision of Left Upper Extremity, Percutaneous Approach"
+DRG00264,0XB74ZZ,"Excision of Left Upper Extremity, Percutaneous Endoscopic Approach"
+DRG00264,0XB80ZZ,"Excision of Right Upper Arm, Open Approach"
+DRG00264,0XB83ZZ,"Excision of Right Upper Arm, Percutaneous Approach"
+DRG00264,0XB84ZZ,"Excision of Right Upper Arm, Percutaneous Endoscopic Approach"
+DRG00264,0XB90ZZ,"Excision of Left Upper Arm, Open Approach"
+DRG00264,0XB93ZZ,"Excision of Left Upper Arm, Percutaneous Approach"
+DRG00264,0XB94ZZ,"Excision of Left Upper Arm, Percutaneous Endoscopic Approach"
+DRG00264,0XBB0ZZ,"Excision of Right Elbow Region, Open Approach"
+DRG00264,0XBB3ZZ,"Excision of Right Elbow Region, Percutaneous Approach"
+DRG00264,0XBB4ZZ,"Excision of Right Elbow Region, Percutaneous Endoscopic Approach"
+DRG00264,0XBC0ZZ,"Excision of Left Elbow Region, Open Approach"
+DRG00264,0XBC3ZZ,"Excision of Left Elbow Region, Percutaneous Approach"
+DRG00264,0XBC4ZZ,"Excision of Left Elbow Region, Percutaneous Endoscopic Approach"
+DRG00264,0XBD0ZZ,"Excision of Right Lower Arm, Open Approach"
+DRG00264,0XBD3ZZ,"Excision of Right Lower Arm, Percutaneous Approach"
+DRG00264,0XBD4ZZ,"Excision of Right Lower Arm, Percutaneous Endoscopic Approach"
+DRG00264,0XBF0ZZ,"Excision of Left Lower Arm, Open Approach"
+DRG00264,0XBF3ZZ,"Excision of Left Lower Arm, Percutaneous Approach"
+DRG00264,0XBF4ZZ,"Excision of Left Lower Arm, Percutaneous Endoscopic Approach"
+DRG00264,0XBG0ZZ,"Excision of Right Wrist Region, Open Approach"
+DRG00264,0XBG3ZZ,"Excision of Right Wrist Region, Percutaneous Approach"
+DRG00264,0XBG4ZZ,"Excision of Right Wrist Region, Percutaneous Endoscopic Approach"
+DRG00264,0XBH0ZZ,"Excision of Left Wrist Region, Open Approach"
+DRG00264,0XBH3ZZ,"Excision of Left Wrist Region, Percutaneous Approach"
+DRG00264,0XBH4ZZ,"Excision of Left Wrist Region, Percutaneous Endoscopic Approach"
+DRG00264,0XBJ0ZZ,"Excision of Right Hand, Open Approach"
+DRG00264,0XBJ3ZZ,"Excision of Right Hand, Percutaneous Approach"
+DRG00264,0XBJ4ZZ,"Excision of Right Hand, Percutaneous Endoscopic Approach"
+DRG00264,0XBK0ZZ,"Excision of Left Hand, Open Approach"
+DRG00264,0XBK3ZZ,"Excision of Left Hand, Percutaneous Approach"
+DRG00264,0XBK4ZZ,"Excision of Left Hand, Percutaneous Endoscopic Approach"
+DRG00264,0XU207Z,"Supplement Right Shoulder Region with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU247Z,"Supplement Right Shoulder Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU307Z,"Supplement Left Shoulder Region with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU347Z,"Supplement Left Shoulder Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU407Z,"Supplement Right Axilla with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU447Z,"Supplement Right Axilla with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU507Z,"Supplement Left Axilla with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU547Z,"Supplement Left Axilla with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU607Z,"Supplement Right Upper Extremity with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU647Z,"Supplement Right Upper Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU707Z,"Supplement Left Upper Extremity with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU747Z,"Supplement Left Upper Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU807Z,"Supplement Right Upper Arm with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU847Z,"Supplement Right Upper Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XU907Z,"Supplement Left Upper Arm with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XU947Z,"Supplement Left Upper Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUB07Z,"Supplement Right Elbow Region with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUB47Z,"Supplement Right Elbow Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUC07Z,"Supplement Left Elbow Region with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUC47Z,"Supplement Left Elbow Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUD07Z,"Supplement Right Lower Arm with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUD47Z,"Supplement Right Lower Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUF07Z,"Supplement Left Lower Arm with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUF47Z,"Supplement Left Lower Arm with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUG07Z,"Supplement Right Wrist Region with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUG47Z,"Supplement Right Wrist Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUH07Z,"Supplement Left Wrist Region with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUH47Z,"Supplement Left Wrist Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUJ07Z,"Supplement Right Hand with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUJ47Z,"Supplement Right Hand with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUK07Z,"Supplement Left Hand with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUK47Z,"Supplement Left Hand with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUL07Z,"Supplement Right Thumb with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUL47Z,"Supplement Right Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUM07Z,"Supplement Left Thumb with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUM47Z,"Supplement Left Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUN07Z,"Supplement Right Index Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUN47Z,"Supplement Right Index Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUP07Z,"Supplement Left Index Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUP47Z,"Supplement Left Index Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUQ07Z,"Supplement Right Middle Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUQ47Z,"Supplement Right Middle Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUR07Z,"Supplement Left Middle Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUR47Z,"Supplement Left Middle Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUS07Z,"Supplement Right Ring Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUS47Z,"Supplement Right Ring Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUT07Z,"Supplement Left Ring Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUT47Z,"Supplement Left Ring Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUV07Z,"Supplement Right Little Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUV47Z,"Supplement Right Little Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0XUW07Z,"Supplement Left Little Finger with Autologous Tissue Substitute, Open Approach"
+DRG00264,0XUW47Z,"Supplement Left Little Finger with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG00264,0YB00ZZ,"Excision of Right Buttock, Open Approach"
+DRG00264,0YB03ZZ,"Excision of Right Buttock, Percutaneous Approach"
+DRG00264,0YB04ZZ,"Excision of Right Buttock, Percutaneous Endoscopic Approach"
+DRG00264,0YB10ZZ,"Excision of Left Buttock, Open Approach"
+DRG00264,0YB13ZZ,"Excision of Left Buttock, Percutaneous Approach"
+DRG00264,0YB14ZZ,"Excision of Left Buttock, Percutaneous Endoscopic Approach"
+DRG00264,0YB90ZZ,"Excision of Right Lower Extremity, Open Approach"
+DRG00264,0YB93ZZ,"Excision of Right Lower Extremity, Percutaneous Approach"
+DRG00264,0YB94ZZ,"Excision of Right Lower Extremity, Percutaneous Endoscopic Approach"
+DRG00264,0YBB0ZZ,"Excision of Left Lower Extremity, Open Approach"
+DRG00264,0YBB3ZZ,"Excision of Left Lower Extremity, Percutaneous Approach"
+DRG00264,0YBB4ZZ,"Excision of Left Lower Extremity, Percutaneous Endoscopic Approach"
+DRG00264,0YBC0ZZ,"Excision of Right Upper Leg, Open Approach"
+DRG00264,0YBC3ZZ,"Excision of Right Upper Leg, Percutaneous Approach"
+DRG00264,0YBC4ZZ,"Excision of Right Upper Leg, Percutaneous Endoscopic Approach"
+DRG00264,0YBD0ZZ,"Excision of Left Upper Leg, Open Approach"
+DRG00264,0YBD3ZZ,"Excision of Left Upper Leg, Percutaneous Approach"
+DRG00264,0YBD4ZZ,"Excision of Left Upper Leg, Percutaneous Endoscopic Approach"
+DRG00264,0YBF0ZZ,"Excision of Right Knee Region, Open Approach"
+DRG00264,0YBF3ZZ,"Excision of Right Knee Region, Percutaneous Approach"
+DRG00264,0YBF4ZZ,"Excision of Right Knee Region, Percutaneous Endoscopic Approach"
+DRG00264,0YBG0ZZ,"Excision of Left Knee Region, Open Approach"
+DRG00264,0YBG3ZZ,"Excision of Left Knee Region, Percutaneous Approach"
+DRG00264,0YBG4ZZ,"Excision of Left Knee Region, Percutaneous Endoscopic Approach"
+DRG00264,0YBH0ZZ,"Excision of Right Lower Leg, Open Approach"
+DRG00264,0YBH3ZZ,"Excision of Right Lower Leg, Percutaneous Approach"
+DRG00264,0YBH4ZZ,"Excision of Right Lower Leg, Percutaneous Endoscopic Approach"
+DRG00264,0YBJ0ZZ,"Excision of Left Lower Leg, Open Approach"
+DRG00264,0YBJ3ZZ,"Excision of Left Lower Leg, Percutaneous Approach"
+DRG00264,0YBJ4ZZ,"Excision of Left Lower Leg, Percutaneous Endoscopic Approach"
+DRG00264,0YBK0ZZ,"Excision of Right Ankle Region, Open Approach"
+DRG00264,0YBK3ZZ,"Excision of Right Ankle Region, Percutaneous Approach"
+DRG00264,0YBK4ZZ,"Excision of Right Ankle Region, Percutaneous Endoscopic Approach"
+DRG00264,0YBL0ZZ,"Excision of Left Ankle Region, Open Approach"
+DRG00264,0YBL3ZZ,"Excision of Left Ankle Region, Percutaneous Approach"
+DRG00264,0YBL4ZZ,"Excision of Left Ankle Region, Percutaneous Endoscopic Approach"
+DRG00264,0YBM0ZZ,"Excision of Right Foot, Open Approach"
+DRG00264,0YBM3ZZ,"Excision of Right Foot, Percutaneous Approach"
+DRG00264,0YBM4ZZ,"Excision of Right Foot, Percutaneous Endoscopic Approach"
+DRG00264,0YBN0ZZ,"Excision of Left Foot, Open Approach"
+DRG00264,0YBN3ZZ,"Excision of Left Foot, Percutaneous Approach"
+DRG00264,0YBN4ZZ,"Excision of Left Foot, Percutaneous Endoscopic Approach"

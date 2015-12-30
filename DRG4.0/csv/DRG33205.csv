@@ -1,0 +1,67 @@
+DRG,CM-PCS,en
+DRG33205,N1370,"Vesicoureteral-reflux, unspecified"
+DRG33205,N1371,Vesicoureteral-reflux without reflux nephropathy
+DRG33205,N13721,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, unilateral"
+DRG33205,N13731,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, unilateral"
+DRG33205,Q600,"Renal agenesis, unilateral"
+DRG33205,Q601,"Renal agenesis, bilateral"
+DRG33205,Q602,"Renal agenesis, unspecified"
+DRG33205,Q603,"Renal hypoplasia, unilateral"
+DRG33205,Q604,"Renal hypoplasia, bilateral"
+DRG33205,Q605,"Renal hypoplasia, unspecified"
+DRG33205,Q606,Potter's syndrome
+DRG33205,Q6100,"Congenital renal cyst, unspecified"
+DRG33205,Q6101,Congenital single renal cyst
+DRG33205,Q6102,Congenital multiple renal cysts
+DRG33205,Q6111,Cystic dilatation of collecting ducts
+DRG33205,Q6119,"Other polycystic kidney, infantile type"
+DRG33205,Q612,"Polycystic kidney, adult type"
+DRG33205,Q613,"Polycystic kidney, unspecified"
+DRG33205,Q614,Renal dysplasia
+DRG33205,Q615,Medullary cystic kidney
+DRG33205,Q618,Other cystic kidney diseases
+DRG33205,Q619,"Cystic kidney disease, unspecified"
+DRG33205,Q620,Congenital hydronephrosis
+DRG33205,Q6210,"Congenital occlusion of ureter, unspecified"
+DRG33205,Q6211,Congenital occlusion of ureteropelvic junction
+DRG33205,Q6212,Congenital occlusion of ureterovesical orifice
+DRG33205,Q622,Congenital megaureter
+DRG33205,Q6231,"Congenital ureterocele, orthotopic"
+DRG33205,Q6232,Cecoureterocele
+DRG33205,Q6239,Other obstructive defects of renal pelvis and ureter
+DRG33205,Q624,Agenesis of ureter
+DRG33205,Q625,Duplication of ureter
+DRG33205,Q6260,"Malposition of ureter, unspecified"
+DRG33205,Q6261,Deviation of ureter
+DRG33205,Q6262,Displacement of ureter
+DRG33205,Q6263,Anomalous implantation of ureter
+DRG33205,Q6269,Other malposition of ureter
+DRG33205,Q627,Congenital vesico-uretero-renal reflux
+DRG33205,Q628,Other congenital malformations of ureter
+DRG33205,Q630,Accessory kidney
+DRG33205,Q631,"Lobulated, fused and horseshoe kidney"
+DRG33205,Q632,Ectopic kidney
+DRG33205,Q633,Hyperplastic and giant kidney
+DRG33205,Q638,Other specified congenital malformations of kidney
+DRG33205,Q639,"Congenital malformation of kidney, unspecified"
+DRG33205,Q6410,"Exstrophy of urinary bladder, unspecified"
+DRG33205,Q6411,Supravesical fissure of urinary bladder
+DRG33205,Q6412,Cloacal extrophy of urinary bladder
+DRG33205,Q6419,Other exstrophy of urinary bladder
+DRG33205,Q642,Congenital posterior urethral valves
+DRG33205,Q6431,Congenital bladder neck obstruction
+DRG33205,Q6432,Congenital stricture of urethra
+DRG33205,Q6433,Congenital stricture of urinary meatus
+DRG33205,Q6439,Other atresia and stenosis of urethra and bladder neck
+DRG33205,Q644,Malformation of urachus
+DRG33205,Q645,Congenital absence of bladder and urethra
+DRG33205,Q646,Congenital diverticulum of bladder
+DRG33205,Q6470,Unspecified congenital malformation of bladder and urethra
+DRG33205,Q6471,Congenital prolapse of urethra
+DRG33205,Q6472,Congenital prolapse of urinary meatus
+DRG33205,Q6473,Congenital urethrorectal fistula
+DRG33205,Q6474,Double urethra
+DRG33205,Q6475,Double urinary meatus
+DRG33205,Q6479,Other congenital malformations of bladder and urethra
+DRG33205,Q648,Other specified congenital malformations of urinary system
+DRG33205,Q649,"Congenital malformation of urinary system, unspecified"

@@ -1,0 +1,9 @@
+DRG,CM-PCS,en
+DRG39805,D700,Congenital agranulocytosis
+DRG39805,D701,Agranulocytosis secondary to cancer chemotherapy
+DRG39805,D702,Other drug-induced agranulocytosis
+DRG39805,D703,Neutropenia due to infection
+DRG39805,D704,Cyclic neutropenia
+DRG39805,D708,Other neutropenia
+DRG39805,D709,"Neutropenia, unspecified"
+DRG39805,D7381,Neutropenic splenomegaly

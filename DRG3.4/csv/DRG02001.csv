@@ -1,1 +1,38 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG02001.csv
+DRG,CM-PCS,en
+DRG02001,A066,Amebic brain abscess
+DRG02001,A170,Tuberculous meningitis
+DRG02001,A171,Meningeal tuberculoma
+DRG02001,A1781,Tuberculoma of brain and spinal cord
+DRG02001,A1782,Tuberculous meningoencephalitis
+DRG02001,A1783,Tuberculous neuritis
+DRG02001,A1789,Other tuberculosis of nervous system
+DRG02001,A2781,Aseptic meningitis in leptospirosis
+DRG02001,A2789,Other forms of leptospirosis
+DRG02001,A5481,Gonococcal meningitis
+DRG02001,B375,Candidal meningitis
+DRG02001,B384,Coccidioidomycosis meningitis
+DRG02001,B582,Toxoplasma meningoencephalitis
+DRG02001,G000,Hemophilus meningitis
+DRG02001,G001,Pneumococcal meningitis
+DRG02001,G002,Streptococcal meningitis
+DRG02001,G003,Staphylococcal meningitis
+DRG02001,G008,Other bacterial meningitis
+DRG02001,G009,"Bacterial meningitis, unspecified"
+DRG02001,G030,Nonpyogenic meningitis
+DRG02001,G031,Chronic meningitis
+DRG02001,G039,"Meningitis, unspecified"
+DRG02001,G0400,"Acute disseminated encephalitis and encephalomyelitis, unspecified"
+DRG02001,G0401,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)
+DRG02001,G0402,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis"
+DRG02001,G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+DRG02001,G0432,Postimmunization acute necrotizing hemorrhagic encephalopathy
+DRG02001,G0481,Other encephalitis and encephalomyelitis
+DRG02001,G0489,Other myelitis
+DRG02001,G0490,"Encephalitis and encephalomyelitis, unspecified"
+DRG02001,G0491,"Myelitis, unspecified"
+DRG02001,G060,Intracranial abscess and granuloma
+DRG02001,G061,Intraspinal abscess and granuloma
+DRG02001,G062,"Extradural and subdural abscess, unspecified"
+DRG02001,G373,Acute transverse myelitis in demyelinating disease of central nervous system
+DRG02001,G374,Subacute necrotizing myelitis of central nervous system
+DRG02001,G610,Guillain-Barre syndrome

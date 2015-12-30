@@ -1,1 +1,74 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG01202.csv
+DRG,CM-PCS,en
+DRG01202,E7500,"GM2 gangliosidosis, unspecified"
+DRG01202,E7501,Sandhoff disease
+DRG01202,E7502,Tay-Sachs disease
+DRG01202,E7509,Other GM2 gangliosidosis
+DRG01202,E7510,Unspecified gangliosidosis
+DRG01202,E7511,Mucolipidosis IV
+DRG01202,E7519,Other gangliosidosis
+DRG01202,E7525,Metachromatic leukodystrophy
+DRG01202,E7529,Other sphingolipidosis
+DRG01202,E754,Neuronal ceroid lipofuscinosis
+DRG01202,F0789,Other personality and behavioral disorders due to known physiological condition
+DRG01202,F842,Rett's syndrome
+DRG01202,G10,Huntington's disease
+DRG01202,G120,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]"
+DRG01202,G121,Other inherited spinal muscular atrophy
+DRG01202,G1220,"Motor neuron disease, unspecified"
+DRG01202,G1221,Amyotrophic lateral sclerosis
+DRG01202,G1222,Progressive bulbar palsy
+DRG01202,G1229,Other motor neuron disease
+DRG01202,G128,Other spinal muscular atrophies and related syndromes
+DRG01202,G129,"Spinal muscular atrophy, unspecified"
+DRG01202,G20,Parkinson's disease
+DRG01202,G2111,Neuroleptic induced parkinsonism
+DRG01202,G2119,Other drug induced secondary parkinsonism
+DRG01202,G212,Secondary parkinsonism due to other external agents
+DRG01202,G213,Postencephalitic parkinsonism
+DRG01202,G214,Vascular parkinsonism
+DRG01202,G218,Other secondary parkinsonism
+DRG01202,G219,"Secondary parkinsonism, unspecified"
+DRG01202,G230,Hallervorden-Spatz disease
+DRG01202,G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]
+DRG01202,G232,Striatonigral degeneration
+DRG01202,G238,Other specified degenerative diseases of basal ganglia
+DRG01202,G239,"Degenerative disease of basal ganglia, unspecified"
+DRG01202,G2402,Drug induced acute dystonia
+DRG01202,G2409,Other drug induced dystonia
+DRG01202,G241,Genetic torsion dystonia
+DRG01202,G242,Idiopathic nonfamilial dystonia
+DRG01202,G248,Other dystonia
+DRG01202,G254,Drug-induced chorea
+DRG01202,G255,Other chorea
+DRG01202,G2570,"Drug induced movement disorder, unspecified"
+DRG01202,G2571,Drug induced akathisia
+DRG01202,G2579,Other drug induced movement disorders
+DRG01202,G2581,Restless legs syndrome
+DRG01202,G2589,Other specified extrapyramidal and movement disorders
+DRG01202,G259,"Extrapyramidal and movement disorder, unspecified"
+DRG01202,G300,Alzheimer's disease with early onset
+DRG01202,G301,Alzheimer's disease with late onset
+DRG01202,G308,Other Alzheimer's disease
+DRG01202,G309,"Alzheimer's disease, unspecified"
+DRG01202,G3101,Pick's disease
+DRG01202,G3109,Other frontotemporal dementia
+DRG01202,G311,"Senile degeneration of brain, not elsewhere classified"
+DRG01202,G3181,Alpers disease
+DRG01202,G3182,Leigh's disease
+DRG01202,G3183,Dementia with Lewy bodies
+DRG01202,G3184,"Mild cognitive impairment, so stated"
+DRG01202,G3185,Corticobasal degeneration
+DRG01202,G3189,Other specified degenerative diseases of nervous system
+DRG01202,G319,"Degenerative disease of nervous system, unspecified"
+DRG01202,G312,Degeneration of nervous system due to alcohol
+DRG01202,G7000,Myasthenia gravis without (acute) exacerbation
+DRG01202,G7001,Myasthenia gravis with (acute) exacerbation
+DRG01202,G803,Athetoid cerebral palsy
+DRG01202,G903,Multi-system degeneration of the autonomic nervous system
+DRG01202,G910,Communicating hydrocephalus
+DRG01202,G911,Obstructive hydrocephalus
+DRG01202,G912,(Idiopathic) normal pressure hydrocephalus
+DRG01202,G913,"Post-traumatic hydrocephalus, unspecified"
+DRG01202,G918,Other hydrocephalus
+DRG01202,G919,"Hydrocephalus, unspecified"
+DRG01202,G950,Syringomyelia and syringobulbia

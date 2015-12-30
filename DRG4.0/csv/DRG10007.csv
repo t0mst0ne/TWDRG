@@ -1,0 +1,19 @@
+DRG,CM-PCS,en
+DRG10007,R05,Cough
+DRG10007,R0600,"Dyspnea, unspecified"
+DRG10007,R0601,Orthopnea
+DRG10007,R0602,Shortness of breath
+DRG10007,R0609,Other forms of dyspnea
+DRG10007,R061,Stridor
+DRG10007,R062,Wheezing
+DRG10007,R063,Periodic breathing
+DRG10007,R066,Hiccough
+DRG10007,R0682,"Tachypnea, not elsewhere classified"
+DRG10007,R0683,Snoring
+DRG10007,R0689,Other abnormalities of breathing
+DRG10007,R069,Unspecified abnormalities of breathing
+DRG10007,R071,Chest pain on breathing
+DRG10007,R0781,Pleurodynia
+DRG10007,R093,Abnormal sputum
+DRG10007,R222,"Localized swelling, mass and lump, trunk"
+DRG10007,R918,Other nonspecific abnormal finding of lung field

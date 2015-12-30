@@ -1,0 +1,35 @@
+DRG,CM-PCS,en
+DRG29806,E15,Nondiabetic hypoglycemic coma
+DRG29806,E162,"Hypoglycemia, unspecified"
+DRG29806,E201,Pseudohypoparathyroidism
+DRG29806,E65,Localized adiposity
+DRG29806,E6601,Morbid (severe) obesity due to excess calories
+DRG29806,E6609,Other obesity due to excess calories
+DRG29806,E661,Drug-induced obesity
+DRG29806,E662,Morbid (severe) obesity with alveolar hypoventilation
+DRG29806,E668,Other obesity
+DRG29806,E669,"Obesity, unspecified"
+DRG29806,E8350,Unspecified disorder of calcium metabolism
+DRG29806,E8351,Hypocalcemia
+DRG29806,E8352,Hypercalcemia
+DRG29806,E8359,Other disorders of calcium metabolism
+DRG29806,E8381,Hungry bone syndrome
+DRG29806,E870,Hyperosmolality and hypernatremia
+DRG29806,E871,Hypo-osmolality and hyponatremia
+DRG29806,E872,Acidosis
+DRG29806,E873,Alkalosis
+DRG29806,E874,Mixed disorder of acid-base balance
+DRG29806,E875,Hyperkalemia
+DRG29806,E876,Hypokalemia
+DRG29806,E878,"Other disorders of electrolyte and fluid balance, not elsewhere classified"
+DRG29806,E891,Postprocedural hypoinsulinemia
+DRG29806,R631,Polydipsia
+DRG29806,R632,Polyphagia
+DRG29806,R634,Abnormal weight loss
+DRG29806,R635,Abnormal weight gain
+DRG29806,R636,Underweight
+DRG29806,R7301,Impaired fasting glucose
+DRG29806,R7302,Impaired glucose tolerance (oral)
+DRG29806,R7309,Other abnormal glucose
+DRG29806,R739,"Hyperglycemia, unspecified"
+DRG29806,R824,Acetonuria

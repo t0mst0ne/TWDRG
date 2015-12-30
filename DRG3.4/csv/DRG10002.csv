@@ -1,1 +1,19 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG10002.csv
+DRG,CM-PCS,en
+DRG10002,R05,Cough
+DRG10002,R0600,"Dyspnea, unspecified"
+DRG10002,R0601,Orthopnea
+DRG10002,R0602,Shortness of breath
+DRG10002,R0609,Other forms of dyspnea
+DRG10002,R061,Stridor
+DRG10002,R062,Wheezing
+DRG10002,R063,Periodic breathing
+DRG10002,R066,Hiccough
+DRG10002,R0682,"Tachypnea, not elsewhere classified"
+DRG10002,R0683,Snoring
+DRG10002,R0689,Other abnormalities of breathing
+DRG10002,R069,Unspecified abnormalities of breathing
+DRG10002,R071,Chest pain on breathing
+DRG10002,R0781,Pleurodynia
+DRG10002,R093,Abnormal sputum
+DRG10002,R222,"Localized swelling, mass and lump, trunk"
+DRG10002,R918,Other nonspecific abnormal finding of lung field

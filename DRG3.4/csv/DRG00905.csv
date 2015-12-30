@@ -1,1 +1,14 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00905.csv
+DRG,CM-PCS,en
+DRG00905,G041,Tropical spastic paraplegia
+DRG00905,G800,Spastic quadriplegic cerebral palsy
+DRG00905,G801,Spastic diplegic cerebral palsy
+DRG00905,G802,Spastic hemiplegic cerebral palsy
+DRG00905,G8220,"Paraplegia, unspecified"
+DRG00905,G8221,"Paraplegia, complete"
+DRG00905,G8222,"Paraplegia, incomplete"
+DRG00905,G8250,"Quadriplegia, unspecified"
+DRG00905,G8251,"Quadriplegia, C1-C4 complete"
+DRG00905,G8252,"Quadriplegia, C1-C4 incomplete"
+DRG00905,G8253,"Quadriplegia, C5-C7 complete"
+DRG00905,G8254,"Quadriplegia, C5-C7 incomplete"
+DRG00905,G830,Diplegia of upper limbs

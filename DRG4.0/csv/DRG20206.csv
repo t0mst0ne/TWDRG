@@ -1,0 +1,19 @@
+DRG,CM-PCS,en
+DRG20206,K7010,Alcoholic hepatitis without ascites
+DRG20206,K7011,Alcoholic hepatitis with ascites
+DRG20206,K702,Alcoholic fibrosis and sclerosis of liver
+DRG20206,K7030,Alcoholic cirrhosis of liver without ascites
+DRG20206,K7031,Alcoholic cirrhosis of liver with ascites
+DRG20206,K7040,Alcoholic hepatic failure without coma
+DRG20206,K7041,Alcoholic hepatic failure with coma
+DRG20206,K709,"Alcoholic liver disease, unspecified"
+DRG20206,K740,Hepatic fibrosis
+DRG20206,K741,Hepatic sclerosis
+DRG20206,K742,Hepatic fibrosis with hepatic sclerosis
+DRG20206,K743,Primary biliary cirrhosis
+DRG20206,K744,Secondary biliary cirrhosis
+DRG20206,K745,"Biliary cirrhosis, unspecified"
+DRG20206,K7460,Unspecified cirrhosis of liver
+DRG20206,K7469,Other cirrhosis of liver
+DRG20206,I8511,Secondary esophageal varices with bleeding
+DRG20206,K922,"Gastrointestinal hemorrhage, unspecified"

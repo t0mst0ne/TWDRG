@@ -1,0 +1,50 @@
+DRG,CM-PCS,en
+DRG20507,B150,Hepatitis A with hepatic coma
+DRG20507,B160,Acute hepatitis B with delta-agent with hepatic coma
+DRG20507,B1711,Acute hepatitis C with hepatic coma
+DRG20507,B172,Acute hepatitis E
+DRG20507,B178,Other specified acute viral hepatitis
+DRG20507,B180,Chronic viral hepatitis B with delta-agent
+DRG20507,B181,Chronic viral hepatitis B without delta-agent
+DRG20507,B182,Chronic viral hepatitis C
+DRG20507,B190,Unspecified viral hepatitis with hepatic coma
+DRG20507,B1921,Unspecified viral hepatitis C with hepatic coma
+DRG20507,K7200,Acute and subacute hepatic failure without coma
+DRG20507,K7201,Acute and subacute hepatic failure with coma
+DRG20507,K7290,"Hepatic failure, unspecified without coma"
+DRG20507,K7291,"Hepatic failure, unspecified with coma"
+DRG20507,K762,Central hemorrhagic necrosis of liver
+DRG20507,A400,"Sepsis due to streptococcus, group A"
+DRG20507,A401,"Sepsis due to streptococcus, group B"
+DRG20507,A403,Sepsis due to Streptococcus pneumoniae
+DRG20507,A408,Other streptococcal sepsis
+DRG20507,A409,"Streptococcal sepsis, unspecified"
+DRG20507,A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus
+DRG20507,A4102,Sepsis due to Methicillin resistant Staphylococcus aureus
+DRG20507,A411,Sepsis due to other specified staphylococcus
+DRG20507,A412,Sepsis due to unspecified staphylococcus
+DRG20507,A413,Sepsis due to Hemophilus influenzae
+DRG20507,A414,Sepsis due to anaerobes
+DRG20507,A4150,"Gram-negative sepsis, unspecified"
+DRG20507,A4151,Sepsis due to Escherichia coli [E. coli]
+DRG20507,A4152,Sepsis due to Pseudomonas
+DRG20507,A4153,Sepsis due to Serratia
+DRG20507,A4159,Other Gram-negative sepsis
+DRG20507,A4181,Sepsis due to Enterococcus
+DRG20507,A4189,Other specified sepsis
+DRG20507,A419,"Sepsis, unspecified organism"
+DRG20507,B377,Candidal sepsis
+DRG20507,K650,Generalized (acute) peritonitis
+DRG20507,K651,Peritoneal abscess
+DRG20507,K652,Spontaneous bacterial peritonitis
+DRG20507,K653,Choleperitonitis
+DRG20507,K654,Sclerosing mesenteritis
+DRG20507,K658,Other peritonitis
+DRG20507,K659,"Peritonitis, unspecified"
+DRG20507,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+DRG20507,K6811,Postprocedural retroperitoneal abscess
+DRG20507,K6819,Other retroperitoneal abscess
+DRG20507,K689,Other disorders of retroperitoneum
+DRG20507,R6510,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+DRG20507,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+DRG20507,R6520,Severe sepsis without septic shock

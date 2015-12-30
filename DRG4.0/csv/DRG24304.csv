@@ -1,0 +1,154 @@
+DRG,CM-PCS,en
+DRG24304,M4300,"Spondylolysis, site unspecified"
+DRG24304,M4301,"Spondylolysis, occipito-atlanto-axial region"
+DRG24304,M4302,"Spondylolysis, cervical region"
+DRG24304,M4303,"Spondylolysis, cervicothoracic region"
+DRG24304,M4304,"Spondylolysis, thoracic region"
+DRG24304,M4305,"Spondylolysis, thoracolumbar region"
+DRG24304,M4306,"Spondylolysis, lumbar region"
+DRG24304,M4307,"Spondylolysis, lumbosacral region"
+DRG24304,M4308,"Spondylolysis, sacral and sacrococcygeal region"
+DRG24304,M4309,"Spondylolysis, multiple sites in spine"
+DRG24304,M4310,"Spondylolisthesis, site unspecified"
+DRG24304,M4311,"Spondylolisthesis, occipito-atlanto-axial region"
+DRG24304,M4312,"Spondylolisthesis, cervical region"
+DRG24304,M4313,"Spondylolisthesis, cervicothoracic region"
+DRG24304,M4314,"Spondylolisthesis, thoracic region"
+DRG24304,M4315,"Spondylolisthesis, thoracolumbar region"
+DRG24304,M4316,"Spondylolisthesis, lumbar region"
+DRG24304,M4317,"Spondylolisthesis, lumbosacral region"
+DRG24304,M4318,"Spondylolisthesis, sacral and sacrococcygeal region"
+DRG24304,M4319,"Spondylolisthesis, multiple sites in spine"
+DRG24304,M47011,"Anterior spinal artery compression syndromes, occipito-atlanto-axial region"
+DRG24304,M47012,"Anterior spinal artery compression syndromes, cervical region"
+DRG24304,M47013,"Anterior spinal artery compression syndromes, cervicothoracic region"
+DRG24304,M47014,"Anterior spinal artery compression syndromes, thoracic region"
+DRG24304,M47015,"Anterior spinal artery compression syndromes, thoracolumbar region"
+DRG24304,M47016,"Anterior spinal artery compression syndromes, lumbar region"
+DRG24304,M47019,"Anterior spinal artery compression syndromes, site unspecified"
+DRG24304,M47021,"Vertebral artery compression syndromes, occipito-atlanto-axial region"
+DRG24304,M47022,"Vertebral artery compression syndromes, cervical region"
+DRG24304,M47029,"Vertebral artery compression syndromes, site unspecified"
+DRG24304,M4710,"Other spondylosis with myelopathy, site unspecified"
+DRG24304,M4711,"Other spondylosis with myelopathy, occipito-atlanto-axial region"
+DRG24304,M4712,"Other spondylosis with myelopathy, cervical region"
+DRG24304,M4713,"Other spondylosis with myelopathy, cervicothoracic region"
+DRG24304,M4714,"Other spondylosis with myelopathy, thoracic region"
+DRG24304,M4715,"Other spondylosis with myelopathy, thoracolumbar region"
+DRG24304,M4716,"Other spondylosis with myelopathy, lumbar region"
+DRG24304,M4720,"Other spondylosis with radiculopathy, site unspecified"
+DRG24304,M4721,"Other spondylosis with radiculopathy, occipito-atlanto-axial region"
+DRG24304,M4722,"Other spondylosis with radiculopathy, cervical region"
+DRG24304,M4723,"Other spondylosis with radiculopathy, cervicothoracic region"
+DRG24304,M4724,"Other spondylosis with radiculopathy, thoracic region"
+DRG24304,M4725,"Other spondylosis with radiculopathy, thoracolumbar region"
+DRG24304,M4726,"Other spondylosis with radiculopathy, lumbar region"
+DRG24304,M4727,"Other spondylosis with radiculopathy, lumbosacral region"
+DRG24304,M4728,"Other spondylosis with radiculopathy, sacral and sacrococcygeal region"
+DRG24304,M47811,"Spondylosis without myelopathy or radiculopathy, occipito-atlanto-axial region"
+DRG24304,M47812,"Spondylosis without myelopathy or radiculopathy, cervical region"
+DRG24304,M47813,"Spondylosis without myelopathy or radiculopathy, cervicothoracic region"
+DRG24304,M47814,"Spondylosis without myelopathy or radiculopathy, thoracic region"
+DRG24304,M47815,"Spondylosis without myelopathy or radiculopathy, thoracolumbar region"
+DRG24304,M47816,"Spondylosis without myelopathy or radiculopathy, lumbar region"
+DRG24304,M47817,"Spondylosis without myelopathy or radiculopathy, lumbosacral region"
+DRG24304,M47818,"Spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region"
+DRG24304,M47819,"Spondylosis without myelopathy or radiculopathy, site unspecified"
+DRG24304,M47891,"Other spondylosis, occipito-atlanto-axial region"
+DRG24304,M47892,"Other spondylosis, cervical region"
+DRG24304,M47893,"Other spondylosis, cervicothoracic region"
+DRG24304,M47894,"Other spondylosis, thoracic region"
+DRG24304,M47895,"Other spondylosis, thoracolumbar region"
+DRG24304,M47896,"Other spondylosis, lumbar region"
+DRG24304,M47897,"Other spondylosis, lumbosacral region"
+DRG24304,M47898,"Other spondylosis, sacral and sacrococcygeal region"
+DRG24304,M47899,"Other spondylosis, site unspecified"
+DRG24304,M479,"Spondylosis, unspecified"
+DRG24304,M4800,"Spinal stenosis, site unspecified"
+DRG24304,M4801,"Spinal stenosis, occipito-atlanto-axial region"
+DRG24304,M4802,"Spinal stenosis, cervical region"
+DRG24304,M4803,"Spinal stenosis, cervicothoracic region"
+DRG24304,M4804,"Spinal stenosis, thoracic region"
+DRG24304,M4805,"Spinal stenosis, thoracolumbar region"
+DRG24304,M4806,"Spinal stenosis, lumbar region"
+DRG24304,M4807,"Spinal stenosis, lumbosacral region"
+DRG24304,M4808,"Spinal stenosis, sacral and sacrococcygeal region"
+DRG24304,M4810,"Ankylosing hyperostosis [Forestier], site unspecified"
+DRG24304,M4811,"Ankylosing hyperostosis [Forestier], occipito-atlanto-axial region"
+DRG24304,M4812,"Ankylosing hyperostosis [Forestier], cervical region"
+DRG24304,M4813,"Ankylosing hyperostosis [Forestier], cervicothoracic region"
+DRG24304,M4814,"Ankylosing hyperostosis [Forestier], thoracic region"
+DRG24304,M4815,"Ankylosing hyperostosis [Forestier], thoracolumbar region"
+DRG24304,M4816,"Ankylosing hyperostosis [Forestier], lumbar region"
+DRG24304,M4817,"Ankylosing hyperostosis [Forestier], lumbosacral region"
+DRG24304,M4818,"Ankylosing hyperostosis [Forestier], sacral and sacrococcygeal region"
+DRG24304,M4819,"Ankylosing hyperostosis [Forestier], multiple sites in spine"
+DRG24304,M4820,"Kissing spine, site unspecified"
+DRG24304,M4821,"Kissing spine, occipito-atlanto-axial region"
+DRG24304,M4822,"Kissing spine, cervical region"
+DRG24304,M4823,"Kissing spine, cervicothoracic region"
+DRG24304,M4824,"Kissing spine, thoracic region"
+DRG24304,M4825,"Kissing spine, thoracolumbar region"
+DRG24304,M4826,"Kissing spine, lumbar region"
+DRG24304,M4827,"Kissing spine, lumbosacral region"
+DRG24304,M9920,Subluxation stenosis of neural canal of head region
+DRG24304,M9921,Subluxation stenosis of neural canal of cervical region
+DRG24304,M9922,Subluxation stenosis of neural canal of thoracic region
+DRG24304,M9923,Subluxation stenosis of neural canal of lumbar region
+DRG24304,M9924,Subluxation stenosis of neural canal of sacral region
+DRG24304,M9925,Subluxation stenosis of neural canal of pelvic region
+DRG24304,M9926,Subluxation stenosis of neural canal of lower extremity
+DRG24304,M9927,Subluxation stenosis of neural canal of upper extremity
+DRG24304,M9928,Subluxation stenosis of neural canal of rib cage
+DRG24304,M9929,Subluxation stenosis of neural canal of abdomen and other regions
+DRG24304,M9930,Osseous stenosis of neural canal of head region
+DRG24304,M9931,Osseous stenosis of neural canal of cervical region
+DRG24304,M9932,Osseous stenosis of neural canal of thoracic region
+DRG24304,M9933,Osseous stenosis of neural canal of lumbar region
+DRG24304,M9934,Osseous stenosis of neural canal of sacral region
+DRG24304,M9935,Osseous stenosis of neural canal of pelvic region
+DRG24304,M9936,Osseous stenosis of neural canal of lower extremity
+DRG24304,M9937,Osseous stenosis of neural canal of upper extremity
+DRG24304,M9938,Osseous stenosis of neural canal of rib cage
+DRG24304,M9939,Osseous stenosis of neural canal of abdomen and other regions
+DRG24304,M9940,Connective tissue stenosis of neural canal of head region
+DRG24304,M9941,Connective tissue stenosis of neural canal of cervical region
+DRG24304,M9942,Connective tissue stenosis of neural canal of thoracic region
+DRG24304,M9943,Connective tissue stenosis of neural canal of lumbar region
+DRG24304,M9944,Connective tissue stenosis of neural canal of sacral region
+DRG24304,M9945,Connective tissue stenosis of neural canal of pelvic region
+DRG24304,M9946,Connective tissue stenosis of neural canal of lower extremity
+DRG24304,M9947,Connective tissue stenosis of neural canal of upper extremity
+DRG24304,M9948,Connective tissue stenosis of neural canal of rib cage
+DRG24304,M9949,Connective tissue stenosis of neural canal of abdomen and other regions
+DRG24304,M9950,Intervertebral disc stenosis of neural canal of head region
+DRG24304,M9951,Intervertebral disc stenosis of neural canal of cervical region
+DRG24304,M9952,Intervertebral disc stenosis of neural canal of thoracic region
+DRG24304,M9953,Intervertebral disc stenosis of neural canal of lumbar region
+DRG24304,M9954,Intervertebral disc stenosis of neural canal of sacral region
+DRG24304,M9955,Intervertebral disc stenosis of neural canal of pelvic region
+DRG24304,M9956,Intervertebral disc stenosis of neural canal of lower extremity
+DRG24304,M9957,Intervertebral disc stenosis of neural canal of upper extremity
+DRG24304,M9958,Intervertebral disc stenosis of neural canal of rib cage
+DRG24304,M9959,Intervertebral disc stenosis of neural canal of abdomen and other regions
+DRG24304,M9960,Osseous and subluxation stenosis of intervertebral foramina of head region
+DRG24304,M9961,Osseous and subluxation stenosis of intervertebral foramina of cervical region
+DRG24304,M9962,Osseous and subluxation stenosis of intervertebral foramina of thoracic region
+DRG24304,M9963,Osseous and subluxation stenosis of intervertebral foramina of lumbar region
+DRG24304,M9964,Osseous and subluxation stenosis of intervertebral foramina of sacral region
+DRG24304,M9965,Osseous and subluxation stenosis of intervertebral foramina of pelvic region
+DRG24304,M9966,Osseous and subluxation stenosis of intervertebral foramina of lower extremity
+DRG24304,M9967,Osseous and subluxation stenosis of intervertebral foramina of upper extremity
+DRG24304,M9968,Osseous and subluxation stenosis of intervertebral foramina of rib cage
+DRG24304,M9969,Osseous and subluxation stenosis of intervertebral foramina of abdomen and other regions
+DRG24304,M9970,Connective tissue and disc stenosis of intervertebral foramina of head region
+DRG24304,M9971,Connective tissue and disc stenosis of intervertebral foramina of cervical region
+DRG24304,M9972,Connective tissue and disc stenosis of intervertebral foramina of thoracic region
+DRG24304,M9973,Connective tissue and disc stenosis of intervertebral foramina of lumbar region
+DRG24304,M9974,Connective tissue and disc stenosis of intervertebral foramina of sacral region
+DRG24304,M9975,Connective tissue and disc stenosis of intervertebral foramina of pelvic region
+DRG24304,M9976,Connective tissue and disc stenosis of intervertebral foramina of lower extremity
+DRG24304,M9977,Connective tissue and disc stenosis of intervertebral foramina of upper extremity
+DRG24304,M9978,Connective tissue and disc stenosis of intervertebral foramina of rib cage
+DRG24304,M9979,Connective tissue and disc stenosis of intervertebral foramina of abdomen and other regions
+DRG24304,Q762,Congenital spondylolisthesis

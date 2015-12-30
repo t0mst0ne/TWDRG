@@ -1,0 +1,115 @@
+DRG,CM-PCS,en
+DRG00463,E0781,Sick-euthyroid syndrome
+DRG00463,E790,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease
+DRG00463,G8911,Acute pain due to trauma
+DRG00463,G8912,Acute post-thoracotomy pain
+DRG00463,G8918,Other acute postprocedural pain
+DRG00463,G893,Neoplasm related pain (acute) (chronic)
+DRG00463,G933,Postviral fatigue syndrome
+DRG00463,P09,Abnormal findings on neonatal screening
+DRG00463,R188,Other ascites
+DRG00463,R230,Cyanosis
+DRG00463,R231,Pallor
+DRG00463,R232,Flushing
+DRG00463,R410,"Disorientation, unspecified"
+DRG00463,R411,Anterograde amnesia
+DRG00463,R412,Retrograde amnesia
+DRG00463,R413,Other amnesia
+DRG00463,R4182,"Altered mental status, unspecified"
+DRG00463,R4189,Other symptoms and signs involving cognitive functions and awareness
+DRG00463,R419,Unspecified symptoms and signs involving cognitive functions and awareness
+DRG00463,R4583,"Excessive crying of child, adolescent or adult"
+DRG00463,R4584,Anhedonia
+DRG00463,R52,"Pain, unspecified"
+DRG00463,R530,Neoplastic (malignant) related fatigue
+DRG00463,R531,Weakness
+DRG00463,R5381,Other malaise
+DRG00463,R5382,"Chronic fatigue, unspecified"
+DRG00463,R5383,Other fatigue
+DRG00463,R600,Localized edema
+DRG00463,R601,Generalized edema
+DRG00463,R609,"Edema, unspecified"
+DRG00463,R64,Cachexia
+DRG00463,R680,"Hypothermia, not associated with low environmental temperature"
+DRG00463,R6811,Excessive crying of infant (baby)
+DRG00463,R6812,Fussy infant (baby)
+DRG00463,R6881,Early satiety
+DRG00463,R6883,Chills (without fever)
+DRG00463,R6889,Other general symptoms and signs
+DRG00463,R700,Elevated erythrocyte sedimentation rate
+DRG00463,R701,Abnormal plasma viscosity
+DRG00463,R740,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]
+DRG00463,R748,Abnormal levels of other serum enzymes
+DRG00463,R749,"Abnormal serum enzyme level, unspecified"
+DRG00463,R770,Abnormality of albumin
+DRG00463,R771,Abnormality of globulin
+DRG00463,R772,Abnormality of alphafetoprotein
+DRG00463,R778,Other specified abnormalities of plasma proteins
+DRG00463,R779,"Abnormality of plasma protein, unspecified"
+DRG00463,R781,Finding of opiate drug in blood
+DRG00463,R782,Finding of cocaine in blood
+DRG00463,R783,Finding of hallucinogen in blood
+DRG00463,R784,Finding of other drugs of addictive potential in blood
+DRG00463,R785,Finding of other psychotropic drug in blood
+DRG00463,R786,Finding of steroid agent in blood
+DRG00463,R7871,Abnormal lead level in blood
+DRG00463,R7879,Finding of abnormal level of heavy metals in blood
+DRG00463,R7889,"Finding of other specified substances, not normally found in blood"
+DRG00463,R789,"Finding of unspecified substance, not normally found in blood"
+DRG00463,R790,Abnormal level of blood mineral
+DRG00463,R791,Abnormal coagulation profile
+DRG00463,R7981,Abnormal blood-gas level
+DRG00463,R7982,Elevated C-reactive protein (CRP)
+DRG00463,R7989,Other specified abnormal findings of blood chemistry
+DRG00463,R799,"Abnormal finding of blood chemistry, unspecified"
+DRG00463,R821,Myoglobinuria
+DRG00463,R840,Abnormal level of enzymes in specimens from respiratory organs and thorax
+DRG00463,R841,Abnormal level of hormones in specimens from respiratory organs and thorax
+DRG00463,R842,"Abnormal level of other drugs, medicaments and biological substances in specimens from respiratory organs and thorax"
+DRG00463,R843,Abnormal level of substances chiefly nonmedicinal as to source in specimens from respiratory organs and thorax
+DRG00463,R844,Abnormal immunological findings in specimens from respiratory organs and thorax
+DRG00463,R845,Abnormal microbiological findings in specimens from respiratory organs and thorax
+DRG00463,R846,Abnormal cytological findings in specimens from respiratory organs and thorax
+DRG00463,R847,Abnormal histological findings in specimens from respiratory organs and thorax
+DRG00463,R848,Other abnormal findings in specimens from respiratory organs and thorax
+DRG00463,R849,Unspecified abnormal finding in specimens from respiratory organs and thorax
+DRG00463,R850,Abnormal level of enzymes in specimens from digestive organs and abdominal cavity
+DRG00463,R851,Abnormal level of hormones in specimens from digestive organs and abdominal cavity
+DRG00463,R852,"Abnormal level of other drugs, medicaments and biological substances in specimens from digestive organs and abdominal cavity"
+DRG00463,R853,Abnormal level of substances chiefly nonmedicinal as to source in specimens from digestive organs and abdominal cavity
+DRG00463,R854,Abnormal immunological findings in specimens from digestive organs and abdominal cavity
+DRG00463,R855,Abnormal microbiological findings in specimens from digestive organs and abdominal cavity
+DRG00463,R8569,Abnormal cytological findings in specimens from other digestive organs and abdominal cavity
+DRG00463,R857,Abnormal histological findings in specimens from digestive organs and abdominal cavity
+DRG00463,R8589,Other abnormal findings in specimens from digestive organs and abdominal cavity
+DRG00463,R859,Unspecified abnormal finding in specimens from digestive organs and abdominal cavity
+DRG00463,R870,Abnormal level of enzymes in specimens from female genital organs
+DRG00463,R871,Abnormal level of hormones in specimens from female genital organs
+DRG00463,R872,"Abnormal level of other drugs, medicaments and biological substances in specimens from female genital organs"
+DRG00463,R873,Abnormal level of substances chiefly nonmedicinal as to source in specimens from female genital organs
+DRG00463,R874,Abnormal immunological findings in specimens from female genital organs
+DRG00463,R875,Abnormal microbiological findings in specimens from female genital organs
+DRG00463,R87618,Other abnormal cytological findings on specimens from cervix uteri
+DRG00463,R87619,Unspecified abnormal cytological findings in specimens from cervix uteri
+DRG00463,R87629,Unspecified abnormal cytological findings in specimens from vagina
+DRG00463,R8769,Abnormal cytological findings in specimens from other female genital organs
+DRG00463,R877,Abnormal histological findings in specimens from female genital organs
+DRG00463,R8789,Other abnormal findings in specimens from female genital organs
+DRG00463,R879,Unspecified abnormal finding in specimens from female genital organs
+DRG00463,R880,Cloudy (hemodialysis) (peritoneal) dialysis effluent
+DRG00463,R888,Abnormal findings in other body fluids and substances
+DRG00463,R890,"Abnormal level of enzymes in specimens from other organs, systems and tissues"
+DRG00463,R891,"Abnormal level of hormones in specimens from other organs, systems and tissues"
+DRG00463,R892,"Abnormal level of other drugs, medicaments and biological substances in specimens from other organs, systems and tissues"
+DRG00463,R893,"Abnormal level of substances chiefly nonmedicinal as to source in specimens from other organs, systems and tissues"
+DRG00463,R894,"Abnormal immunological findings in specimens from other organs, systems and tissues"
+DRG00463,R895,"Abnormal microbiological findings in specimens from other organs, systems and tissues"
+DRG00463,R896,"Abnormal cytological findings in specimens from other organs, systems and tissues"
+DRG00463,R897,"Abnormal histological findings in specimens from other organs, systems and tissues"
+DRG00463,R898,"Other abnormal findings in specimens from other organs, systems and tissues"
+DRG00463,R9089,Other abnormal findings on diagnostic imaging of central nervous system
+DRG00463,R939,Diagnostic imaging inconclusive due to excess body fat of patient
+DRG00463,R970,Elevated carcinoembryonic antigen [CEA]
+DRG00463,R971,Elevated cancer antigen 125 [CA 125]
+DRG00463,R972,Elevated prostate specific antigen [PSA]
+DRG00463,R978,Other abnormal tumor markers

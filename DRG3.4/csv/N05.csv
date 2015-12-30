@@ -1,1 +1,13 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/N05.csv
+DRG,CM-PCS,en
+N05,P0504,"Newborn light for gestational age, 1000-1249 grams"
+N05,P0505,"Newborn light for gestational age, 1250-1499 grams"
+N05,P0514,"Newborn small for gestational age, 1000-1249 grams"
+N05,P0515,"Newborn small for gestational age, 1250-1499 grams"
+N05,P0714,"Other low birth weight newborn, 1000-1249 grams"
+N05,P0715,"Other low birth weight newborn, 1250-1499 grams"
+N05,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure"
+N05,5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure"
+N05,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure"
+N05,5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours"
+N05,5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours"
+N05,5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours"

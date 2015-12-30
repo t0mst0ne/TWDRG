@@ -1,0 +1,35 @@
+DRG,CM-PCS,en
+DRG08902,B330,Epidemic myalgia
+DRG08902,J09X1,Influenza due to identified novel influenza A virus with pneumonia
+DRG08902,J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia
+DRG08902,J1008,Influenza due to other identified influenza virus with other specified pneumonia
+DRG08902,J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia
+DRG08902,J1108,Influenza due to unidentified influenza virus with specified pneumonia
+DRG08902,J120,Adenoviral pneumonia
+DRG08902,J121,Respiratory syncytial virus pneumonia
+DRG08902,J122,Parainfluenza virus pneumonia
+DRG08902,J123,Human metapneumovirus pneumonia
+DRG08902,J1281,Pneumonia due to SARS-associated coronavirus
+DRG08902,J1289,Other viral pneumonia
+DRG08902,J129,"Viral pneumonia, unspecified"
+DRG08902,J13,Pneumonia due to Streptococcus pneumoniae
+DRG08902,J14,Pneumonia due to Hemophilus influenzae
+DRG08902,J153,"Pneumonia due to streptococcus, group B"
+DRG08902,J15212,Pneumonia due to Methicillin resistant Staphylococcus aureus
+DRG08902,J154,Pneumonia due to other streptococci
+DRG08902,J157,Pneumonia due to Mycoplasma pneumoniae
+DRG08902,J159,Unspecified bacterial pneumonia
+DRG08902,J160,Chlamydial pneumonia
+DRG08902,J168,Pneumonia due to other specified infectious organisms
+DRG08902,J180,"Bronchopneumonia, unspecified organism"
+DRG08902,J181,"Lobar pneumonia, unspecified organism"
+DRG08902,J188,"Other pneumonia, unspecified organism"
+DRG08902,J189,"Pneumonia, unspecified organism"
+DRG08902,J84116,Cryptogenic organizing pneumonia
+DRG08902,J869,Pyothorax without fistula
+DRG08902,J920,Pleural plaque with presence of asbestos
+DRG08902,J929,Pleural plaque without asbestos
+DRG08902,J941,Fibrothorax
+DRG08902,J948,Other specified pleural conditions
+DRG08902,J949,"Pleural condition, unspecified"
+DRG08902,R091,Pleurisy

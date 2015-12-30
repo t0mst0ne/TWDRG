@@ -1,1 +1,219 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00069.csv
+DRG,CM-PCS,en
+DRG00069,A545,Gonococcal pharyngitis
+DRG00069,A564,Chlamydial infection of pharynx
+DRG00069,A690,Necrotizing ulcerative stomatitis
+DRG00069,A691,Other Vincent's infections
+DRG00069,B053,Measles complicated by otitis media
+DRG00069,B085,Enteroviral vesicular pharyngitis
+DRG00069,H61001,Unspecified perichondritis of right external ear
+DRG00069,H61002,Unspecified perichondritis of left external ear
+DRG00069,H61003,"Unspecified perichondritis of external ear, bilateral"
+DRG00069,H61009,"Unspecified perichondritis of external ear, unspecified ear"
+DRG00069,H6500,"Acute serous otitis media, unspecified ear"
+DRG00069,H6501,"Acute serous otitis media, right ear"
+DRG00069,H6502,"Acute serous otitis media, left ear"
+DRG00069,H6503,"Acute serous otitis media, bilateral"
+DRG00069,H6504,"Acute serous otitis media, recurrent, right ear"
+DRG00069,H6505,"Acute serous otitis media, recurrent, left ear"
+DRG00069,H6506,"Acute serous otitis media, recurrent, bilateral"
+DRG00069,H6507,"Acute serous otitis media, recurrent, unspecified ear"
+DRG00069,H65111,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), right ear"
+DRG00069,H65112,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), left ear"
+DRG00069,H65113,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), bilateral"
+DRG00069,H65114,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, right ear"
+DRG00069,H65115,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, left ear"
+DRG00069,H65116,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, bilateral"
+DRG00069,H65117,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, unspecified ear"
+DRG00069,H65119,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), unspecified ear"
+DRG00069,H65191,"Other acute nonsuppurative otitis media, right ear"
+DRG00069,H65192,"Other acute nonsuppurative otitis media, left ear"
+DRG00069,H65193,"Other acute nonsuppurative otitis media, bilateral"
+DRG00069,H65194,"Other acute nonsuppurative otitis media, recurrent, right ear"
+DRG00069,H65195,"Other acute nonsuppurative otitis media, recurrent, left ear"
+DRG00069,H65196,"Other acute nonsuppurative otitis media, recurrent, bilateral"
+DRG00069,H65197,"Other acute nonsuppurative otitis media recurrent, unspecified ear"
+DRG00069,H65199,"Other acute nonsuppurative otitis media, unspecified ear"
+DRG00069,H6520,"Chronic serous otitis media, unspecified ear"
+DRG00069,H6521,"Chronic serous otitis media, right ear"
+DRG00069,H6522,"Chronic serous otitis media, left ear"
+DRG00069,H6523,"Chronic serous otitis media, bilateral"
+DRG00069,H6530,"Chronic mucoid otitis media, unspecified ear"
+DRG00069,H6531,"Chronic mucoid otitis media, right ear"
+DRG00069,H6532,"Chronic mucoid otitis media, left ear"
+DRG00069,H6533,"Chronic mucoid otitis media, bilateral"
+DRG00069,H65411,"Chronic allergic otitis media, right ear"
+DRG00069,H65412,"Chronic allergic otitis media, left ear"
+DRG00069,H65413,"Chronic allergic otitis media, bilateral"
+DRG00069,H65419,"Chronic allergic otitis media, unspecified ear"
+DRG00069,H65491,"Other chronic nonsuppurative otitis media, right ear"
+DRG00069,H65492,"Other chronic nonsuppurative otitis media, left ear"
+DRG00069,H65493,"Other chronic nonsuppurative otitis media, bilateral"
+DRG00069,H65499,"Other chronic nonsuppurative otitis media, unspecified ear"
+DRG00069,H6590,"Unspecified nonsuppurative otitis media, unspecified ear"
+DRG00069,H6591,"Unspecified nonsuppurative otitis media, right ear"
+DRG00069,H6592,"Unspecified nonsuppurative otitis media, left ear"
+DRG00069,H6593,"Unspecified nonsuppurative otitis media, bilateral"
+DRG00069,H66001,"Acute suppurative otitis media without spontaneous rupture of ear drum, right ear"
+DRG00069,H66002,"Acute suppurative otitis media without spontaneous rupture of ear drum, left ear"
+DRG00069,H66003,"Acute suppurative otitis media without spontaneous rupture of ear drum, bilateral"
+DRG00069,H66004,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, right ear"
+DRG00069,H66005,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, left ear"
+DRG00069,H66006,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, bilateral"
+DRG00069,H66007,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, unspecified ear"
+DRG00069,H66009,"Acute suppurative otitis media without spontaneous rupture of ear drum, unspecified ear"
+DRG00069,H66011,"Acute suppurative otitis media with spontaneous rupture of ear drum, right ear"
+DRG00069,H66012,"Acute suppurative otitis media with spontaneous rupture of ear drum, left ear"
+DRG00069,H66013,"Acute suppurative otitis media with spontaneous rupture of ear drum, bilateral"
+DRG00069,H66014,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, right ear"
+DRG00069,H66015,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, left ear"
+DRG00069,H66016,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, bilateral"
+DRG00069,H66017,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, unspecified ear"
+DRG00069,H66019,"Acute suppurative otitis media with spontaneous rupture of ear drum, unspecified ear"
+DRG00069,H6610,"Chronic tubotympanic suppurative otitis media, unspecified"
+DRG00069,H6611,"Chronic tubotympanic suppurative otitis media, right ear"
+DRG00069,H6612,"Chronic tubotympanic suppurative otitis media, left ear"
+DRG00069,H6613,"Chronic tubotympanic suppurative otitis media, bilateral"
+DRG00069,H6620,"Chronic atticoantral suppurative otitis media, unspecified ear"
+DRG00069,H6621,"Chronic atticoantral suppurative otitis media, right ear"
+DRG00069,H6622,"Chronic atticoantral suppurative otitis media, left ear"
+DRG00069,H6623,"Chronic atticoantral suppurative otitis media, bilateral"
+DRG00069,H663X1,"Other chronic suppurative otitis media, right ear"
+DRG00069,H663X2,"Other chronic suppurative otitis media, left ear"
+DRG00069,H663X3,"Other chronic suppurative otitis media, bilateral"
+DRG00069,H663X9,"Other chronic suppurative otitis media, unspecified ear"
+DRG00069,H6640,"Suppurative otitis media, unspecified, unspecified ear"
+DRG00069,H6641,"Suppurative otitis media, unspecified, right ear"
+DRG00069,H6642,"Suppurative otitis media, unspecified, left ear"
+DRG00069,H6643,"Suppurative otitis media, unspecified, bilateral"
+DRG00069,H6690,"Otitis media, unspecified, unspecified ear"
+DRG00069,H6691,"Otitis media, unspecified, right ear"
+DRG00069,H6692,"Otitis media, unspecified, left ear"
+DRG00069,H6693,"Otitis media, unspecified, bilateral"
+DRG00069,H68001,"Unspecified Eustachian salpingitis, right ear"
+DRG00069,H68002,"Unspecified Eustachian salpingitis, left ear"
+DRG00069,H68003,"Unspecified Eustachian salpingitis, bilateral"
+DRG00069,H68009,"Unspecified Eustachian salpingitis, unspecified ear"
+DRG00069,H68011,"Acute Eustachian salpingitis, right ear"
+DRG00069,H68012,"Acute Eustachian salpingitis, left ear"
+DRG00069,H68013,"Acute Eustachian salpingitis, bilateral"
+DRG00069,H68019,"Acute Eustachian salpingitis, unspecified ear"
+DRG00069,H68021,"Chronic Eustachian salpingitis, right ear"
+DRG00069,H68022,"Chronic Eustachian salpingitis, left ear"
+DRG00069,H68023,"Chronic Eustachian salpingitis, bilateral"
+DRG00069,H68029,"Chronic Eustachian salpingitis, unspecified ear"
+DRG00069,H70001,"Acute mastoiditis without complications, right ear"
+DRG00069,H70002,"Acute mastoiditis without complications, left ear"
+DRG00069,H70003,"Acute mastoiditis without complications, bilateral"
+DRG00069,H70009,"Acute mastoiditis without complications, unspecified ear"
+DRG00069,H70011,"Subperiosteal abscess of mastoid, right ear"
+DRG00069,H70012,"Subperiosteal abscess of mastoid, left ear"
+DRG00069,H70013,"Subperiosteal abscess of mastoid, bilateral"
+DRG00069,H70019,"Subperiosteal abscess of mastoid, unspecified ear"
+DRG00069,H70091,"Acute mastoiditis with other complications, right ear"
+DRG00069,H70092,"Acute mastoiditis with other complications, left ear"
+DRG00069,H70093,"Acute mastoiditis with other complications, bilateral"
+DRG00069,H70099,"Acute mastoiditis with other complications, unspecified ear"
+DRG00069,H7010,"Chronic mastoiditis, unspecified ear"
+DRG00069,H7011,"Chronic mastoiditis, right ear"
+DRG00069,H7012,"Chronic mastoiditis, left ear"
+DRG00069,H7013,"Chronic mastoiditis, bilateral"
+DRG00069,H70201,"Unspecified petrositis, right ear"
+DRG00069,H70202,"Unspecified petrositis, left ear"
+DRG00069,H70203,"Unspecified petrositis, bilateral"
+DRG00069,H70209,"Unspecified petrositis, unspecified ear"
+DRG00069,H70211,"Acute petrositis, right ear"
+DRG00069,H70212,"Acute petrositis, left ear"
+DRG00069,H70213,"Acute petrositis, bilateral"
+DRG00069,H70219,"Acute petrositis, unspecified ear"
+DRG00069,H70221,"Chronic petrositis, right ear"
+DRG00069,H70222,"Chronic petrositis, left ear"
+DRG00069,H70223,"Chronic petrositis, bilateral"
+DRG00069,H70229,"Chronic petrositis, unspecified ear"
+DRG00069,H7090,"Unspecified mastoiditis, unspecified ear"
+DRG00069,H7091,"Unspecified mastoiditis, right ear"
+DRG00069,H7092,"Unspecified mastoiditis, left ear"
+DRG00069,H7093,"Unspecified mastoiditis, bilateral"
+DRG00069,H73001,"Acute myringitis, right ear"
+DRG00069,H73002,"Acute myringitis, left ear"
+DRG00069,H73003,"Acute myringitis, bilateral"
+DRG00069,H73009,"Acute myringitis, unspecified ear"
+DRG00069,H73011,"Bullous myringitis, right ear"
+DRG00069,H73012,"Bullous myringitis, left ear"
+DRG00069,H73013,"Bullous myringitis, bilateral"
+DRG00069,H73019,"Bullous myringitis, unspecified ear"
+DRG00069,H73091,"Other acute myringitis, right ear"
+DRG00069,H73092,"Other acute myringitis, left ear"
+DRG00069,H73093,"Other acute myringitis, bilateral"
+DRG00069,H73099,"Other acute myringitis, unspecified ear"
+DRG00069,H7310,"Chronic myringitis, unspecified ear"
+DRG00069,H7311,"Chronic myringitis, right ear"
+DRG00069,H7312,"Chronic myringitis, left ear"
+DRG00069,H7313,"Chronic myringitis, bilateral"
+DRG00069,H7320,"Unspecified myringitis, unspecified ear"
+DRG00069,H7321,"Unspecified myringitis, right ear"
+DRG00069,H7322,"Unspecified myringitis, left ear"
+DRG00069,H7323,"Unspecified myringitis, bilateral"
+DRG00069,J00,Acute nasopharyngitis [common cold]
+DRG00069,J0100,"Acute maxillary sinusitis, unspecified"
+DRG00069,J0101,Acute recurrent maxillary sinusitis
+DRG00069,J0110,"Acute frontal sinusitis, unspecified"
+DRG00069,J0111,Acute recurrent frontal sinusitis
+DRG00069,J0120,"Acute ethmoidal sinusitis, unspecified"
+DRG00069,J0121,Acute recurrent ethmoidal sinusitis
+DRG00069,J0130,"Acute sphenoidal sinusitis, unspecified"
+DRG00069,J0131,Acute recurrent sphenoidal sinusitis
+DRG00069,J0140,"Acute pansinusitis, unspecified"
+DRG00069,J0141,Acute recurrent pansinusitis
+DRG00069,J0180,Other acute sinusitis
+DRG00069,J0181,Other acute recurrent sinusitis
+DRG00069,J0190,"Acute sinusitis, unspecified"
+DRG00069,J0191,"Acute recurrent sinusitis, unspecified"
+DRG00069,J020,Streptococcal pharyngitis
+DRG00069,J028,Acute pharyngitis due to other specified organisms
+DRG00069,J029,"Acute pharyngitis, unspecified"
+DRG00069,J0300,"Acute streptococcal tonsillitis, unspecified"
+DRG00069,J0301,Acute recurrent streptococcal tonsillitis
+DRG00069,J0380,Acute tonsillitis due to other specified organisms
+DRG00069,J0381,Acute recurrent tonsillitis due to other specified organisms
+DRG00069,J0390,"Acute tonsillitis, unspecified"
+DRG00069,J0391,"Acute recurrent tonsillitis, unspecified"
+DRG00069,J040,Acute laryngitis
+DRG00069,J0430,"Supraglottitis, unspecified, without obstruction"
+DRG00069,J0431,"Supraglottitis, unspecified, with obstruction"
+DRG00069,J060,Acute laryngopharyngitis
+DRG00069,J069,"Acute upper respiratory infection, unspecified"
+DRG00069,J09X2,Influenza due to identified novel influenza A virus with other respiratory manifestations
+DRG00069,J1001,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia
+DRG00069,J101,Influenza due to other identified influenza virus with other respiratory manifestations
+DRG00069,J111,Influenza due to unidentified influenza virus with other respiratory manifestations
+DRG00069,J300,Vasomotor rhinitis
+DRG00069,J301,Allergic rhinitis due to pollen
+DRG00069,J302,Other seasonal allergic rhinitis
+DRG00069,J305,Allergic rhinitis due to food
+DRG00069,J3081,Allergic rhinitis due to animal (cat) (dog) hair and dander
+DRG00069,J3089,Other allergic rhinitis
+DRG00069,J309,"Allergic rhinitis, unspecified"
+DRG00069,J310,Chronic rhinitis
+DRG00069,J311,Chronic nasopharyngitis
+DRG00069,J312,Chronic pharyngitis
+DRG00069,J320,Chronic maxillary sinusitis
+DRG00069,J321,Chronic frontal sinusitis
+DRG00069,J322,Chronic ethmoidal sinusitis
+DRG00069,J323,Chronic sphenoidal sinusitis
+DRG00069,J324,Chronic pansinusitis
+DRG00069,J328,Other chronic sinusitis
+DRG00069,J329,"Chronic sinusitis, unspecified"
+DRG00069,J3501,Chronic tonsillitis
+DRG00069,J3502,Chronic adenoiditis
+DRG00069,J3503,Chronic tonsillitis and adenoiditis
+DRG00069,J36,Peritonsillar abscess
+DRG00069,J370,Chronic laryngitis
+DRG00069,J371,Chronic laryngotracheitis
+DRG00069,J387,Other diseases of larynx
+DRG00069,J390,Retropharyngeal and parapharyngeal abscess
+DRG00069,J391,Other abscess of pharynx
+DRG00069,J393,"Upper respiratory tract hypersensitivity reaction, site unspecified"
+DRG00069,J399,"Disease of upper respiratory tract, unspecified"
+DRG00069,R0982,Postnasal drip
+DRG00069,T700XXA,"Otitic barotrauma, initial encounter"
+DRG00069,T701XXA,"Sinus barotrauma, initial encounter"

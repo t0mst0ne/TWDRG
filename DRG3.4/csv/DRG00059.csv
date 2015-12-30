@@ -1,1 +1,5 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00059.csv
+DRG,CM-PCS,en
+DRG00059,0CTP0ZZ,"Resection of Tonsils, Open Approach"
+DRG00059,0CTPXZZ,"Resection of Tonsils, External Approach"
+DRG00059,0CTQ0ZZ,"Resection of Adenoids, Open Approach"
+DRG00059,0CTQXZZ,"Resection of Adenoids, External Approach"

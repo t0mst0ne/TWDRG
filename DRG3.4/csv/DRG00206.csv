@@ -1,1 +1,104 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00206.csv
+DRG,CM-PCS,en
+DRG00206,A064,Amebic liver abscess
+DRG00206,A5145,Secondary syphilitic hepatitis
+DRG00206,A5274,Syphilis of liver and other viscera
+DRG00206,B150,Hepatitis A with hepatic coma
+DRG00206,B159,Hepatitis A without hepatic coma
+DRG00206,B160,Acute hepatitis B with delta-agent with hepatic coma
+DRG00206,B161,Acute hepatitis B with delta-agent without hepatic coma
+DRG00206,B162,Acute hepatitis B without delta-agent with hepatic coma
+DRG00206,B169,Acute hepatitis B without delta-agent and without hepatic coma
+DRG00206,B170,Acute delta-(super) infection of hepatitis B carrier
+DRG00206,B1710,Acute hepatitis C without hepatic coma
+DRG00206,B1711,Acute hepatitis C with hepatic coma
+DRG00206,B172,Acute hepatitis E
+DRG00206,B178,Other specified acute viral hepatitis
+DRG00206,B179,"Acute viral hepatitis, unspecified"
+DRG00206,B180,Chronic viral hepatitis B with delta-agent
+DRG00206,B181,Chronic viral hepatitis B without delta-agent
+DRG00206,B182,Chronic viral hepatitis C
+DRG00206,B188,Other chronic viral hepatitis
+DRG00206,B189,"Chronic viral hepatitis, unspecified"
+DRG00206,B190,Unspecified viral hepatitis with hepatic coma
+DRG00206,B1910,Unspecified viral hepatitis B without hepatic coma
+DRG00206,B1911,Unspecified viral hepatitis B with hepatic coma
+DRG00206,B1920,Unspecified viral hepatitis C without hepatic coma
+DRG00206,B1921,Unspecified viral hepatitis C with hepatic coma
+DRG00206,B199,Unspecified viral hepatitis without hepatic coma
+DRG00206,B251,Cytomegaloviral hepatitis
+DRG00206,B2681,Mumps hepatitis
+DRG00206,B581,Toxoplasma hepatitis
+DRG00206,B651,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis]
+DRG00206,B660,Opisthorchiasis
+DRG00206,B661,Clonorchiasis
+DRG00206,B663,Fascioliasis
+DRG00206,B665,Fasciolopsiasis
+DRG00206,B670,Echinococcus granulosus infection of liver
+DRG00206,B675,Echinococcus multilocularis infection of liver
+DRG00206,B678,"Echinococcosis, unspecified, of liver"
+DRG00206,D134,Benign neoplasm of liver
+DRG00206,D135,Benign neoplasm of extrahepatic bile ducts
+DRG00206,E804,Gilbert syndrome
+DRG00206,E805,Crigler-Najjar syndrome
+DRG00206,E806,Other disorders of bilirubin metabolism
+DRG00206,E807,"Disorder of bilirubin metabolism, unspecified"
+DRG00206,I81,Portal vein thrombosis
+DRG00206,I820,Budd-Chiari syndrome
+DRG00206,K700,Alcoholic fatty liver
+DRG00206,K710,Toxic liver disease with cholestasis
+DRG00206,K7110,"Toxic liver disease with hepatic necrosis, without coma"
+DRG00206,K7111,"Toxic liver disease with hepatic necrosis, with coma"
+DRG00206,K712,Toxic liver disease with acute hepatitis
+DRG00206,K713,Toxic liver disease with chronic persistent hepatitis
+DRG00206,K714,Toxic liver disease with chronic lobular hepatitis
+DRG00206,K7150,Toxic liver disease with chronic active hepatitis without ascites
+DRG00206,K7151,Toxic liver disease with chronic active hepatitis with ascites
+DRG00206,K716,"Toxic liver disease with hepatitis, not elsewhere classified"
+DRG00206,K717,Toxic liver disease with fibrosis and cirrhosis of liver
+DRG00206,K718,Toxic liver disease with other disorders of liver
+DRG00206,K719,"Toxic liver disease, unspecified"
+DRG00206,K7200,Acute and subacute hepatic failure without coma
+DRG00206,K7201,Acute and subacute hepatic failure with coma
+DRG00206,K7210,Chronic hepatic failure without coma
+DRG00206,K7211,Chronic hepatic failure with coma
+DRG00206,K7290,"Hepatic failure, unspecified without coma"
+DRG00206,K7291,"Hepatic failure, unspecified with coma"
+DRG00206,K730,"Chronic persistent hepatitis, not elsewhere classified"
+DRG00206,K731,"Chronic lobular hepatitis, not elsewhere classified"
+DRG00206,K732,"Chronic active hepatitis, not elsewhere classified"
+DRG00206,K738,"Other chronic hepatitis, not elsewhere classified"
+DRG00206,K739,"Chronic hepatitis, unspecified"
+DRG00206,K750,Abscess of liver
+DRG00206,K751,Phlebitis of portal vein
+DRG00206,K752,Nonspecific reactive hepatitis
+DRG00206,K753,"Granulomatous hepatitis, not elsewhere classified"
+DRG00206,K754,Autoimmune hepatitis
+DRG00206,K7581,Nonalcoholic steatohepatitis (NASH)
+DRG00206,K7589,Other specified inflammatory liver diseases
+DRG00206,K759,"Inflammatory liver disease, unspecified"
+DRG00206,K760,"Fatty (change of) liver, not elsewhere classified"
+DRG00206,K761,Chronic passive congestion of liver
+DRG00206,K762,Central hemorrhagic necrosis of liver
+DRG00206,K763,Infarction of liver
+DRG00206,K764,Peliosis hepatis
+DRG00206,K765,Hepatic veno-occlusive disease
+DRG00206,K766,Portal hypertension
+DRG00206,K767,Hepatorenal syndrome
+DRG00206,K7689,Other specified diseases of liver
+DRG00206,K769,"Liver disease, unspecified"
+DRG00206,Q440,"Agenesis, aplasia and hypoplasia of gallbladder"
+DRG00206,Q444,Choledochal cyst
+DRG00206,Q446,Cystic disease of liver
+DRG00206,R160,"Hepatomegaly, not elsewhere classified"
+DRG00206,R162,"Hepatomegaly with splenomegaly, not elsewhere classified"
+DRG00206,R17,Unspecified jaundice
+DRG00206,R822,Biliuria
+DRG00206,R945,Abnormal results of liver function studies
+DRG00206,S36112A,"Contusion of liver, initial encounter"
+DRG00206,S36113A,"Laceration of liver, unspecified degree, initial encounter"
+DRG00206,S36114A,"Minor laceration of liver, initial encounter"
+DRG00206,S36115A,"Moderate laceration of liver, initial encounter"
+DRG00206,S36116A,"Major laceration of liver, initial encounter"
+DRG00206,S36118A,"Other injury of liver, initial encounter"
+DRG00206,S36119A,"Unspecified injury of liver, initial encounter"
+DRG00206,Z526,Liver donor

@@ -1,0 +1,302 @@
+DRG,CM-PCS,en
+DRG10701,0211093,"Bypass Coronary Artery, Two Sites from Coronary Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,0211098,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,0211099,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,021109C,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021109F,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021109W,"Bypass Coronary Artery, Two Sites from Aorta with Autologous Venous Tissue, Open Approach"
+DRG10701,02110A3,"Bypass Coronary Artery, Two Sites from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02110A8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02110A9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02110AC,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02110AF,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02110AW,"Bypass Coronary Artery, Two Sites from Aorta with Autologous Arterial Tissue, Open Approach"
+DRG10701,02110J3,"Bypass Coronary Artery, Two Sites from Coronary Artery with Synthetic Substitute, Open Approach"
+DRG10701,02110J8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02110J9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02110JC,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Synthetic Substitute, Open Approach"
+DRG10701,02110JF,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Synthetic Substitute, Open Approach"
+DRG10701,02110JW,"Bypass Coronary Artery, Two Sites from Aorta with Synthetic Substitute, Open Approach"
+DRG10701,02110K3,"Bypass Coronary Artery, Two Sites from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02110K8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02110K9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02110KC,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02110KF,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02110KW,"Bypass Coronary Artery, Two Sites from Aorta with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02110Z3,"Bypass Coronary Artery, Two Sites from Coronary Artery, Open Approach"
+DRG10701,02110Z8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary, Open Approach"
+DRG10701,02110Z9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary, Open Approach"
+DRG10701,02110ZC,"Bypass Coronary Artery, Two Sites from Thoracic Artery, Open Approach"
+DRG10701,02110ZF,"Bypass Coronary Artery, Two Sites from Abdominal Artery, Open Approach"
+DRG10701,0211493,"Bypass Coronary Artery, Two Sites from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0211498,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0211499,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021149C,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021149F,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021149W,"Bypass Coronary Artery, Two Sites from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114A3,"Bypass Coronary Artery, Two Sites from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114A8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114A9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114AC,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114AF,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114AW,"Bypass Coronary Artery, Two Sites from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02114J3,"Bypass Coronary Artery, Two Sites from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114J8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114J9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114JC,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114JF,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114JW,"Bypass Coronary Artery, Two Sites from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114K3,"Bypass Coronary Artery, Two Sites from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114K8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114K9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114KC,"Bypass Coronary Artery, Two Sites from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114KF,"Bypass Coronary Artery, Two Sites from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114KW,"Bypass Coronary Artery, Two Sites from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02114Z3,"Bypass Coronary Artery, Two Sites from Coronary Artery, Percutaneous Endoscopic Approach"
+DRG10701,02114Z8,"Bypass Coronary Artery, Two Sites from Right Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02114Z9,"Bypass Coronary Artery, Two Sites from Left Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02114ZC,"Bypass Coronary Artery, Two Sites from Thoracic Artery, Percutaneous Endoscopic Approach"
+DRG10701,02114ZF,"Bypass Coronary Artery, Two Sites from Abdominal Artery, Percutaneous Endoscopic Approach"
+DRG10701,0212093,"Bypass Coronary Artery, Three Sites from Coronary Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,0212098,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,0212099,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,021209C,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021209F,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021209W,"Bypass Coronary Artery, Three Sites from Aorta with Autologous Venous Tissue, Open Approach"
+DRG10701,02120A3,"Bypass Coronary Artery, Three Sites from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02120A8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02120A9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02120AC,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02120AF,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02120AW,"Bypass Coronary Artery, Three Sites from Aorta with Autologous Arterial Tissue, Open Approach"
+DRG10701,02120J3,"Bypass Coronary Artery, Three Sites from Coronary Artery with Synthetic Substitute, Open Approach"
+DRG10701,02120J8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02120J9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02120JC,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Synthetic Substitute, Open Approach"
+DRG10701,02120JF,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Synthetic Substitute, Open Approach"
+DRG10701,02120JW,"Bypass Coronary Artery, Three Sites from Aorta with Synthetic Substitute, Open Approach"
+DRG10701,02120K3,"Bypass Coronary Artery, Three Sites from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02120K8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02120K9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02120KC,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02120KF,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02120KW,"Bypass Coronary Artery, Three Sites from Aorta with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02120Z3,"Bypass Coronary Artery, Three Sites from Coronary Artery, Open Approach"
+DRG10701,02120Z8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary, Open Approach"
+DRG10701,02120Z9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary, Open Approach"
+DRG10701,02120ZC,"Bypass Coronary Artery, Three Sites from Thoracic Artery, Open Approach"
+DRG10701,02120ZF,"Bypass Coronary Artery, Three Sites from Abdominal Artery, Open Approach"
+DRG10701,0212493,"Bypass Coronary Artery, Three Sites from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0212498,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0212499,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021249C,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021249F,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021249W,"Bypass Coronary Artery, Three Sites from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124A3,"Bypass Coronary Artery, Three Sites from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124A8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124A9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124AC,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124AF,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124AW,"Bypass Coronary Artery, Three Sites from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02124J3,"Bypass Coronary Artery, Three Sites from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124J8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124J9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124JC,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124JF,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124JW,"Bypass Coronary Artery, Three Sites from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124K3,"Bypass Coronary Artery, Three Sites from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124K8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124K9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124KC,"Bypass Coronary Artery, Three Sites from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124KF,"Bypass Coronary Artery, Three Sites from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124KW,"Bypass Coronary Artery, Three Sites from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02124Z3,"Bypass Coronary Artery, Three Sites from Coronary Artery, Percutaneous Endoscopic Approach"
+DRG10701,02124Z8,"Bypass Coronary Artery, Three Sites from Right Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02124Z9,"Bypass Coronary Artery, Three Sites from Left Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02124ZC,"Bypass Coronary Artery, Three Sites from Thoracic Artery, Percutaneous Endoscopic Approach"
+DRG10701,02124ZF,"Bypass Coronary Artery, Three Sites from Abdominal Artery, Percutaneous Endoscopic Approach"
+DRG10701,0213093,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,0213098,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,0213099,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,021309C,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021309F,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021309W,"Bypass Coronary Artery, Four or More Sites from Aorta with Autologous Venous Tissue, Open Approach"
+DRG10701,02130A3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02130A8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02130A9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02130AC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02130AF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02130AW,"Bypass Coronary Artery, Four or More Sites from Aorta with Autologous Arterial Tissue, Open Approach"
+DRG10701,02130J3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Synthetic Substitute, Open Approach"
+DRG10701,02130J8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02130J9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02130JC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Synthetic Substitute, Open Approach"
+DRG10701,02130JF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Synthetic Substitute, Open Approach"
+DRG10701,02130JW,"Bypass Coronary Artery, Four or More Sites from Aorta with Synthetic Substitute, Open Approach"
+DRG10701,02130K3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02130K8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02130K9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02130KC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02130KF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02130KW,"Bypass Coronary Artery, Four or More Sites from Aorta with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02130Z3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery, Open Approach"
+DRG10701,02130Z8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary, Open Approach"
+DRG10701,02130Z9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary, Open Approach"
+DRG10701,02130ZC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery, Open Approach"
+DRG10701,02130ZF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery, Open Approach"
+DRG10701,0213493,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0213498,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0213499,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021349C,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021349F,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021349W,"Bypass Coronary Artery, Four or More Sites from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134A3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134A8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134A9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134AC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134AF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134AW,"Bypass Coronary Artery, Four or More Sites from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02134J3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134J8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134J9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134JC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134JF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134JW,"Bypass Coronary Artery, Four or More Sites from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134K3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134K8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134K9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134KC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134KF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134KW,"Bypass Coronary Artery, Four or More Sites from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02134Z3,"Bypass Coronary Artery, Four or More Sites from Coronary Artery, Percutaneous Endoscopic Approach"
+DRG10701,02134Z8,"Bypass Coronary Artery, Four or More Sites from Right Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02134Z9,"Bypass Coronary Artery, Four or More Sites from Left Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02134ZC,"Bypass Coronary Artery, Four or More Sites from Thoracic Artery, Percutaneous Endoscopic Approach"
+DRG10701,02134ZF,"Bypass Coronary Artery, Four or More Sites from Abdominal Artery, Percutaneous Endoscopic Approach"
+DRG10701,0210093,"Bypass Coronary Artery, One Site from Coronary Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,0210098,"Bypass Coronary Artery, One Site from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,0210099,"Bypass Coronary Artery, One Site from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+DRG10701,021009C,"Bypass Coronary Artery, One Site from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021009F,"Bypass Coronary Artery, One Site from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+DRG10701,021009W,"Bypass Coronary Artery, One Site from Aorta with Autologous Venous Tissue, Open Approach"
+DRG10701,02100A3,"Bypass Coronary Artery, One Site from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02100A8,"Bypass Coronary Artery, One Site from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02100A9,"Bypass Coronary Artery, One Site from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+DRG10701,02100AC,"Bypass Coronary Artery, One Site from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02100AF,"Bypass Coronary Artery, One Site from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+DRG10701,02100AW,"Bypass Coronary Artery, One Site from Aorta with Autologous Arterial Tissue, Open Approach"
+DRG10701,02100J3,"Bypass Coronary Artery, One Site from Coronary Artery with Synthetic Substitute, Open Approach"
+DRG10701,02100J8,"Bypass Coronary Artery, One Site from Right Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02100J9,"Bypass Coronary Artery, One Site from Left Internal Mammary with Synthetic Substitute, Open Approach"
+DRG10701,02100JC,"Bypass Coronary Artery, One Site from Thoracic Artery with Synthetic Substitute, Open Approach"
+DRG10701,02100JF,"Bypass Coronary Artery, One Site from Abdominal Artery with Synthetic Substitute, Open Approach"
+DRG10701,02100JW,"Bypass Coronary Artery, One Site from Aorta with Synthetic Substitute, Open Approach"
+DRG10701,02100K3,"Bypass Coronary Artery, One Site from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02100K8,"Bypass Coronary Artery, One Site from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02100K9,"Bypass Coronary Artery, One Site from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02100KC,"Bypass Coronary Artery, One Site from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02100KF,"Bypass Coronary Artery, One Site from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02100KW,"Bypass Coronary Artery, One Site from Aorta with Nonautologous Tissue Substitute, Open Approach"
+DRG10701,02100Z3,"Bypass Coronary Artery, One Site from Coronary Artery, Open Approach"
+DRG10701,02100Z8,"Bypass Coronary Artery, One Site from Right Internal Mammary, Open Approach"
+DRG10701,02100Z9,"Bypass Coronary Artery, One Site from Left Internal Mammary, Open Approach"
+DRG10701,02100ZC,"Bypass Coronary Artery, One Site from Thoracic Artery, Open Approach"
+DRG10701,02100ZF,"Bypass Coronary Artery, One Site from Abdominal Artery, Open Approach"
+DRG10701,0210493,"Bypass Coronary Artery, One Site from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0210498,"Bypass Coronary Artery, One Site from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,0210499,"Bypass Coronary Artery, One Site from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021049C,"Bypass Coronary Artery, One Site from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021049F,"Bypass Coronary Artery, One Site from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,021049W,"Bypass Coronary Artery, One Site from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104A3,"Bypass Coronary Artery, One Site from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104A8,"Bypass Coronary Artery, One Site from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104A9,"Bypass Coronary Artery, One Site from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104AC,"Bypass Coronary Artery, One Site from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104AF,"Bypass Coronary Artery, One Site from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104AW,"Bypass Coronary Artery, One Site from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+DRG10701,02104J3,"Bypass Coronary Artery, One Site from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104J8,"Bypass Coronary Artery, One Site from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104J9,"Bypass Coronary Artery, One Site from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104JC,"Bypass Coronary Artery, One Site from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104JF,"Bypass Coronary Artery, One Site from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104JW,"Bypass Coronary Artery, One Site from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104K3,"Bypass Coronary Artery, One Site from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104K8,"Bypass Coronary Artery, One Site from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104K9,"Bypass Coronary Artery, One Site from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104KC,"Bypass Coronary Artery, One Site from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104KF,"Bypass Coronary Artery, One Site from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104KW,"Bypass Coronary Artery, One Site from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+DRG10701,02104Z3,"Bypass Coronary Artery, One Site from Coronary Artery, Percutaneous Endoscopic Approach"
+DRG10701,02104Z8,"Bypass Coronary Artery, One Site from Right Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02104Z9,"Bypass Coronary Artery, One Site from Left Internal Mammary, Percutaneous Endoscopic Approach"
+DRG10701,02104ZC,"Bypass Coronary Artery, One Site from Thoracic Artery, Percutaneous Endoscopic Approach"
+DRG10701,02104ZF,"Bypass Coronary Artery, One Site from Abdominal Artery, Percutaneous Endoscopic Approach"
+DRG10701,4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach"
+DRG10701,4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach"
+DRG10701,4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach"
+DRG10701,4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach"
+DRG10701,4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach"
+DRG10701,4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach"
+DRG10701,4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach"
+DRG10701,4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach"
+DRG10701,4A02XFZ,"Measurement of Cardiac Rhythm, External Approach"
+DRG10701,B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast
+DRG10701,B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast
+DRG10701,B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast
+DRG10701,B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast
+DRG10701,B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast
+DRG10701,B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast
+DRG10701,B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+DRG10701,B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+DRG10701,B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast
+DRG10701,B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+DRG10701,B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+DRG10701,B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast
+DRG10701,B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast
+DRG10701,B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast
+DRG10701,B204YZZ,Plain Radiography of Right Heart using Other Contrast
+DRG10701,B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast
+DRG10701,B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast
+DRG10701,B205YZZ,Plain Radiography of Left Heart using Other Contrast
+DRG10701,B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast
+DRG10701,B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast
+DRG10701,B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast
+DRG10701,B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10701,B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10701,B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast
+DRG10701,B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10701,B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10701,B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast
+DRG10701,B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast
+DRG10701,B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast
+DRG10701,B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast
+DRG10701,B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast
+DRG10701,B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast
+DRG10701,B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast
+DRG10701,B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast
+DRG10701,B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast
+DRG10701,B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast
+DRG10701,B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast
+DRG10701,B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast
+DRG10701,B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast
+DRG10701,B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast
+DRG10701,B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast
+DRG10701,B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast
+DRG10701,B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast
+DRG10701,B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast
+DRG10701,B214YZZ,Fluoroscopy of Right Heart using Other Contrast
+DRG10701,B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast
+DRG10701,B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast
+DRG10701,B215YZZ,Fluoroscopy of Left Heart using Other Contrast
+DRG10701,B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast
+DRG10701,B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast
+DRG10701,B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast
+DRG10701,B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10701,B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10701,B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast
+DRG10701,B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast
+DRG10701,B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast
+DRG10701,B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast
+DRG10701,B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast
+DRG10701,B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast
+DRG10701,B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast

@@ -1,1 +1,5 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG00126.csv
+DRG,CM-PCS,en
+DRG00126,A3951,Meningococcal endocarditis
+DRG00126,B376,Candidal endocarditis
+DRG00126,I330,Acute and subacute infective endocarditis
+DRG00126,I339,"Acute and subacute endocarditis, unspecified"

@@ -1,1 +1,39 @@
-/Users/tom/Dropbox/Python/ICD10/DRG3.4/DRG39802.csv
+DRG,CM-PCS,en
+DRG39802,D150,Benign neoplasm of thymus
+DRG39802,D181,"Lymphangioma, any site"
+DRG39802,D360,Benign neoplasm of lymph nodes
+DRG39802,D3A091,Benign carcinoid tumor of the thymus
+DRG39802,D472,Monoclonal gammopathy
+DRG39802,D700,Congenital agranulocytosis
+DRG39802,D701,Agranulocytosis secondary to cancer chemotherapy
+DRG39802,D702,Other drug-induced agranulocytosis
+DRG39802,D703,Neutropenia due to infection
+DRG39802,D704,Cyclic neutropenia
+DRG39802,D708,Other neutropenia
+DRG39802,D709,"Neutropenia, unspecified"
+DRG39802,D71,Functional disorders of polymorphonuclear neutrophils
+DRG39802,D720,Genetic anomalies of leukocytes
+DRG39802,D721,Eosinophilia
+DRG39802,D72810,Lymphocytopenia
+DRG39802,D72819,"Decreased white blood cell count, unspecified"
+DRG39802,D72820,Lymphocytosis (symptomatic)
+DRG39802,D72821,Monocytosis (symptomatic)
+DRG39802,D72822,Plasmacytosis
+DRG39802,D72823,Leukemoid reaction
+DRG39802,D72824,Basophilia
+DRG39802,D72825,Bandemia
+DRG39802,D72828,Other elevated white blood cell count
+DRG39802,D72829,"Elevated white blood cell count, unspecified"
+DRG39802,D7289,Other specified disorders of white blood cells
+DRG39802,D729,"Disorder of white blood cells, unspecified"
+DRG39802,D7381,Neutropenic splenomegaly
+DRG39802,D751,Secondary polycythemia
+DRG39802,D761,Hemophagocytic lymphohistiocytosis
+DRG39802,D762,"Hemophagocytic syndrome, infection-associated"
+DRG39802,D763,Other histiocytosis syndromes
+DRG39802,D890,Polyclonal hypergammaglobulinemia
+DRG39802,D892,"Hypergammaglobulinemia, unspecified"
+DRG39802,E320,Persistent hyperplasia of thymus
+DRG39802,E321,Abscess of thymus
+DRG39802,E328,Other diseases of thymus
+DRG39802,E329,"Disease of thymus, unspecified"
