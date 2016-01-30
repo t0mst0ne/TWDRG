@@ -39,6 +39,7 @@ DRG46703,R6819,Other nonspecific symptoms peculiar to infancy
 DRG46703,R6882,Decreased libido
 DRG46703,R69,"Illness, unspecified"
 DRG46703,R99,Ill-defined and unknown cause of mortality
+DRG46703,Z005,Encounter for examination of potential donor of organ and tissue
 DRG46703,Z006,Encounter for examination for normal comparison and control in clinical research program
 DRG46703,Z0100,Encounter for examination of eyes and vision without abnormal findings
 DRG46703,Z0101,Encounter for examination of eyes and vision with abnormal findings

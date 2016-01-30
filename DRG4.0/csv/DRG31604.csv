@@ -13,3 +13,6 @@ DRG31604,N189,"Chronic kidney disease, unspecified"
 DRG31604,N19,Unspecified kidney failure
 DRG31604,R34,Anuria and oliguria
 DRG31604,T795XXA,"Traumatic anuria, initial encounter"
+DRG31604,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+DRG31604,I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+DRG31604,N184,"Chronic kidney disease, stage 4 (severe)"

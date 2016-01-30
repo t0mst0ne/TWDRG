@@ -110,6 +110,6 @@ DRG01426,I670,"Dissection of cerebral arteries, nonruptured"
 DRG01426,I671,"Cerebral aneurysm, nonruptured"
 DRG01426,I6789,Other cerebrovascular disease
 DRG01426,R4701,Aphasia
-DRG01426,I600004,Modified ranking scale 4
-DRG01426,I600003,Modified ranking scale 3
-DRG01426,I600002,Modified ranking scale 2
+DRG01426,I600004,Modified Rankin Scale 4
+DRG01426,I600003,Modified Rankin Scale 3
+DRG01426,I600002,Modified Rankin Scale 2

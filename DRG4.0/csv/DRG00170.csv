@@ -4066,6 +4066,8 @@ DRG00170,0W3N4ZZ,"Control Bleeding in Female Perineum, Percutaneous Endoscopic A
 DRG00170,0W3P0ZZ,"Control Bleeding in Gastrointestinal Tract, Open Approach"
 DRG00170,0W3P3ZZ,"Control Bleeding in Gastrointestinal Tract, Percutaneous Approach"
 DRG00170,0W3P4ZZ,"Control Bleeding in Gastrointestinal Tract, Percutaneous Endoscopic Approach"
+DRG00170,0W3P7ZZ,"Control Bleeding in Gastrointestinal Tract, Via Natural or Artificial Opening"
+DRG00170,0W3P8ZZ,"Control Bleeding in Gastrointestinal Tract, Via Natural or Artificial Opening Endoscopic"
 DRG00170,0W3Q3ZZ,"Control Bleeding in Respiratory Tract, Percutaneous Approach"
 DRG00170,0W3Q4ZZ,"Control Bleeding in Respiratory Tract, Percutaneous Endoscopic Approach"
 DRG00170,0W3Q7ZZ,"Control Bleeding in Respiratory Tract, Via Natural or Artificial Opening"

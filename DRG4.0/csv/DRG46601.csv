@@ -7743,6 +7743,7 @@ DRG46601,T886XXD,"Anaphylactic reaction due to adverse effect of correct drug or
 DRG46601,T887XXD,"Unspecified adverse effect of drug or medicament, subsequent encounter"
 DRG46601,T888XXD,"Other specified complications of surgical and medical care, not elsewhere classified, subsequent encounter"
 DRG46601,T889XXD,"Complication of surgical and medical care, unspecified, subsequent encounter"
+DRG46601,Z09,Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm
 DRG46601,Z451,Encounter for adjustment and management of infusion pump
 DRG46601,Z452,Encounter for adjustment and management of vascular access device
 DRG46601,Z4682,Encounter for fitting and adjustment of non-vascular catheter

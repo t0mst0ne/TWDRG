@@ -34,9 +34,3 @@ DRG01401,I6202,Nontraumatic subacute subdural hemorrhage
 DRG01401,I6203,Nontraumatic chronic subdural hemorrhage
 DRG01401,I621,Nontraumatic extradural hemorrhage
 DRG01401,I629,"Nontraumatic intracranial hemorrhage, unspecified"
-DRG01401,I600000,Modified ranking scale 0
-DRG01401,I600001,Modified ranking scale 1
-DRG01401,I600002,Modified ranking scale 2
-DRG01401,I600003,Modified ranking scale 3
-DRG01401,I600004,Modified ranking scale 4
-DRG01401,I600005,Modified ranking scale 5

@@ -110,5 +110,5 @@ DRG01429,I670,"Dissection of cerebral arteries, nonruptured"
 DRG01429,I671,"Cerebral aneurysm, nonruptured"
 DRG01429,I6789,Other cerebrovascular disease
 DRG01429,R4701,Aphasia
-DRG01429,I600000,Modified ranking scale 0
-DRG01429,I600001,Modified ranking scale 1
+DRG01429,I600000,Modified Rankin Scale 0
+DRG01429,I600001,Modified Rankin Scale 1

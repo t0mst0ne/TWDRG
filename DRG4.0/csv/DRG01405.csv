@@ -47,9 +47,3 @@ DRG01405,I639,"Cerebral infarction, unspecified"
 DRG01405,I670,"Dissection of cerebral arteries, nonruptured"
 DRG01405,I671,"Cerebral aneurysm, nonruptured"
 DRG01405,I6789,Other cerebrovascular disease
-DRG01405,I600000,Modified ranking scale 0
-DRG01405,I600001,Modified ranking scale 1
-DRG01405,I600002,Modified ranking scale 2
-DRG01405,I600003,Modified ranking scale 3
-DRG01405,I600004,Modified ranking scale 4
-DRG01405,I600005,Modified ranking scale 5

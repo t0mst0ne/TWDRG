@@ -110,9 +110,9 @@ DRG01423,I670,"Dissection of cerebral arteries, nonruptured"
 DRG01423,I671,"Cerebral aneurysm, nonruptured"
 DRG01423,I6789,Other cerebrovascular disease
 DRG01423,R4701,Aphasia
-DRG01423,I600004,Modified ranking scale 4
-DRG01423,I600003,Modified ranking scale 3
-DRG01423,I600002,Modified ranking scale 2
+DRG01423,I600004,Modified Rankin Scale 4
+DRG01423,I600003,Modified Rankin Scale 3
+DRG01423,I600002,Modified Rankin Scale 2
 DRG01423,F000001,Physical Therapy
 DRG01423,F000002,Occupational Therapy
 DRG01423,F000003,Communication Therapy

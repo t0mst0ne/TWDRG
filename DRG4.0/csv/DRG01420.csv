@@ -110,7 +110,7 @@ DRG01420,I670,"Dissection of cerebral arteries, nonruptured"
 DRG01420,I671,"Cerebral aneurysm, nonruptured"
 DRG01420,I6789,Other cerebrovascular disease
 DRG01420,R4701,Aphasia
-DRG01420,I600005,Modified ranking scale 5
+DRG01420,I600005,Modified Rankin Scale 5
 DRG01420,F000001,Physical Therapy
 DRG01420,F000002,Occupational Therapy
 DRG01420,F000003,Communication Therapy
